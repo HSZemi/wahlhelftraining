@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<!-- Required meta tags always come first -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>wahlhelftraining</title>
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+	body{
+		box-sizing: border-box;
+	}
+	
+	body.yes{
+		background-color: green;
+	}
+	body.no{
+		background-color: blue;
+	}
+	
+	.table{
+		background-color: white;
+	}
+	
+	.card {
+		max-width: 8em;
+		float:left;
+		margin: 0.3em;
+	}
+	.zettel {
+		cursor: pointer;
+		width: 78px;
+		height: 115px;
+		float: left;
+		border: 1px solid #999;
+		background-color: #eee;
+		margin: 0.2em;
+		padding: 0.2em;
+	}
+	.zettel p{
+		margin-bottom: 0rem;
+		text-align: center;
+	}
+	
+	.zettel.active{
+		background-color: #fff;
+		border: 2px solid #e11;
+	}
+	
+	#data, #controls{
+		padding: 2em;
+	}
+	
+	#ausweisbild svg{
+		min-width: 80%;
+	}
+	</style>
+</head>
+<body class="yes">
+	<div class="container-fluid">
+	
+	<div class="row">
+	<div class="col-md-7">
+	<div id="data">
+	
+	<h1>Aktuelle Person</h1>
+	
+	<div class="row">
+	<div id="ausweisbild">
+	<img src="data/ausweis.png" style="width:100%;"/>
+	</div>
+	</div>
+	<div class="row">
+	
+	<table class="table  table-bordered">
+	<thead>
+	<tr>
+		<th>Lfd. Nr.</th>
+		<th>Matrikelnr.</th>
+		<th>Name</th>
+		<th>WB Gremien</th>
+		<th>WB SP</th>
+		<th>Mehrfachausweis / Briefwahl</th>
+	</tr>
+	</thead>
+	<tbody id="tablebody">
+	<tr>
+		<td>…</td>
+		<td>…</td>
+		<td>…</td>
+		<td>…</td>
+		<td>…</td>
+		<td>…</td>
+	</tr>
+	<tr>
+		<td>847</td>
+		<td>1234567</td>
+		<td>Hans Vielhuber</td>
+		<td>Nein</td>
+		<td></td>
+		<td>Briefwahl Gremien</td>
+	</tr>
+	<tr>
+		<td>…</td>
+		<td>…</td>
+		<td>…</td>
+		<td>…</td>
+		<td>…</td>
+		<td>…</td>
+	</tr>
+	</tbody>
+	</table>
+	
+	</div>
+	<div class="row">
+	<hr>
+	<button class="btn btn-primary" id="next">next</button>
+	</div>
+	</div>
+	</div>
+	
+	<div class="col-md-5">
+	<div id="controls">
+	<h1>Stimmzettel</h1>
+	<div class="row">
+	
+	<h4>Allgemein</h4>
+		<div class="zettel" id="sp">
+		<img src="data/sp.png">
+		<p class="cardtitle">SP</p>
+		</div>
+		
+		<div class="zettel" id="senat">
+		<img src="data/senat.png">
+		<p class="cardtitle">Senat</p>
+		</div>
+		
+		<div class="zettel" id="gb">
+		<img src="data/gb.png">
+		<p class="cardtitle">GB</p>
+		</div>
+	
+	</div>
+	<div class="row">
+	
+	<h4>Fakultätsräte/BZL-Vorstand</h4>
+	
+	
+		<div class="zettel" id="fak_kf">
+		<img src="data/4g.png">
+		<p class="cardtitle">KF</p>
+		
+		</div>
+		
+		<div class="zettel" id="fak_ef">
+		<img src="data/5g.png">
+		<p class="cardtitle">EF</p>
+		
+		</div>
+		
+		<div class="zettel" id="fak_rf_rw">
+		<img src="data/6g.png">
+		<p class="cardtitle">RF <small>RW</small></p>
+		
+		</div>
+		
+		<div class="zettel" id="fak_mf">
+		<img src="data/7g.png">
+		<p class="cardtitle">MF</p>
+		
+		</div>
+		
+		<div class="zettel" id="fak_pf">
+		<img src="data/8g.png">
+		<p class="cardtitle">PF</p>
+		
+		</div>
+		
+		<div class="zettel" id="fak_nmf">
+		<img src="data/1g.png">
+		<p class="cardtitle">MNF</p>
+		
+		</div>
+		
+		<div class="zettel" id="fak_lf">
+		<img src="data/2g.png">
+		<p class="cardtitle">LF</p>
+		
+		</div>
+		
+		<div class="zettel" id="v_bzl">
+		<img src="data/3g.png">
+		<p class="cardtitle">BZL</p>
+		
+		</div>
+		
+		<div class="zettel" id="fak_rf_ww">
+		<img src="data/rfww.png">
+		<p class="cardtitle">RF <small>WW</small></h4>
+		
+		</div>
+	
+	</div>
+	<div class="row">
+	
+	<h4>SHK</h4>
+	
+		<div class="zettel" id="shk_kf">
+		<img src="data/4k.png">
+		<p class="cardtitle">KF</p>
+		
+		</div>
+		
+		<div class="zettel" id="shk_ef">
+		<img src="data/5k.png">
+		<p class="cardtitle">EF</p>
+		
+		</div>
+		
+		<div class="zettel" id="shk_rf">
+		<img src="data/6k.png">
+		<p class="cardtitle">RF</p>
+		
+		</div>
+		
+		<div class="zettel" id="shk_mf">
+		<img src="data/7k.png">
+		<p class="cardtitle">MF</p>
+		
+		</div>
+		
+		<div class="zettel" id="shk_pf">
+		<img src="data/8k.png">
+		<p class="cardtitle">PF</p>
+		
+		</div>
+		
+		<div class="zettel" id="shk_shk">
+		<img src="data/1k.png">
+		<p class="cardtitle">MNF</p>
+		
+		</div>
+		
+		<div class="zettel" id="shk_lf">
+		<img src="data/2k.png">
+		<p class="cardtitle">LF</p>
+		
+		</div>
+		
+		<div class="zettel" id="shk_bzl">
+		<img src="data/3k.png">
+		<p class="cardtitle">BZL</p>
+		
+                </div>
+	</div>
+	</div>
+	</div>
+	
+	</div>
+	</div>
+	<script src='js/jquery-3.1.1.min.js'></script>
+	<script>
+	
+	var negativliste = [];
+	var ausfertigungen = {1:"", 2:"Zweitschrift", 3:"Drittschrift", 4:"Viertschrift", 5:"Fünftschrift"};
+	
+	$(function(){
+		$('.zettel').click(function(){
+			$(this).toggleClass('active');
+		});
+		
+		$('#next').click(function(){
+			loadRandomStud();
+			$('body').toggleClass('yes');
+			$('body').toggleClass('no');
+		});
+		
+		$.get("data/ausweis.svg", null, function(data){
+			$('#ausweisbild').html("");
+			$("svg", data).prependTo('#ausweisbild');
+		},'xml');
+		
+		$.getJSON( "py/json/negativliste.json", function( data ) {
+			negativliste = data;
+		});
+		
+	});
+	
+	function loadRandomStud(){
+		
+		var id = Math.floor(Math.random() * 1000);
+		
+		$('#ausweisbild').hide(200);
+		
+		$.getJSON( "py/json/"+id+".json", function( data ) {
+			$('#semester tspan').text(data['semester']+" *)");
+			$('#nachname tspan').text(data['stud']['nachname']);
+			$('#vorname tspan').text(data['stud']['vorname']);
+			$('#geburtsdatum tspan').text(data['stud']['geburtsdatum']);
+			$('#strassehausnummer tspan').text(data['stud']['strasse']);
+			$('#plzort tspan').text(data['stud']['plzort']);
+			$('#matrikelnummer tspan').text("0"+data['stud']['matrikelnummer']);
+			$('#matrikelnummer1 tspan').text(data['stud']['matrikelnummer']);
+			$('#ausweisnummer tspan').text(data['nummer']);
+			$('#gremienzahl tspan').text(data['stud']['fakultaet']);
+			$('#mehrfachausfertigung tspan').text(ausfertigungen[data['ausfertigung']]);
+			
+			if(data['stud']['weiblich']){
+				$('#ausweistyp tspan').text("Studentinnen-");
+			}else{
+				$('#ausweistyp tspan').text("Studenten-");
+			}
+			
+			if(data['loecher']['gremien']){
+				$('#loch_gremien').css("fill-opacity", "1");
+			}else{
+				$('#loch_gremien').css("fill-opacity", "0");
+			}
+			if(data['loecher']['sp']){
+				$('#loch_sp').css("fill-opacity", "1");
+			}else{
+				$('#loch_sp').css("fill-opacity", "0");
+			}
+			
+			for (i=1; i < 10; i++){
+				if(data['stud']['studienfaecher'].length < i){
+					$('#abschluss-'+i+' tspan').text('');
+					$('#fach-'+i+' tspan').text('');
+					$('#fsem-'+i+' tspan').text('');
+					$('#sternchen-'+i+' tspan').text('');
+				} else {
+					$('#abschluss-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['abschluss']);
+					$('#fach-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['fach']);
+					$('#fsem-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['fsem']);
+					
+					if(i-1 == data['stud']['sternchen']){
+						$('#sternchen-'+i+' tspan').text('*');
+					} else {
+						$('#sternchen-'+i+' tspan').text('');
+					}
+				}
+			}
+			
+			// negativliste
+			$('#tablebody').html("");
+			
+			var p0 = negativliste[0];
+			var p1 = negativliste[1];
+			var p2 = negativliste[2];
+			var i = 3;
+			while( i < negativliste.length && p1[2] < data['stud']['nachname']){
+				p0 = p1;
+				p1 = p2;
+				p2 = negativliste[i];
+				i++;
+			}
+			if(p1[2] == data['stud']['nachname']){
+				while( i < negativliste.length && p1[3] < data['stud']['vorname']){
+					p0 = p1;
+					p1 = p2;
+					p2 = negativliste[i];
+					i++;
+				}
+				if(p1[3] == data['stud']['vorname']){
+					while( i < negativliste.length && p1[1] < data['stud']['matrikelnummer']){
+						p0 = p1;
+						p1 = p2;
+						p2 = negativliste[i];
+						i++;
+					}
+				}
+			}
+			
+			$('#tablebody').append("<tr>\
+				<td>…</td>\
+				<td>…</td>\
+				<td>…</td>\
+				<td>…</td>\
+				<td>…</td>\
+				<td>…</td>\
+			</tr>");
+			
+			$('#tablebody').append("<tr>\
+				<td>"+p0[0]+"</td>\
+				<td>"+p0[1]+"</td>\
+				<td>"+p0[2]+" "+p0[3]+"</td>\
+				<td>"+p0[4]+"</td>\
+				<td>"+p0[5]+"</td>\
+				<td>"+p0[6]+"</td>\
+			</tr>");
+			
+			$('#tablebody').append("<tr>\
+				<td>"+p1[0]+"</td>\
+				<td>"+p1[1]+"</td>\
+				<td>"+p1[2]+" "+p1[3]+"</td>\
+				<td>"+p1[4]+"</td>\
+				<td>"+p1[5]+"</td>\
+				<td>"+p1[6]+"</td>\
+			</tr>");
+			
+			$('#tablebody').append("<tr>\
+				<td>"+p2[0]+"</td>\
+				<td>"+p2[1]+"</td>\
+				<td>"+p2[2]+" "+p2[3]+"</td>\
+				<td>"+p2[4]+"</td>\
+				<td>"+p2[5]+"</td>\
+				<td>"+p2[6]+"</td>\
+			</tr>");
+			
+			
+			
+			$('#tablebody').append("<tr>\
+				<td>…</td>\
+				<td>…</td>\
+				<td>…</td>\
+				<td>…</td>\
+				<td>…</td>\
+				<td>…</td>\
+			</tr>");
+			
+			
+		});
+		
+		$('#ausweisbild').show(200);
+	}
+	</script>
+</body>
+</html>
