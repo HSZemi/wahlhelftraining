@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2189559,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "fakultaet": 8,
-        "geburtsdatum": "12.04.1995",
-        "matrikelnummer": 2508932,
-        "mehrfachausfertigung": 2,
-        "nachname": "M\u00fchle",
-        "plzort": "53182 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "17.03.1988",
+        "matrikelnummer": 2721951,
+        "mehrfachausfertigung": 1,
+        "nachname": "Neumaier",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Johann Nepomuk-Fuchs-Gasse 2",
+        "strasse": "Bessemerstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Laila",
-        "weiblich": true
+        "vorname": "Hartwald",
+        "weiblich": false
     }
 }

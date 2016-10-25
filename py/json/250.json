@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1792139,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "24.09.1988",
-        "matrikelnummer": 2299397,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "26.02.1987",
+        "matrikelnummer": 2203412,
         "mehrfachausfertigung": 1,
-        "nachname": "Hubert",
-        "plzort": "53178 Bonn",
+        "nachname": "Flick",
+        "plzort": "55270 S\u00f6rgenloch",
         "sternchen": 0,
-        "strasse": "Bro\u00dfstra\u00dfe 2",
+        "strasse": "Eppendorfer Stieg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Frithjof",
+        "vorname": "Marold",
         "weiblich": false
     }
 }

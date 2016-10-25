@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2184939,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "08.02.1989",
-        "matrikelnummer": 2452728,
-        "mehrfachausfertigung": 1,
-        "nachname": "Hennemann",
-        "plzort": "53144 Bonn",
+        "geburtsdatum": "01.05.1997",
+        "matrikelnummer": 11261,
+        "mehrfachausfertigung": 3,
+        "nachname": "Weitz",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Neue Terrasse 3",
+        "strasse": "Hans-Otto-Weg 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Thielo",
+        "vorname": "Gundmar",
         "weiblich": false
     }
 }

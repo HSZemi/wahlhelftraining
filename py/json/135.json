@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2983393,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "23.09.1991",
-        "matrikelnummer": 2832698,
-        "mehrfachausfertigung": 1,
-        "nachname": "G\u00f6rg",
-        "plzort": "53197 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "22.09.1985",
+        "matrikelnummer": 2159021,
+        "mehrfachausfertigung": 2,
+        "nachname": "Krell",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Erich-Ollenhauer-Ring 0",
+        "strasse": "Otto-Mohr-Stra\u00dfe 7d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kornelia",
-        "weiblich": true
+        "vorname": "Wichard",
+        "weiblich": false
     }
 }

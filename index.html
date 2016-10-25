@@ -8,10 +8,12 @@
 	<title>wahlhelftraining</title>
 
 	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<!--<link rel="stylesheet" href="css/bootstrap.min.css">-->
+	<link rel="stylesheet" href="css/grid.css">
 	<style>
 	body{
 		box-sizing: border-box;
+		font-family: "Open Sans", sans-serif;
 	}
 	
 	body.yes{
@@ -23,6 +25,7 @@
 	
 	.table{
 		background-color: white;
+		min-width: 80%;
 	}
 	
 	.card {
@@ -30,51 +33,139 @@
 		float:left;
 		margin: 0.3em;
 	}
-	.zettel {
+	.zettel, .none {
 		cursor: pointer;
-		width: 78px;
-		height: 115px;
+		width: 70px;
+		height: 105px;
 		float: left;
-		border: 1px solid #999;
+		border: 2px solid #999;
 		background-color: #eee;
 		margin: 0.2em;
 		padding: 0.2em;
 	}
-	.zettel p{
-		margin-bottom: 0rem;
+	.separator {
+		width: 5px;
+		height: 105px;
+		float: left;
+		border: 2px solid #eee;
+		background-color: #eee;
+		margin: 0.2em;
+		padding: 0.2em;
+	}
+	.zettel p, .none p{
+		margin: 0rem;
 		text-align: center;
 	}
 	
-	.zettel.active{
+	.zettel.active,.none.active{
 		background-color: #fff;
 		border: 2px solid #e11;
+		font-weight: bold;
 	}
 	
 	#data, #controls{
-		padding: 2em;
+		padding-left: 1em;
+		padding-right: 1em;
 	}
 	
 	#ausweisbild svg{
-		min-width: 80%;
+		width: 100%;
+	}
+	.row{
+		overflow: hidden;
+	}
+	.row::after {
+		clear: both;
+		display: block;
+	}
+	table, th, td {
+		border: 1px solid black;
+	}
+	p, h1, h2, h3, h4, h5, h6{
+		margin-top: 0.3rem;
+		margin-bottom: 0.3rem;
+	}
+	
+	.btn {
+		padding: 1em;
+		border-radius: 0;
+		border: 1px solid #666;
+	}
+	
+	.btn-primary{
+		background-color: gray;
+		color: white;
+		font-weight: bold;
+		cursor:pointer;
+	}
+	.btn-secondary{
+		background-color: white;
+		color: black;
+		font-weight: bold;
+		cursor:pointer;
+	}
+	.btn-green{
+		background-color: green;
+		color: white;
+		font-weight: bold;
+	}
+	.btn-blue{
+		background-color: blue;
+		color: white;
+		font-weight: bold;
+	}
+	#check{
+		cursor: not-allowed;
+		-webkit-transition: all 0.5s ease;
+		-moz-transition: all 0.5s ease;
+		-o-transition: all 0.5s ease;
+		transition: all 0.5s ease;
+	}
+	
+	#check.highlight{
+		cursor: pointer;
+		background-color: cyan;
 	}
 	</style>
 </head>
-<body class="yes">
-	<div class="container-fluid">
+<body>
+
+	<audio id='sound_success'>
+		<source src="sound/success.mp3" type="audio/mpeg">
+	</audio>
+	<audio id='sound_error'>
+		<source src="sound/error.mp3" type="audio/mpeg">
+	</audio>
+	<div class="section group">
 	
 	<div class="row">
-	<div class="col-md-7">
+	<div class="col span_3_of_5">
+	
+	<div class="row" style="background-color:#eee; padding:0.5rem;">
+	<h1 style="float:left; color: #333;">WAHLHELFTRAINING</h1>
+	<div style="float:right;">
+	<button class="btn btn-green">Korrekt: <span id="korrekt">0</span></button>
+	<button class="btn btn-blue">Falsch: <span id="falsch">0</span></button>
+	<button class="btn btn-primary" id="next">Nächste Person</button>
+	<button class="btn btn-secondary" id="check">Antwort prüfen</button>
+	<button class="btn btn-secondary" id="help" title="Antwort verraten">?</button>
+	</div>
+	<div style="clear:both;"></div>
+	</div>
+	
 	<div id="data">
 	
 	<h1>Aktuelle Person</h1>
 	
 	<div class="row">
+	<h4>Studierendenausweis</h4>
 	<div id="ausweisbild">
 	<img src="data/ausweis.png" style="width:100%;"/>
 	</div>
 	</div>
 	<div class="row">
 	
+	<h4>Negativliste</h4>
 	<table class="table  table-bordered">
 	<thead>
 	<tr>
@@ -115,19 +206,24 @@
 	</table>
 	
 	</div>
-	<div class="row">
-	<hr>
-	<button class="btn btn-primary" id="next">next</button>
-	</div>
+	
 	</div>
 	</div>
 	
-	<div class="col-md-5">
+	<div class="col span_2_of_5">
 	<div id="controls">
 	<h1>Stimmzettel</h1>
-	<div class="row">
 	
-	<h4>Allgemein</h4>
+	
+	
+	<div class="row">
+		<div class="none" id="none">
+		<img src="data/none.png">
+		<p class="cardtitle">Nichts</p>
+		</div>
+		
+		<div class="separator"></div>
+		
 		<div class="zettel" id="sp">
 		<img src="data/sp.png">
 		<p class="cardtitle">SP</p>
@@ -179,7 +275,7 @@
 		
 		</div>
 		
-		<div class="zettel" id="fak_nmf">
+		<div class="zettel" id="fak_mnf">
 		<img src="data/1g.png">
 		<p class="cardtitle">MNF</p>
 		
@@ -238,7 +334,7 @@
 		
 		</div>
 		
-		<div class="zettel" id="shk_shk">
+		<div class="zettel" id="shk_mnf">
 		<img src="data/1k.png">
 		<p class="cardtitle">MNF</p>
 		
@@ -266,16 +362,68 @@
 	
 	var negativliste = [];
 	var ausfertigungen = {1:"", 2:"Zweitschrift", 3:"Drittschrift", 4:"Viertschrift", 5:"Fünftschrift"};
+	var fakrats = {1:"fak_kf",2:"fak_ef",3:"fak_rf_rw",4:"fak_mf",5:"fak_pf",6:"fak_mnf",7:"fak_lf",8:"v_bzl",9:"fak_rf_ww"}
+	var shks = {1:"shk_kf",2:"shk_ef",3:"shk_rf",4:"shk_mf",5:"shk_pf",6:"shk_mnf",7:"shk_lf",8:"shk_bzl",9:"shk_rf"}
+	var schriften = {1:"", 2:"Zweitschrift", 3:"Drittschrift", 4:"Viertschrift", 5:"Fünftschrift"}
+	var fullnames = {"sp":"Studierendenparlament","senat":"Senat","gb":"Wahlgremium zur Wahl der zentralen Gleichstellungsbeauftragten und ihrer Stellvertreterinnen","fak_kf":"Fakultätsrat der katholisch-theologischen Fakultät","fak_ef":"Fakultätsrat der evangelisch-theologischen Fakultät","fak_mf":"Fakultätsrat der medizinischen Fakultät","fak_rf_rw":"Fakultätsrat der rechts- und staatswissenschaftlichen Fakultät, Wahlkreis Rechtswissenschaft","fak_pf":"Fakultätsrat der philosophischen Fakultät","fak_mnf":"Fakultätsrat der mathematisch-naturwissenschaftlichen Fakultät","fak_lf":"Fakultätsrat der landwirtschaftlichen Fakultät","v_bzl":"Vorstand des Bonner Zentrums für Lehrerbildung","fak_rf_ww":"Fakultätsrat der rechts- und staatswissenschaftlichen Fakultät, Wahlkreis Wirtschaftswissenschaften","shk_kf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (katholisch-theologische Fakultät)","shk_ef":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (evangelisch-theologische Fakultät)","shk_mf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (medizinische Fakultät)","shk_rf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (rechts- und staatswissenschaftliche Fakultät)","shk_pf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (philosophische Fakultät)","shk_mnf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (mathematisch-naturwissenschaftliche Fakultät)","shk_lf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (landwirtschaftliche Fakultät)","shk_bzl":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (Bonner Zentrum für Lehrerbildung)"}
+	var current_data = null;
+	
+	var korrekt = 0;
+	var falsch = 0;
+	var gewertet = false;
 	
 	$(function(){
 		$('.zettel').click(function(){
 			$(this).toggleClass('active');
+			$('#none').removeClass('active');
+			highlightCheck();
+		});
+		
+		$('.none').click(function(){
+			$(this).toggleClass('active');
+			$('.zettel').removeClass('active');
+			highlightCheck();
 		});
 		
 		$('#next').click(function(){
+			$('.zettel').removeClass('active');
+			$('.none').removeClass('active');
+			$('#check').removeClass('highlight');
 			loadRandomStud();
-			$('body').toggleClass('yes');
-			$('body').toggleClass('no');
+			gewertet = false;
+		});
+		
+		$('#check').click(function(){
+			if($('#check').hasClass('highlight')){
+				if(check()){
+					$('body').addClass('yes');
+					setTimeout(function(){$('body').removeClass('yes')},1000);
+					if(!gewertet){
+						korrekt++;
+						gewertet = true;
+					}
+					document.getElementById('sound_success').play();
+				} else {
+					$('body').addClass('no');
+					setTimeout(function(){$('body').removeClass('no')},1000);
+					if(!gewertet){
+						falsch++;
+						gewertet = true;
+					}
+					document.getElementById('sound_error').play();
+				}
+				updateStats();
+			 }
+		});
+		$('#help').click(function(){
+			gewertet = true;
+			target_set = get_target_set();
+			
+			s = ""
+			for (gremium of target_set){
+				s += fullnames[gremium] + "\n";
+			}
+			alert(s);
 		});
 		
 		$.get("data/ausweis.svg", null, function(data){
@@ -285,17 +433,104 @@
 		
 		$.getJSON( "py/json/negativliste.json", function( data ) {
 			negativliste = data;
+			loadRandomStud();
 		});
+		
+		
 		
 	});
 	
+	function highlightCheck(){
+		if(!$('#check').hasClass('highlight')){
+			$('#check').addClass('highlight');
+		}
+	}
+	
+	function updateStats(){
+		$('#korrekt').text(korrekt);
+		$('#falsch').text(falsch);
+	}
+	
+	function get_target_set(){
+		target_set = new Set();
+		all_set = new Set(['sp','senat','gb','fak_kf','fak_ef','fak_rf_rw','fak_mf','fak_pf','fak_mnf','fak_lf','v_bzl','fak_rf_ww','shk_kf','shk_ef','shk_rf','shk_mf','shk_pf','shk_mnf','shk_lf','shk_bzl']);
+		
+		if(current_data['semester'] == "Wintersemester 2016/2017"){
+		
+			nl = get_negativliste();
+			
+			if((nl == null && current_data['ausfertigung'] == 1) || nl != null && nl[6] == schriften[current_data['ausfertigung']]){
+		
+				if(!current_data['loecher']['sp']){
+					if(nl == null || nl[5] == ""){
+						target_set.add("sp");
+					}
+				}
+				
+				if(!current_data['loecher']['gremien']){
+					if(nl == null || nl[4] == ""){
+					
+						target_set.add("senat");
+						
+						if(current_data['stud']['weiblich']){
+							target_set.add("gb")
+						}
+						
+						if(current_data['stud']['fakultaet'] > 0){
+							target_set.add(fakrats[current_data['stud']['fakultaet']])
+							target_set.add(shks[current_data['stud']['fakultaet']])
+						}
+						
+					}
+				}
+			}
+		
+		}
+		
+		return target_set;
+	}
+	
+	function check(){
+		target_set = get_target_set();
+		
+		
+		for (item of target_set){
+			all_set.delete(item);
+		}
+		
+		for (item of target_set){
+			if(!$('#'+item).hasClass('active')){
+				return false;
+			}
+		}
+		for (item of all_set){
+			if($('#'+item).hasClass('active')){
+				return false;
+			}
+		}
+		
+		return true;
+	}
+	
+	function get_negativliste(){
+		if(current_data != null){
+			for (var i = 0; i < negativliste.length; i++){
+				if(negativliste[i][1] == current_data['stud']['matrikelnummer']){
+					return negativliste[i];
+				}
+			}
+			return null;
+		}
+	}
+	
 	function loadRandomStud(){
 		
-		var id = Math.floor(Math.random() * 1000);
+		var id = Math.floor(Math.random() * 30000);
 		
 		$('#ausweisbild').hide(200);
 		
 		$.getJSON( "py/json/"+id+".json", function( data ) {
+		
 			$('#semester tspan').text(data['semester']+" *)");
 			$('#nachname tspan').text(data['stud']['nachname']);
 			$('#vorname tspan').text(data['stud']['vorname']);
@@ -312,6 +547,18 @@
 				$('#ausweistyp tspan').text("Studentinnen-");
 			}else{
 				$('#ausweistyp tspan').text("Studenten-");
+			}
+			
+			if(data['stud']['beurlaubt']){
+				$('#beurlaubt1 tspan').text("Beurlaubt");
+				$('#beurlaubt2 tspan').text("Beurlaubt");
+				$('#keinefahrberechtigung tspan').text("XXXXXXXXXXXXXXXX keine Fahrberechtigung");
+				$("#hologramm").attr("display", "none");
+			}else{
+				$('#beurlaubt1 tspan').text("");
+				$('#beurlaubt2 tspan').text("");
+				$('#keinefahrberechtigung tspan').text("");
+				$("#hologramm").removeAttr("display");
 			}
 			
 			if(data['loecher']['gremien']){
@@ -350,25 +597,33 @@
 			var p0 = negativliste[0];
 			var p1 = negativliste[1];
 			var p2 = negativliste[2];
+			var p3 = negativliste[3];
+			var p4 = negativliste[4];
 			var i = 3;
-			while( i < negativliste.length && p1[2] < data['stud']['nachname']){
+			while( i < negativliste.length && p2[2] < data['stud']['nachname']){
 				p0 = p1;
 				p1 = p2;
-				p2 = negativliste[i];
+				p2 = p3;
+				p3 = p4;
+				p4 = negativliste[i];
 				i++;
 			}
 			if(p1[2] == data['stud']['nachname']){
-				while( i < negativliste.length && p1[3] < data['stud']['vorname']){
+				while( i < negativliste.length && p2[3] < data['stud']['vorname']){
 					p0 = p1;
 					p1 = p2;
-					p2 = negativliste[i];
+					p2 = p3;
+					p3 = p4;
+					p4 = negativliste[i];
 					i++;
 				}
 				if(p1[3] == data['stud']['vorname']){
-					while( i < negativliste.length && p1[1] < data['stud']['matrikelnummer']){
+					while( i < negativliste.length && p2[1] < data['stud']['matrikelnummer']){
 						p0 = p1;
 						p1 = p2;
-						p2 = negativliste[i];
+						p2 = p3;
+						p3 = p4;
+						p4 = negativliste[i];
 						i++;
 					}
 				}
@@ -410,6 +665,24 @@
 				<td>"+p2[6]+"</td>\
 			</tr>");
 			
+			$('#tablebody').append("<tr>\
+				<td>"+p3[0]+"</td>\
+				<td>"+p3[1]+"</td>\
+				<td>"+p3[2]+" "+p3[3]+"</td>\
+				<td>"+p3[4]+"</td>\
+				<td>"+p3[5]+"</td>\
+				<td>"+p3[6]+"</td>\
+			</tr>");
+			
+			$('#tablebody').append("<tr>\
+				<td>"+p4[0]+"</td>\
+				<td>"+p4[1]+"</td>\
+				<td>"+p4[2]+" "+p4[3]+"</td>\
+				<td>"+p4[4]+"</td>\
+				<td>"+p4[5]+"</td>\
+				<td>"+p4[6]+"</td>\
+			</tr>");
+			
 			
 			
 			$('#tablebody').append("<tr>\
@@ -420,6 +693,8 @@
 				<td>…</td>\
 				<td>…</td>\
 			</tr>");
+			
+			current_data = data;
 			
 			
 		});

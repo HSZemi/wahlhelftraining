@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Sommersemester 2016",
+    "nummer": 1542047,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "13.05.1993",
-        "matrikelnummer": 2356879,
-        "mehrfachausfertigung": 1,
-        "nachname": "Seidl",
-        "plzort": "53195 Bonn",
+        "geburtsdatum": "09.02.1994",
+        "matrikelnummer": 2102075,
+        "mehrfachausfertigung": 2,
+        "nachname": "Schreiber",
+        "plzort": "85399 Hallbergmoos",
         "sternchen": 0,
-        "strasse": "Pettenkoferstra\u00dfe 6",
+        "strasse": "Am Kirschberg 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Willehad",
-        "weiblich": false
+        "vorname": "Xenia",
+        "weiblich": true
     }
 }

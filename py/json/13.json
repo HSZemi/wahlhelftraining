@@ -2,19 +2,20 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1978843,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "21.08.1987",
-        "matrikelnummer": 2996302,
+        "geburtsdatum": "16.08.1988",
+        "matrikelnummer": 2780665,
         "mehrfachausfertigung": 1,
-        "nachname": "Stiegler",
-        "plzort": "53225 Bonn",
+        "nachname": "Hack",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Casimirstra\u00dfe 6",
+        "strasse": "Franz Elek Eiweck-Stra\u00dfe 2b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sigrid",
+        "vorname": "Tamara",
         "weiblich": true
     }
 }

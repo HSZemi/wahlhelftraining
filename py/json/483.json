@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2869401,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "23.08.1991",
-        "matrikelnummer": 2958841,
-        "mehrfachausfertigung": 1,
-        "nachname": "Ruppert",
-        "plzort": "53124 Bonn",
+        "geburtsdatum": "16.08.1996",
+        "matrikelnummer": 15577,
+        "mehrfachausfertigung": 2,
+        "nachname": "Busche",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Rottweiler Platz 10",
+        "strasse": "Ulanenplatz 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerfriede",
-        "weiblich": true
+        "vorname": "Sigmut",
+        "weiblich": false
     }
 }

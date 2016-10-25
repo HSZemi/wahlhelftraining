@@ -2,19 +2,20 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1639944,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "08.04.1997",
-        "matrikelnummer": 2706267,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "24.07.1996",
+        "matrikelnummer": 2357538,
         "mehrfachausfertigung": 1,
-        "nachname": "Ridder",
-        "plzort": "53157 Bonn",
+        "nachname": "Pilz",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Wunderburg 24",
+        "strasse": "Barbarossaplatz 19c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerrit",
-        "weiblich": false
+        "vorname": "Birthe",
+        "weiblich": true
     }
 }

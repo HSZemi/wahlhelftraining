@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2799162,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "05.08.1990",
-        "matrikelnummer": 1990339,
-        "mehrfachausfertigung": 1,
-        "nachname": "Haas",
-        "plzort": "53123 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "25.08.1988",
+        "matrikelnummer": 136726,
+        "mehrfachausfertigung": 3,
+        "nachname": "Krell",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Reichelstra\u00dfe 28",
+        "strasse": "Warthaer Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Neidhard",
-        "weiblich": false
+        "vorname": "Josepha",
+        "weiblich": true
     }
 }

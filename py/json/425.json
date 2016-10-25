@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1751242,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "fakultaet": 2,
-        "geburtsdatum": "03.12.1994",
-        "matrikelnummer": 127054,
-        "mehrfachausfertigung": 1,
-        "nachname": "Pawlowski",
-        "plzort": "53210 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "23.03.1993",
+        "matrikelnummer": 2143579,
+        "mehrfachausfertigung": 5,
+        "nachname": "Beutler",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Geibweg 12",
+        "strasse": "Niederauer Stra\u00dfe 10d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Altfried",
+        "vorname": "Ferdinandus",
         "weiblich": false
     }
 }

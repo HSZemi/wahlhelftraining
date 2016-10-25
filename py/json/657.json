@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2928636,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "06.09.1999",
-        "matrikelnummer": 2091079,
-        "mehrfachausfertigung": 1,
-        "nachname": "Meier",
-        "plzort": "53172 Bonn",
+        "geburtsdatum": "23.06.1996",
+        "matrikelnummer": 2452570,
+        "mehrfachausfertigung": 2,
+        "nachname": "K\u00f6hn",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00fcbecker Stra\u00dfe 1",
+        "strasse": "Viktoriastra\u00dfe 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Eckhardt",
-        "weiblich": false
+        "vorname": "Riana",
+        "weiblich": true
     }
 }

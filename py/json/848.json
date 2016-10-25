@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2334181,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "23.07.1986",
-        "matrikelnummer": 2661929,
-        "mehrfachausfertigung": 3,
-        "nachname": "Barthel",
-        "plzort": "53221 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "26.09.1989",
+        "matrikelnummer": 2259853,
+        "mehrfachausfertigung": 5,
+        "nachname": "G\u00fcrtler",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Philipp-Fleck-Stra\u00dfe 4",
+        "strasse": "Margarete-Steiff-Stra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Babett",
+        "vorname": "Kreszenz",
         "weiblich": true
     }
 }

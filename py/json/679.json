@@ -4,17 +4,18 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1222654,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "07.03.1991",
-        "matrikelnummer": 2002192,
+        "geburtsdatum": "20.03.1988",
+        "matrikelnummer": 16523,
         "mehrfachausfertigung": 1,
-        "nachname": "Holstein",
-        "plzort": "53158 Bonn",
+        "nachname": "Adam",
+        "plzort": "27432 Alfstedt",
         "sternchen": 0,
-        "strasse": "Gertraudenstr. 2",
+        "strasse": "Max-Pruss-Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Nikola",
-        "weiblich": true
+        "vorname": "Degenhart",
+        "weiblich": false
     }
 }

@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1140757,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 4,
-        "geburtsdatum": "15.01.1994",
-        "matrikelnummer": 2816213,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "10.02.1993",
+        "matrikelnummer": 156938,
         "mehrfachausfertigung": 1,
-        "nachname": "Berthold",
-        "plzort": "27333 Schweringen",
+        "nachname": "Rumpf",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Steinachtalweg 3",
+        "strasse": "Franz-Kafka-Stra\u00dfe 0a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lilibeth",
+        "vorname": "Friedegunde",
         "weiblich": true
     }
 }

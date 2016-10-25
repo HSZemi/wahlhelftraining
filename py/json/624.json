@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2456866,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "21.08.1991",
-        "matrikelnummer": 2341795,
-        "mehrfachausfertigung": 1,
-        "nachname": "Koll",
-        "plzort": "91799 Langenaltheim",
+        "geburtsdatum": "18.12.1991",
+        "matrikelnummer": 18056,
+        "mehrfachausfertigung": 4,
+        "nachname": "Mair",
+        "plzort": "64658 F\u00fcrth",
         "sternchen": 0,
-        "strasse": "Georg-Allgaier-Stra\u00dfe 21",
+        "strasse": "Graupaer Stra\u00dfe 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Valerie",
+        "vorname": "Ivanka",
         "weiblich": true
     }
 }

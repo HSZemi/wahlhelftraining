@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2444296,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "03.04.1993",
-        "matrikelnummer": 13035,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "17.04.1996",
+        "matrikelnummer": 1903565,
         "mehrfachausfertigung": 1,
-        "nachname": "Prause",
-        "plzort": "72663 Gro\u00dfbettlingen",
+        "nachname": "Kruse",
+        "plzort": "56316 Raubach",
         "sternchen": 0,
-        "strasse": "Felix Niering-Stra\u00dfe 11",
+        "strasse": "Distelweg 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Roselius",
+        "vorname": "Titus",
         "weiblich": false
     }
 }

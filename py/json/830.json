@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1270738,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 1,
-        "geburtsdatum": "21.07.1997",
-        "matrikelnummer": 2085866,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "15.12.1990",
+        "matrikelnummer": 1986876,
         "mehrfachausfertigung": 1,
-        "nachname": "Rusch",
-        "plzort": "53213 Bonn",
+        "nachname": "Mehner",
+        "plzort": "45131 Essen",
         "sternchen": 0,
-        "strasse": "Billstedter Bahnstieg 8",
+        "strasse": "Mendelssohnstra\u00dfe 6c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dorette",
+        "vorname": "Siegrun",
         "weiblich": true
     }
 }

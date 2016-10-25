@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2498811,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "24.02.1995",
-        "matrikelnummer": 189530,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bosch",
-        "plzort": "53152 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "01.09.1994",
+        "matrikelnummer": 2488975,
+        "mehrfachausfertigung": 3,
+        "nachname": "Schopf",
+        "plzort": "27809 Lemwerder",
         "sternchen": 0,
-        "strasse": "Friedrich-Heyer-Weg 6",
+        "strasse": "Privatstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Tim",
-        "weiblich": false
+        "vorname": "Mira",
+        "weiblich": true
     }
 }

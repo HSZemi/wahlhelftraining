@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2700068,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "fakultaet": 4,
-        "geburtsdatum": "20.11.1993",
-        "matrikelnummer": 2824254,
-        "mehrfachausfertigung": 2,
-        "nachname": "Risch",
-        "plzort": "53204 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "27.12.1988",
+        "matrikelnummer": 2344557,
+        "mehrfachausfertigung": 1,
+        "nachname": "St\u00f6ckel",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfteichdamm 27",
+        "strasse": "Brendelweg 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Helgomar",
-        "weiblich": false
+        "vorname": "Uta",
+        "weiblich": true
     }
 }

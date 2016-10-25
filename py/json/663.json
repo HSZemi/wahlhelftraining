@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2465276,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "16.11.1994",
-        "matrikelnummer": 2752142,
-        "mehrfachausfertigung": 2,
-        "nachname": "Strauch",
-        "plzort": "24327 H\u00f6gsdorf",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "17.07.1991",
+        "matrikelnummer": 2309717,
+        "mehrfachausfertigung": 1,
+        "nachname": "Groth",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Pr\u00e4sident Reil-Stra\u00dfe 1",
+        "strasse": "Pinkertweg 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Andy",
+        "vorname": "Rouven",
         "weiblich": false
     }
 }

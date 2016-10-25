@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2311866,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "18.08.1994",
-        "matrikelnummer": 17123,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "10.06.1993",
+        "matrikelnummer": 2953289,
         "mehrfachausfertigung": 1,
-        "nachname": "Kuhl",
-        "plzort": "53163 Bonn",
+        "nachname": "Fehrenbach",
+        "plzort": "26556 Nenndorf",
         "sternchen": 0,
-        "strasse": "Mahlbergstra\u00dfe 8",
+        "strasse": "Am Wasserwerk 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ronny",
+        "vorname": "Dittmar",
         "weiblich": false
     }
 }

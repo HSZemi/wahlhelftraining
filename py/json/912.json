@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2743929,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 8,
-        "geburtsdatum": "18.04.1998",
-        "matrikelnummer": 1917426,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "22.11.1993",
+        "matrikelnummer": 159903,
         "mehrfachausfertigung": 1,
-        "nachname": "Reese",
-        "plzort": "53175 Bonn",
+        "nachname": "Guhl",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Berchtesgadener Stra\u00dfe 1",
+        "strasse": "Zweite Nagelsbr\u00fccke 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sidonie",
+        "vorname": "Veronika",
         "weiblich": true
     }
 }

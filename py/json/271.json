@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2935604,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "22.12.1989",
-        "matrikelnummer": 2966990,
-        "mehrfachausfertigung": 1,
-        "nachname": "Dahmen",
-        "plzort": "30938 Burgwedel",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "03.07.1991",
+        "matrikelnummer": 2861455,
+        "mehrfachausfertigung": 2,
+        "nachname": "Ernst",
+        "plzort": "92286 Rieden",
         "sternchen": 0,
-        "strasse": "Hartmut-Dost-Stra\u00dfe 2",
+        "strasse": "Augustenburgstra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Friedhold",
-        "weiblich": false
+        "vorname": "Hella",
+        "weiblich": true
     }
 }

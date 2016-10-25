@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1322349,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "05.01.1995",
-        "matrikelnummer": 2859231,
-        "mehrfachausfertigung": 2,
-        "nachname": "Kleinschmidt",
-        "plzort": "53162 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "08.06.1989",
+        "matrikelnummer": 2621642,
+        "mehrfachausfertigung": 1,
+        "nachname": "Volk",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Borgesch 13",
+        "strasse": "Melisseweg 22",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Reinhild",
-        "weiblich": true
+        "vorname": "Jost",
+        "weiblich": false
     }
 }

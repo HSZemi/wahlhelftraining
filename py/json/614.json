@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2611789,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "25.07.1992",
-        "matrikelnummer": 2535239,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "22.01.1998",
+        "matrikelnummer": 2206689,
         "mehrfachausfertigung": 1,
-        "nachname": "Bichler",
+        "nachname": "Eichner",
         "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Leeraue 1",
+        "strasse": "Bahnhofstra\u00dfe 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Nils",
-        "weiblich": false
+        "vorname": "Gudula",
+        "weiblich": true
     }
 }

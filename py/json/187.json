@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2825596,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "02.03.1991",
-        "matrikelnummer": 137920,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "06.10.1995",
+        "matrikelnummer": 2114524,
         "mehrfachausfertigung": 1,
-        "nachname": "Betz",
-        "plzort": "23714 Kirchn\u00fcchel",
+        "nachname": "Holm",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Lahmeyerstra\u00dfe 17",
+        "strasse": "Am Platzl 45a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Siegwart",
+        "vorname": "Wendel",
         "weiblich": false
     }
 }

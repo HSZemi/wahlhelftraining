@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2975917,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "18.02.1995",
-        "matrikelnummer": 2737006,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "28.12.1991",
+        "matrikelnummer": 2410142,
         "mehrfachausfertigung": 1,
-        "nachname": "Kr\u00f6ber",
-        "plzort": "53198 Bonn",
+        "nachname": "Breitenbach",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Am Fischstein 1b",
+        "strasse": "Spohrstra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Burchard",
+        "vorname": "Lambert",
         "weiblich": false
     }
 }

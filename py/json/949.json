@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2979246,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "03.03.1996",
-        "matrikelnummer": 2178223,
-        "mehrfachausfertigung": 1,
-        "nachname": "Schock",
-        "plzort": "53145 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "26.07.1998",
+        "matrikelnummer": 2462790,
+        "mehrfachausfertigung": 3,
+        "nachname": "Rausch",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-Dankner-Stra\u00dfe 17",
+        "strasse": "Bienertstra\u00dfe 17",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rosl",
-        "weiblich": true
+        "vorname": "Irmo",
+        "weiblich": false
     }
 }

@@ -4,17 +4,18 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1234012,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "02.08.1998",
-        "matrikelnummer": 2476555,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "06.03.1991",
+        "matrikelnummer": 2624351,
         "mehrfachausfertigung": 1,
-        "nachname": "Eppler",
-        "plzort": "06766 Wolfen",
+        "nachname": "Trapp",
+        "plzort": "06179 Bennstedt",
         "sternchen": 0,
-        "strasse": "Landwehr 3",
+        "strasse": "Halskestra\u00dfe 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Walburg",
-        "weiblich": true
+        "vorname": "Diethmar",
+        "weiblich": false
     }
 }

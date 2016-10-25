@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2675170,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "05.08.1993",
-        "matrikelnummer": 14358,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "19.12.1995",
+        "matrikelnummer": 2231485,
         "mehrfachausfertigung": 1,
-        "nachname": "Nickel",
-        "plzort": "53190 Bonn",
+        "nachname": "Hackl",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Schilfgraben 2",
+        "strasse": "Nordendstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Georgine",
-        "weiblich": true
+        "vorname": "Bernhart",
+        "weiblich": false
     }
 }

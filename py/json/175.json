@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1722756,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "04.11.1999",
-        "matrikelnummer": 2465760,
-        "mehrfachausfertigung": 1,
-        "nachname": "Wrobel",
-        "plzort": "53146 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "09.09.1995",
+        "matrikelnummer": 2986152,
+        "mehrfachausfertigung": 3,
+        "nachname": "Renner",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Salierstr. 0",
+        "strasse": "Orchideenstra\u00dfe 21",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Jeannette",
-        "weiblich": true
+        "vorname": "Tony",
+        "weiblich": false
     }
 }

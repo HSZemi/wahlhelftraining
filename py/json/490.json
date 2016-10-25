@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2175127,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "19.07.1998",
-        "matrikelnummer": 2274095,
-        "mehrfachausfertigung": 1,
-        "nachname": "Georg",
-        "plzort": "53202 Bonn",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "09.01.1995",
+        "matrikelnummer": 2666789,
+        "mehrfachausfertigung": 2,
+        "nachname": "Freitag",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Panoramaweg 0c",
+        "strasse": "Gompitzer Hang 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Trauhard",
+        "vorname": "Volkhardt",
         "weiblich": false
     }
 }

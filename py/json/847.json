@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1611607,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "06.01.1995",
-        "matrikelnummer": 2537447,
-        "mehrfachausfertigung": 1,
-        "nachname": "Roder",
-        "plzort": "65189 Wiesbaden",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "20.09.1996",
+        "matrikelnummer": 2215116,
+        "mehrfachausfertigung": 3,
+        "nachname": "Opitz",
+        "plzort": "98646 Hildburghausen",
         "sternchen": 0,
-        "strasse": "Pr\u00f6benweg 2",
+        "strasse": "Auenstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Silvester",
-        "weiblich": false
+        "vorname": "Dorchen",
+        "weiblich": true
     }
 }

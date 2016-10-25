@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1220650,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 8,
-        "geburtsdatum": "26.08.1994",
-        "matrikelnummer": 2512406,
-        "mehrfachausfertigung": 4,
-        "nachname": "Kutz",
-        "plzort": "53125 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "01.02.1986",
+        "matrikelnummer": 2102866,
+        "mehrfachausfertigung": 1,
+        "nachname": "Wecker",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Monisstra\u00dfe 8",
+        "strasse": "Van-Gogh-Stra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Liesa",
-        "weiblich": true
+        "vorname": "Detlef",
+        "weiblich": false
     }
 }

@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1129764,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "13.09.1989",
-        "matrikelnummer": 11246,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "14.06.1995",
+        "matrikelnummer": 173029,
         "mehrfachausfertigung": 1,
-        "nachname": "Trautmann",
-        "plzort": "57629 H\u00f6chstenbach",
+        "nachname": "Hofstetter",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Papstdorfer Stra\u00dfe 4",
+        "strasse": "Robert-Weber-Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Eitelbert",
-        "weiblich": false
+        "vorname": "Susen",
+        "weiblich": true
     }
 }

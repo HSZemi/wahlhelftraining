@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2273807,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "02.09.1995",
-        "matrikelnummer": 2678463,
-        "mehrfachausfertigung": 2,
-        "nachname": "Rothe",
-        "plzort": "04880 Dommitzsch",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "09.12.1999",
+        "matrikelnummer": 2418409,
+        "mehrfachausfertigung": 1,
+        "nachname": "Lambertz",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Birkigter Stra\u00dfe 2c",
+        "strasse": "Lippersdorfer Weg 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dorlis",
-        "weiblich": true
+        "vorname": "Heimbert",
+        "weiblich": false
     }
 }

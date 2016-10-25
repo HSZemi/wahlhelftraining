@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1049910,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "08.04.1999",
-        "matrikelnummer": 2250109,
-        "mehrfachausfertigung": 4,
-        "nachname": "Wirth",
-        "plzort": "53181 Bonn",
+        "geburtsdatum": "18.02.1994",
+        "matrikelnummer": 12752,
+        "mehrfachausfertigung": 1,
+        "nachname": "Patzer",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Adenauerallee 5",
+        "strasse": "Glasewaldtstra\u00dfe 8c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Trudel",
+        "vorname": "Friederun",
         "weiblich": true
     }
 }

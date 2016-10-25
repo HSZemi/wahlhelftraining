@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Sommersemester 2016",
+    "nummer": 2401796,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "13.01.1999",
-        "matrikelnummer": 2333453,
-        "mehrfachausfertigung": 3,
-        "nachname": "Fu\u00df",
-        "plzort": "24111 Kiel",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "17.07.1995",
+        "matrikelnummer": 2436843,
+        "mehrfachausfertigung": 1,
+        "nachname": "Beckmann",
+        "plzort": "78476 Allensbach",
         "sternchen": 0,
-        "strasse": "Rathener Stra\u00dfe 20",
+        "strasse": "Kunzstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Erdheide",
-        "weiblich": true
+        "vorname": "Bernhart",
+        "weiblich": false
     }
 }

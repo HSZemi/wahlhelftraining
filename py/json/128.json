@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1632813,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "12.03.1990",
-        "matrikelnummer": 2416788,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "17.07.1994",
+        "matrikelnummer": 13637,
         "mehrfachausfertigung": 1,
-        "nachname": "Kroll",
-        "plzort": "53174 Bonn",
+        "nachname": "Gutzeit",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Am Brauhaus 0",
+        "strasse": "Josef-Dey-Weg 9a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Leonie",
+        "vorname": "Friedhilde",
         "weiblich": true
     }
 }

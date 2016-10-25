@@ -1,20 +1,21 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1087474,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "16.11.1991",
-        "matrikelnummer": 17813,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "05.11.1999",
+        "matrikelnummer": 2236818,
         "mehrfachausfertigung": 2,
-        "nachname": "Gall",
-        "plzort": "53150 Bonn",
+        "nachname": "Ulbrich",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Webergasse 6",
+        "strasse": "Rottwerndorfer Stra\u00dfe 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Liane",
+        "vorname": "Alinde",
         "weiblich": true
     }
 }

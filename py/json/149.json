@@ -2,19 +2,20 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1936824,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "07.01.1991",
-        "matrikelnummer": 2007295,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "09.04.1993",
+        "matrikelnummer": 136686,
         "mehrfachausfertigung": 1,
-        "nachname": "Heinig",
-        "plzort": "53154 Bonn",
+        "nachname": "Schwarzer",
+        "plzort": "06786 Gohrau",
         "sternchen": 0,
-        "strasse": "Heinrich-Bauer-Stra\u00dfe 5",
+        "strasse": "Dittersbacher Stra\u00dfe 17",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Helmtraud",
-        "weiblich": true
+        "vorname": "Eckehardt",
+        "weiblich": false
     }
 }

@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1778467,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "23.06.1993",
-        "matrikelnummer": 2095858,
+        "geburtsdatum": "01.06.1983",
+        "matrikelnummer": 2792014,
         "mehrfachausfertigung": 1,
-        "nachname": "Waldmann",
-        "plzort": "53215 Bonn",
+        "nachname": "Gl\u00e4ser",
+        "plzort": "67824 Feilbingert",
         "sternchen": 0,
-        "strasse": "Hubertusstr. 11",
+        "strasse": "Dorfplatz-Brabsch\u00fctz 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heiner",
-        "weiblich": false
+        "vorname": "Clivia",
+        "weiblich": true
     }
 }

@@ -13,7 +13,7 @@ class Studienfach:
 		return "{}	{}	{}".format(self.abschluss, self.fach, self.fsem)
 
 class Stud:
-	def __init__(self, vorname, nachname, geburtsdatum, strasse, plzort, weiblich, matrikelnummer, studienfaecher, sternchen, fakultaet, mehrfachausfertigung):
+	def __init__(self, vorname, nachname, geburtsdatum, strasse, plzort, weiblich, matrikelnummer, studienfaecher, sternchen, fakultaet, mehrfachausfertigung, beurlaubt):
 		self.vorname = vorname
 		self.nachname = nachname
 		self.geburtsdatum = geburtsdatum
@@ -25,6 +25,7 @@ class Stud:
 		self.sternchen = min(len(self.studienfaecher), sternchen)
 		self.fakultaet = fakultaet
 		self.mehrfachausfertigung = mehrfachausfertigung
+		self.beurlaubt = beurlaubt
 		
 class Ausweis:
 	def __init__(self, stud, semester, nummer, loecher, ausfertigung):
@@ -123,7 +124,7 @@ with open('../data/vornamen_mann.txt', "r") as f:
 
 negativliste = []
 
-for i in range(1000):
+for i in range(30000):
 	r1 = (random.random() < 0.5)
 	r2 = (random.random() < 0.25)
 	r3 = (random.random() < 0.1)
@@ -135,6 +136,7 @@ for i in range(1000):
 	h = int(random.expovariate(0.1))
 	z = random.choice(('a','b','c','d','e')) if r3 else ''
 	p = random.choice(plzort) if r2 else "{} Bonn".format(random.randint(53111,53229))
+	beurlaubt = (random.random() < 0.1)
 	
 	matrikelnummer = randmatnr()
 	weiblich = r1
@@ -147,9 +149,11 @@ for i in range(1000):
 	
 	loch = twobools[randomvalue(loecher)]
 	
-	studi = Stud(v, n, g, "{} {}{}".format(s,h,z), p, weiblich, matrikelnummer, [sfach], 0, fakultaet, mehrfachausfertigung)
+	studi = Stud(v, n, g, "{} {}{}".format(s,h,z), p, weiblich, matrikelnummer, [sfach], 0, fakultaet, mehrfachausfertigung, beurlaubt)
 	
-	ausweis = Ausweis(studi, semester, '00000000', loch, ma_ausweis)
+	ausweisnr = random.randint(1000000,3000000)
+	
+	ausweis = Ausweis(studi, semester, ausweisnr, loch, ma_ausweis)
 	
 	bw = twobools[randomvalue(briefwahl)]
 	
@@ -181,6 +185,11 @@ for entry in sorted(negativliste, key=lambda x: "{}{}{}".format(x[0].nachname, x
 		elif(entry[1]['gremien']):
 			bw = "Briefwahl Gremien"
 			wbg = "Nein"
+		
+		if(entry[0].beurlaubt):
+			if (random.random() < 0.5):
+				wbg = "Nein"
+				wbsp = "Nein"
 		
 		negativliste_s.append([i, entry[0].matrikelnummer, entry[0].nachname, entry[0].vorname, wbg, wbsp, ma, bw])
 		i+= 1

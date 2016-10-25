@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1706640,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 4,
-        "geburtsdatum": "02.09.1991",
-        "matrikelnummer": 2493344,
-        "mehrfachausfertigung": 1,
-        "nachname": "Kratzer",
-        "plzort": "53183 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "25.04.1994",
+        "matrikelnummer": 2427323,
+        "mehrfachausfertigung": 5,
+        "nachname": "J\u00fcttner",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00fchnerweg 4",
+        "strasse": "Am Burgwall 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Edelfried",
-        "weiblich": false
+        "vorname": "Hanni",
+        "weiblich": true
     }
 }

@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2709552,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "27.08.1999",
-        "matrikelnummer": 2868472,
-        "mehrfachausfertigung": 1,
-        "nachname": "St\u00f6rmer",
-        "plzort": "53221 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "17.03.1986",
+        "matrikelnummer": 2313640,
+        "mehrfachausfertigung": 2,
+        "nachname": "Mauer",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Karolinenstr. 27",
+        "strasse": "Rotdornweg 17",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gaby",
-        "weiblich": true
+        "vorname": "Wichard",
+        "weiblich": false
     }
 }

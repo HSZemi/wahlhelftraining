@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2113172,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "22.04.1997",
-        "matrikelnummer": 149086,
-        "mehrfachausfertigung": 1,
-        "nachname": "Lampe",
-        "plzort": "54293 Trier",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "28.10.1993",
+        "matrikelnummer": 2517095,
+        "mehrfachausfertigung": 2,
+        "nachname": "Maucher",
+        "plzort": "54657 Badem",
         "sternchen": 0,
-        "strasse": "Michaelisstra\u00dfe 7",
+        "strasse": "Hohensteiner Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Traudl",
-        "weiblich": true
+        "vorname": "Albert",
+        "weiblich": false
     }
 }

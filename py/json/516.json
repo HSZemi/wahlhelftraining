@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Sommersemester 2016",
+    "nummer": 2257332,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "20.05.1988",
-        "matrikelnummer": 2510900,
-        "mehrfachausfertigung": 1,
-        "nachname": "K\u00fcper",
-        "plzort": "53194 Bonn",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "13.10.1992",
+        "matrikelnummer": 2869294,
+        "mehrfachausfertigung": 3,
+        "nachname": "Kappes",
+        "plzort": "39596 Goldbeck",
         "sternchen": 0,
-        "strasse": "Darmst\u00e4dter Landstra\u00dfe 17",
+        "strasse": "Geranienstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Vreni",
-        "weiblich": true
+        "vorname": "Ronald",
+        "weiblich": false
     }
 }

@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1815935,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "19.04.1999",
-        "matrikelnummer": 2790305,
-        "mehrfachausfertigung": 1,
-        "nachname": "W\u00fcst",
-        "plzort": "53222 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "14.10.1997",
+        "matrikelnummer": 2712445,
+        "mehrfachausfertigung": 3,
+        "nachname": "Graupner",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Pirnaer Landstra\u00dfe 19",
+        "strasse": "Tolkewitzer Stra\u00dfe 25",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wastl",
+        "vorname": "Benno",
         "weiblich": false
     }
 }

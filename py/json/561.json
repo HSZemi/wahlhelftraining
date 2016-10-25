@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1622767,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 9,
-        "geburtsdatum": "15.04.1995",
-        "matrikelnummer": 151783,
-        "mehrfachausfertigung": 3,
-        "nachname": "Kurth",
-        "plzort": "79875 Dachsberg",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "19.01.1995",
+        "matrikelnummer": 2207345,
+        "mehrfachausfertigung": 1,
+        "nachname": "Wilk",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Am Pfennigsberg 9",
+        "strasse": "Klingerstra\u00dfe 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hiltrun",
-        "weiblich": true
+        "vorname": "Ekkehardt",
+        "weiblich": false
     }
 }

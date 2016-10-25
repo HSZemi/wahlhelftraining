@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2062765,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "09.11.1995",
-        "matrikelnummer": 2081931,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "21.12.1996",
+        "matrikelnummer": 2826575,
         "mehrfachausfertigung": 1,
-        "nachname": "Dressel",
-        "plzort": "53127 Bonn",
+        "nachname": "Wittich",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Leisniger Platz 3",
+        "strasse": "Friedrich-Sch\u00fctter-Platz 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Frauke",
-        "weiblich": true
+        "vorname": "Thassilo",
+        "weiblich": false
     }
 }

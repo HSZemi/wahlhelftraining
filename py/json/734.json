@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1942037,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "19.03.1997",
-        "matrikelnummer": 1993293,
-        "mehrfachausfertigung": 3,
-        "nachname": "Prause",
-        "plzort": "53190 Bonn",
+        "geburtsdatum": "24.08.1996",
+        "matrikelnummer": 18021,
+        "mehrfachausfertigung": 1,
+        "nachname": "Klaiber",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Eyssenstra\u00dfe 3",
+        "strasse": "Habsburgerallee 21",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Anneros",
+        "vorname": "Kata",
         "weiblich": true
     }
 }

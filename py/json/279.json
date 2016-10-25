@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1659424,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 9,
-        "geburtsdatum": "03.01.1997",
-        "matrikelnummer": 1963202,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "16.10.1993",
+        "matrikelnummer": 2587579,
         "mehrfachausfertigung": 1,
-        "nachname": "Hildebrand",
-        "plzort": "53168 Bonn",
+        "nachname": "Rotter",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Am Gr\u00fcng\u00fcrtel 1",
+        "strasse": "Elfride-Tr\u00f6tschel-Stra\u00dfe 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Trudbert",
+        "vorname": "Wedigo",
         "weiblich": false
     }
 }

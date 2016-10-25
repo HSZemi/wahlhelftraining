@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1251812,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "11.01.1997",
-        "matrikelnummer": 2591818,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "07.05.1997",
+        "matrikelnummer": 138531,
         "mehrfachausfertigung": 1,
-        "nachname": "Ludewig",
-        "plzort": "53184 Bonn",
+        "nachname": "Breunig",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Sandgrubweg 7a",
+        "strasse": "Rantumer Weg 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Isabel",
-        "weiblich": true
+        "vorname": "Bartosch",
+        "weiblich": false
     }
 }

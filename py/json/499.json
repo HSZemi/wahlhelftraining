@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2551583,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "23.12.1991",
-        "matrikelnummer": 2341531,
-        "mehrfachausfertigung": 1,
-        "nachname": "Rehbein",
-        "plzort": "53156 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "12.05.1992",
+        "matrikelnummer": 194031,
+        "mehrfachausfertigung": 5,
+        "nachname": "Lindner",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Felginerweg 5",
+        "strasse": "An den Ruschewiesen 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Carlheinz",
-        "weiblich": false
+        "vorname": "Hilma",
+        "weiblich": true
     }
 }

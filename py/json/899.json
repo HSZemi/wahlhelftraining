@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1458696,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "18.03.1990",
-        "matrikelnummer": 18175,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "02.12.1998",
+        "matrikelnummer": 13821,
         "mehrfachausfertigung": 1,
-        "nachname": "Stolze",
-        "plzort": "53136 Bonn",
+        "nachname": "Timmermann",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz Schumacher-Weg 2",
+        "strasse": "Ebersbacher Weg 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heinfried",
-        "weiblich": false
+        "vorname": "C\u00e4cilia",
+        "weiblich": true
     }
 }

@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2832952,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "26.08.1996",
-        "matrikelnummer": 179441,
-        "mehrfachausfertigung": 3,
-        "nachname": "Scholten",
-        "plzort": "67655 Kaiserslautern",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "23.05.1992",
+        "matrikelnummer": 2108394,
+        "mehrfachausfertigung": 1,
+        "nachname": "Burmeister",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Karl-Bieber-H\u00f6he 11a",
+        "strasse": "Lenn\u00e9stra\u00dfe 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Willy",
+        "vorname": "Lutz",
         "weiblich": false
     }
 }

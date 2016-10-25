@@ -4,17 +4,18 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1023022,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 9,
-        "geburtsdatum": "17.06.1998",
-        "matrikelnummer": 2547761,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "05.10.1992",
+        "matrikelnummer": 1925334,
         "mehrfachausfertigung": 1,
-        "nachname": "Otto",
-        "plzort": "53146 Bonn",
+        "nachname": "L\u00f6we",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Walburga-Zizka-Weg 1",
+        "strasse": "Zu den Weiden 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lissy",
-        "weiblich": true
+        "vorname": "Pascal",
+        "weiblich": false
     }
 }

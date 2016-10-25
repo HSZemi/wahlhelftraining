@@ -2,19 +2,20 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1524498,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "27.01.1987",
-        "matrikelnummer": 2166185,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "15.06.1993",
+        "matrikelnummer": 2328505,
         "mehrfachausfertigung": 1,
-        "nachname": "M\u00fcller",
-        "plzort": "53133 Bonn",
+        "nachname": "Evers",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Waldsportpfad 9",
+        "strasse": "W\u00f6hlerbr\u00fccke 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Thankmar",
-        "weiblich": false
+        "vorname": "Gerburg",
+        "weiblich": true
     }
 }

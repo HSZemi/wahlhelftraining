@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2968676,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "09.10.1993",
-        "matrikelnummer": 2067296,
+        "geburtsdatum": "23.11.1990",
+        "matrikelnummer": 2217059,
         "mehrfachausfertigung": 1,
-        "nachname": "Schnelle",
-        "plzort": "53217 Bonn",
+        "nachname": "Goldschmidt",
+        "plzort": "25572 Landscheide",
         "sternchen": 0,
-        "strasse": "Joseph Roth-Gasse 2",
+        "strasse": "Bert-Brecht-Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Traudi",
+        "vorname": "Holdina",
         "weiblich": true
     }
 }

@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2118100,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "13.06.1995",
-        "matrikelnummer": 2426430,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "01.02.1991",
+        "matrikelnummer": 2487569,
         "mehrfachausfertigung": 1,
-        "nachname": "Weck",
-        "plzort": "53208 Bonn",
+        "nachname": "Stoiber",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Greif-Stra\u00dfe 5",
+        "strasse": "Bad-Berneck-Str. 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Burkard",
+        "vorname": "Volkrad",
         "weiblich": false
     }
 }

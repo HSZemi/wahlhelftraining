@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1590619,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "04.01.1995",
-        "matrikelnummer": 16636,
-        "mehrfachausfertigung": 2,
-        "nachname": "Ziegler",
-        "plzort": "53130 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "02.11.1997",
+        "matrikelnummer": 2116464,
+        "mehrfachausfertigung": 1,
+        "nachname": "Sch\u00fcssler",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Kolumbusstra\u00dfe 3",
+        "strasse": "Thomas-M\u00fcntzer-Platz 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gustel",
-        "weiblich": false
+        "vorname": "Dorlinde",
+        "weiblich": true
     }
 }

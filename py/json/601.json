@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1025213,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "04.09.1990",
-        "matrikelnummer": 2248460,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "03.03.1998",
+        "matrikelnummer": 15570,
         "mehrfachausfertigung": 1,
-        "nachname": "Buhl",
-        "plzort": "53160 Bonn",
+        "nachname": "P\u00e4tzold",
+        "plzort": "19077 Rastow",
         "sternchen": 0,
-        "strasse": "Michael Urient-Gasse 29",
+        "strasse": "Friedhofstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Siegfrid",
+        "vorname": "Helfried",
         "weiblich": false
     }
 }

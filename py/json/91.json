@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1453418,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "24.12.1993",
-        "matrikelnummer": 2497183,
-        "mehrfachausfertigung": 2,
-        "nachname": "Willms",
-        "plzort": "53201 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "03.01.1992",
+        "matrikelnummer": 2918524,
+        "mehrfachausfertigung": 1,
+        "nachname": "Wilkens",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Dr.-Groddeck-Weg 6",
+        "strasse": "Stollestra\u00dfe 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lisanne",
-        "weiblich": true
+        "vorname": "Burkardt",
+        "weiblich": false
     }
 }

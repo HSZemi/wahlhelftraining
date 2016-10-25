@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Sommersemester 2016",
+    "nummer": 2450618,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "05.08.1988",
-        "matrikelnummer": 2255896,
-        "mehrfachausfertigung": 1,
-        "nachname": "Hampe",
-        "plzort": "53223 Bonn",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "02.03.1993",
+        "matrikelnummer": 13277,
+        "mehrfachausfertigung": 3,
+        "nachname": "Nehls",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Am Pfarrlehn 2",
+        "strasse": "Sorbenstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Curt",
-        "weiblich": false
+        "vorname": "Irmtrude",
+        "weiblich": true
     }
 }

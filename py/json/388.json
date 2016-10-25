@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1260488,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "25.01.1993",
-        "matrikelnummer": 2286468,
-        "mehrfachausfertigung": 1,
-        "nachname": "Rauer",
-        "plzort": "53176 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "04.09.1993",
+        "matrikelnummer": 1957402,
+        "mehrfachausfertigung": 3,
+        "nachname": "Buschmann",
+        "plzort": "19071 Grambow",
         "sternchen": 0,
-        "strasse": "J\u00fcngststra\u00dfe 19",
+        "strasse": "Hohe Leite 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Viktor",
+        "vorname": "Johannes",
         "weiblich": false
     }
 }

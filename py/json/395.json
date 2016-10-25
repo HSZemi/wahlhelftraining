@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2709560,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.02.1998",
-        "matrikelnummer": 191208,
-        "mehrfachausfertigung": 1,
-        "nachname": "Kreft",
-        "plzort": "53130 Bonn",
+        "geburtsdatum": "18.06.1997",
+        "matrikelnummer": 2169180,
+        "mehrfachausfertigung": 3,
+        "nachname": "Reinsch",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "William-Shakespeare-Stra\u00dfe 6",
+        "strasse": "Forsmannstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Friedel",
-        "weiblich": false
+        "vorname": "Mirjana",
+        "weiblich": true
     }
 }

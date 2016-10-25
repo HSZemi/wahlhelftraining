@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1335832,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "22.01.1993",
-        "matrikelnummer": 2861180,
-        "mehrfachausfertigung": 1,
-        "nachname": "Graf",
-        "plzort": "18119 Rostock",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "28.01.1995",
+        "matrikelnummer": 2571800,
+        "mehrfachausfertigung": 3,
+        "nachname": "Heyne",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Conradplatz 14",
+        "strasse": "Rudolf-F\u00f6rster-Stra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Irmtraut",
-        "weiblich": true
+        "vorname": "Gerrit",
+        "weiblich": false
     }
 }

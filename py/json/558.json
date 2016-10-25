@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1096431,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "09.05.1997",
-        "matrikelnummer": 2453892,
-        "mehrfachausfertigung": 1,
-        "nachname": "Hellmuth",
-        "plzort": "26906 Dersum",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "16.07.1991",
+        "matrikelnummer": 2094596,
+        "mehrfachausfertigung": 2,
+        "nachname": "Burkhart",
+        "plzort": "54673 Uppershausen",
         "sternchen": 0,
-        "strasse": "Aystettstra\u00dfe 21",
+        "strasse": "Weixdorfer Weg 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "G\u00fclsen",
-        "weiblich": true
+        "vorname": "Sylvester",
+        "weiblich": false
     }
 }

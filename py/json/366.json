@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1829261,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 4,
-        "geburtsdatum": "04.04.1992",
-        "matrikelnummer": 2236314,
-        "mehrfachausfertigung": 1,
-        "nachname": "Nowack",
-        "plzort": "53174 Bonn",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "16.11.1994",
+        "matrikelnummer": 2059141,
+        "mehrfachausfertigung": 2,
+        "nachname": "Heese",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Stadtwassergasse 2",
+        "strasse": "Fabriciusstra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Walbert",
-        "weiblich": false
+        "vorname": "Margareth",
+        "weiblich": true
     }
 }

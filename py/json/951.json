@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2489658,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "04.11.1991",
-        "matrikelnummer": 14598,
+        "geburtsdatum": "05.01.1995",
+        "matrikelnummer": 2554839,
         "mehrfachausfertigung": 1,
-        "nachname": "Grieger",
-        "plzort": "53167 Bonn",
+        "nachname": "Bohl",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Kreuzweg 8",
+        "strasse": "Gasteiner Stra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Karlheiner",
+        "vorname": "Wolfhart",
         "weiblich": false
     }
 }

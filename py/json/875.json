@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2173256,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 4,
-        "geburtsdatum": "05.05.1993",
-        "matrikelnummer": 2764768,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "14.11.1991",
+        "matrikelnummer": 17319,
         "mehrfachausfertigung": 1,
-        "nachname": "Mertens",
-        "plzort": "53192 Bonn",
+        "nachname": "Schulten",
+        "plzort": "98646 Trostadt",
         "sternchen": 0,
-        "strasse": "Am Brack 4",
+        "strasse": "An den Bangerten 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Annagret",
+        "vorname": "Franka",
         "weiblich": true
     }
 }

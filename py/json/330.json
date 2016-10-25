@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1940339,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 4,
-        "geburtsdatum": "20.10.1997",
-        "matrikelnummer": 2469790,
-        "mehrfachausfertigung": 1,
-        "nachname": "Stange",
-        "plzort": "53178 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "27.07.1996",
+        "matrikelnummer": 2488435,
+        "mehrfachausfertigung": 3,
+        "nachname": "Beutler",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Aspichring 8",
+        "strasse": "Vogelbeerenweg 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Maxl",
-        "weiblich": false
+        "vorname": "Lisette",
+        "weiblich": true
     }
 }

@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2000316,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 8,
-        "geburtsdatum": "10.06.1990",
-        "matrikelnummer": 2424742,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "24.04.1988",
+        "matrikelnummer": 2421861,
         "mehrfachausfertigung": 1,
-        "nachname": "Daniel",
-        "plzort": "53172 Bonn",
+        "nachname": "Braun",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Gr\u00e4fstra\u00dfe 14",
+        "strasse": "Tulpenstra\u00dfe 15",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Axel",
+        "vorname": "Sylvio",
         "weiblich": false
     }
 }

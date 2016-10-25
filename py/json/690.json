@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2844197,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 2,
-        "geburtsdatum": "26.07.1987",
-        "matrikelnummer": 2697322,
-        "mehrfachausfertigung": 1,
-        "nachname": "Wachter",
-        "plzort": "53131 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "03.04.1997",
+        "matrikelnummer": 11512,
+        "mehrfachausfertigung": 3,
+        "nachname": "Rieger",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Max-von-Laue-Stra\u00dfe 1",
+        "strasse": "Kleemannstra\u00dfe 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Reinhildis",
-        "weiblich": true
+        "vorname": "Horstmar",
+        "weiblich": false
     }
 }

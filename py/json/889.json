@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2555665,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "17.09.1990",
-        "matrikelnummer": 2239394,
-        "mehrfachausfertigung": 4,
-        "nachname": "Frenzel",
-        "plzort": "53217 Bonn",
+        "geburtsdatum": "27.09.1995",
+        "matrikelnummer": 2905131,
+        "mehrfachausfertigung": 2,
+        "nachname": "Maus",
+        "plzort": "47119 Duisburg",
         "sternchen": 0,
-        "strasse": "Zum Stulen 2",
+        "strasse": "Copitzer Stra\u00dfe 18",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Xaverius",
+        "vorname": "Theophilus",
         "weiblich": false
     }
 }

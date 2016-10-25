@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2200440,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "10.08.1991",
-        "matrikelnummer": 2685198,
+        "geburtsdatum": "10.08.1990",
+        "matrikelnummer": 2950337,
         "mehrfachausfertigung": 1,
-        "nachname": "Hasse",
-        "plzort": "53160 Bonn",
+        "nachname": "Ha\u00df",
+        "plzort": "25885 Oster-Ohrstedt",
         "sternchen": 0,
-        "strasse": "Buchsbaumweg 8",
+        "strasse": "Am Fichtepark 18",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Daniele",
+        "vorname": "Dorota",
         "weiblich": true
     }
 }

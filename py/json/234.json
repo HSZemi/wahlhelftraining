@@ -2,19 +2,20 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2402691,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "21.03.1982",
-        "matrikelnummer": 2580658,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "17.12.1992",
+        "matrikelnummer": 2905366,
         "mehrfachausfertigung": 1,
-        "nachname": "Mann",
-        "plzort": "53158 Bonn",
+        "nachname": "Schmuck",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Anton-Schuster-Str. 24",
+        "strasse": "Jacobus-von-Hauck-Platz 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Adeltraut",
-        "weiblich": true
+        "vorname": "Wunnibald",
+        "weiblich": false
     }
 }

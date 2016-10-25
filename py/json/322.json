@@ -2,19 +2,20 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": "00000000",
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1947587,
+    "semester": "Wintersemester 2015/2016",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "22.10.1995",
-        "matrikelnummer": 2578584,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "26.01.1995",
+        "matrikelnummer": 2149733,
         "mehrfachausfertigung": 1,
-        "nachname": "Ganter",
-        "plzort": "53146 Bonn",
+        "nachname": "Sieben",
+        "plzort": "54578 Oberbettingen",
         "sternchen": 0,
-        "strasse": "Eichb\u00fchnweg 8",
+        "strasse": "Faulbrunnenweg 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Marcus",
-        "weiblich": false
+        "vorname": "Arabella",
+        "weiblich": true
     }
 }

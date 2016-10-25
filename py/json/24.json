@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1946571,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "28.07.1996",
-        "matrikelnummer": 2183518,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "17.03.1994",
+        "matrikelnummer": 2489189,
         "mehrfachausfertigung": 1,
-        "nachname": "Schall",
-        "plzort": "53114 Bonn",
+        "nachname": "Gerdes",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Landesgerichtsstra\u00dfe 17",
+        "strasse": "Gangolfsweg 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Annetraude",
-        "weiblich": true
+        "vorname": "Freimuth",
+        "weiblich": false
     }
 }

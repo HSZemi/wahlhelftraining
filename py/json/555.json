@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": true
+        "gremien": true,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2851935,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "01.11.1995",
-        "matrikelnummer": 17583,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "18.05.1996",
+        "matrikelnummer": 2721773,
         "mehrfachausfertigung": 1,
-        "nachname": "Plath",
-        "plzort": "53182 Bonn",
+        "nachname": "Fick",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Zeitblomstr. 2",
+        "strasse": "Ullersdorfer Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Margrit",
-        "weiblich": true
+        "vorname": "Irminfried",
+        "weiblich": false
     }
 }

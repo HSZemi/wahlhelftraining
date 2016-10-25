@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Sommersemester 2016",
+    "nummer": 2783871,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "09.01.1999",
-        "matrikelnummer": 11526,
-        "mehrfachausfertigung": 1,
-        "nachname": "Haider",
-        "plzort": "96193 Wachenroth",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "07.11.1996",
+        "matrikelnummer": 2271549,
+        "mehrfachausfertigung": 2,
+        "nachname": "Eckart",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Karl-Leicht-Str. 2",
+        "strasse": "Daheimweg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Helmo",
+        "vorname": "Ruprecht",
         "weiblich": false
     }
 }

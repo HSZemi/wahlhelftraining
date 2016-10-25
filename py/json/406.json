@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1100870,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "04.06.1987",
-        "matrikelnummer": 2696756,
-        "mehrfachausfertigung": 2,
-        "nachname": "Knapp",
-        "plzort": "26725 Emden",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "04.01.1998",
+        "matrikelnummer": 2283054,
+        "mehrfachausfertigung": 1,
+        "nachname": "Appel",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Siedlungsweg 9",
+        "strasse": "Bodenbacher Stra\u00dfe 11c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Treuhard",
-        "weiblich": false
+        "vorname": "Anneliese",
+        "weiblich": true
     }
 }

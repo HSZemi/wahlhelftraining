@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1015745,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "22.04.1997",
-        "matrikelnummer": 2980473,
+        "geburtsdatum": "20.03.1992",
+        "matrikelnummer": 2508860,
         "mehrfachausfertigung": 1,
-        "nachname": "Mueller",
-        "plzort": "24601 Ruhwinkel",
+        "nachname": "Gr\u00e4ber",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Leubnitzer H\u00f6he 2",
+        "strasse": "Beerenhut 73",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Eckhart",
+        "vorname": "Leo",
         "weiblich": false
     }
 }

@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2271316,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "09.06.1988",
-        "matrikelnummer": 2951321,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "06.06.1995",
+        "matrikelnummer": 2632341,
         "mehrfachausfertigung": 1,
-        "nachname": "Senf",
-        "plzort": "55278 Hahnheim",
+        "nachname": "Biehl",
+        "plzort": "77694 Kehl",
         "sternchen": 0,
-        "strasse": "Malteserstra\u00dfe 1",
+        "strasse": "Kirchenstra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerdi",
-        "weiblich": true
+        "vorname": "Ingram",
+        "weiblich": false
     }
 }

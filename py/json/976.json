@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2692986,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "03.12.1996",
-        "matrikelnummer": 2638221,
-        "mehrfachausfertigung": 3,
-        "nachname": "Zander",
-        "plzort": "53145 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "10.02.1992",
+        "matrikelnummer": 2755388,
+        "mehrfachausfertigung": 1,
+        "nachname": "Saur",
+        "plzort": "92727 Waldthurn",
         "sternchen": 0,
-        "strasse": "Silberbornstra\u00dfe 18",
+        "strasse": "Heubnerstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hadburg",
-        "weiblich": true
+        "vorname": "Gustel",
+        "weiblich": false
     }
 }

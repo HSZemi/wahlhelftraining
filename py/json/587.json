@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1533584,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "02.08.1994",
-        "matrikelnummer": 2421893,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "17.01.1991",
+        "matrikelnummer": 2316571,
         "mehrfachausfertigung": 1,
-        "nachname": "Ha\u00df",
-        "plzort": "53179 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Bergfelderweg 29",
+        "strasse": "Hellersiedlung Weg L 8d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wolfhart",
+        "vorname": "Gerd",
         "weiblich": false
     }
 }

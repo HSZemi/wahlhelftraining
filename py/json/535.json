@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Sommersemester 2016",
+    "nummer": 1619120,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "23.10.1995",
-        "matrikelnummer": 14991,
-        "mehrfachausfertigung": 1,
-        "nachname": "Sautter",
-        "plzort": "53133 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "20.02.1989",
+        "matrikelnummer": 2427762,
+        "mehrfachausfertigung": 4,
+        "nachname": "Gotthardt",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Gem\u00fcndener Stra\u00dfe 29",
+        "strasse": "Schelsweg 18",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Cyrill",
-        "weiblich": false
+        "vorname": "Alexandra",
+        "weiblich": true
     }
 }

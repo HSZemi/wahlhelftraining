@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2107660,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 8,
-        "geburtsdatum": "10.08.1996",
-        "matrikelnummer": 2103402,
-        "mehrfachausfertigung": 1,
-        "nachname": "K\u00f6rner",
-        "plzort": "53134 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "13.11.1997",
+        "matrikelnummer": 2045871,
+        "mehrfachausfertigung": 5,
+        "nachname": "L\u00f6hr",
+        "plzort": "15732 Eichwalde",
         "sternchen": 0,
-        "strasse": "D\u00f6hlener Stra\u00dfe 28b",
+        "strasse": "Fritz-Arndt-Platz 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lucia",
+        "vorname": "Trudel",
         "weiblich": true
     }
 }

@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2317230,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "02.05.1996",
-        "matrikelnummer": 2738975,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "20.03.1997",
+        "matrikelnummer": 2105598,
         "mehrfachausfertigung": 1,
-        "nachname": "Springer",
-        "plzort": "91605 Gallmersgarten",
+        "nachname": "Bohnert",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Wunschring 11",
+        "strasse": "Kerbt\u00e4lchen 25",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Holm",
-        "weiblich": false
+        "vorname": "Elselotte",
+        "weiblich": true
     }
 }

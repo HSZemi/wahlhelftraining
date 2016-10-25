@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Sommersemester 2016",
+    "nummer": 1196207,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "24.07.1991",
-        "matrikelnummer": 2702480,
-        "mehrfachausfertigung": 1,
-        "nachname": "Reimann",
-        "plzort": "53195 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "02.09.1992",
+        "matrikelnummer": 2912007,
+        "mehrfachausfertigung": 2,
+        "nachname": "Steigerwald",
+        "plzort": "07381 P\u00f6\u00dfneck",
         "sternchen": 0,
-        "strasse": "An der Schleife 6",
+        "strasse": "Erna-Sack-Stra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Cordelia",
-        "weiblich": true
+        "vorname": "Lukas",
+        "weiblich": false
     }
 }

@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2814501,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "04.06.1989",
-        "matrikelnummer": 2058221,
-        "mehrfachausfertigung": 1,
-        "nachname": "Holzner",
-        "plzort": "53188 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "09.05.1989",
+        "matrikelnummer": 2672916,
+        "mehrfachausfertigung": 5,
+        "nachname": "Diel",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Spitzwegstra\u00dfe 3",
+        "strasse": "Am Kirchberg 38",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Paul",
+        "vorname": "Ottwin",
         "weiblich": false
     }
 }

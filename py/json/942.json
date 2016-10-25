@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1829070,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "08.08.1993",
-        "matrikelnummer": 12124,
-        "mehrfachausfertigung": 1,
-        "nachname": "Klingler",
-        "plzort": "53189 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "19.08.1993",
+        "matrikelnummer": 2140069,
+        "mehrfachausfertigung": 2,
+        "nachname": "Wernicke",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "An der Reitanlage 23",
+        "strasse": "Paradiesgasse 2b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Frohmund",
-        "weiblich": false
+        "vorname": "Meta",
+        "weiblich": true
     }
 }

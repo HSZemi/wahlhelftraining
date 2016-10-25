@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2937345,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 3,
-        "geburtsdatum": "01.07.1999",
-        "matrikelnummer": 2945350,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "12.05.1994",
+        "matrikelnummer": 2449933,
         "mehrfachausfertigung": 1,
-        "nachname": "Pietsch",
-        "plzort": "25335 Altenmoor",
+        "nachname": "Kusch",
+        "plzort": "74394 Hessigheim",
         "sternchen": 0,
-        "strasse": "Martinskirchstra\u00dfe 3",
+        "strasse": "An der S\u00e4gem\u00fchle 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Mira",
-        "weiblich": true
+        "vorname": "Herbert",
+        "weiblich": false
     }
 }

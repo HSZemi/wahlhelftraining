@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1970122,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "18.12.1989",
-        "matrikelnummer": 1924806,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "09.11.1994",
+        "matrikelnummer": 2863018,
         "mehrfachausfertigung": 1,
-        "nachname": "Schramm",
-        "plzort": "18246 J\u00fcrgenshagen",
+        "nachname": "Langenbach",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Schaufu\u00dfstra\u00dfe 2",
+        "strasse": "Rayskistra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Arwed",
-        "weiblich": false
+        "vorname": "Richarda",
+        "weiblich": true
     }
 }

@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1431687,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 9,
-        "geburtsdatum": "03.06.1988",
-        "matrikelnummer": 2343998,
-        "mehrfachausfertigung": 1,
-        "nachname": "Heck",
-        "plzort": "53155 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "15.07.1995",
+        "matrikelnummer": 1913169,
+        "mehrfachausfertigung": 2,
+        "nachname": "Kunkel",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Ortsmitte 11",
+        "strasse": "Graebestra\u00dfe 15d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dankwart",
-        "weiblich": false
+        "vorname": "Hannelene",
+        "weiblich": true
     }
 }

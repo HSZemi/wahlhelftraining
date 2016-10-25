@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1454063,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "10.03.1990",
-        "matrikelnummer": 2405560,
+        "geburtsdatum": "07.04.1995",
+        "matrikelnummer": 2542124,
         "mehrfachausfertigung": 1,
-        "nachname": "Gleich",
-        "plzort": "86860 Jengen",
+        "nachname": "Dre\u00dfler",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlsdorfer Weg 4",
+        "strasse": "Am Knie 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Irma",
-        "weiblich": true
+        "vorname": "Ludolf",
+        "weiblich": false
     }
 }

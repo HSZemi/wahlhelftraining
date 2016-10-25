@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1464762,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 1,
-        "geburtsdatum": "20.02.1994",
-        "matrikelnummer": 2880958,
-        "mehrfachausfertigung": 2,
-        "nachname": "Wille",
-        "plzort": "53136 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "21.08.1995",
+        "matrikelnummer": 2557001,
+        "mehrfachausfertigung": 1,
+        "nachname": "Sch\u00f6nfeld",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Otto-Reinhold-Weg 14b",
+        "strasse": "Moritzburger Weg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Reinhildis",
-        "weiblich": true
+        "vorname": "Gernulf",
+        "weiblich": false
     }
 }

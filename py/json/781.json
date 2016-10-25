@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2084491,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "01.11.1993",
-        "matrikelnummer": 2308829,
-        "mehrfachausfertigung": 1,
-        "nachname": "Mack",
-        "plzort": "93093 Donaustauf",
+        "geburtsdatum": "18.01.1992",
+        "matrikelnummer": 1904738,
+        "mehrfachausfertigung": 2,
+        "nachname": "Bethke",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "J\u00e4ckstr. 2",
+        "strasse": "Ganghoferstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Maximiliane",
-        "weiblich": true
+        "vorname": "Steve",
+        "weiblich": false
     }
 }

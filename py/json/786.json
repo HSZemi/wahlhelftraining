@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1584771,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 4,
-        "geburtsdatum": "24.01.1992",
-        "matrikelnummer": 2524060,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "13.02.1992",
+        "matrikelnummer": 196884,
         "mehrfachausfertigung": 1,
-        "nachname": "Fromme",
-        "plzort": "53117 Bonn",
+        "nachname": "Fuchs",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Eichbuscher Stra\u00dfe 33",
+        "strasse": "Zum Fruchthof 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Frithjof",
-        "weiblich": false
+        "vorname": "Kreszenzia",
+        "weiblich": true
     }
 }

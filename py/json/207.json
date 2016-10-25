@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1631934,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "26.03.1987",
-        "matrikelnummer": 15352,
+        "geburtsdatum": "24.01.1999",
+        "matrikelnummer": 2774073,
         "mehrfachausfertigung": 1,
-        "nachname": "Kuhlmann",
-        "plzort": "53210 Bonn",
+        "nachname": "Zacharias",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Lotzdorfer Stra\u00dfe 6",
+        "strasse": "\u00d6ttlmairstr. 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wendelin",
+        "vorname": "Suse",
         "weiblich": true
     }
 }

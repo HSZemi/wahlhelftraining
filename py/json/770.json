@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1508081,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 9,
-        "geburtsdatum": "20.03.1996",
-        "matrikelnummer": 2520542,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "02.06.1989",
+        "matrikelnummer": 1988207,
         "mehrfachausfertigung": 1,
-        "nachname": "Oldenburg",
-        "plzort": "53149 Bonn",
+        "nachname": "Busse",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Zittergrasweg 22",
+        "strasse": "In der Beginenklause 39",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heinzwerner",
+        "vorname": "Heino",
         "weiblich": false
     }
 }

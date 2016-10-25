@@ -2,19 +2,20 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2341496,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "12.09.1996",
-        "matrikelnummer": 2664848,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "28.05.1995",
+        "matrikelnummer": 2874887,
         "mehrfachausfertigung": 1,
-        "nachname": "R\u00f6hm",
-        "plzort": "53170 Bonn",
+        "nachname": "Nestler",
+        "plzort": "01920 Nebelsch\u00fctz",
         "sternchen": 0,
-        "strasse": "Diezer Stra\u00dfe 4e",
+        "strasse": "Marie-Curie-Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "\u00c4nne",
+        "vorname": "Anne-Katrin",
         "weiblich": true
     }
 }

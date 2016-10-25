@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2613837,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 7,
-        "geburtsdatum": "18.10.1992",
-        "matrikelnummer": 2047421,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "10.12.1992",
+        "matrikelnummer": 1986371,
         "mehrfachausfertigung": 1,
-        "nachname": "Jordan",
-        "plzort": "53195 Bonn",
+        "nachname": "Esch",
+        "plzort": "69117 Heidelberg",
         "sternchen": 0,
-        "strasse": "Am Dahlienheim 5",
+        "strasse": "Breulsweg 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elvire",
+        "vorname": "Rena",
         "weiblich": true
     }
 }

@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1122860,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "10.04.1994",
-        "matrikelnummer": 2780584,
-        "mehrfachausfertigung": 1,
-        "nachname": "Steigerwald",
-        "plzort": "53207 Bonn",
+        "geburtsdatum": "24.09.1992",
+        "matrikelnummer": 2727553,
+        "mehrfachausfertigung": 5,
+        "nachname": "Yilmaz",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Hoechster-Farben-Stra\u00dfe 5",
+        "strasse": "Mail\u00e4nder Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wiebke",
+        "vorname": "Rosely",
         "weiblich": true
     }
 }

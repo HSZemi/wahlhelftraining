@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 2618776,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "01.01.1993",
-        "matrikelnummer": 1956590,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "08.08.1995",
+        "matrikelnummer": 2160095,
         "mehrfachausfertigung": 1,
-        "nachname": "Gericke",
-        "plzort": "53161 Bonn",
+        "nachname": "Eberl",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Tischbeinstra\u00dfe 10",
+        "strasse": "Nassauer Weg 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Niklaus",
-        "weiblich": false
+        "vorname": "Gerfriede",
+        "weiblich": true
     }
 }

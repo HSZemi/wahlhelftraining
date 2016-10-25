@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1211317,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "05.02.1995",
-        "matrikelnummer": 14802,
-        "mehrfachausfertigung": 1,
-        "nachname": "Krenz",
-        "plzort": "95352 Marktleugast",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "18.02.1993",
+        "matrikelnummer": 2226070,
+        "mehrfachausfertigung": 3,
+        "nachname": "Pietschmann",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Uhlfelderstra\u00dfe 2",
+        "strasse": "Benzstr. 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Albert",
-        "weiblich": false
+        "vorname": "Huberta",
+        "weiblich": true
     }
 }

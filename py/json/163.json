@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1579434,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "26.01.1996",
-        "matrikelnummer": 2193580,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "19.09.1997",
+        "matrikelnummer": 2035042,
         "mehrfachausfertigung": 1,
-        "nachname": "Gr\u00e4tz",
-        "plzort": "53228 Bonn",
+        "nachname": "Westphal",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Spielmannstra\u00dfe 3",
+        "strasse": "Zwickauer Platz 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Florentine",
-        "weiblich": true
+        "vorname": "Heiner",
+        "weiblich": false
     }
 }

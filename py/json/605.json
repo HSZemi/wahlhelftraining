@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1969802,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "02.04.1997",
-        "matrikelnummer": 2473975,
-        "mehrfachausfertigung": 2,
-        "nachname": "Schuch",
-        "plzort": "53131 Bonn",
+        "geburtsdatum": "21.05.1992",
+        "matrikelnummer": 12359,
+        "mehrfachausfertigung": 1,
+        "nachname": "Stephan",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Am Mittelwald 6d",
+        "strasse": "K\u00f6nigsteinstra\u00dfe 22",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Melanie",
+        "vorname": "Lise",
         "weiblich": true
     }
 }

@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2399897,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "07.12.1992",
-        "matrikelnummer": 2931745,
-        "mehrfachausfertigung": 1,
-        "nachname": "Gessner",
-        "plzort": "65191 Wiesbaden",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "16.10.1992",
+        "matrikelnummer": 145929,
+        "mehrfachausfertigung": 5,
+        "nachname": "Kerscher",
+        "plzort": "15806 Nunsdorf",
         "sternchen": 0,
-        "strasse": "Hellerhofstra\u00dfe 2d",
+        "strasse": "Theodor-Heuss-Stra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wilma",
-        "weiblich": true
+        "vorname": "Liebhard",
+        "weiblich": false
     }
 }

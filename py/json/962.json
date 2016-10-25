@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": "00000000",
+    "nummer": 1242542,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 6,
-        "geburtsdatum": "02.05.1990",
-        "matrikelnummer": 2247755,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "19.09.1996",
+        "matrikelnummer": 11113,
         "mehrfachausfertigung": 1,
-        "nachname": "Heitmann",
-        "plzort": "53159 Bonn",
+        "nachname": "L\u00f6we",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Karl-Blum-Allee 25",
+        "strasse": "Ullersdorfer Stra\u00dfe 15c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ortraud",
+        "vorname": "Ilsefriede",
         "weiblich": true
     }
 }

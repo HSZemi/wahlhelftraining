@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2836081,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 4,
-        "geburtsdatum": "02.05.1996",
-        "matrikelnummer": 2199552,
-        "mehrfachausfertigung": 1,
-        "nachname": "Schacht",
-        "plzort": "56767 Gunderath",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "21.08.1991",
+        "matrikelnummer": 199126,
+        "mehrfachausfertigung": 2,
+        "nachname": "Bogner",
+        "plzort": "24799 Friedrichsgraben",
         "sternchen": 0,
-        "strasse": "Herxheimerstra\u00dfe 13",
+        "strasse": "Rothschildallee 8b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Herward",
-        "weiblich": false
+        "vorname": "Mariedore",
+        "weiblich": true
     }
 }

@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1122741,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "17.06.1995",
-        "matrikelnummer": 150767,
+        "geburtsdatum": "17.05.1991",
+        "matrikelnummer": 2875291,
         "mehrfachausfertigung": 1,
-        "nachname": "Kaiser",
-        "plzort": "73565 Spraitbach",
+        "nachname": "Grafe",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Hocksteinstra\u00dfe 7",
+        "strasse": "Dreisesselbergstr. 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ingmar",
+        "vorname": "Reginbert",
         "weiblich": false
     }
 }

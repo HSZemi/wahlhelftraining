@@ -1,20 +1,21 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 1339967,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "02.11.1991",
-        "matrikelnummer": 2139927,
-        "mehrfachausfertigung": 3,
-        "nachname": "Heyn",
-        "plzort": "53208 Bonn",
+        "geburtsdatum": "22.05.1993",
+        "matrikelnummer": 2886087,
+        "mehrfachausfertigung": 1,
+        "nachname": "Friedmann",
+        "plzort": "38444 Wolfsburg",
         "sternchen": 0,
-        "strasse": "Hansastra\u00dfe 0d",
+        "strasse": "Fuhrenkamp 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Siegmar",
+        "vorname": "Helge",
         "weiblich": false
     }
 }

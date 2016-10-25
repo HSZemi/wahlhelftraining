@@ -1,20 +1,21 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": "00000000",
+    "nummer": 2624562,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "fakultaet": 5,
-        "geburtsdatum": "27.11.1992",
-        "matrikelnummer": 2678060,
-        "mehrfachausfertigung": 1,
-        "nachname": "Knopp",
-        "plzort": "53213 Bonn",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "19.08.1995",
+        "matrikelnummer": 2255056,
+        "mehrfachausfertigung": 5,
+        "nachname": "Fisch",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Hutweide 13",
+        "strasse": "Kappesmattweg 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -22,7 +23,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lieselore",
-        "weiblich": true
+        "vorname": "Irmfried",
+        "weiblich": false
     }
 }
