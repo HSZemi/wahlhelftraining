@@ -35,11 +35,12 @@
 	}
 	.zettel, .none {
 		cursor: pointer;
-		width: 70px;
+		width: 66px;
 		height: 105px;
 		float: left;
 		border: 2px solid #999;
-		background-color: #eee;
+		background-color: #333;
+		color: white;
 		margin: 0.2em;
 		padding: 0.2em;
 	}
@@ -59,6 +60,7 @@
 	
 	.zettel.active,.none.active{
 		background-color: #fff;
+		color: black;
 		border: 2px solid #e11;
 		font-weight: bold;
 	}
@@ -139,7 +141,7 @@
 	<div class="section group">
 	
 	<div class="row">
-	<div class="col span_3_of_5">
+	<div class="col span_4_of_7">
 	
 	<div class="row" style="background-color:#eee; padding:0.5rem;">
 	<h1 style="float:left; color: #333;">WAHLHELFTRAINING</h1>
@@ -215,7 +217,7 @@
 	</div>
 	</div>
 	
-	<div class="col span_2_of_5">
+	<div class="col span_3_of_7">
 	<div id="controls">
 	<h1>Stimmzettel</h1>
 	
@@ -299,7 +301,7 @@
 		</div>
 		
 		<div class="zettel" id="fak_rf_ww">
-		<img src="data/rfww.png">
+		<img src="data/9g.png">
 		<p class="cardtitle">RF <small>WW</small></h4>
 		
 		</div>
@@ -321,7 +323,7 @@
 		
 		</div>
 		
-		<div class="zettel" id="shk_rf">
+		<div class="zettel" id="shk_rf_3">
 		<img src="data/3k.png">
 		<p class="cardtitle">RF</p>
 		
@@ -356,6 +358,12 @@
 		<p class="cardtitle">BZL</p>
 		
                 </div>
+                
+                <div class="zettel" id="shk_rf_9">
+		<img src="data/9k.png">
+		<p class="cardtitle">RF</p>
+		
+		</div>
 	</div>
 	</div>
 	</div>
@@ -458,7 +466,6 @@
 	
 	function get_target_set(){
 		target_set = new Set();
-		all_set = new Set(['sp','senat','gb','fak_kf','fak_ef','fak_rf_rw','fak_mf','fak_pf','fak_mnf','fak_lf','v_bzl','fak_rf_ww','shk_kf','shk_ef','shk_rf','shk_mf','shk_pf','shk_mnf','shk_lf','shk_bzl']);
 		
 		if(current_data['semester'] == "Wintersemester 2016/2017" && current_data['stud']['ausweistyp'] != "zweithoerer"){
 		
@@ -495,6 +502,7 @@
 	
 	function check(){
 		target_set = get_target_set();
+		all_set = new Set(['sp','senat','gb','fak_kf','fak_ef','fak_rf_rw','fak_mf','fak_pf','fak_mnf','fak_lf','v_bzl','fak_rf_ww','shk_kf','shk_ef','shk_rf','shk_mf','shk_pf','shk_mnf','shk_lf','shk_bzl']);
 		
 		
 		for (item of target_set){
@@ -502,12 +510,28 @@
 		}
 		
 		for (item of target_set){
-			if(!$('#'+item).hasClass('active')){
+			if(item != "shk_rf" && !$('#'+item).hasClass('active')){
 				return false;
 			}
 		}
 		for (item of all_set){
-			if($('#'+item).hasClass('active')){
+			if(item != "shk_rf" && $('#'+item).hasClass('active')){
+				return false;
+			}
+		}
+		
+		if(!target_set.has("shk_rf")){
+			if($('#shk_rf_3').hasClass('active')){
+				return false;
+			}
+			if($('#shk_rf_9').hasClass('active')){
+				return false;
+			}
+		} else {
+			if($('#shk_rf_3').hasClass('active') && $('#shk_rf_9').hasClass('active')){
+				return false;
+			}
+			if(!$('#shk_rf_3').hasClass('active') && !$('#shk_rf_9').hasClass('active')){
 				return false;
 			}
 		}
