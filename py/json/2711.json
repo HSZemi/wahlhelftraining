@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2723562,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1641477,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "27.01.1994",
-        "matrikelnummer": 2713695,
-        "mehrfachausfertigung": 1,
-        "nachname": "Reis",
-        "plzort": "53134 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "22.09.1993",
+        "matrikelnummer": 2563573,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Mittag",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "T\u00e4nnichtgrundstra\u00dfe 1",
+        "strasse": "An der Universit\u00e4t 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wilmar",
-        "weiblich": false
+        "vorname": "Ilsefriede",
+        "weiblich": true
     }
 }

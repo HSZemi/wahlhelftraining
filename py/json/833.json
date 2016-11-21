@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2260772,
+    "nummer": 1029953,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "09.03.1993",
-        "matrikelnummer": 2134200,
+        "geburtsdatum": "27.12.1985",
+        "matrikelnummer": 2827865,
         "mehrfachausfertigung": 1,
-        "nachname": "Sieg",
-        "plzort": "53118 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Adolf",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Finkenstra\u00dfe 17",
+        "strasse": "Wieckestra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Pascal",
-        "weiblich": false
+        "vorname": "Loreliese",
+        "weiblich": true
     }
 }

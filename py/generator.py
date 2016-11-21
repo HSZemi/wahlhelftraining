@@ -13,7 +13,7 @@ class Studienfach:
 		return "{}	{}	{}".format(self.abschluss, self.fach, self.fsem)
 
 class Stud:
-	def __init__(self, vorname, nachname, geburtsdatum, strasse, plzort, weiblich, matrikelnummer, studienfaecher, sternchen, fakultaet, mehrfachausfertigung, beurlaubt):
+	def __init__(self, vorname, nachname, geburtsdatum, strasse, plzort, weiblich, matrikelnummer, studienfaecher, sternchen, fakultaet, mehrfachausfertigung, beurlaubt, ausweistyp, mitglied_studierendenschaft):
 		self.vorname = vorname
 		self.nachname = nachname
 		self.geburtsdatum = geburtsdatum
@@ -26,6 +26,8 @@ class Stud:
 		self.fakultaet = fakultaet
 		self.mehrfachausfertigung = mehrfachausfertigung
 		self.beurlaubt = beurlaubt
+		self.ausweistyp = ausweistyp
+		self.mitglied_studierendenschaft = mitglied_studierendenschaft
 		
 class Ausweis:
 	def __init__(self, stud, semester, nummer, loecher, ausfertigung):
@@ -38,8 +40,16 @@ class Ausweis:
 	def toJSON(self):
 		return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=4)
 	
+	def typ(self):
+		if(self.stud.ausweistyp == "regulaer"):
+			return "Studentinnen-" if self.stud.weiblich else "Studenten-"
+		if(self.stud.ausweistyp == "weiterbildung"):
+			return "Weiterbildungs-"
+		if(self.stud.ausweistyp == "zweithoerer"):
+			return "Zweithörerinnen-" if self.stud.weiblich else "Zweithörer-"
+	
 	def __str__(self):
-		s = """{stud.weiblich}   AUSWEIS
+		s = """{typ}   AUSWEIS
 {semester}			[{ausfertigung}]
 {stud.vorname} {stud.nachname}
 {stud.geburtsdatum}		{stud.matrikelnummer}
@@ -50,7 +60,7 @@ class Ausweis:
 
 --------
 
-""".format(stud = self.stud, semester= self.semester, loecher = self.loecher, nummer = self.nummer, ausfertigung = ausfertigung)
+""".format(stud = self.stud, typ=self.typ(), semester= self.semester, loecher = self.loecher, nummer = self.nummer, ausfertigung = self.ausfertigung)
 		t = ""
 		for i in range(len(self.stud.studienfaecher)):
 			t += str(self.stud.studienfaecher[i])
@@ -59,7 +69,7 @@ class Ausweis:
 			t += "\n"
 		
 		u = """
-[{stud.fakultaet} {loecher[0]}] [{loecher[1]}]
+[{stud.fakultaet} {loecher[gremien]}] [{loecher[sp]}]
 
 ++++++++++
 
@@ -124,24 +134,35 @@ with open('../data/vornamen_mann.txt', "r") as f:
 
 negativliste = []
 
-for i in range(30000):
-	r1 = (random.random() < 0.5)
-	r2 = (random.random() < 0.25)
-	r3 = (random.random() < 0.1)
-	r4 = (random.random() < 0.75)
-	v = random.choice(vornamen_weiblich) if r1 else random.choice(vornamen_nicht_weiblich)
-	n = random.choice(nachnamen)
-	g = randgebdat()
-	s = random.choice(strassennamen)
-	h = int(random.expovariate(0.1))
-	z = random.choice(('a','b','c','d','e')) if r3 else ''
-	p = random.choice(plzort) if r2 else "{} Bonn".format(random.randint(53111,53229))
+for i in range(3000):
+	r_weiblich = (random.random() < 0.5)
+	r_wohnort = (random.random() < 0.25)
+	r_hausnummerbuchstabe = (random.random() < 0.1)
+	r_mehrfachausfertigung = (random.random() < 0.75)
+	r_ausweistyp = random.random()
+	mitglied_studierendenschaft = True
+	ausweistyp = ""
+	if(r_ausweistyp < 0.1):
+		ausweistyp = "weiterbildung"
+		mitglied_studierendenschaft = (random.random() < 0.2)
+	elif(r_ausweistyp < 0.2):
+		ausweistyp = "zweithoerer"
+	else:
+		ausweistyp = "regulaer"
+		
+	vorname = random.choice(vornamen_weiblich) if r_weiblich else random.choice(vornamen_nicht_weiblich)
+	nachname = random.choice(nachnamen)
+	geburtsdatum = randgebdat()
+	strasse = random.choice(strassennamen)
+	hausnummer = int(random.expovariate(0.1))
+	zusatz_hausnummer = random.choice(('a','b','c','d','e')) if r_hausnummerbuchstabe else ''
+	plzort = random.choice(plzort) if r_wohnort else "{} Bonn".format(random.randint(53111,53229))
 	beurlaubt = (random.random() < 0.1)
 	
 	matrikelnummer = randmatnr()
-	weiblich = r1
+	weiblich = r_weiblich
 	mehrfachausfertigung = randomvalue(mehrfachausfertigungen)
-	ma_ausweis = mehrfachausfertigung if r4 else random.randint(1,mehrfachausfertigung)
+	ma_ausweis = mehrfachausfertigung if r_mehrfachausfertigung else random.randint(1,mehrfachausfertigung)
 	semester = randomvalue(semesters)
 	fakultaet = randomvalue(fakultaeten)
 	
@@ -149,7 +170,8 @@ for i in range(30000):
 	
 	loch = twobools[randomvalue(loecher)]
 	
-	studi = Stud(v, n, g, "{} {}{}".format(s,h,z), p, weiblich, matrikelnummer, [sfach], 0, fakultaet, mehrfachausfertigung, beurlaubt)
+	
+	studi = Stud(vorname, nachname, geburtsdatum, "{} {}{}".format(strasse,hausnummer,zusatz_hausnummer), plzort, weiblich, matrikelnummer, [sfach], 0, fakultaet, mehrfachausfertigung, beurlaubt, ausweistyp, mitglied_studierendenschaft)
 	
 	ausweisnr = random.randint(1000000,3000000)
 	
@@ -157,10 +179,10 @@ for i in range(30000):
 	
 	bw = twobools[randomvalue(briefwahl)]
 	
-	if(bw['sp'] or bw['gremien'] or mehrfachausfertigung > 1):
+	if(bw['sp'] or bw['gremien'] or mehrfachausfertigung > 1 or (ausweistyp == "weiterbildung" and not weiblich) or not mitglied_studierendenschaft):
 		negativliste.append((studi, bw))
 	
-	
+	print(ausweis)
 	
 	with open("json/{}.json".format(i), "w") as f:
 		print(ausweis.toJSON(), file=f)
@@ -173,7 +195,9 @@ for entry in sorted(negativliste, key=lambda x: "{}{}{}".format(x[0].nachname, x
 		ma = ma_map[entry[0].mehrfachausfertigung]
 		
 		bw = ""
-		wbg = ""
+		wbgs = ""
+		wbgf = ""
+		wbggb = ""
 		wbsp = ""
 		if(entry[1]['sp'] and entry[1]['gremien']):
 			bw = "Briefwahl"
@@ -184,14 +208,21 @@ for entry in sorted(negativliste, key=lambda x: "{}{}{}".format(x[0].nachname, x
 			wbsp = "Nein"
 		elif(entry[1]['gremien']):
 			bw = "Briefwahl Gremien"
-			wbg = "Nein"
+			wbgs = "Nein"
+			wbgf = "Nein"
+		
+		if(entry[0].ausweistyp == "weiterbildung" and not entry[0].weiblich):
+			wbggb = "Nein"
+		if(not entry[0].mitglied_studierendenschaft):
+			wbsp = "Nein"
 		
 		if(entry[0].beurlaubt):
 			if (random.random() < 0.5):
-				wbg = "Nein"
+				wbgs = "Nein"
+				wbgf = "Nein"
 				wbsp = "Nein"
 		
-		negativliste_s.append([i, entry[0].matrikelnummer, entry[0].nachname, entry[0].vorname, wbg, wbsp, ma, bw])
+		negativliste_s.append([i, entry[0].matrikelnummer, entry[0].nachname, entry[0].vorname, wbgs, wbgf, wbggb, wbsp, ma, bw])
 		i+= 1
 with open("json/negativliste.json", "w") as f:
 	json.dump(negativliste_s, f)

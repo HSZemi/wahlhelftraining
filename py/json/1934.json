@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2745740,
+    "nummer": 2705819,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "04.12.1999",
-        "matrikelnummer": 2668214,
-        "mehrfachausfertigung": 1,
-        "nachname": "Dick",
-        "plzort": "53116 Bonn",
+        "geburtsdatum": "14.05.1998",
+        "matrikelnummer": 2066700,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stickel",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Baxmannstra\u00dfe 0",
+        "strasse": "Fritz-Arndt-Platz 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Babsi",
-        "weiblich": true
+        "vorname": "Phillippus",
+        "weiblich": false
     }
 }

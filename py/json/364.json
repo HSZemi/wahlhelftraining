@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2961659,
+    "nummer": 2381593,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "22.09.1999",
-        "matrikelnummer": 2894159,
+        "geburtsdatum": "26.01.1995",
+        "matrikelnummer": 2690834,
         "mehrfachausfertigung": 1,
-        "nachname": "Marten",
-        "plzort": "06773 Uthausen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Thaler",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Licher Stra\u00dfe 1d",
+        "strasse": "M\u00fchlheimer Stra\u00dfe 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Silja",
-        "weiblich": true
+        "vorname": "Osmund",
+        "weiblich": false
     }
 }

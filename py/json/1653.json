@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1173911,
+    "nummer": 2746563,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.01.1994",
-        "matrikelnummer": 2424941,
-        "mehrfachausfertigung": 1,
-        "nachname": "Hertlein",
-        "plzort": "53181 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "17.02.1998",
+        "matrikelnummer": 2380845,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schaffner",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Bethmann-Hollweg-Stra\u00dfe 8a",
+        "strasse": "Triftgasse 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dorothee",
-        "weiblich": true
+        "vorname": "Freimund",
+        "weiblich": false
     }
 }

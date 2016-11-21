@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2507900,
+    "nummer": 2506411,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "04.01.1990",
-        "matrikelnummer": 2251416,
-        "mehrfachausfertigung": 3,
-        "nachname": "Rupp",
-        "plzort": "53169 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "09.10.1991",
+        "matrikelnummer": 2829984,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Clau\u00dfen",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Untere M\u00fchlbr\u00fccke 8",
+        "strasse": "Finkenstra\u00dfe 17",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kreszenz",
-        "weiblich": true
+        "vorname": "Gregor",
+        "weiblich": false
     }
 }

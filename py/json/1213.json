@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2713736,
+    "nummer": 1502051,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.08.1992",
-        "matrikelnummer": 2624684,
-        "mehrfachausfertigung": 1,
-        "nachname": "Sutter",
-        "plzort": "53111 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "25.08.1999",
+        "matrikelnummer": 2220731,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hild",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "An der Bitz 1",
+        "strasse": "Unterer Kaulberg 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Cay",
-        "weiblich": false
+        "vorname": "Gudrun",
+        "weiblich": true
     }
 }

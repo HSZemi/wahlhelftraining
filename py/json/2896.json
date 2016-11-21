@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1233231,
+    "nummer": 2318388,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.01.1992",
-        "matrikelnummer": 2312738,
-        "mehrfachausfertigung": 1,
-        "nachname": "Neitzel",
-        "plzort": "53182 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "19.07.1990",
+        "matrikelnummer": 1933800,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bruder",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Nebingerhof 5",
+        "strasse": "Hofm\u00fchlenstra\u00dfe 3b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Egon",
+        "vorname": "Irminfried",
         "weiblich": false
     }
 }

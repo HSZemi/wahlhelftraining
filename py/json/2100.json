@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2113048,
+    "nummer": 2245877,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.12.1995",
-        "matrikelnummer": 16151,
-        "mehrfachausfertigung": 3,
-        "nachname": "Tr\u00f6ster",
-        "plzort": "53170 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "11.01.1999",
+        "matrikelnummer": 2919938,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stenzel",
+        "plzort": "6",
         "sternchen": 0,
-        "strasse": "M\u00fcnzweg 11",
+        "strasse": "F\u00e4rberstra\u00dfe 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Agatha",
+        "vorname": "Henny",
         "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1495404,
+    "nummer": 2005441,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "20.04.1999",
-        "matrikelnummer": 2369487,
+        "fakultaet": 5,
+        "geburtsdatum": "27.09.1993",
+        "matrikelnummer": 2147458,
         "mehrfachausfertigung": 1,
-        "nachname": "Nagel",
-        "plzort": "53193 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klingbeil",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Hellersiedlung Weg M 5",
+        "strasse": "H\u00fcl\u00dfestra\u00dfe 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Friedhilde",
-        "weiblich": true
+        "vorname": "Joseph",
+        "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1622327,
+    "nummer": 1719426,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.03.1991",
-        "matrikelnummer": 2623142,
+        "fakultaet": 3,
+        "geburtsdatum": "23.02.1987",
+        "matrikelnummer": 2065411,
         "mehrfachausfertigung": 1,
-        "nachname": "Rank",
-        "plzort": "53171 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wiemer",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Knickweg 1",
+        "strasse": "Moorfuhrtweg 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lilibeth",
-        "weiblich": true
+        "vorname": "Wolfhermann",
+        "weiblich": false
     }
 }

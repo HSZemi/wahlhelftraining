@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2963146,
+    "nummer": 2533010,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "07.02.1990",
-        "matrikelnummer": 119178,
+        "geburtsdatum": "21.02.1999",
+        "matrikelnummer": 174867,
         "mehrfachausfertigung": 1,
-        "nachname": "Kilian",
-        "plzort": "16775 Tornow",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Eichinger",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Weinleite 19",
+        "strasse": "Loschwitzer Br\u00fccke 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dittmar",
+        "vorname": "Fried",
         "weiblich": false
     }
 }

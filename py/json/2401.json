@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2299160,
+    "nummer": 2875393,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.10.1996",
-        "matrikelnummer": 2714018,
-        "mehrfachausfertigung": 5,
-        "nachname": "Heinzel",
-        "plzort": "53158 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "18.05.1994",
+        "matrikelnummer": 2084347,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Niemeyer",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Am Rausch 0",
+        "strasse": "Pfahlpl\u00e4tzchen 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rainhard",
+        "vorname": "Helmar",
         "weiblich": false
     }
 }

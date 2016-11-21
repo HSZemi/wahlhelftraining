@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1340324,
+    "nummer": 2595538,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "09.05.1994",
-        "matrikelnummer": 2929416,
+        "fakultaet": 4,
+        "geburtsdatum": "25.04.1996",
+        "matrikelnummer": 2808569,
         "mehrfachausfertigung": 1,
-        "nachname": "Bosch",
-        "plzort": "53175 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Genz",
+        "plzort": "4",
         "sternchen": 0,
-        "strasse": "Otto-Hahn-Platz 6",
+        "strasse": "Soonwaldstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Godo",
+        "vorname": "Kajetan",
         "weiblich": false
     }
 }

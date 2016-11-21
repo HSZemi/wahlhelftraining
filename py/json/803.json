@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2295062,
+    "nummer": 2344352,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "03.04.1991",
-        "matrikelnummer": 2664114,
-        "mehrfachausfertigung": 2,
-        "nachname": "Pitz",
-        "plzort": "53114 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "08.12.1991",
+        "matrikelnummer": 2250259,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Thum",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Hahngartenstra\u00dfe 27",
+        "strasse": "Am Br\u00fcchigt 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Manhardt",
+        "vorname": "Kurth",
         "weiblich": false
     }
 }

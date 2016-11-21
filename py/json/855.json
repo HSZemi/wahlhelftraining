@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1420270,
+    "nummer": 1475185,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.04.1995",
-        "matrikelnummer": 2723114,
+        "fakultaet": 6,
+        "geburtsdatum": "13.10.1996",
+        "matrikelnummer": 192831,
         "mehrfachausfertigung": 1,
-        "nachname": "Schimmel",
-        "plzort": "53111 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gruhn",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Laurinstra\u00dfe 0e",
+        "strasse": "Sedanstra\u00dfe 21",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heimfrid",
+        "vorname": "Arnim",
         "weiblich": false
     }
 }

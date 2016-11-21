@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2713111,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1844597,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.05.1995",
-        "matrikelnummer": 11143,
-        "mehrfachausfertigung": 1,
-        "nachname": "Holland",
-        "plzort": "14715 Stechow-Ferchesar",
+        "fakultaet": 3,
+        "geburtsdatum": "04.01.1991",
+        "matrikelnummer": 2870231,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kistner",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "D\u00fcckergasse 36",
+        "strasse": "Am Promigberg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Willmar",
+        "vorname": "Meinolf",
         "weiblich": false
     }
 }

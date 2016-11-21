@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2458493,
+    "nummer": 2388287,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "08.08.1986",
-        "matrikelnummer": 2448652,
+        "geburtsdatum": "22.12.1991",
+        "matrikelnummer": 2657878,
         "mehrfachausfertigung": 1,
-        "nachname": "Tischler",
-        "plzort": "53174 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Biermann",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Feldhofe 5",
+        "strasse": "Domstr. 19",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Almut",
+        "vorname": "Radegundis",
         "weiblich": true
     }
 }

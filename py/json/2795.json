@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2991950,
+    "nummer": 2143756,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 7,
-        "geburtsdatum": "12.10.1988",
-        "matrikelnummer": 1908336,
+        "geburtsdatum": "02.02.1995",
+        "matrikelnummer": 1975937,
         "mehrfachausfertigung": 1,
-        "nachname": "Trommer",
-        "plzort": "89344 Aislingen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Grundmann",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Querkamp 4",
+        "strasse": "Elisabethenplatz 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Balthasar",
-        "weiblich": false
+        "vorname": "Sonnhilde",
+        "weiblich": true
     }
 }

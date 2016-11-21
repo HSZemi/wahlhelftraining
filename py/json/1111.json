@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2646221,
+    "nummer": 2549932,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.12.1995",
-        "matrikelnummer": 2049041,
-        "mehrfachausfertigung": 1,
-        "nachname": "Sch\u00fcnemann",
-        "plzort": "53199 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "28.05.1986",
+        "matrikelnummer": 1942105,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Helbing",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwigsburger Weg 14",
+        "strasse": "Hafenbr\u00fccke 21",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Annerose",
+        "vorname": "Gertrudt",
         "weiblich": true
     }
 }

@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1767292,
+    "nummer": 2746875,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "01.08.1997",
-        "matrikelnummer": 2280550,
+        "geburtsdatum": "03.06.1999",
+        "matrikelnummer": 1973140,
         "mehrfachausfertigung": 1,
-        "nachname": "Schreyer",
-        "plzort": "53185 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Priebe",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Landseestra\u00dfe 0",
+        "strasse": "Zur Alten Ziegelei 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Annalena",
-        "weiblich": true
+        "vorname": "Wolfrid",
+        "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1023902,
+    "nummer": 1009864,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.01.1991",
-        "matrikelnummer": 2618917,
-        "mehrfachausfertigung": 3,
-        "nachname": "Schwarz",
-        "plzort": "53153 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "02.06.1999",
+        "matrikelnummer": 2868252,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schumacher",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Friesstra\u00dfe 11",
+        "strasse": "Ferdinand-Braun-Str. 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Friedhelm",
+        "vorname": "Boto",
         "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1435644,
+    "nummer": 2364036,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.12.1998",
-        "matrikelnummer": 2602498,
+        "fakultaet": 7,
+        "geburtsdatum": "28.01.1986",
+        "matrikelnummer": 2059117,
         "mehrfachausfertigung": 1,
-        "nachname": "Kowalski",
-        "plzort": "53157 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "David",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Grauener Weg 17",
+        "strasse": "Josef Haydngasse 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kunigunda",
+        "vorname": "Urda",
         "weiblich": true
     }
 }

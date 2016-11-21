@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1694716,
+    "nummer": 2203492,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "07.05.1996",
-        "matrikelnummer": 2184458,
-        "mehrfachausfertigung": 1,
-        "nachname": "G\u00fcnzel",
-        "plzort": "53224 Bonn",
+        "geburtsdatum": "18.08.1995",
+        "matrikelnummer": 2674360,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Neumann",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Wetroer Stra\u00dfe 4d",
+        "strasse": "Degelestra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Karlheinz",
+        "vorname": "Augustin",
         "weiblich": false
     }
 }

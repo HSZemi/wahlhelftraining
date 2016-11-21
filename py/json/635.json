@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2118100,
+    "nummer": 1705146,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.02.1991",
-        "matrikelnummer": 2487569,
+        "fakultaet": 6,
+        "geburtsdatum": "06.08.1990",
+        "matrikelnummer": 2776188,
         "mehrfachausfertigung": 1,
-        "nachname": "Stoiber",
-        "plzort": "53218 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sahin",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Bad-Berneck-Str. 8",
+        "strasse": "Rudolf-Diesel-Stra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Volkrad",
+        "vorname": "Herwart",
         "weiblich": false
     }
 }

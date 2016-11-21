@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2309733,
+    "nummer": 1613794,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "05.10.1990",
-        "matrikelnummer": 2737532,
+        "geburtsdatum": "26.08.1986",
+        "matrikelnummer": 2029269,
         "mehrfachausfertigung": 1,
-        "nachname": "Meister",
-        "plzort": "21445 Wulfsen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sternberg",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Finthener Weg 3d",
+        "strasse": "Stechpalmenweg 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ulli",
-        "weiblich": false
+        "vorname": "Reinlinde",
+        "weiblich": true
     }
 }

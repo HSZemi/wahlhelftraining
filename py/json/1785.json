@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2465769,
+    "nummer": 2494710,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.10.1989",
-        "matrikelnummer": 2398065,
+        "fakultaet": 7,
+        "geburtsdatum": "04.09.1992",
+        "matrikelnummer": 2230155,
         "mehrfachausfertigung": 1,
-        "nachname": "Assmann",
-        "plzort": "53142 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Matheis",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "An der B\u00f6schung 61e",
+        "strasse": "Anna-Maria-Junius-Str. 17",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Poldi",
-        "weiblich": true
+        "vorname": "Wernhard",
+        "weiblich": false
     }
 }

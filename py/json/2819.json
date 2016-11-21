@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2082461,
+    "nummer": 1774760,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "28.02.1989",
-        "matrikelnummer": 2810060,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "17.10.1992",
+        "matrikelnummer": 2011125,
         "mehrfachausfertigung": 1,
-        "nachname": "Rei\u00df",
-        "plzort": "53213 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Blechschmidt",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Riegelhofgasse 4",
+        "strasse": "Wachwitzer Weinberg 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Bonifaz",
+        "vorname": "Gerdt",
         "weiblich": false
     }
 }

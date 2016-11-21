@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1429024,
+    "nummer": 2652791,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.10.1996",
-        "matrikelnummer": 2100534,
-        "mehrfachausfertigung": 1,
-        "nachname": "Raddatz",
-        "plzort": "53122 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "02.03.1994",
+        "matrikelnummer": 15236,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00f6hringer",
+        "plzort": "0",
         "sternchen": 0,
-        "strasse": "Gerhart-Hauptmann-Str. 22",
+        "strasse": "Weltestra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Detrich",
+        "vorname": "Frowin",
         "weiblich": false
     }
 }

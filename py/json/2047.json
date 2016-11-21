@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2101048,
+    "nummer": 1082462,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.03.1993",
-        "matrikelnummer": 2435487,
+        "fakultaet": 6,
+        "geburtsdatum": "23.09.1993",
+        "matrikelnummer": 13822,
         "mehrfachausfertigung": 1,
-        "nachname": "Hopp",
-        "plzort": "06780 L\u00f6beritz",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ney",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Ostparkstra\u00dfe 29",
+        "strasse": "Volpenhennstra\u00dfe 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Otfried",
-        "weiblich": false
+        "vorname": "Elselore",
+        "weiblich": true
     }
 }

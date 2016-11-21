@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2465671,
+    "nummer": 1583727,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "03.10.1997",
-        "matrikelnummer": 2795293,
-        "mehrfachausfertigung": 3,
-        "nachname": "Schwan",
-        "plzort": "53150 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "15.05.1989",
+        "matrikelnummer": 2165423,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Eckert",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Sievekingsallee 0",
+        "strasse": "Stolzenbergstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lienhardt",
-        "weiblich": false
+        "vorname": "Pamela",
+        "weiblich": true
     }
 }

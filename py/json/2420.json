@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2665226,
+    "nummer": 1918043,
     "semester": "Sommersemester 2016",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "07.06.1999",
-        "matrikelnummer": 2107443,
-        "mehrfachausfertigung": 3,
-        "nachname": "Wei\u00dfenborn",
-        "plzort": "53216 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "04.09.1993",
+        "matrikelnummer": 2527395,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Henn",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Steinbeker Reihe 2",
+        "strasse": "Petkumstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sieghilde",
-        "weiblich": true
+        "vorname": "Neithard",
+        "weiblich": false
     }
 }

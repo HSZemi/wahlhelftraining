@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1722756,
+    "nummer": 1116216,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "09.09.1995",
-        "matrikelnummer": 2986152,
-        "mehrfachausfertigung": 3,
-        "nachname": "Renner",
-        "plzort": "53177 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "17.11.1993",
+        "matrikelnummer": 2798752,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Renken",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Orchideenstra\u00dfe 21",
+        "strasse": "Johann-Klotz-Stra\u00dfe 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Tony",
-        "weiblich": false
+        "vorname": "Brigitta",
+        "weiblich": true
     }
 }

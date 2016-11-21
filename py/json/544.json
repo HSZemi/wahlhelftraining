@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1690058,
+    "nummer": 2862477,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "19.12.1989",
-        "matrikelnummer": 120164,
+        "geburtsdatum": "08.03.1995",
+        "matrikelnummer": 2974533,
         "mehrfachausfertigung": 1,
-        "nachname": "Assmann",
-        "plzort": "37642 Holenberg",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Leonhard",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Rotteckstra\u00dfe 7",
+        "strasse": "Hammer Steindamm 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Holle",
-        "weiblich": true
+        "vorname": "Hansdieter",
+        "weiblich": false
     }
 }

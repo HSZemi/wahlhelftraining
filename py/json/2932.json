@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1772355,
+    "nummer": 2848448,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "08.10.1988",
-        "matrikelnummer": 1985294,
+        "geburtsdatum": "07.05.1993",
+        "matrikelnummer": 2889684,
         "mehrfachausfertigung": 1,
-        "nachname": "Reichelt",
-        "plzort": "53183 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schirmer",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Scriba-Stra\u00dfe 9",
+        "strasse": "Konopkastra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Myrta",
-        "weiblich": true
+        "vorname": "Ingobert",
+        "weiblich": false
     }
 }

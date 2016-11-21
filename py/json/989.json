@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1319213,
+    "nummer": 2387429,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.07.1995",
-        "matrikelnummer": 157880,
+        "fakultaet": 0,
+        "geburtsdatum": "27.01.1999",
+        "matrikelnummer": 2111375,
         "mehrfachausfertigung": 2,
-        "nachname": "Rentsch",
-        "plzort": "53227 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Borchardt",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Bodenseestra\u00dfe 1",
+        "strasse": "Strehlener Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Meikel",
-        "weiblich": false
+        "vorname": "Cathleen",
+        "weiblich": true
     }
 }

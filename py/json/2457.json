@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1460172,
+    "nummer": 1961404,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.02.1988",
-        "matrikelnummer": 2391031,
+        "fakultaet": 5,
+        "geburtsdatum": "08.08.1998",
+        "matrikelnummer": 2801433,
         "mehrfachausfertigung": 1,
-        "nachname": "Stolte",
-        "plzort": "53163 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "W\u00fcnsch",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Lia-W\u00f6hr-Platz 13",
+        "strasse": "Heidestieg 22",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lenz",
+        "vorname": "Walther",
         "weiblich": false
     }
 }

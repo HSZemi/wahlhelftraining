@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2457750,
+    "nummer": 1061637,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.06.1992",
-        "matrikelnummer": 1901665,
-        "mehrfachausfertigung": 1,
-        "nachname": "Gra\u00df",
-        "plzort": "53142 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "17.12.1993",
+        "matrikelnummer": 2554108,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hohn",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Weinleite 4",
+        "strasse": "St\u00fcrenburgstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Walda",
+        "vorname": "Tania",
         "weiblich": true
     }
 }

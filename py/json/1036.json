@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1662868,
+    "nummer": 2195114,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "20.12.1987",
-        "matrikelnummer": 199919,
-        "mehrfachausfertigung": 1,
-        "nachname": "Krieg",
-        "plzort": "50389 Wesseling",
+        "geburtsdatum": "25.05.1993",
+        "matrikelnummer": 2816494,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Westhoff",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Dr.-Ludwig-Leser-Stra\u00dfe 4",
+        "strasse": "Mettlerkampsweg 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Eckfried",
-        "weiblich": false
+        "vorname": "Vreneli",
+        "weiblich": true
     }
 }

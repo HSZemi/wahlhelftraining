@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2652397,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1024509,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.03.1997",
-        "matrikelnummer": 144905,
-        "mehrfachausfertigung": 1,
-        "nachname": "Ley",
-        "plzort": "53177 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "03.07.1991",
+        "matrikelnummer": 2223531,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hauk",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Leonhard-Hei\u00dfwolf-Stra\u00dfe 18",
+        "strasse": "Blosweg 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Jan",
+        "vorname": "Willibald",
         "weiblich": false
     }
 }

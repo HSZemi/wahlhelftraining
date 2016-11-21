@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1390184,
+    "nummer": 1786897,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.11.1995",
-        "matrikelnummer": 1949271,
-        "mehrfachausfertigung": 1,
-        "nachname": "Weniger",
-        "plzort": "37632 Eimen",
+        "fakultaet": 7,
+        "geburtsdatum": "16.01.1995",
+        "matrikelnummer": 1941973,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Eberhard",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Stettiner Stra\u00dfe 4",
+        "strasse": "Wolf-Huber-Weg 23",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ingolf",
+        "vorname": "Alrik",
         "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1643007,
+    "nummer": 1804607,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.12.1991",
-        "matrikelnummer": 146373,
-        "mehrfachausfertigung": 1,
-        "nachname": "Hake",
-        "plzort": "53172 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "01.05.1996",
+        "matrikelnummer": 12135,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Beckert",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Schifferstra\u00dfe 4",
+        "strasse": "Bahnhofsplatz 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ehrentraut",
+        "vorname": "Rosetraut",
         "weiblich": true
     }
 }

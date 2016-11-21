@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2134636,
+    "nummer": 1174440,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "06.06.1994",
-        "matrikelnummer": 159785,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "12.07.1993",
+        "matrikelnummer": 181632,
         "mehrfachausfertigung": 1,
-        "nachname": "Wessel",
-        "plzort": "53130 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Lehmkuhl",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Johannesweg 12",
+        "strasse": "Drosselbartweg 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Malve",
-        "weiblich": true
+        "vorname": "Horst",
+        "weiblich": false
     }
 }

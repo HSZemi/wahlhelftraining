@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2930198,
+    "nummer": 2871725,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "04.07.1997",
-        "matrikelnummer": 2068491,
-        "mehrfachausfertigung": 1,
-        "nachname": "Weise",
-        "plzort": "53218 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "18.06.1991",
+        "matrikelnummer": 2290144,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "T\u00f6pfer",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Im Langenacker 8",
+        "strasse": "Auf dem Eigen 15",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Leonore",
-        "weiblich": true
+        "vorname": "Louis",
+        "weiblich": false
     }
 }

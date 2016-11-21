@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2530194,
+    "nummer": 1929865,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.03.1999",
-        "matrikelnummer": 2497181,
-        "mehrfachausfertigung": 1,
-        "nachname": "Haake",
-        "plzort": "53172 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "26.02.1994",
+        "matrikelnummer": 2848355,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Weck",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Stadtweg 13",
+        "strasse": "Mommsenstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Johann",
-        "weiblich": false
+        "vorname": "Cathleen",
+        "weiblich": true
     }
 }

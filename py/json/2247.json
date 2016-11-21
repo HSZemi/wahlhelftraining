@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2221291,
+    "nummer": 1694381,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.08.1990",
-        "matrikelnummer": 2206511,
+        "fakultaet": 5,
+        "geburtsdatum": "28.02.1997",
+        "matrikelnummer": 163877,
         "mehrfachausfertigung": 1,
-        "nachname": "Reinartz",
-        "plzort": "53203 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lorenzen",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00e4lzergasse 24",
+        "strasse": "Zum Lindeberg 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wenzel",
+        "vorname": "Gordian",
         "weiblich": false
     }
 }

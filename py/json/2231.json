@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2638955,
+    "nummer": 2704101,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.05.1995",
-        "matrikelnummer": 2615126,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "15.04.1996",
+        "matrikelnummer": 2199212,
         "mehrfachausfertigung": 1,
-        "nachname": "Matthias",
-        "plzort": "53154 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hohn",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Bergmannring 6b",
+        "strasse": "Carl-Benz-Stra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Violetta",
-        "weiblich": true
+        "vorname": "Ottwin",
+        "weiblich": false
     }
 }

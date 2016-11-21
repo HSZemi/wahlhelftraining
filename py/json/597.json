@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1315724,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2588189,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.01.1995",
-        "matrikelnummer": 17356,
+        "fakultaet": 9,
+        "geburtsdatum": "16.03.1989",
+        "matrikelnummer": 18521,
         "mehrfachausfertigung": 1,
-        "nachname": "Stoll",
-        "plzort": "76684 \u00d6stringen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bremer",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Nobelring 20a",
+        "strasse": "Pappelallee 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kareen",
+        "vorname": "Irmlind",
         "weiblich": true
     }
 }

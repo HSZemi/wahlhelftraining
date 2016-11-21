@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2984549,
+    "nummer": 2407995,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "19.03.1999",
-        "matrikelnummer": 2276114,
-        "mehrfachausfertigung": 1,
-        "nachname": "Wiechert",
-        "plzort": "21394 Westergellersen",
+        "geburtsdatum": "20.03.1999",
+        "matrikelnummer": 12181,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schepers",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Liebknecht-Stra\u00dfe 9",
+        "strasse": "Schmale Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Melchior",
+        "vorname": "Hellmut",
         "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1551562,
+    "nummer": 2827747,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "20.09.1991",
-        "matrikelnummer": 2400619,
-        "mehrfachausfertigung": 1,
-        "nachname": "Greiner",
-        "plzort": "53160 Bonn",
+        "geburtsdatum": "07.03.1990",
+        "matrikelnummer": 2474916,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pahl",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Smidtstra\u00dfe 2",
+        "strasse": "Joseph Haydngasse 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Valentine",
-        "weiblich": true
+        "vorname": "Hippolytus",
+        "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2254327,
+    "nummer": 2167220,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.06.1994",
-        "matrikelnummer": 2170936,
-        "mehrfachausfertigung": 1,
-        "nachname": "Unger",
-        "plzort": "53193 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "26.09.1994",
+        "matrikelnummer": 2707240,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Carstensen",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Karl-Blum-Allee 2",
+        "strasse": "Diagonalstra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerti",
-        "weiblich": true
+        "vorname": "Martin",
+        "weiblich": false
     }
 }

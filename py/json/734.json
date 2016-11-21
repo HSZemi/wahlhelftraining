@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1942037,
+    "nummer": 1145809,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "24.08.1996",
-        "matrikelnummer": 18021,
+        "geburtsdatum": "22.03.1995",
+        "matrikelnummer": 2041779,
         "mehrfachausfertigung": 1,
-        "nachname": "Klaiber",
-        "plzort": "53149 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lippert",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Habsburgerallee 21",
+        "strasse": "Galeriestra\u00dfe 20c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kata",
-        "weiblich": true
+        "vorname": "Heino",
+        "weiblich": false
     }
 }

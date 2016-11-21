@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1208465,
+    "nummer": 1129204,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "27.11.1992",
-        "matrikelnummer": 2665588,
-        "mehrfachausfertigung": 1,
-        "nachname": "Sch\u00f6ne",
-        "plzort": "53150 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "10.07.1994",
+        "matrikelnummer": 2368784,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Niemeyer",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Schubertshof 1",
+        "strasse": "Gronauer Stra\u00dfe 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ehrmut",
-        "weiblich": false
+        "vorname": "Roseline",
+        "weiblich": true
     }
 }

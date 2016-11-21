@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2670968,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1329332,
+    "semester": "Wintersemester 2015/2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.12.1994",
-        "matrikelnummer": 2749993,
+        "fakultaet": 6,
+        "geburtsdatum": "12.05.1990",
+        "matrikelnummer": 2754407,
         "mehrfachausfertigung": 2,
-        "nachname": "Dill",
-        "plzort": "27632 Misselwarden",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schnabel",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Altebergsweg 11",
+        "strasse": "B\u00e4rnsdorfer Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Mathis",
-        "weiblich": false
+        "vorname": "Hulda",
+        "weiblich": true
     }
 }

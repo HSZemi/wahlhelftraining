@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1332928,
+    "nummer": 1909187,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "13.06.1990",
-        "matrikelnummer": 2242725,
-        "mehrfachausfertigung": 1,
-        "nachname": "Patzelt",
-        "plzort": "86874 Tussenhausen",
+        "geburtsdatum": "27.03.1989",
+        "matrikelnummer": 14182,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pfeffer",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Feldbergstra\u00dfe 0",
+        "strasse": "Am Waldschl\u00f6\u00dfchen 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Monica",
-        "weiblich": true
+        "vorname": "Wolfrid",
+        "weiblich": false
     }
 }

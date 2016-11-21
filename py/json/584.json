@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2579076,
+    "nummer": 2087191,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.06.1994",
-        "matrikelnummer": 2194139,
-        "mehrfachausfertigung": 1,
-        "nachname": "Werner",
-        "plzort": "53122 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "18.09.1992",
+        "matrikelnummer": 2502458,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Vogt",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Schandauer Stra\u00dfe 1",
+        "strasse": "Augartenweg 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sixtus",
+        "vorname": "Kuno",
         "weiblich": false
     }
 }

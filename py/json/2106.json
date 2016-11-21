@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2325485,
+    "nummer": 1523915,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "14.01.1992",
-        "matrikelnummer": 2458168,
+        "geburtsdatum": "06.08.1993",
+        "matrikelnummer": 2553811,
         "mehrfachausfertigung": 1,
-        "nachname": "Radtke",
-        "plzort": "53169 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lachmann",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Liebknecht-Stra\u00dfe 26",
+        "strasse": "Sternwartstr. 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Herlind",
+        "vorname": "Adina",
         "weiblich": true
     }
 }

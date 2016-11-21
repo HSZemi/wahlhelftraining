@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1430818,
+    "nummer": 1057194,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.01.1993",
-        "matrikelnummer": 2295687,
-        "mehrfachausfertigung": 2,
-        "nachname": "Langenbach",
-        "plzort": "53202 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "11.05.1995",
+        "matrikelnummer": 2271634,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stutz",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Kruppstra\u00dfe 1",
+        "strasse": "Oliverstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lienhard",
-        "weiblich": false
+        "vorname": "Berngard",
+        "weiblich": true
     }
 }

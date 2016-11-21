@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1965182,
+    "nummer": 1893594,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.05.1998",
-        "matrikelnummer": 2760371,
+        "fakultaet": 5,
+        "geburtsdatum": "24.09.1999",
+        "matrikelnummer": 18905,
         "mehrfachausfertigung": 1,
-        "nachname": "Pickel",
-        "plzort": "53121 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "K\u00f6sters",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Stolzenbergstra\u00dfe 15",
+        "strasse": "Ohmstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Berndt",
-        "weiblich": false
+        "vorname": "Annkatrin",
+        "weiblich": true
     }
 }

@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1413958,
+    "nummer": 1980305,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.05.1999",
-        "matrikelnummer": 2998610,
+        "fakultaet": 6,
+        "geburtsdatum": "17.10.1992",
+        "matrikelnummer": 2704361,
         "mehrfachausfertigung": 1,
-        "nachname": "Schaefer",
-        "plzort": "41236 M\u00f6nchengladbach",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wiemann",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Blauhandgasse 30",
+        "strasse": "Im Metzenacker 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Bertlinde",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

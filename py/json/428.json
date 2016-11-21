@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2138924,
+    "nummer": 2125343,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.05.1992",
-        "matrikelnummer": 2883528,
-        "mehrfachausfertigung": 1,
-        "nachname": "Maisch",
-        "plzort": "86675 Buchdorf",
+        "fakultaet": 5,
+        "geburtsdatum": "27.05.1991",
+        "matrikelnummer": 2262120,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rieder",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Gebr\u00fcder-Grimm-Weg 5",
+        "strasse": "Oppenheimer Landstra\u00dfe 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Jessica",
+        "vorname": "D\u00f6rthe",
         "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1635028,
+    "nummer": 2366639,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "20.12.1992",
-        "matrikelnummer": 166418,
-        "mehrfachausfertigung": 1,
-        "nachname": "Heinlein",
-        "plzort": "53148 Bonn",
+        "geburtsdatum": "18.06.1992",
+        "matrikelnummer": 2423844,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fritzsche",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Strietkoppel 19e",
+        "strasse": "Am Kn\u00f6cklein 20",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ayse",
+        "vorname": "Gerlind",
         "weiblich": true
     }
 }

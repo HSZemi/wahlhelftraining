@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1733435,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1641163,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "19.07.1993",
-        "matrikelnummer": 13446,
-        "mehrfachausfertigung": 1,
-        "nachname": "Berner",
-        "plzort": "53120 Bonn",
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "22.11.1993",
+        "matrikelnummer": 2113414,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Neuber",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Lagerhausstr. 3",
+        "strasse": "Dr.-Groddeck-Weg 27",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hildegart",
+        "vorname": "Damaris",
         "weiblich": true
     }
 }

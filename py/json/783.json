@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2717787,
+    "nummer": 2035800,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.06.1995",
-        "matrikelnummer": 2738281,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "25.07.1991",
+        "matrikelnummer": 2359202,
         "mehrfachausfertigung": 1,
-        "nachname": "Holst",
-        "plzort": "56370 Mittelfischbach",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schimpf",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Felsenkellerstra\u00dfe 0",
+        "strasse": "Inselsbergstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Madlen",
-        "weiblich": true
+        "vorname": "Dionys",
+        "weiblich": false
     }
 }

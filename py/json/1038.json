@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1084205,
+    "nummer": 2581298,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.04.1992",
-        "matrikelnummer": 2710402,
-        "mehrfachausfertigung": 3,
-        "nachname": "Riedl",
-        "plzort": "53129 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "20.11.1991",
+        "matrikelnummer": 2524333,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Krumm",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Sankt-Rochus-Stra\u00dfe 8",
+        "strasse": "Erlenweg 12c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Melissa",
-        "weiblich": true
+        "vorname": "Burkhard",
+        "weiblich": false
     }
 }

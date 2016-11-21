@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2430043,
+    "nummer": 1224405,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.02.1992",
-        "matrikelnummer": 2581970,
+        "fakultaet": 6,
+        "geburtsdatum": "18.05.1992",
+        "matrikelnummer": 12284,
         "mehrfachausfertigung": 1,
-        "nachname": "Zell",
-        "plzort": "53131 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Neff",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Reinhardstra\u00dfe 8b",
+        "strasse": "Orber Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Bianka",
-        "weiblich": true
+        "vorname": "Harri",
+        "weiblich": false
     }
 }

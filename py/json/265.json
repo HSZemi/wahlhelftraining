@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1110940,
+    "nummer": 2527163,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "05.06.1986",
-        "matrikelnummer": 2495269,
-        "mehrfachausfertigung": 1,
-        "nachname": "Baumer",
-        "plzort": "30175 Hannover",
+        "fakultaet": 6,
+        "geburtsdatum": "22.01.1996",
+        "matrikelnummer": 2654634,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Probst",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Ro\u00dfthaler Stra\u00dfe 13",
+        "strasse": "Mosczinskystra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Frieder",
-        "weiblich": false
+        "vorname": "Ariane",
+        "weiblich": true
     }
 }

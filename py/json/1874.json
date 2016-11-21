@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2813395,
+    "nummer": 2434562,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.10.1991",
-        "matrikelnummer": 2856215,
-        "mehrfachausfertigung": 1,
-        "nachname": "Ihle",
-        "plzort": "53187 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "22.07.1999",
+        "matrikelnummer": 2043678,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinisch",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Schleswiger Stra\u00dfe 12",
+        "strasse": "Klosterberg 63",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ramona",
-        "weiblich": true
+        "vorname": "Ruben",
+        "weiblich": false
     }
 }

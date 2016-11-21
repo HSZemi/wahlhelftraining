@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2506934,
+    "nummer": 2751774,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.08.1995",
-        "matrikelnummer": 144572,
+        "fakultaet": 3,
+        "geburtsdatum": "16.02.1999",
+        "matrikelnummer": 2658819,
         "mehrfachausfertigung": 1,
-        "nachname": "Tietz",
-        "plzort": "53171 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sch\u00fcler",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Am Knie 3",
+        "strasse": "Am Lagerplatz 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Volkhart",
-        "weiblich": false
+        "vorname": "Linde",
+        "weiblich": true
     }
 }

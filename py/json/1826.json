@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1063115,
+    "nummer": 1354218,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "08.09.1993",
-        "matrikelnummer": 2195877,
+        "geburtsdatum": "26.01.1992",
+        "matrikelnummer": 2932322,
         "mehrfachausfertigung": 1,
-        "nachname": "Fl\u00fcgge",
-        "plzort": "07554 Korbu\u00dfen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heuer",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Am Seeh\u00fcgel 4",
+        "strasse": "Ritter von Bach-Stra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Manfried",
+        "vorname": "Christfried",
         "weiblich": false
     }
 }

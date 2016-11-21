@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2382846,
+    "nummer": 1702388,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "05.08.1989",
-        "matrikelnummer": 2654970,
+        "geburtsdatum": "17.11.1990",
+        "matrikelnummer": 1922532,
         "mehrfachausfertigung": 1,
-        "nachname": "Lemmer",
-        "plzort": "97318 Kitzingen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "L\u00fcbke",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Am Reisb\u00fchl 23c",
+        "strasse": "Wenzelweg 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Romy",
-        "weiblich": true
+        "vorname": "Heimfrid",
+        "weiblich": false
     }
 }

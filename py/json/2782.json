@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2322535,
+    "nummer": 1798248,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.01.1991",
-        "matrikelnummer": 1978949,
-        "mehrfachausfertigung": 1,
-        "nachname": "Piontek",
-        "plzort": "53225 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "15.10.1990",
+        "matrikelnummer": 1925040,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Peschke",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Bremer Platz 2",
+        "strasse": "Weidenbornstra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ljiljana",
-        "weiblich": true
+        "vorname": "Reinhold",
+        "weiblich": false
     }
 }

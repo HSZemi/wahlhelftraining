@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1183208,
+    "nummer": 1111792,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "20.04.1998",
-        "matrikelnummer": 2140211,
+        "fakultaet": 7,
+        "geburtsdatum": "11.01.1991",
+        "matrikelnummer": 2019031,
         "mehrfachausfertigung": 1,
-        "nachname": "Blumenthal",
+        "mitglied_studierendenschaft": true,
+        "nachname": "St\u00f6cker",
         "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Nikolausstra\u00dfe 1a",
+        "strasse": "T\u00e4nnichtstra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Klarissa",
+        "vorname": "Johanna",
         "weiblich": true
     }
 }

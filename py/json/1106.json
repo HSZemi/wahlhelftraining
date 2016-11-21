@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2717838,
+    "nummer": 1531798,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.05.1997",
-        "matrikelnummer": 2829411,
-        "mehrfachausfertigung": 2,
-        "nachname": "Burghardt",
-        "plzort": "53222 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "20.03.1993",
+        "matrikelnummer": 11849,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gottschalk",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Am Anfang 6",
+        "strasse": "Tulpenweg 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elisabetha",
-        "weiblich": true
+        "vorname": "Bernhard",
+        "weiblich": false
     }
 }

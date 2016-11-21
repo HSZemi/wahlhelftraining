@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1867970,
+    "nummer": 1316336,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "26.05.1995",
-        "matrikelnummer": 2520452,
+        "fakultaet": 4,
+        "geburtsdatum": "11.06.1994",
+        "matrikelnummer": 2982986,
         "mehrfachausfertigung": 1,
-        "nachname": "Uhlig",
-        "plzort": "53191 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Lutter",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Mockst\u00e4dter Stra\u00dfe 20c",
+        "strasse": "Am Dorngraben 8b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerrit",
+        "vorname": "Adi",
         "weiblich": false
     }
 }

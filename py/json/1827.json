@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2061484,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2933871,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "18.10.1998",
-        "matrikelnummer": 2020201,
+        "geburtsdatum": "03.04.1989",
+        "matrikelnummer": 2300629,
         "mehrfachausfertigung": 1,
-        "nachname": "Erben",
-        "plzort": "53189 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Birk",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Mildred-Scheel-Stra\u00dfe 9",
+        "strasse": "Kupferhammer 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Franca",
+        "vorname": "Beatrix",
         "weiblich": true
     }
 }

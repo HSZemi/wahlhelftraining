@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1557097,
+    "nummer": 1520992,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.10.1995",
-        "matrikelnummer": 2304853,
-        "mehrfachausfertigung": 2,
-        "nachname": "Schmitz",
-        "plzort": "53224 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "23.04.1997",
+        "matrikelnummer": 142834,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "B\u00fcscher",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Hutweide 3",
+        "strasse": "Nickerner Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sybille",
-        "weiblich": true
+        "vorname": "Landolf",
+        "weiblich": false
     }
 }

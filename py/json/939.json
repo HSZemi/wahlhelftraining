@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": true,
         "sp": true
     },
-    "nummer": 2353273,
+    "nummer": 1382415,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "12.04.1999",
-        "matrikelnummer": 12698,
-        "mehrfachausfertigung": 1,
-        "nachname": "Wiesmann",
-        "plzort": "53124 Bonn",
+        "geburtsdatum": "05.08.1991",
+        "matrikelnummer": 2320944,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hecht",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Hohemarkstra\u00dfe 4",
+        "strasse": "Elisabethstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Erna",
-        "weiblich": true
+        "vorname": "Marko",
+        "weiblich": false
     }
 }

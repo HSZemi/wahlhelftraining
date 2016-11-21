@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1114375,
+    "nummer": 1046325,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.08.1991",
-        "matrikelnummer": 2750484,
+        "fakultaet": 3,
+        "geburtsdatum": "28.09.1996",
+        "matrikelnummer": 2822665,
         "mehrfachausfertigung": 1,
-        "nachname": "Blankenburg",
-        "plzort": "89275 Elchingen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rudolf",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Leonhardistra\u00dfe 12",
+        "strasse": "Karl-Perotte-Stra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ringo",
-        "weiblich": false
+        "vorname": "Kriemhilde",
+        "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1878337,
-    "semester": "Sommersemester 2016",
+    "nummer": 1804227,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "22.12.1993",
-        "matrikelnummer": 2309377,
-        "mehrfachausfertigung": 1,
-        "nachname": "Kamm",
-        "plzort": "53147 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "06.11.1991",
+        "matrikelnummer": 2305460,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ihle",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Vorerlenweg 29e",
+        "strasse": "Spitzbergstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Bernhart",
+        "vorname": "Melchior",
         "weiblich": false
     }
 }

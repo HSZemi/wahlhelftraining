@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1037296,
+    "nummer": 1515624,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "20.06.1991",
-        "matrikelnummer": 2406260,
+        "geburtsdatum": "28.07.1992",
+        "matrikelnummer": 2700611,
         "mehrfachausfertigung": 1,
-        "nachname": "Benz",
-        "plzort": "53180 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Henne",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Bernhard-Wensch-Stra\u00dfe 7d",
+        "strasse": "Waldfriedstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Anneros",
-        "weiblich": true
+        "vorname": "Fidelius",
+        "weiblich": false
     }
 }

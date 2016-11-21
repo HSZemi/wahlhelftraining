@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2505551,
+    "nummer": 1843192,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.03.1992",
-        "matrikelnummer": 2806961,
+        "fakultaet": 5,
+        "geburtsdatum": "27.04.1999",
+        "matrikelnummer": 164816,
         "mehrfachausfertigung": 1,
-        "nachname": "Bork",
-        "plzort": "53215 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Haake",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Egestra\u00dfe 5",
+        "strasse": "F\u00f6hrenweg 0d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Karlotto",
+        "vorname": "Ambrosius",
         "weiblich": false
     }
 }

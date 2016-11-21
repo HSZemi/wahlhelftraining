@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1458621,
+    "nummer": 1856448,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "13.12.1998",
-        "matrikelnummer": 19514,
-        "mehrfachausfertigung": 1,
-        "nachname": "Ruff",
-        "plzort": "53173 Bonn",
+        "geburtsdatum": "08.01.1984",
+        "matrikelnummer": 153604,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Edel",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Schmiedeberg 5",
+        "strasse": "Kurt-Schumacher-Allee 26",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Annie",
+        "vorname": "Pascale",
         "weiblich": true
     }
 }

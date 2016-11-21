@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1758420,
+    "nummer": 2240916,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.06.1992",
-        "matrikelnummer": 15745,
-        "mehrfachausfertigung": 1,
-        "nachname": "Fleischmann",
-        "plzort": "53182 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "18.12.1996",
+        "matrikelnummer": 2198782,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hummel",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Koch-Stra\u00dfe 49b",
+        "strasse": "Pflostweg 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Cyrill",
+        "vorname": "Valerian",
         "weiblich": false
     }
 }

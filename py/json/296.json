@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2257330,
+    "nummer": 1079391,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.07.1995",
-        "matrikelnummer": 2412760,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bott",
-        "plzort": "53224 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "12.02.1999",
+        "matrikelnummer": 119875,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lemmer",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Lepsiusstra\u00dfe 9",
+        "strasse": "Knappsdorfer Stra\u00dfe 23",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Jobst",
-        "weiblich": false
+        "vorname": "Leopoldina",
+        "weiblich": true
     }
 }

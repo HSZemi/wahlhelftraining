@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1989607,
+    "nummer": 2768915,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "10.09.1986",
-        "matrikelnummer": 2796032,
+        "geburtsdatum": "01.03.1991",
+        "matrikelnummer": 143575,
         "mehrfachausfertigung": 1,
-        "nachname": "M\u00fcnch",
-        "plzort": "53207 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "K\u00f6lsch",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Pitersenstieg 6",
+        "strasse": "Wollnerstra\u00dfe 39",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wendela",
+        "vorname": "Rebecca",
         "weiblich": true
     }
 }

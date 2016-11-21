@@ -1,21 +1,23 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1626834,
+    "nummer": 2309970,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.01.1995",
-        "matrikelnummer": 11665,
+        "fakultaet": 6,
+        "geburtsdatum": "21.05.1986",
+        "matrikelnummer": 2502569,
         "mehrfachausfertigung": 2,
-        "nachname": "Schuller",
-        "plzort": "17089 Werder",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinz",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "David-Stempel-Stra\u00dfe 0",
+        "strasse": "Lahmeyerstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sieghilde",
+        "vorname": "Malgorzata",
         "weiblich": true
     }
 }

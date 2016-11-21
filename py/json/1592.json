@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1791742,
+    "nummer": 1029007,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.05.1993",
-        "matrikelnummer": 2066709,
-        "mehrfachausfertigung": 4,
-        "nachname": "Topp",
-        "plzort": "53111 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "12.05.1995",
+        "matrikelnummer": 2381730,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Haas",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Auf der Schanz 2",
+        "strasse": "Liliencronstra\u00dfe 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elisabetha",
-        "weiblich": true
+        "vorname": "Wolfried",
+        "weiblich": false
     }
 }

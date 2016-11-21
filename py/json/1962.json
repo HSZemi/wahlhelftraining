@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1265792,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1104766,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "17.10.1997",
-        "matrikelnummer": 2104077,
-        "mehrfachausfertigung": 2,
-        "nachname": "Ebel",
-        "plzort": "53190 Bonn",
+        "geburtsdatum": "16.10.1991",
+        "matrikelnummer": 2603291,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Paulus",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Seehof 20",
+        "strasse": "Girlitzweg 21",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ludger",
+        "vorname": "Eugen",
         "weiblich": false
     }
 }

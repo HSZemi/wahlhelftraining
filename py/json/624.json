@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2456866,
+    "nummer": 1061244,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "18.12.1991",
-        "matrikelnummer": 18056,
-        "mehrfachausfertigung": 4,
-        "nachname": "Mair",
-        "plzort": "64658 F\u00fcrth",
+        "fakultaet": 4,
+        "geburtsdatum": "16.02.1995",
+        "matrikelnummer": 2583193,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "H\u00e4nsel",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Graupaer Stra\u00dfe 5",
+        "strasse": "Claviusstr. 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ivanka",
-        "weiblich": true
+        "vorname": "Kaspar",
+        "weiblich": false
     }
 }

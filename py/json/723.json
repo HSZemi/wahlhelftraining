@@ -4,18 +4,20 @@
         "gremien": true,
         "sp": true
     },
-    "nummer": 1027301,
+    "nummer": 2666533,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "14.04.1995",
-        "matrikelnummer": 2016489,
+        "geburtsdatum": "12.11.1990",
+        "matrikelnummer": 2510534,
         "mehrfachausfertigung": 1,
-        "nachname": "Hamann",
-        "plzort": "57439 Attendorn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Greger",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Haydnstra\u00dfe 12",
+        "strasse": "Ortenaustr. / mit Stichstr. 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Cynthia",
-        "weiblich": true
+        "vorname": "Rigbert",
+        "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1072645,
+    "nummer": 2557939,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "24.08.1993",
-        "matrikelnummer": 1952364,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "15.07.1988",
+        "matrikelnummer": 2685285,
         "mehrfachausfertigung": 1,
-        "nachname": "Storm",
-        "plzort": "53132 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Matthes",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Mockst\u00e4dter Stra\u00dfe 20",
+        "strasse": "Papierm\u00fchlengasse 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Nora",
+        "vorname": "Luka",
         "weiblich": true
     }
 }

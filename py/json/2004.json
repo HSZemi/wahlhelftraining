@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1817962,
+    "nummer": 2966052,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "25.04.1993",
-        "matrikelnummer": 2407817,
+        "geburtsdatum": "03.10.1995",
+        "matrikelnummer": 17505,
         "mehrfachausfertigung": 1,
-        "nachname": "Sperlich",
-        "plzort": "53225 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Burkhardt",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Bahnstra\u00dfe 9",
+        "strasse": "Kolpingstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Friedbald",
+        "vorname": "Fred",
         "weiblich": false
     }
 }

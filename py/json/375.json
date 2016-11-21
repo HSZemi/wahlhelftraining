@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2968676,
+    "nummer": 1255036,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.11.1990",
-        "matrikelnummer": 2217059,
+        "fakultaet": 9,
+        "geburtsdatum": "17.06.1993",
+        "matrikelnummer": 2071753,
         "mehrfachausfertigung": 1,
-        "nachname": "Goldschmidt",
-        "plzort": "25572 Landscheide",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Engel",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Bert-Brecht-Stra\u00dfe 1",
+        "strasse": "Spreewalder Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Holdina",
+        "vorname": "Amely",
         "weiblich": true
     }
 }

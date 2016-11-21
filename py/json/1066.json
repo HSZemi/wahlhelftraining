@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2694027,
+    "nummer": 1133684,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.05.1997",
-        "matrikelnummer": 2240439,
-        "mehrfachausfertigung": 1,
-        "nachname": "H\u00fcther",
-        "plzort": "53175 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "06.10.1993",
+        "matrikelnummer": 2607299,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kn\u00fcppel",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Coburger Weg 4",
+        "strasse": "Stumpenweg 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Werngard",
-        "weiblich": true
+        "vorname": "Friedberg",
+        "weiblich": false
     }
 }

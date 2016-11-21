@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1167377,
+    "nummer": 1296942,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.07.1999",
-        "matrikelnummer": 17501,
+        "fakultaet": 8,
+        "geburtsdatum": "09.05.1989",
+        "matrikelnummer": 15110,
         "mehrfachausfertigung": 1,
-        "nachname": "K\u00f6rner",
-        "plzort": "53192 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heldt",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Strehlener Platz 3",
+        "strasse": "Hermann-Schmitt-Platz 23a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ferhart",
-        "weiblich": false
+        "vorname": "Gieselind",
+        "weiblich": true
     }
 }

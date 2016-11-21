@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2144025,
+    "nummer": 1274762,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.01.1997",
-        "matrikelnummer": 151447,
-        "mehrfachausfertigung": 1,
-        "nachname": "Gl\u00fcck",
-        "plzort": "97519 Riedbach",
+        "fakultaet": 5,
+        "geburtsdatum": "24.07.1999",
+        "matrikelnummer": 2624788,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Opitz",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Karl-Lachmann-Stra\u00dfe 31",
+        "strasse": "Zweite Amsinckbr\u00fccke 31",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rudger",
-        "weiblich": false
+        "vorname": "Hermelinda",
+        "weiblich": true
     }
 }

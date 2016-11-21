@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1291390,
+    "nummer": 1955966,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "01.06.1983",
-        "matrikelnummer": 2825591,
+        "geburtsdatum": "18.05.1997",
+        "matrikelnummer": 2387146,
         "mehrfachausfertigung": 1,
-        "nachname": "Scheid",
-        "plzort": "39624 B\u00fcste",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klinke",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Ferdinandstor 25d",
+        "strasse": "Altgompitz 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Reinhard",
+        "vorname": "Karlotto",
         "weiblich": false
     }
 }

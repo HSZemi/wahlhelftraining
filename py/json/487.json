@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1555130,
+    "nummer": 1713320,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "08.08.1987",
-        "matrikelnummer": 1957171,
+        "geburtsdatum": "27.10.1988",
+        "matrikelnummer": 2254492,
         "mehrfachausfertigung": 1,
-        "nachname": "Kn\u00f6dler",
-        "plzort": "53192 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Utz",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Frutolfstr. 6",
+        "strasse": "Klaus-Mann-Platz 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elmar",
-        "weiblich": false
+        "vorname": "Gertrud",
+        "weiblich": true
     }
 }

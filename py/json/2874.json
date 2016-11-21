@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2437141,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2356233,
+    "semester": "Wintersemester 2015/2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "10.05.1999",
-        "matrikelnummer": 2239804,
-        "mehrfachausfertigung": 1,
-        "nachname": "Emde",
-        "plzort": "53150 Bonn",
+        "geburtsdatum": "23.11.1994",
+        "matrikelnummer": 2273163,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Henrichs",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Hospitalstra\u00dfe 3",
+        "strasse": "Diebsgrundweg 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Reni",
-        "weiblich": true
+        "vorname": "Emerich",
+        "weiblich": false
     }
 }

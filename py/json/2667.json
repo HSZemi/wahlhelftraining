@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2636193,
+    "nummer": 1732845,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.08.1999",
-        "matrikelnummer": 2969095,
-        "mehrfachausfertigung": 2,
-        "nachname": "Brandstetter",
-        "plzort": "53209 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "10.03.1994",
+        "matrikelnummer": 167583,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stevens",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Hofgasse 11c",
+        "strasse": "Gustinus Ambrosi-Weg 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Walburga",
+        "vorname": "Nora",
         "weiblich": true
     }
 }

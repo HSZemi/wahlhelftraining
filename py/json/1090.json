@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1987968,
+    "nummer": 2337295,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "24.03.1991",
-        "matrikelnummer": 2158784,
-        "mehrfachausfertigung": 3,
-        "nachname": "R\u00fchl",
-        "plzort": "49406 Drentwede",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "27.09.1990",
+        "matrikelnummer": 2821553,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Tittel",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Emdener Stra\u00dfe 9",
+        "strasse": "Schubertshof 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Walter",
-        "weiblich": false
+        "vorname": "Hannchen",
+        "weiblich": true
     }
 }

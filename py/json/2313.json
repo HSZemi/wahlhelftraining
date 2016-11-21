@@ -1,21 +1,23 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1988124,
+    "nummer": 2631531,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.07.1997",
-        "matrikelnummer": 1928674,
+        "fakultaet": 6,
+        "geburtsdatum": "07.02.1999",
+        "matrikelnummer": 2184029,
         "mehrfachausfertigung": 2,
-        "nachname": "St\u00f6rmer",
-        "plzort": "19357 Karst\u00e4dt",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Severin",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Becker-Stra\u00dfe 11",
+        "strasse": "Bedfordstr. 43",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerheide",
+        "vorname": "Lisl",
         "weiblich": true
     }
 }

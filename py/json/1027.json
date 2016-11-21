@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2367276,
+    "nummer": 1903508,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.04.1993",
-        "matrikelnummer": 2256947,
-        "mehrfachausfertigung": 1,
-        "nachname": "Feller",
-        "plzort": "53185 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "28.04.1983",
+        "matrikelnummer": 181071,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sebastian",
+        "plzort": "4",
         "sternchen": 0,
-        "strasse": "Drosselbartweg 12",
+        "strasse": "Altdobritz 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hildebrand",
-        "weiblich": false
+        "vorname": "Irmgarda",
+        "weiblich": true
     }
 }

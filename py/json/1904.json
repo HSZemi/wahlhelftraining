@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1484209,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2823212,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.04.1994",
-        "matrikelnummer": 2943921,
+        "fakultaet": 6,
+        "geburtsdatum": "11.03.1993",
+        "matrikelnummer": 2527110,
         "mehrfachausfertigung": 1,
-        "nachname": "Zieger",
-        "plzort": "53226 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Triebel",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "An der Prie\u00dfnitz 10",
+        "strasse": "Am Hornsberg 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gotthart",
+        "vorname": "Jean",
         "weiblich": false
     }
 }

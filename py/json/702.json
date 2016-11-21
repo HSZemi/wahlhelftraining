@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2678186,
+    "nummer": 1255165,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "12.11.1992",
-        "matrikelnummer": 2937795,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bopp",
-        "plzort": "86556 K\u00fchbach",
+        "geburtsdatum": "13.03.1997",
+        "matrikelnummer": 2347660,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Andreas",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Wichernsweg 26",
+        "strasse": "Dreieichenstra\u00dfe 1a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Annaliese",
+        "vorname": "Melissa",
         "weiblich": true
     }
 }

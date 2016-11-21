@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1073015,
+    "nummer": 2933763,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.03.1993",
-        "matrikelnummer": 2628809,
-        "mehrfachausfertigung": 3,
-        "nachname": "Eilers",
-        "plzort": "53173 Bonn",
+        "geburtsdatum": "11.09.1990",
+        "matrikelnummer": 2533206,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heckel",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Schuhgasse 2",
+        "strasse": "Kappelmattstr. 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Bert",
+        "vorname": "Holm",
         "weiblich": false
     }
 }

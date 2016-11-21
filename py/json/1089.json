@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1717606,
+    "nummer": 2387405,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.03.1993",
-        "matrikelnummer": 2465033,
+        "fakultaet": 2,
+        "geburtsdatum": "07.07.1997",
+        "matrikelnummer": 1976444,
         "mehrfachausfertigung": 1,
-        "nachname": "Salzmann",
-        "plzort": "53207 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sch\u00fctt",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Inselblick 32",
+        "strasse": "Propstengasse 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dieter",
+        "vorname": "Gangolf",
         "weiblich": false
     }
 }

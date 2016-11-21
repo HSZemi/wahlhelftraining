@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1828774,
+    "nummer": 1446896,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "17.05.1994",
-        "matrikelnummer": 2635459,
-        "mehrfachausfertigung": 1,
-        "nachname": "Thum",
-        "plzort": "53198 Bonn",
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "06.03.1995",
+        "matrikelnummer": 2021403,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "St\u00fcrmer",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Katharinenpforte 6",
+        "strasse": "Fr\u00fchlingstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ottomar",
+        "vorname": "Didi",
         "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2606073,
+    "nummer": 1620688,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "07.09.1988",
-        "matrikelnummer": 2286044,
+        "fakultaet": 8,
+        "geburtsdatum": "08.04.1988",
+        "matrikelnummer": 17306,
         "mehrfachausfertigung": 1,
-        "nachname": "Hauber",
-        "plzort": "98663 Hellingen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Burk",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Zum Heiderand 6",
+        "strasse": "Rotkleedamm 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wilhelma",
-        "weiblich": true
+        "vorname": "Helmfried",
+        "weiblich": false
     }
 }

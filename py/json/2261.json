@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2285230,
+    "nummer": 1359817,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.08.1994",
-        "matrikelnummer": 2186183,
-        "mehrfachausfertigung": 2,
-        "nachname": "Kirchhof",
-        "plzort": "12589 Berlin",
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "03.01.1988",
+        "matrikelnummer": 2366199,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rauh",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Ziegelwiese 8",
+        "strasse": "Karl-Strutz-Weg 26",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rouven",
-        "weiblich": false
+        "vorname": "Sindy",
+        "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1829070,
-    "semester": "Sommersemester 2016",
+    "nummer": 1241972,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.08.1993",
-        "matrikelnummer": 2140069,
-        "mehrfachausfertigung": 2,
-        "nachname": "Wernicke",
-        "plzort": "53213 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "28.09.1996",
+        "matrikelnummer": 2156347,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Vorwerk",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Paradiesgasse 2b",
+        "strasse": "Awarenweg 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Meta",
-        "weiblich": true
+        "vorname": "Meinold",
+        "weiblich": false
     }
 }

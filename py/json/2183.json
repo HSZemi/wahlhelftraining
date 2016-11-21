@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2107168,
+    "nummer": 2819172,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.04.1997",
-        "matrikelnummer": 1910212,
-        "mehrfachausfertigung": 3,
-        "nachname": "Stolze",
-        "plzort": "53195 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "21.07.1991",
+        "matrikelnummer": 2583171,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Abel",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Lauschigwiesenweg 25",
+        "strasse": "Moortrift 0d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Otfried",
-        "weiblich": false
+        "vorname": "Anemone",
+        "weiblich": true
     }
 }

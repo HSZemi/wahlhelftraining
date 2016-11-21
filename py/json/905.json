@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1773224,
+    "nummer": 2675076,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.08.1994",
-        "matrikelnummer": 2626048,
-        "mehrfachausfertigung": 2,
-        "nachname": "Seiler",
-        "plzort": "38889 Wienrode",
+        "fakultaet": 6,
+        "geburtsdatum": "11.08.1991",
+        "matrikelnummer": 16228,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hinze",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Ulberndorfer Weg 20",
+        "strasse": "Eichwaldstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sibrand",
+        "vorname": "Adi",
         "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1619120,
+    "nummer": 2550848,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "20.02.1989",
-        "matrikelnummer": 2427762,
-        "mehrfachausfertigung": 4,
-        "nachname": "Gotthardt",
-        "plzort": "53226 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "14.02.1999",
+        "matrikelnummer": 2229230,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Henn",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Schelsweg 18",
+        "strasse": "Carl-von-Weinberg-Stra\u00dfe 18",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Alexandra",
-        "weiblich": true
+        "vorname": "Uve",
+        "weiblich": false
     }
 }

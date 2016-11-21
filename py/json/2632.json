@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2606009,
+    "nummer": 1896188,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "17.09.1995",
-        "matrikelnummer": 2466790,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "15.03.1993",
+        "matrikelnummer": 130316,
         "mehrfachausfertigung": 1,
-        "nachname": "Ley",
-        "plzort": "53156 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rahn",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Garbenweg 4",
+        "strasse": "D\u00f6rnichtweg 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sigisbert",
+        "vorname": "Tassilo",
         "weiblich": false
     }
 }

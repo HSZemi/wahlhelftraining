@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1223064,
+    "nummer": 2046129,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "23.10.1994",
-        "matrikelnummer": 2733744,
+        "geburtsdatum": "05.12.1996",
+        "matrikelnummer": 2927847,
         "mehrfachausfertigung": 1,
-        "nachname": "Brehmer",
-        "plzort": "21376 Garlstorf",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Althoff",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Landseestra\u00dfe 0a",
+        "strasse": "F\u00fcrstenallee 15",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Timotheus",
-        "weiblich": false
+        "vorname": "Gundela",
+        "weiblich": true
     }
 }

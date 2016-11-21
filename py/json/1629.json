@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1189059,
+    "nummer": 2867439,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "19.07.1993",
-        "matrikelnummer": 19294,
-        "mehrfachausfertigung": 1,
-        "nachname": "Kloss",
-        "plzort": "53159 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "12.04.1995",
+        "matrikelnummer": 2593859,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Vollmer",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Am Spinnseyer 21",
+        "strasse": "Meusegaster Stra\u00dfe 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gundmar",
+        "vorname": "Alhard",
         "weiblich": false
     }
 }

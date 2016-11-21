@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2084491,
+    "nummer": 2732008,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.01.1992",
-        "matrikelnummer": 1904738,
-        "mehrfachausfertigung": 2,
-        "nachname": "Bethke",
-        "plzort": "53205 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "17.04.1987",
+        "matrikelnummer": 2219829,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Diedrich",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Ganghoferstra\u00dfe 3",
+        "strasse": "Betriebsstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Steve",
+        "vorname": "Herrmann",
         "weiblich": false
     }
 }

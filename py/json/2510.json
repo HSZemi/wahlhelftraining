@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1355456,
+    "nummer": 1914650,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.12.1998",
-        "matrikelnummer": 2558663,
-        "mehrfachausfertigung": 1,
-        "nachname": "Schreiner",
-        "plzort": "53170 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "27.02.1990",
+        "matrikelnummer": 2630628,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hackbarth",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Gollwitzerstr. 1",
+        "strasse": "Oberhafenstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Winfrid",
-        "weiblich": false
+        "vorname": "Alheid",
+        "weiblich": true
     }
 }

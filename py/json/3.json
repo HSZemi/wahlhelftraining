@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2909352,
+    "nummer": 1731749,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "14.04.1994",
-        "matrikelnummer": 164585,
+        "geburtsdatum": "23.05.1993",
+        "matrikelnummer": 1942827,
         "mehrfachausfertigung": 1,
-        "nachname": "Markert",
-        "plzort": "53192 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Haag",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Airportring 4",
+        "strasse": "Zum Heiderand 26",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rothmund",
+        "vorname": "Cornell",
         "weiblich": false
     }
 }

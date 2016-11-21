@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1766447,
+    "nummer": 2359164,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.05.1992",
-        "matrikelnummer": 2915135,
-        "mehrfachausfertigung": 1,
-        "nachname": "W\u00f6hrle",
-        "plzort": "53127 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "18.05.1990",
+        "matrikelnummer": 2088859,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hermann",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "G\u00f6nnerstr. 6",
+        "strasse": "Tr\u00fcmpertstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Reginhardt",
-        "weiblich": false
+        "vorname": "Aloysia",
+        "weiblich": true
     }
 }

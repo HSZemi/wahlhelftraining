@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1724223,
+    "nummer": 2666918,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.07.1992",
-        "matrikelnummer": 2112211,
-        "mehrfachausfertigung": 1,
-        "nachname": "Novak",
-        "plzort": "53219 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "15.09.1991",
+        "matrikelnummer": 123093,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sauermann",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Industriegel\u00e4nde 9",
+        "strasse": "Esperantostra\u00dfe 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Stephan",
-        "weiblich": false
+        "vorname": "Susi",
+        "weiblich": true
     }
 }

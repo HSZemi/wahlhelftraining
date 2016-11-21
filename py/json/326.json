@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1105095,
+    "nummer": 2958486,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.10.1996",
-        "matrikelnummer": 2836113,
-        "mehrfachausfertigung": 1,
-        "nachname": "H\u00fcbsch",
-        "plzort": "53171 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "13.01.1997",
+        "matrikelnummer": 2962357,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fromme",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Preu\u00dferstra\u00dfe 6",
+        "strasse": "Thorwaldsenstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Louise",
-        "weiblich": true
+        "vorname": "Phillipp",
+        "weiblich": false
     }
 }

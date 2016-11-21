@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2989105,
+    "nummer": 2599520,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.09.1999",
-        "matrikelnummer": 2213028,
-        "mehrfachausfertigung": 1,
-        "nachname": "Preis",
-        "plzort": "53196 Bonn",
+        "fakultaet": 9,
+        "geburtsdatum": "02.02.1994",
+        "matrikelnummer": 2321097,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "R\u00fcckert",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Ferdinand-Dirichs-Weg 23",
+        "strasse": "Franziusplatz 40",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Willma",
+        "vorname": "Florence",
         "weiblich": true
     }
 }

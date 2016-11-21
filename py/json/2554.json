@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2166403,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2369182,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.02.1994",
-        "matrikelnummer": 2834867,
+        "fakultaet": 2,
+        "geburtsdatum": "15.01.1990",
+        "matrikelnummer": 2887166,
         "mehrfachausfertigung": 1,
-        "nachname": "Grunewald",
-        "plzort": "53177 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Leonhardt",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Winckelmannstra\u00dfe 1",
+        "strasse": "Weimarer Stra\u00dfe 22",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ekkehard",
+        "vorname": "Horstfried",
         "weiblich": false
     }
 }

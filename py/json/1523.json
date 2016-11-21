@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2880100,
+    "nummer": 2667280,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.01.1987",
-        "matrikelnummer": 2206307,
+        "fakultaet": 8,
+        "geburtsdatum": "01.12.1992",
+        "matrikelnummer": 2345473,
         "mehrfachausfertigung": 1,
-        "nachname": "Handke",
-        "plzort": "53199 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Flaig",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Stegstra\u00dfe 2",
+        "strasse": "Gudehusstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dietz",
+        "vorname": "Reinhart",
         "weiblich": false
     }
 }

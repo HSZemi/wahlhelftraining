@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1752683,
+    "nummer": 2365632,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "05.10.1996",
-        "matrikelnummer": 2537290,
-        "mehrfachausfertigung": 3,
-        "nachname": "Gutsche",
-        "plzort": "53229 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "23.01.1988",
+        "matrikelnummer": 2834945,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Krapf",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Richardallee 13",
+        "strasse": "Fidelio-F.-Finke-Stra\u00dfe 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kathleen",
-        "weiblich": true
+        "vorname": "Gottwald",
+        "weiblich": false
     }
 }

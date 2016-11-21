@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2467602,
+    "nummer": 1462591,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.10.1998",
-        "matrikelnummer": 2700276,
+        "fakultaet": 6,
+        "geburtsdatum": "17.08.1991",
+        "matrikelnummer": 2063362,
         "mehrfachausfertigung": 1,
-        "nachname": "Kretzer",
-        "plzort": "53146 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gehlen",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Stechgrundstra\u00dfe 0",
+        "strasse": "Am Zwinger 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Volkmar",
-        "weiblich": false
+        "vorname": "Doreen",
+        "weiblich": true
     }
 }

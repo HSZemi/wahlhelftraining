@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1795296,
+    "nummer": 2553689,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.03.1996",
-        "matrikelnummer": 2177678,
+        "fakultaet": 5,
+        "geburtsdatum": "09.02.1990",
+        "matrikelnummer": 2849059,
         "mehrfachausfertigung": 1,
-        "nachname": "Albrecht",
-        "plzort": "53202 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Locher",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Altdobritz 9",
+        "strasse": "Annaberg 5c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Augustin",
+        "vorname": "Hans",
         "weiblich": false
     }
 }

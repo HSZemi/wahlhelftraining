@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1107045,
+    "nummer": 1522656,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "27.12.1993",
-        "matrikelnummer": 2033220,
-        "mehrfachausfertigung": 2,
-        "nachname": "Hanf",
-        "plzort": "39175 Wahlitz",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "18.08.1990",
+        "matrikelnummer": 2653899,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Blechschmidt",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Altreick 1",
+        "strasse": "H\u00f6llbergstra\u00dfe 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Liane",
+        "vorname": "Hedy",
         "weiblich": true
     }
 }

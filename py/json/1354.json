@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2599678,
+    "nummer": 2268669,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.01.1990",
-        "matrikelnummer": 2320165,
-        "mehrfachausfertigung": 3,
-        "nachname": "Sp\u00f6rl",
-        "plzort": "53119 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "16.12.1990",
+        "matrikelnummer": 2408737,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Baron",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Pettenkoferstra\u00dfe 2",
+        "strasse": "Annaberg 0a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Adolfine",
+        "vorname": "Annagret",
         "weiblich": true
     }
 }

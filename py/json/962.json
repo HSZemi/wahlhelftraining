@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1242542,
+    "nummer": 2470374,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "19.09.1996",
-        "matrikelnummer": 11113,
+        "geburtsdatum": "11.08.1990",
+        "matrikelnummer": 2752420,
         "mehrfachausfertigung": 1,
-        "nachname": "L\u00f6we",
-        "plzort": "53188 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jahns",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Ullersdorfer Stra\u00dfe 15c",
+        "strasse": "Am Wasserturm 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ilsefriede",
-        "weiblich": true
+        "vorname": "Christhardt",
+        "weiblich": false
     }
 }

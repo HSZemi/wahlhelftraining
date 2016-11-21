@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1398514,
+    "nummer": 1825364,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.07.1992",
-        "matrikelnummer": 2806832,
-        "mehrfachausfertigung": 1,
-        "nachname": "Windisch",
-        "plzort": "37081 G\u00f6ttingen",
+        "fakultaet": 6,
+        "geburtsdatum": "27.01.1999",
+        "matrikelnummer": 2174857,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Anton",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Seifersdorfer Stra\u00dfe 5",
+        "strasse": "Veilchenstra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Meik",
+        "vorname": "Hagen",
         "weiblich": false
     }
 }

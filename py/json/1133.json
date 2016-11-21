@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1917038,
+    "nummer": 2497481,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "05.03.1996",
-        "matrikelnummer": 2316110,
-        "mehrfachausfertigung": 2,
-        "nachname": "Fuhrmann",
-        "plzort": "53198 Bonn",
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "25.03.1996",
+        "matrikelnummer": 2274754,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00f6hmer",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Burgsdorffstra\u00dfe 5",
+        "strasse": "An der Elbaue 20d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Irmtrud",
-        "weiblich": true
+        "vorname": "Rotger",
+        "weiblich": false
     }
 }

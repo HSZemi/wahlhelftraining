@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1820387,
+    "nummer": 1167710,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.03.1994",
-        "matrikelnummer": 1927191,
-        "mehrfachausfertigung": 1,
-        "nachname": "Heck",
-        "plzort": "53220 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "08.02.1989",
+        "matrikelnummer": 2522108,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Eberlein",
+        "plzort": "2",
         "sternchen": 0,
-        "strasse": "Fuchsbergweg 15",
+        "strasse": "Rombergstra\u00dfe 31",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hadmuthe",
+        "vorname": "Gundela",
         "weiblich": true
     }
 }

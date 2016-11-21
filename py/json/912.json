@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2743929,
+    "nummer": 2632882,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.11.1993",
-        "matrikelnummer": 159903,
+        "fakultaet": 3,
+        "geburtsdatum": "11.03.1996",
+        "matrikelnummer": 1986710,
         "mehrfachausfertigung": 1,
-        "nachname": "Guhl",
-        "plzort": "53144 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sch\u00fctz",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Zweite Nagelsbr\u00fccke 11",
+        "strasse": "Hocksteinstra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Veronika",
-        "weiblich": true
+        "vorname": "Reinhart",
+        "weiblich": false
     }
 }

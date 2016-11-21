@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2320610,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1534743,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "27.03.1991",
-        "matrikelnummer": 2333633,
+        "geburtsdatum": "06.10.1997",
+        "matrikelnummer": 19700,
         "mehrfachausfertigung": 1,
-        "nachname": "H\u00fcmmer",
-        "plzort": "53167 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Korn",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Kopernikusstr. 0",
+        "strasse": "Birkenweg 42",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hermine",
-        "weiblich": true
+        "vorname": "Heiderich",
+        "weiblich": false
     }
 }

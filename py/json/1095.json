@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2315720,
+    "nummer": 1717384,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.01.1991",
-        "matrikelnummer": 2558231,
+        "fakultaet": 3,
+        "geburtsdatum": "28.06.1990",
+        "matrikelnummer": 2403995,
         "mehrfachausfertigung": 1,
-        "nachname": "L\u00f6w",
-        "plzort": "53196 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pott",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Parlamentsplatz 14",
+        "strasse": "Franz-Liszt-Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hermfried",
-        "weiblich": false
+        "vorname": "Evi",
+        "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1728222,
+    "nummer": 2850668,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.12.1991",
-        "matrikelnummer": 13369,
-        "mehrfachausfertigung": 5,
-        "nachname": "Lippold",
-        "plzort": "53184 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "19.12.1999",
+        "matrikelnummer": 2892143,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rahn",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Pfingstweidstra\u00dfe 22",
+        "strasse": "Meriandamm 23",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dietlinde",
-        "weiblich": true
+        "vorname": "Bernhardt",
+        "weiblich": false
     }
 }

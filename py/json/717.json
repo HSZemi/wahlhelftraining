@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2597906,
+    "nummer": 2188984,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "12.03.1993",
-        "matrikelnummer": 2703461,
+        "geburtsdatum": "22.12.1999",
+        "matrikelnummer": 2296856,
         "mehrfachausfertigung": 1,
-        "nachname": "R\u00fcckert",
-        "plzort": "53213 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Meier",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Klagenfurter Stra\u00dfe 5",
+        "strasse": "Morgenleite 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gustl",
-        "weiblich": true
+        "vorname": "Quintus",
+        "weiblich": false
     }
 }

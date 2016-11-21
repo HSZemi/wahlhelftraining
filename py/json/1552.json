@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2585412,
+    "nummer": 2470945,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "19.12.1992",
-        "matrikelnummer": 1948272,
-        "mehrfachausfertigung": 4,
-        "nachname": "Baer",
-        "plzort": "53120 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "09.01.1991",
+        "matrikelnummer": 2296121,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gentner",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Alte Mei\u00dfner Landstra\u00dfe 14",
+        "strasse": "Schwarzenbacher Str. 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Emmaliese",
+        "vorname": "Milli",
         "weiblich": true
     }
 }

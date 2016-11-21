@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1947587,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 1703824,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "26.01.1995",
-        "matrikelnummer": 2149733,
+        "geburtsdatum": "26.05.1994",
+        "matrikelnummer": 2670321,
         "mehrfachausfertigung": 1,
-        "nachname": "Sieben",
-        "plzort": "54578 Oberbettingen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fenzl",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Faulbrunnenweg 0",
+        "strasse": "Ferdinand-Scholling-Ring 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Arabella",
+        "vorname": "Silke",
         "weiblich": true
     }
 }

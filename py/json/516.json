@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2257332,
+    "nummer": 1367681,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "13.10.1992",
-        "matrikelnummer": 2869294,
-        "mehrfachausfertigung": 3,
-        "nachname": "Kappes",
-        "plzort": "39596 Goldbeck",
+        "geburtsdatum": "10.03.1992",
+        "matrikelnummer": 2881351,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schreier",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Geranienstra\u00dfe 3",
+        "strasse": "R\u00fcsselsheimer Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ronald",
+        "vorname": "Frieder",
         "weiblich": false
     }
 }

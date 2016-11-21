@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1087474,
+    "nummer": 1075259,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.11.1999",
-        "matrikelnummer": 2236818,
-        "mehrfachausfertigung": 2,
-        "nachname": "Ulbrich",
-        "plzort": "53212 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "09.09.1995",
+        "matrikelnummer": 2446844,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rohr",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Rottwerndorfer Stra\u00dfe 5",
+        "strasse": "Hans-B\u00f6heim-Stra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Alinde",
+        "vorname": "Thilde",
         "weiblich": true
     }
 }

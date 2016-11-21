@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1782513,
+    "nummer": 2875285,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.08.1999",
-        "matrikelnummer": 2095887,
-        "mehrfachausfertigung": 1,
-        "nachname": "Reetz",
-        "plzort": "53140 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "24.04.1992",
+        "matrikelnummer": 2705865,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kraemer",
+        "plzort": "2",
         "sternchen": 0,
-        "strasse": "Ringelnatzg\u00e4sschen 17",
+        "strasse": "Mail\u00e4nder Stra\u00dfe 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gotlind",
-        "weiblich": true
+        "vorname": "Rigbert",
+        "weiblich": false
     }
 }

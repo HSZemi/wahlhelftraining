@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2496431,
+    "nummer": 1737152,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.12.1994",
-        "matrikelnummer": 1917531,
-        "mehrfachausfertigung": 1,
-        "nachname": "Denker",
-        "plzort": "53183 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "22.08.1994",
+        "matrikelnummer": 2684271,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "N\u00fcrnberger",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Pieschener Stra\u00dfe 12",
+        "strasse": "Theresienstr. 15a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Friedwin",
-        "weiblich": false
+        "vorname": "Irmlinde",
+        "weiblich": true
     }
 }

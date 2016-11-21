@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2505128,
+    "nummer": 2828526,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "26.08.1989",
-        "matrikelnummer": 126767,
-        "mehrfachausfertigung": 1,
-        "nachname": "Wichert",
-        "plzort": "53175 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "05.03.1992",
+        "matrikelnummer": 2402794,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heidt",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Sommerb\u00fchnweg 2",
+        "strasse": "Am T\u00e4nnig 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wastl",
+        "vorname": "Armin",
         "weiblich": false
     }
 }

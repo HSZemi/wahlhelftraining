@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2509129,
+    "nummer": 2057135,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.05.1995",
-        "matrikelnummer": 1994460,
-        "mehrfachausfertigung": 1,
-        "nachname": "G\u00f6rtz",
-        "plzort": "53224 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "14.08.1993",
+        "matrikelnummer": 1985757,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Goldberg",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Augustusstra\u00dfe 23",
+        "strasse": "Welschgrabenstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elgine",
+        "vorname": "Gieselind",
         "weiblich": true
     }
 }

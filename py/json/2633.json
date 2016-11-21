@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2198246,
+    "nummer": 1172178,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.07.1993",
-        "matrikelnummer": 2841083,
+        "geburtsdatum": "23.03.1989",
+        "matrikelnummer": 1928086,
         "mehrfachausfertigung": 1,
-        "nachname": "Hackmann",
-        "plzort": "53112 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Mayerhofer",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Bei den Wettern 15c",
+        "strasse": "Billstedter M\u00fchlenweg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sigisbert",
+        "vorname": "Alwin",
         "weiblich": false
     }
 }

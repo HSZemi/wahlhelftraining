@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1626133,
+    "nummer": 2480064,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "21.10.1998",
-        "matrikelnummer": 2113487,
+        "fakultaet": 2,
+        "geburtsdatum": "28.08.1994",
+        "matrikelnummer": 2860698,
         "mehrfachausfertigung": 1,
-        "nachname": "Steger",
-        "plzort": "55234 Eppelsheim",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pries",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Bindingstra\u00dfe 4",
+        "strasse": "An der K\u00fcmmelschenke 30",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Martina",
-        "weiblich": true
+        "vorname": "Tankred",
+        "weiblich": false
     }
 }

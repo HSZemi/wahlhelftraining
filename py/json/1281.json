@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1551957,
+    "nummer": 1551809,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.10.1991",
-        "matrikelnummer": 2566584,
-        "mehrfachausfertigung": 1,
-        "nachname": "Schuster",
-        "plzort": "53187 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "28.04.1995",
+        "matrikelnummer": 2579851,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Scholl",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "S\u00fcderstra\u00dfe 48c",
+        "strasse": "Reinganumstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rembert",
-        "weiblich": false
+        "vorname": "Ewa",
+        "weiblich": true
     }
 }

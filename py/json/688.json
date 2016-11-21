@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2591323,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2739482,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.04.1995",
-        "matrikelnummer": 2729853,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bartelt",
-        "plzort": "39345 Neuenhofe",
+        "fakultaet": 5,
+        "geburtsdatum": "21.08.1999",
+        "matrikelnummer": 2531568,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Selle",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Blauenstra\u00dfe 3",
+        "strasse": "Am Schillergarten 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Siegfriede",
-        "weiblich": true
+        "vorname": "Carsten",
+        "weiblich": false
     }
 }

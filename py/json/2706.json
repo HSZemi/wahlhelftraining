@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1460586,
+    "nummer": 2653068,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "15.11.1995",
-        "matrikelnummer": 2146818,
-        "mehrfachausfertigung": 1,
-        "nachname": "Wiechmann",
-        "plzort": "79780 St\u00fchlingen",
+        "geburtsdatum": "23.11.1991",
+        "matrikelnummer": 2852058,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kr\u00f6ber",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Maxim-Gorki-Stra\u00dfe 13",
+        "strasse": "An der \u00d6lm\u00fchle 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Neidhard",
-        "weiblich": false
+        "vorname": "Gerdi",
+        "weiblich": true
     }
 }

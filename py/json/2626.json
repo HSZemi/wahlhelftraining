@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1334212,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1161378,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.07.1994",
-        "matrikelnummer": 115923,
-        "mehrfachausfertigung": 1,
-        "nachname": "Wittmann",
-        "plzort": "06542 Winkel",
+        "geburtsdatum": "06.01.1989",
+        "matrikelnummer": 2992148,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Steinbach",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Forstweg 11",
+        "strasse": "Heidelbachstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Willmar",
+        "vorname": "Gerold",
         "weiblich": false
     }
 }

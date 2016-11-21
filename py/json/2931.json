@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2866030,
+    "nummer": 1050155,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.10.1998",
-        "matrikelnummer": 2208561,
-        "mehrfachausfertigung": 1,
-        "nachname": "Trommer",
-        "plzort": "31737 Rinteln",
+        "fakultaet": 5,
+        "geburtsdatum": "03.05.1994",
+        "matrikelnummer": 2522767,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Philipps",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Alois Tomasini-Gasse 1",
+        "strasse": "Kastellstra\u00dfe 0d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hanspeter",
+        "vorname": "Kuno",
         "weiblich": false
     }
 }

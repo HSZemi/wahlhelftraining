@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1746676,
+    "nummer": 1196354,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.03.1991",
-        "matrikelnummer": 2941708,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "23.02.1991",
+        "matrikelnummer": 2009203,
         "mehrfachausfertigung": 1,
-        "nachname": "Jansen",
-        "plzort": "24582 Wattenbek",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kilic",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Stulen 12",
+        "strasse": "Oberwaldstra\u00dfe 29",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rosita",
+        "vorname": "Hildetraud",
         "weiblich": true
     }
 }

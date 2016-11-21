@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2935604,
+    "nummer": 2932638,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "03.07.1991",
-        "matrikelnummer": 2861455,
-        "mehrfachausfertigung": 2,
-        "nachname": "Ernst",
-        "plzort": "92286 Rieden",
+        "fakultaet": 6,
+        "geburtsdatum": "01.05.1998",
+        "matrikelnummer": 2198860,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "M\u00f6bus",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Augustenburgstra\u00dfe 13",
+        "strasse": "Johann Nepomuk Hummel-Weg 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hella",
-        "weiblich": true
+        "vorname": "Emil",
+        "weiblich": false
     }
 }

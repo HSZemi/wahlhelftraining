@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1551854,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 1776990,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "07.02.1991",
-        "matrikelnummer": 2867622,
-        "mehrfachausfertigung": 1,
-        "nachname": "Lentz",
-        "plzort": "54518 Rivenich",
+        "geburtsdatum": "04.03.1990",
+        "matrikelnummer": 2693456,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jankowski",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Richard-Strau\u00df-Allee 10b",
+        "strasse": "Vogtstra\u00dfe 15",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Catharina",
+        "vorname": "Anika",
         "weiblich": true
     }
 }

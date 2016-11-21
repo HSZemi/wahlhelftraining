@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2373557,
+    "nummer": 1926600,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.06.1997",
-        "matrikelnummer": 129288,
+        "fakultaet": 2,
+        "geburtsdatum": "20.10.1995",
+        "matrikelnummer": 2569501,
         "mehrfachausfertigung": 1,
-        "nachname": "Stenger",
-        "plzort": "53165 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fritsche",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Elbhangstra\u00dfe 7",
+        "strasse": "Taubenheimer Stra\u00dfe 0c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Pius",
+        "vorname": "Christhard",
         "weiblich": false
     }
 }

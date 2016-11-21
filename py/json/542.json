@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2799162,
+    "nummer": 2922434,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.08.1988",
-        "matrikelnummer": 136726,
-        "mehrfachausfertigung": 3,
-        "nachname": "Krell",
-        "plzort": "53205 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "22.04.1988",
+        "matrikelnummer": 15974,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hoyer",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Warthaer Stra\u00dfe 3",
+        "strasse": "Alsfelder Stra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Josepha",
+        "vorname": "Minna",
         "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1925024,
+    "nummer": 2081560,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.06.1999",
-        "matrikelnummer": 2730311,
-        "mehrfachausfertigung": 1,
-        "nachname": "Thomas",
-        "plzort": "06686 L\u00fctzen",
+        "fakultaet": 5,
+        "geburtsdatum": "01.02.1993",
+        "matrikelnummer": 2564962,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bertsch",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Heinz-Lohmar-Weg 44",
+        "strasse": "Schlo\u00dfstr. 32",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Leberecht",
-        "weiblich": false
+        "vorname": "Diethild",
+        "weiblich": true
     }
 }

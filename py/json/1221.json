@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2422188,
+    "nummer": 1394162,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "19.12.1986",
-        "matrikelnummer": 2935020,
+        "fakultaet": 3,
+        "geburtsdatum": "16.04.1993",
+        "matrikelnummer": 2458251,
         "mehrfachausfertigung": 1,
-        "nachname": "Hellwig",
-        "plzort": "53126 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stratmann",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Jungestra\u00dfe 10",
+        "strasse": "Lenaugasse 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Janina",
-        "weiblich": true
+        "vorname": "Wolfeckart",
+        "weiblich": false
     }
 }

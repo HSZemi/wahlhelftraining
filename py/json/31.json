@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2832952,
+    "nummer": 1063225,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "23.05.1992",
-        "matrikelnummer": 2108394,
+        "fakultaet": 6,
+        "geburtsdatum": "23.10.1994",
+        "matrikelnummer": 2973706,
         "mehrfachausfertigung": 1,
-        "nachname": "Burmeister",
-        "plzort": "53203 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bielefeld",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Lenn\u00e9stra\u00dfe 11",
+        "strasse": "F\u00fcrstenallee 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lutz",
-        "weiblich": false
+        "vorname": "Kriemhild",
+        "weiblich": true
     }
 }

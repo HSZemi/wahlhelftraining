@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2276321,
-    "semester": "Sommersemester 2016",
+    "nummer": 2105723,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.02.1986",
-        "matrikelnummer": 2262889,
+        "fakultaet": 2,
+        "geburtsdatum": "17.08.1984",
+        "matrikelnummer": 2992319,
         "mehrfachausfertigung": 1,
-        "nachname": "Mende",
-        "plzort": "53221 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Demuth",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Goldkoppel 2c",
+        "strasse": "Oeserstra\u00dfe 2a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Tiburtius",
+        "vorname": "Elmar",
         "weiblich": false
     }
 }

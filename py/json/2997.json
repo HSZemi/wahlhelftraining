@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1472843,
+    "nummer": 2387036,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "14.10.1992",
-        "matrikelnummer": 2016825,
-        "mehrfachausfertigung": 1,
-        "nachname": "Adams",
-        "plzort": "53201 Bonn",
+        "geburtsdatum": "16.09.1992",
+        "matrikelnummer": 2435503,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schilling",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Leibnizstra\u00dfe 0",
+        "strasse": "Hammeraue 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Margolf",
+        "vorname": "Ottkar",
         "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1862757,
+    "nummer": 2300939,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.07.1995",
-        "matrikelnummer": 174388,
+        "fakultaet": 5,
+        "geburtsdatum": "03.03.1996",
+        "matrikelnummer": 150192,
         "mehrfachausfertigung": 1,
-        "nachname": "Hendricks",
-        "plzort": "53143 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "K\u00fcgler",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Naumann-Stra\u00dfe 32",
+        "strasse": "Schreiberstr. 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ula",
+        "vorname": "Wenke",
         "weiblich": true
     }
 }

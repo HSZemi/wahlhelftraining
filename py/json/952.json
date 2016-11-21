@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2506180,
-    "semester": "Sommersemester 2016",
+    "nummer": 1742664,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.10.1993",
-        "matrikelnummer": 2438330,
+        "fakultaet": 5,
+        "geburtsdatum": "22.09.1998",
+        "matrikelnummer": 2550156,
         "mehrfachausfertigung": 1,
-        "nachname": "Eibl",
-        "plzort": "53152 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schaal",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Am Winkelsprung 4",
+        "strasse": "Kleestra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Richarda",
+        "vorname": "Natali",
         "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2899147,
+    "nummer": 1863853,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.03.1988",
-        "matrikelnummer": 2839181,
-        "mehrfachausfertigung": 1,
-        "nachname": "Knop",
-        "plzort": "53218 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "11.07.1998",
+        "matrikelnummer": 2877082,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fox",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00f6nigslacherstra\u00dfe 1a",
+        "strasse": "Crostauer Weg 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gislinde",
+        "vorname": "Marlitt",
         "weiblich": true
     }
 }

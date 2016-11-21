@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2632174,
+    "nummer": 2806885,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.05.1994",
-        "matrikelnummer": 2085702,
+        "fakultaet": 5,
+        "geburtsdatum": "24.03.1992",
+        "matrikelnummer": 2332092,
         "mehrfachausfertigung": 1,
-        "nachname": "Reimer",
-        "plzort": "53149 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schweikert",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Ermold-Stra\u00dfe 8",
+        "strasse": "Heinrich-Kaufmann-Ring 4e",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Henny",
-        "weiblich": true
+        "vorname": "Rigo",
+        "weiblich": false
     }
 }

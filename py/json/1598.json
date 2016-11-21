@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2420605,
+    "nummer": 1193486,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.03.1989",
-        "matrikelnummer": 2357287,
-        "mehrfachausfertigung": 3,
-        "nachname": "Gro\u00dfkopf",
-        "plzort": "53113 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "23.01.1993",
+        "matrikelnummer": 2184186,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Angermann",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Endorfer Str. 25",
+        "strasse": "Karcherallee 8b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Almuth",
-        "weiblich": true
+        "vorname": "Hildebrand",
+        "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1837048,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1210463,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.01.1999",
-        "matrikelnummer": 154948,
-        "mehrfachausfertigung": 1,
-        "nachname": "Mei\u00dfner",
-        "plzort": "53216 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "22.01.1996",
+        "matrikelnummer": 2404667,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Weller",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Walter-Peters-Stra\u00dfe 5",
+        "strasse": "Bobestra\u00dfe 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Birgitt",
-        "weiblich": true
+        "vorname": "Guido",
+        "weiblich": false
     }
 }

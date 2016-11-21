@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1267432,
+    "nummer": 1236202,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "05.06.1993",
-        "matrikelnummer": 2874941,
+        "geburtsdatum": "26.05.1995",
+        "matrikelnummer": 2789886,
         "mehrfachausfertigung": 1,
-        "nachname": "Dunkel",
-        "plzort": "53216 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wiens",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Greifstra\u00dfe 10",
+        "strasse": "Neue Gasse 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dietrich",
-        "weiblich": false
+        "vorname": "Katharina",
+        "weiblich": true
     }
 }

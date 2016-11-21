@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1780138,
+    "nummer": 2286883,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "17.08.1997",
-        "matrikelnummer": 2406571,
-        "mehrfachausfertigung": 1,
-        "nachname": "Thies",
-        "plzort": "53162 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "04.10.1998",
+        "matrikelnummer": 2616782,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klotz",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Dr.-Groddeck-Weg 7",
+        "strasse": "Hollerkopfstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Siegrun",
-        "weiblich": true
+        "vorname": "Gerold",
+        "weiblich": false
     }
 }

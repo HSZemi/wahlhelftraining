@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2304148,
+    "nummer": 1417828,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.12.1991",
-        "matrikelnummer": 16985,
-        "mehrfachausfertigung": 3,
-        "nachname": "Birke",
-        "plzort": "53211 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "20.05.1997",
+        "matrikelnummer": 2058078,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hildebrandt",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Ebert-Stra\u00dfe 5",
+        "strasse": "Bl\u00fccherweg 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Birgitta",
-        "weiblich": true
+        "vorname": "Renold",
+        "weiblich": false
     }
 }

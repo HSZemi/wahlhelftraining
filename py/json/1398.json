@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2425196,
+    "nummer": 2150200,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.12.1994",
-        "matrikelnummer": 2825730,
-        "mehrfachausfertigung": 1,
-        "nachname": "Beyer",
-        "plzort": "53159 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "25.01.1996",
+        "matrikelnummer": 2686062,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heuer",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Robert Musil-Gasse 8",
+        "strasse": "Sch\u00e4fers G\u00e4rten 23",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Valeri",
+        "vorname": "Amanda",
         "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2991286,
+    "nummer": 1788216,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.06.1992",
-        "matrikelnummer": 2380113,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "18.05.1999",
+        "matrikelnummer": 11250,
         "mehrfachausfertigung": 1,
-        "nachname": "H\u00e4nsel",
-        "plzort": "53198 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Strauch",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Ginnheimer M\u00fchlgasse 5",
+        "strasse": "Im Teller 15b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Liborius",
-        "weiblich": false
+        "vorname": "Pauline",
+        "weiblich": true
     }
 }

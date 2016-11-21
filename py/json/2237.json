@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": true
+        "gremien": true,
+        "sp": false
     },
-    "nummer": 1705315,
+    "nummer": 1449458,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.01.1996",
-        "matrikelnummer": 2116400,
+        "fakultaet": 8,
+        "geburtsdatum": "11.05.1989",
+        "matrikelnummer": 167192,
         "mehrfachausfertigung": 1,
-        "nachname": "Adler",
-        "plzort": "53218 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kluth",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Steinmetzstra\u00dfe 52",
+        "strasse": "Wetkesgarten 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sebastian",
-        "weiblich": false
+        "vorname": "Dorothee",
+        "weiblich": true
     }
 }

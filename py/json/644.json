@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2614997,
+    "nummer": 2896551,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.12.1994",
-        "matrikelnummer": 2395128,
-        "mehrfachausfertigung": 1,
-        "nachname": "Hinze",
-        "plzort": "53145 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "20.10.1991",
+        "matrikelnummer": 138223,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Baltes",
+        "plzort": "9",
         "sternchen": 0,
-        "strasse": "Frauenlobstra\u00dfe 1",
+        "strasse": "Martin-Opitz-Stra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gebhart",
+        "vorname": "Dominik",
         "weiblich": false
     }
 }

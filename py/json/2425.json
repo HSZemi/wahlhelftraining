@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2017680,
+    "nummer": 2807433,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "17.02.1995",
-        "matrikelnummer": 2160522,
+        "fakultaet": 5,
+        "geburtsdatum": "06.05.1995",
+        "matrikelnummer": 2190355,
         "mehrfachausfertigung": 1,
-        "nachname": "Franzke",
-        "plzort": "53151 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Neef",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Matzke-Stra\u00dfe 0",
+        "strasse": "Narzissenhang 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lukas",
+        "vorname": "Kevin",
         "weiblich": false
     }
 }

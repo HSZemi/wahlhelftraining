@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1545761,
+    "nummer": 1875034,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "06.12.1998",
-        "matrikelnummer": 2245361,
-        "mehrfachausfertigung": 1,
-        "nachname": "Strauss",
-        "plzort": "85419 Mauern",
+        "geburtsdatum": "07.11.1988",
+        "matrikelnummer": 1915318,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Knoop",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Rothofer Stra\u00dfe 0",
+        "strasse": "B\u00e4ckergasse 27",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Krista",
+        "vorname": "Sara",
         "weiblich": true
     }
 }

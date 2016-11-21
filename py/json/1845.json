@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2494155,
+    "nummer": 2879805,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.11.1992",
-        "matrikelnummer": 2646870,
+        "fakultaet": 6,
+        "geburtsdatum": "24.06.1992",
+        "matrikelnummer": 2063537,
         "mehrfachausfertigung": 1,
-        "nachname": "Kleinhans",
-        "plzort": "53163 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fischer",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Insterburger Stra\u00dfe 5",
+        "strasse": "Ernst-May-Platz 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kathleen",
-        "weiblich": true
+        "vorname": "Claus",
+        "weiblich": false
     }
 }

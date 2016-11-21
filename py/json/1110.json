@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2490071,
+    "nummer": 1817490,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "20.11.1994",
-        "matrikelnummer": 12450,
-        "mehrfachausfertigung": 1,
-        "nachname": "Rohrer",
-        "plzort": "53114 Bonn",
+        "geburtsdatum": "19.01.1994",
+        "matrikelnummer": 2902876,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Haug",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Corvinusweg 2",
+        "strasse": "Hantzschstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ria",
-        "weiblich": true
+        "vorname": "Torge",
+        "weiblich": false
     }
 }

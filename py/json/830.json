@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1270738,
+    "nummer": 1304854,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.12.1990",
-        "matrikelnummer": 1986876,
-        "mehrfachausfertigung": 1,
-        "nachname": "Mehner",
-        "plzort": "45131 Essen",
+        "fakultaet": 7,
+        "geburtsdatum": "28.06.1996",
+        "matrikelnummer": 2358182,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ziemer",
+        "plzort": "9",
         "sternchen": 0,
-        "strasse": "Mendelssohnstra\u00dfe 6c",
+        "strasse": "Katharinenstra\u00dfe 40",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Siegrun",
-        "weiblich": true
+        "vorname": "Ditmar",
+        "weiblich": false
     }
 }

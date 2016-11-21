@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2471423,
+    "nummer": 1223514,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "12.11.1995",
-        "matrikelnummer": 14801,
-        "mehrfachausfertigung": 3,
-        "nachname": "M\u00f6ser",
-        "plzort": "25551 Hohenlockstedt",
+        "fakultaet": 3,
+        "geburtsdatum": "15.06.1997",
+        "matrikelnummer": 2634384,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Behrendt",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Walter-Abschlag-Weg 7",
+        "strasse": "Akazienweg 3a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hilderose",
-        "weiblich": true
+        "vorname": "Viktor",
+        "weiblich": false
     }
 }

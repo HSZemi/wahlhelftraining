@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1845843,
+    "nummer": 1247196,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "18.06.1992",
-        "matrikelnummer": 2091905,
-        "mehrfachausfertigung": 1,
-        "nachname": "Friebe",
-        "plzort": "53112 Bonn",
+        "geburtsdatum": "04.06.1990",
+        "matrikelnummer": 19716,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Lanz",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Im Waldfeld 7",
+        "strasse": "Kathenweg 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lidija",
-        "weiblich": true
+        "vorname": "Edwin",
+        "weiblich": false
     }
 }

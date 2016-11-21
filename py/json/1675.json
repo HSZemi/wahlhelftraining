@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2195236,
+    "nummer": 1253399,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "02.01.1995",
-        "matrikelnummer": 2306236,
+        "geburtsdatum": "22.04.1997",
+        "matrikelnummer": 11767,
         "mehrfachausfertigung": 1,
-        "nachname": "Schewe",
-        "plzort": "53195 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Drewes",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Schreberweg 3",
+        "strasse": "Senckenberganlage 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ewald",
-        "weiblich": false
+        "vorname": "Ingeburg",
+        "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1486609,
+    "nummer": 1897243,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "15.11.1989",
-        "matrikelnummer": 2342449,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "17.02.1988",
+        "matrikelnummer": 2213503,
         "mehrfachausfertigung": 1,
-        "nachname": "Br\u00e4utigam",
-        "plzort": "53152 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "O\u00dfwald",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Altburgst\u00e4dtel 1",
+        "strasse": "Badstubengasse 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elvira",
+        "vorname": "Sylwia",
         "weiblich": true
     }
 }

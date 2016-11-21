@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2539679,
-    "semester": "Sommersemester 2016",
+    "nummer": 1163803,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "05.01.1988",
-        "matrikelnummer": 2371850,
+        "fakultaet": 7,
+        "geburtsdatum": "02.12.1989",
+        "matrikelnummer": 2545209,
         "mehrfachausfertigung": 1,
-        "nachname": "Reuther",
-        "plzort": "14806 Schwanebeck",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Moritz",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Kaitzer Weinberg 49",
+        "strasse": "Staufenstra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Irmhilde",
-        "weiblich": true
+        "vorname": "Edmund",
+        "weiblich": false
     }
 }

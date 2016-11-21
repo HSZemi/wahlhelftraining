@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2411643,
-    "semester": "Sommersemester 2016",
+    "nummer": 2519116,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "02.12.1988",
-        "matrikelnummer": 139538,
+        "geburtsdatum": "20.10.1999",
+        "matrikelnummer": 2847289,
         "mehrfachausfertigung": 1,
-        "nachname": "Menke",
-        "plzort": "56357 Lollschied",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Danner",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Am Trachauer Bahnhof 1",
+        "strasse": "Erste Diagonalbr\u00fccke 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Horstmar",
-        "weiblich": false
+        "vorname": "Friedhilde",
+        "weiblich": true
     }
 }

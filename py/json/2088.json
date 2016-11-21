@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2235647,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2232850,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.10.1997",
-        "matrikelnummer": 2130159,
-        "mehrfachausfertigung": 3,
-        "nachname": "Breu",
-        "plzort": "53212 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "21.07.1999",
+        "matrikelnummer": 2534145,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Holtmann",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Wartburgstra\u00dfe 2b",
+        "strasse": "N\u00f6thnitzbachweg 29",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Helmbrecht",
-        "weiblich": false
+        "vorname": "Jolante",
+        "weiblich": true
     }
 }

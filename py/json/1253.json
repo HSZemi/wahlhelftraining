@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2146246,
+    "nummer": 1814422,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.05.1988",
-        "matrikelnummer": 2965003,
-        "mehrfachausfertigung": 1,
-        "nachname": "Krieger",
-        "plzort": "53168 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "19.03.1999",
+        "matrikelnummer": 2279287,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schneck",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Brunnenstra\u00dfe 2",
+        "strasse": "Altleuben 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kersten",
+        "vorname": "Beatrice",
         "weiblich": true
     }
 }

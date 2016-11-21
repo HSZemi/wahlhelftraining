@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1220782,
+    "nummer": 1730902,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "11.06.1999",
-        "matrikelnummer": 2877667,
-        "mehrfachausfertigung": 1,
-        "nachname": "Rehm",
-        "plzort": "53227 Bonn",
+        "geburtsdatum": "09.02.1994",
+        "matrikelnummer": 2187553,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hammes",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Nobelring 3",
+        "strasse": "Richard-Biringer-Weg 13d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Barthold",
+        "vorname": "Cersten",
         "weiblich": false
     }
 }

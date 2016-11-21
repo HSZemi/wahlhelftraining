@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1497800,
+    "nummer": 2692098,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.03.1997",
-        "matrikelnummer": 186254,
-        "mehrfachausfertigung": 2,
-        "nachname": "Bayer",
-        "plzort": "53158 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "19.04.1997",
+        "matrikelnummer": 1900216,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schneiders",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Gangolfsweg 23",
+        "strasse": "Mor\u00e4nenende 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dagmar",
+        "vorname": "Reintraud",
         "weiblich": true
     }
 }

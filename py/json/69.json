@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1740545,
+    "nummer": 2033621,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "14.04.1994",
-        "matrikelnummer": 2843991,
+        "geburtsdatum": "18.10.1991",
+        "matrikelnummer": 2299643,
         "mehrfachausfertigung": 1,
-        "nachname": "Munz",
-        "plzort": "53141 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Freudenberg",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Behaimweg 5",
+        "strasse": "Kinderhortstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Norbert",
-        "weiblich": false
+        "vorname": "Edelinde",
+        "weiblich": true
     }
 }

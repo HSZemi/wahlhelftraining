@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1231606,
+    "nummer": 2200442,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.09.1999",
-        "matrikelnummer": 15913,
-        "mehrfachausfertigung": 2,
-        "nachname": "Zuber",
-        "plzort": "53218 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "16.05.1994",
+        "matrikelnummer": 2383002,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Petersen",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Arthur-Weineck-Stra\u00dfe 18",
+        "strasse": "Am Kronenh\u00fcgel 21",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hildegund",
-        "weiblich": true
+        "vorname": "Friedwald",
+        "weiblich": false
     }
 }

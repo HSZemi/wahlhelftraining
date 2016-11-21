@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1669667,
+    "nummer": 2739929,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "21.10.1997",
-        "matrikelnummer": 2932799,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "24.03.1990",
+        "matrikelnummer": 2419213,
         "mehrfachausfertigung": 1,
-        "nachname": "Gr\u00fctzner",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Grosse",
         "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Bughofer Str. 15",
+        "strasse": "Franz-R\u00fccker-Allee 33",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hildmar",
+        "vorname": "Erich",
         "weiblich": false
     }
 }

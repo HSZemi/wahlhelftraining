@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2937345,
+    "nummer": 1323975,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.05.1994",
-        "matrikelnummer": 2449933,
+        "fakultaet": 9,
+        "geburtsdatum": "24.10.1994",
+        "matrikelnummer": 1932502,
         "mehrfachausfertigung": 1,
-        "nachname": "Kusch",
-        "plzort": "74394 Hessigheim",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wilde",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "An der S\u00e4gem\u00fchle 1",
+        "strasse": "Erste Luisenbr\u00fccke 13c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Herbert",
+        "vorname": "Ulf",
         "weiblich": false
     }
 }

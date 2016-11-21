@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1699722,
+    "nummer": 2149852,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "17.02.1994",
-        "matrikelnummer": 196338,
-        "mehrfachausfertigung": 1,
-        "nachname": "Jacobi",
-        "plzort": "07924 Volkmannsdorf",
+        "fakultaet": 5,
+        "geburtsdatum": "21.06.1989",
+        "matrikelnummer": 1925368,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sieg",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Bock-Stra\u00dfe 2a",
+        "strasse": "Am Alten Zoll 16",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Reglindis",
+        "vorname": "Mia",
         "weiblich": true
     }
 }

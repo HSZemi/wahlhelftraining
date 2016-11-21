@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1222511,
+    "nummer": 1037782,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "15.01.1996",
-        "matrikelnummer": 2211433,
-        "mehrfachausfertigung": 1,
-        "nachname": "Falkenberg",
-        "plzort": "53177 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "14.09.1993",
+        "matrikelnummer": 2413336,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Langbein",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Ewald-Sch\u00f6nberg-Stra\u00dfe 5",
+        "strasse": "Moreauweg 4d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Bruna",
+        "vorname": "Gertrude",
         "weiblich": true
     }
 }

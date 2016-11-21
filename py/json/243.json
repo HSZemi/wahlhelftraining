@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2726187,
+    "nummer": 1299036,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "10.01.1988",
-        "matrikelnummer": 16800,
-        "mehrfachausfertigung": 2,
-        "nachname": "Gr\u00f6ne",
-        "plzort": "53165 Bonn",
+        "geburtsdatum": "01.12.1996",
+        "matrikelnummer": 2212507,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kunde",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Tanneberger Weg 4",
+        "strasse": "Feuerwehrstra\u00dfe 23",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Friedl",
+        "vorname": "Friedoline",
         "weiblich": true
     }
 }

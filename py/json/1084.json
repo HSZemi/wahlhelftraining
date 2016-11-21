@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2439589,
+    "nummer": 2633083,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "05.12.1991",
-        "matrikelnummer": 2321641,
-        "mehrfachausfertigung": 1,
-        "nachname": "Kutzner",
-        "plzort": "53135 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "08.12.1984",
+        "matrikelnummer": 12361,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schuch",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Steinrutsch 7",
+        "strasse": "Gerberstr. 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dirk",
-        "weiblich": false
+        "vorname": "Loreliese",
+        "weiblich": true
     }
 }

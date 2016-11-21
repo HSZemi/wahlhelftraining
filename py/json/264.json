@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2241495,
+    "nummer": 1394124,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "18.04.1993",
-        "matrikelnummer": 2436858,
-        "mehrfachausfertigung": 1,
-        "nachname": "Obermaier",
-        "plzort": "53203 Bonn",
+        "geburtsdatum": "07.11.1993",
+        "matrikelnummer": 152527,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jacobi",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Baumweg 7",
+        "strasse": "Heidenkampsweg 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Humbert",
-        "weiblich": false
+        "vorname": "Ingolde",
+        "weiblich": true
     }
 }

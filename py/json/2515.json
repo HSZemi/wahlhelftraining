@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2317670,
+    "nummer": 2170562,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.02.1990",
-        "matrikelnummer": 2667570,
-        "mehrfachausfertigung": 1,
-        "nachname": "Schwan",
-        "plzort": "53195 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "04.12.1999",
+        "matrikelnummer": 2005139,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Janik",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Heisterstra\u00dfe 15",
+        "strasse": "Bebelstra\u00dfe 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ingelotte",
+        "vorname": "Friedliese",
         "weiblich": true
     }
 }

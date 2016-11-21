@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1465961,
+    "nummer": 2760461,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.10.1988",
-        "matrikelnummer": 2595893,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "02.10.1989",
+        "matrikelnummer": 2506356,
         "mehrfachausfertigung": 1,
-        "nachname": "Piontek",
-        "plzort": "53153 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Eilers",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Cottbuser Stra\u00dfe 17",
+        "strasse": "Lanzmattweg 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Linhilde",
-        "weiblich": true
+        "vorname": "Samuel",
+        "weiblich": false
     }
 }

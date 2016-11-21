@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2483231,
+    "nummer": 2981387,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "09.09.1986",
-        "matrikelnummer": 2871303,
+        "geburtsdatum": "10.09.1992",
+        "matrikelnummer": 2854024,
         "mehrfachausfertigung": 1,
-        "nachname": "Fritz",
-        "plzort": "53130 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "K\u00f6gel",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Am Viverdamm 8",
+        "strasse": "Dr.-Robert-Pfleger-Str. 38",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Margarita",
-        "weiblich": true
+        "vorname": "Raik",
+        "weiblich": false
     }
 }

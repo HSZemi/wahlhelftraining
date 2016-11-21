@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1423626,
+    "nummer": 2751551,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.02.1993",
-        "matrikelnummer": 11394,
-        "mehrfachausfertigung": 3,
-        "nachname": "Valentin",
-        "plzort": "53146 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "20.04.1994",
+        "matrikelnummer": 2652812,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jakob",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Am Stieglitzgrund 4",
+        "strasse": "Alfred-Kiefer-Weg 20a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ferdinand",
-        "weiblich": false
+        "vorname": "Zdenka",
+        "weiblich": true
     }
 }

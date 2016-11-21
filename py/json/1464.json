@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2905771,
+    "nummer": 1382237,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.02.1994",
-        "matrikelnummer": 2304233,
-        "mehrfachausfertigung": 1,
-        "nachname": "Fritzsche",
-        "plzort": "53200 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "16.04.1992",
+        "matrikelnummer": 2506799,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Eifler",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Gelnh\u00e4user Stra\u00dfe 5d",
+        "strasse": "Kellerskopfweg 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Giseltraud",
-        "weiblich": true
+        "vorname": "Wolfdieter",
+        "weiblich": false
     }
 }

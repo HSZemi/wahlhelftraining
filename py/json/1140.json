@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2892800,
+    "nummer": 1442804,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "21.01.1993",
-        "matrikelnummer": 2879079,
-        "mehrfachausfertigung": 2,
-        "nachname": "Drees",
-        "plzort": "53213 Bonn",
+        "geburtsdatum": "19.08.1992",
+        "matrikelnummer": 2203890,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bornemann",
+        "plzort": "6",
         "sternchen": 0,
-        "strasse": "Bei der Martinskirche 1",
+        "strasse": "Wilhelmstra\u00dfe 16",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Schwanhild",
+        "vorname": "Ingelinde",
         "weiblich": true
     }
 }

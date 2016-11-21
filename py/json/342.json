@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2498811,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1074332,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "01.09.1994",
-        "matrikelnummer": 2488975,
-        "mehrfachausfertigung": 3,
-        "nachname": "Schopf",
-        "plzort": "27809 Lemwerder",
+        "geburtsdatum": "28.04.1996",
+        "matrikelnummer": 2221145,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schiebel",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Privatstra\u00dfe 1",
+        "strasse": "Friedhofpark 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Mira",
+        "vorname": "Hedy",
         "weiblich": true
     }
 }

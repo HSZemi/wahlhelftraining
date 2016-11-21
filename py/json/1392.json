@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2457974,
+    "nummer": 1060051,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "13.11.1992",
-        "matrikelnummer": 2924444,
-        "mehrfachausfertigung": 1,
-        "nachname": "Grobe",
-        "plzort": "55758 Oberw\u00f6rresbach",
+        "geburtsdatum": "27.11.1998",
+        "matrikelnummer": 2205121,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "D\u00fcck",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Geibweg 3",
+        "strasse": "Barckhusendamm 40",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ullrich",
-        "weiblich": false
+        "vorname": "Edwina",
+        "weiblich": true
     }
 }

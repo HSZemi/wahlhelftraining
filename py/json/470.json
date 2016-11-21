@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2200440,
+    "nummer": 1574597,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.08.1990",
-        "matrikelnummer": 2950337,
+        "fakultaet": 3,
+        "geburtsdatum": "04.02.1988",
+        "matrikelnummer": 2233745,
         "mehrfachausfertigung": 1,
-        "nachname": "Ha\u00df",
-        "plzort": "25885 Oster-Ohrstedt",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Will",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Am Fichtepark 18",
+        "strasse": "Eichelseeweg 6c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dorota",
-        "weiblich": true
+        "vorname": "Olli",
+        "weiblich": false
     }
 }

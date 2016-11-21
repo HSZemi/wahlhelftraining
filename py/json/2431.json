@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2222704,
+    "nummer": 1329144,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "24.09.1999",
-        "matrikelnummer": 185983,
+        "geburtsdatum": "10.04.1986",
+        "matrikelnummer": 2552186,
         "mehrfachausfertigung": 1,
-        "nachname": "Rinke",
-        "plzort": "53188 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Scholl",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-Behrens-Stra\u00dfe 0",
+        "strasse": "L\u00e4rchenweg 29",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kunigunde",
-        "weiblich": true
+        "vorname": "Wolfdieter",
+        "weiblich": false
     }
 }

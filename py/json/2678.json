@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2097910,
+    "nummer": 2825545,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.07.1989",
-        "matrikelnummer": 11906,
+        "fakultaet": 6,
+        "geburtsdatum": "04.03.1999",
+        "matrikelnummer": 2262297,
         "mehrfachausfertigung": 1,
-        "nachname": "Fr\u00fch",
-        "plzort": "53186 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Scheidt",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Rossertstra\u00dfe 0",
+        "strasse": "Altpieschen 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lydia",
+        "vorname": "Gertraute",
         "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2768232,
+    "nummer": 2611774,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.11.1998",
-        "matrikelnummer": 19292,
-        "mehrfachausfertigung": 1,
-        "nachname": "Steininger",
-        "plzort": "53225 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "17.04.1999",
+        "matrikelnummer": 14180,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "R\u00f6sch",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Hellersiedlung Weg E 4",
+        "strasse": "Im Sperber 31",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hiltraut",
-        "weiblich": true
+        "vorname": "Norman",
+        "weiblich": false
     }
 }

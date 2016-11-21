@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2210287,
+    "nummer": 2130544,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.03.1995",
-        "matrikelnummer": 2120718,
-        "mehrfachausfertigung": 1,
-        "nachname": "Jauch",
-        "plzort": "53199 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "01.09.1991",
+        "matrikelnummer": 2332216,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lichtenberg",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00fctlistra\u00dfe 0",
+        "strasse": "Hahnebergstra\u00dfe 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Nadine",
-        "weiblich": true
+        "vorname": "Tristan",
+        "weiblich": false
     }
 }

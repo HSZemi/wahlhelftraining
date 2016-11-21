@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1124216,
+    "nummer": 1065999,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "10.01.1993",
-        "matrikelnummer": 2301826,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "07.12.1998",
+        "matrikelnummer": 19920,
         "mehrfachausfertigung": 1,
-        "nachname": "Janson",
-        "plzort": "99448 Rittersdorf",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pitz",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Lodischgasse 3",
+        "strasse": "Hans-Morper-Str. 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gustl",
+        "vorname": "Siegwart",
         "weiblich": false
     }
 }

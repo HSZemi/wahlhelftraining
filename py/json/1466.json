@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2355045,
+    "nummer": 2727963,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "28.02.1991",
-        "matrikelnummer": 2523312,
+        "fakultaet": 6,
+        "geburtsdatum": "17.12.1992",
+        "matrikelnummer": 2010866,
         "mehrfachausfertigung": 1,
-        "nachname": "G\u00f6rg",
-        "plzort": "53219 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lohmann",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "H\u00f6cherb\u00fchl 6",
+        "strasse": "Michael-Proebstl-Weg 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rosl",
+        "vorname": "Oxana",
         "weiblich": true
     }
 }

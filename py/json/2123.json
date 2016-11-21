@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2084563,
+    "nummer": 1142951,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "02.10.1996",
-        "matrikelnummer": 2119187,
+        "geburtsdatum": "25.08.1995",
+        "matrikelnummer": 2838797,
         "mehrfachausfertigung": 1,
-        "nachname": "Biller",
-        "plzort": "53181 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kn\u00fcppel",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Honsellbr\u00fccke 7",
+        "strasse": "Julius-Kobler-Weg 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elisa",
+        "vorname": "Vesna",
         "weiblich": true
     }
 }

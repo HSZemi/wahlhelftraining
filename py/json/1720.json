@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2986034,
-    "semester": "Sommersemester 2016",
+    "nummer": 1081693,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.11.1995",
-        "matrikelnummer": 2595837,
-        "mehrfachausfertigung": 1,
-        "nachname": "Leibold",
-        "plzort": "53152 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "27.06.1993",
+        "matrikelnummer": 186716,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hacker",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Seidnitzer Weg 12",
+        "strasse": "An der Goetheruh 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Christfried",
+        "vorname": "Dimitri",
         "weiblich": false
     }
 }

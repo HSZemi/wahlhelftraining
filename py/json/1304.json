@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2008123,
+    "nummer": 1381545,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.12.1986",
-        "matrikelnummer": 2746142,
-        "mehrfachausfertigung": 1,
-        "nachname": "Steinmetz",
-        "plzort": "53201 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "17.06.1995",
+        "matrikelnummer": 1927586,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hauschild",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Gro\u00dfer Maien 1",
+        "strasse": "Gottleubaer Stra\u00dfe 28",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Zenta",
-        "weiblich": true
+        "vorname": "Trauhard",
+        "weiblich": false
     }
 }

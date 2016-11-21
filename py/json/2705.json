@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2541625,
+    "nummer": 1690856,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.11.1994",
-        "matrikelnummer": 2358531,
-        "mehrfachausfertigung": 1,
-        "nachname": "Schwind",
-        "plzort": "53182 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "04.02.1997",
+        "matrikelnummer": 1950974,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Boy",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Wildbergstra\u00dfe 1",
+        "strasse": "\u00d6denburger Stra\u00dfe 4a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dahlia",
-        "weiblich": true
+        "vorname": "Arnhart",
+        "weiblich": false
     }
 }

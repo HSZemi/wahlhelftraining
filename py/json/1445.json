@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2566482,
+    "nummer": 2032304,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.02.1997",
-        "matrikelnummer": 1988355,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "15.02.1988",
+        "matrikelnummer": 2327921,
         "mehrfachausfertigung": 1,
-        "nachname": "Fuchs",
-        "plzort": "53156 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stern",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Rudolf-Presber-Stra\u00dfe 11",
+        "strasse": "Gerolsteiner Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Antonia",
-        "weiblich": true
+        "vorname": "Berno",
+        "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2285966,
+    "nummer": 1289161,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.12.1994",
-        "matrikelnummer": 15179,
-        "mehrfachausfertigung": 1,
-        "nachname": "Siefert",
-        "plzort": "28203 Bremen",
+        "fakultaet": 5,
+        "geburtsdatum": "09.05.1999",
+        "matrikelnummer": 2979913,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gabel",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Franz-Lehmann-Stra\u00dfe 1",
+        "strasse": "Bundenweg 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wulfhardt",
-        "weiblich": false
+        "vorname": "Sylvia",
+        "weiblich": true
     }
 }

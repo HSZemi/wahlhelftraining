@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1329297,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2617257,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.03.1981",
-        "matrikelnummer": 2493500,
-        "mehrfachausfertigung": 2,
-        "nachname": "Wein",
-        "plzort": "53134 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "11.07.1994",
+        "matrikelnummer": 2061171,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kullmann",
+        "plzort": "9",
         "sternchen": 0,
-        "strasse": "Richard-Breitenfeld-Stra\u00dfe 16",
+        "strasse": "Nesenstra\u00dfe 30",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Godo",
-        "weiblich": false
+        "vorname": "Mira",
+        "weiblich": true
     }
 }

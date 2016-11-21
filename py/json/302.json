@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2877302,
+    "nummer": 1555623,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "22.06.1996",
-        "matrikelnummer": 2847869,
+        "geburtsdatum": "17.10.1985",
+        "matrikelnummer": 2996118,
         "mehrfachausfertigung": 1,
-        "nachname": "Groth",
-        "plzort": "53112 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Tischer",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Kopernikusstr. 5",
+        "strasse": "Lippersdorfer Weg 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Edeltrud",
-        "weiblich": true
+        "vorname": "Wendel",
+        "weiblich": false
     }
 }

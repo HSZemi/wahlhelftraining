@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2795103,
+    "nummer": 2800119,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.03.1995",
-        "matrikelnummer": 2702564,
+        "fakultaet": 4,
+        "geburtsdatum": "15.11.1998",
+        "matrikelnummer": 1923501,
         "mehrfachausfertigung": 1,
-        "nachname": "Bergmann",
-        "plzort": "53173 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Daub",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Kronberger Stra\u00dfe 2",
+        "strasse": "Ziegeleistra\u00dfe 37",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gero",
+        "vorname": "Eyck",
         "weiblich": false
     }
 }

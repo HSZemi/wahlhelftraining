@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2520955,
+    "nummer": 2743562,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.06.1996",
-        "matrikelnummer": 2649640,
+        "fakultaet": 7,
+        "geburtsdatum": "01.04.1991",
+        "matrikelnummer": 2395283,
         "mehrfachausfertigung": 1,
-        "nachname": "Eichmann",
-        "plzort": "92685 Flo\u00df",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Till",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Assenheimer Stra\u00dfe 7",
+        "strasse": "Bellevuebr\u00fccke 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Evalinde",
+        "vorname": "Griseldis",
         "weiblich": true
     }
 }

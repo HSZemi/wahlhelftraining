@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2308605,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1266381,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.12.1994",
-        "matrikelnummer": 2682429,
-        "mehrfachausfertigung": 1,
-        "nachname": "Stolle",
-        "plzort": "53187 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "21.08.1999",
+        "matrikelnummer": 1919983,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wohlfahrt",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Jagdweg 6",
+        "strasse": "Bernadottestra\u00dfe 42",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rembert",
+        "vorname": "Karlheiner",
         "weiblich": false
     }
 }

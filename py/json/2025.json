@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2909236,
+    "nummer": 2933122,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.09.1986",
-        "matrikelnummer": 2242374,
+        "fakultaet": 6,
+        "geburtsdatum": "02.01.1992",
+        "matrikelnummer": 2668174,
         "mehrfachausfertigung": 1,
-        "nachname": "R\u00f6mer",
-        "plzort": "19205 Dragun",
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00f6ckmann",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Graf-Stauffenberg-Platz 2",
+        "strasse": "Butznickelweg 0c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Linhilde",
+        "vorname": "Celia",
         "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1076943,
+    "nummer": 2811820,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "22.05.1994",
-        "matrikelnummer": 2931607,
-        "mehrfachausfertigung": 1,
-        "nachname": "Sorge",
-        "plzort": "53156 Bonn",
+        "geburtsdatum": "18.04.1994",
+        "matrikelnummer": 2764660,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Staab",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Striesener Winkel 2",
+        "strasse": "B\u00f6rnerweg 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Inken",
+        "vorname": "Almtrud",
         "weiblich": true
     }
 }

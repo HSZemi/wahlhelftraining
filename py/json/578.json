@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1175233,
+    "nummer": 2987669,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.07.1994",
-        "matrikelnummer": 2897310,
+        "fakultaet": 6,
+        "geburtsdatum": "14.06.1995",
+        "matrikelnummer": 2550742,
         "mehrfachausfertigung": 1,
-        "nachname": "Seemann",
-        "plzort": "53179 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ebeling",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Mengsstra\u00dfe 10",
+        "strasse": "Langweidenstra\u00dfe 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hilarius",
+        "vorname": "Rainer",
         "weiblich": false
     }
 }

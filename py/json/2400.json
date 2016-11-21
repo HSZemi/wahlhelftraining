@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2730758,
+    "nummer": 2903002,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "15.02.1991",
-        "matrikelnummer": 2101386,
-        "mehrfachausfertigung": 1,
-        "nachname": "Hell",
-        "plzort": "08352 Raschau",
+        "geburtsdatum": "06.09.1996",
+        "matrikelnummer": 2808218,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schwarze",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Hellersiedlung Weg L 2e",
+        "strasse": "R\u00f6derauer Stra\u00dfe 24",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hartwig",
-        "weiblich": false
+        "vorname": "Centa",
+        "weiblich": true
     }
 }

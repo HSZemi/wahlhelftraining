@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1260638,
+    "nummer": 1235264,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.04.1999",
-        "matrikelnummer": 2253372,
-        "mehrfachausfertigung": 3,
-        "nachname": "Haberkorn",
-        "plzort": "53116 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "18.10.1990",
+        "matrikelnummer": 2851892,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lambertz",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Wollnerstra\u00dfe 5",
+        "strasse": "Obere K\u00f6nigstr. 26",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Eyck",
+        "vorname": "Uwe",
         "weiblich": false
     }
 }

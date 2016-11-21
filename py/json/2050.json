@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2348653,
+    "nummer": 2674418,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.07.1996",
-        "matrikelnummer": 2809435,
-        "mehrfachausfertigung": 2,
-        "nachname": "H\u00f6pfner",
-        "plzort": "53219 Bonn",
+        "fakultaet": 9,
+        "geburtsdatum": "03.09.1996",
+        "matrikelnummer": 2081645,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "G\u00f6bel",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Reger-Stra\u00dfe 23c",
+        "strasse": "Mechtildstra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Herward",
+        "vorname": "Danny",
         "weiblich": false
     }
 }

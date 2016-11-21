@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2319793,
+    "nummer": 1098393,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "12.06.1995",
-        "matrikelnummer": 2198979,
-        "mehrfachausfertigung": 4,
-        "nachname": "Dinkel",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "22.04.1986",
+        "matrikelnummer": 2460444,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Seeliger",
         "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Landrichterstr. 8d",
+        "strasse": "Hammer Hof 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lois",
+        "vorname": "Nicki",
         "weiblich": false
     }
 }

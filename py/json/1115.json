@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2845979,
+    "nummer": 2409811,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "12.07.1991",
-        "matrikelnummer": 2489447,
-        "mehrfachausfertigung": 1,
-        "nachname": "Haarmann",
-        "plzort": "53122 Bonn",
+        "geburtsdatum": "25.01.1999",
+        "matrikelnummer": 2687611,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sowa",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Pappritzer Stra\u00dfe 10",
+        "strasse": "Ignaz Philipp Semmelweis-Gasse 23",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Isabell",
-        "weiblich": true
+        "vorname": "Eddi",
+        "weiblich": false
     }
 }

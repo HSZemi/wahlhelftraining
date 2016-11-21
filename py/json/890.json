@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2346889,
+    "nummer": 1478185,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.04.1987",
-        "matrikelnummer": 2921164,
-        "mehrfachausfertigung": 1,
-        "nachname": "Renz",
-        "plzort": "53169 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "26.12.1999",
+        "matrikelnummer": 2666152,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Achatz",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Sachsenallee 8",
+        "strasse": "Elsa-Br\u00e4ndstr\u00f6m-Stra\u00dfe 20",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heribert",
+        "vorname": "Werner",
         "weiblich": false
     }
 }

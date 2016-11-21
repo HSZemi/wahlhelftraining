@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2469701,
-    "semester": "Sommersemester 2016",
+    "nummer": 1541540,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "04.12.1998",
-        "matrikelnummer": 18831,
-        "mehrfachausfertigung": 1,
-        "nachname": "Roder",
-        "plzort": "53160 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "08.09.1987",
+        "matrikelnummer": 2852810,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Roth",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Baudenweg 10",
+        "strasse": "David-Stempel-Stra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sergius",
+        "vorname": "Reinwald",
         "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2006094,
+    "nummer": 1411896,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.11.1987",
-        "matrikelnummer": 1910957,
+        "fakultaet": 5,
+        "geburtsdatum": "02.01.1987",
+        "matrikelnummer": 2216182,
         "mehrfachausfertigung": 1,
-        "nachname": "He\u00dfler",
-        "plzort": "53140 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schuldt",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Matthias-P\u00f6ltl-Weg 1",
+        "strasse": "Radegundisgasse 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Volkmar",
-        "weiblich": false
+        "vorname": "Virginia",
+        "weiblich": true
     }
 }

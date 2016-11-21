@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2457282,
+    "nummer": 2558318,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "01.11.1993",
-        "matrikelnummer": 16841,
+        "geburtsdatum": "28.08.1993",
+        "matrikelnummer": 2545763,
         "mehrfachausfertigung": 1,
-        "nachname": "Gutmann",
-        "plzort": "53177 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bonk",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Lindenweg 13",
+        "strasse": "Naunynstra\u00dfe 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elfgund",
+        "vorname": "Bruni",
         "weiblich": true
     }
 }

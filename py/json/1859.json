@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2544260,
+    "nummer": 2449699,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.07.1997",
-        "matrikelnummer": 11228,
-        "mehrfachausfertigung": 4,
-        "nachname": "Hotz",
-        "plzort": "53207 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "11.08.1995",
+        "matrikelnummer": 2544939,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00f6ckmann",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Leuschkestra\u00dfe 11",
+        "strasse": "Pfarrer-Perabo-Platz 15",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Edeltrudis",
-        "weiblich": true
+        "vorname": "Jo",
+        "weiblich": false
     }
 }

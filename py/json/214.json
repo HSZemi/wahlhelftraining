@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1304132,
+    "nummer": 1622796,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "21.04.1989",
-        "matrikelnummer": 2372394,
+        "geburtsdatum": "20.10.1999",
+        "matrikelnummer": 2479315,
         "mehrfachausfertigung": 1,
-        "nachname": "Geisler",
-        "plzort": "53169 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "R\u00f6ssler",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Herxheimerstra\u00dfe 0",
+        "strasse": "Markusplatz 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Felicitas",
-        "weiblich": true
+        "vorname": "Hildemar",
+        "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2257766,
+    "nummer": 1567901,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.04.1988",
-        "matrikelnummer": 16573,
-        "mehrfachausfertigung": 2,
-        "nachname": "Morgenstern",
-        "plzort": "53205 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "20.07.1987",
+        "matrikelnummer": 2293528,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Salewski",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Wildemannsgasse 3d",
+        "strasse": "R\u00fcsterstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dirk",
-        "weiblich": false
+        "vorname": "Dorlies",
+        "weiblich": true
     }
 }

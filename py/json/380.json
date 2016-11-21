@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2900415,
+    "nummer": 1626789,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "12.01.1994",
-        "matrikelnummer": 189299,
-        "mehrfachausfertigung": 2,
-        "nachname": "Roch",
-        "plzort": "53159 Bonn",
+        "geburtsdatum": "26.04.1992",
+        "matrikelnummer": 2562018,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klaiber",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Sudelfeldstr. 8",
+        "strasse": "Rohlfsstra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Selma",
-        "weiblich": true
+        "vorname": "Dietgar",
+        "weiblich": false
     }
 }

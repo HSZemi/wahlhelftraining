@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1680614,
+    "nummer": 2079757,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "01.01.1992",
-        "matrikelnummer": 170620,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bartelt",
-        "plzort": "53140 Bonn",
+        "geburtsdatum": "09.09.1988",
+        "matrikelnummer": 2394718,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bielefeld",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Archsumer Weg 17",
+        "strasse": "Taunustor 23",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Bodmar",
+        "vorname": "Heidfried",
         "weiblich": false
     }
 }

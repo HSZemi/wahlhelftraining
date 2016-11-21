@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2040223,
+    "nummer": 1344737,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "02.07.1991",
-        "matrikelnummer": 2556726,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "10.05.1992",
+        "matrikelnummer": 112891,
         "mehrfachausfertigung": 1,
-        "nachname": "Reuter",
-        "plzort": "53135 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "R\u00fcther",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Konrad-Bro\u00dfwitz-Stra\u00dfe 15",
+        "strasse": "Johanns Landweg 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerd",
+        "vorname": "Fidelius",
         "weiblich": false
     }
 }

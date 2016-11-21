@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2869863,
+    "nummer": 1233218,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.02.1996",
-        "matrikelnummer": 12194,
-        "mehrfachausfertigung": 2,
-        "nachname": "Sch\u00f6ning",
-        "plzort": "01993 Schipkau",
+        "fakultaet": 3,
+        "geburtsdatum": "25.01.1993",
+        "matrikelnummer": 2426596,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Willer",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00f6merplatz 4",
+        "strasse": "Herbert-Wehner-Platz 28a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heidelinde",
+        "vorname": "Hermi",
         "weiblich": true
     }
 }

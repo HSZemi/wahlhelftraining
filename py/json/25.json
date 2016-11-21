@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2350362,
+    "nummer": 1828098,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.07.1987",
-        "matrikelnummer": 2381641,
-        "mehrfachausfertigung": 1,
-        "nachname": "D\u00f6rner",
-        "plzort": "53226 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "04.03.1993",
+        "matrikelnummer": 2916829,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jankowski",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Am G\u00fcckelsberg 2",
+        "strasse": "Ing. Alois Schwarz-Platz 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Korbinian",
-        "weiblich": false
+        "vorname": "Natascha",
+        "weiblich": true
     }
 }

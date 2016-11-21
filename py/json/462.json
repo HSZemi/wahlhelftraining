@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2144619,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1495153,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.08.1995",
-        "matrikelnummer": 1907856,
-        "mehrfachausfertigung": 1,
-        "nachname": "H\u00e4u\u00dfler",
-        "plzort": "53217 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "25.01.1995",
+        "matrikelnummer": 1947156,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stotz",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Neuostra 12",
+        "strasse": "Langenzugbr\u00fccke 31",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heidi",
-        "weiblich": true
+        "vorname": "Woldemar",
+        "weiblich": false
     }
 }

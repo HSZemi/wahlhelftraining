@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2562151,
+    "nummer": 1899876,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.11.1996",
-        "matrikelnummer": 2562327,
-        "mehrfachausfertigung": 1,
-        "nachname": "Krapf",
-        "plzort": "53139 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "25.10.1995",
+        "matrikelnummer": 2405729,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Muth",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Im Trierischen Hof 7",
+        "strasse": "Kirchenstra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Marlit",
+        "vorname": "Finchen",
         "weiblich": true
     }
 }

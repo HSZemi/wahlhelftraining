@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2557121,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2941215,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "28.03.1988",
-        "matrikelnummer": 1963608,
+        "geburtsdatum": "14.09.1998",
+        "matrikelnummer": 198569,
         "mehrfachausfertigung": 1,
-        "nachname": "Velten",
-        "plzort": "53167 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kr\u00f6ll",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Scharfenberger Stra\u00dfe 1",
+        "strasse": "Vogelstellerweg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Zeno",
+        "vorname": "Christof",
         "weiblich": false
     }
 }

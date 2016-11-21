@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1851223,
+    "nummer": 1612765,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.03.1992",
-        "matrikelnummer": 162581,
+        "fakultaet": 3,
+        "geburtsdatum": "26.10.1990",
+        "matrikelnummer": 162935,
         "mehrfachausfertigung": 1,
-        "nachname": "L\u00fcdecke",
-        "plzort": "53120 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ruoff",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Denickeweg 4",
+        "strasse": "Akazienweg 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Tabea",
-        "weiblich": true
+        "vorname": "Friedbald",
+        "weiblich": false
     }
 }

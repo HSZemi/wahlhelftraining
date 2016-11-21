@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1901008,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1483024,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.01.1992",
-        "matrikelnummer": 186710,
+        "fakultaet": 6,
+        "geburtsdatum": "28.04.1990",
+        "matrikelnummer": 2062524,
         "mehrfachausfertigung": 1,
-        "nachname": "Kriegel",
-        "plzort": "36286 Neuenstein",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gr\u00e4tz",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Immenlach 0",
+        "strasse": "Mergenthalerstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Song\u00fcl",
+        "vorname": "Sonnhild",
         "weiblich": true
     }
 }

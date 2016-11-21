@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2127369,
+    "nummer": 2768822,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "23.10.1995",
-        "matrikelnummer": 13174,
+        "geburtsdatum": "16.07.1988",
+        "matrikelnummer": 2547326,
         "mehrfachausfertigung": 1,
-        "nachname": "Niedermeier",
-        "plzort": "53135 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Karl",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Reinhold-Schneider-Str. 20",
+        "strasse": "Heilbronner Stra\u00dfe 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ringo",
+        "vorname": "Eberhart",
         "weiblich": false
     }
 }

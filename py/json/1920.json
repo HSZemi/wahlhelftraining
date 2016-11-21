@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1998219,
+    "nummer": 1447020,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "02.08.1989",
-        "matrikelnummer": 2063659,
-        "mehrfachausfertigung": 1,
-        "nachname": "Kn\u00fcppel",
-        "plzort": "53147 Bonn",
+        "geburtsdatum": "03.12.1991",
+        "matrikelnummer": 1987832,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Merk",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Nickerner Platz 25",
+        "strasse": "Gutenbergstr. 0a",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dorothea",
+        "vorname": "Anna-Lena",
         "weiblich": true
     }
 }

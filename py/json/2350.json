@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2196788,
+    "nummer": 2624489,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "03.07.1987",
-        "matrikelnummer": 2786363,
+        "geburtsdatum": "16.01.1992",
+        "matrikelnummer": 2795370,
         "mehrfachausfertigung": 1,
-        "nachname": "Storm",
-        "plzort": "53191 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hensel",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Martin-Haller-Ring 23",
+        "strasse": "Am Rittergut 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wolrad",
-        "weiblich": false
+        "vorname": "Cl\u00e4re",
+        "weiblich": true
     }
 }

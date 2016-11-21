@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1805250,
+    "nummer": 1829952,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "23.05.1987",
-        "matrikelnummer": 1944462,
-        "mehrfachausfertigung": 2,
-        "nachname": "Schalk",
-        "plzort": "53198 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "10.02.1994",
+        "matrikelnummer": 2265553,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "P\u00f6schl",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Westendring 0",
+        "strasse": "Hans-Eick-Weg 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Eva-Maria",
-        "weiblich": true
+        "vorname": "Sigisbert",
+        "weiblich": false
     }
 }

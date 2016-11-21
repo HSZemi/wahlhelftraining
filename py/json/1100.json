@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1716770,
+    "nummer": 2055460,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "17.10.1997",
-        "matrikelnummer": 18329,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "11.07.1990",
+        "matrikelnummer": 2774415,
         "mehrfachausfertigung": 1,
-        "nachname": "H\u00e4rtel",
-        "plzort": "53122 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00fcrkle",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Weinligstra\u00dfe 3",
+        "strasse": "Franziska-Kessel-Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Korbinian",
-        "weiblich": false
+        "vorname": "Nadja",
+        "weiblich": true
     }
 }

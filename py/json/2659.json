@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2400576,
+    "nummer": 1213177,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "07.09.1990",
-        "matrikelnummer": 2845318,
-        "mehrfachausfertigung": 3,
-        "nachname": "Linder",
-        "plzort": "53191 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "14.06.1992",
+        "matrikelnummer": 2501577,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Baumgartner",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Dessauerstra\u00dfe 7",
+        "strasse": "Hosterwitzer Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Karlgeorg",
-        "weiblich": false
+        "vorname": "Anneruth",
+        "weiblich": true
     }
 }

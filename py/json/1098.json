@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1355246,
+    "nummer": 2241447,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.05.1993",
-        "matrikelnummer": 179791,
-        "mehrfachausfertigung": 1,
-        "nachname": "Marks",
-        "plzort": "29584 Himbergen",
+        "fakultaet": 5,
+        "geburtsdatum": "02.11.1993",
+        "matrikelnummer": 2417465,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kretschmer",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Fichtestra\u00dfe 8",
+        "strasse": "Lisa-Niebank-Weg 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gloria",
+        "vorname": "Traudl",
         "weiblich": true
     }
 }

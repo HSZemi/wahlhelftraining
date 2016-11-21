@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2343353,
+    "nummer": 2375572,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "14.05.1992",
-        "matrikelnummer": 1917168,
-        "mehrfachausfertigung": 1,
-        "nachname": "Eberle",
-        "plzort": "53151 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "15.08.1994",
+        "matrikelnummer": 12777,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Neumaier",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Franz Schellstra\u00dfe 4a",
+        "strasse": "Kajetan-Gasse 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ivette",
-        "weiblich": true
+        "vorname": "Mathias",
+        "weiblich": false
     }
 }

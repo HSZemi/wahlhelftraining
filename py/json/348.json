@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1436959,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1559819,
+    "semester": "Wintersemester 2015/2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "15.06.1998",
-        "matrikelnummer": 2620909,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bielefeld",
-        "plzort": "53215 Bonn",
+        "geburtsdatum": "17.09.1991",
+        "matrikelnummer": 2298080,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kr\u00f6ber",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Dominikanerstr. 3",
+        "strasse": "Audorfring 16c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Detmar",
-        "weiblich": false
+        "vorname": "Ishild",
+        "weiblich": true
     }
 }

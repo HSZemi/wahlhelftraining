@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1727561,
+    "nummer": 1424748,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.10.1989",
-        "matrikelnummer": 159056,
+        "fakultaet": 7,
+        "geburtsdatum": "02.07.1989",
+        "matrikelnummer": 158225,
         "mehrfachausfertigung": 1,
-        "nachname": "Barthel",
-        "plzort": "53195 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Seel",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Salzmannstra\u00dfe 3",
+        "strasse": "Satzriedgasse 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Uranius",
+        "vorname": "Niklaus",
         "weiblich": false
     }
 }

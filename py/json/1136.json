@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2085468,
+    "nummer": 1789912,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "22.01.1990",
-        "matrikelnummer": 2904903,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bendel",
-        "plzort": "53145 Bonn",
+        "geburtsdatum": "22.01.1992",
+        "matrikelnummer": 1943698,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinzmann",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Ilmenauer Stra\u00dfe 13a",
+        "strasse": "Zum Heidberg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Tilla",
+        "vorname": "Dorith",
         "weiblich": true
     }
 }

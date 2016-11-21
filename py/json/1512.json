@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1949950,
+    "nummer": 2409760,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.12.1995",
-        "matrikelnummer": 1977518,
-        "mehrfachausfertigung": 1,
-        "nachname": "Schaffer",
-        "plzort": "17391 Postlow",
+        "fakultaet": 5,
+        "geburtsdatum": "27.12.1999",
+        "matrikelnummer": 2564536,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Br\u00f6ker",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Martin-Haller-Ring 2",
+        "strasse": "Am Bundesbahnhof 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Marzel",
+        "vorname": "Helwart",
         "weiblich": false
     }
 }

@@ -172,13 +172,16 @@
 		<th>Lfd. Nr.</th>
 		<th>Matrikelnr.</th>
 		<th>Name</th>
-		<th>WB Gremien</th>
-		<th>WB SP</th>
-		<th>Mehrfachausweis / Briefwahl</th>
+		<th>Senat</th>
+		<th>Fakrat<br>BZL</th>
+		<th>WGB</th>
+		<th>SP</th>
+		<th>Mehrfachausweis<br>Briefwahl</th>
 	</tr>
 	</thead>
 	<tbody id="tablebody">
 	<tr>
+		<td>…</td>
 		<td>…</td>
 		<td>…</td>
 		<td>…</td>
@@ -192,9 +195,11 @@
 		<td>Hans Vielhuber</td>
 		<td>Nein</td>
 		<td></td>
+		<td></td>
 		<td>Briefwahl Gremien</td>
 	</tr>
 	<tr>
+		<td>…</td>
 		<td>…</td>
 		<td>…</td>
 		<td>…</td>
@@ -246,49 +251,49 @@
 	
 	
 		<div class="zettel" id="fak_kf">
-		<img src="data/4g.png">
+		<img src="data/1g.png">
 		<p class="cardtitle">KF</p>
 		
 		</div>
 		
 		<div class="zettel" id="fak_ef">
-		<img src="data/5g.png">
+		<img src="data/2g.png">
 		<p class="cardtitle">EF</p>
 		
 		</div>
 		
 		<div class="zettel" id="fak_rf_rw">
-		<img src="data/6g.png">
+		<img src="data/3g.png">
 		<p class="cardtitle">RF <small>RW</small></p>
 		
 		</div>
 		
 		<div class="zettel" id="fak_mf">
-		<img src="data/7g.png">
+		<img src="data/4g.png">
 		<p class="cardtitle">MF</p>
 		
 		</div>
 		
 		<div class="zettel" id="fak_pf">
-		<img src="data/8g.png">
+		<img src="data/5g.png">
 		<p class="cardtitle">PF</p>
 		
 		</div>
 		
 		<div class="zettel" id="fak_mnf">
-		<img src="data/1g.png">
+		<img src="data/6g.png">
 		<p class="cardtitle">MNF</p>
 		
 		</div>
 		
 		<div class="zettel" id="fak_lf">
-		<img src="data/2g.png">
+		<img src="data/7g.png">
 		<p class="cardtitle">LF</p>
 		
 		</div>
 		
 		<div class="zettel" id="v_bzl">
-		<img src="data/3g.png">
+		<img src="data/8g.png">
 		<p class="cardtitle">BZL</p>
 		
 		</div>
@@ -305,49 +310,49 @@
 	<h4>SHK</h4>
 	
 		<div class="zettel" id="shk_kf">
-		<img src="data/4k.png">
+		<img src="data/1k.png">
 		<p class="cardtitle">KF</p>
 		
 		</div>
 		
 		<div class="zettel" id="shk_ef">
-		<img src="data/5k.png">
+		<img src="data/2k.png">
 		<p class="cardtitle">EF</p>
 		
 		</div>
 		
 		<div class="zettel" id="shk_rf">
-		<img src="data/6k.png">
+		<img src="data/3k.png">
 		<p class="cardtitle">RF</p>
 		
 		</div>
 		
 		<div class="zettel" id="shk_mf">
-		<img src="data/7k.png">
+		<img src="data/4k.png">
 		<p class="cardtitle">MF</p>
 		
 		</div>
 		
 		<div class="zettel" id="shk_pf">
-		<img src="data/8k.png">
+		<img src="data/5k.png">
 		<p class="cardtitle">PF</p>
 		
 		</div>
 		
 		<div class="zettel" id="shk_mnf">
-		<img src="data/1k.png">
+		<img src="data/6k.png">
 		<p class="cardtitle">MNF</p>
 		
 		</div>
 		
 		<div class="zettel" id="shk_lf">
-		<img src="data/2k.png">
+		<img src="data/7k.png">
 		<p class="cardtitle">LF</p>
 		
 		</div>
 		
 		<div class="zettel" id="shk_bzl">
-		<img src="data/3k.png">
+		<img src="data/8k.png">
 		<p class="cardtitle">BZL</p>
 		
                 </div>
@@ -455,32 +460,30 @@
 		target_set = new Set();
 		all_set = new Set(['sp','senat','gb','fak_kf','fak_ef','fak_rf_rw','fak_mf','fak_pf','fak_mnf','fak_lf','v_bzl','fak_rf_ww','shk_kf','shk_ef','shk_rf','shk_mf','shk_pf','shk_mnf','shk_lf','shk_bzl']);
 		
-		if(current_data['semester'] == "Wintersemester 2016/2017"){
+		if(current_data['semester'] == "Wintersemester 2016/2017" && current_data['stud']['ausweistyp'] != "zweithoerer"){
 		
 			nl = get_negativliste();
 			
-			if((nl == null && current_data['ausfertigung'] == 1) || nl != null && nl[6] == schriften[current_data['ausfertigung']]){
+			if((nl == null && current_data['ausfertigung'] == 1) || nl != null && nl[8] == schriften[current_data['ausfertigung']]){
 		
 				if(!current_data['loecher']['sp']){
-					if(nl == null || nl[5] == ""){
+					if(nl == null || nl[7] == ""){
 						target_set.add("sp");
 					}
 				}
 				
 				if(!current_data['loecher']['gremien']){
 					if(nl == null || nl[4] == ""){
-					
 						target_set.add("senat");
-						
-						if(current_data['stud']['weiblich']){
-							target_set.add("gb")
-						}
-						
-						if(current_data['stud']['fakultaet'] > 0){
-							target_set.add(fakrats[current_data['stud']['fakultaet']])
-							target_set.add(shks[current_data['stud']['fakultaet']])
-						}
-						
+					}
+					
+					if( ( current_data['stud']['fakultaet'] > 0 )  && ( nl == null || nl[5] == "" )){
+						target_set.add(fakrats[current_data['stud']['fakultaet']])
+						target_set.add(shks[current_data['stud']['fakultaet']])
+					}
+					
+					if(current_data['stud']['weiblich'] && ( nl == null || nl[6] == "" ) ){
+						target_set.add("gb");
 					}
 				}
 			}
@@ -525,7 +528,7 @@
 	
 	function loadRandomStud(){
 		
-		var id = Math.floor(Math.random() * 30000);
+		var id = Math.floor(Math.random() * 3000);
 		
 		$('#ausweisbild').hide(200);
 		
@@ -543,10 +546,22 @@
 			$('#gremienzahl tspan').text(data['stud']['fakultaet']);
 			$('#mehrfachausfertigung tspan').text(ausfertigungen[data['ausfertigung']]);
 			
-			if(data['stud']['weiblich']){
-				$('#ausweistyp tspan').text("Studentinnen-");
-			}else{
-				$('#ausweistyp tspan').text("Studenten-");
+			if(data['stud']['ausweistyp'] == "regulaer"){
+				if(data['stud']['weiblich']){
+					$('#ausweistyp tspan').text("Studentinnen-");
+				}else{
+					$('#ausweistyp tspan').text("Studenten-");
+				}
+			}
+			if(data['stud']['ausweistyp'] == "zweithoerer"){
+				if(data['stud']['weiblich']){
+					$('#ausweistyp tspan').text("Zweithörerinnen-");
+				}else{
+					$('#ausweistyp tspan').text("Zweithörer-");
+				}
+			}
+			if(data['stud']['ausweistyp'] == "weiterbildung"){
+				$('#ausweistyp tspan').text("Weiterbildungs-");
 			}
 			
 			if(data['stud']['beurlaubt']){
@@ -636,6 +651,8 @@
 				<td>…</td>\
 				<td>…</td>\
 				<td>…</td>\
+				<td>…</td>\
+				<td>…</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -645,6 +662,8 @@
 				<td>"+p0[4]+"</td>\
 				<td>"+p0[5]+"</td>\
 				<td>"+p0[6]+"</td>\
+				<td>"+p0[7]+"</td>\
+				<td>"+p0[8]+"</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -654,6 +673,8 @@
 				<td>"+p1[4]+"</td>\
 				<td>"+p1[5]+"</td>\
 				<td>"+p1[6]+"</td>\
+				<td>"+p1[7]+"</td>\
+				<td>"+p1[8]+"</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -663,6 +684,8 @@
 				<td>"+p2[4]+"</td>\
 				<td>"+p2[5]+"</td>\
 				<td>"+p2[6]+"</td>\
+				<td>"+p2[7]+"</td>\
+				<td>"+p2[8]+"</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -672,6 +695,8 @@
 				<td>"+p3[4]+"</td>\
 				<td>"+p3[5]+"</td>\
 				<td>"+p3[6]+"</td>\
+				<td>"+p3[7]+"</td>\
+				<td>"+p3[8]+"</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -681,11 +706,15 @@
 				<td>"+p4[4]+"</td>\
 				<td>"+p4[5]+"</td>\
 				<td>"+p4[6]+"</td>\
+				<td>"+p4[7]+"</td>\
+				<td>"+p4[8]+"</td>\
 			</tr>");
 			
 			
 			
 			$('#tablebody').append("<tr>\
+				<td>…</td>\
+				<td>…</td>\
 				<td>…</td>\
 				<td>…</td>\
 				<td>…</td>\

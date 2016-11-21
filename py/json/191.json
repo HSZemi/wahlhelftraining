@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2470497,
+    "nummer": 2677732,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "19.07.1996",
-        "matrikelnummer": 2430982,
+        "geburtsdatum": "07.10.1998",
+        "matrikelnummer": 2261629,
         "mehrfachausfertigung": 1,
-        "nachname": "Ulbrich",
-        "plzort": "53208 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Altmann",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Wolfgarten 19",
+        "strasse": "Ederstra\u00dfe 26",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Diether",
-        "weiblich": false
+        "vorname": "Sahra",
+        "weiblich": true
     }
 }

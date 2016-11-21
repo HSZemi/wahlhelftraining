@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2613837,
+    "nummer": 2972938,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.12.1992",
-        "matrikelnummer": 1986371,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "05.05.1999",
+        "matrikelnummer": 19645,
         "mehrfachausfertigung": 1,
-        "nachname": "Esch",
-        "plzort": "69117 Heidelberg",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Moser",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Breulsweg 1",
+        "strasse": "Josef-Eicher-Stra\u00dfe 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Rena",
-        "weiblich": true
+        "vorname": "Eckart",
+        "weiblich": false
     }
 }

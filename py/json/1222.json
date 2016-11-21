@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2378014,
+    "nummer": 2165466,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "04.07.1999",
-        "matrikelnummer": 1924913,
-        "mehrfachausfertigung": 2,
-        "nachname": "Fenzl",
-        "plzort": "53171 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "19.01.1999",
+        "matrikelnummer": 2269307,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stiegler",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Bobestra\u00dfe 3",
+        "strasse": "Mainberg 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Genoveva",
-        "weiblich": true
+        "vorname": "Blasius",
+        "weiblich": false
     }
 }

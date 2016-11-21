@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1462961,
+    "nummer": 2936167,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "19.05.1993",
-        "matrikelnummer": 2907265,
-        "mehrfachausfertigung": 1,
-        "nachname": "Engels",
-        "plzort": "53207 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "24.07.1997",
+        "matrikelnummer": 2231747,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "L\u00fccke",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Lattenkampstieg 8",
+        "strasse": "K\u00f6pckestra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Trudi",
+        "vorname": "Irmengild",
         "weiblich": true
     }
 }

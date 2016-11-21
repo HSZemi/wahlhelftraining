@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2685405,
+    "nummer": 2766763,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.02.1992",
-        "matrikelnummer": 2929463,
+        "fakultaet": 3,
+        "geburtsdatum": "02.01.1994",
+        "matrikelnummer": 2292078,
         "mehrfachausfertigung": 1,
-        "nachname": "Lampe",
-        "plzort": "53135 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Petry",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Schultzweg 3",
+        "strasse": "Bughof 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Cirsten",
-        "weiblich": true
+        "vorname": "Ambrosius",
+        "weiblich": false
     }
 }

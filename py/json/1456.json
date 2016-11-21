@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2264398,
+    "nummer": 2913187,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "19.12.1994",
-        "matrikelnummer": 2156047,
-        "mehrfachausfertigung": 1,
-        "nachname": "R\u00f6\u00dfner",
-        "plzort": "53185 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "25.08.1994",
+        "matrikelnummer": 2991669,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klink",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Mirabellenweg 12",
+        "strasse": "Wincklerstra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Erna",
+        "vorname": "Sigunde",
         "weiblich": true
     }
 }

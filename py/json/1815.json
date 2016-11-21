@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2888957,
+    "nummer": 1623207,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "25.09.1990",
-        "matrikelnummer": 16471,
-        "mehrfachausfertigung": 1,
-        "nachname": "Scheler",
-        "plzort": "53223 Bonn",
+        "geburtsdatum": "20.06.1993",
+        "matrikelnummer": 2335752,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ries",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Eichendorffsteig 9",
+        "strasse": "Kleinh\u00f6fleiner Hauptstra\u00dfe 25c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Marion",
-        "weiblich": true
+        "vorname": "Frieder",
+        "weiblich": false
     }
 }

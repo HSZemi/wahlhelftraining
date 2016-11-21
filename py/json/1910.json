@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2225901,
+    "nummer": 2199014,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.11.1995",
-        "matrikelnummer": 127100,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "17.04.1992",
+        "matrikelnummer": 15912,
         "mehrfachausfertigung": 1,
-        "nachname": "Wei\u00dfenborn",
-        "plzort": "53199 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gundlach",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Haingasse 5",
+        "strasse": "Diesterwegplatz 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Horstfried",
-        "weiblich": false
+        "vorname": "Ehrentrud",
+        "weiblich": true
     }
 }

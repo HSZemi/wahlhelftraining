@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2580803,
+    "nummer": 1808125,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "22.10.1989",
-        "matrikelnummer": 16394,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bott",
-        "plzort": "53172 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "02.08.1996",
+        "matrikelnummer": 2569308,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hunger",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Anna-Angermann-Stra\u00dfe 4",
+        "strasse": "Schulweg 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Eugen",
-        "weiblich": false
+        "vorname": "Heilwig",
+        "weiblich": true
     }
 }

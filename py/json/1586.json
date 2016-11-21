@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1824659,
+    "nummer": 1398543,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "05.10.1999",
-        "matrikelnummer": 1972085,
-        "mehrfachausfertigung": 1,
-        "nachname": "Geissler",
-        "plzort": "21775 Odisheim",
+        "fakultaet": 5,
+        "geburtsdatum": "24.07.1991",
+        "matrikelnummer": 1952170,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Morgenroth",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Seumestra\u00dfe 1",
+        "strasse": "Oberfeldstra\u00dfe 21e",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wera",
-        "weiblich": true
+        "vorname": "Mirco",
+        "weiblich": false
     }
 }

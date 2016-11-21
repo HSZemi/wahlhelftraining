@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2619032,
+    "nummer": 2763582,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "24.08.1992",
-        "matrikelnummer": 2194455,
+        "fakultaet": 5,
+        "geburtsdatum": "28.02.1987",
+        "matrikelnummer": 16871,
         "mehrfachausfertigung": 1,
-        "nachname": "Roeder",
-        "plzort": "94032 Passau",
+        "mitglied_studierendenschaft": true,
+        "nachname": "H\u00f6lzel",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Cauerstra\u00dfe 6",
+        "strasse": "Bundschuhstra\u00dfe 59",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Siegward",
-        "weiblich": false
+        "vorname": "Johannette",
+        "weiblich": true
     }
 }

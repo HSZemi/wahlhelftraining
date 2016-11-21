@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2996926,
+    "nummer": 1837598,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.03.1998",
-        "matrikelnummer": 129508,
-        "mehrfachausfertigung": 1,
-        "nachname": "Heidenreich",
-        "plzort": "53176 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "09.05.1990",
+        "matrikelnummer": 13188,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Dahmen",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Hohle R\u00f6nne 8",
+        "strasse": "Th\u00f6melstra\u00dfe 22",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hannetraud",
+        "vorname": "Nadine",
         "weiblich": true
     }
 }

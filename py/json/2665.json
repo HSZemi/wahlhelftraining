@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1846126,
+    "nummer": 1883230,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "10.12.1984",
-        "matrikelnummer": 2414849,
-        "mehrfachausfertigung": 1,
-        "nachname": "Stefan",
-        "plzort": "53118 Bonn",
+        "geburtsdatum": "07.08.1999",
+        "matrikelnummer": 2156107,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hinrichsen",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Kappusstra\u00dfe 6",
+        "strasse": "Salomon-Petri-Ring 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Moritz",
-        "weiblich": false
+        "vorname": "Erlwine",
+        "weiblich": true
     }
 }

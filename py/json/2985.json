@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2312913,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2304445,
+    "semester": "Wintersemester 2015/2016",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.05.1985",
-        "matrikelnummer": 2935591,
-        "mehrfachausfertigung": 1,
-        "nachname": "Biller",
-        "plzort": "53182 Bonn",
+        "fakultaet": 9,
+        "geburtsdatum": "12.01.1995",
+        "matrikelnummer": 2823989,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Steinert",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Nesselgrundweg 25",
+        "strasse": "Buchtstra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heini",
-        "weiblich": false
+        "vorname": "Sylwia",
+        "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2002834,
+    "nummer": 1767588,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "24.04.1990",
-        "matrikelnummer": 17058,
-        "mehrfachausfertigung": 1,
-        "nachname": "Cornelius",
-        "plzort": "09122 Chemnitz",
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "19.10.1993",
+        "matrikelnummer": 139571,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ritter",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Denzerstra\u00dfe 1",
+        "strasse": "Kipsdorfer Weg 21",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Arwid",
+        "vorname": "Ullrich",
         "weiblich": false
     }
 }

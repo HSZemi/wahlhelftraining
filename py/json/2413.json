@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2381832,
+    "nummer": 2951126,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.09.1993",
-        "matrikelnummer": 2056876,
-        "mehrfachausfertigung": 4,
-        "nachname": "Gaida",
-        "plzort": "53116 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "06.01.1995",
+        "matrikelnummer": 1907599,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kley",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Fischstr. 25b",
+        "strasse": "Altwilschdorfer Weg 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Reinhart",
+        "vorname": "Dietbert",
         "weiblich": false
     }
 }

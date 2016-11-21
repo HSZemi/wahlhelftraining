@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2004485,
+    "nummer": 2895785,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.06.1993",
-        "matrikelnummer": 16640,
-        "mehrfachausfertigung": 5,
-        "nachname": "Weiler",
-        "plzort": "53197 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "27.09.1988",
+        "matrikelnummer": 2223791,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Temme",
+        "plzort": "7",
         "sternchen": 0,
-        "strasse": "Windm\u00fchlenweg 8",
+        "strasse": "Schneebergstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerrit",
-        "weiblich": false
+        "vorname": "Katrina",
+        "weiblich": true
     }
 }

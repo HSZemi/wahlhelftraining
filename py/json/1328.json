@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2090844,
+    "nummer": 2250006,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.05.1988",
-        "matrikelnummer": 2442348,
-        "mehrfachausfertigung": 1,
-        "nachname": "Piotrowski",
-        "plzort": "86920 Denklingen",
+        "fakultaet": 0,
+        "geburtsdatum": "10.05.1985",
+        "matrikelnummer": 1999420,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Flaig",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "T\u00fcrkengasse 3",
+        "strasse": "Eisenstuckstra\u00dfe 38",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wichard",
-        "weiblich": false
+        "vorname": "Marietta",
+        "weiblich": true
     }
 }

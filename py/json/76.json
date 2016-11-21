@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1748881,
+    "nummer": 1861016,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.08.1991",
-        "matrikelnummer": 2274394,
-        "mehrfachausfertigung": 1,
-        "nachname": "Demmer",
-        "plzort": "53149 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "22.06.1993",
+        "matrikelnummer": 2740866,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Cremer",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Rehn-Stra\u00dfe 12",
+        "strasse": "Goetzplatz 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Renold",
-        "weiblich": false
+        "vorname": "Hanneliese",
+        "weiblich": true
     }
 }

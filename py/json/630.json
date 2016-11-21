@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2011034,
-    "semester": "Sommersemester 2016",
+    "nummer": 2370343,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "28.06.1999",
-        "matrikelnummer": 170678,
-        "mehrfachausfertigung": 1,
-        "nachname": "Frese",
-        "plzort": "53123 Bonn",
+        "geburtsdatum": "10.11.1986",
+        "matrikelnummer": 2998220,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Trapp",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Hainer Hof 8",
+        "strasse": "Eptingweg 23",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Jons",
+        "vorname": "Emmeran",
         "weiblich": false
     }
 }

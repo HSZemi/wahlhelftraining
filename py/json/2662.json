@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1106059,
+    "nummer": 2421384,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.10.1996",
-        "matrikelnummer": 2573724,
-        "mehrfachausfertigung": 2,
-        "nachname": "Hantke",
-        "plzort": "14943 L\u00fcdersdorf",
+        "fakultaet": 9,
+        "geburtsdatum": "25.07.1990",
+        "matrikelnummer": 2976608,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wegmann",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00e4ckerweg 25",
+        "strasse": "Daenser Weg 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heinzwerner",
-        "weiblich": false
+        "vorname": "Annina",
+        "weiblich": true
     }
 }

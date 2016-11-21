@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1702043,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1858545,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.04.1988",
-        "matrikelnummer": 2882290,
-        "mehrfachausfertigung": 2,
-        "nachname": "Liebscher",
-        "plzort": "53217 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "02.03.1997",
+        "matrikelnummer": 1993397,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "H\u00e4berle",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Bilsteinweg 22",
+        "strasse": "An der Steinm\u00fchle 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Willma",
-        "weiblich": true
+        "vorname": "Siegfrid",
+        "weiblich": false
     }
 }

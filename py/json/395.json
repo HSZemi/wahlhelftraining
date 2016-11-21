@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2709560,
+    "nummer": 1535537,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.06.1997",
-        "matrikelnummer": 2169180,
-        "mehrfachausfertigung": 3,
-        "nachname": "Reinsch",
-        "plzort": "53178 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "15.12.1990",
+        "matrikelnummer": 2333066,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Storm",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Forsmannstra\u00dfe 3",
+        "strasse": "Brockhausstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Mirjana",
+        "vorname": "Zeynep",
         "weiblich": true
     }
 }

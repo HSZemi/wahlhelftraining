@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2844197,
+    "nummer": 2388783,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "03.04.1997",
-        "matrikelnummer": 11512,
-        "mehrfachausfertigung": 3,
-        "nachname": "Rieger",
-        "plzort": "53163 Bonn",
+        "geburtsdatum": "15.01.1999",
+        "matrikelnummer": 18342,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Henrich",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Kleemannstra\u00dfe 8",
+        "strasse": "Kinzigstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Horstmar",
-        "weiblich": false
+        "vorname": "Josefine",
+        "weiblich": true
     }
 }

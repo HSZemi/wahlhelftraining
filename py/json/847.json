@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1611607,
+    "nummer": 2901556,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.09.1996",
-        "matrikelnummer": 2215116,
-        "mehrfachausfertigung": 3,
-        "nachname": "Opitz",
-        "plzort": "98646 Hildburghausen",
+        "fakultaet": 7,
+        "geburtsdatum": "15.07.1996",
+        "matrikelnummer": 156137,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Seifert",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Auenstra\u00dfe 4",
+        "strasse": "Schlo\u00dfstra\u00dfe 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dorchen",
+        "vorname": "Adelheid",
         "weiblich": true
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2734463,
+    "nummer": 2480196,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "21.01.1992",
-        "matrikelnummer": 2396757,
-        "mehrfachausfertigung": 3,
-        "nachname": "Theobald",
-        "plzort": "53125 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "17.11.1995",
+        "matrikelnummer": 2259383,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kampmann",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Herbert-Barthel-Stra\u00dfe 3",
+        "strasse": "An der Schmiede 15",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Withold",
-        "weiblich": false
+        "vorname": "K\u00e4thi",
+        "weiblich": true
     }
 }

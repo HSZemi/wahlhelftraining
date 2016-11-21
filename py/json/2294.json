@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1651992,
+    "nummer": 1813576,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "10.05.1986",
-        "matrikelnummer": 1911478,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bangert",
-        "plzort": "76863 Herxheimweyher",
+        "geburtsdatum": "24.08.1982",
+        "matrikelnummer": 154803,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ring",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Steinbeker Markt 3",
+        "strasse": "Arno-Holz-Allee 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Inkmar",
-        "weiblich": false
+        "vorname": "Simone",
+        "weiblich": true
     }
 }

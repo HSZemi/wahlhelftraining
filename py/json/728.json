@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2632765,
+    "nummer": 1054808,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "09.06.1995",
-        "matrikelnummer": 2493695,
+        "geburtsdatum": "07.01.1994",
+        "matrikelnummer": 2874158,
         "mehrfachausfertigung": 1,
-        "nachname": "Ha\u00df",
-        "plzort": "53196 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heese",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Eisgrubenweg 2",
+        "strasse": "Heiligenbornweg 3e",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elwine",
+        "vorname": "Melinda",
         "weiblich": true
     }
 }

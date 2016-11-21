@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2111564,
+    "nummer": 1631000,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "04.01.1984",
-        "matrikelnummer": 2838050,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "05.10.1991",
+        "matrikelnummer": 2727351,
         "mehrfachausfertigung": 1,
-        "nachname": "Welsch",
-        "plzort": "15752 Prieros",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schweiger",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Dreifaltigkeitsstra\u00dfe 7",
+        "strasse": "Kantstra\u00dfe 32",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Kurth",
-        "weiblich": false
+        "vorname": "Berenike",
+        "weiblich": true
     }
 }

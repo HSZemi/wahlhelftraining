@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2273552,
+    "nummer": 1455594,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "28.06.1989",
-        "matrikelnummer": 2235629,
-        "mehrfachausfertigung": 1,
-        "nachname": "Bitter",
-        "plzort": "21514 Fitzen",
+        "geburtsdatum": "19.09.1995",
+        "matrikelnummer": 1922957,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zinke",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Insterburger Stra\u00dfe 14",
+        "strasse": "Georgplatz 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gustel",
-        "weiblich": false
+        "vorname": "Adina",
+        "weiblich": true
     }
 }

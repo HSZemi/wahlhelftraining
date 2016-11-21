@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2925388,
+    "nummer": 2213212,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "16.11.1991",
-        "matrikelnummer": 122741,
+        "geburtsdatum": "16.11.1994",
+        "matrikelnummer": 2269028,
         "mehrfachausfertigung": 1,
-        "nachname": "P\u00fctz",
-        "plzort": "53118 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Dirks",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Bebelstra\u00dfe 2",
+        "strasse": "Olbrichtplatz 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Diethard",
-        "weiblich": false
+        "vorname": "Ewa",
+        "weiblich": true
     }
 }

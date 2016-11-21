@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2429523,
+    "nummer": 2055050,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "19.04.1996",
-        "matrikelnummer": 2276409,
+        "fakultaet": 7,
+        "geburtsdatum": "02.08.1992",
+        "matrikelnummer": 2347358,
         "mehrfachausfertigung": 1,
-        "nachname": "Bergmann",
-        "plzort": "39624 Badel",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stocker",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Wollgrasweg 2",
+        "strasse": "Sigmund-Freud-Stra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Winrich",
+        "vorname": "Erfried",
         "weiblich": false
     }
 }

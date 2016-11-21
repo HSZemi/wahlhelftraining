@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2907147,
+    "nummer": 2785611,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.01.1998",
-        "matrikelnummer": 2773226,
+        "fakultaet": 6,
+        "geburtsdatum": "17.10.1990",
+        "matrikelnummer": 2238077,
         "mehrfachausfertigung": 1,
-        "nachname": "Brede",
-        "plzort": "53171 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Michael",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Lorscher Stra\u00dfe 0",
+        "strasse": "Wei\u00dfiger Weg 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Cl\u00e4re",
+        "vorname": "Magdalena",
         "weiblich": true
     }
 }

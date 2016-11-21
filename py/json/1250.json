@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1169900,
+    "nummer": 2063734,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "18.09.1993",
-        "matrikelnummer": 130628,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "06.01.1993",
+        "matrikelnummer": 11743,
         "mehrfachausfertigung": 1,
-        "nachname": "Bickel",
-        "plzort": "66484 Dietrichingen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gerstner",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Campingplatz 12a",
+        "strasse": "Mousonstra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lilli",
-        "weiblich": true
+        "vorname": "Frankmut",
+        "weiblich": false
     }
 }

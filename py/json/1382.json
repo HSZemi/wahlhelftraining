@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2053242,
+    "nummer": 1242815,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.06.1995",
-        "matrikelnummer": 2824396,
+        "fakultaet": 5,
+        "geburtsdatum": "27.10.1994",
+        "matrikelnummer": 141951,
         "mehrfachausfertigung": 1,
-        "nachname": "Schwarzkopf",
-        "plzort": "71566 Alth\u00fctte",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fl\u00fcgge",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Ockerwitzer Weg 17",
+        "strasse": "Hermann-Kunz-Stra\u00dfe 24",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wilma",
+        "vorname": "Sonia",
         "weiblich": true
     }
 }

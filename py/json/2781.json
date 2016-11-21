@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2105342,
+    "nummer": 1900451,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "24.06.1990",
-        "matrikelnummer": 2460140,
-        "mehrfachausfertigung": 1,
-        "nachname": "Weniger",
-        "plzort": "53202 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "24.01.1992",
+        "matrikelnummer": 14928,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gehlen",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Unkersdorfer Stra\u00dfe 1",
+        "strasse": "Hasenbanckweg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sigfried",
-        "weiblich": false
+        "vorname": "Ariane",
+        "weiblich": true
     }
 }

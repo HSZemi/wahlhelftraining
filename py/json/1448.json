@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1816431,
+    "nummer": 2886266,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 9,
-        "geburtsdatum": "21.03.1995",
-        "matrikelnummer": 2590727,
+        "geburtsdatum": "03.10.1995",
+        "matrikelnummer": 140319,
         "mehrfachausfertigung": 1,
-        "nachname": "Sch\u00f6nfeld",
-        "plzort": "53161 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Merz",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Normannenweg 6",
+        "strasse": "Am Geesttor 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Uranius",
+        "vorname": "Leon",
         "weiblich": false
     }
 }

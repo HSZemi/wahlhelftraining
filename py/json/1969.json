@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2887162,
+    "nummer": 2910510,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.02.1990",
-        "matrikelnummer": 2461255,
+        "fakultaet": 6,
+        "geburtsdatum": "17.04.1997",
+        "matrikelnummer": 2898899,
         "mehrfachausfertigung": 1,
-        "nachname": "Herold",
-        "plzort": "53156 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wilde",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Heinrich Bechtstra\u00dfe 13",
+        "strasse": "Graf-Stauffenberg-Platz 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Emil",
+        "vorname": "Joscha",
         "weiblich": false
     }
 }

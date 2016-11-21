@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1091597,
-    "semester": "Sommersemester 2016",
+    "nummer": 2712343,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "28.07.1992",
-        "matrikelnummer": 178691,
+        "fakultaet": 6,
+        "geburtsdatum": "03.06.1987",
+        "matrikelnummer": 2201602,
         "mehrfachausfertigung": 1,
-        "nachname": "G\u00f6rlich",
-        "plzort": "30163 Hannover",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schnur",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Lindberghplatz 29",
+        "strasse": "Am Pfeiferberg 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Detlev",
-        "weiblich": false
+        "vorname": "Viola",
+        "weiblich": true
     }
 }

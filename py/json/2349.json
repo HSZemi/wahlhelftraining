@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1575604,
+    "nummer": 2078306,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "18.08.1994",
-        "matrikelnummer": 2288699,
-        "mehrfachausfertigung": 5,
-        "nachname": "Pfeil",
-        "plzort": "53163 Bonn",
+        "geburtsdatum": "11.01.1995",
+        "matrikelnummer": 2586951,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Nolden",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Wahnsdorfer Stra\u00dfe 0",
+        "strasse": "An den Birken 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Myrjam",
-        "weiblich": true
+        "vorname": "Sigismund",
+        "weiblich": false
     }
 }

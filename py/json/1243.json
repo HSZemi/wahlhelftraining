@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2700602,
+    "nummer": 2884764,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "24.09.1987",
-        "matrikelnummer": 2649266,
-        "mehrfachausfertigung": 1,
-        "nachname": "K\u00fcppers",
-        "plzort": "17089 Golchen",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "06.09.1999",
+        "matrikelnummer": 2249655,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sacher",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Am Roten Knock 0",
+        "strasse": "Herchenhainer Weg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Theophilus",
+        "vorname": "Ulwin",
         "weiblich": false
     }
 }

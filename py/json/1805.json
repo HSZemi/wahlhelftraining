@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2596003,
+    "nummer": 2386991,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.11.1998",
-        "matrikelnummer": 2963388,
+        "fakultaet": 5,
+        "geburtsdatum": "08.04.1993",
+        "matrikelnummer": 2210697,
         "mehrfachausfertigung": 1,
-        "nachname": "Hake",
-        "plzort": "53225 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Karcher",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Leuschkestra\u00dfe 0",
+        "strasse": "Rondeel 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Winfried",
+        "vorname": "Sigi",
         "weiblich": false
     }
 }

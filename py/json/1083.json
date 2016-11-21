@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1277062,
+    "nummer": 1149810,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.02.1993",
-        "matrikelnummer": 15957,
-        "mehrfachausfertigung": 1,
-        "nachname": "Beckert",
-        "plzort": "53192 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "12.06.1988",
+        "matrikelnummer": 2270435,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rott",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Seifzerteichstra\u00dfe 0",
+        "strasse": "Bei der Papierfabrik 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Siegward",
+        "vorname": "Tristan",
         "weiblich": false
     }
 }

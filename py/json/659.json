@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1464070,
+    "nummer": 2424940,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.07.1997",
-        "matrikelnummer": 2357980,
+        "fakultaet": 6,
+        "geburtsdatum": "11.09.1995",
+        "matrikelnummer": 2755688,
         "mehrfachausfertigung": 1,
-        "nachname": "Schweikert",
-        "plzort": "53143 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jankowski",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Am Pfennigsberg 16",
+        "strasse": "Im Teller 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hedi",
+        "vorname": "Lindemarie",
         "weiblich": true
     }
 }

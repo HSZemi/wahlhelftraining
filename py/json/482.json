@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2379979,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2376905,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.12.1995",
-        "matrikelnummer": 2258688,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "18.12.1991",
+        "matrikelnummer": 17818,
         "mehrfachausfertigung": 1,
-        "nachname": "Sauer",
-        "plzort": "53124 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stuber",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Pillnitzer Landstra\u00dfe 4",
+        "strasse": "Gr\u00fcne Hoffnung 17",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gundhard",
-        "weiblich": false
+        "vorname": "Else",
+        "weiblich": true
     }
 }

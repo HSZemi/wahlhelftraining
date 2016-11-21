@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2441466,
+    "nummer": 1089795,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.09.1999",
-        "matrikelnummer": 2047243,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "06.11.1995",
+        "matrikelnummer": 2646708,
         "mehrfachausfertigung": 1,
-        "nachname": "Krause",
-        "plzort": "17111 Warrenzin",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Koller",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Walter-vom-Rath-Stra\u00dfe 12",
+        "strasse": "Kaiserstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Annelen",
-        "weiblich": true
+        "vorname": "Erwin",
+        "weiblich": false
     }
 }

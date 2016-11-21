@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1818832,
+    "nummer": 2826657,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.08.1994",
-        "matrikelnummer": 2291270,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "26.07.1992",
+        "matrikelnummer": 2948745,
         "mehrfachausfertigung": 1,
-        "nachname": "Kick",
-        "plzort": "53129 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hartig",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Mattenheimerstr. 13",
+        "strasse": "Andreas-Hofer-Stra\u00dfe 11b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gusti",
-        "weiblich": true
+        "vorname": "Ludger",
+        "weiblich": false
     }
 }

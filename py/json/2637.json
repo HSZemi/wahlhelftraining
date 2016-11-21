@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1616251,
+    "nummer": 1752172,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.05.1997",
-        "matrikelnummer": 2681084,
+        "fakultaet": 7,
+        "geburtsdatum": "26.08.1993",
+        "matrikelnummer": 2209159,
         "mehrfachausfertigung": 1,
-        "nachname": "Kreuzer",
-        "plzort": "53139 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rohe",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Eichbuscher Ring 4",
+        "strasse": "Lausitzer Stra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ekkehart",
+        "vorname": "Seppl",
         "weiblich": false
     }
 }

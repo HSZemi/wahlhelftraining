@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1242681,
+    "nummer": 1051033,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.09.1994",
-        "matrikelnummer": 2340511,
+        "geburtsdatum": "19.02.1999",
+        "matrikelnummer": 2138544,
         "mehrfachausfertigung": 1,
-        "nachname": "Scherer",
-        "plzort": "40237 D\u00fcsseldorf",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Achenbach",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Josef-Fenzl-Stra\u00dfe 8",
+        "strasse": "Am Kammerholz 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Roslinda",
+        "vorname": "Bertina",
         "weiblich": true
     }
 }

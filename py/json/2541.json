@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2685046,
+    "nummer": 2415644,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.11.1996",
-        "matrikelnummer": 2742433,
-        "mehrfachausfertigung": 1,
-        "nachname": "K\u00f6lsch",
-        "plzort": "56242 Quirnbach",
+        "fakultaet": 5,
+        "geburtsdatum": "19.07.1996",
+        "matrikelnummer": 129854,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Thiede",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Am Winkelsprung 1",
+        "strasse": "Weilburger Stra\u00dfe 2b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lisl",
+        "vorname": "Hildrun",
         "weiblich": true
     }
 }

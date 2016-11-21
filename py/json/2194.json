@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2422761,
+    "nummer": 1403086,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.04.1986",
-        "matrikelnummer": 1969282,
-        "mehrfachausfertigung": 2,
-        "nachname": "M\u00e4der",
-        "plzort": "53181 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "06.10.1995",
+        "matrikelnummer": 2972534,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Roeder",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Kornfeld-Weg 4",
+        "strasse": "Wolfsbachweg 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Freimund",
-        "weiblich": false
+        "vorname": "Mariedore",
+        "weiblich": true
     }
 }

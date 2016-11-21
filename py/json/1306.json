@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2845100,
+    "nummer": 1509140,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "27.06.1993",
-        "matrikelnummer": 2899784,
-        "mehrfachausfertigung": 1,
-        "nachname": "Ullmann",
-        "plzort": "99986 Langula",
+        "geburtsdatum": "10.09.1993",
+        "matrikelnummer": 180232,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sander",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Am Vorwerksfeld 10b",
+        "strasse": "Niederpoyritzer Stra\u00dfe 8",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Arnt",
-        "weiblich": false
+        "vorname": "Ingrid",
+        "weiblich": true
     }
 }

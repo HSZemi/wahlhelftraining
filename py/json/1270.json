@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2743095,
+    "nummer": 1844119,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "28.08.1999",
-        "matrikelnummer": 2918230,
+        "geburtsdatum": "06.12.1986",
+        "matrikelnummer": 145785,
         "mehrfachausfertigung": 1,
-        "nachname": "Rolle",
-        "plzort": "53137 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schoch",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Matzke-Stra\u00dfe 8",
+        "strasse": "Koselstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Klotilde",
-        "weiblich": true
+        "vorname": "Edelhard",
+        "weiblich": false
     }
 }

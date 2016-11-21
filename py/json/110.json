@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1784528,
+    "nummer": 1241669,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.05.1988",
-        "matrikelnummer": 2247743,
-        "mehrfachausfertigung": 1,
-        "nachname": "Daum",
-        "plzort": "53189 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "16.08.1990",
+        "matrikelnummer": 2954669,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Dahlke",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "St. Georgs Kirchhof 6",
+        "strasse": "Letternkamp 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Silke",
-        "weiblich": true
+        "vorname": "Cersten",
+        "weiblich": false
     }
 }

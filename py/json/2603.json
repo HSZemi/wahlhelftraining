@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1734308,
+    "nummer": 1540931,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.07.1994",
-        "matrikelnummer": 1943069,
-        "mehrfachausfertigung": 5,
-        "nachname": "Mauer",
-        "plzort": "53178 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "07.05.1994",
+        "matrikelnummer": 13266,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Baumgarten",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00fcnfelder Stra\u00dfe 6",
+        "strasse": "Leutewitzer Ring 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Irmo",
-        "weiblich": false
+        "vorname": "Tatjana",
+        "weiblich": true
     }
 }

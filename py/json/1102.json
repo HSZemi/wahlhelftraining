@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2788755,
+    "nummer": 2607998,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.03.1992",
-        "matrikelnummer": 2854145,
+        "fakultaet": 5,
+        "geburtsdatum": "06.08.1993",
+        "matrikelnummer": 2068832,
         "mehrfachausfertigung": 1,
-        "nachname": "Block",
-        "plzort": "53158 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Moosmann",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Sigmund-Freud-Stra\u00dfe 4",
+        "strasse": "Heinrich-Baldes-Stra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Erhart",
+        "vorname": "Bernold",
         "weiblich": false
     }
 }

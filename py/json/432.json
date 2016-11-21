@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2200770,
+    "nummer": 2048269,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.02.1985",
-        "matrikelnummer": 2773303,
+        "fakultaet": 4,
+        "geburtsdatum": "01.09.1992",
+        "matrikelnummer": 2078666,
         "mehrfachausfertigung": 1,
-        "nachname": "Willer",
-        "plzort": "53183 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rauer",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Am Birkenbuckel 3",
+        "strasse": "F\u00fcrstenstra\u00dfe 38",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Luitwin",
+        "vorname": "Darius",
         "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2144082,
+    "nummer": 2521683,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.01.1993",
-        "matrikelnummer": 2419926,
-        "mehrfachausfertigung": 1,
-        "nachname": "Hellmich",
-        "plzort": "53194 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "10.05.1992",
+        "matrikelnummer": 13251,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Baer",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Rauschenbachstra\u00dfe 0",
+        "strasse": "Besenbinderhof 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gismar",
-        "weiblich": false
+        "vorname": "Alheid",
+        "weiblich": true
     }
 }

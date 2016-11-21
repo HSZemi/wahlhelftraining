@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2634927,
+    "nummer": 1692621,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "24.10.1993",
-        "matrikelnummer": 2603001,
-        "mehrfachausfertigung": 1,
-        "nachname": "Eckhoff",
-        "plzort": "53201 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "27.11.1999",
+        "matrikelnummer": 2885477,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bohnert",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Am Storchengrund 1",
+        "strasse": "Erich-K\u00e4stner-Stra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Irina",
+        "vorname": "Wendelin",
         "weiblich": true
     }
 }

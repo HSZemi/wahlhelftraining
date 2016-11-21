@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2833122,
+    "nummer": 1148673,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.11.1993",
-        "matrikelnummer": 154000,
+        "fakultaet": 4,
+        "geburtsdatum": "03.01.1990",
+        "matrikelnummer": 2788500,
         "mehrfachausfertigung": 1,
-        "nachname": "Hartwich",
-        "plzort": "53158 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Obermaier",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Am Tummelsgrund 12",
+        "strasse": "Hermann-Wendel-Stra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Eckhardt",
+        "vorname": "Egmont",
         "weiblich": false
     }
 }

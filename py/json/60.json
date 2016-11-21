@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1524498,
+    "nummer": 1026607,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "15.06.1993",
-        "matrikelnummer": 2328505,
-        "mehrfachausfertigung": 1,
-        "nachname": "Evers",
-        "plzort": "53151 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "03.02.1997",
+        "matrikelnummer": 2131150,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gessner",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "W\u00f6hlerbr\u00fccke 12",
+        "strasse": "Junghansstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerburg",
+        "vorname": "Dajana",
         "weiblich": true
     }
 }

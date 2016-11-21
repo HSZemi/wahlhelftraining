@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1059427,
+    "nummer": 1324231,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.09.1994",
-        "matrikelnummer": 2941037,
+        "fakultaet": 8,
+        "geburtsdatum": "02.01.1999",
+        "matrikelnummer": 2161460,
         "mehrfachausfertigung": 1,
-        "nachname": "Deutsch",
-        "plzort": "53111 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Peters",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Gubener Stra\u00dfe 5",
+        "strasse": "Putjatinplatz 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Valentina",
+        "vorname": "Serafine",
         "weiblich": true
     }
 }

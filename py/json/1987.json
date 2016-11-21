@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2512128,
+    "nummer": 1096109,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.07.1994",
-        "matrikelnummer": 2247219,
+        "fakultaet": 9,
+        "geburtsdatum": "24.12.1998",
+        "matrikelnummer": 2220024,
         "mehrfachausfertigung": 1,
-        "nachname": "Weniger",
-        "plzort": "53187 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Keil",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Rosenthaler Stra\u00dfe 10",
+        "strasse": "Herrnstra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hannspeter",
+        "vorname": "Friedbald",
         "weiblich": false
     }
 }

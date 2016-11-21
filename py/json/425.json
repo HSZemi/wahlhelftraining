@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1751242,
-    "semester": "Sommersemester 2016",
+    "nummer": 1626553,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "23.03.1993",
-        "matrikelnummer": 2143579,
-        "mehrfachausfertigung": 5,
-        "nachname": "Beutler",
-        "plzort": "53142 Bonn",
+        "geburtsdatum": "12.11.1998",
+        "matrikelnummer": 13086,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Henschel",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Niederauer Stra\u00dfe 10d",
+        "strasse": "Alfredstra\u00dfenbr\u00fccke 17",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ferdinandus",
+        "vorname": "Steven",
         "weiblich": false
     }
 }

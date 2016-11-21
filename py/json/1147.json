@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1531956,
+    "nummer": 1251970,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "06.07.1989",
-        "matrikelnummer": 123198,
-        "mehrfachausfertigung": 1,
-        "nachname": "Heese",
-        "plzort": "53114 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "12.12.1995",
+        "matrikelnummer": 2182101,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kuhr",
+        "plzort": "2",
         "sternchen": 0,
-        "strasse": "Sch\u00e4ferkamp 5",
+        "strasse": "Schwarze Br\u00fccke 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Reimund",
+        "vorname": "Treuhart",
         "weiblich": false
     }
 }

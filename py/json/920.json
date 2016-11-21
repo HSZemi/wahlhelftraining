@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2978376,
+    "nummer": 1399298,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.09.1998",
-        "matrikelnummer": 145294,
+        "fakultaet": 6,
+        "geburtsdatum": "17.03.1990",
+        "matrikelnummer": 2683868,
         "mehrfachausfertigung": 1,
-        "nachname": "H\u00e4nsel",
-        "plzort": "53180 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kohn",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Kohlrauschweg 5",
+        "strasse": "Zei\u00dfelstra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Friedlinde",
+        "vorname": "Edwine",
         "weiblich": true
     }
 }

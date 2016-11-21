@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1247279,
+    "nummer": 1770176,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.03.1999",
-        "matrikelnummer": 2966321,
-        "mehrfachausfertigung": 2,
-        "nachname": "Koslowski",
-        "plzort": "53228 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "03.06.1992",
+        "matrikelnummer": 153697,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Thei\u00df",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Leo-Tolstoj-Stra\u00dfe 1",
+        "strasse": "Honsbergenstra\u00dfe 25",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Annekristin",
-        "weiblich": true
+        "vorname": "Gotthold",
+        "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2347972,
+    "nummer": 2682268,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "17.08.1988",
-        "matrikelnummer": 17497,
-        "mehrfachausfertigung": 1,
-        "nachname": "Sch\u00f6ll",
-        "plzort": "53118 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "11.02.1993",
+        "matrikelnummer": 2054544,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Willmann",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Albert-Hensel-Stra\u00dfe 4",
+        "strasse": "Lagerhausstr. 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Judith",
+        "vorname": "Heltrud",
         "weiblich": true
     }
 }

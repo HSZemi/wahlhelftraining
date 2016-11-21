@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2362459,
-    "semester": "Sommersemester 2016",
+    "nummer": 1040140,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.08.1996",
-        "matrikelnummer": 2683569,
-        "mehrfachausfertigung": 2,
-        "nachname": "Lindenau",
-        "plzort": "53197 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "12.11.1993",
+        "matrikelnummer": 199000,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hotz",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Radeburger Landstra\u00dfe 3a",
+        "strasse": "Mobschatzer Stra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sonnfried",
+        "vorname": "Christof",
         "weiblich": false
     }
 }

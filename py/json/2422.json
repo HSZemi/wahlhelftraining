@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2833712,
+    "nummer": 1285385,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "08.10.1999",
-        "matrikelnummer": 2949188,
+        "geburtsdatum": "15.03.1990",
+        "matrikelnummer": 2232491,
         "mehrfachausfertigung": 1,
-        "nachname": "Meusel",
-        "plzort": "96528 Bachfeld",
+        "mitglied_studierendenschaft": true,
+        "nachname": "G\u00f6pfert",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Am Briesnitzer Hang 30",
+        "strasse": "Malerstra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Elselore",
-        "weiblich": true
+        "vorname": "Valentin",
+        "weiblich": false
     }
 }

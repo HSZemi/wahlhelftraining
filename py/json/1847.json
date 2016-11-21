@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2536413,
+    "nummer": 1165516,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "18.11.1993",
-        "matrikelnummer": 2510690,
-        "mehrfachausfertigung": 4,
-        "nachname": "J\u00e4kel",
-        "plzort": "53209 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "16.10.1994",
+        "matrikelnummer": 188491,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hagel",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Bauernweg 20",
+        "strasse": "Oskar-von-Miller-Stra\u00dfe 15",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Golo",
-        "weiblich": false
+        "vorname": "Bianca",
+        "weiblich": true
     }
 }

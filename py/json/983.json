@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2182297,
+    "nummer": 1595256,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.02.1994",
-        "matrikelnummer": 2277223,
-        "mehrfachausfertigung": 2,
-        "nachname": "Pahl",
-        "plzort": "53121 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "16.11.1998",
+        "matrikelnummer": 2484952,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Riedel",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Aachener Stra\u00dfe 0",
+        "strasse": "Baudenweg 1c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "C\u00e4cilie",
-        "weiblich": true
+        "vorname": "Daniel",
+        "weiblich": false
     }
 }

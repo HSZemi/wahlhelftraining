@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1338923,
-    "semester": "Sommersemester 2016",
+    "nummer": 1706254,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.01.1994",
-        "matrikelnummer": 2275765,
-        "mehrfachausfertigung": 3,
-        "nachname": "Herold",
-        "plzort": "53191 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "10.12.1994",
+        "matrikelnummer": 2217957,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schock",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Br\u00fcningstra\u00dfe 1",
+        "strasse": "Brennerstra\u00dfe 15d",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Viktoria",
+        "vorname": "Inge",
         "weiblich": true
     }
 }

@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1771141,
+    "nummer": 2999846,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "14.02.1990",
-        "matrikelnummer": 2581890,
+        "geburtsdatum": "23.10.1995",
+        "matrikelnummer": 1918210,
         "mehrfachausfertigung": 1,
-        "nachname": "Dohmen",
-        "plzort": "53183 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kriegel",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "An der Steinm\u00fchle 6b",
+        "strasse": "Ligusterweg 7",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Wolfbert",
-        "weiblich": false
+        "vorname": "Gerlind",
+        "weiblich": true
     }
 }

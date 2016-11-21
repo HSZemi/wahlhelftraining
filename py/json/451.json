@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1745435,
+    "nummer": 2276085,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.12.1990",
-        "matrikelnummer": 2049627,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "18.04.1993",
+        "matrikelnummer": 15067,
         "mehrfachausfertigung": 1,
-        "nachname": "Marks",
-        "plzort": "50226 Frechen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jonas",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Lauensteiner Stra\u00dfe 22",
+        "strasse": "Cezanneweg 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Lilian",
-        "weiblich": true
+        "vorname": "Franzl",
+        "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2914921,
+    "nummer": 1778340,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.06.1993",
-        "matrikelnummer": 2631226,
-        "mehrfachausfertigung": 1,
-        "nachname": "Fr\u00f6hlich",
-        "plzort": "53217 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "17.05.1992",
+        "matrikelnummer": 2880399,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hofmann",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Fanny El\u00dfler-Gasse 9",
+        "strasse": "Zollnerstr. 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Sylvia",
-        "weiblich": true
+        "vorname": "Raimond",
+        "weiblich": false
     }
 }

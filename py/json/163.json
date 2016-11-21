@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1579434,
+    "nummer": 1455247,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.09.1997",
-        "matrikelnummer": 2035042,
-        "mehrfachausfertigung": 1,
-        "nachname": "Westphal",
-        "plzort": "53188 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "11.12.1988",
+        "matrikelnummer": 2506756,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schaper",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Zwickauer Platz 4",
+        "strasse": "Hammer Landstra\u00dfe 34",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Heiner",
-        "weiblich": false
+        "vorname": "Theresia",
+        "weiblich": true
     }
 }

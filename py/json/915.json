@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2099921,
+    "nummer": 2424396,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.03.1995",
-        "matrikelnummer": 2449240,
-        "mehrfachausfertigung": 1,
-        "nachname": "Mund",
-        "plzort": "56317 Linkenbach",
+        "fakultaet": 1,
+        "geburtsdatum": "15.08.1991",
+        "matrikelnummer": 2647974,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Reger",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Rangenbergstra\u00dfe 4",
+        "strasse": "Max-Bromme-Steig 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Tilly",
+        "vorname": "Kristin",
         "weiblich": true
     }
 }

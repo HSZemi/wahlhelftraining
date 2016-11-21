@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2393180,
+    "nummer": 1275496,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.08.1988",
-        "matrikelnummer": 2846067,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "03.07.1995",
+        "matrikelnummer": 1936066,
         "mehrfachausfertigung": 1,
-        "nachname": "Adolph",
-        "plzort": "96484 Meeder",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stiller",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Tauernstra\u00dfe 4",
+        "strasse": "Merbitzer Stra\u00dfe 0b",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Holger",
+        "vorname": "Reinhart",
         "weiblich": false
     }
 }

@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1143543,
+    "nummer": 1224831,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "10.03.1996",
-        "matrikelnummer": 2374732,
-        "mehrfachausfertigung": 1,
-        "nachname": "Strunk",
-        "plzort": "53119 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "20.02.1993",
+        "matrikelnummer": 2343539,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "M\u00fchlbauer",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "An den G\u00e4rten 7",
+        "strasse": "Am Weidenbrunnen 29",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Gerald",
+        "vorname": "Olaf",
         "weiblich": false
     }
 }

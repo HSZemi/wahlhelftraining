@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1882601,
+    "nummer": 2703254,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "05.01.1992",
-        "matrikelnummer": 2261369,
-        "mehrfachausfertigung": 1,
-        "nachname": "Schmidbauer",
-        "plzort": "53139 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "20.12.1996",
+        "matrikelnummer": 2022176,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bendig",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Eytelweinstra\u00dfe 0",
+        "strasse": "Meranierstr. 16",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Hilde",
-        "weiblich": true
+        "vorname": "Alfons",
+        "weiblich": false
     }
 }

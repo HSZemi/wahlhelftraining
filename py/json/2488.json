@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2933139,
+    "nummer": 1226410,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.07.1995",
-        "matrikelnummer": 2288085,
+        "fakultaet": 5,
+        "geburtsdatum": "13.07.1993",
+        "matrikelnummer": 2371103,
         "mehrfachausfertigung": 1,
-        "nachname": "Ulrich",
-        "plzort": "53147 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Weinert",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Braunstieg 35a",
+        "strasse": "Roepersweg 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Friedhelm",
+        "vorname": "Heino",
         "weiblich": false
     }
 }

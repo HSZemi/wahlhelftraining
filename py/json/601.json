@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1025213,
+    "nummer": 1237604,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "03.03.1998",
-        "matrikelnummer": 15570,
+        "geburtsdatum": "11.10.1998",
+        "matrikelnummer": 189288,
         "mehrfachausfertigung": 1,
-        "nachname": "P\u00e4tzold",
-        "plzort": "19077 Rastow",
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00f6ckmann",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Friedhofstra\u00dfe 4",
+        "strasse": "Teutoburgstra\u00dfe 29",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Helfried",
+        "vorname": "Sigenot",
         "weiblich": false
     }
 }

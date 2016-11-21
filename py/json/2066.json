@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1889309,
+    "nummer": 1944250,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.02.1999",
-        "matrikelnummer": 184103,
-        "mehrfachausfertigung": 1,
-        "nachname": "Lorenzen",
-        "plzort": "74635 Kupferzell",
+        "fakultaet": 6,
+        "geburtsdatum": "19.11.1989",
+        "matrikelnummer": 2426378,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jehle",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Collmweg 2",
+        "strasse": "Wigardstra\u00dfe 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Anne-Rose",
+        "vorname": "Arlinde",
         "weiblich": true
     }
 }

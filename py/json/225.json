@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2685892,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2748527,
+    "semester": "Sommersemester 2016",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "18.02.1993",
-        "matrikelnummer": 2696978,
+        "geburtsdatum": "12.10.1990",
+        "matrikelnummer": 2751683,
         "mehrfachausfertigung": 1,
-        "nachname": "Kircher",
-        "plzort": "53148 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Degen",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Miquelallee 12",
+        "strasse": "Am Fl\u00f6ssertgraben 23",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Roselotte",
-        "weiblich": true
+        "vorname": "Maximilian",
+        "weiblich": false
     }
 }

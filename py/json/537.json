@@ -1,21 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2865445,
+    "nummer": 2452864,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.08.1995",
-        "matrikelnummer": 2014836,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "14.06.1994",
+        "matrikelnummer": 1962534,
         "mehrfachausfertigung": 1,
-        "nachname": "Peschel",
-        "plzort": "53129 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Dittmann",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Rombergstra\u00dfe 3",
+        "strasse": "Dr.-Ida-Noddack-Str. 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Ottkar",
+        "vorname": "Ehrhardt",
         "weiblich": false
     }
 }

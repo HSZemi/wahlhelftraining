@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1260574,
+    "nummer": 1890677,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "26.10.1994",
-        "matrikelnummer": 2705485,
-        "mehrfachausfertigung": 1,
-        "nachname": "Wiesner",
-        "plzort": "56858 Mittelstrimmig",
+        "geburtsdatum": "25.10.1997",
+        "matrikelnummer": 2103178,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Moldenhauer",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Eisbachstra\u00dfe 2",
+        "strasse": "Seidnitzer Weg 16",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Annina",
-        "weiblich": true
+        "vorname": "Karl",
+        "weiblich": false
     }
 }

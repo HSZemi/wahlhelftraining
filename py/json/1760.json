@@ -2,20 +2,22 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1959036,
+    "nummer": 1778105,
     "semester": "Wintersemester 2016/2017",
     "stud": {
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "13.11.1991",
-        "matrikelnummer": 2185083,
+        "geburtsdatum": "10.01.1995",
+        "matrikelnummer": 2660938,
         "mehrfachausfertigung": 1,
-        "nachname": "Dose",
-        "plzort": "17237 Blankensee",
+        "mitglied_studierendenschaft": true,
+        "nachname": "M\u00f6ser",
+        "plzort": "8",
         "sternchen": 0,
-        "strasse": "Hainichener Stra\u00dfe 7",
+        "strasse": "Schorkstr. 42e",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Haimo",
-        "weiblich": false
+        "vorname": "Josepha",
+        "weiblich": true
     }
 }

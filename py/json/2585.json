@@ -1,21 +1,23 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2207350,
+    "nummer": 1566530,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.04.1995",
-        "matrikelnummer": 2111423,
-        "mehrfachausfertigung": 5,
-        "nachname": "Bucher",
-        "plzort": "53117 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "28.11.1999",
+        "matrikelnummer": 12518,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Grobe",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Stiftsgasse 0",
+        "strasse": "Ziegeleiweg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Dietram",
-        "weiblich": false
+        "vorname": "Katarzyna",
+        "weiblich": true
     }
 }

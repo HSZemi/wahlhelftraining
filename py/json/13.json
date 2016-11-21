@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1978843,
-    "semester": "Sommersemester 2016",
+    "nummer": 1884642,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": false,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "16.08.1988",
-        "matrikelnummer": 2780665,
+        "geburtsdatum": "23.02.1997",
+        "matrikelnummer": 14012,
         "mehrfachausfertigung": 1,
-        "nachname": "Hack",
-        "plzort": "53115 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Wanner",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Franz Elek Eiweck-Stra\u00dfe 2b",
+        "strasse": "Am Hirtenacker 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Tamara",
-        "weiblich": true
+        "vorname": "Felix",
+        "weiblich": false
     }
 }

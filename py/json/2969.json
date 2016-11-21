@@ -4,18 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1509627,
+    "nummer": 1240453,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "beurlaubt": true,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "18.10.1999",
-        "matrikelnummer": 2203742,
+        "geburtsdatum": "27.04.1992",
+        "matrikelnummer": 2408196,
         "mehrfachausfertigung": 1,
-        "nachname": "Rank",
-        "plzort": "04936 Hohenbucko",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Adams",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Blumenweg 6",
+        "strasse": "Silcherstra\u00dfe 11",
         "studienfaecher": [
             {
                 "abschluss": "Master of Disaster",
@@ -23,7 +25,7 @@
                 "fsem": 0
             }
         ],
-        "vorname": "Herwald",
-        "weiblich": false
+        "vorname": "Sonnhilde",
+        "weiblich": true
     }
 }
