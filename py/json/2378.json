@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2539369,
+    "nummer": 2822593,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.01.1991",
-        "matrikelnummer": 1926304,
+        "fakultaet": 0,
+        "geburtsdatum": "07.11.1995",
+        "matrikelnummer": 2734290,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Stingl",
-        "plzort": "53202 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Jung",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Neue Siedlung 15",
+        "strasse": "M\u00fchlwiesenstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Freiwald",
-        "weiblich": false
+        "vorname": "G\u00f6n\u00fcl",
+        "weiblich": true
     }
 }

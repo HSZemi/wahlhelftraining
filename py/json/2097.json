@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2000991,
+    "nummer": 1488397,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "23.02.1994",
-        "matrikelnummer": 2653136,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "02.04.1992",
+        "matrikelnummer": 199088,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Zinke",
-        "plzort": "53127 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Weidmann",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Liebigbr\u00fccke 13",
+        "strasse": "Kleinsiedlerweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Physik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Heimar",
+        "vorname": "Curd",
         "weiblich": false
     }
 }

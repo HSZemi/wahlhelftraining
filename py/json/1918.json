@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1884864,
-    "semester": "Sommersemester 2016",
+    "nummer": 1675711,
+    "semester": "Wintersemester 2015/2016",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "17.09.1996",
-        "matrikelnummer": 2403997,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Behrens",
-        "plzort": "53187 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "14.07.1990",
+        "matrikelnummer": 1946014,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zoller",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Hochlandstra\u00dfe 6",
+        "strasse": "Gostritzer Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Kulturwissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Rhiane",
-        "weiblich": true
+        "vorname": "Hansl",
+        "weiblich": false
     }
 }

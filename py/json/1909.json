@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2435928,
+    "nummer": 2604494,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.07.1994",
-        "matrikelnummer": 2558999,
+        "fakultaet": 1,
+        "geburtsdatum": "18.09.1990",
+        "matrikelnummer": 2915940,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ohl",
-        "plzort": "53114 Bonn",
+        "nachname": "Weyer",
+        "plzort": "2",
         "sternchen": 0,
-        "strasse": "Im Nu\u00dfg\u00e4rtel 10a",
+        "strasse": "Heugasse 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "K\u00e4thi",
+        "vorname": "Heike",
         "weiblich": true
     }
 }

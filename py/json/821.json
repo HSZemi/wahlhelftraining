@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2352802,
+    "nummer": 2272323,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "27.11.1997",
-        "matrikelnummer": 18517,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "08.03.1999",
+        "matrikelnummer": 2518218,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wei\u00df",
-        "plzort": "1",
+        "nachname": "Sanders",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Kreuz\u00e4cker 2",
+        "strasse": "Thurn und Taxis-Platz 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Gerdi",
-        "weiblich": true
+        "vorname": "Otthein",
+        "weiblich": false
     }
 }

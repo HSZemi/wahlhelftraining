@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2312801,
+    "nummer": 2686194,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.06.1987",
-        "matrikelnummer": 2557228,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "27.05.1996",
+        "matrikelnummer": 2269844,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Herdt",
-        "plzort": "53164 Bonn",
+        "nachname": "Seliger",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Kronacher Str. 12",
+        "strasse": "Arndesstieg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             }
         ],
-        "vorname": "Zenzi",
+        "vorname": "Sylvana",
         "weiblich": true
     }
 }

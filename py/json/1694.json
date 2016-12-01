@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1123113,
+    "nummer": 2710935,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.08.1995",
-        "matrikelnummer": 1931975,
+        "fakultaet": 4,
+        "geburtsdatum": "06.02.1993",
+        "matrikelnummer": 18439,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Marks",
-        "plzort": "53177 Bonn",
+        "nachname": "Straube",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Am Geberbach 23",
+        "strasse": "Geiselsteinweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Frowin",
+        "vorname": "Eik",
         "weiblich": false
     }
 }

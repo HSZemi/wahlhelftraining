@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2691478,
+    "nummer": 1478898,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.03.1992",
-        "matrikelnummer": 186841,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Lietz",
-        "plzort": "53125 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "27.11.1993",
+        "matrikelnummer": 2121427,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Stolz",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Cosch\u00fctzer Hang 6",
+        "strasse": "Langsatzweg 32",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Michl",
-        "weiblich": false
+        "vorname": "Helena",
+        "weiblich": true
     }
 }

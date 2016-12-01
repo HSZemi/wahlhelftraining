@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2515310,
+    "nummer": 2691906,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "05.01.1990",
-        "matrikelnummer": 2311898,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "11.12.1988",
+        "matrikelnummer": 133546,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Dorner",
-        "plzort": "5",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fey",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Langenzugbr\u00fccke 9",
+        "strasse": "Wilhelm-Fay-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Ulfried",
-        "weiblich": false
+        "vorname": "Kassandra",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2748527,
-    "semester": "Sommersemester 2016",
+    "nummer": 2609883,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.10.1990",
-        "matrikelnummer": 2751683,
+        "fakultaet": 5,
+        "geburtsdatum": "06.07.1998",
+        "matrikelnummer": 2558898,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Degen",
-        "plzort": "53197 Bonn",
+        "nachname": "Ulmer",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Am Fl\u00f6ssertgraben 23",
+        "strasse": "G\u00fcntherstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Kulturstudien zu Lateinamerika/Estudios culturales de America Latina",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Maximilian",
+        "vorname": "Christopherus",
         "weiblich": false
     }
 }

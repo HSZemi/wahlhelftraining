@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1751837,
+    "nummer": 2120871,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "02.06.1992",
-        "matrikelnummer": 2832508,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "27.05.1987",
+        "matrikelnummer": 2624380,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ahrens",
-        "plzort": "53174 Bonn",
+        "nachname": "Baumg\u00e4rtner",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Theilerstr. 6",
+        "strasse": "An der Schanze 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 4
             }
         ],
-        "vorname": "Ulvi",
+        "vorname": "Ingram",
         "weiblich": false
     }
 }

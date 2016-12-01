@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1121185,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2106039,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.10.1991",
-        "matrikelnummer": 2058135,
+        "geburtsdatum": "01.08.1991",
+        "matrikelnummer": 11309,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hunger",
-        "plzort": "53178 Bonn",
+        "nachname": "Hanf",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Carl-Goerdeler-Stra\u00dfe 1",
+        "strasse": "Insterburger Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Mathematik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 2
             }
         ],
-        "vorname": "Kord",
+        "vorname": "Hartmuth",
         "weiblich": false
     }
 }

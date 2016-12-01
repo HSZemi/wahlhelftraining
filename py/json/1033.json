@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2914117,
+    "nummer": 2886605,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.11.1991",
-        "matrikelnummer": 2563510,
+        "fakultaet": 4,
+        "geburtsdatum": "15.06.1992",
+        "matrikelnummer": 2671716,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Waldmann",
-        "plzort": "53121 Bonn",
+        "nachname": "Wiest",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Hofweg 8",
+        "strasse": "Fritz Schumacher-Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 11
             }
         ],
-        "vorname": "Johann",
-        "weiblich": false
+        "vorname": "Liesgret",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2384619,
+    "nummer": 1377489,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.09.1994",
-        "matrikelnummer": 2067688,
+        "fakultaet": 5,
+        "geburtsdatum": "11.06.1999",
+        "matrikelnummer": 2484711,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Zuber",
-        "plzort": "53169 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Novak",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "S\u00fcdtiroler Stra\u00dfe 5c",
+        "strasse": "Bergahornweg 107",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Rosie",
-        "weiblich": true
+        "vorname": "Arthur",
+        "weiblich": false
     }
 }

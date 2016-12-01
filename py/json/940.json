@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2653461,
+    "nummer": 1342082,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "05.02.1992",
-        "matrikelnummer": 191443,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "09.04.1996",
+        "matrikelnummer": 192836,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Willer",
-        "plzort": "53167 Bonn",
+        "nachname": "Pfaff",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Andreaestra\u00dfe 0",
+        "strasse": "Westende 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Goswin",
-        "weiblich": false
+        "vorname": "Viviane",
+        "weiblich": true
     }
 }

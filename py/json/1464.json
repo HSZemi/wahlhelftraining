@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1382237,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2357863,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.04.1992",
-        "matrikelnummer": 2506799,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Eifler",
-        "plzort": "1",
+        "fakultaet": 0,
+        "geburtsdatum": "28.04.1989",
+        "matrikelnummer": 2873564,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Krumm",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Kellerskopfweg 0",
+        "strasse": "Hugo-Junkers-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
-        "vorname": "Wolfdieter",
-        "weiblich": false
+        "vorname": "Anfriede",
+        "weiblich": true
     }
 }

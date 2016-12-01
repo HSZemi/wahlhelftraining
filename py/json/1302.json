@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1123169,
+    "nummer": 2488262,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "16.04.1992",
-        "matrikelnummer": 2741586,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "20.07.1992",
+        "matrikelnummer": 2549305,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kromer",
-        "plzort": "53194 Bonn",
+        "nachname": "Stutz",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Bodenstedtstra\u00dfe 9",
+        "strasse": "Ganghoferstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Filippina",
+        "vorname": "Zilli",
         "weiblich": true
     }
 }

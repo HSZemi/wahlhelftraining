@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1702354,
+    "nummer": 2785344,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.02.1999",
-        "matrikelnummer": 2536398,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "04.09.1997",
+        "matrikelnummer": 2804987,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klasen",
-        "plzort": "53171 Bonn",
+        "nachname": "Koll",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Dientzenhoferstr. 13",
+        "strasse": "Kr\u00f6gerstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Treuhard",
+        "vorname": "Jonny",
         "weiblich": false
     }
 }

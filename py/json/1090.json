@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2337295,
+    "nummer": 1970676,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.09.1990",
-        "matrikelnummer": 2821553,
+        "fakultaet": 4,
+        "geburtsdatum": "07.12.1991",
+        "matrikelnummer": 19870,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tittel",
-        "plzort": "53150 Bonn",
+        "nachname": "Br\u00f6cker",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Schubertshof 9",
+        "strasse": "Rotteckstra\u00dfe 40",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Hannchen",
-        "weiblich": true
+        "vorname": "Diethmar",
+        "weiblich": false
     }
 }

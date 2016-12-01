@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1299036,
+    "nummer": 1787277,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.12.1996",
-        "matrikelnummer": 2212507,
+        "fakultaet": 8,
+        "geburtsdatum": "03.05.1996",
+        "matrikelnummer": 132654,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kunde",
-        "plzort": "53122 Bonn",
+        "nachname": "Z\u00f6llner",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Feuerwehrstra\u00dfe 23",
+        "strasse": "Walter-Schwagenscheidt-Platz 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Friedoline",
-        "weiblich": true
+        "vorname": "Markward",
+        "weiblich": false
     }
 }

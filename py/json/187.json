@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2457038,
+    "nummer": 2514808,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.10.1996",
-        "matrikelnummer": 2790171,
+        "fakultaet": 7,
+        "geburtsdatum": "06.02.1993",
+        "matrikelnummer": 2196061,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wei\u00dfenborn",
-        "plzort": "53187 Bonn",
+        "nachname": "Deckert",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Ferdinandplatz 3",
+        "strasse": "Siedlung in der Aue 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 1
             }
         ],
-        "vorname": "Sonnhild",
-        "weiblich": true
+        "vorname": "Reinhart",
+        "weiblich": false
     }
 }

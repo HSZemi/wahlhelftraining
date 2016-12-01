@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1229220,
+    "nummer": 1606817,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.08.1996",
-        "matrikelnummer": 2892312,
+        "fakultaet": 3,
+        "geburtsdatum": "06.09.1995",
+        "matrikelnummer": 2143021,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rode",
-        "plzort": "53184 Bonn",
+        "nachname": "Brix",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Trebeweg 3",
+        "strasse": "Neckelmannstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
-        "vorname": "Dagobert",
-        "weiblich": false
+        "vorname": "Ingetrud",
+        "weiblich": true
     }
 }

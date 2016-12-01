@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1690856,
+    "nummer": 2507673,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "04.02.1997",
-        "matrikelnummer": 1950974,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "10.08.1993",
+        "matrikelnummer": 2477090,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Boy",
-        "plzort": "53156 Bonn",
+        "nachname": "Erler",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "\u00d6denburger Stra\u00dfe 4a",
+        "strasse": "Hagebuttenweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Slavistik",
+                "fsem": 13
             }
         ],
-        "vorname": "Arnhart",
+        "vorname": "Eik",
         "weiblich": false
     }
 }

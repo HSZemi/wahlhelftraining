@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2011368,
+    "nummer": 1437261,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "16.01.1989",
-        "matrikelnummer": 2773986,
+        "geburtsdatum": "01.12.1999",
+        "matrikelnummer": 2645474,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Loth",
-        "plzort": "53151 Bonn",
+        "nachname": "Michael",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Dammgasse 9",
+        "strasse": "Edvard-Munch-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 9
             }
         ],
-        "vorname": "Anastasia",
-        "weiblich": true
+        "vorname": "Theohold",
+        "weiblich": false
     }
 }

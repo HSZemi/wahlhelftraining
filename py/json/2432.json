@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2200442,
+    "nummer": 1720564,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.05.1994",
-        "matrikelnummer": 2383002,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 9,
+        "geburtsdatum": "15.12.1996",
+        "matrikelnummer": 2840405,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Petersen",
-        "plzort": "53161 Bonn",
+        "nachname": "K\u00f6hler",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Am Kronenh\u00fcgel 21",
+        "strasse": "Zum Seeblick 33e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Friedwald",
-        "weiblich": false
+        "vorname": "Poldi",
+        "weiblich": true
     }
 }

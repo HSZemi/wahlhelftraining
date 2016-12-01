@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1702331,
+    "nummer": 1215284,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "14.09.1995",
-        "matrikelnummer": 2098639,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "14.07.1994",
+        "matrikelnummer": 2616431,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinicke",
-        "plzort": "9",
+        "nachname": "Sacher",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Jungstra\u00dfe 0",
+        "strasse": "Spiegelgraben 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Heidebert",
+        "vorname": "Lothar",
         "weiblich": false
     }
 }

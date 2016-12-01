@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2457999,
+    "nummer": 1451589,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "21.03.1994",
-        "matrikelnummer": 2277934,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "11.01.1995",
+        "matrikelnummer": 2122080,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hecker",
-        "plzort": "53174 Bonn",
+        "nachname": "Heiser",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Stroofstra\u00dfe 16",
+        "strasse": "Auf der Schlo\u00dfhecke 27",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Sigurd",
+        "vorname": "Gustel",
         "weiblich": false
     }
 }

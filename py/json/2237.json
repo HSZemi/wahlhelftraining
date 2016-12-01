@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1449458,
+    "nummer": 1077225,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "11.05.1989",
-        "matrikelnummer": 167192,
+        "fakultaet": 4,
+        "geburtsdatum": "04.12.1995",
+        "matrikelnummer": 12592,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kluth",
-        "plzort": "1",
+        "nachname": "Hannemann",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Wetkesgarten 4",
+        "strasse": "Azaleenweg 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 12
             }
         ],
-        "vorname": "Dorothee",
-        "weiblich": true
+        "vorname": "Jobst",
+        "weiblich": false
     }
 }

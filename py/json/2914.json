@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2281313,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2303969,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "05.09.1995",
-        "matrikelnummer": 2781753,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "11.06.1993",
+        "matrikelnummer": 122642,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Linder",
-        "plzort": "53177 Bonn",
+        "nachname": "Kruse",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Beunestra\u00dfe 41",
+        "strasse": "Reinhardstra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Mathematics",
+                "fsem": 12
             }
         ],
-        "vorname": "Giselbert",
-        "weiblich": false
+        "vorname": "Myrta",
+        "weiblich": true
     }
 }

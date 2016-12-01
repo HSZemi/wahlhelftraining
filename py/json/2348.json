@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1275496,
+    "nummer": 2068374,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "03.07.1995",
-        "matrikelnummer": 1936066,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "03.04.1987",
+        "matrikelnummer": 2094027,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stiller",
-        "plzort": "B",
+        "nachname": "Matern",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Merbitzer Stra\u00dfe 0b",
+        "strasse": "Am Plan 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Reinhart",
+        "vorname": "Rimbert",
         "weiblich": false
     }
 }

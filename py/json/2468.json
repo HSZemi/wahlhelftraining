@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1652802,
+    "nummer": 2019401,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.01.1998",
-        "matrikelnummer": 18563,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Nies",
-        "plzort": "53154 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "03.06.1988",
+        "matrikelnummer": 15302,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Tischer",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Albrecht-D\u00fcrer-Str. 9",
+        "strasse": "Joseph Haydngasse 26",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Phillipp",
-        "weiblich": false
+        "vorname": "Ilonka",
+        "weiblich": true
     }
 }

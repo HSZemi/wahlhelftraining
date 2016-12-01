@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2600554,
+    "nummer": 2354209,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.12.1994",
-        "matrikelnummer": 2248258,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "19.11.1990",
+        "matrikelnummer": 2503262,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Prange",
-        "plzort": "53143 Bonn",
+        "nachname": "Albert",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Immenhofweg 0",
+        "strasse": "G\u00f6lbeszeile 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Harry",
-        "weiblich": false
+        "vorname": "Irmgard",
+        "weiblich": true
     }
 }

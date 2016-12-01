@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2257367,
+    "nummer": 2373987,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.06.1992",
-        "matrikelnummer": 2213849,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "13.12.1998",
+        "matrikelnummer": 1994056,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hof",
-        "plzort": "53162 Bonn",
+        "nachname": "Schwarzkopf",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Hebebrandstra\u00dfe 2",
+        "strasse": "Leuckartstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Fr\u00fchgeschichtliche Arch\u00e4ologie und Arch\u00e4ologie der R\u00f6mischen Provinzen",
+                "fsem": 2
             }
         ],
-        "vorname": "Undine",
-        "weiblich": true
+        "vorname": "Felix",
+        "weiblich": false
     }
 }

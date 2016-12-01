@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1621011,
+    "nummer": 2543521,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.08.1987",
-        "matrikelnummer": 17890,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "23.10.1996",
+        "matrikelnummer": 2035452,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6rgen",
-        "plzort": "3",
+        "nachname": "Heinrichs",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Bendelgasse 18",
+        "strasse": "Gr\u00e4fin-D\u00f6nhoff-Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Irmengard",
-        "weiblich": true
+        "vorname": "Hatto",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2433680,
+    "nummer": 2032517,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.12.1999",
-        "matrikelnummer": 2521614,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "F\u00fctterer",
-        "plzort": "53195 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "22.01.1999",
+        "matrikelnummer": 2692373,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Faulhaber",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-Rubbert-Stra\u00dfe 6",
+        "strasse": "Pfaffenwiese 19",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Meta",
-        "weiblich": true
+        "vorname": "Dietfried",
+        "weiblich": false
     }
 }

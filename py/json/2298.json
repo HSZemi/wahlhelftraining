@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2495603,
+    "nummer": 2840070,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "02.01.1997",
-        "matrikelnummer": 2125084,
+        "fakultaet": 6,
+        "geburtsdatum": "10.03.1995",
+        "matrikelnummer": 2071913,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zeller",
-        "plzort": "53184 Bonn",
+        "nachname": "K\u00fcper",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Am Schulholz 10d",
+        "strasse": "Am Spritzenhaus 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Physik der Erde und Atmosph\u00e4re",
+                "fsem": 3
             }
         ],
-        "vorname": "Gertrudis",
-        "weiblich": true
+        "vorname": "Christhardt",
+        "weiblich": false
     }
 }

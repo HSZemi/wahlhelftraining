@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1421100,
+    "nummer": 1309151,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.10.1996",
-        "matrikelnummer": 2284926,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "25.06.1998",
+        "matrikelnummer": 2173664,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Tamm",
-        "plzort": "53197 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Peukert",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Sch\u00f6nburgstra\u00dfe 0",
+        "strasse": "Neue Terrasse 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 7
             }
         ],
-        "vorname": "Norma",
-        "weiblich": true
+        "vorname": "Reinwald",
+        "weiblich": false
     }
 }

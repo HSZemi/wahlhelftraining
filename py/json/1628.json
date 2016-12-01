@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2552459,
+    "nummer": 1307131,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.11.1990",
-        "matrikelnummer": 2112062,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "14.11.1997",
+        "matrikelnummer": 17468,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Arnold",
+        "nachname": "Giesecke",
         "plzort": "o",
         "sternchen": 0,
-        "strasse": "Hebebrandstra\u00dfe 1",
+        "strasse": "J\u00fcrsweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 11
             }
         ],
-        "vorname": "Frohlinde",
+        "vorname": "Bertfriede",
         "weiblich": true
     }
 }

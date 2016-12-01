@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2078306,
+    "nummer": 1785283,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.01.1995",
-        "matrikelnummer": 2586951,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "09.09.1999",
+        "matrikelnummer": 2681633,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nolden",
-        "plzort": "53147 Bonn",
+        "nachname": "Senft",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "An den Birken 0",
+        "strasse": "Gurlittstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft/Sound Studies",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Chinesisch",
+                "fsem": 4
             }
         ],
-        "vorname": "Sigismund",
+        "vorname": "Treuhard",
         "weiblich": false
     }
 }

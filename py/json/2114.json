@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1531266,
+    "nummer": 1230509,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.05.1998",
-        "matrikelnummer": 2042814,
+        "fakultaet": 4,
+        "geburtsdatum": "12.05.1991",
+        "matrikelnummer": 2468399,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Friedrich",
-        "plzort": "53123 Bonn",
+        "nachname": "Steffens",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Hunnenweg 2d",
+        "strasse": "Froschh\u00e4user Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Knuth",
-        "weiblich": false
+        "vorname": "Diane",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1955966,
+    "nummer": 2101691,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.05.1997",
-        "matrikelnummer": 2387146,
+        "fakultaet": 7,
+        "geburtsdatum": "20.03.1995",
+        "matrikelnummer": 2071443,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klinke",
-        "plzort": "n",
+        "nachname": "Burk",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Altgompitz 4",
+        "strasse": "Lucaestra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 1
             }
         ],
-        "vorname": "Karlotto",
-        "weiblich": false
+        "vorname": "Eugenie",
+        "weiblich": true
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1714585,
+    "nummer": 2138664,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "01.12.1994",
-        "matrikelnummer": 2134841,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "27.04.1995",
+        "matrikelnummer": 2810398,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bunge",
+        "nachname": "Kr\u00f6ner",
         "plzort": "B",
         "sternchen": 0,
-        "strasse": "Lepsiusstra\u00dfe 4d",
+        "strasse": "Setzgasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Germanistik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Roselotte",
+        "vorname": "Laila",
         "weiblich": true
     }
 }

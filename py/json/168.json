@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2607999,
+    "nummer": 1592173,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.12.1989",
-        "matrikelnummer": 11682,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Thiemann",
-        "plzort": "53166 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "19.03.1996",
+        "matrikelnummer": 2087031,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Grosser",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Reuterweg 2",
+        "strasse": "R\u00f6hrsdorfer Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Hartwig",
+        "vorname": "Reimund",
         "weiblich": false
     }
 }

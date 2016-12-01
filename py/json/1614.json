@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2979683,
+    "nummer": 1097427,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.11.1990",
-        "matrikelnummer": 2115201,
+        "fakultaet": 7,
+        "geburtsdatum": "06.02.1990",
+        "matrikelnummer": 2978516,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Helbig",
-        "plzort": "53167 Bonn",
+        "nachname": "Friese",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Ro\u00dfgasse 0",
+        "strasse": "Arthur-Schlo\u00dfmann-Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 5
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Gebhart",
+        "vorname": "Detmar",
         "weiblich": false
     }
 }

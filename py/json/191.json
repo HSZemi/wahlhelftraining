@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2677732,
+    "nummer": 1941557,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.10.1998",
-        "matrikelnummer": 2261629,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Altmann",
-        "plzort": "B",
+        "fakultaet": 4,
+        "geburtsdatum": "28.10.1992",
+        "matrikelnummer": 165971,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Lukas",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Ederstra\u00dfe 26",
+        "strasse": "Parlamentsplatz 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Sahra",
-        "weiblich": true
+        "vorname": "Edelmut",
+        "weiblich": false
     }
 }

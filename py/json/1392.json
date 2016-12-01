@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1060051,
+    "nummer": 2300013,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.11.1998",
-        "matrikelnummer": 2205121,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "25.01.1993",
+        "matrikelnummer": 171659,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "D\u00fcck",
-        "plzort": "53140 Bonn",
+        "nachname": "Gro\u00dfmann",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Barckhusendamm 40",
+        "strasse": "Bei der Papierfabrik 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Edwina",
-        "weiblich": true
+        "vorname": "Bardo",
+        "weiblich": false
     }
 }

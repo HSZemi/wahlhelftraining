@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2986743,
+    "nummer": 1954040,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "20.06.1989",
-        "matrikelnummer": 2272797,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "22.07.1994",
+        "matrikelnummer": 2862059,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Munz",
-        "plzort": "53215 Bonn",
+        "nachname": "Selzer",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Zum Triebenberg 10",
+        "strasse": "Papstdorfer Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Irmengard",
-        "weiblich": true
+        "vorname": "Alhard",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2184955,
+    "nummer": 2183267,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.02.1993",
-        "matrikelnummer": 16559,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 9,
+        "geburtsdatum": "07.04.1991",
+        "matrikelnummer": 114824,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brill",
-        "plzort": "53227 Bonn",
+        "nachname": "Risch",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Hardenbergstra\u00dfe 0",
+        "strasse": "Waldsportpfad 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
             }
         ],
-        "vorname": "Cordian",
-        "weiblich": false
+        "vorname": "Philipine",
+        "weiblich": true
     }
 }

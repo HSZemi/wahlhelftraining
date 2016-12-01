@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1393999,
+    "nummer": 2472748,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.04.1991",
-        "matrikelnummer": 2139859,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Bohn",
-        "plzort": "53187 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "23.03.1991",
+        "matrikelnummer": 1934676,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Behr",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Ziegelgasse 3",
+        "strasse": "Rennersdorfer Stra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 11
             }
         ],
-        "vorname": "Vanessa",
+        "vorname": "Cora",
         "weiblich": true
     }
 }

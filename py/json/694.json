@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1694467,
+    "nummer": 1280788,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.10.1996",
-        "matrikelnummer": 17683,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "28.10.1992",
+        "matrikelnummer": 2941961,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Voss",
-        "plzort": "n",
+        "nachname": "Matz",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Mittlerer Kaulberg 5",
+        "strasse": "Paul-B\u00fcttner-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Marianne",
-        "weiblich": true
+        "vorname": "Follrich",
+        "weiblich": false
     }
 }

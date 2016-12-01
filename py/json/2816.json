@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2101170,
+    "nummer": 2138265,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "12.03.1992",
-        "matrikelnummer": 2279954,
+        "fakultaet": 6,
+        "geburtsdatum": "04.08.1991",
+        "matrikelnummer": 18350,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spahn",
-        "plzort": "53148 Bonn",
+        "nachname": "Janzen",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Nidderauer Stra\u00dfe 14",
+        "strasse": "Heidefl\u00fcgel 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 11
             }
         ],
-        "vorname": "Kristine",
-        "weiblich": true
+        "vorname": "Heyo",
+        "weiblich": false
     }
 }

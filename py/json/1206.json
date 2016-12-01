@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2790442,
+    "nummer": 2756245,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.10.1997",
-        "matrikelnummer": 2138280,
+        "fakultaet": 2,
+        "geburtsdatum": "13.12.1999",
+        "matrikelnummer": 1943943,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Landmann",
-        "plzort": "53151 Bonn",
+        "nachname": "Vogl",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Amselgrund 9",
+        "strasse": "Hantzschstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 13
             }
         ],
-        "vorname": "Claus",
-        "weiblich": false
+        "vorname": "Ulrike",
+        "weiblich": true
     }
 }

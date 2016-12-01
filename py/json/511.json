@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1251269,
+    "nummer": 2604916,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "19.04.1991",
-        "matrikelnummer": 126939,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "04.12.1992",
+        "matrikelnummer": 2852353,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00fcger",
-        "plzort": "53123 Bonn",
+        "nachname": "Klingler",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Ginnheimer M\u00fchlgasse 4",
+        "strasse": "Moritzburger Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             }
         ],
-        "vorname": "Song\u00fcl",
+        "vorname": "Ivana",
         "weiblich": true
     }
 }

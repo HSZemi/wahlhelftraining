@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2828652,
+    "nummer": 2311936,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.06.1997",
-        "matrikelnummer": 156432,
+        "fakultaet": 7,
+        "geburtsdatum": "17.03.1985",
+        "matrikelnummer": 2116478,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Werle",
-        "plzort": "53175 Bonn",
+        "nachname": "Zieger",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "New-York-Weg 7",
+        "strasse": "Eduard-Bernstein-Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 8
             }
         ],
-        "vorname": "Lilly",
-        "weiblich": true
+        "vorname": "Gisbert",
+        "weiblich": false
     }
 }

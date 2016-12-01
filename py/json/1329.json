@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1697188,
+    "nummer": 2479554,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "07.03.1993",
-        "matrikelnummer": 2414498,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "20.08.1991",
+        "matrikelnummer": 2116450,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ulrich",
-        "plzort": "3",
+        "nachname": "Scholze",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Reiherweg 6",
+        "strasse": "Josef Lentsch-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Friederun",
+        "vorname": "Mariechen",
         "weiblich": true
     }
 }

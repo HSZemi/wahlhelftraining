@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1945350,
+    "nummer": 2808207,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "04.03.1987",
-        "matrikelnummer": 2005929,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "04.02.1988",
+        "matrikelnummer": 2646864,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Westermann",
-        "plzort": "53165 Bonn",
+        "nachname": "Br\u00e4utigam",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Pr\u00e4sident Reil-Stra\u00dfe 25",
+        "strasse": "Goldbekplatz 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Eginhard",
-        "weiblich": false
+        "vorname": "Eleni",
+        "weiblich": true
     }
 }

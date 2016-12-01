@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1549785,
+    "nummer": 1580768,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.05.1998",
-        "matrikelnummer": 2256008,
+        "fakultaet": 0,
+        "geburtsdatum": "10.03.1994",
+        "matrikelnummer": 2709993,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Steinkamp",
-        "plzort": "53126 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Dr\u00f6ge",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Pr\u00e4sident Reil-Stra\u00dfe 3",
+        "strasse": "Alfredstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 9
             }
         ],
-        "vorname": "Ilselore",
+        "vorname": "Alma",
         "weiblich": true
     }
 }

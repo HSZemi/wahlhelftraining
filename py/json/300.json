@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2740640,
+    "nummer": 2746687,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.06.1992",
-        "matrikelnummer": 1920612,
+        "fakultaet": 6,
+        "geburtsdatum": "15.11.1996",
+        "matrikelnummer": 2477830,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinke",
-        "plzort": "53187 Bonn",
+        "nachname": "B\u00f6hnke",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Ferdinand-Beit-Stra\u00dfe 14",
+        "strasse": "Oswaltstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 6
             }
         ],
-        "vorname": "Torge",
-        "weiblich": false
+        "vorname": "Silvana",
+        "weiblich": true
     }
 }

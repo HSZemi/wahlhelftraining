@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1612401,
+    "nummer": 2214748,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.02.1994",
-        "matrikelnummer": 2989176,
+        "fakultaet": 9,
+        "geburtsdatum": "08.12.1991",
+        "matrikelnummer": 2056416,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fischbach",
-        "plzort": "53163 Bonn",
+        "nachname": "Leder",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00fcttenfeldstr. 4b",
+        "strasse": "Josef-Herrmann-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
             }
         ],
-        "vorname": "Evamaria",
-        "weiblich": true
+        "vorname": "Folkhardt",
+        "weiblich": false
     }
 }

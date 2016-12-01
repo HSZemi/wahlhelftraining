@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2959627,
+    "nummer": 2185685,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.08.1987",
-        "matrikelnummer": 2374325,
+        "fakultaet": 1,
+        "geburtsdatum": "05.08.1999",
+        "matrikelnummer": 2451551,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gramlich",
-        "plzort": "53156 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Neubert",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Waldhausstra\u00dfe 3",
+        "strasse": "Rombergstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
             }
         ],
-        "vorname": "Irmtraut",
+        "vorname": "Olinde",
         "weiblich": true
     }
 }

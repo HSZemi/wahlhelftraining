@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1893951,
+    "nummer": 1543978,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.05.1987",
-        "matrikelnummer": 2172540,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "22.02.1997",
+        "matrikelnummer": 2850636,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ziemann",
+        "nachname": "Limmer",
         "plzort": "B",
         "sternchen": 0,
-        "strasse": "Freyunger Str. 28d",
+        "strasse": "K\u00f6nigsdamm 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 3
             }
         ],
-        "vorname": "Alwine",
-        "weiblich": true
+        "vorname": "Darius",
+        "weiblich": false
     }
 }

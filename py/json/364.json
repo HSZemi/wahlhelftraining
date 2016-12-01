@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2381593,
+    "nummer": 1100945,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "26.01.1995",
-        "matrikelnummer": 2690834,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "09.01.1999",
+        "matrikelnummer": 2305141,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thaler",
-        "plzort": "53166 Bonn",
+        "nachname": "Rosendahl",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlheimer Stra\u00dfe 5",
+        "strasse": "Nesselgrundweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Osmund",
-        "weiblich": false
+        "vorname": "Marena",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2141944,
+    "nummer": 1401944,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "16.03.1990",
-        "matrikelnummer": 2645388,
+        "geburtsdatum": "25.06.1990",
+        "matrikelnummer": 2700491,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Husmann",
-        "plzort": "n",
+        "nachname": "Tischler",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Franz Elek Eiweck-Stra\u00dfe 26",
+        "strasse": "Kuriergang 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 13
             }
         ],
-        "vorname": "Gottlob",
-        "weiblich": false
+        "vorname": "Annarose",
+        "weiblich": true
     }
 }

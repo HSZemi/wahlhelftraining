@@ -1,31 +1,31 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1808360,
+    "nummer": 1386720,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "20.09.1994",
-        "matrikelnummer": 1948054,
+        "fakultaet": 6,
+        "geburtsdatum": "07.10.1994",
+        "matrikelnummer": 186660,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00fchlbauer",
-        "plzort": "53227 Bonn",
+        "nachname": "Neufeld",
+        "plzort": "4",
         "sternchen": 0,
-        "strasse": "Fr\u00fchlingstra\u00dfe 5",
+        "strasse": "Immenhofweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 9
             }
         ],
-        "vorname": "Henrike",
+        "vorname": "Aline",
         "weiblich": true
     }
 }

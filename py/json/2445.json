@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2322378,
+    "nummer": 1440251,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.04.1999",
-        "matrikelnummer": 15926,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Maiwald",
-        "plzort": " ",
+        "fakultaet": 8,
+        "geburtsdatum": "06.05.1992",
+        "matrikelnummer": 2949144,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schwarz",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Apfelweg 3",
+        "strasse": "Walter-Schwagenscheidt-Platz 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Curd",
+        "vorname": "Constantin",
         "weiblich": false
     }
 }

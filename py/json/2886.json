@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1845142,
+    "nummer": 1927923,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "24.02.1993",
-        "matrikelnummer": 2654637,
+        "geburtsdatum": "04.06.1994",
+        "matrikelnummer": 2027596,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Post",
-        "plzort": "53173 Bonn",
+        "nachname": "Stumpe",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Grabengasse 3",
+        "strasse": "Eichh\u00f6rnchenweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Keltologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Sprachlernforschung",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Rezzo",
+        "vorname": "Hasko",
         "weiblich": false
     }
 }

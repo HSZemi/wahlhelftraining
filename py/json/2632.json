@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1896188,
+    "nummer": 2803473,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "15.03.1993",
-        "matrikelnummer": 130316,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "09.10.1986",
+        "matrikelnummer": 2217491,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rahn",
-        "plzort": "53215 Bonn",
+        "nachname": "Kreuz",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "D\u00f6rnichtweg 2",
+        "strasse": "Reisewitzer Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Tassilo",
+        "vorname": "Reinulf",
         "weiblich": false
     }
 }

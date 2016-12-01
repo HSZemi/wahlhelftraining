@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1044395,
+    "nummer": 2572037,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.11.1996",
-        "matrikelnummer": 2496328,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "01.07.1989",
+        "matrikelnummer": 127026,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Markus",
-        "plzort": "53175 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinen",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Seitenstra\u00dfe 1",
+        "strasse": "Hynspergstra\u00dfe 32",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Klauspeter",
+        "vorname": "Ekkehart",
         "weiblich": false
     }
 }

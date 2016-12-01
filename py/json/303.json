@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1787429,
-    "semester": "Sommersemester 2016",
+    "nummer": 2254997,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "01.11.1990",
-        "matrikelnummer": 2206146,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "23.05.1996",
+        "matrikelnummer": 2208272,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauke",
-        "plzort": "7",
+        "nachname": "Lucas",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Dortmunderstra\u00dfe 6",
+        "strasse": "Hanfftsweg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 1
             }
         ],
-        "vorname": "Rose",
+        "vorname": "Michaele",
         "weiblich": true
     }
 }

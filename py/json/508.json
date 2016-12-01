@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1077695,
+    "nummer": 2301525,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.02.1999",
-        "matrikelnummer": 2186371,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "22.12.1999",
+        "matrikelnummer": 2664194,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eggert",
-        "plzort": "53168 Bonn",
+        "nachname": "Sch\u00f6ttler",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "G\u00f6hrener Weg 4",
+        "strasse": "Pohrsdorfer Weg 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Irmgardt",
+        "vorname": "Gislind",
         "weiblich": true
     }
 }

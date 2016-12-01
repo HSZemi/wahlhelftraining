@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2075777,
+    "nummer": 2126690,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.02.1999",
-        "matrikelnummer": 17269,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "16.09.1990",
+        "matrikelnummer": 2692792,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kamp",
-        "plzort": "53203 Bonn",
+        "nachname": "Ro\u00dfmann",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Schlangenweg 31",
+        "strasse": "Gustav-Klimt-Weg 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Waldemar",
-        "weiblich": false
+        "vorname": "Gitti",
+        "weiblich": true
     }
 }

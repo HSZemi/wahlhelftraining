@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1820087,
+    "nummer": 2300157,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "26.02.1996",
-        "matrikelnummer": 2240833,
+        "fakultaet": 0,
+        "geburtsdatum": "01.08.1995",
+        "matrikelnummer": 1974760,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Homann",
-        "plzort": "53192 Bonn",
+        "nachname": "St\u00f6ckel",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Gladenbacher Weg 7",
+        "strasse": "Maacksgasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Reinold",
-        "weiblich": false
+        "vorname": "Birgitta",
+        "weiblich": true
     }
 }

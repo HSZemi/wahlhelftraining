@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2035800,
+    "nummer": 2796063,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "25.07.1991",
-        "matrikelnummer": 2359202,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "26.07.1998",
+        "matrikelnummer": 188640,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schimpf",
-        "plzort": "53208 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gehring",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Inselsbergstra\u00dfe 0",
+        "strasse": "Va\u00dfmerstra\u00dfe 2c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Dionys",
+        "vorname": "Stephanus",
         "weiblich": false
     }
 }

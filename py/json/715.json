@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2391010,
+    "nummer": 1046980,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "24.09.1986",
-        "matrikelnummer": 2808829,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "06.11.1998",
+        "matrikelnummer": 2765219,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wenk",
-        "plzort": " ",
+        "nachname": "Baier",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Tillystra\u00dfe 3b",
+        "strasse": "W\u00fcrzburger Str. 29",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Arzneimittelforschung (Drug Research)",
+                "fsem": 8
             }
         ],
-        "vorname": "Hildegard",
-        "weiblich": true
+        "vorname": "Dietbald",
+        "weiblich": false
     }
 }

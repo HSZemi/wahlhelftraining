@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1515624,
+    "nummer": 2525825,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "28.07.1992",
-        "matrikelnummer": 2700611,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "11.12.1991",
+        "matrikelnummer": 2651750,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Henne",
+        "nachname": "Hirschfeld",
         "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Waldfriedstra\u00dfe 2",
+        "strasse": "Dreieichenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Fidelius",
+        "vorname": "Mario",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2667280,
+    "nummer": 2517832,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "01.12.1992",
-        "matrikelnummer": 2345473,
+        "fakultaet": 3,
+        "geburtsdatum": "07.03.1995",
+        "matrikelnummer": 2920210,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Flaig",
-        "plzort": "53159 Bonn",
+        "nachname": "Salewski",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Gudehusstra\u00dfe 4",
+        "strasse": "Am Rittergut 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 10
             }
         ],
-        "vorname": "Reinhart",
+        "vorname": "Ulfried",
         "weiblich": false
     }
 }

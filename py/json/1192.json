@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2463113,
+    "nummer": 1443637,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.07.1990",
-        "matrikelnummer": 2603780,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "17.05.1991",
+        "matrikelnummer": 1989997,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4berle",
-        "plzort": "53210 Bonn",
+        "nachname": "Harrer",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Dachsgang 5",
+        "strasse": "Hersfelder Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 6
             }
         ],
-        "vorname": "Nikolas",
-        "weiblich": false
+        "vorname": "Katy",
+        "weiblich": true
     }
 }

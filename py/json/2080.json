@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2234084,
+    "nummer": 1701555,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "04.10.1996",
-        "matrikelnummer": 2932661,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "26.08.1993",
+        "matrikelnummer": 2180885,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Garbe",
-        "plzort": "53213 Bonn",
+        "nachname": "Rosenbaum",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Anton-Graff-Stra\u00dfe 1",
+        "strasse": "Rehgartenweg 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Alina",
-        "weiblich": true
+        "vorname": "Heimo",
+        "weiblich": false
     }
 }

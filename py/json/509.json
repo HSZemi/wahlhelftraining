@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1092868,
+    "nummer": 2924627,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "02.07.1996",
-        "matrikelnummer": 2711264,
+        "fakultaet": 5,
+        "geburtsdatum": "15.04.1990",
+        "matrikelnummer": 11955,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hollstein",
-        "plzort": "53198 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wiebe",
+        "plzort": "9",
         "sternchen": 0,
-        "strasse": "Albanusstra\u00dfe 2",
+        "strasse": "Karcherallee 0b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Politik und Gesellschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Friedericke",
-        "weiblich": true
+        "vorname": "Silvester",
+        "weiblich": false
     }
 }

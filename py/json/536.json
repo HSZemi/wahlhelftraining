@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1607403,
+    "nummer": 2760216,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.11.1996",
-        "matrikelnummer": 2044723,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "16.04.1985",
+        "matrikelnummer": 2461572,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcrschner",
-        "plzort": "53214 Bonn",
+        "nachname": "Klement",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Albert-Hensel-Stra\u00dfe 6",
+        "strasse": "Malschendorfer Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 10
             }
         ],
-        "vorname": "Hannchen",
-        "weiblich": true
+        "vorname": "Carsten",
+        "weiblich": false
     }
 }

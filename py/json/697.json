@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2938455,
+    "nummer": 1315688,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.06.1990",
-        "matrikelnummer": 2246210,
+        "fakultaet": 0,
+        "geburtsdatum": "21.12.1985",
+        "matrikelnummer": 2799801,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bruns",
+        "nachname": "L\u00f6w",
         "plzort": " ",
         "sternchen": 0,
-        "strasse": "Am alten Bahnhof 7",
+        "strasse": "Plassenburgstr. 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Japanologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Margarete",
-        "weiblich": true
+        "vorname": "Rico",
+        "weiblich": false
     }
 }

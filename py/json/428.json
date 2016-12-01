@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2125343,
+    "nummer": 1984285,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.05.1991",
-        "matrikelnummer": 2262120,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Rieder",
-        "plzort": "53157 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "24.01.1998",
+        "matrikelnummer": 2873145,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "K\u00fchnert",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Oppenheimer Landstra\u00dfe 14",
+        "strasse": "Podemuser Ring 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 13
             }
         ],
-        "vorname": "D\u00f6rthe",
-        "weiblich": true
+        "vorname": "Theohold",
+        "weiblich": false
     }
 }

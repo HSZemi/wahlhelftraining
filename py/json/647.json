@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2940853,
+    "nummer": 2999976,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "15.02.1999",
-        "matrikelnummer": 119335,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "24.02.1997",
+        "matrikelnummer": 2510695,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tillmann",
-        "plzort": "2",
+        "nachname": "Schumacher",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "An der Kreuzkirche 1",
+        "strasse": "Am Leutewitzer Park 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             }
         ],
-        "vorname": "Hannspeter",
+        "vorname": "Adelhard",
         "weiblich": false
     }
 }

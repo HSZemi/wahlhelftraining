@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1993685,
+    "nummer": 2750449,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "09.08.1992",
-        "matrikelnummer": 167479,
+        "geburtsdatum": "08.04.1985",
+        "matrikelnummer": 155583,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Mosch",
-        "plzort": "o",
+        "mitglied_studierendenschaft": true,
+        "nachname": "J\u00fcngling",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Auf den Bl\u00f6cken 13",
+        "strasse": "Merkenstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Uwe",
+        "vorname": "Hardy",
         "weiblich": false
     }
 }

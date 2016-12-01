@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1029007,
+    "nummer": 2833141,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.05.1995",
-        "matrikelnummer": 2381730,
+        "fakultaet": 0,
+        "geburtsdatum": "24.05.1990",
+        "matrikelnummer": 2487825,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haas",
-        "plzort": "53204 Bonn",
+        "nachname": "Lerch",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Liliencronstra\u00dfe 14",
+        "strasse": "Goetzplatz 19",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 12
             }
         ],
-        "vorname": "Wolfried",
+        "vorname": "Oskar",
         "weiblich": false
     }
 }

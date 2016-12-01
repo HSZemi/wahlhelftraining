@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1974095,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1135114,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.12.1999",
-        "matrikelnummer": 2336439,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "28.05.1991",
+        "matrikelnummer": 2564974,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lehnen",
-        "plzort": "53122 Bonn",
+        "nachname": "Nies",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Raiffeisenplatz 3",
+        "strasse": "Heidefl\u00fcgel 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Hanns",
-        "weiblich": false
+        "vorname": "Sighild",
+        "weiblich": true
     }
 }

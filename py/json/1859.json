@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2449699,
+    "nummer": 2273423,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "11.08.1995",
-        "matrikelnummer": 2544939,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "09.07.1993",
+        "matrikelnummer": 2186760,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6ckmann",
-        "plzort": "53215 Bonn",
+        "nachname": "Weichert",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Pfarrer-Perabo-Platz 15",
+        "strasse": "Wasgaustra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Komparatistik",
+                "fsem": 9
             }
         ],
-        "vorname": "Jo",
-        "weiblich": false
+        "vorname": "Filiz",
+        "weiblich": true
     }
 }

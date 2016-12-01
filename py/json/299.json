@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1920905,
+    "nummer": 1255616,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "10.02.1999",
-        "matrikelnummer": 2910271,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "06.12.1998",
+        "matrikelnummer": 2278511,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckert",
-        "plzort": "53193 Bonn",
+        "nachname": "Behling",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Kriegkstra\u00dfe 3",
+        "strasse": "Thymianweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Kulturstudien zu Lateinamerika/Estudios culturales de America Latina",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Physik",
+                "fsem": 10
             }
         ],
-        "vorname": "Serpil",
-        "weiblich": true
+        "vorname": "Runfried",
+        "weiblich": false
     }
 }

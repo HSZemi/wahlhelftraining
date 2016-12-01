@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1400917,
+    "nummer": 2513306,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.09.1999",
-        "matrikelnummer": 2712501,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "28.08.1993",
+        "matrikelnummer": 2359176,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bernard",
-        "plzort": "53134 Bonn",
+        "nachname": "Groll",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Boxdorfer Stra\u00dfe 9",
+        "strasse": "Selma-Lagerl\u00f6f-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Hanswolf",
+        "vorname": "Pascal",
         "weiblich": false
     }
 }

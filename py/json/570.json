@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1595174,
+    "nummer": 2004711,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.04.1998",
-        "matrikelnummer": 2911694,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "19.03.1993",
+        "matrikelnummer": 1948529,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hartwig",
-        "plzort": "53143 Bonn",
+        "nachname": "Kaps",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "An der Steinbek 14",
+        "strasse": "Am Feldweg 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
-        "vorname": "Ingmar",
+        "vorname": "Ferfried",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1434201,
+    "nummer": 2530867,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.03.1988",
-        "matrikelnummer": 2752185,
+        "fakultaet": 9,
+        "geburtsdatum": "14.11.1989",
+        "matrikelnummer": 2298365,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "F\u00fchrer",
-        "plzort": "53131 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Dieterle",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfe Gallusstra\u00dfe 26",
+        "strasse": "Tschirnhausstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Fidelius",
+        "vorname": "Bartold",
         "weiblich": false
     }
 }

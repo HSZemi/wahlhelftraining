@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2570210,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2199213,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "22.09.1990",
-        "matrikelnummer": 2760719,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "02.11.1999",
+        "matrikelnummer": 2938842,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langbein",
-        "plzort": "5",
+        "nachname": "Markgraf",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00f6btauer Stra\u00dfe 13",
+        "strasse": "Schlottwitzer Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 1
             }
         ],
-        "vorname": "Ehrentrud",
+        "vorname": "Madeleine",
         "weiblich": true
     }
 }

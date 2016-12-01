@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2304445,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 1529487,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "12.01.1995",
-        "matrikelnummer": 2823989,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "13.03.1992",
+        "matrikelnummer": 2701221,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinert",
-        "plzort": "n",
+        "nachname": "M\u00fchlberger",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Buchtstra\u00dfe 13",
+        "strasse": "Fuchslochweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 5
             }
         ],
-        "vorname": "Sylwia",
+        "vorname": "Irene",
         "weiblich": true
     }
 }

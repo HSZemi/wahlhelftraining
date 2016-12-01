@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2678088,
+    "nummer": 1500651,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "10.06.1981",
-        "matrikelnummer": 2515395,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "13.09.1989",
+        "matrikelnummer": 150337,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Westphal",
-        "plzort": "53204 Bonn",
+        "nachname": "Noack",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00f6btauer Stra\u00dfe 11",
+        "strasse": "Giselbertstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Elfgund",
-        "weiblich": true
+        "vorname": "Ansgar",
+        "weiblich": false
     }
 }

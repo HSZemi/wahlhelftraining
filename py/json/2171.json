@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2148234,
+    "nummer": 1041513,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "20.01.1993",
-        "matrikelnummer": 2312281,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "25.07.1999",
+        "matrikelnummer": 2776047,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fey",
-        "plzort": "n",
+        "nachname": "Henschel",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Romroder Stra\u00dfe 12",
+        "strasse": "Heinestra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Willma",
-        "weiblich": true
+        "vorname": "Heinrich",
+        "weiblich": false
     }
 }

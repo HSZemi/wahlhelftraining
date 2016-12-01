@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1785143,
+    "nummer": 1154143,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "03.01.1995",
-        "matrikelnummer": 2658885,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "12.03.1994",
+        "matrikelnummer": 2054706,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gruber",
-        "plzort": " ",
+        "nachname": "Schuh",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Berger Weg 47",
+        "strasse": "Mesmerstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 4
             }
         ],
-        "vorname": "Sighilde",
-        "weiblich": true
+        "vorname": "Holmer",
+        "weiblich": false
     }
 }

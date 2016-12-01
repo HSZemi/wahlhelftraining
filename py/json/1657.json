@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2652373,
+    "nummer": 1540462,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.05.1994",
-        "matrikelnummer": 2436533,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "08.10.1998",
+        "matrikelnummer": 2174170,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tonn",
-        "plzort": "53127 Bonn",
+        "nachname": "Jeschke",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Mockst\u00e4dter Stra\u00dfe 14",
+        "strasse": "Estewiesen 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Eckhold",
+        "vorname": "Bernward",
         "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1799115,
+    "nummer": 2556345,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.05.1996",
-        "matrikelnummer": 1958219,
+        "fakultaet": 8,
+        "geburtsdatum": "06.06.1995",
+        "matrikelnummer": 2134369,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hintze",
-        "plzort": "53189 Bonn",
+        "nachname": "Wittmann",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Parlamentsplatz 11",
+        "strasse": "Adolf-Kolpingstr. 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Urban",
-        "weiblich": false
+        "vorname": "Violetta",
+        "weiblich": true
     }
 }

@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2149852,
+    "nummer": 2435423,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "21.06.1989",
-        "matrikelnummer": 1925368,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "09.04.1996",
+        "matrikelnummer": 2857117,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sieg",
-        "plzort": "53147 Bonn",
+        "nachname": "Damm",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Am Alten Zoll 16",
+        "strasse": "An der Goetheruh 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geographie",
+                "fsem": 10
             }
         ],
-        "vorname": "Mia",
+        "vorname": "Almuth",
         "weiblich": true
     }
 }

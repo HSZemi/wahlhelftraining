@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1612838,
+    "nummer": 1161798,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "10.02.1998",
-        "matrikelnummer": 2488325,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "12.11.1991",
+        "matrikelnummer": 2115653,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmieder",
-        "plzort": "53130 Bonn",
+        "nachname": "Berner",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Am Briesnitzer Hang 12",
+        "strasse": "Krautgartenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 11
             }
         ],
-        "vorname": "Wernfried",
-        "weiblich": false
+        "vorname": "Kunigunda",
+        "weiblich": true
     }
 }

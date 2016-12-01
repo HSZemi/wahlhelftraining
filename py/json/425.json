@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1626553,
+    "nummer": 1989314,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "12.11.1998",
-        "matrikelnummer": 13086,
+        "geburtsdatum": "03.05.1991",
+        "matrikelnummer": 2691809,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Henschel",
-        "plzort": "53204 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Blume",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Alfredstra\u00dfenbr\u00fccke 17",
+        "strasse": "Ried Rosenberg 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
             }
         ],
-        "vorname": "Steven",
+        "vorname": "Otger",
         "weiblich": false
     }
 }

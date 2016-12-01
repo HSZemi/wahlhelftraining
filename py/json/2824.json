@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1480954,
+    "nummer": 2659616,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.09.1994",
-        "matrikelnummer": 19566,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "George",
-        "plzort": "53196 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "26.06.1991",
+        "matrikelnummer": 2733020,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Siemens",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Gr\u00fcnhundsbrunnen 1",
+        "strasse": "Dietrich-Bonhoeffer-Platz 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 7
             }
         ],
-        "vorname": "Hubertina",
-        "weiblich": true
+        "vorname": "Lenard",
+        "weiblich": false
     }
 }

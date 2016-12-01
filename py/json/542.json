@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2922434,
+    "nummer": 1856271,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "22.04.1988",
-        "matrikelnummer": 15974,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "10.03.1992",
+        "matrikelnummer": 15194,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hoyer",
-        "plzort": "53185 Bonn",
+        "nachname": "Mosch",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Alsfelder Stra\u00dfe 13",
+        "strasse": "Herbesthaler Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Minna",
-        "weiblich": true
+        "vorname": "Markwart",
+        "weiblich": false
     }
 }

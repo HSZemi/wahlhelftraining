@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1240208,
+    "nummer": 1936650,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.11.1995",
-        "matrikelnummer": 2016768,
+        "fakultaet": 8,
+        "geburtsdatum": "13.02.1987",
+        "matrikelnummer": 15411,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00fchl",
-        "plzort": "53202 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Beck",
+        "plzort": "8",
         "sternchen": 0,
-        "strasse": "F\u00f6hrenstr. 14",
+        "strasse": "Hegelstr. 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Edelbert",
-        "weiblich": false
+        "vorname": "Isgard",
+        "weiblich": true
     }
 }

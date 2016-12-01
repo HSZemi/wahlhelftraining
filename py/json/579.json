@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2509772,
+    "nummer": 1809290,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.05.1994",
-        "matrikelnummer": 2626466,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "18.02.1999",
+        "matrikelnummer": 2939693,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Abele",
-        "plzort": "53118 Bonn",
+        "nachname": "Weinberger",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Hohlweg 1",
+        "strasse": "Emdener Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Magda",
-        "weiblich": true
+        "vorname": "Maximilian",
+        "weiblich": false
     }
 }

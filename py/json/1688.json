@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1804667,
+    "nummer": 1509569,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "11.06.1999",
-        "matrikelnummer": 2961646,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "13.05.1998",
+        "matrikelnummer": 2919515,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hagen",
-        "plzort": "53136 Bonn",
+        "nachname": "Michel",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Altomsewitz 0",
+        "strasse": "Adelheidstra\u00dfe 39",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Monique",
-        "weiblich": true
+        "vorname": "Arist",
+        "weiblich": false
     }
 }

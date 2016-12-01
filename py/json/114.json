@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2115836,
+    "nummer": 2758157,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "03.01.1991",
-        "matrikelnummer": 2313975,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "04.02.1994",
+        "matrikelnummer": 2623608,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schindler",
+        "nachname": "Grossmann",
         "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Pfortengartenweg 3",
+        "strasse": "Lilienthalstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 7
             }
         ],
-        "vorname": "Fabian",
-        "weiblich": false
+        "vorname": "Gieselind",
+        "weiblich": true
     }
 }

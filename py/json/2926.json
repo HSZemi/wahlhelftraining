@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1741994,
-    "semester": "Sommersemester 2016",
+    "nummer": 2555587,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.03.1983",
-        "matrikelnummer": 147651,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wulff",
-        "plzort": "53175 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "26.12.1992",
+        "matrikelnummer": 2887307,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Scharf",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Arnswalder Stra\u00dfe 18",
+        "strasse": "Ferdinand-Happ-Stra\u00dfe 11c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Ottilia",
-        "weiblich": true
+        "vorname": "Malte",
+        "weiblich": false
     }
 }

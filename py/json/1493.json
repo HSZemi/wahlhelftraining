@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2180901,
-    "semester": "Sommersemester 2016",
+    "nummer": 1440575,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "22.11.1990",
-        "matrikelnummer": 116825,
+        "fakultaet": 4,
+        "geburtsdatum": "12.02.1995",
+        "matrikelnummer": 2599396,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ringel",
-        "plzort": "53123 Bonn",
+        "nachname": "Lex",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Hiltnerstr. 0a",
+        "strasse": "D\u00f6lzschener Ring 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 7
             }
         ],
-        "vorname": "Kajetan",
+        "vorname": "Hansjakob",
         "weiblich": false
     }
 }

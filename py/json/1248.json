@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2760461,
+    "nummer": 2110400,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "02.10.1989",
-        "matrikelnummer": 2506356,
+        "geburtsdatum": "06.05.1997",
+        "matrikelnummer": 2400525,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Eilers",
-        "plzort": "53111 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schill",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Lanzmattweg 2",
+        "strasse": "Johann von Gabrielgasse 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Meteorologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Samuel",
+        "vorname": "Hanno",
         "weiblich": false
     }
 }

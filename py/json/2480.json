@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1165168,
+    "nummer": 2621091,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "24.12.1987",
-        "matrikelnummer": 11380,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "09.09.1990",
+        "matrikelnummer": 2906740,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ke\u00dfler",
-        "plzort": "53218 Bonn",
+        "nachname": "Schaarschmidt",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Kapit\u00e4n-Lehmann-Stra\u00dfe 1",
+        "strasse": "Zweite Luisenbr\u00fccke 29",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Gunhilde",
+        "vorname": "Fatma",
         "weiblich": true
     }
 }

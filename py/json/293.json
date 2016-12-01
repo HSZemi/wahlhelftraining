@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2830564,
+    "nummer": 1160302,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "20.10.1990",
-        "matrikelnummer": 2309354,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "08.12.1998",
+        "matrikelnummer": 2961710,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00fcrkle",
-        "plzort": "53206 Bonn",
+        "nachname": "Kratzer",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Zschertnitzer Stra\u00dfe 0",
+        "strasse": "Ferdinand-Kramer-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 7
             }
         ],
-        "vorname": "Apollonia",
+        "vorname": "Fine",
         "weiblich": true
     }
 }

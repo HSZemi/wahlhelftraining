@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1373099,
+    "nummer": 1944271,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "15.07.1991",
-        "matrikelnummer": 2670063,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "24.03.1992",
+        "matrikelnummer": 130333,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kurth",
-        "plzort": "53207 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Derksen",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfe Gallusstra\u00dfe 24",
+        "strasse": "Franz-Henle-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Adelgunde",
+        "vorname": "Helma",
         "weiblich": true
     }
 }

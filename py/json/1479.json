@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2002349,
+    "nummer": 1107679,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "28.08.1997",
-        "matrikelnummer": 2046980,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Fox",
+        "fakultaet": 2,
+        "geburtsdatum": "07.12.1994",
+        "matrikelnummer": 2592627,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Meinhardt",
         "plzort": "3",
         "sternchen": 0,
-        "strasse": "Schwarzenbacher Str. 10",
+        "strasse": "Winckelmannstra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Ivo",
-        "weiblich": false
+        "vorname": "Anneros",
+        "weiblich": true
     }
 }

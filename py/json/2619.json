@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1149203,
+    "nummer": 1187417,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "16.04.1991",
-        "matrikelnummer": 130502,
+        "geburtsdatum": "03.12.1993",
+        "matrikelnummer": 1932802,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hegemann",
-        "plzort": "53150 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Frie\u00df",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Riedweg 0",
+        "strasse": "Am Sch\u00e4nkenberg 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Volkhart",
+        "vorname": "Immanuel",
         "weiblich": false
     }
 }

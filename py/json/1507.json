@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1467982,
+    "nummer": 2337659,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.02.1993",
-        "matrikelnummer": 12503,
+        "fakultaet": 2,
+        "geburtsdatum": "02.10.1997",
+        "matrikelnummer": 1914908,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Oehme",
-        "plzort": "7",
+        "nachname": "Saathoff",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Platanenallee 15",
+        "strasse": "Brentanopark 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 9
             }
         ],
-        "vorname": "Ignatz",
-        "weiblich": false
+        "vorname": "Anna",
+        "weiblich": true
     }
 }

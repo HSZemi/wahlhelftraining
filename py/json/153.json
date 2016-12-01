@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2595208,
+    "nummer": 2802519,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "01.03.1987",
-        "matrikelnummer": 2885590,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "23.03.1988",
+        "matrikelnummer": 2432485,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schlick",
-        "plzort": "53203 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fetzer",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Grenadierplatzl 38",
+        "strasse": "Am Rethteich 40",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Hiltrude",
+        "vorname": "Giselind",
         "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2776658,
+    "nummer": 1690066,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "07.07.1995",
-        "matrikelnummer": 175104,
+        "fakultaet": 4,
+        "geburtsdatum": "10.04.1994",
+        "matrikelnummer": 17312,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Markert",
-        "plzort": "53216 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sch\u00f6nfelder",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Am Kampmoor 9",
+        "strasse": "Carl-Cohn-Stra\u00dfe 9b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 4
             }
         ],
-        "vorname": "Jonny",
-        "weiblich": false
+        "vorname": "Rotraut",
+        "weiblich": true
     }
 }

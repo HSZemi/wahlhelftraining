@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2055993,
+    "nummer": 1787897,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.01.1999",
-        "matrikelnummer": 2959103,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "13.12.1995",
+        "matrikelnummer": 2201088,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strecker",
-        "plzort": "53127 Bonn",
+        "nachname": "Bongartz",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Rheinstr. 10",
+        "strasse": "Kaptaubentwiete 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Magdalene",
-        "weiblich": true
+        "vorname": "Andree",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1762181,
+    "nummer": 2358243,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.06.1996",
-        "matrikelnummer": 2071792,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "11.01.1989",
+        "matrikelnummer": 2311165,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwarz",
-        "plzort": "53203 Bonn",
+        "nachname": "Schaaf",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Hohe Kanzel 4",
+        "strasse": "Oskar-Zwintscher-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             }
         ],
-        "vorname": "Hedda",
-        "weiblich": true
+        "vorname": "Reimund",
+        "weiblich": false
     }
 }

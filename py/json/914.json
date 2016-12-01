@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2919709,
+    "nummer": 1928916,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "20.03.1994",
-        "matrikelnummer": 2517519,
+        "geburtsdatum": "10.09.1993",
+        "matrikelnummer": 1988006,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Held",
-        "plzort": "o",
+        "nachname": "Gruhn",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Heinz-Raspe-Platz 14",
+        "strasse": "Wahnsdorfer Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
             }
         ],
-        "vorname": "Rudenz",
+        "vorname": "Dirk",
         "weiblich": false
     }
 }

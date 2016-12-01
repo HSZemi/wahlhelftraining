@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1610927,
+    "nummer": 2318981,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.03.1995",
-        "matrikelnummer": 2225527,
+        "fakultaet": 2,
+        "geburtsdatum": "13.07.1998",
+        "matrikelnummer": 2298230,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Stegemann",
-        "plzort": "53180 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Bogner",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Ostfleth 27",
+        "strasse": "Hellersiedlung Weg K 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Wendemar",
+        "vorname": "Lutz",
         "weiblich": false
     }
 }

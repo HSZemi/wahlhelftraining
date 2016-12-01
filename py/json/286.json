@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1402454,
+    "nummer": 1975968,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "03.12.1998",
-        "matrikelnummer": 11739,
+        "fakultaet": 5,
+        "geburtsdatum": "24.05.1993",
+        "matrikelnummer": 2267269,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behn",
-        "plzort": "7",
+        "nachname": "Sch\u00e4fer",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Johann-Klotz-Stra\u00dfe 5",
+        "strasse": "Joseph Haydngasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Klassische Arch\u00e4ologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
-        "vorname": "Fatma",
-        "weiblich": true
+        "vorname": "Friedmar",
+        "weiblich": false
     }
 }

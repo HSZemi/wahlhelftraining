@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1020170,
-    "semester": "Sommersemester 2016",
+    "nummer": 2299167,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.10.1996",
-        "matrikelnummer": 2077361,
+        "fakultaet": 9,
+        "geburtsdatum": "09.07.1996",
+        "matrikelnummer": 162845,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "J\u00e4ckel",
-        "plzort": "53162 Bonn",
+        "nachname": "Kersting",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00fcdesheimer Stra\u00dfe 1",
+        "strasse": "Herltstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Arabella",
-        "weiblich": true
+        "vorname": "Eduard",
+        "weiblich": false
     }
 }

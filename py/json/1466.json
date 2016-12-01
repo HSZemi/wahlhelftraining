@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2727963,
+    "nummer": 1846943,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.12.1992",
-        "matrikelnummer": 2010866,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "14.04.1999",
+        "matrikelnummer": 2260380,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lohmann",
-        "plzort": "1",
+        "nachname": "Sikora",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Michael-Proebstl-Weg 1",
+        "strasse": "Paul-Tillich-Stra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Oxana",
-        "weiblich": true
+        "vorname": "Traugott",
+        "weiblich": false
     }
 }

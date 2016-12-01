@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2824284,
+    "nummer": 2596137,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "04.10.1991",
-        "matrikelnummer": 2735599,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "01.07.1995",
+        "matrikelnummer": 2102121,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Salewski",
-        "plzort": "2",
+        "nachname": "Schirmer",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Scharfensteinstra\u00dfe 1",
+        "strasse": "Lingnerallee 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Engelbert",
-        "weiblich": false
+        "vorname": "Yvonne",
+        "weiblich": true
     }
 }

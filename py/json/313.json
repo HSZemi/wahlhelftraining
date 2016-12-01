@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1411896,
+    "nummer": 1404425,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.01.1987",
-        "matrikelnummer": 2216182,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "09.06.1999",
+        "matrikelnummer": 136809,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schuldt",
-        "plzort": "53185 Bonn",
+        "nachname": "Volkert",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Radegundisgasse 12",
+        "strasse": "An den Schie\u00dfh\u00fctten 0a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 13
             }
         ],
-        "vorname": "Virginia",
+        "vorname": "Heltrud",
         "weiblich": true
     }
 }

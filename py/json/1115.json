@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2409811,
+    "nummer": 2883522,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "25.01.1999",
-        "matrikelnummer": 2687611,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "11.11.1994",
+        "matrikelnummer": 2327648,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sowa",
-        "plzort": "53211 Bonn",
+        "nachname": "Benecke",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Ignaz Philipp Semmelweis-Gasse 23",
+        "strasse": "Billstieg 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Eddi",
+        "vorname": "Gundolf",
         "weiblich": false
     }
 }

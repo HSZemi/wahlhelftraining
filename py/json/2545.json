@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2130544,
+    "nummer": 2283476,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.09.1991",
-        "matrikelnummer": 2332216,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 2,
+        "geburtsdatum": "21.12.1996",
+        "matrikelnummer": 2676955,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lichtenberg",
-        "plzort": "53165 Bonn",
+        "nachname": "Greif",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Hahnebergstra\u00dfe 5",
+        "strasse": "Margarete-Susman-Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 9
             }
         ],
-        "vorname": "Tristan",
-        "weiblich": false
+        "vorname": "Anfriede",
+        "weiblich": true
     }
 }

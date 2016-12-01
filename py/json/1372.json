@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1061637,
+    "nummer": 2398341,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "17.12.1993",
-        "matrikelnummer": 2554108,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 0,
+        "geburtsdatum": "13.08.1996",
+        "matrikelnummer": 2754222,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hohn",
-        "plzort": "53192 Bonn",
+        "nachname": "Fiedler",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "St\u00fcrenburgstra\u00dfe 3",
+        "strasse": "Petterweilstra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Tania",
-        "weiblich": true
+        "vorname": "Friedlieb",
+        "weiblich": false
     }
 }

@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2487853,
+    "nummer": 1344724,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "11.11.1997",
-        "matrikelnummer": 2096480,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "10.08.1996",
+        "matrikelnummer": 2307379,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kropp",
-        "plzort": "53194 Bonn",
+        "nachname": "Schaarschmidt",
+        "plzort": "0",
         "sternchen": 0,
-        "strasse": "Am Steinbr\u00fcckel 30",
+        "strasse": "Am Rausch 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
             }
         ],
-        "vorname": "Annamarie",
-        "weiblich": true
+        "vorname": "Ottkar",
+        "weiblich": false
     }
 }

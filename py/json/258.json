@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1610030,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2532161,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "18.02.1994",
-        "matrikelnummer": 15676,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "26.12.1991",
+        "matrikelnummer": 2223191,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wilde",
-        "plzort": "53141 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kreft",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Ringelnatzg\u00e4sschen 0",
+        "strasse": "Sandbad 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Arch\u00e4ologien",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Musikwissenschaft/Sound Studies",
+                "fsem": 13
             }
         ],
-        "vorname": "Olga",
-        "weiblich": true
+        "vorname": "Herald",
+        "weiblich": false
     }
 }

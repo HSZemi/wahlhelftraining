@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1931624,
+    "nummer": 2845070,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "04.12.1991",
-        "matrikelnummer": 2525916,
+        "fakultaet": 0,
+        "geburtsdatum": "23.07.1996",
+        "matrikelnummer": 2842628,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Platz",
-        "plzort": "53133 Bonn",
+        "nachname": "Andresen",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Albert-Fromme-Weg 9",
+        "strasse": "An der Winkelwiese 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Thilo",
-        "weiblich": false
+        "vorname": "Ann",
+        "weiblich": true
     }
 }

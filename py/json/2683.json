@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2823356,
+    "nummer": 2874945,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "18.02.1994",
-        "matrikelnummer": 2688207,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "18.04.1991",
+        "matrikelnummer": 2008160,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Koenen",
-        "plzort": "53151 Bonn",
+        "nachname": "Rosin",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Trieskestra\u00dfe 12",
+        "strasse": "Meierhofgasse 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 7
             }
         ],
-        "vorname": "Branka",
-        "weiblich": true
+        "vorname": "Christhard",
+        "weiblich": false
     }
 }

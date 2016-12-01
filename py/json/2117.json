@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1429896,
+    "nummer": 1162340,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.01.1999",
-        "matrikelnummer": 1933567,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "17.06.1995",
+        "matrikelnummer": 18104,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fuhr",
-        "plzort": "n",
+        "nachname": "Hecht",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Krapflried 9c",
+        "strasse": "Krieschendorfer Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Hispanistik",
+                "fsem": 7
             }
         ],
-        "vorname": "Anton",
-        "weiblich": false
+        "vorname": "Babette",
+        "weiblich": true
     }
 }

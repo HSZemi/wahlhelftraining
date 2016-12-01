@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2506919,
+    "nummer": 1199639,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.02.1996",
-        "matrikelnummer": 14342,
+        "fakultaet": 3,
+        "geburtsdatum": "03.05.1997",
+        "matrikelnummer": 2615048,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6ning",
-        "plzort": "53147 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Aust",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Hahnbergweg 13",
+        "strasse": "Ortenberger Stra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
             }
         ],
-        "vorname": "Friedolin",
+        "vorname": "Isidor",
         "weiblich": false
     }
 }

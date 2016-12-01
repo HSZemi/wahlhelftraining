@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1228022,
+    "nummer": 2803166,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.03.1989",
-        "matrikelnummer": 1980032,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "18.04.1988",
+        "matrikelnummer": 2927405,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heger",
-        "plzort": "53187 Bonn",
+        "nachname": "Matzke",
+        "plzort": "0",
         "sternchen": 0,
-        "strasse": "Roitzscher Landstra\u00dfe 1",
+        "strasse": "Hans Siebenhirter-Gasse 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Etta",
+        "vorname": "Hertha",
         "weiblich": true
     }
 }

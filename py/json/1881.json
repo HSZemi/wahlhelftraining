@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2602963,
+    "nummer": 2142604,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "18.07.1999",
-        "matrikelnummer": 2745318,
+        "fakultaet": 2,
+        "geburtsdatum": "06.12.1999",
+        "matrikelnummer": 2407860,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kellner",
-        "plzort": "53207 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hegemann",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00fcttenweg 7",
+        "strasse": "Sodenstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 6
             }
         ],
-        "vorname": "Marieluise",
+        "vorname": "Myriam",
         "weiblich": true
     }
 }

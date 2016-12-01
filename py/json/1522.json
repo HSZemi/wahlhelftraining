@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": true,
         "sp": true
     },
-    "nummer": 2478294,
+    "nummer": 1214704,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.09.1994",
-        "matrikelnummer": 15965,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "17.08.1988",
+        "matrikelnummer": 2844477,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bechtel",
-        "plzort": "53205 Bonn",
+        "nachname": "Hellmuth",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Ludwig-Jost-Allee 8",
+        "strasse": "Gauguinweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Pauline",
+        "vorname": "Virginia",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2675076,
+    "nummer": 1035946,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.08.1991",
-        "matrikelnummer": 16228,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "14.05.1990",
+        "matrikelnummer": 2607579,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hinze",
-        "plzort": "53127 Bonn",
+        "nachname": "Hommel",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Eichwaldstra\u00dfe 2",
+        "strasse": "Storchenneststra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
             }
         ],
-        "vorname": "Adi",
+        "vorname": "Eckehart",
         "weiblich": false
     }
 }

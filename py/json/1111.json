@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2549932,
+    "nummer": 2315854,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "28.05.1986",
-        "matrikelnummer": 1942105,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "24.11.1996",
+        "matrikelnummer": 2682309,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Helbing",
-        "plzort": "53181 Bonn",
+        "nachname": "B\u00f6hnke",
+        "plzort": "9",
         "sternchen": 0,
-        "strasse": "Hafenbr\u00fccke 21",
+        "strasse": "Wahnsdorfer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Gertrudt",
-        "weiblich": true
+        "vorname": "Traugott",
+        "weiblich": false
     }
 }

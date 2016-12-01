@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2238254,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1146349,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.05.1994",
-        "matrikelnummer": 2036032,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "27.02.1999",
+        "matrikelnummer": 2043117,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6ttger",
-        "plzort": "53220 Bonn",
+        "nachname": "Bernhard",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Haingasse 1",
+        "strasse": "Richard-Wagner-Str. 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Dorlies",
-        "weiblich": true
+        "vorname": "Jannick",
+        "weiblich": false
     }
 }

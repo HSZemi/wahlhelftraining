@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1407470,
+    "nummer": 1705915,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.10.1999",
-        "matrikelnummer": 155790,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "07.10.1995",
+        "matrikelnummer": 2473464,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nissen",
-        "plzort": "53135 Bonn",
+        "nachname": "Hardt",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Genfer Stra\u00dfe 6",
+        "strasse": "Zum Lehmfeld 3b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Gisela",
+        "vorname": "Bertfriede",
         "weiblich": true
     }
 }

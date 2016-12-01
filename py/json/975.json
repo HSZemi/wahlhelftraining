@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1612765,
+    "nummer": 1586165,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.10.1990",
-        "matrikelnummer": 162935,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "18.01.1995",
+        "matrikelnummer": 187294,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ruoff",
-        "plzort": "1",
+        "nachname": "Eckel",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Akazienweg 14",
+        "strasse": "Weidendamm 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Friedbald",
+        "vorname": "Wolfhard",
         "weiblich": false
     }
 }

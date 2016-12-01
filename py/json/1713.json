@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2897151,
+    "nummer": 1084780,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.08.1994",
-        "matrikelnummer": 2265016,
+        "fakultaet": 3,
+        "geburtsdatum": "12.10.1994",
+        "matrikelnummer": 2599042,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Schultze",
-        "plzort": "n",
+        "mitglied_studierendenschaft": false,
+        "nachname": "P\u00f6hlmann",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Singapurweg 13",
+        "strasse": "Guerickestra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 12
             }
         ],
-        "vorname": "Sigisbert",
+        "vorname": "Steve",
         "weiblich": false
     }
 }

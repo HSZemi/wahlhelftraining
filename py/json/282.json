@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1268201,
+    "nummer": 2080297,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "17.02.1998",
-        "matrikelnummer": 2280156,
+        "fakultaet": 4,
+        "geburtsdatum": "06.10.1992",
+        "matrikelnummer": 2746660,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Roll",
-        "plzort": "53176 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Raab",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Am B\u00f6rstig 2",
+        "strasse": "Perthesweg 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Dittmar",
-        "weiblich": false
+        "vorname": "Merlinde",
+        "weiblich": true
     }
 }

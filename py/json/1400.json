@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2770929,
+    "nummer": 1385193,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "07.11.1992",
-        "matrikelnummer": 2969537,
+        "fakultaet": 8,
+        "geburtsdatum": "08.11.1983",
+        "matrikelnummer": 2827207,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Falk",
-        "plzort": "3",
+        "nachname": "Weise",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Schlachthofstra\u00dfe 5",
+        "strasse": "Am Schulfeld 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Rosa",
-        "weiblich": true
+        "vorname": "Gerold",
+        "weiblich": false
     }
 }

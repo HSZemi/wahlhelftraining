@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2800119,
+    "nummer": 2217680,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.11.1998",
-        "matrikelnummer": 1923501,
+        "fakultaet": 6,
+        "geburtsdatum": "08.07.1995",
+        "matrikelnummer": 195634,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Daub",
-        "plzort": "53172 Bonn",
+        "nachname": "Hansen",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Ziegeleistra\u00dfe 37",
+        "strasse": "Wilhelm-Franke-Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Eyck",
-        "weiblich": false
+        "vorname": "Anje",
+        "weiblich": true
     }
 }

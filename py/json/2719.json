@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2608540,
+    "nummer": 1497142,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "12.10.1996",
-        "matrikelnummer": 2824300,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "22.09.1989",
+        "matrikelnummer": 2159976,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Geis",
-        "plzort": "n",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sager",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Grothe-Marie-Stra\u00dfe 0",
+        "strasse": "Georg-Allgaier-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
-        "vorname": "Notker",
+        "vorname": "Marcel",
         "weiblich": false
     }
 }

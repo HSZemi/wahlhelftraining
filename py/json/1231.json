@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2731943,
+    "nummer": 1586985,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.03.1995",
-        "matrikelnummer": 2627976,
+        "fakultaet": 1,
+        "geburtsdatum": "27.02.1993",
+        "matrikelnummer": 2423503,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niebuhr",
-        "plzort": "53178 Bonn",
+        "nachname": "Schie\u00dfl",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Hempelweg 6",
+        "strasse": "Buschweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Rathgunde",
-        "weiblich": true
+        "vorname": "Otmar",
+        "weiblich": false
     }
 }

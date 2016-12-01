@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2828526,
+    "nummer": 1740857,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "05.03.1992",
-        "matrikelnummer": 2402794,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "10.04.1994",
+        "matrikelnummer": 2488061,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heidt",
-        "plzort": "53111 Bonn",
+        "nachname": "Thielmann",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Am T\u00e4nnig 1",
+        "strasse": "Archenholzstra\u00dfe 31",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
+                "fsem": 10
             }
         ],
-        "vorname": "Armin",
+        "vorname": "Hadubert",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2342890,
+    "nummer": 1212744,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.06.1999",
-        "matrikelnummer": 2160646,
+        "fakultaet": 7,
+        "geburtsdatum": "16.03.1985",
+        "matrikelnummer": 2014656,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Metzger",
-        "plzort": "53161 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hausmann",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Pechstein-Stra\u00dfe 4",
+        "strasse": "Untere Br\u00fccke 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Hannemarie",
+        "vorname": "Kornelia",
         "weiblich": true
     }
 }

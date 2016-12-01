@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2528915,
+    "nummer": 2063434,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "02.07.1994",
-        "matrikelnummer": 2335776,
+        "geburtsdatum": "13.10.1993",
+        "matrikelnummer": 2043010,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Schweigert",
-        "plzort": "53124 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Henn",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Gildenweg 29",
+        "strasse": "Josef-Mohr-Weg 4d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Psychologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Sprachlernforschung",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 10
             }
         ],
-        "vorname": "Wolfried",
-        "weiblich": false
+        "vorname": "Jana",
+        "weiblich": true
     }
 }

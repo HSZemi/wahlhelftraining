@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2283604,
+    "nummer": 1254344,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.10.1995",
-        "matrikelnummer": 2359915,
+        "fakultaet": 5,
+        "geburtsdatum": "15.07.1990",
+        "matrikelnummer": 19193,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Steinberg",
-        "plzort": "53215 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Reichardt",
+        "plzort": "2",
         "sternchen": 0,
-        "strasse": "Schurichtstra\u00dfe 6",
+        "strasse": "Kampener Stieg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
             }
         ],
-        "vorname": "Roselies",
-        "weiblich": true
+        "vorname": "Hermfried",
+        "weiblich": false
     }
 }

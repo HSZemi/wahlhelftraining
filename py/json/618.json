@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1163803,
+    "nummer": 2727094,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.12.1989",
-        "matrikelnummer": 2545209,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Moritz",
-        "plzort": "53191 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "06.12.1993",
+        "matrikelnummer": 2598586,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Meinhardt",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Staufenstra\u00dfe 6",
+        "strasse": "Louis-Pasteur-Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 9
             }
         ],
-        "vorname": "Edmund",
-        "weiblich": false
+        "vorname": "Claire",
+        "weiblich": true
     }
 }

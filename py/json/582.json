@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1028495,
+    "nummer": 2865841,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "16.08.1988",
-        "matrikelnummer": 2636781,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "10.11.1999",
+        "matrikelnummer": 2285553,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ried",
-        "plzort": "4",
+        "nachname": "R\u00fcckert",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Weesensteiner Stra\u00dfe 18",
+        "strasse": "Dittersdorfer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 11
             }
         ],
-        "vorname": "Roland",
-        "weiblich": false
+        "vorname": "Edeltraudt",
+        "weiblich": true
     }
 }

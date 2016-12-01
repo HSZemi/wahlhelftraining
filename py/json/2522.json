@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1791345,
+    "nummer": 1834776,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "10.10.1980",
-        "matrikelnummer": 1958367,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "09.01.1992",
+        "matrikelnummer": 2210631,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcsters",
-        "plzort": "53228 Bonn",
+        "nachname": "Wiemann",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Georg-Wolff-Stra\u00dfe 2b",
+        "strasse": "An den Birken 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Maurus",
+        "vorname": "Ruben",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1354025,
+    "nummer": 2565403,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.08.1999",
-        "matrikelnummer": 2665110,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "26.06.1990",
+        "matrikelnummer": 2273224,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Linde",
-        "plzort": "53189 Bonn",
+        "nachname": "Schaible",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Heidem\u00fchlweg 1",
+        "strasse": "B\u00f6nst\u00e4dter Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Elwine",
+        "vorname": "Ludwina",
         "weiblich": true
     }
 }

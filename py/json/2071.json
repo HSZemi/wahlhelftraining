@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1282265,
+    "nummer": 1707875,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "03.08.1992",
-        "matrikelnummer": 2294499,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "11.06.1997",
+        "matrikelnummer": 1937420,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tr\u00f6ster",
-        "plzort": "n",
+        "nachname": "M\u00f6hle",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Esterhazystra\u00dfe 2",
+        "strasse": "Beethovenweg 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Molecular Biology and Biotechnology",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Johannette",
-        "weiblich": true
+        "vorname": "Medardus",
+        "weiblich": false
     }
 }

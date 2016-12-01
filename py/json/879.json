@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1685188,
+    "nummer": 1954442,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.11.1987",
-        "matrikelnummer": 2357344,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "28.05.1999",
+        "matrikelnummer": 183638,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinmann",
-        "plzort": "5",
+        "nachname": "Landwehr",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Letzter Heller 2",
+        "strasse": "Bellevue 22d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Kurd",
-        "weiblich": false
+        "vorname": "Rosalinde",
+        "weiblich": true
     }
 }

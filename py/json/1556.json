@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2409999,
+    "nummer": 1670967,
     "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "10.03.1994",
-        "matrikelnummer": 2767075,
+        "geburtsdatum": "04.06.1984",
+        "matrikelnummer": 2435053,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Maack",
-        "plzort": "5",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Willmann",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Am H\u00fcgel 12",
+        "strasse": "M\u00fchlwiesenstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 1
             }
         ],
-        "vorname": "Woldemar",
-        "weiblich": false
+        "vorname": "Rosalia",
+        "weiblich": true
     }
 }

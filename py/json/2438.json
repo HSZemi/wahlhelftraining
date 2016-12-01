@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1177081,
+    "nummer": 1532414,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.02.1998",
-        "matrikelnummer": 1930956,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Bittner",
-        "plzort": "53228 Bonn",
+        "fakultaet": 9,
+        "geburtsdatum": "28.05.1999",
+        "matrikelnummer": 2715990,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Debus",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Herler Ring 7",
+        "strasse": "G\u00e4nsefu\u00df 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Carsta",
-        "weiblich": true
+        "vorname": "Fridulf",
+        "weiblich": false
     }
 }

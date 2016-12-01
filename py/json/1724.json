@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2801916,
+    "nummer": 2904760,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.07.1996",
-        "matrikelnummer": 2602923,
+        "fakultaet": 1,
+        "geburtsdatum": "23.01.1996",
+        "matrikelnummer": 120045,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Blessing",
-        "plzort": "53227 Bonn",
+        "nachname": "Karl",
+        "plzort": "9",
         "sternchen": 0,
-        "strasse": "Omsewitzer Grund 6",
+        "strasse": "Sch\u00e4nkenweg 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Hildebrand",
-        "weiblich": false
+        "vorname": "Sabrina",
+        "weiblich": true
     }
 }

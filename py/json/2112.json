@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2939364,
+    "nummer": 2624564,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "11.06.1999",
-        "matrikelnummer": 2970386,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "11.10.1989",
+        "matrikelnummer": 2542728,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spie\u00df",
-        "plzort": "53119 Bonn",
+        "nachname": "Jablonski",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Zille-Stra\u00dfe 0a",
+        "strasse": "Schr\u00e4gkamp 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Isidor",
+        "vorname": "Ingobert",
         "weiblich": false
     }
 }

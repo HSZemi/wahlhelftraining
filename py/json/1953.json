@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1668048,
+    "nummer": 1538417,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.04.1992",
-        "matrikelnummer": 2020655,
+        "fakultaet": 9,
+        "geburtsdatum": "14.08.1999",
+        "matrikelnummer": 1931251,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Neu",
-        "plzort": "53157 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kratzer",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Gr\u00fcnwinkel 17",
+        "strasse": "Dorothea-Erxleben-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 4
             }
         ],
-        "vorname": "Wilhelmine",
+        "vorname": "Cl\u00e4re",
         "weiblich": true
     }
 }

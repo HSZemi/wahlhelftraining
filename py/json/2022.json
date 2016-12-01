@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1072949,
+    "nummer": 1498323,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "24.07.1997",
-        "matrikelnummer": 1929737,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "08.03.1991",
+        "matrikelnummer": 2369278,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fritz",
-        "plzort": "53193 Bonn",
+        "nachname": "B\u00e4umer",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Woferlstr. 4",
+        "strasse": "Rudolf-Dittrich-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             }
         ],
-        "vorname": "Georg",
+        "vorname": "Erdwin",
         "weiblich": false
     }
 }

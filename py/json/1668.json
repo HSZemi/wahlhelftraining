@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2112491,
+    "nummer": 1522955,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.03.1996",
-        "matrikelnummer": 2459140,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "22.07.1994",
+        "matrikelnummer": 2197355,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seibold",
-        "plzort": "1",
+        "nachname": "Hill",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Hemberg 18",
+        "strasse": "Sierichstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Evamaria",
-        "weiblich": true
+        "vorname": "Harribert",
+        "weiblich": false
     }
 }

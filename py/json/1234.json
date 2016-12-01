@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1700656,
+    "nummer": 2709274,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.07.1988",
-        "matrikelnummer": 2872274,
+        "fakultaet": 5,
+        "geburtsdatum": "22.07.1992",
+        "matrikelnummer": 17366,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kellermann",
-        "plzort": "53183 Bonn",
+        "nachname": "Freudenberg",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Ignaz-Wolf-Str. 5",
+        "strasse": "R\u00f6merwall 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "North American Studies",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 5
             }
         ],
-        "vorname": "Meinulf",
-        "weiblich": false
+        "vorname": "Radmila",
+        "weiblich": true
     }
 }

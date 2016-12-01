@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1171220,
+    "nummer": 2309348,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.01.1994",
-        "matrikelnummer": 2288285,
+        "fakultaet": 4,
+        "geburtsdatum": "05.10.1991",
+        "matrikelnummer": 2769475,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schad",
-        "plzort": "53229 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Scheerer",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Richard-Breitenfeld-Stra\u00dfe 7",
+        "strasse": "Konrad-Zuse-Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Marie",
-        "weiblich": true
+        "vorname": "Wilfrid",
+        "weiblich": false
     }
 }

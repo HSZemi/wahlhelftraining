@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2314907,
+    "nummer": 1640326,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.01.1992",
-        "matrikelnummer": 2095444,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "20.03.1987",
+        "matrikelnummer": 2990550,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nielsen",
-        "plzort": "53195 Bonn",
+        "nachname": "Kunath",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Am Biedersberg 8",
+        "strasse": "Dischers Barg 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 2
             }
         ],
-        "vorname": "Gunhard",
-        "weiblich": false
+        "vorname": "Gloria",
+        "weiblich": true
     }
 }

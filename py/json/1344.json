@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1748002,
+    "nummer": 1662274,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.09.1989",
-        "matrikelnummer": 2412527,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "14.03.1987",
+        "matrikelnummer": 1988589,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sahin",
-        "plzort": "53208 Bonn",
+        "nachname": "Mager",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Dominikanerstr. 6",
+        "strasse": "Am Finkenschlag 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Chemie",
+                "fsem": 1
             }
         ],
-        "vorname": "Cord",
+        "vorname": "Arnd",
         "weiblich": false
     }
 }

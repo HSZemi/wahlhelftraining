@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1215326,
+    "nummer": 2913846,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.02.1996",
-        "matrikelnummer": 2238799,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "03.09.1989",
+        "matrikelnummer": 11138,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lotz",
-        "plzort": "1",
+        "nachname": "St\u00f6ckl",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Im Weingarten 5",
+        "strasse": "Triftkoppel 4a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 3
             }
         ],
-        "vorname": "Elisabeth",
+        "vorname": "Ingried",
         "weiblich": true
     }
 }

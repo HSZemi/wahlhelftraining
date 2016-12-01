@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1883338,
+    "nummer": 1123127,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.04.1999",
-        "matrikelnummer": 1988617,
+        "fakultaet": 4,
+        "geburtsdatum": "16.05.1993",
+        "matrikelnummer": 2974253,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Loibl",
-        "plzort": "n",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Geist",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Heitmanns Weg 19",
+        "strasse": "Beim Gr\u00e4bchen 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
             }
         ],
-        "vorname": "Emeram",
-        "weiblich": false
+        "vorname": "Malwine",
+        "weiblich": true
     }
 }

@@ -146,6 +146,7 @@
 	<div class="row" style="background-color:#eee; padding:0.5rem;">
 	<h1 style="float:left; color: #333;">WAHLHELFTRAINING</h1>
 	<div style="float:right;">
+	<a href="anleitung.html" style="padding-right: 1em;">Anleitung</a>
 	<button class="btn btn-green">Korrekt: <span id="korrekt">0</span></button>
 	<button class="btn btn-blue">Falsch: <span id="falsch">0</span></button>
 	<button class="btn btn-primary" id="next">Nächste Person</button>
@@ -171,14 +172,14 @@
 	<table class="table  table-bordered">
 	<thead>
 	<tr>
-		<th>Lfd. Nr.</th>
+		<th>lfd. Nr.</th>
 		<th>Matrikelnr.</th>
 		<th>Name</th>
 		<th>Senat</th>
-		<th>Fakrat<br>BZL</th>
-		<th>WGB</th>
+		<th>Fakultätsrat</th>
+		<th>Wahlgremium</th>
 		<th>SP</th>
-		<th>Mehrfachausweis<br>Briefwahl</th>
+		<th>Mehrfachausweis /<br>Briefwahl</th>
 	</tr>
 	</thead>
 	<tbody id="tablebody">
@@ -386,6 +387,8 @@
 	var gewertet = false;
 	
 	$(function(){
+		$.ajaxSetup({ cache: false });
+	
 		$('.zettel').click(function(){
 			$(this).toggleClass('active');
 			$('#none').removeClass('active');
@@ -432,20 +435,45 @@
 			gewertet = true;
 			target_set = get_target_set();
 			
-			s = ""
+			s = "Auszugeben:\n"
 			for (gremium of target_set){
 				s += fullnames[gremium] + "\n";
+			}
+			
+			if(target_set.size == 0){
+				s += "Nichts\n"
+			}
+			
+			s += "\n-----\n\n"
+			
+			if(current_data['stud']['ausweistyp'] == "zweithoerer"){
+				s += "Ausweistyp beachten\n";
+			}
+			if(current_data['semester'] != "Wintersemester 2016/2017"){
+				s += "Semester beachten\n";
+			}
+			if(current_data['loecher']['sp']){
+				s += "SP-Feld bereits gelocht\n";
+			}
+			if(current_data['loecher']['gremien']){
+				s += "Gremien-Feld bereits gelocht\n";
+			}
+			if(nl != null){
+				s += "Negativliste beachten";
 			}
 			alert(s);
 		});
 		
-		$.get("data/ausweis.svg", null, function(data){
+		var getausweis = $.get("data/ausweis.svg", null, function(data){
 			$('#ausweisbild').html("");
 			$("svg", data).prependTo('#ausweisbild');
 		},'xml');
 		
-		$.getJSON( "py/json/negativliste.json", function( data ) {
+		var getliste = $.getJSON( "py/json/negativliste.json", function( data ) {
 			negativliste = data;
+		});
+		
+		$.when(getausweis, getliste).done(function(){
 			loadRandomStud();
 		});
 		
@@ -484,12 +512,12 @@
 						target_set.add("senat");
 					}
 					
-					if( ( current_data['stud']['fakultaet'] > 0 )  && ( nl == null || nl[5] == "" )){
+					if( ( current_data['stud']['fakultaet'] > 0 )  && ( nl == null || (nl[5] == ""  && nl[4] == ""))){
 						target_set.add(fakrats[current_data['stud']['fakultaet']])
 						target_set.add(shks[current_data['stud']['fakultaet']])
 					}
 					
-					if(current_data['stud']['weiblich'] && ( nl == null || nl[6] == "" ) ){
+					if(current_data['stud']['weiblich'] && ( nl == null || (nl[6] == "" && nl[4] == "") ) ){
 						target_set.add("gb");
 					}
 				}
@@ -618,8 +646,16 @@
 					$('#fsem-'+i+' tspan').text('');
 					$('#sternchen-'+i+' tspan').text('');
 				} else {
-					$('#abschluss-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['abschluss']);
-					$('#fach-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['fach']);
+					if(data['stud']['studienfaecher'][i-1]['abschluss'].length > 20){
+						$('#abschluss-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['abschluss'].substring(0,20) + ".");
+					} else {
+						$('#abschluss-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['abschluss']);
+					}
+					if(data['stud']['studienfaecher'][i-1]['fach'].length > 30){
+						$('#fach-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['fach'].substring(0,30) + ".");
+					} else {
+						$('#fach-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['fach']);
+					}
 					$('#fsem-'+i+' tspan').text(data['stud']['studienfaecher'][i-1]['fsem']);
 					
 					if(i-1 == data['stud']['sternchen']){
@@ -682,7 +718,7 @@
 			$('#tablebody').append("<tr>\
 				<td>"+p0[0]+"</td>\
 				<td>"+p0[1]+"</td>\
-				<td>"+p0[2]+" "+p0[3]+"</td>\
+				<td>"+p0[2]+", "+p0[3]+"</td>\
 				<td>"+p0[4]+"</td>\
 				<td>"+p0[5]+"</td>\
 				<td>"+p0[6]+"</td>\
@@ -693,7 +729,7 @@
 			$('#tablebody').append("<tr>\
 				<td>"+p1[0]+"</td>\
 				<td>"+p1[1]+"</td>\
-				<td>"+p1[2]+" "+p1[3]+"</td>\
+				<td>"+p1[2]+", "+p1[3]+"</td>\
 				<td>"+p1[4]+"</td>\
 				<td>"+p1[5]+"</td>\
 				<td>"+p1[6]+"</td>\
@@ -704,7 +740,7 @@
 			$('#tablebody').append("<tr>\
 				<td>"+p2[0]+"</td>\
 				<td>"+p2[1]+"</td>\
-				<td>"+p2[2]+" "+p2[3]+"</td>\
+				<td>"+p2[2]+", "+p2[3]+"</td>\
 				<td>"+p2[4]+"</td>\
 				<td>"+p2[5]+"</td>\
 				<td>"+p2[6]+"</td>\
@@ -715,7 +751,7 @@
 			$('#tablebody').append("<tr>\
 				<td>"+p3[0]+"</td>\
 				<td>"+p3[1]+"</td>\
-				<td>"+p3[2]+" "+p3[3]+"</td>\
+				<td>"+p3[2]+", "+p3[3]+"</td>\
 				<td>"+p3[4]+"</td>\
 				<td>"+p3[5]+"</td>\
 				<td>"+p3[6]+"</td>\
@@ -726,7 +762,7 @@
 			$('#tablebody').append("<tr>\
 				<td>"+p4[0]+"</td>\
 				<td>"+p4[1]+"</td>\
-				<td>"+p4[2]+" "+p4[3]+"</td>\
+				<td>"+p4[2]+", "+p4[3]+"</td>\
 				<td>"+p4[4]+"</td>\
 				<td>"+p4[5]+"</td>\
 				<td>"+p4[6]+"</td>\

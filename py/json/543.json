@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1848959,
+    "nummer": 2990736,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.09.1985",
-        "matrikelnummer": 2366225,
+        "fakultaet": 3,
+        "geburtsdatum": "10.12.1992",
+        "matrikelnummer": 2636425,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Evers",
-        "plzort": "53200 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Weinberger",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Reism\u00fchle 1e",
+        "strasse": "Bruderwaldstr. 24",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 8
             }
         ],
-        "vorname": "Herward",
-        "weiblich": false
+        "vorname": "Hanne",
+        "weiblich": true
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2930260,
+    "nummer": 1586253,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.12.1996",
-        "matrikelnummer": 2143866,
+        "fakultaet": 4,
+        "geburtsdatum": "19.08.1996",
+        "matrikelnummer": 2624143,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Langbein",
-        "plzort": "53116 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Raabe",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Berliner Tor 4",
+        "strasse": "Wildunger Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Tibetologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Germanistik",
+                "fsem": 1
             }
         ],
-        "vorname": "Ascan",
-        "weiblich": false
+        "vorname": "Swetlana",
+        "weiblich": true
     }
 }

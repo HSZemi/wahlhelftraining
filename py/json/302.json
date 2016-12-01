@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1555623,
+    "nummer": 2045106,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "17.10.1985",
-        "matrikelnummer": 2996118,
+        "fakultaet": 9,
+        "geburtsdatum": "03.04.1991",
+        "matrikelnummer": 1943375,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tischer",
-        "plzort": "53178 Bonn",
+        "nachname": "Witt",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Lippersdorfer Weg 9",
+        "strasse": "Andreasstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Wendel",
+        "vorname": "Ralph",
         "weiblich": false
     }
 }

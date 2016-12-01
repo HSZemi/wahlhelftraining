@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2192095,
+    "nummer": 1749699,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.10.1995",
-        "matrikelnummer": 2310216,
+        "fakultaet": 6,
+        "geburtsdatum": "09.10.1991",
+        "matrikelnummer": 2690596,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dannenberg",
-        "plzort": "53159 Bonn",
+        "nachname": "T\u00fcrk",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Alttrachau 14",
+        "strasse": "Erich-K\u00e4stner-Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 8
             }
         ],
-        "vorname": "Yvette",
-        "weiblich": true
+        "vorname": "Bertolt",
+        "weiblich": false
     }
 }

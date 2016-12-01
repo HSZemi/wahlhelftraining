@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1324231,
+    "nummer": 1583948,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "02.01.1999",
-        "matrikelnummer": 2161460,
+        "fakultaet": 6,
+        "geburtsdatum": "11.07.1995",
+        "matrikelnummer": 16410,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Peters",
-        "plzort": "53166 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Huck",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Putjatinplatz 1",
+        "strasse": "Grasweg 59",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Geographie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 11
             }
         ],
-        "vorname": "Serafine",
+        "vorname": "Lieschen",
         "weiblich": true
     }
 }

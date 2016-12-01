@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2520461,
+    "nummer": 2185674,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.07.1991",
-        "matrikelnummer": 2933344,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "26.02.1993",
+        "matrikelnummer": 2239304,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bernard",
-        "plzort": "53182 Bonn",
+        "nachname": "Rosemann",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Micktner Stra\u00dfe 5",
+        "strasse": "Collenbuschstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Wencke",
+        "vorname": "Wilhelma",
         "weiblich": true
     }
 }

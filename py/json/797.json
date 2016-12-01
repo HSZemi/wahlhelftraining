@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2972938,
+    "nummer": 1539902,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "05.05.1999",
-        "matrikelnummer": 19645,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "01.11.1986",
+        "matrikelnummer": 2921673,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Moser",
-        "plzort": "n",
+        "nachname": "Giebel",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Josef-Eicher-Stra\u00dfe 12",
+        "strasse": "Feldscheidenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 7
             }
         ],
-        "vorname": "Eckart",
-        "weiblich": false
+        "vorname": "Friedliese",
+        "weiblich": true
     }
 }

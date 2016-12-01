@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1329144,
+    "nummer": 2397891,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.04.1986",
-        "matrikelnummer": 2552186,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "09.11.1994",
+        "matrikelnummer": 2409657,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scholl",
-        "plzort": "53145 Bonn",
+        "nachname": "Husemann",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00e4rchenweg 29",
+        "strasse": "Leubener Weg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Wolfdieter",
+        "vorname": "Frithjof",
         "weiblich": false
     }
 }

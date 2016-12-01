@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1609397,
+    "nummer": 2699098,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.10.1998",
-        "matrikelnummer": 2729506,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "02.05.1986",
+        "matrikelnummer": 14744,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kretz",
-        "plzort": "53218 Bonn",
+        "nachname": "Kallenbach",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Geiselsteinweg 6",
+        "strasse": "De-Saint-Exup\u00e9ry-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Eduard",
+        "vorname": "Curd",
         "weiblich": false
     }
 }

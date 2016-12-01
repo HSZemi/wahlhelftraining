@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2199014,
+    "nummer": 2047856,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "17.04.1992",
-        "matrikelnummer": 15912,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "01.12.1994",
+        "matrikelnummer": 11186,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gundlach",
-        "plzort": "53165 Bonn",
+        "nachname": "Schoch",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Diesterwegplatz 9",
+        "strasse": "Karl-Kotzenberg-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Ehrentrud",
-        "weiblich": true
+        "vorname": "Fabian",
+        "weiblich": false
     }
 }

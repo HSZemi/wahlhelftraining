@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2051531,
+    "nummer": 2549242,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.11.1999",
-        "matrikelnummer": 2097524,
+        "fakultaet": 1,
+        "geburtsdatum": "01.08.1999",
+        "matrikelnummer": 2901779,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Henke",
-        "plzort": "53211 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Semmler",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Adolph-Sorge-Stra\u00dfe 10",
+        "strasse": "Am Kohlenplatz 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rheinische Landesgeschichte",
+                "fsem": 10
             }
         ],
-        "vorname": "Annelene",
+        "vorname": "Jutta",
         "weiblich": true
     }
 }

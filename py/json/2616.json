@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1808125,
+    "nummer": 1973963,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.08.1996",
-        "matrikelnummer": 2569308,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "10.02.1993",
+        "matrikelnummer": 2507411,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hunger",
-        "plzort": "53150 Bonn",
+        "nachname": "Klar",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Schulweg 12",
+        "strasse": "Zum Turmberg 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Heilwig",
-        "weiblich": true
+        "vorname": "Welf",
+        "weiblich": false
     }
 }

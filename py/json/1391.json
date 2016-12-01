@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1265444,
-    "semester": "Sommersemester 2016",
+    "nummer": 2581713,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.10.1991",
-        "matrikelnummer": 2039677,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Pfennig",
-        "plzort": "53173 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "11.09.1993",
+        "matrikelnummer": 2305995,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sorge",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Haseneck 24",
+        "strasse": "Birkenhain 30",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie",
+                "fsem": 13
             }
         ],
-        "vorname": "Marilu",
-        "weiblich": true
+        "vorname": "Renatus",
+        "weiblich": false
     }
 }

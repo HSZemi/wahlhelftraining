@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1829952,
+    "nummer": 1789519,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.02.1994",
-        "matrikelnummer": 2265553,
+        "fakultaet": 3,
+        "geburtsdatum": "16.09.1990",
+        "matrikelnummer": 2421833,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "P\u00f6schl",
-        "plzort": "53180 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hau\u00dfmann",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-Eick-Weg 9",
+        "strasse": "Polierstra\u00dfe 15d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Sigisbert",
+        "vorname": "Beat",
         "weiblich": false
     }
 }

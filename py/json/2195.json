@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2699990,
+    "nummer": 1194115,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.08.1991",
-        "matrikelnummer": 2188977,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "12.07.1987",
+        "matrikelnummer": 2803153,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauk",
-        "plzort": "53157 Bonn",
+        "nachname": "Schimmel",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Henriette-Heber-Stra\u00dfe 6",
+        "strasse": "Buger Hauptstr. 39",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sistik",
+                "fsem": 8
             }
         ],
-        "vorname": "Hilarius",
+        "vorname": "Gunnar",
         "weiblich": false
     }
 }

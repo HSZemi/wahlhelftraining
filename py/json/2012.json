@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1243903,
+    "nummer": 1502362,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.09.1999",
-        "matrikelnummer": 2261977,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "13.12.1993",
+        "matrikelnummer": 1957848,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Burkard",
-        "plzort": "7",
+        "nachname": "Wittich",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Wassersternweg 0",
+        "strasse": "Tarvisstr. 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Biochemistry",
+                "fsem": 11
             }
         ],
-        "vorname": "Adelgunde",
-        "weiblich": true
+        "vorname": "Laurenz",
+        "weiblich": false
     }
 }

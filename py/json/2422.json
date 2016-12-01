@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1285385,
+    "nummer": 1549525,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "15.03.1990",
-        "matrikelnummer": 2232491,
+        "geburtsdatum": "06.04.1993",
+        "matrikelnummer": 2075796,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6pfert",
-        "plzort": "53124 Bonn",
+        "nachname": "Hirschmann",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Malerstra\u00dfe 9",
+        "strasse": "Leopold Nattlgasse 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Valentin",
+        "vorname": "Kay",
         "weiblich": false
     }
 }

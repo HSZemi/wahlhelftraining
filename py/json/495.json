@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2112622,
+    "nummer": 1285809,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "05.09.1995",
-        "matrikelnummer": 2493942,
+        "geburtsdatum": "26.08.1995",
+        "matrikelnummer": 1954567,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lehnert",
-        "plzort": "53227 Bonn",
+        "nachname": "V\u00f6lkel",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Sturmvogelweg 4b",
+        "strasse": "Aubachstr. 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Joschka",
+        "vorname": "Hippolytus",
         "weiblich": false
     }
 }

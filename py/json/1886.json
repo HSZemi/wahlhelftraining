@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1150500,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2059141,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.10.1992",
-        "matrikelnummer": 1915651,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "08.09.1989",
+        "matrikelnummer": 19811,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schupp",
-        "plzort": "53191 Bonn",
+        "nachname": "Behnke",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Ziegeleiweg 16",
+        "strasse": "Linzer Stra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 7
             }
         ],
-        "vorname": "Traudlinde",
+        "vorname": "Manuela",
         "weiblich": true
     }
 }

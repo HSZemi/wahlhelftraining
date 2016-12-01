@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1002222,
+    "nummer": 2962451,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.05.1993",
-        "matrikelnummer": 2651539,
+        "fakultaet": 1,
+        "geburtsdatum": "02.04.1992",
+        "matrikelnummer": 2380528,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gassner",
-        "plzort": "53227 Bonn",
+        "nachname": "Danner",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Am Dorffrieden 8",
+        "strasse": "Hochmeisterstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 8
             }
         ],
-        "vorname": "Ascan",
-        "weiblich": false
+        "vorname": "Hannemarie",
+        "weiblich": true
     }
 }

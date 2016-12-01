@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1838200,
+    "nummer": 2206841,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.12.1993",
-        "matrikelnummer": 131810,
+        "fakultaet": 5,
+        "geburtsdatum": "11.01.1999",
+        "matrikelnummer": 13489,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hilgers",
-        "plzort": "53153 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Heins",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Wartenau 31",
+        "strasse": "Friedlebenstra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 9
             }
         ],
-        "vorname": "Chris",
-        "weiblich": false
+        "vorname": "Rosegunde",
+        "weiblich": true
     }
 }

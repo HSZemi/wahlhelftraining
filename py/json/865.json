@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1759183,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2945037,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.03.1987",
-        "matrikelnummer": 2170762,
+        "fakultaet": 6,
+        "geburtsdatum": "20.07.1992",
+        "matrikelnummer": 2583212,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Klaas",
-        "plzort": "53190 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lauer",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Im G\u00e4ssel 13",
+        "strasse": "L\u00f6btauer Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Geophysik",
+                "fsem": 8
             }
         ],
-        "vorname": "Cersten",
-        "weiblich": true
+        "vorname": "Albrecht",
+        "weiblich": false
     }
 }

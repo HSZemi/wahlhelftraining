@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1098393,
+    "nummer": 1429845,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.04.1986",
-        "matrikelnummer": 2460444,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "07.04.1990",
+        "matrikelnummer": 163149,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Seeliger",
-        "plzort": "53205 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kampmann",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Hammer Hof 0",
+        "strasse": "Friedebacher Stra\u00dfe 5d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Nicki",
-        "weiblich": false
+        "vorname": "Lea",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2366984,
+    "nummer": 1503841,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.11.1989",
-        "matrikelnummer": 2172160,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 3,
+        "geburtsdatum": "02.11.1988",
+        "matrikelnummer": 2526469,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baum",
-        "plzort": "53214 Bonn",
+        "nachname": "Dunkel",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Kraft-Park 16",
+        "strasse": "Moorender Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Celia",
+        "vorname": "Loremarie",
         "weiblich": true
     }
 }

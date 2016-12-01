@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1266381,
-    "semester": "Sommersemester 2016",
+    "nummer": 2486190,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "21.08.1999",
-        "matrikelnummer": 1919983,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wohlfahrt",
-        "plzort": "n",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "08.10.1992",
+        "matrikelnummer": 2042028,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Bender",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Bernadottestra\u00dfe 42",
+        "strasse": "Wormser Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
             }
         ],
-        "vorname": "Karlheiner",
+        "vorname": "Steff",
         "weiblich": false
     }
 }

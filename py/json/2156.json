@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2595538,
+    "nummer": 1887127,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.04.1996",
-        "matrikelnummer": 2808569,
+        "fakultaet": 5,
+        "geburtsdatum": "25.09.1988",
+        "matrikelnummer": 2892139,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Genz",
-        "plzort": "4",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jessen",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Soonwaldstra\u00dfe 1",
+        "strasse": "Rodung 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Kajetan",
-        "weiblich": false
+        "vorname": "Janette",
+        "weiblich": true
     }
 }

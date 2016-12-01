@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1089795,
+    "nummer": 2478584,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "06.11.1995",
-        "matrikelnummer": 2646708,
+        "geburtsdatum": "06.09.1993",
+        "matrikelnummer": 2451959,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Koller",
-        "plzort": "53213 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Rabe",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Kaiserstra\u00dfe 4",
+        "strasse": "Andreas-Lang-Steig 4b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Philosophie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Arch\u00e4ologien",
+                "fsem": 6
             }
         ],
-        "vorname": "Erwin",
+        "vorname": "Gerlach",
         "weiblich": false
     }
 }

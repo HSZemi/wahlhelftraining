@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1839311,
+    "nummer": 1265112,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.08.1996",
-        "matrikelnummer": 2262250,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "10.03.1993",
+        "matrikelnummer": 134916,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heintz",
-        "plzort": "53139 Bonn",
+        "nachname": "Clemens",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Angergasse 27",
+        "strasse": "Langreuterstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 10
             }
         ],
-        "vorname": "Gundela",
-        "weiblich": true
+        "vorname": "Rainmund",
+        "weiblich": false
     }
 }

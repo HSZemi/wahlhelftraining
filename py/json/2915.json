@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2719480,
+    "nummer": 2432873,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.07.1999",
-        "matrikelnummer": 13800,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "25.11.1991",
+        "matrikelnummer": 2047897,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weinzierl",
-        "plzort": "53215 Bonn",
+        "nachname": "Stange",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Kind-Stra\u00dfe 2",
+        "strasse": "Bei der Kirche 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Kunibert",
-        "weiblich": false
+        "vorname": "Manja",
+        "weiblich": true
     }
 }

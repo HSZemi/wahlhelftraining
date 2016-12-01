@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1607100,
+    "nummer": 1257485,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.09.1998",
-        "matrikelnummer": 15014,
+        "fakultaet": 4,
+        "geburtsdatum": "23.08.1993",
+        "matrikelnummer": 2255707,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Frenz",
-        "plzort": "53180 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "B\u00f6hnke",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Tilsiter Stra\u00dfe 0",
+        "strasse": "Anton-Graff-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Beatrice",
+        "vorname": "Irmtraud",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1027797,
+    "nummer": 2056095,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.06.1994",
-        "matrikelnummer": 2571649,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "26.04.1995",
+        "matrikelnummer": 121866,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heil",
-        "plzort": "53202 Bonn",
+        "nachname": "Kr\u00f6ber",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Vitzthumstra\u00dfe 1",
+        "strasse": "Riedweg 2d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Historische Geographie",
+                "fsem": 11
             }
         ],
-        "vorname": "Bonifaz",
-        "weiblich": false
+        "vorname": "Melinda",
+        "weiblich": true
     }
 }

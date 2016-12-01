@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2276085,
+    "nummer": 1687050,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "18.04.1993",
-        "matrikelnummer": 15067,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "10.10.1996",
+        "matrikelnummer": 1934634,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jonas",
-        "plzort": "n",
+        "nachname": "W\u00f6lfel",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Cezanneweg 0",
+        "strasse": "Beim Soll 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Franzl",
-        "weiblich": false
+        "vorname": "Victoria",
+        "weiblich": true
     }
 }

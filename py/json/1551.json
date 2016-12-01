@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1370835,
+    "nummer": 2384065,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 3,
+        "fakultaet": 0,
         "geburtsdatum": "19.09.1993",
-        "matrikelnummer": 2051716,
-        "mehrfachausfertigung": 1,
+        "matrikelnummer": 158295,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stenzel",
-        "plzort": "53229 Bonn",
+        "nachname": "Sauter",
+        "plzort": "3",
         "sternchen": 0,
-        "strasse": "Ellerbruchtunnel 14",
+        "strasse": "Liehrstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 7
             }
         ],
-        "vorname": "Ekkardt",
-        "weiblich": false
+        "vorname": "Reny",
+        "weiblich": true
     }
 }

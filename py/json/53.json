@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2641731,
-    "semester": "Sommersemester 2016",
+    "nummer": 2034190,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "22.10.1992",
-        "matrikelnummer": 2903129,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "22.04.1998",
+        "matrikelnummer": 2653331,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": false,
-        "nachname": "M\u00f6llmann",
-        "plzort": "53134 Bonn",
+        "nachname": "Helmke",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Parkstra\u00dfe 7",
+        "strasse": "Felginerweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Lisa",
+        "vorname": "Friedegard",
         "weiblich": true
     }
 }

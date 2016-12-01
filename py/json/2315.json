@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2163718,
+    "nummer": 2810861,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.12.1995",
-        "matrikelnummer": 2985110,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "27.01.1989",
+        "matrikelnummer": 17905,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pott",
+        "nachname": "Sailer",
         "plzort": " ",
         "sternchen": 0,
-        "strasse": "Bergmannring 2",
+        "strasse": "Neundorfer Stra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Laurentius",
-        "weiblich": false
+        "vorname": "Judith",
+        "weiblich": true
     }
 }

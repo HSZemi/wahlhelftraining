@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1247196,
+    "nummer": 1612905,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.06.1990",
-        "matrikelnummer": 19716,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Lanz",
-        "plzort": "5",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "28.02.1990",
+        "matrikelnummer": 2650558,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Titze",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Kathenweg 4",
+        "strasse": "Steinbeker Berg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Edwin",
-        "weiblich": false
+        "vorname": "Friedhilde",
+        "weiblich": true
     }
 }

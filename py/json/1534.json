@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2353206,
-    "semester": "Sommersemester 2016",
+    "nummer": 2820469,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "25.01.1996",
-        "matrikelnummer": 1946360,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "25.10.1993",
+        "matrikelnummer": 2018926,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6ttger",
-        "plzort": "53200 Bonn",
+        "nachname": "Frank",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlgasse 3",
+        "strasse": "Herriotstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Donata",
-        "weiblich": true
+        "vorname": "Gotthardt",
+        "weiblich": false
     }
 }

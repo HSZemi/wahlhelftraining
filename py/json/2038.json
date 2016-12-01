@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2346711,
+    "nummer": 1635718,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.03.1993",
-        "matrikelnummer": 2216939,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "14.03.1986",
+        "matrikelnummer": 2202773,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Apel",
-        "plzort": "53198 Bonn",
+        "nachname": "Spitzer",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Am Querweg 2",
+        "strasse": "An St. Theresia 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 1
             }
         ],
-        "vorname": "Irmo",
+        "vorname": "Gottwalt",
         "weiblich": false
     }
 }

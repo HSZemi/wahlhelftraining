@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2434562,
+    "nummer": 2226040,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "22.07.1999",
-        "matrikelnummer": 2043678,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "02.02.1992",
+        "matrikelnummer": 178782,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinisch",
-        "plzort": "53141 Bonn",
+        "nachname": "Dohmen",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Klosterberg 63",
+        "strasse": "Zschonergrundstra\u00dfe 10c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Ruben",
+        "vorname": "Wilmar",
         "weiblich": false
     }
 }

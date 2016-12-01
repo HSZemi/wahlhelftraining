@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1713320,
+    "nummer": 2601496,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "27.10.1988",
-        "matrikelnummer": 2254492,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "26.03.1987",
+        "matrikelnummer": 2943298,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Utz",
-        "plzort": "3",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Brandstetter",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Klaus-Mann-Platz 1",
+        "strasse": "Reineckeweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Gertrud",
-        "weiblich": true
+        "vorname": "Alfred",
+        "weiblich": false
     }
 }

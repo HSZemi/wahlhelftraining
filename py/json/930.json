@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2290086,
+    "nummer": 1130116,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "20.01.1997",
-        "matrikelnummer": 2218870,
+        "fakultaet": 4,
+        "geburtsdatum": "15.09.1989",
+        "matrikelnummer": 2627099,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckhardt",
-        "plzort": "B",
+        "nachname": "Helmke",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Esterhazystra\u00dfe 18",
+        "strasse": "An der D\u00fcrren Heide 25",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Manfred",
-        "weiblich": false
+        "vorname": "Inna",
+        "weiblich": true
     }
 }

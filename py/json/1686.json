@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1624880,
+    "nummer": 1191043,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.09.1993",
-        "matrikelnummer": 2495441,
+        "fakultaet": 0,
+        "geburtsdatum": "21.04.1990",
+        "matrikelnummer": 2882342,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stuber",
-        "plzort": "53220 Bonn",
+        "nachname": "Bohne",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Angelika Fajt-Gasse 9",
+        "strasse": "Spitzhausstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Ruppert",
+        "vorname": "Margolf",
         "weiblich": false
     }
 }

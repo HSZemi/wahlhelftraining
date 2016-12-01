@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2138734,
-    "semester": "Sommersemester 2016",
+    "nummer": 1335619,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.04.1991",
-        "matrikelnummer": 2250063,
+        "fakultaet": 6,
+        "geburtsdatum": "12.12.1992",
+        "matrikelnummer": 115673,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pflaum",
-        "plzort": " ",
+        "nachname": "Steffens",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Parlamentsplatz 8",
+        "strasse": "Gravenbruchring 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 11
             }
         ],
-        "vorname": "Christamaria",
-        "weiblich": true
+        "vorname": "Benediktus",
+        "weiblich": false
     }
 }

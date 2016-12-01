@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1891215,
+    "nummer": 1691948,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "14.07.1990",
-        "matrikelnummer": 2291732,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "04.01.1996",
+        "matrikelnummer": 2271039,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "G\u00f6llner",
-        "plzort": "53214 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wecker",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Am Winkel 0",
+        "strasse": "M\u00fchlwiesenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 7
             }
         ],
-        "vorname": "Heilmuth",
-        "weiblich": false
+        "vorname": "Frohlinde",
+        "weiblich": true
     }
 }

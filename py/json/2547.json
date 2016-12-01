@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2200800,
+    "nummer": 1811541,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "12.08.1995",
-        "matrikelnummer": 2360442,
+        "geburtsdatum": "01.02.1986",
+        "matrikelnummer": 2435606,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Landgraf",
-        "plzort": "53153 Bonn",
+        "nachname": "Grobe",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "M\u00fcnzweg 1",
+        "strasse": "Bielefelder Stra\u00dfe 15c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Mikrobiologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Hansotto",
-        "weiblich": false
+        "vorname": "Annelise",
+        "weiblich": true
     }
 }

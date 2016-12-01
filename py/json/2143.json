@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2782663,
+    "nummer": 1641195,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.11.1997",
-        "matrikelnummer": 2461600,
+        "fakultaet": 4,
+        "geburtsdatum": "25.07.1997",
+        "matrikelnummer": 14559,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Nadler",
-        "plzort": "53187 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hoyer",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Hermsdorfer Stra\u00dfe 1",
+        "strasse": "Matthias-Claudius-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Dankhard",
-        "weiblich": false
+        "vorname": "Gerfriede",
+        "weiblich": true
     }
 }

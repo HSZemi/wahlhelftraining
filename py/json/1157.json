@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2987577,
+    "nummer": 2796472,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.12.1988",
-        "matrikelnummer": 2320995,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "18.12.1990",
+        "matrikelnummer": 12812,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schuldt",
-        "plzort": "53125 Bonn",
+        "nachname": "Wenig",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Seestra\u00dfe 5",
+        "strasse": "Ahornweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geschichte",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Arch\u00e4ologien",
+                "fsem": 6
             }
         ],
-        "vorname": "Wennemar",
+        "vorname": "Altfried",
         "weiblich": false
     }
 }

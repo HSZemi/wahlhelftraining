@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2624089,
+    "nummer": 1199578,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "10.07.1993",
-        "matrikelnummer": 2989970,
+        "geburtsdatum": "18.05.1989",
+        "matrikelnummer": 2982631,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Plum",
-        "plzort": "53162 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hintz",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Bei den Zelten 36",
+        "strasse": "Mockethaler Stra\u00dfe 38",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Mikrobiologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Wladislaus",
-        "weiblich": false
+        "vorname": "Kassandra",
+        "weiblich": true
     }
 }

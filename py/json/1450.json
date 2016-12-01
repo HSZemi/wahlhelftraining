@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1971299,
+    "nummer": 1292827,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "27.06.1993",
-        "matrikelnummer": 2087292,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "12.09.1999",
+        "matrikelnummer": 2802837,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Jacobi",
-        "plzort": "53221 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Teske",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Hachenburger Stra\u00dfe 5",
+        "strasse": "Zum Birkh\u00fcbel 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Anton",
+        "vorname": "Cordt",
         "weiblich": false
     }
 }

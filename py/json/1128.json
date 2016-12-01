@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1763016,
-    "semester": "Sommersemester 2016",
+    "nummer": 2977166,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.03.1989",
-        "matrikelnummer": 2438557,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "01.09.1990",
+        "matrikelnummer": 1960145,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frese",
-        "plzort": "1",
+        "nachname": "Schweigert",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Hollestra\u00dfe 15",
+        "strasse": "Schwenkstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Marietta",
+        "vorname": "Annkathrin",
         "weiblich": true
     }
 }

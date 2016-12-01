@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1043480,
+    "nummer": 1768891,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "01.03.1987",
-        "matrikelnummer": 2155005,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "05.11.1991",
+        "matrikelnummer": 2332068,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hagemann",
-        "plzort": "53185 Bonn",
+        "nachname": "Brosch",
+        "plzort": "9",
         "sternchen": 0,
-        "strasse": "Unterer Landweg 2",
+        "strasse": "Marianne-Bruns-Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Trauthilde",
-        "weiblich": true
+        "vorname": "Gelbert",
+        "weiblich": false
     }
 }

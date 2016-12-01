@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1230719,
+    "nummer": 1055537,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "03.03.1997",
-        "matrikelnummer": 19490,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "09.04.1992",
+        "matrikelnummer": 2103715,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Marschall",
-        "plzort": "53188 Bonn",
+        "nachname": "Bluhm",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Fasangartenstr. 1",
+        "strasse": "Drifft 3d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Anglistik/Amerikanistik: Literatur- und Kulturwissenschaft",
+                "fsem": 11
             }
         ],
-        "vorname": "Heidi",
-        "weiblich": true
+        "vorname": "Dagomar",
+        "weiblich": false
     }
 }

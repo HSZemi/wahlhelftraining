@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<!-- Required meta tags always come first -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>wahlhelftraining</title>
+
+	<!-- Bootstrap CSS -->
+	<!--<link rel="stylesheet" href="css/bootstrap.min.css">-->
+	<link rel="stylesheet" href="css/grid.css">
+	<style>
+	body{
+		box-sizing: border-box;
+		font-family: "Open Sans", sans-serif;
+	}
+	
+	#content{
+		max-width: 1000px;
+		margin: auto;
+		margin-bottom: 5cm;
+	}
+	
+	dt {
+		font-weight: bold;
+	}
+	
+	body.yes{
+		background-color: green;
+	}
+	body.no{
+		background-color: blue;
+	}
+	
+	.table{
+		background-color: white;
+		min-width: 80%;
+	}
+	
+	.card {
+		max-width: 8em;
+		float:left;
+		margin: 0.3em;
+	}
+	.zettel, .none {
+		cursor: pointer;
+		width: 66px;
+		height: 105px;
+		float: left;
+		border: 2px solid #999;
+		background-color: #333;
+		color: white;
+		margin: 0.2em;
+		padding: 0.2em;
+	}
+	.separator {
+		width: 5px;
+		height: 105px;
+		float: left;
+		border: 2px solid #eee;
+		background-color: #eee;
+		margin: 0.2em;
+		padding: 0.2em;
+	}
+	.zettel p, .none p{
+		margin: 0rem;
+		text-align: center;
+	}
+	
+	.zettel.active,.none.active{
+		background-color: #fff;
+		color: black;
+		border: 2px solid #e11;
+		font-weight: bold;
+	}
+	
+	#data, #controls{
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+	
+	#ausweisbild svg{
+		width: 100%;
+	}
+	.row{
+		overflow: hidden;
+	}
+	.row::after {
+		clear: both;
+		display: block;
+	}
+	table, th, td {
+		border: 1px solid black;
+	}
+	p, h1, h2, h3, h4, h5, h6{
+		/*margin-top: 0.8rem;*/
+		margin-bottom: 0.3rem;
+	}
+	
+	.btn {
+		padding: 1em;
+		border-radius: 0;
+		border: 1px solid #666;
+	}
+	
+	.btn-primary{
+		background-color: gray;
+		color: white;
+		font-weight: bold;
+		cursor:pointer;
+	}
+	.btn-secondary{
+		background-color: white;
+		color: black;
+		font-weight: bold;
+		cursor:pointer;
+	}
+	.btn-green{
+		background-color: green;
+		color: white;
+		font-weight: bold;
+	}
+	.btn-blue{
+		background-color: blue;
+		color: white;
+		font-weight: bold;
+	}
+	#check{
+		cursor: not-allowed;
+		-webkit-transition: all 0.5s ease;
+		-moz-transition: all 0.5s ease;
+		-o-transition: all 0.5s ease;
+		transition: all 0.5s ease;
+	}
+	
+	#check.highlight{
+		cursor: pointer;
+		background-color: cyan;
+	}
+	</style>
+</head>
+<body>
+	<div id="content">
+	
+	<h1>WAHLHELFTRAINING</h1>
+	
+	<a href="./">Zurück zum Training</a>
+	
+	<h2>Anleitung</h2>
+	
+	<p>Diese Trainingswebseite ist gedacht für Wahlhelferinnen und Wahlhelfer der Studierendenparlaments- und Gremienwahlen im Januar 2017. Mit ihr könnt ihr üben, anhand des Studierendenausweises einer Person und der Negativliste die richtigen Stimmzettel auszuwählen, die auszuhändigen sind.</p>
+	
+	
+	<h3>Bedienelemente</h3>
+	
+	<img src="data/schema.png" style="max-width: 1000px;" />
+	
+	<p>In Bereich 1 werden euch ein Studierendenausweis und ein Auszug aus der Negativliste angezeigt.<br>
+	In Bereich 2 könnt ihr sehen, wie oft ihr bereits richtig und falsch gelegen habt, ihr könnt die nächste Testperson aufrufen, eure eingegebene Antwort prüfen und durch Klick auf <b>[?]</b> die korrekte Antwort anzeigen lassen.<br>In Bereich 3 wählt ihr aus, welche Stimmzettel ihr der Person aushändigen wollt.</p>
+	
+	
+	<h3>Spiel und Spaß</h3>
+	
+	<p>Gespielt wird folgendermaßen: Ihr prüft den Ausweis und ggf. den Eintrag in der Negativliste, und entscheidet, welche Stimmzettel ihr der Person aushändigen wollt. Falls die Person keine Zettel bekommen soll, klickt ihr auf "Nichts", andernfalls auf alle Stimmzettel, die ihr ausgeben wollt. Ein ausgewählter Stimmzettel ändert die Farbe. Um einen Stimmzettel wieder abzuwählen, klickt ihn einfach erneut an.<p>
+	
+	<p>Um eure Eingabe überprüfen zu lassen, klickt ihr oben auf "Antwort prüfen". Falls ihr richtig liegt, leuchtet der Hintergrund grün auf, ein Ton ertönt und der Korrekt-Zähler erhöht sich um 1. Falls ihr falsch liegt, leuchtet der Hintergrund blau auf, ein anderer Ton ertönt, und der Falsch-Zähler erhöht sich.</p>
+	
+	<p>Um euch die korrekte Antwort anzeigen zu lassen, könnt ihr auf die Schaltfläche mit dem Fragezeichen klicken.</p>
+	
+	<p>Um mit der nächsten Person fortzufahren, klickt auf die Schaltfläche "Nächste Person".</p>
+	
+	
+	<h3>Die Negativliste</h3>
+	
+	<p>Die Negativliste enthält folgende Spalten:</p>
+	
+	<dl>
+		<dt>lfd. Nr.</dt>
+		<dd>Laufende Nummer im Verzeichnis</dd>
+		<dt>Matrikelnr.</dt>
+		<dd>Matrikelnummer der Person</dd>
+		<dt>Name</dt>
+		<dd>Nachname und Vorname der Person</dd>
+		<dt>Senat</dt>
+		<dd>Falls die Person keine Wahlberechtigung für den Senat hat, steht hier ein "Nein". Bedeutet auch, dass keiner der anderen Gremienzettel ausgeteilt wird.</dd>
+		<dt>Fakultätsrat</dt>
+		<dd>Falls die Person keine Wahlberechtigung für den Fakultätsrat ihrer Fakultät bzw. den Vorstand des BZL hat, steht hier ein "Nein"</dd>
+		<dt>Wahlgremium</dt>
+		<dd>Falls die Person keine Wahlberechtigung für die Wahl des Wahlgremiums der zentralen Gleichstellungsbeauftragten und ihrer Stellvertreterinnen hat, steht hier ein "Nein". <b>Achtung: Diese Spalte ist nur relevant bei "Weiterbildungs-"-Ausweisen!</b> Personen mit "Studenten-"-Ausweis dürfen das Wahlgremium generell nicht wählen, haben hier aber i.d.R. kein "Nein" stehen. Falls in der Spalte "Senat" ein "Nein" steht, wird auch kein Stimmzettel für das Wahlgremium ausgegeben!</dd>
+		<dt>SP</dt>
+		<dd>Falls die Person keine Wahlberechtigung für das Studierendenparlament hat, steht hier ein "Nein".</dd>
+		<dt>Mehrfachausweis Briefwahl</dt>
+		<dd>Falls die Person eine Mehrfachausfertigung (Zweitschrift, Drittschrift, …) ihres Ausweises besitzt, steht dies hier. Falls die Person Briefwahl beantragt hat, steht dies ebenfalls hier. In den entsprechenden Spalten davor ist dann ebenfalls ein "Nein" eingetragen.</dd>
+	</dl>
+	
+	
+	<h3>Betrug!!!</h3>
+	
+	<p>Falls ihr glaubt, einen Fehler gefunden zu haben, schreibt doch eine E-Mail <a href="https://wahlen.uni-bonn.de/kontakt-und-impressum">an den Wahlausschuss</a> (mit Angabe des Namens auf dem fehlerhaften Studierendenausweis).</p>
+	
+	<p><b>Achtung:</b> Die Fach-Abschluss-Kombinationen sowie die Anschriften sind lediglich "halbwegs plausibel" generiert und müssen nicht unbedingt wirklich so existieren. Sie sind lediglich dekorativ und für die Ausgabe der Stimmzettel komplett irrelevant. Also schreibt uns bitte keine E-Mail, wenn ihr meint, dass es eine bestimmte Fachkombination so nicht gibt. Das wird dann wohl richtig sein.</p>
+	
+	
+	<h4>Verwendete Sounddateien</h4>
+	
+	<p>"Failure 01" von rhodesmas auf <a href="http://www.freesound.org/people/rhodesmas/sounds/342756/">freesound.org</a>, unter <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a><br>
+		"success_low.wav" von grunz auf <a href="http://www.freesound.org/people/grunz/sounds/109663/">freesound.org</a>, unter <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></p>
+	
+	<hr>
+	
+	<p><a href="./">Zurück zum Training</a></p>
+	
+	</div>
+	
+</body>
+</html>

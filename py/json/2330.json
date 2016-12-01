@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2767658,
+    "nummer": 2799992,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.06.1987",
-        "matrikelnummer": 2203314,
+        "fakultaet": 7,
+        "geburtsdatum": "26.02.1999",
+        "matrikelnummer": 2052643,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Deutschmann",
-        "plzort": " ",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Fleischhauer",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Neusatzstra\u00dfe 20",
+        "strasse": "Bonnewitzer Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Burkhart",
-        "weiblich": false
+        "vorname": "Ingunde",
+        "weiblich": true
     }
 }

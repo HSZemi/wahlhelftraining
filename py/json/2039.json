@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2927726,
+    "nummer": 1984950,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "11.02.1993",
-        "matrikelnummer": 2526118,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "26.02.1999",
+        "matrikelnummer": 2770925,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rauh",
-        "plzort": "53123 Bonn",
+        "nachname": "Brehmer",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Gustinus Ambrosi-Weg 2",
+        "strasse": "Kuckuckssteig 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
             }
         ],
-        "vorname": "Hadubert",
-        "weiblich": false
+        "vorname": "Ruth",
+        "weiblich": true
     }
 }

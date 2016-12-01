@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1732517,
+    "nummer": 2459073,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "28.10.1992",
-        "matrikelnummer": 2398756,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "10.04.1990",
+        "matrikelnummer": 2827083,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haberland",
-        "plzort": "53167 Bonn",
+        "nachname": "Hintze",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Plantagenweg 8",
+        "strasse": "Markusstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Veronique",
-        "weiblich": true
+        "vorname": "Arnold",
+        "weiblich": false
     }
 }

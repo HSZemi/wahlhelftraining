@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2161544,
+    "nummer": 2996360,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "11.02.1999",
-        "matrikelnummer": 2303424,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "18.01.1997",
+        "matrikelnummer": 2707527,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Herrmann",
-        "plzort": "53182 Bonn",
+        "nachname": "Harth",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Troppauer Stra\u00dfe 22",
+        "strasse": "Br\u00f6nnerstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 11
             }
         ],
-        "vorname": "Tilman",
-        "weiblich": false
+        "vorname": "Ilsetraud",
+        "weiblich": true
     }
 }

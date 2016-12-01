@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2895105,
+    "nummer": 2707450,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.12.1997",
-        "matrikelnummer": 2462849,
+        "fakultaet": 7,
+        "geburtsdatum": "19.08.1991",
+        "matrikelnummer": 191002,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Maa\u00df",
-        "plzort": "9",
+        "nachname": "Winkel",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Severusstra\u00dfe 1",
+        "strasse": "Im Langenacker 30",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Agnes",
-        "weiblich": true
+        "vorname": "Willrich",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2060632,
+    "nummer": 2033143,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.06.1993",
-        "matrikelnummer": 2691119,
+        "fakultaet": 4,
+        "geburtsdatum": "03.04.1996",
+        "matrikelnummer": 2545697,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Rott",
-        "plzort": "53116 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gerlach",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Maukestieg 13",
+        "strasse": "Wallfahrtsweg 32",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
             }
         ],
-        "vorname": "Didi",
-        "weiblich": false
+        "vorname": "Alina",
+        "weiblich": true
     }
 }

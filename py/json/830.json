@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1304854,
+    "nummer": 1401974,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.06.1996",
-        "matrikelnummer": 2358182,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Ziemer",
-        "plzort": "9",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "27.06.1993",
+        "matrikelnummer": 2191805,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Staudt",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Katharinenstra\u00dfe 40",
+        "strasse": "Semmelweisstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Ditmar",
-        "weiblich": false
+        "vorname": "Erdmute",
+        "weiblich": true
     }
 }

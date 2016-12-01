@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2751551,
+    "nummer": 1102435,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "20.04.1994",
-        "matrikelnummer": 2652812,
+        "fakultaet": 9,
+        "geburtsdatum": "09.07.1991",
+        "matrikelnummer": 132311,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jakob",
-        "plzort": "53227 Bonn",
+        "nachname": "R\u00f6hr",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Alfred-Kiefer-Weg 20a",
+        "strasse": "Zielsteinacker 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Zdenka",
+        "vorname": "Brit",
         "weiblich": true
     }
 }

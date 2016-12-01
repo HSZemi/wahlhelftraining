@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1502039,
+    "nummer": 2490272,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "23.10.1991",
-        "matrikelnummer": 2207122,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "10.01.1999",
+        "matrikelnummer": 2236535,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schanz",
-        "plzort": "1",
+        "nachname": "Stolz",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Rochwitzer Weg 10",
+        "strasse": "Ruhmkoppel 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Heidemaria",
-        "weiblich": true
+        "vorname": "Isidor",
+        "weiblich": false
     }
 }

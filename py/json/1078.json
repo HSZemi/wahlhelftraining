@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2136029,
+    "nummer": 2050656,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.06.1992",
-        "matrikelnummer": 2725762,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "16.01.1995",
+        "matrikelnummer": 2920210,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
         "nachname": "Kreutz",
-        "plzort": "1",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Kirchplatz 0",
+        "strasse": "Detmolder Platz 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Helmtraud",
-        "weiblich": true
+        "vorname": "Bodmar",
+        "weiblich": false
     }
 }

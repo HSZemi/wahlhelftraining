@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2628004,
+    "nummer": 1939222,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.06.1995",
-        "matrikelnummer": 135133,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 0,
+        "geburtsdatum": "04.01.1991",
+        "matrikelnummer": 2217577,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buchholz",
-        "plzort": "53137 Bonn",
+        "nachname": "Lau",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Hohe Kanzel 1a",
+        "strasse": "Altgorbitz 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Josua",
-        "weiblich": false
+        "vorname": "Hildelind",
+        "weiblich": true
     }
 }

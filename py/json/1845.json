@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2879805,
+    "nummer": 2125965,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.06.1992",
-        "matrikelnummer": 2063537,
+        "fakultaet": 7,
+        "geburtsdatum": "04.06.1999",
+        "matrikelnummer": 2853908,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Fischer",
-        "plzort": "53210 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zinke",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-May-Platz 3",
+        "strasse": "Buchrainplatz 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Claus",
-        "weiblich": false
+        "vorname": "Rosmarie",
+        "weiblich": true
     }
 }

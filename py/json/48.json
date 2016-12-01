@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2428448,
+    "nummer": 2576468,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "17.01.1990",
-        "matrikelnummer": 168558,
+        "fakultaet": 6,
+        "geburtsdatum": "10.11.1999",
+        "matrikelnummer": 2437653,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Mathes",
-        "plzort": "53211 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Eilers",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Fuldaer Stra\u00dfe 0",
+        "strasse": "Hebebrandstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Meteorologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Nikola",
+        "vorname": "Agata",
         "weiblich": true
     }
 }

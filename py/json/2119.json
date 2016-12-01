@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2976577,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 1744358,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.05.1994",
-        "matrikelnummer": 2613075,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Keim",
-        "plzort": "53149 Bonn",
+        "fakultaet": 9,
+        "geburtsdatum": "28.01.1995",
+        "matrikelnummer": 12181,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hahn",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Hendrichstra\u00dfe 20",
+        "strasse": "Am Stieglitzgrund 19",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Dietgar",
+        "vorname": "Trauhard",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1731749,
+    "nummer": 2805954,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.05.1993",
-        "matrikelnummer": 1942827,
+        "fakultaet": 3,
+        "geburtsdatum": "23.01.1991",
+        "matrikelnummer": 2365084,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Haag",
-        "plzort": "53162 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Borchardt",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Heiderand 26",
+        "strasse": "Joachim-Biermann-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 8
             }
         ],
-        "vorname": "Cornell",
-        "weiblich": false
+        "vorname": "Leonie",
+        "weiblich": true
     }
 }

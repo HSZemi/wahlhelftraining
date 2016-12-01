@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2594581,
+    "nummer": 2555868,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "02.07.1994",
-        "matrikelnummer": 2863431,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "11.08.1996",
+        "matrikelnummer": 19680,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ludewig",
-        "plzort": "53158 Bonn",
+        "nachname": "Weniger",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Zur Keppm\u00fchle 29",
+        "strasse": "Alte Landstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Gefion",
+        "vorname": "Ina",
         "weiblich": true
     }
 }

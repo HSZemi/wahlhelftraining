@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1884642,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2638979,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "23.02.1997",
-        "matrikelnummer": 14012,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "21.09.1993",
+        "matrikelnummer": 2107943,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wanner",
-        "plzort": "o",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Haack",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hirtenacker 0",
+        "strasse": "Behrischstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Felix",
-        "weiblich": false
+        "vorname": "Loni",
+        "weiblich": true
     }
 }

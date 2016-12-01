@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1751643,
+    "nummer": 1398019,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "10.07.1995",
-        "matrikelnummer": 2607976,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "18.12.1993",
+        "matrikelnummer": 11904,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heer",
-        "plzort": "5",
+        "nachname": "Arnold",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Orber Stra\u00dfe 1",
+        "strasse": "Heidengasse 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 8
             }
         ],
-        "vorname": "Torsten",
-        "weiblich": false
+        "vorname": "Ingunde",
+        "weiblich": true
     }
 }

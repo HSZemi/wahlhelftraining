@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2868455,
+    "nummer": 1551919,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "14.01.1999",
-        "matrikelnummer": 16301,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Breyer",
-        "plzort": "53122 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "04.06.1999",
+        "matrikelnummer": 2148027,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Teichert",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Henrikweg 11",
+        "strasse": "Lipsiusstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 8
             }
         ],
-        "vorname": "Knut",
+        "vorname": "Gotthold",
         "weiblich": false
     }
 }

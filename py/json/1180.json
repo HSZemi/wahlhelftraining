@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1710236,
+    "nummer": 1255343,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "27.08.1995",
-        "matrikelnummer": 2029243,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "09.07.1995",
+        "matrikelnummer": 2056651,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckhoff",
-        "plzort": "53158 Bonn",
+        "nachname": "Biermann",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Schlachthofstra\u00dfe 12d",
+        "strasse": "Merkatorweg 26",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Kulturanthropologie/Volkskunde",
+                "fsem": 9
             }
         ],
-        "vorname": "Ivette",
+        "vorname": "Gabriella",
         "weiblich": true
     }
 }

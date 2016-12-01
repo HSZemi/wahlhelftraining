@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2503447,
+    "nummer": 1189769,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.12.1988",
-        "matrikelnummer": 2780249,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "13.09.1999",
+        "matrikelnummer": 2088137,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00fcnzel",
-        "plzort": "53176 Bonn",
+        "nachname": "Messerschmidt",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Lodischgasse 5",
+        "strasse": "Bad Kissingen-Platz 7d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
             }
         ],
-        "vorname": "Xaver",
+        "vorname": "Willrich",
         "weiblich": false
     }
 }

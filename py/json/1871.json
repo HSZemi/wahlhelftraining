@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1703011,
+    "nummer": 2890392,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "16.11.1992",
-        "matrikelnummer": 2646227,
+        "geburtsdatum": "21.12.1999",
+        "matrikelnummer": 2389215,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Klinge",
-        "plzort": "53159 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Stroh",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Letternkamp 8",
+        "strasse": "Altl\u00e4nder Stra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "P\u00e4dagogik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 11
             }
         ],
-        "vorname": "Traudel",
-        "weiblich": true
+        "vorname": "Luitpold",
+        "weiblich": false
     }
 }

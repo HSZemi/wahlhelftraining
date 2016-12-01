@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2746875,
+    "nummer": 1154559,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "03.06.1999",
-        "matrikelnummer": 1973140,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "19.11.1999",
+        "matrikelnummer": 12197,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Priebe",
-        "plzort": "53136 Bonn",
+        "nachname": "L\u00f6we",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Alten Ziegelei 11",
+        "strasse": "Nassauer Stra\u00dfe 26",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 8
             }
         ],
-        "vorname": "Wolfrid",
-        "weiblich": false
+        "vorname": "Mira",
+        "weiblich": true
     }
 }

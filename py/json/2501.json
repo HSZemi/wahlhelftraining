@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2479116,
+    "nummer": 1205233,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.11.1999",
-        "matrikelnummer": 2366316,
+        "fakultaet": 3,
+        "geburtsdatum": "25.02.1999",
+        "matrikelnummer": 2139116,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "F\u00f6rster",
-        "plzort": "3",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Meusel",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Griesstra\u00dfe 17",
+        "strasse": "Snitgerreihe 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Sandy",
+        "vorname": "Leonharda",
         "weiblich": true
     }
 }

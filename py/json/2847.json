@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2366303,
+    "nummer": 2773949,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.08.1995",
-        "matrikelnummer": 2231401,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "28.07.1999",
+        "matrikelnummer": 2457249,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinhart",
-        "plzort": "1",
+        "nachname": "Adler",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Adelheidstra\u00dfe 0",
+        "strasse": "Karl-Lachmann-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
             }
         ],
-        "vorname": "Falkhard",
-        "weiblich": false
+        "vorname": "Nathalie",
+        "weiblich": true
     }
 }

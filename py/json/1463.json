@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2989833,
+    "nummer": 2829448,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "16.02.1990",
-        "matrikelnummer": 2173422,
+        "geburtsdatum": "04.05.1995",
+        "matrikelnummer": 1990206,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Breit",
-        "plzort": "53214 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rieck",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Peuntstr. 7",
+        "strasse": "Im G\u00e4ssel 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Fatima",
+        "vorname": "Kerstin",
         "weiblich": true
     }
 }

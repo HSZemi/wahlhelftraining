@@ -2,30 +2,45 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2340925,
+    "nummer": 2850657,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "07.03.1991",
-        "matrikelnummer": 16832,
+        "fakultaet": 8,
+        "geburtsdatum": "22.04.1999",
+        "matrikelnummer": 2232087,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuntze",
-        "plzort": "1",
+        "nachname": "Welzel",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Mohnstr. 3",
+        "strasse": "Gie\u00dfener Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Klassische Arch\u00e4ologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Burgunda",
-        "weiblich": true
+        "vorname": "Hansl",
+        "weiblich": false
     }
 }

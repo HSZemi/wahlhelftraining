@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1577726,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1411321,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.06.1999",
-        "matrikelnummer": 13137,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Diemer",
-        "plzort": "53167 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "26.04.1995",
+        "matrikelnummer": 18768,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sch\u00f6tz",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Zeisigweg 4",
+        "strasse": "Konkordienplatz 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Maximilian",
-        "weiblich": false
+        "vorname": "Gisa",
+        "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2384190,
+    "nummer": 2275770,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "07.06.1999",
-        "matrikelnummer": 2708561,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "12.05.1993",
+        "matrikelnummer": 2176088,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grenz",
-        "plzort": "53166 Bonn",
+        "nachname": "Linden",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Beim Pachthof 5",
+        "strasse": "Henning-von-Tresckow-Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Anneros",
+        "vorname": "T\u00fclay",
         "weiblich": true
     }
 }

@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2681450,
+    "nummer": 2844262,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "08.06.1998",
-        "matrikelnummer": 2810946,
+        "fakultaet": 5,
+        "geburtsdatum": "21.12.1999",
+        "matrikelnummer": 2738806,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Blau",
-        "plzort": "5",
+        "nachname": "Bauer",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "An der Staufenmauer 7b",
+        "strasse": "Dumkuhlenweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Musikwissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 12
             }
         ],
-        "vorname": "Eberhard",
-        "weiblich": false
+        "vorname": "Ivette",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1216732,
+    "nummer": 2864879,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "13.03.1990",
-        "matrikelnummer": 2528044,
+        "geburtsdatum": "28.01.1985",
+        "matrikelnummer": 2223410,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gaida",
-        "plzort": "53137 Bonn",
+        "nachname": "Riese",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Im Kirschenst\u00fcck 23",
+        "strasse": "Am Leutewitzer Park 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Chemistry",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Olinde",
-        "weiblich": true
+        "vorname": "Heimfrid",
+        "weiblich": false
     }
 }

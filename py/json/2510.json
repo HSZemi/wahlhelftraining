@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1914650,
+    "nummer": 2012308,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.02.1990",
-        "matrikelnummer": 2630628,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 1,
+        "geburtsdatum": "01.01.1988",
+        "matrikelnummer": 2249746,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hackbarth",
-        "plzort": "53119 Bonn",
+        "nachname": "M\u00e4rz",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Oberhafenstra\u00dfe 2",
+        "strasse": "Hertogestra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 12
             }
         ],
-        "vorname": "Alheid",
-        "weiblich": true
+        "vorname": "Burckhard",
+        "weiblich": false
     }
 }

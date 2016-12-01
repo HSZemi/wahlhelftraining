@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1446288,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2792186,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.04.1990",
-        "matrikelnummer": 13415,
+        "fakultaet": 5,
+        "geburtsdatum": "16.03.1997",
+        "matrikelnummer": 14197,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Knappe",
-        "plzort": "3",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Weiss",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Schleemer Ring 1",
+        "strasse": "Kleemannstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Skandinavistik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Helwin",
+        "vorname": "Gotthard",
         "weiblich": false
     }
 }

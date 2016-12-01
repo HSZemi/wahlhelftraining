@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1843192,
+    "nummer": 2490691,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.04.1999",
-        "matrikelnummer": 164816,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "26.05.1991",
+        "matrikelnummer": 2491026,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haake",
-        "plzort": "53154 Bonn",
+        "nachname": "Weinmann",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "F\u00f6hrenweg 0d",
+        "strasse": "Immenhofweg 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie",
+                "fsem": 9
             }
         ],
-        "vorname": "Ambrosius",
-        "weiblich": false
+        "vorname": "Henri",
+        "weiblich": true
     }
 }

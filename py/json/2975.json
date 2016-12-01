@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1540133,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2679618,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.02.1991",
-        "matrikelnummer": 1986068,
+        "fakultaet": 2,
+        "geburtsdatum": "21.01.1992",
+        "matrikelnummer": 11893,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scheibe",
-        "plzort": "5",
+        "nachname": "Scheidt",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Friedrich-August-Stra\u00dfe 6",
+        "strasse": "Maria-Lerch-Weg 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Carsten",
+        "vorname": "Wiegand",
         "weiblich": false
     }
 }

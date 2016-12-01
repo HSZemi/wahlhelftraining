@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2154787,
+    "nummer": 1733521,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.01.1998",
-        "matrikelnummer": 2870736,
+        "fakultaet": 7,
+        "geburtsdatum": "04.01.1992",
+        "matrikelnummer": 1924689,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stelter",
-        "plzort": "53172 Bonn",
+        "nachname": "Baumgarten",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Freyunger Str. 0",
+        "strasse": "Anton-R\u00e9e-Weg 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Gertraut",
-        "weiblich": true
+        "vorname": "Karleugen",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2159638,
+    "nummer": 1905521,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.05.1993",
-        "matrikelnummer": 2307282,
+        "fakultaet": 2,
+        "geburtsdatum": "12.05.1993",
+        "matrikelnummer": 2909070,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Drees",
-        "plzort": "53156 Bonn",
+        "nachname": "Gaiser",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Feulnerweg 12",
+        "strasse": "S\u00fcdh\u00f6he 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Urszula",
-        "weiblich": true
+        "vorname": "Friedwin",
+        "weiblich": false
     }
 }

@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2987669,
+    "nummer": 1928154,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.06.1995",
-        "matrikelnummer": 2550742,
+        "fakultaet": 9,
+        "geburtsdatum": "18.02.1996",
+        "matrikelnummer": 2151833,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Ebeling",
-        "plzort": "53224 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sohn",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Langweidenstra\u00dfe 5",
+        "strasse": "Bernhard-Kretzschmar-Stra\u00dfe 37",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Latein",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Rainer",
-        "weiblich": false
+        "vorname": "Edeltraut",
+        "weiblich": true
     }
 }

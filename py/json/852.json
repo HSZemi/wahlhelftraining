@@ -1,31 +1,31 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1796845,
+    "nummer": 2771395,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.04.1989",
-        "matrikelnummer": 160870,
+        "fakultaet": 7,
+        "geburtsdatum": "23.08.1997",
+        "matrikelnummer": 2686957,
         "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Orth",
-        "plzort": "53144 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zwick",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Haarweg 29",
+        "strasse": "Moorblick 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
             }
         ],
-        "vorname": "Heimbert",
-        "weiblich": false
+        "vorname": "Jessica",
+        "weiblich": true
     }
 }

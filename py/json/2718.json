@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2137266,
+    "nummer": 2851109,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.07.1992",
-        "matrikelnummer": 2885631,
+        "fakultaet": 4,
+        "geburtsdatum": "09.11.1989",
+        "matrikelnummer": 2241437,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fcnemann",
-        "plzort": "53136 Bonn",
+        "nachname": "Jacobi",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Kieler Stra\u00dfe 3",
+        "strasse": "Froschh\u00e4user Stra\u00dfe 0a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Mike",
-        "weiblich": false
+        "vorname": "Raphaela",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2588189,
+    "nummer": 2013676,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "16.03.1989",
-        "matrikelnummer": 18521,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "21.09.1999",
+        "matrikelnummer": 14199,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bremer",
-        "plzort": "53188 Bonn",
+        "nachname": "Wurst",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Pappelallee 7",
+        "strasse": "Weckmarkt 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Irmlind",
+        "vorname": "Rosl",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2527163,
+    "nummer": 2940235,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.01.1996",
-        "matrikelnummer": 2654634,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 0,
+        "geburtsdatum": "18.07.1993",
+        "matrikelnummer": 168224,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Probst",
-        "plzort": "n",
+        "nachname": "Eifler",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Mosczinskystra\u00dfe 4",
+        "strasse": "Kl\u00f6ckelsbergstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 8
             }
         ],
-        "vorname": "Ariane",
+        "vorname": "Evangelia",
         "weiblich": true
     }
 }

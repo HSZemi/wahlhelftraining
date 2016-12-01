@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1625408,
+    "nummer": 2306008,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.05.1997",
-        "matrikelnummer": 2259364,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "22.06.1992",
+        "matrikelnummer": 2476172,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brunner",
-        "plzort": "53116 Bonn",
+        "nachname": "Paulsen",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Ulmenstra\u00dfe 13",
+        "strasse": "Kaulbachstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 1
             }
         ],
-        "vorname": "Edelburg",
+        "vorname": "Monique",
         "weiblich": true
     }
 }

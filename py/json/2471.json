@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1836703,
+    "nummer": 1133777,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.07.1992",
-        "matrikelnummer": 2825837,
+        "fakultaet": 0,
+        "geburtsdatum": "19.06.1989",
+        "matrikelnummer": 2113411,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Rau",
-        "plzort": "B",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Stapf",
+        "plzort": "9",
         "sternchen": 0,
-        "strasse": "Brockesstra\u00dfe 2e",
+        "strasse": "Dakarbr\u00fccke 0e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Rosie",
+        "vorname": "Rose-Marie",
         "weiblich": true
     }
 }

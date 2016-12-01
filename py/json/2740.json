@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2435353,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2357796,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.05.1993",
-        "matrikelnummer": 2487197,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Munz",
-        "plzort": "53213 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "17.09.1989",
+        "matrikelnummer": 2108159,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Matt",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Altenberger Stra\u00dfe 13",
+        "strasse": "Stadtweg 26",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Franzpeter",
+        "vorname": "Heilwig",
         "weiblich": false
     }
 }

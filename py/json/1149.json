@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2407825,
+    "nummer": 2379322,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.02.1990",
-        "matrikelnummer": 160948,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "24.09.1993",
+        "matrikelnummer": 2357666,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53175 Bonn",
+        "nachname": "Fritzsch",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Gem\u00fcndener Stra\u00dfe 2",
+        "strasse": "Burgstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 12
             }
         ],
-        "vorname": "Reinar",
+        "vorname": "Merten",
         "weiblich": false
     }
 }

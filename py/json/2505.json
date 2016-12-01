@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2371679,
+    "nummer": 1075019,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "05.09.1983",
-        "matrikelnummer": 2199472,
+        "fakultaet": 0,
+        "geburtsdatum": "16.05.1992",
+        "matrikelnummer": 2730312,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pott",
-        "plzort": "2",
+        "nachname": "Wassermann",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Deidesheimer Stra\u00dfe 18",
+        "strasse": "Bozenhardweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Maria-Theresia",
-        "weiblich": true
+        "vorname": "Meinhard",
+        "weiblich": false
     }
 }

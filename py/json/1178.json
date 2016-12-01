@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1024509,
-    "semester": "Sommersemester 2016",
+    "nummer": 2011074,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "03.07.1991",
-        "matrikelnummer": 2223531,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "14.04.1986",
+        "matrikelnummer": 2188780,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauk",
-        "plzort": "o",
+        "nachname": "Oppermann",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Blosweg 6",
+        "strasse": "R\u00e4cknitzstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Willibald",
+        "vorname": "Bardo",
         "weiblich": false
     }
 }

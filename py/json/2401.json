@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2875393,
+    "nummer": 2392843,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "18.05.1994",
-        "matrikelnummer": 2084347,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Niemeyer",
-        "plzort": "53116 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "06.10.1997",
+        "matrikelnummer": 2907470,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zitzmann",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Pfahlpl\u00e4tzchen 2",
+        "strasse": "Herbartstra\u00dfe 31",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 2
             }
         ],
-        "vorname": "Helmar",
-        "weiblich": false
+        "vorname": "Witta",
+        "weiblich": true
     }
 }

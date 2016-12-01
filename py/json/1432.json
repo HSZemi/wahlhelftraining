@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1381403,
-    "semester": "Sommersemester 2016",
+    "nummer": 2072104,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.08.1997",
-        "matrikelnummer": 2010070,
+        "fakultaet": 2,
+        "geburtsdatum": "19.01.1992",
+        "matrikelnummer": 19939,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gro\u00dfmann",
-        "plzort": "53156 Bonn",
+        "nachname": "Stratmann",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Bamberger Stra\u00dfe 8",
+        "strasse": "Marie-Wittich-Stra\u00dfe 3d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Stefani",
-        "weiblich": true
+        "vorname": "Micha",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1443260,
+    "nummer": 2978401,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "28.07.1990",
-        "matrikelnummer": 2804376,
+        "geburtsdatum": "25.10.1990",
+        "matrikelnummer": 2013386,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brandstetter",
-        "plzort": "53121 Bonn",
+        "nachname": "Z\u00f6llner",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Hohe-Kreuz-Str. 21",
+        "strasse": "Jungkreutstr. 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Computer Science",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 8
             }
         ],
-        "vorname": "Frohmut",
-        "weiblich": false
+        "vorname": "Lissy",
+        "weiblich": true
     }
 }

@@ -1,31 +1,51 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1813839,
+    "nummer": 2058487,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "27.12.1994",
-        "matrikelnummer": 2671138,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "11.11.1988",
+        "matrikelnummer": 181206,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knauf",
-        "plzort": "53213 Bonn",
+        "nachname": "M\u00f6ller",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "G\u00f6ppersdorfer Weg 11",
+        "strasse": "Elly-Heuss-Knapp-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Hispanistik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch als Zweit- und Fremdsprache",
+                "fsem": 13
             }
         ],
-        "vorname": "Giovanna",
-        "weiblich": true
+        "vorname": "Grimbert",
+        "weiblich": false
     }
 }

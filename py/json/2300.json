@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2701393,
+    "nummer": 2160965,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "23.11.1995",
-        "matrikelnummer": 2087352,
+        "geburtsdatum": "18.03.1998",
+        "matrikelnummer": 180733,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Raschke",
-        "plzort": "5",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kirstein",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Euryantheweg 16",
+        "strasse": "Corinthstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 11
             }
         ],
-        "vorname": "Edwina",
-        "weiblich": true
+        "vorname": "Herwart",
+        "weiblich": false
     }
 }

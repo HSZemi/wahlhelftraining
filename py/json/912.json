@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2632882,
+    "nummer": 2855586,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.03.1996",
-        "matrikelnummer": 1986710,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Sch\u00fctz",
-        "plzort": "53196 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "18.08.1999",
+        "matrikelnummer": 1933989,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Buchholz",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Hocksteinstra\u00dfe 9",
+        "strasse": "M\u00fchlensteig 36",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
             }
         ],
-        "vorname": "Reinhart",
+        "vorname": "Burkhart",
         "weiblich": false
     }
 }

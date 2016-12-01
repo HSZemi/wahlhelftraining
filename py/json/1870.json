@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2612483,
+    "nummer": 2364277,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.04.1994",
-        "matrikelnummer": 13371,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Krug",
-        "plzort": "53125 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "27.12.1994",
+        "matrikelnummer": 2877374,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Holtz",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Bankgasse 9",
+        "strasse": "Sachsenallee 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Toni",
-        "weiblich": false
+        "vorname": "Siglinde",
+        "weiblich": true
     }
 }

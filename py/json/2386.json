@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2799480,
+    "nummer": 2187928,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.03.1999",
-        "matrikelnummer": 18159,
+        "fakultaet": 6,
+        "geburtsdatum": "22.03.1992",
+        "matrikelnummer": 2606937,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reetz",
-        "plzort": "53120 Bonn",
+        "nachname": "Frech",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00fchhornshofweg 1",
+        "strasse": "Ernst-Scherling-Weg 29",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 8
             }
         ],
-        "vorname": "Ellentraud",
+        "vorname": "Trautlinde",
         "weiblich": true
     }
 }

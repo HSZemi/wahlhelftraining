@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1385607,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1804585,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "19.04.1998",
-        "matrikelnummer": 2135567,
+        "fakultaet": 6,
+        "geburtsdatum": "15.11.1993",
+        "matrikelnummer": 2021811,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brand",
-        "plzort": "53111 Bonn",
+        "nachname": "L\u00fchr",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Ockerwitzer Allee 7e",
+        "strasse": "Teichwiesenweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 12
             }
         ],
-        "vorname": "Burckhard",
-        "weiblich": false
+        "vorname": "Elenore",
+        "weiblich": true
     }
 }

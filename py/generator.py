@@ -2,6 +2,7 @@
 
 import random
 import json
+import csv
 
 class Studienfach:
 	def __init__(self, abschluss, fach, fsem):
@@ -100,17 +101,50 @@ def randgebdat():
 	y = int(max(min(random.gauss(1994, 4), 1999),1970))
 	return "{0:02d}.{1:02d}.{2:02d}".format(d,m,y)
 
+def randomfaecher(fakultaet, faecher, double=False):
+	abschluss = random.choice(list(faecher[str(fakultaet)].keys()))
+	retval = []
+	
+	if(fakultaet == 5 and abschluss == "Bachelor of Arts" and len(faecher[str(fakultaet)][abschluss]) > 1):
+		sfaecher = random.sample(faecher[str(fakultaet)][abschluss], 2)
+		fsemester = random.randint(1, 13)
+		
+		retval.append(Studienfach(abschluss, sfaecher[0], fsemester))
+		retval.append(Studienfach("", sfaecher[1], (fsemester if random.random() < 0.8 else random.randint(1, 13))))
+		  
+	elif(fakultaet == 8 and abschluss != "Promotion" and len(faecher[str(fakultaet)][abschluss]) > 1):
+		sfaecher = random.sample(faecher[str(fakultaet)][abschluss], 2)
+		sfaecher.append("Bildungswissenschaften")
+		
+		fsemester = random.randint(1, 13)
+		retval.append(Studienfach(abschluss, sfaecher[0], fsemester))
+		retval.append(Studienfach("", sfaecher[1], (fsemester if random.random() < 0.8 else random.randint(1, 13))))
+		retval.append(Studienfach("", sfaecher[2], (fsemester if random.random() < 0.8 else random.randint(1, 13))))
+		  
+	else:
+		sfaecher = random.sample(faecher[str(fakultaet)][abschluss], 1)
+		fsemester = random.randint(1, 13)
+		retval.append(Studienfach(abschluss, sfaecher[0], fsemester))
+	
+	if (not double) and (random.random() < 0.2):
+		retval += randomfaecher(random.randint(0,9), faecher, double=True)
+	return retval
+	
+	
+
 vornamen_weiblich = []
 vornamen_nicht_weiblich = []
 nachnamen = []
 strassennamen = []
 plzort = []
+faecher = {}
 
 twobools = {'a':{'sp':False,'gremien':False},'b':{'sp':True,'gremien':True},'c':{'sp':True,'gremien':False},'d':{'sp':False,'gremien':True}}
 ma_map = {1:"", 2:"Zweitschrift", 3:"Drittschrift", 4:"Viertschrift", 5:"Fünftschrift"}
 
 semesters = {"Wintersemester 2016/2017":95,"Sommersemester 2016":4,"Wintersemester 2015/2016":1}
-fakultaeten = {0:119,1:321,2:1014,3:4352,4:3053,5:9574,6:11052,7:3665,8:1593,9:1440}
+#fakultaeten = {0:119,1:321,2:1014,3:4352,4:3053,5:9574,6:11052,7:3665,8:1593,9:1440}
+fakultaeten = {0:1,1:1,2:1,3:1,4:2,5:2,6:2,7:1,8:1,9:1}
 loecher = {'a':90,'b':8,'c':1,'d':1}
 mehrfachausfertigungen = {1:90,2:5,3:3,4:1,5:1}
 briefwahl = {'a':95,'b':1,'c':3,'d':1}
@@ -130,7 +164,8 @@ with open('../data/vornamen_frau.txt', "r") as f:
 with open('../data/vornamen_mann.txt', "r") as f:
 	for line in f:
 		vornamen_nicht_weiblich.append(line.strip())
-
+with open("../data/faecher.json", "r") as f:
+	faecher = json.load(f)
 
 negativliste = []
 
@@ -166,12 +201,13 @@ for i in range(3000):
 	semester = randomvalue(semesters)
 	fakultaet = randomvalue(fakultaeten)
 	
-	sfach = Studienfach("Master of Disaster","Katastrophenmanagement",0)
+	sfaecher = randomfaecher(fakultaet, faecher)
+	sternchen = random.randrange(len(sfaecher))
 	
 	loch = twobools[randomvalue(loecher)]
 	
 	
-	studi = Stud(vorname, nachname, geburtsdatum, "{} {}{}".format(strasse,hausnummer,zusatz_hausnummer), plzort, weiblich, matrikelnummer, [sfach], 0, fakultaet, mehrfachausfertigung, beurlaubt, ausweistyp, mitglied_studierendenschaft)
+	studi = Stud(vorname, nachname, geburtsdatum, "{} {}{}".format(strasse,hausnummer,zusatz_hausnummer), plzort, weiblich, matrikelnummer, sfaecher, 0, fakultaet, mehrfachausfertigung, beurlaubt, ausweistyp, mitglied_studierendenschaft)
 	
 	ausweisnr = random.randint(1000000,3000000)
 	
@@ -180,7 +216,8 @@ for i in range(3000):
 	bw = twobools[randomvalue(briefwahl)]
 	
 	if(bw['sp'] or bw['gremien'] or mehrfachausfertigung > 1 or (ausweistyp == "weiterbildung" and not weiblich) or not mitglied_studierendenschaft):
-		negativliste.append((studi, bw))
+		if(ausweistyp != "zweithoerer"):
+			negativliste.append((studi, bw))
 	
 	print(ausweis)
 	

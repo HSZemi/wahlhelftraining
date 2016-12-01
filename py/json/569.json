@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2811820,
+    "nummer": 1158727,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.04.1994",
-        "matrikelnummer": 2764660,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "12.09.1993",
+        "matrikelnummer": 2824295,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Staab",
-        "plzort": "5",
+        "nachname": "Gronau",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00f6rnerweg 11",
+        "strasse": "Sachsenwerkstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
             }
         ],
-        "vorname": "Almtrud",
-        "weiblich": true
+        "vorname": "Michel",
+        "weiblich": false
     }
 }

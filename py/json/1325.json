@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1062440,
+    "nummer": 2888001,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.12.1987",
-        "matrikelnummer": 2157224,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "20.11.1986",
+        "matrikelnummer": 2667677,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rombach",
-        "plzort": "B",
+        "nachname": "Zieger",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "In den Aspen 15",
+        "strasse": "Wendelsplatz 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 5
             }
         ],
-        "vorname": "Notfried",
+        "vorname": "Adolf",
         "weiblich": false
     }
 }

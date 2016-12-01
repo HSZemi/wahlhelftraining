@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2848448,
+    "nummer": 1284399,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.05.1993",
-        "matrikelnummer": 2889684,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "10.05.1991",
+        "matrikelnummer": 2366532,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schirmer",
-        "plzort": "53179 Bonn",
+        "nachname": "F\u00fcrst",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Konopkastra\u00dfe 4",
+        "strasse": "Horst Uhlemann-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 11
             }
         ],
-        "vorname": "Ingobert",
-        "weiblich": false
+        "vorname": "Siggi",
+        "weiblich": true
     }
 }

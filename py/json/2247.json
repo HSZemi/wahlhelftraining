@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1694381,
+    "nummer": 2261529,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "28.02.1997",
-        "matrikelnummer": 163877,
+        "fakultaet": 7,
+        "geburtsdatum": "28.01.1998",
+        "matrikelnummer": 1906437,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lorenzen",
-        "plzort": "53145 Bonn",
+        "nachname": "Sternberg",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Lindeberg 0",
+        "strasse": "Pestalozziplatz 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Gordian",
+        "vorname": "Rolf",
         "weiblich": false
     }
 }

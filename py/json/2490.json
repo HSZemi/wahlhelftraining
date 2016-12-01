@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2011394,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1795313,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "22.05.1990",
-        "matrikelnummer": 2661175,
+        "geburtsdatum": "28.02.1994",
+        "matrikelnummer": 2826157,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neumeister",
-        "plzort": "53116 Bonn",
+        "nachname": "Caspari",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Zinkh\u00fcttenweg 6b",
+        "strasse": "An der Telle 40",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Konstanze",
-        "weiblich": true
+        "vorname": "Detrich",
+        "weiblich": false
     }
 }

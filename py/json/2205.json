@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2660515,
+    "nummer": 1860760,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "17.10.1993",
-        "matrikelnummer": 2964655,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "09.05.1992",
+        "matrikelnummer": 2718281,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leipold",
-        "plzort": "53217 Bonn",
+        "nachname": "Rosin",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Am G\u00e4nsefu\u00df 5",
+        "strasse": "Tauchnitzweg 14e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Silva",
-        "weiblich": true
+        "vorname": "Simon",
+        "weiblich": false
     }
 }

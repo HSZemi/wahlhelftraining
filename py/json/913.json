@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2868608,
+    "nummer": 1244206,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "20.04.1998",
-        "matrikelnummer": 11397,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "22.12.1991",
+        "matrikelnummer": 1917708,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schock",
-        "plzort": "53215 Bonn",
+        "nachname": "Knoop",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Burkersdorfer Weg 1",
+        "strasse": "Johannesstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Arts",
+                "fach": "Geschichte",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 9
             }
         ],
-        "vorname": "Ulfrida",
-        "weiblich": true
+        "vorname": "Hellfried",
+        "weiblich": false
     }
 }

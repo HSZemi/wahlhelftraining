@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2301785,
+    "nummer": 1324990,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.05.1987",
-        "matrikelnummer": 2377503,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "25.10.1992",
+        "matrikelnummer": 2026482,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Garbe",
-        "plzort": "B",
+        "nachname": "Dr\u00e4ger",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Teubnerweg 16",
+        "strasse": "Wasastra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Birke",
+        "vorname": "Janin",
         "weiblich": true
     }
 }

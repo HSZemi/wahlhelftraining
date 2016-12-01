@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1825364,
+    "nummer": 2079175,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "27.01.1999",
-        "matrikelnummer": 2174857,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "04.11.1986",
+        "matrikelnummer": 188350,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Anton",
-        "plzort": "53181 Bonn",
+        "nachname": "Brennecke",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Veilchenstra\u00dfe 6",
+        "strasse": "Pillnitzer Landstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Tibetologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Hagen",
+        "vorname": "Edelfried",
         "weiblich": false
     }
 }

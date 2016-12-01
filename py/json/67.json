@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1213834,
+    "nummer": 2654235,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "24.02.1995",
-        "matrikelnummer": 2334349,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "24.08.1990",
+        "matrikelnummer": 2426001,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Andresen",
-        "plzort": "53167 Bonn",
+        "nachname": "Schuster",
+        "plzort": "o",
         "sternchen": 0,
-        "strasse": "Risselsteinweg 5",
+        "strasse": "Gollwitzerstr. 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Christiana",
-        "weiblich": true
+        "vorname": "Arwin",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1174440,
+    "nummer": 2388193,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "12.07.1993",
-        "matrikelnummer": 181632,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "10.05.1993",
+        "matrikelnummer": 2144078,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Lehmkuhl",
-        "plzort": "53147 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hellmuth",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Drosselbartweg 4",
+        "strasse": "Oldesloer Weg 4e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 11
             }
         ],
-        "vorname": "Horst",
+        "vorname": "Herbert",
         "weiblich": false
     }
 }

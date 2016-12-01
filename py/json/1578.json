@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1965592,
+    "nummer": 1956420,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "17.06.1989",
-        "matrikelnummer": 2775199,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "05.09.1991",
+        "matrikelnummer": 2181136,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lewandowski",
-        "plzort": "53200 Bonn",
+        "nachname": "Kugler",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Schwabstra\u00dfe 8",
+        "strasse": "Hans-Otto-Weg 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Paulina",
+        "vorname": "Felizia",
         "weiblich": true
     }
 }

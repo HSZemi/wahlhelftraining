@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2922312,
+    "nummer": 1985265,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.11.1998",
-        "matrikelnummer": 13986,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "12.03.1987",
+        "matrikelnummer": 2454761,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wanke",
-        "plzort": "53185 Bonn",
+        "nachname": "Koppe",
+        "plzort": "1",
         "sternchen": 0,
-        "strasse": "Wehrhofstra\u00dfe 9",
+        "strasse": "Mommsenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Biochemistry",
+                "fsem": 8
             }
         ],
-        "vorname": "Denis",
-        "weiblich": false
+        "vorname": "Annehilde",
+        "weiblich": true
     }
 }

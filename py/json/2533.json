@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2525620,
+    "nummer": 1049044,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "23.05.1991",
-        "matrikelnummer": 2523747,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "26.01.1992",
+        "matrikelnummer": 2934792,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00fcnter",
-        "plzort": "53125 Bonn",
+        "nachname": "Assmann",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Wieckestra\u00dfe 8",
+        "strasse": "Ortenberger Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Koreanisch",
+                "fsem": 4
             }
         ],
-        "vorname": "Welf",
-        "weiblich": false
+        "vorname": "Heimgard",
+        "weiblich": true
     }
 }

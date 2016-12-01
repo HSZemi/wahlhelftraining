@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2214895,
+    "nummer": 1486741,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "21.06.1995",
-        "matrikelnummer": 2133237,
+        "geburtsdatum": "02.07.1993",
+        "matrikelnummer": 2086177,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "List",
-        "plzort": "53187 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Reim",
+        "plzort": " ",
         "sternchen": 0,
-        "strasse": "Karl-Schmidt-Weg 4",
+        "strasse": "Reifenberger Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Christhelm",
-        "weiblich": false
+        "vorname": "Jolantha",
+        "weiblich": true
     }
 }

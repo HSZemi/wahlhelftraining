@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1525986,
+    "nummer": 1264652,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.12.1997",
-        "matrikelnummer": 2328867,
+        "fakultaet": 5,
+        "geburtsdatum": "24.01.1983",
+        "matrikelnummer": 2595097,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wilhelmi",
-        "plzort": "53181 Bonn",
+        "nachname": "Wassermann",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "An der Schanze 2",
+        "strasse": "Am Wei\u00dferitzm\u00fchlgraben 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Arnolf",
-        "weiblich": false
+        "vorname": "Daria",
+        "weiblich": true
     }
 }

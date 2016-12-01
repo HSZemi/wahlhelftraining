@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2575737,
+    "nummer": 1877225,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.11.1991",
-        "matrikelnummer": 14937,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "24.09.1995",
+        "matrikelnummer": 166054,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klinger",
-        "plzort": "3",
+        "nachname": "Stolze",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfer Maien 3",
+        "strasse": "Gerberstra\u00dfe 4d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Brunhilda",
-        "weiblich": true
+        "vorname": "Willibald",
+        "weiblich": false
     }
 }

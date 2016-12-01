@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2335955,
+    "nummer": 1724097,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.11.1994",
-        "matrikelnummer": 2584254,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 0,
+        "geburtsdatum": "13.10.1991",
+        "matrikelnummer": 2481939,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bernhardt",
-        "plzort": "53129 Bonn",
+        "nachname": "Weitzel",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Leichter-Weg 5",
+        "strasse": "Waldsassener Str. 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 4
             }
         ],
-        "vorname": "Gisela",
-        "weiblich": true
+        "vorname": "Eckhart",
+        "weiblich": false
     }
 }

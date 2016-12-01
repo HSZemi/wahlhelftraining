@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1614659,
+    "nummer": 1806470,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.10.1991",
-        "matrikelnummer": 2592720,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "04.11.1991",
+        "matrikelnummer": 2288739,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steininger",
-        "plzort": "53113 Bonn",
+        "nachname": "Lehmkuhl",
+        "plzort": "n",
         "sternchen": 0,
-        "strasse": "Elsa-Br\u00e4ndstr\u00f6m-Str. 3",
+        "strasse": "August-Wagner-Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
             }
         ],
-        "vorname": "Anna-Luise",
-        "weiblich": true
+        "vorname": "Curt",
+        "weiblich": false
     }
 }

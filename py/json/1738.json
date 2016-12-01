@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1061071,
+    "nummer": 1946637,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.05.1999",
-        "matrikelnummer": 2238470,
+        "fakultaet": 1,
+        "geburtsdatum": "08.07.1986",
+        "matrikelnummer": 132907,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Biedermann",
-        "plzort": "53157 Bonn",
+        "nachname": "Sch\u00f6nborn",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Wandalenweg 4",
+        "strasse": "Am Steinbr\u00fcckel 30",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Computational Life Sciences",
+                "fsem": 9
             }
         ],
-        "vorname": "Reino",
-        "weiblich": false
+        "vorname": "Ottilie",
+        "weiblich": true
     }
 }

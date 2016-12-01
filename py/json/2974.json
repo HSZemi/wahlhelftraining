@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1812392,
-    "semester": "Sommersemester 2016",
+    "nummer": 1793934,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.10.1992",
-        "matrikelnummer": 2653238,
+        "fakultaet": 7,
+        "geburtsdatum": "01.10.1991",
+        "matrikelnummer": 2723150,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Dr\u00e4ger",
-        "plzort": "53112 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gro\u00dfe",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00e4hnitzer M\u00fchlweg 2",
+        "strasse": "K\u00e4lberweideweg 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 8
             }
         ],
-        "vorname": "Magdalene",
-        "weiblich": true
+        "vorname": "Chris",
+        "weiblich": false
     }
 }

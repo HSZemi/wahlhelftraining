@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2629437,
+    "nummer": 1582226,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.03.1995",
-        "matrikelnummer": 2313481,
+        "fakultaet": 8,
+        "geburtsdatum": "03.04.1995",
+        "matrikelnummer": 2133801,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Richter",
-        "plzort": "53218 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Debus",
+        "plzort": "B",
         "sternchen": 0,
-        "strasse": "Nau\u00dflitzer Stra\u00dfe 9",
+        "strasse": "Pirnaischer Platz 7e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Magdalene",
+        "vorname": "Imke",
         "weiblich": true
     }
 }

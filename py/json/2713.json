@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1782969,
+    "nummer": 1830711,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.10.1992",
-        "matrikelnummer": 2755808,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "15.11.1996",
+        "matrikelnummer": 2462505,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hommel",
-        "plzort": "n",
+        "nachname": "Stiefel",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Salzmannstra\u00dfe 0",
+        "strasse": "Dakarweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Waldburga",
+        "vorname": "Lisbeth",
         "weiblich": true
     }
 }

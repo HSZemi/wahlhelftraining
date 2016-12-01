@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2912300,
-    "semester": "Sommersemester 2016",
+    "nummer": 1668706,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "20.07.1998",
-        "matrikelnummer": 2356525,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "02.01.1992",
+        "matrikelnummer": 2168121,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmoll",
-        "plzort": "53218 Bonn",
+        "nachname": "Hartwich",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Herbststra\u00dfe 5",
+        "strasse": "Zweite Diagonalbr\u00fccke 43",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Erni",
-        "weiblich": false
+        "vorname": "Ilsetraud",
+        "weiblich": true
     }
 }

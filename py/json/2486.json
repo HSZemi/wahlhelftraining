@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2846611,
+    "nummer": 2339559,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "28.07.1992",
-        "matrikelnummer": 184989,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "09.12.1993",
+        "matrikelnummer": 2206102,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ganser",
-        "plzort": "53197 Bonn",
+        "nachname": "Gr\u00f6ne",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Brunnenweg 24",
+        "strasse": "Beim Kloster Dohren 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Computer Science",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Konrad",
+        "vorname": "Agilmar",
         "weiblich": false
     }
 }

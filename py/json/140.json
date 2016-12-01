@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1829193,
+    "nummer": 1452017,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "07.12.1997",
-        "matrikelnummer": 2266219,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "08.02.1993",
+        "matrikelnummer": 2386388,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kreis",
-        "plzort": "53151 Bonn",
+        "nachname": "Schlicht",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Kaspar-Zeu\u00df-Weg 3",
+        "strasse": "Am Hirtenacker 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Hedwig",
+        "vorname": "Philine",
         "weiblich": true
     }
 }

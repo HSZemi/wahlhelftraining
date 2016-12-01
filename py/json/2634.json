@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2366639,
+    "nummer": 2395726,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "18.06.1992",
-        "matrikelnummer": 2423844,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "19.06.1992",
+        "matrikelnummer": 12216,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fritzsche",
-        "plzort": "53202 Bonn",
+        "nachname": "Bluhm",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Am Kn\u00f6cklein 20",
+        "strasse": "Am Steingrab 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Gerlind",
-        "weiblich": true
+        "vorname": "Arnim",
+        "weiblich": false
     }
 }

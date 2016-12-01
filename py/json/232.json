@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1264798,
+    "nummer": 2296470,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.07.1995",
-        "matrikelnummer": 1903449,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6rlich",
-        "plzort": "53181 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "25.07.1999",
+        "matrikelnummer": 2815915,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Grossmann",
+        "plzort": "5",
         "sternchen": 0,
-        "strasse": "Pfarrstra\u00dfe 10b",
+        "strasse": "Roseggerstra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
             }
         ],
-        "vorname": "Bringfriede",
+        "vorname": "Petra",
         "weiblich": true
     }
 }

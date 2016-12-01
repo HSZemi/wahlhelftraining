@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2134137,
+    "nummer": 2015679,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "18.03.1991",
-        "matrikelnummer": 1959132,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "21.06.1999",
+        "matrikelnummer": 2652731,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Flohr",
-        "plzort": "53211 Bonn",
+        "nachname": "Schmitz",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Gerlachweg 5",
+        "strasse": "Hadrianstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Gangolf",
-        "weiblich": false
+        "vorname": "Valentine",
+        "weiblich": true
     }
 }

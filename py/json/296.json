@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1079391,
+    "nummer": 1551610,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.02.1999",
-        "matrikelnummer": 119875,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 5,
+        "geburtsdatum": "21.11.1999",
+        "matrikelnummer": 19340,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lemmer",
-        "plzort": "53203 Bonn",
+        "nachname": "B\u00f6ker",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Knappsdorfer Stra\u00dfe 23",
+        "strasse": "Ritterstra\u00dfe 12d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Leopoldina",
-        "weiblich": true
+        "vorname": "Sieghard",
+        "weiblich": false
     }
 }

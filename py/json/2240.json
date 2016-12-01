@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1310850,
+    "nummer": 1161473,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.09.1993",
-        "matrikelnummer": 2033742,
+        "fakultaet": 8,
+        "geburtsdatum": "24.06.1991",
+        "matrikelnummer": 2627174,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hillmann",
-        "plzort": "53164 Bonn",
+        "nachname": "Kampe",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Richard-Strauss-Platz 3",
+        "strasse": "Adam-Senger-Str. 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Disaster",
-                "fach": "Katastrophenmanagement",
-                "fsem": 0
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Berngard",
+        "vorname": "Waltrudis",
         "weiblich": true
     }
 }
