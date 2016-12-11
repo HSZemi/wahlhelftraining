@@ -93,7 +93,7 @@ def randmatnr():
 	if selector > 7:
 		return random.randint(111111,199999)
 	
-	return random.randint(1900000,2999999)
+	return random.randint(1900000,3199999)
 
 def randgebdat():
 	d = random.randint(1,28)
@@ -136,7 +136,7 @@ vornamen_weiblich = []
 vornamen_nicht_weiblich = []
 nachnamen = []
 strassennamen = []
-plzort = []
+plzorte = []
 faecher = {}
 
 twobools = {'a':{'sp':False,'gremien':False},'b':{'sp':True,'gremien':True},'c':{'sp':True,'gremien':False},'d':{'sp':False,'gremien':True}}
@@ -154,7 +154,7 @@ with open('../data/nachnamen.txt', "r") as f:
 		nachnamen.append(line.strip())
 with open('../data/plz-ort.txt', "r") as f:
 	for line in f:
-		plzort.append(line.strip())
+		plzorte.append(line.strip())
 with open('../data/strassen.txt', "r") as f:
 	for line in f:
 		strassennamen.append(line.strip())
@@ -169,7 +169,7 @@ with open("../data/faecher.json", "r") as f:
 
 negativliste = []
 
-for i in range(3000):
+for i in range(10000):
 	r_weiblich = (random.random() < 0.5)
 	r_wohnort = (random.random() < 0.25)
 	r_hausnummerbuchstabe = (random.random() < 0.1)
@@ -177,21 +177,27 @@ for i in range(3000):
 	r_ausweistyp = random.random()
 	mitglied_studierendenschaft = True
 	ausweistyp = ""
-	if(r_ausweistyp < 0.1):
+	if(r_ausweistyp < 0.05):
 		ausweistyp = "weiterbildung"
 		mitglied_studierendenschaft = (random.random() < 0.2)
-	elif(r_ausweistyp < 0.2):
+	elif(r_ausweistyp < 0.15):
 		ausweistyp = "zweithoerer"
 	else:
 		ausweistyp = "regulaer"
 		
 	vorname = random.choice(vornamen_weiblich) if r_weiblich else random.choice(vornamen_nicht_weiblich)
 	nachname = random.choice(nachnamen)
+	
+	if(i < 50):
+		if not r_weiblich:
+			vorname = "Marcel"
+		nachname = "Heinen"
+	
 	geburtsdatum = randgebdat()
 	strasse = random.choice(strassennamen)
 	hausnummer = int(random.expovariate(0.1))
 	zusatz_hausnummer = random.choice(('a','b','c','d','e')) if r_hausnummerbuchstabe else ''
-	plzort = random.choice(plzort) if r_wohnort else "{} Bonn".format(random.randint(53111,53229))
+	plzort = random.choice(plzorte) if r_wohnort else "{} Bonn".format(random.randint(53111,53229))
 	beurlaubt = (random.random() < 0.1)
 	
 	matrikelnummer = randmatnr()
@@ -206,6 +212,7 @@ for i in range(3000):
 	
 	loch = twobools[randomvalue(loecher)]
 	
+	print(plzort)
 	
 	studi = Stud(vorname, nachname, geburtsdatum, "{} {}{}".format(strasse,hausnummer,zusatz_hausnummer), plzort, weiblich, matrikelnummer, sfaecher, 0, fakultaet, mehrfachausfertigung, beurlaubt, ausweistyp, mitglied_studierendenschaft)
 	
@@ -219,7 +226,7 @@ for i in range(3000):
 		if(ausweistyp != "zweithoerer"):
 			negativliste.append((studi, bw))
 	
-	print(ausweis)
+	#print(ausweis)
 	
 	with open("json/{}.json".format(i), "w") as f:
 		print(ausweis.toJSON(), file=f)
@@ -244,9 +251,8 @@ for entry in sorted(negativliste, key=lambda x: "{}{}{}".format(x[0].nachname, x
 			bw = "Briefwahl SP"
 			wbsp = "Nein"
 		elif(entry[1]['gremien']):
-			bw = "Briefwahl Gremien"
+			bw = "Briefwahl G"
 			wbgs = "Nein"
-			wbgf = "Nein"
 		
 		if(entry[0].ausweistyp == "weiterbildung" and not entry[0].weiblich):
 			wbggb = "Nein"
@@ -256,7 +262,6 @@ for entry in sorted(negativliste, key=lambda x: "{}{}{}".format(x[0].nachname, x
 		if(entry[0].beurlaubt):
 			if (random.random() < 0.5):
 				wbgs = "Nein"
-				wbgf = "Nein"
 				wbsp = "Nein"
 		
 		negativliste_s.append([i, entry[0].matrikelnummer, entry[0].nachname, entry[0].vorname, wbgs, wbgf, wbggb, wbsp, ma, bw])

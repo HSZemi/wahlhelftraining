@@ -683,8 +683,8 @@
 				p4 = negativliste[i];
 				i++;
 			}
-			if(p1[2] == data['stud']['nachname']){
-				while( i < negativliste.length && p2[3] < data['stud']['vorname']){
+			if(p2[2] == data['stud']['nachname']){
+				while( i < negativliste.length && p2[2] == data['stud']['nachname'] && p2[3] < data['stud']['vorname']){
 					p0 = p1;
 					p1 = p2;
 					p2 = p3;
@@ -692,8 +692,8 @@
 					p4 = negativliste[i];
 					i++;
 				}
-				if(p1[3] == data['stud']['vorname']){
-					while( i < negativliste.length && p2[1] < data['stud']['matrikelnummer']){
+				if(p2[3] == data['stud']['vorname']){
+					while( i < negativliste.length && p2[2] == data['stud']['nachname'] && p2[3] == data['stud']['vorname'] && p2[1] < data['stud']['matrikelnummer']){
 						p0 = p1;
 						p1 = p2;
 						p2 = p3;
