@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2662515,
+    "nummer": 1260697,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.08.1992",
-        "matrikelnummer": 2860028,
+        "fakultaet": 8,
+        "geburtsdatum": "22.11.1987",
+        "matrikelnummer": 2014097,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmieder",
-        "plzort": "53141 Bonn",
+        "nachname": "Aydin",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Jakob-Weinheimer-Stra\u00dfe 2a",
+        "strasse": "Ginsterstieg 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Osteurop\u00e4ische Geschichte",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 2
             }
         ],
-        "vorname": "Annehilde",
-        "weiblich": true
+        "vorname": "Dankmar",
+        "weiblich": false
     }
 }

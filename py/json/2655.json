@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1074764,
+    "nummer": 2476658,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.01.1992",
-        "matrikelnummer": 2259721,
+        "fakultaet": 3,
+        "geburtsdatum": "09.09.1991",
+        "matrikelnummer": 2038773,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcper",
-        "plzort": "53135 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Fenske",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Warschauer Stra\u00dfe 25",
+        "strasse": "Stourdzastra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 10
             }
         ],
-        "vorname": "Wilhelma",
+        "vorname": "Philomena",
         "weiblich": true
     }
 }

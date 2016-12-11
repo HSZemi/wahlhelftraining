@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2831308,
+    "nummer": 2965614,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "28.03.1991",
-        "matrikelnummer": 2477218,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "17.02.1989",
+        "matrikelnummer": 1976284,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6diger",
-        "plzort": "53196 Bonn",
+        "nachname": "Z\u00f6ller",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Zschertnitzer Stra\u00dfe 4",
+        "strasse": "Zweite Amsinckbr\u00fccke 40",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 9
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Gottholde",
+        "vorname": "Leokadia",
         "weiblich": true
     }
 }

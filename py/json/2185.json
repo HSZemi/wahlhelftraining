@@ -1,36 +1,31 @@
 {
     "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1369799,
+    "nummer": 2848884,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "21.11.1994",
-        "matrikelnummer": 2006343,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "21.11.1991",
+        "matrikelnummer": 2072319,
         "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6llner",
-        "plzort": "53161 Bonn",
+        "nachname": "Kaluza",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Denickeweg 14",
+        "strasse": "Schilfweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 1
             }
         ],
-        "vorname": "Kristina",
-        "weiblich": true
+        "vorname": "Isbert",
+        "weiblich": false
     }
 }

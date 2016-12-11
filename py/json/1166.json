@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2828271,
+    "nummer": 2742250,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.11.1989",
-        "matrikelnummer": 2935920,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "26.10.1996",
+        "matrikelnummer": 2848385,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ehlert",
-        "plzort": "53142 Bonn",
+        "nachname": "Haubold",
+        "plzort": "55450 Langenlonsheim",
         "sternchen": 0,
-        "strasse": "Gerauer Stra\u00dfe 19",
+        "strasse": "Landgrafenstra\u00dfe 28",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 7
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 3
+                "fach": "Geowissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Magda",
-        "weiblich": true
+        "vorname": "Gernfried",
+        "weiblich": false
     }
 }

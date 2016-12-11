@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1908495,
+    "nummer": 2715504,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "19.08.1994",
-        "matrikelnummer": 2706992,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "24.03.1992",
+        "matrikelnummer": 2392310,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fritzsch",
-        "plzort": "53124 Bonn",
+        "nachname": "Schwaiger",
+        "plzort": "37327 Leinefelde",
         "sternchen": 0,
-        "strasse": "Dieselstra\u00dfe 14",
+        "strasse": "Im S\u00fccklein 31",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Wolfhilde",
-        "weiblich": true
+        "vorname": "Friedewald",
+        "weiblich": false
     }
 }

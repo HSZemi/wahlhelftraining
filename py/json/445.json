@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2169873,
+    "nummer": 1702248,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 9,
-        "geburtsdatum": "18.10.1992",
-        "matrikelnummer": 2614030,
+        "geburtsdatum": "21.02.1999",
+        "matrikelnummer": 2915929,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Reimers",
-        "plzort": "B",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zeller",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Rappstra\u00dfe 17",
+        "strasse": "Timmermannstra\u00dfe 12",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
+                "fach": "Life Science Informatics",
+                "fsem": 7
             }
         ],
-        "vorname": "Vinzent",
-        "weiblich": false
+        "vorname": "Martina",
+        "weiblich": true
     }
 }

@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2850600,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "03.05.1994",
+        "matrikelnummer": 3056863,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Clemens",
+        "plzort": "53138 Bonn",
+        "sternchen": 0,
+        "strasse": "Am Zaukenfeld 11",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Sprachliche Kommunikation",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Tibetologie",
+                "fsem": 5
+            }
+        ],
+        "vorname": "Maria",
+        "weiblich": true
+    }
+}

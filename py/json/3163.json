@@ -1,0 +1,31 @@
+{
+    "ausfertigung": 3,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1000027,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "20.01.1999",
+        "matrikelnummer": 1972015,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Conrad",
+        "plzort": "53138 Bonn",
+        "sternchen": 0,
+        "strasse": "An den Teichwiesen 0",
+        "studienfaecher": [
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 13
+            }
+        ],
+        "vorname": "Wulf",
+        "weiblich": false
+    }
+}

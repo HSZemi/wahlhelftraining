@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2849713,
+    "nummer": 1202688,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.02.1987",
-        "matrikelnummer": 2749003,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "10.04.1994",
+        "matrikelnummer": 2157124,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wacker",
-        "plzort": "53168 Bonn",
+        "nachname": "Tietjen",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Bruckertshof 8",
+        "strasse": "Billufer 32",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "fach": "Neurosciences",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Romanistik/Italienische Philologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Gila",
-        "weiblich": true
+        "vorname": "Helmward",
+        "weiblich": false
     }
 }

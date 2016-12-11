@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2278659,
+    "nummer": 2898392,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.09.1985",
-        "matrikelnummer": 2509840,
+        "fakultaet": 8,
+        "geburtsdatum": "09.11.1993",
+        "matrikelnummer": 3183822,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rohloff",
-        "plzort": "3",
+        "nachname": "Kalisch",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Erhard-Dressel-Bogen 24",
+        "strasse": "K\u00fcchelstr. 47",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 1
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 13
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Kora",
-        "weiblich": true
+        "vorname": "Diethardt",
+        "weiblich": false
     }
 }

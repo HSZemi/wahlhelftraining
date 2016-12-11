@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2805954,
+    "nummer": 1910034,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.01.1991",
-        "matrikelnummer": 2365084,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Borchardt",
-        "plzort": "53214 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "28.09.1985",
+        "matrikelnummer": 2790674,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinen",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Joachim-Biermann-Stra\u00dfe 1",
+        "strasse": "Obeliskgasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Leonie",
+        "vorname": "Edelinde",
         "weiblich": true
     }
 }

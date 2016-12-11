@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1253813,
+    "nummer": 2167680,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "09.03.1992",
-        "matrikelnummer": 2237095,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "28.12.1999",
+        "matrikelnummer": 2084548,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kr\u00f6ber",
-        "plzort": "53168 Bonn",
+        "nachname": "Nowack",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Grundweg 4",
+        "strasse": "Ma\u00dfbornstra\u00dfe 5",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 9
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 11
             }
         ],
-        "vorname": "Romi",
-        "weiblich": true
+        "vorname": "Benjamin",
+        "weiblich": false
     }
 }

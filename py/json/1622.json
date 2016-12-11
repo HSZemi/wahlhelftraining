@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1399703,
+    "nummer": 2116812,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.09.1996",
-        "matrikelnummer": 2334604,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "01.06.1999",
+        "matrikelnummer": 2990118,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Freese",
-        "plzort": "53181 Bonn",
+        "nachname": "Weihrauch",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Walter-Peters-Stra\u00dfe 5",
+        "strasse": "Residenzstr. 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Altamerikanistik und Ethnologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Malte",
-        "weiblich": false
+        "vorname": "Gina",
+        "weiblich": true
     }
 }

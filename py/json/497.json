@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1323878,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 1062353,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.11.1991",
-        "matrikelnummer": 2094172,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "28.02.1995",
+        "matrikelnummer": 3096456,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Busche",
-        "plzort": "6",
+        "nachname": "Scheuermann",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Am Promigberg 3",
+        "strasse": "Am M\u00fchlenbach 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 4
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Allgemeine Sprachwissenschaft",
+                "fsem": 13
             }
         ],
-        "vorname": "Isgard",
+        "vorname": "Elisa",
         "weiblich": true
     }
 }

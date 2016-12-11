@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2687678,
+    "nummer": 2048429,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "18.09.1998",
-        "matrikelnummer": 2053399,
+        "geburtsdatum": "20.07.1987",
+        "matrikelnummer": 18579,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Clasen",
-        "plzort": "53164 Bonn",
+        "nachname": "Scherf",
+        "plzort": "46535 Dinslaken",
         "sternchen": 0,
-        "strasse": "Dreist\u00fccken 8",
+        "strasse": "Alfred-Schmieder-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 12
             }
         ],
-        "vorname": "Olav",
-        "weiblich": true
+        "vorname": "Friedolin",
+        "weiblich": false
     }
 }

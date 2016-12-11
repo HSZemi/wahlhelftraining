@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1276469,
+    "nummer": 1356466,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.04.1987",
-        "matrikelnummer": 2604044,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "09.09.1992",
+        "matrikelnummer": 2159743,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6hr",
-        "plzort": "3",
+        "nachname": "Schuck",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Barchfeldstra\u00dfe 5",
+        "strasse": "Carolinenstra\u00dfe 7e",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 5
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Neurowissenschaften",
-                "fsem": 9
+                "fach": "Physik",
+                "fsem": 10
             }
         ],
-        "vorname": "Herko",
+        "vorname": "Raik",
         "weiblich": false
     }
 }

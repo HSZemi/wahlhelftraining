@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1384194,
+    "nummer": 1651252,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.11.1990",
-        "matrikelnummer": 2572926,
+        "fakultaet": 0,
+        "geburtsdatum": "23.07.1992",
+        "matrikelnummer": 2533056,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00fcning",
-        "plzort": "3",
+        "nachname": "Schuch",
+        "plzort": "06682 Gr\u00f6ben",
         "sternchen": 0,
-        "strasse": "Trachauer Stra\u00dfe 8",
+        "strasse": "Zum Heidberg 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
                 "fsem": 3
             }
         ],
-        "vorname": "Hannmeike",
+        "vorname": "Nortrud",
         "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1928916,
+    "nummer": 1265253,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.09.1993",
-        "matrikelnummer": 1988006,
+        "fakultaet": 8,
+        "geburtsdatum": "15.02.1994",
+        "matrikelnummer": 2481020,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gruhn",
-        "plzort": "53189 Bonn",
+        "nachname": "Dreier",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Wahnsdorfer Stra\u00dfe 2",
+        "strasse": "Eulerstra\u00dfe 36",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 3
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Dirk",
-        "weiblich": false
+        "vorname": "Annamaria",
+        "weiblich": true
     }
 }

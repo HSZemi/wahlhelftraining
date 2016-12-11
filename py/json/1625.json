@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1668706,
+    "nummer": 2590185,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "02.01.1992",
-        "matrikelnummer": 2168121,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "06.07.1996",
+        "matrikelnummer": 11574,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hartwich",
-        "plzort": "53154 Bonn",
+        "nachname": "Posselt",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Zweite Diagonalbr\u00fccke 43",
+        "strasse": "Am Steinborn 5",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 11
+                "fsem": 6
             }
         ],
-        "vorname": "Ilsetraud",
-        "weiblich": true
+        "vorname": "Karlheinrich",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1471783,
+    "nummer": 1196490,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "19.11.1990",
-        "matrikelnummer": 16839,
+        "fakultaet": 9,
+        "geburtsdatum": "02.09.1990",
+        "matrikelnummer": 2775204,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Breuer",
-        "plzort": "53134 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Otto-Ernst-Weg 0",
+        "strasse": "Culinstra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
                 "fsem": 4
             }
         ],
-        "vorname": "Margit",
+        "vorname": "Magret",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2408492,
+    "nummer": 1167969,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "04.01.1989",
-        "matrikelnummer": 2788886,
+        "fakultaet": 2,
+        "geburtsdatum": "19.01.1987",
+        "matrikelnummer": 11631,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "D\u00fcrr",
-        "plzort": "53165 Bonn",
+        "nachname": "Schaller",
+        "plzort": "17139 Basedow",
         "sternchen": 0,
-        "strasse": "Xaver-Fendt-Stra\u00dfe 10",
+        "strasse": "Paul-Schwarze-Stra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 11
             }
         ],
-        "vorname": "Lienard",
-        "weiblich": false
+        "vorname": "Hannemarie",
+        "weiblich": true
     }
 }

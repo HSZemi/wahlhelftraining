@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1543666,
+    "nummer": 1208788,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.11.1990",
-        "matrikelnummer": 2301668,
+        "fakultaet": 1,
+        "geburtsdatum": "05.03.1982",
+        "matrikelnummer": 2989825,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hilger",
-        "plzort": "53166 Bonn",
+        "nachname": "Stein",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Obstmarkt 2",
+        "strasse": "Anton-Schl\u00fcter-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
                 "fsem": 10
             }
         ],
-        "vorname": "Benedikta",
-        "weiblich": true
+        "vorname": "Herwarth",
+        "weiblich": false
     }
 }

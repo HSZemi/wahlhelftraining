@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2825169,
+    "nummer": 2376816,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.01.1990",
-        "matrikelnummer": 2628461,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 4,
+        "geburtsdatum": "17.01.1992",
+        "matrikelnummer": 3194370,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jehle",
-        "plzort": "53193 Bonn",
+        "nachname": "Krell",
+        "plzort": "92551 Stulln",
         "sternchen": 0,
-        "strasse": "Hennigsweg 5",
+        "strasse": "H\u00f6lderlinstra\u00dfe 45",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 8
             }
         ],
-        "vorname": "Tassilo",
-        "weiblich": false
+        "vorname": "Delia",
+        "weiblich": true
     }
 }

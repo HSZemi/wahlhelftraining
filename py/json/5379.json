@@ -1,0 +1,41 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2312396,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "27.10.1995",
+        "matrikelnummer": 2176779,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kleinhans",
+        "plzort": "53127 Bonn",
+        "sternchen": 0,
+        "strasse": "Keppgrund 0",
+        "studienfaecher": [
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
+            }
+        ],
+        "vorname": "Notburg",
+        "weiblich": true
+    }
+}

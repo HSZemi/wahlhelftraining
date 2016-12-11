@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2679749,
+    "nummer": 2659675,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "16.01.1989",
-        "matrikelnummer": 2332191,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "20.08.1996",
+        "matrikelnummer": 2073574,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pelzer",
-        "plzort": "53214 Bonn",
+        "nachname": "Wei\u00dfbach",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00fcbnerstra\u00dfe 0",
+        "strasse": "Am Maisfeld 0e",
         "studienfaecher": [
             {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Anglistik/Englische Sprache u. mittelalterliche",
-                "fsem": 4
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Sturmhard",
+        "vorname": "Klemens",
         "weiblich": false
     }
 }

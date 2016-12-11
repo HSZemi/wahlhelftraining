@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2543805,
+    "nummer": 1129347,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "09.01.1994",
-        "matrikelnummer": 17661,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "21.06.1991",
+        "matrikelnummer": 2495264,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hohmann",
-        "plzort": "53114 Bonn",
+        "nachname": "Vaupel",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00fctzenstra\u00dfe 11",
+        "strasse": "Hanns-Rothbarth-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 6
             }
         ],
-        "vorname": "Fritzi",
-        "weiblich": true
+        "vorname": "Ehrmut",
+        "weiblich": false
     }
 }

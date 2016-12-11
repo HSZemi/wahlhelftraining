@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1191043,
+    "nummer": 1380710,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 0,
-        "geburtsdatum": "21.04.1990",
-        "matrikelnummer": 2882342,
+        "geburtsdatum": "04.04.1988",
+        "matrikelnummer": 2168716,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bohne",
-        "plzort": "53129 Bonn",
+        "nachname": "Heidemann",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Spitzhausstra\u00dfe 5",
+        "strasse": "An der Oberm\u00fchle 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
                 "fsem": 4
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 3
             }
         ],
-        "vorname": "Margolf",
+        "vorname": "Gerrit",
         "weiblich": false
     }
 }

@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2196258,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "21.09.1999",
+        "matrikelnummer": 1924898,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rudolph",
+        "plzort": "53187 Bonn",
+        "sternchen": 0,
+        "strasse": "Hamelausweg 12",
+        "studienfaecher": [
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
+            }
+        ],
+        "vorname": "Franzi",
+        "weiblich": true
+    }
+}

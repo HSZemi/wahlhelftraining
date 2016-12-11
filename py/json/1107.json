@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1219600,
+    "nummer": 1022982,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.05.1993",
-        "matrikelnummer": 1902227,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "27.09.1999",
+        "matrikelnummer": 169749,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fcmann",
-        "plzort": "53221 Bonn",
+        "nachname": "Mehner",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Speyerer Stra\u00dfe 1",
+        "strasse": "Siebenb\u00fcrgenstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 13
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Berno",
-        "weiblich": false
+        "vorname": "Raisa",
+        "weiblich": true
     }
 }

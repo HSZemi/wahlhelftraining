@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1956420,
+    "nummer": 1158553,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "05.09.1991",
-        "matrikelnummer": 2181136,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "27.11.1994",
+        "matrikelnummer": 2467052,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kugler",
-        "plzort": "n",
+        "nachname": "Hopp",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-Otto-Weg 7",
+        "strasse": "Hebelstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Geographie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Felizia",
+        "vorname": "Siegrid",
         "weiblich": true
     }
 }

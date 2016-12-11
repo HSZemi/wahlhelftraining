@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2604494,
+    "nummer": 2523957,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.09.1990",
-        "matrikelnummer": 2915940,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "22.03.1993",
+        "matrikelnummer": 12920,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weyer",
-        "plzort": "2",
+        "nachname": "K\u00fcper",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Heugasse 13",
+        "strasse": "Ing. Julius Raab-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 3
             }
         ],
-        "vorname": "Heike",
+        "vorname": "Edelburg",
         "weiblich": true
     }
 }

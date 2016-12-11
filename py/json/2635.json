@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1781161,
+    "nummer": 2381859,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "23.10.1999",
-        "matrikelnummer": 2528348,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "05.12.1987",
+        "matrikelnummer": 111735,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiedenmann",
-        "plzort": "53149 Bonn",
+        "nachname": "Buhr",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Platz der Republik 9",
+        "strasse": "St\u00e4ndlerstr. 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Anglistik/Englische Sprache u. mittelalterliche",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Claudius",
+        "vorname": "Arist",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2595732,
+    "nummer": 2249489,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "11.03.1998",
-        "matrikelnummer": 2011181,
+        "fakultaet": 0,
+        "geburtsdatum": "07.05.1998",
+        "matrikelnummer": 2835500,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauser",
-        "plzort": "53157 Bonn",
+        "nachname": "K\u00fcck",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Lenaugasse 27",
+        "strasse": "Erlenseer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Justina",
-        "weiblich": true
+        "vorname": "Albin",
+        "weiblich": false
     }
 }

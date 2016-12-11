@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2967998,
+    "nummer": 1103396,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.04.1994",
-        "matrikelnummer": 120246,
+        "fakultaet": 9,
+        "geburtsdatum": "19.05.1998",
+        "matrikelnummer": 3009061,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaya",
-        "plzort": "53190 Bonn",
+        "nachname": "Reetz",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Westende 1",
+        "strasse": "Grenzallee 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
             }
         ],
-        "vorname": "Elfi",
-        "weiblich": true
+        "vorname": "Frohwald",
+        "weiblich": false
     }
 }

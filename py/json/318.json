@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2035910,
+    "nummer": 1309936,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "28.07.1996",
-        "matrikelnummer": 2135018,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "28.05.1990",
+        "matrikelnummer": 2914031,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ortner",
-        "plzort": "53200 Bonn",
+        "nachname": "Knopf",
+        "plzort": "16278 Pinnow",
         "sternchen": 0,
-        "strasse": "Mor\u00e4nenende 3c",
+        "strasse": "Betzdorfer Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Biologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Veith",
-        "weiblich": false
+        "vorname": "Sofia",
+        "weiblich": true
     }
 }

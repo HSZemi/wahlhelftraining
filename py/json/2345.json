@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2333220,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2401805,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "14.12.1988",
-        "matrikelnummer": 12137,
+        "fakultaet": 6,
+        "geburtsdatum": "24.08.1995",
+        "matrikelnummer": 2316711,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Fischbach",
-        "plzort": "1",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Philipp",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Kottmeierstra\u00dfe 0",
+        "strasse": "Markusstr. 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Nutzpflanzenwissenschaften",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Friedlind",
+        "vorname": "Roseline",
         "weiblich": true
     }
 }

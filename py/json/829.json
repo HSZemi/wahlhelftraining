@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2187274,
+    "nummer": 1125048,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.01.1986",
-        "matrikelnummer": 2912791,
+        "fakultaet": 6,
+        "geburtsdatum": "02.04.1995",
+        "matrikelnummer": 141393,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kindler",
-        "plzort": "53213 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Loose",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Johann-Georg-Elser-Stra\u00dfe 12",
+        "strasse": "Peter-B\u00f6hler-Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 7
             }
         ],
-        "vorname": "Gundolf",
-        "weiblich": false
+        "vorname": "Irmlinde",
+        "weiblich": true
     }
 }

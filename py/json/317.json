@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2750449,
+    "nummer": 2679754,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "08.04.1985",
-        "matrikelnummer": 155583,
+        "geburtsdatum": "13.09.1993",
+        "matrikelnummer": 2369729,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "J\u00fcngling",
-        "plzort": "53136 Bonn",
+        "nachname": "Funke",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Merkenstra\u00dfe 4",
+        "strasse": "Schwarzenbacher Str. 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Hardy",
+        "vorname": "Eckehard",
         "weiblich": false
     }
 }

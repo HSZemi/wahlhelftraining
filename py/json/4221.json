@@ -1,0 +1,41 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": true,
+        "sp": true
+    },
+    "nummer": 2881123,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "20.07.1992",
+        "matrikelnummer": 13904,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Grebe",
+        "plzort": "08144 Hirschfeld",
+        "sternchen": 0,
+        "strasse": "Ossietzkystra\u00dfe 14b",
+        "studienfaecher": [
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
+            }
+        ],
+        "vorname": "Sonia",
+        "weiblich": true
+    }
+}

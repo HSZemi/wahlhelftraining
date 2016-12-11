@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1388558,
+    "nummer": 1946518,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.09.1996",
-        "matrikelnummer": 2129247,
+        "fakultaet": 2,
+        "geburtsdatum": "01.04.1997",
+        "matrikelnummer": 2481046,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Beckert",
-        "plzort": "53229 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zobel",
+        "plzort": "04928 Schraden",
         "sternchen": 0,
-        "strasse": "G\u00fcterbahnhofstra\u00dfe 3",
+        "strasse": "Peter-Fischer-Allee 12b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 10
             }
         ],
-        "vorname": "Dennis",
-        "weiblich": false
+        "vorname": "Barbi",
+        "weiblich": true
     }
 }

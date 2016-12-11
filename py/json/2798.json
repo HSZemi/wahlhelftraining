@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1811840,
+    "nummer": 1130474,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.02.1993",
-        "matrikelnummer": 2426286,
+        "fakultaet": 4,
+        "geburtsdatum": "02.02.1998",
+        "matrikelnummer": 2434205,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schaffer",
-        "plzort": "53226 Bonn",
+        "nachname": "Uhlig",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Landsberger Stra\u00dfe 2",
+        "strasse": "Von-Reider-Str. 12",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
             }
         ],
-        "vorname": "Sigmar",
-        "weiblich": false
+        "vorname": "Nermin",
+        "weiblich": true
     }
 }

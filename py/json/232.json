@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2296470,
+    "nummer": 2915001,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "25.07.1999",
-        "matrikelnummer": 2815915,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Grossmann",
-        "plzort": "5",
+        "fakultaet": 3,
+        "geburtsdatum": "09.11.1989",
+        "matrikelnummer": 2957292,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Helfrich",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Roseggerstra\u00dfe 25",
+        "strasse": "Lombardsbr\u00fccke 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
             },
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             }
         ],
-        "vorname": "Petra",
-        "weiblich": true
+        "vorname": "Eckbert",
+        "weiblich": false
     }
 }

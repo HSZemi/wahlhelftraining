@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1993140,
+    "nummer": 1175633,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "23.06.1993",
-        "matrikelnummer": 117205,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "11.01.1996",
+        "matrikelnummer": 2529098,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heese",
-        "plzort": "53161 Bonn",
+        "nachname": "Demmer",
+        "plzort": "76835 Gleisweiler",
         "sternchen": 0,
-        "strasse": "Heidem\u00fchlweg 1",
+        "strasse": "Alte Moritzburger Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Urthe",
+        "vorname": "Tilli",
         "weiblich": true
     }
 }

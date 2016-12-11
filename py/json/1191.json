@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1530394,
+    "nummer": 2959058,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "05.12.1996",
-        "matrikelnummer": 2794668,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "04.09.1989",
+        "matrikelnummer": 3086778,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Poser",
-        "plzort": "3",
+        "nachname": "Fuchs",
+        "plzort": "10625 Berlin",
         "sternchen": 0,
-        "strasse": "Horner Landstra\u00dfe 11",
+        "strasse": "Karlstra\u00dfenbr\u00fccke 12",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Rainhard",
-        "weiblich": false
+        "vorname": "Jaqueline",
+        "weiblich": true
     }
 }

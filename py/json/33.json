@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2551618,
+    "nummer": 1910741,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.05.1993",
-        "matrikelnummer": 2953848,
+        "fakultaet": 1,
+        "geburtsdatum": "20.01.1993",
+        "matrikelnummer": 12144,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinhardt",
-        "plzort": "5",
+        "nachname": "Heinen",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Henry-Budge-Stra\u00dfe 3",
+        "strasse": "Zeppelinstr. 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Carmen",
+        "vorname": "Hannchen",
         "weiblich": true
     }
 }

@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2456613,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "13.05.1994",
+        "matrikelnummer": 11914,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Liebscher",
+        "plzort": "53185 Bonn",
+        "sternchen": 0,
+        "strasse": "Glindweg 6",
+        "studienfaecher": [
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Immunobiology: from molecules to integrative systems",
+                "fsem": 13
+            }
+        ],
+        "vorname": "Elsbeth",
+        "weiblich": true
+    }
+}

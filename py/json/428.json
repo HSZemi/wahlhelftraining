@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1984285,
+    "nummer": 2626335,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "24.01.1998",
-        "matrikelnummer": 2873145,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "K\u00fchnert",
-        "plzort": "53199 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "15.06.1989",
+        "matrikelnummer": 2870065,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jesse",
+        "plzort": "39264 Dobritz",
         "sternchen": 0,
-        "strasse": "Podemuser Ring 0",
+        "strasse": "Graf-de-Thoranc-Passage 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 12
             }
         ],
-        "vorname": "Theohold",
+        "vorname": "Waldemar",
         "weiblich": false
     }
 }

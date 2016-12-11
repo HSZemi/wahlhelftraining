@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2663250,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "19.04.1993",
+        "matrikelnummer": 2155489,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klee",
+        "plzort": "28207 Bremen",
+        "sternchen": 0,
+        "strasse": "Leuchte 2",
+        "studienfaecher": [
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Chemistry",
+                "fsem": 6
+            }
+        ],
+        "vorname": "Gerheide",
+        "weiblich": true
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1314011,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "15.05.1994",
+        "matrikelnummer": 149117,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ortmann",
+        "plzort": "37649 Heinsen",
+        "sternchen": 0,
+        "strasse": "Neuerbstr. 28",
+        "studienfaecher": [
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 3
+            }
+        ],
+        "vorname": "Clara",
+        "weiblich": true
+    }
+}

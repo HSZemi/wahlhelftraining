@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1337442,
-    "semester": "Sommersemester 2016",
+    "nummer": 2942462,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "01.10.1999",
-        "matrikelnummer": 2973921,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "26.05.1993",
+        "matrikelnummer": 144155,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reichmann",
-        "plzort": "53154 Bonn",
+        "nachname": "Abraham",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Bierkrugweg 10",
+        "strasse": "Hertzstr. 16",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 13
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Karlpeter",
-        "weiblich": false
+        "vorname": "Otti",
+        "weiblich": true
     }
 }

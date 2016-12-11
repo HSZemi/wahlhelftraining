@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2861009,
+    "nummer": 1207248,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.09.1991",
-        "matrikelnummer": 2218675,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "10.10.1993",
+        "matrikelnummer": 2505956,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rohleder",
-        "plzort": "53155 Bonn",
+        "nachname": "Fromme",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Darwinstra\u00dfe 1a",
+        "strasse": "August-B\u00f6ckstiegel-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 7
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Informatik",
+                "fsem": 6
             }
         ],
-        "vorname": "Christfried",
-        "weiblich": false
+        "vorname": "Lisel",
+        "weiblich": true
     }
 }

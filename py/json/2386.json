@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2187928,
+    "nummer": 1950104,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.03.1992",
-        "matrikelnummer": 2606937,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "06.05.1991",
+        "matrikelnummer": 2421674,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frech",
-        "plzort": "53140 Bonn",
+        "nachname": "P\u00f6tzsch",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Scherling-Weg 29",
+        "strasse": "Assenheimer Stra\u00dfe 33",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 8
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Trautlinde",
-        "weiblich": true
+        "vorname": "Max",
+        "weiblich": false
     }
 }

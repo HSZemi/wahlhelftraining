@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2255731,
+    "nummer": 2117231,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.05.1986",
-        "matrikelnummer": 2187236,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "05.10.1998",
+        "matrikelnummer": 2727979,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fengler",
-        "plzort": "53152 Bonn",
+        "nachname": "Dre\u00dfler",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bahndamm 2",
+        "strasse": "Zeiss-Abbe-Stra\u00dfe 34",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 9
             }
         ],
-        "vorname": "Kathrina",
+        "vorname": "Resilotte",
         "weiblich": true
     }
 }

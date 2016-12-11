@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1275850,
+    "nummer": 2745268,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.02.1989",
-        "matrikelnummer": 2008649,
+        "fakultaet": 0,
+        "geburtsdatum": "16.07.1990",
+        "matrikelnummer": 2639330,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schweizer",
-        "plzort": "53164 Bonn",
+        "nachname": "Buse",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Ittenstra\u00dfe 6",
+        "strasse": "Keltenstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Evangelische Theologie",
-                "fsem": 12
+                "fsem": 9
             }
         ],
-        "vorname": "Nikola",
-        "weiblich": true
+        "vorname": "Ingmar",
+        "weiblich": false
     }
 }

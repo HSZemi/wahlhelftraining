@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1377489,
+    "nummer": 1152411,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.06.1999",
-        "matrikelnummer": 2484711,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Novak",
-        "plzort": "53203 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "26.07.1990",
+        "matrikelnummer": 2358955,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schell",
+        "plzort": "15913 Dollgen",
         "sternchen": 0,
-        "strasse": "Bergahornweg 107",
+        "strasse": "Neuostra 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 2
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 9
             },
             {
                 "abschluss": "",
-                "fach": "Kommunikationswissenschaften",
-                "fsem": 2
+                "fach": "Evangelische Religionslehre",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Arthur",
-        "weiblich": false
+        "vorname": "Felizia",
+        "weiblich": true
     }
 }

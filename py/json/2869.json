@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2109720,
+    "nummer": 1263911,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.07.1995",
-        "matrikelnummer": 2596754,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "17.05.1999",
+        "matrikelnummer": 151618,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wolfram",
+        "nachname": "Artmann",
         "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Schlachthofstra\u00dfe 3e",
+        "strasse": "Gravenbruchring 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Renaissance-Studien",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 12
             }
         ],
-        "vorname": "Frohwald",
-        "weiblich": false
+        "vorname": "Larissa",
+        "weiblich": true
     }
 }

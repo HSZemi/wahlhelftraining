@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2535771,
+    "nummer": 1985874,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "28.02.1984",
-        "matrikelnummer": 157910,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "22.08.1995",
+        "matrikelnummer": 2274129,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wilde",
-        "plzort": "n",
+        "nachname": "Schipper",
+        "plzort": "19348 Krampfer",
         "sternchen": 0,
-        "strasse": "Pohlandplatz 0",
+        "strasse": "Am Lindenbaum 24",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Germar",
-        "weiblich": false
+        "vorname": "Berta",
+        "weiblich": true
     }
 }

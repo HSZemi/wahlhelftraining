@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2138265,
+    "nummer": 2894805,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.08.1991",
-        "matrikelnummer": 18350,
+        "fakultaet": 8,
+        "geburtsdatum": "24.01.1999",
+        "matrikelnummer": 1966045,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Janzen",
-        "plzort": "5",
+        "nachname": "Klinkhammer",
+        "plzort": "57612 \u00d6lsen",
         "sternchen": 0,
-        "strasse": "Heidefl\u00fcgel 9",
+        "strasse": "Paradiesstra\u00dfe 0c",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Heyo",
+        "vorname": "Desiderius",
         "weiblich": false
     }
 }

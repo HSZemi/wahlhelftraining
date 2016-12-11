@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2746687,
+    "nummer": 2290861,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.11.1996",
-        "matrikelnummer": 2477830,
+        "fakultaet": 9,
+        "geburtsdatum": "06.10.1999",
+        "matrikelnummer": 145503,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6hnke",
-        "plzort": "53227 Bonn",
+        "nachname": "Lambertz",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Oswaltstra\u00dfe 17",
+        "strasse": "Ruster Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 12
             }
         ],
-        "vorname": "Silvana",
+        "vorname": "Anneliese",
         "weiblich": true
     }
 }

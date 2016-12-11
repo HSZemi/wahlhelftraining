@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1262869,
+    "nummer": 1689348,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.07.1995",
-        "matrikelnummer": 2883237,
+        "fakultaet": 8,
+        "geburtsdatum": "03.10.1989",
+        "matrikelnummer": 152645,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "L\u00fcbke",
-        "plzort": "53127 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Markgraf",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Langb\u00fcrgener Str. 4",
+        "strasse": "Am Alten Elbarm 14",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Kathi",
-        "weiblich": true
+        "vorname": "Jannick",
+        "weiblich": false
     }
 }

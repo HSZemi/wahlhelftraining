@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1789519,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1331617,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.09.1990",
-        "matrikelnummer": 2421833,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "28.03.1988",
+        "matrikelnummer": 2147323,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hau\u00dfmann",
-        "plzort": "53130 Bonn",
+        "nachname": "Wilhelmi",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Polierstra\u00dfe 15d",
+        "strasse": "Bismarckstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Beat",
-        "weiblich": false
+        "vorname": "Helmtrud",
+        "weiblich": true
     }
 }

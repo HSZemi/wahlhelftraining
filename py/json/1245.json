@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2259331,
+    "nummer": 1781893,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.03.1992",
-        "matrikelnummer": 13968,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 3,
+        "geburtsdatum": "13.03.1991",
+        "matrikelnummer": 2000534,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klemm",
-        "plzort": "3",
+        "nachname": "Wiesmann",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Panoramaweg 24a",
+        "strasse": "M\u00fcller-Armack-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Alicia",
-        "weiblich": true
+        "vorname": "Roger",
+        "weiblich": false
     }
 }

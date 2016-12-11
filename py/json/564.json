@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1273950,
+    "nummer": 1350730,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.12.1993",
-        "matrikelnummer": 2198520,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "10.07.1993",
+        "matrikelnummer": 2284875,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Enders",
-        "plzort": "n",
+        "nachname": "Schwind",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Edelstr. 16b",
+        "strasse": "Schurichtstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 11
             }
         ],
-        "vorname": "Ingerose",
-        "weiblich": true
+        "vorname": "Gotthilf",
+        "weiblich": false
     }
 }

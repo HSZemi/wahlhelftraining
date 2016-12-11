@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1969252,
+    "nummer": 1454329,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.01.1990",
-        "matrikelnummer": 2982350,
+        "fakultaet": 5,
+        "geburtsdatum": "23.11.1993",
+        "matrikelnummer": 1902324,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scheidt",
-        "plzort": "53161 Bonn",
+        "nachname": "Raschke",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Hans Siebenhirter-Gasse 0",
+        "strasse": "Schwarz\u00e4derle 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Soziologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Wilhelmine",
-        "weiblich": true
+        "vorname": "Albrecht",
+        "weiblich": false
     }
 }

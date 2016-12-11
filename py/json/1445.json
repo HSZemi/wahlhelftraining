@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2066637,
+    "nummer": 2882041,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.11.1998",
-        "matrikelnummer": 156497,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "06.07.1992",
+        "matrikelnummer": 16995,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wunsch",
-        "plzort": "53120 Bonn",
+        "nachname": "Kleinhans",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "P\u00f6deldorfer Str. 46",
+        "strasse": "Nu\u00dfallee 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 6
             }
         ],
-        "vorname": "Gerfried",
+        "vorname": "Steffan",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2374757,
+    "nummer": 2000731,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.05.1994",
-        "matrikelnummer": 1943924,
+        "fakultaet": 7,
+        "geburtsdatum": "08.03.1995",
+        "matrikelnummer": 15239,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dillmann",
-        "plzort": "n",
+        "nachname": "Essig",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Funckstra\u00dfe 0",
+        "strasse": "Bremer Platz 10a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 13
-            },
-            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "fach": "Agrarwissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Leonie",
+        "vorname": "Friederike",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2971420,
+    "nummer": 2112556,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "21.06.1994",
-        "matrikelnummer": 2499703,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "13.04.1999",
+        "matrikelnummer": 3072303,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rohr",
-        "plzort": "n",
+        "nachname": "Priebe",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Privatweg 12",
+        "strasse": "Am Klosterberg 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Henny",
+        "vorname": "Annamarie",
         "weiblich": true
     }
 }

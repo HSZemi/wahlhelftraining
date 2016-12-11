@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2493674,
+    "nummer": 1915630,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.08.1994",
-        "matrikelnummer": 1941774,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "27.06.1993",
+        "matrikelnummer": 1959503,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6nherr",
-        "plzort": "53227 Bonn",
+        "nachname": "Rempel",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Auf der Steinritz 6",
+        "strasse": "Stephanienplatz 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Bernulf",
+        "vorname": "Alfhard",
         "weiblich": false
     }
 }

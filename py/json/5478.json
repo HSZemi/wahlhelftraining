@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2702253,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "13.11.1999",
+        "matrikelnummer": 129200,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Alexander",
+        "plzort": "53177 Bonn",
+        "sternchen": 0,
+        "strasse": "Burgwartstra\u00dfe 1a",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Biochemistry",
+                "fsem": 13
+            }
+        ],
+        "vorname": "Egbert",
+        "weiblich": false
+    }
+}

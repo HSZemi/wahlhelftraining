@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 3,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1358312,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "10.10.1989",
+        "matrikelnummer": 3187534,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Szymanski",
+        "plzort": "53178 Bonn",
+        "sternchen": 0,
+        "strasse": "An der K\u00fcmmelschenke 6c",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Molecular Biology and Biotechnology",
+                "fsem": 8
+            }
+        ],
+        "vorname": "Harry",
+        "weiblich": false
+    }
+}

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1035946,
+    "nummer": 1792538,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "14.05.1990",
-        "matrikelnummer": 2607579,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "03.04.1987",
+        "matrikelnummer": 2419228,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hommel",
-        "plzort": "53122 Bonn",
+        "nachname": "R\u00fcdiger",
+        "plzort": "15749 Kiekebusch",
         "sternchen": 0,
-        "strasse": "Storchenneststra\u00dfe 15",
+        "strasse": "Vollsackstra\u00dfe 0d",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
+                "abschluss": "Master of Arts",
+                "fach": "Geschichte",
                 "fsem": 13
             }
         ],
-        "vorname": "Eckehart",
+        "vorname": "Leopold",
         "weiblich": false
     }
 }

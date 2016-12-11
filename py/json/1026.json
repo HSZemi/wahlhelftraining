@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2823860,
+    "nummer": 1010101,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "21.11.1995",
-        "matrikelnummer": 1910699,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "14.12.1986",
+        "matrikelnummer": 2829892,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Maa\u00dfen",
-        "plzort": "53182 Bonn",
+        "nachname": "B\u00fcchner",
+        "plzort": "74638 Waldenburg",
         "sternchen": 0,
-        "strasse": "Maulbeerenstra\u00dfe 1",
+        "strasse": "Vierbeeteweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Komparatistik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 6
             }
         ],
-        "vorname": "Emine",
-        "weiblich": true
+        "vorname": "Arndt",
+        "weiblich": false
     }
 }

@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": true,
+        "sp": true
+    },
+    "nummer": 1261490,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "04.05.1994",
+        "matrikelnummer": 138887,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jakob",
+        "plzort": "53165 Bonn",
+        "sternchen": 0,
+        "strasse": "Cretzschmarstra\u00dfe 4",
+        "studienfaecher": [
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 8
+            }
+        ],
+        "vorname": "Steffi",
+        "weiblich": true
+    }
+}

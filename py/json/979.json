@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1022218,
+    "nummer": 2710265,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.03.1994",
-        "matrikelnummer": 1928562,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "07.11.1992",
+        "matrikelnummer": 2942957,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bamberger",
-        "plzort": "53195 Bonn",
+        "nachname": "Metzner",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Pruss-Stra\u00dfe 7",
+        "strasse": "Hubertusplatz 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Felizia",
-        "weiblich": true
+        "vorname": "Raik",
+        "weiblich": false
     }
 }

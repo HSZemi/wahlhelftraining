@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1672533,
+    "nummer": 1798555,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "18.07.1998",
-        "matrikelnummer": 188228,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "03.06.1999",
+        "matrikelnummer": 3155766,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Harder",
-        "plzort": "53113 Bonn",
+        "nachname": "Burghardt",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Merck-Stra\u00dfe 10",
+        "strasse": "Roter Grabenweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Soziologie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Hermann",
-        "weiblich": false
+        "vorname": "Helene",
+        "weiblich": true
     }
 }

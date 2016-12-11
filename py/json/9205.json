@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1656385,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "11.11.1994",
+        "matrikelnummer": 2184985,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fenzl",
+        "plzort": "89073 Ulm",
+        "sternchen": 0,
+        "strasse": "Badstr. 7",
+        "studienfaecher": [
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 12
+            }
+        ],
+        "vorname": "Helm",
+        "weiblich": false
+    }
+}

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1123127,
+    "nummer": 2069063,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "16.05.1993",
-        "matrikelnummer": 2974253,
+        "geburtsdatum": "05.09.1997",
+        "matrikelnummer": 2690674,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Geist",
-        "plzort": "53215 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Thormann",
+        "plzort": "54439 Saarburg",
         "sternchen": 0,
-        "strasse": "Beim Gr\u00e4bchen 1",
+        "strasse": "Hermann-T\u00f6gel-Weg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Malwine",
+        "vorname": "Trudel",
         "weiblich": true
     }
 }

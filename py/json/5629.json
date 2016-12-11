@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2227775,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "15.09.1990",
+        "matrikelnummer": 2205953,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gilles",
+        "plzort": "53195 Bonn",
+        "sternchen": 0,
+        "strasse": "Rehmstra\u00dfe 9",
+        "studienfaecher": [
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
+            }
+        ],
+        "vorname": "Karlfriedrich",
+        "weiblich": false
+    }
+}

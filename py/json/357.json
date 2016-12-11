@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2544231,
+    "nummer": 1107949,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.02.1999",
-        "matrikelnummer": 2551434,
+        "fakultaet": 6,
+        "geburtsdatum": "27.10.1999",
+        "matrikelnummer": 2378486,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fiedler",
-        "plzort": "53164 Bonn",
+        "nachname": "H\u00fcls",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrichsdorfer Stra\u00dfe 18",
+        "strasse": "Flaschenburgstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 5
             }
         ],
-        "vorname": "Annerike",
-        "weiblich": true
+        "vorname": "Markwart",
+        "weiblich": false
     }
 }

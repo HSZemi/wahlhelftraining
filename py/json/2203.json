@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2758352,
+    "nummer": 1698994,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.04.1999",
-        "matrikelnummer": 2946141,
+        "fakultaet": 5,
+        "geburtsdatum": "22.04.1996",
+        "matrikelnummer": 14541,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Zorn",
-        "plzort": "n",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zeidler",
+        "plzort": "85646 Anzing",
         "sternchen": 0,
-        "strasse": "Neue Terrasse 1",
+        "strasse": "Am Heidehof 0",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Italianistik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Lateinamerika- und Altamerikastudien",
+                "fsem": 8
             }
         ],
-        "vorname": "Bernd",
-        "weiblich": false
+        "vorname": "Jolanta",
+        "weiblich": true
     }
 }

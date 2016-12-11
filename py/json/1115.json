@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2883522,
+    "nummer": 1045268,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.11.1994",
-        "matrikelnummer": 2327648,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "07.08.1996",
+        "matrikelnummer": 2662448,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Benecke",
-        "plzort": "5",
+        "nachname": "Reinhard",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Billstieg 15",
+        "strasse": "Rote Br\u00fccke 8",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Gundolf",
-        "weiblich": false
+        "vorname": "Martrud",
+        "weiblich": true
     }
 }

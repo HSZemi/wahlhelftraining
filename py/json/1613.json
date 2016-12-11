@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1421979,
+    "nummer": 1916189,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.12.1997",
-        "matrikelnummer": 2816909,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "14.02.1992",
+        "matrikelnummer": 2813192,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Friedrichs",
-        "plzort": "53154 Bonn",
+        "nachname": "Stenger",
+        "plzort": "06800 Altje\u00dfnitz",
         "sternchen": 0,
-        "strasse": "An der Schwarzbachm\u00fchle 0",
+        "strasse": "Barbarossaplatz 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Romanistik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Keltologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Helmtraut",
+        "vorname": "Anke",
         "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2640294,
-    "semester": "Sommersemester 2016",
+    "nummer": 1962907,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.08.1997",
-        "matrikelnummer": 16405,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "06.04.1995",
+        "matrikelnummer": 13403,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zeidler",
-        "plzort": "6",
+        "nachname": "K\u00f6ppl",
+        "plzort": "41372 Niederkr\u00fcchten",
         "sternchen": 0,
-        "strasse": "Hausbergstra\u00dfe 12",
+        "strasse": "Williamstra\u00dfe 34",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Remigius",
-        "weiblich": false
+        "vorname": "Fatima",
+        "weiblich": true
     }
 }

@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 3,
+    "loecher": {
+        "gremien": true,
+        "sp": false
+    },
+    "nummer": 1197528,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "15.04.1993",
+        "matrikelnummer": 2452472,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Casper",
+        "plzort": "53220 Bonn",
+        "sternchen": 0,
+        "strasse": "Maria-Louisen-Stra\u00dfe 6",
+        "studienfaecher": [
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
+            }
+        ],
+        "vorname": "Eitelbert",
+        "weiblich": false
+    }
+}

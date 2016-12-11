@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1687710,
+    "nummer": 2804969,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.02.1999",
-        "matrikelnummer": 18985,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "01.09.1991",
+        "matrikelnummer": 2765561,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Renz",
-        "plzort": "2",
+        "nachname": "Reck",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Fruchthof 20",
+        "strasse": "Sachsdorfer Stra\u00dfe 32",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 9
+                "abschluss": "Bachelor of Science",
+                "fach": "Physik",
+                "fsem": 2
             }
         ],
-        "vorname": "Sigbert",
-        "weiblich": false
+        "vorname": "Daria",
+        "weiblich": true
     }
 }

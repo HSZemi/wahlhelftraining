@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2100237,
+    "nummer": 2143997,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "24.09.1999",
-        "matrikelnummer": 2164706,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "27.08.1994",
+        "matrikelnummer": 2100154,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Stender",
-        "plzort": "53158 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heilmann",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "An der Flutrinne 15",
+        "strasse": "Baumstra\u00dfe 33",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 9
             }
         ],
-        "vorname": "Felix",
+        "vorname": "Erdwin",
         "weiblich": false
     }
 }

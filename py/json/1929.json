@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1824080,
+    "nummer": 1486582,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "03.12.1987",
-        "matrikelnummer": 2197725,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "H\u00f6lzel",
-        "plzort": "53151 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "15.01.1995",
+        "matrikelnummer": 2359575,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zieger",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Schneisenweg 3c",
+        "strasse": "Max-Liebermann-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Brit",
-        "weiblich": true
+        "vorname": "Winrich",
+        "weiblich": false
     }
 }

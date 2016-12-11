@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1199387,
+    "nummer": 2663272,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.02.1995",
-        "matrikelnummer": 2859220,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "02.06.1998",
+        "matrikelnummer": 2488071,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Steinhauer",
-        "plzort": "53226 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schindler",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Odrellstra\u00dfe 23",
+        "strasse": "Deutstr. 10",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Isedore",
+        "vorname": "Lilia",
         "weiblich": true
     }
 }

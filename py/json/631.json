@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2810322,
+    "nummer": 2421208,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.10.1992",
-        "matrikelnummer": 2226366,
+        "fakultaet": 5,
+        "geburtsdatum": "04.03.1995",
+        "matrikelnummer": 2160254,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hennemann",
-        "plzort": "B",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Maiwald",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Funckstra\u00dfe 24",
+        "strasse": "Eibauer Stra\u00dfe 33",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Inken",
-        "weiblich": true
+        "vorname": "Oliver",
+        "weiblich": false
     }
 }

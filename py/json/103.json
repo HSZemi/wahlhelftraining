@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1854048,
+    "nummer": 1063690,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.10.1999",
-        "matrikelnummer": 2986177,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Fey",
-        "plzort": "53202 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "23.11.1992",
+        "matrikelnummer": 2888693,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sch\u00fcler",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Reisewitzer Stra\u00dfe 0",
+        "strasse": "An der Schleifscheibe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Karlheinz",
+        "vorname": "Gotthelf",
         "weiblich": false
     }
 }

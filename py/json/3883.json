@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 3,
+    "loecher": {
+        "gremien": true,
+        "sp": true
+    },
+    "nummer": 2456133,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "19.05.1997",
+        "matrikelnummer": 2267127,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Michalski",
+        "plzort": "99441 Hohlstedt",
+        "sternchen": 0,
+        "strasse": "Bachforellenweg 13",
+        "studienfaecher": [
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            }
+        ],
+        "vorname": "Titus",
+        "weiblich": false
+    }
+}

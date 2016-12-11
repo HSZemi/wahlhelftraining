@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1170982,
-    "semester": "Sommersemester 2016",
+    "nummer": 1258364,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "03.07.1994",
-        "matrikelnummer": 2666178,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hintze",
-        "plzort": "5",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "02.12.1995",
+        "matrikelnummer": 2251366,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hartig",
+        "plzort": "15838 W\u00fcnsdorf",
         "sternchen": 0,
-        "strasse": "Berthold-Haupt-Stra\u00dfe 11",
+        "strasse": "M\u00fcnzweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 2
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Xaverius",
-        "weiblich": false
+        "vorname": "Liselore",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2938024,
+    "nummer": 2366671,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "18.02.1989",
-        "matrikelnummer": 2010835,
+        "geburtsdatum": "07.06.1995",
+        "matrikelnummer": 126003,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Sandner",
-        "plzort": "53200 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jasper",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Hunnenweg 13",
+        "strasse": "M\u00f6rikestra\u00dfe 7b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Nutzpflanzenwissenschaften",
                 "fsem": 11
             }
         ],
-        "vorname": "Susana",
-        "weiblich": true
+        "vorname": "Wolff",
+        "weiblich": false
     }
 }

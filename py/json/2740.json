@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2357796,
-    "semester": "Sommersemester 2016",
+    "nummer": 1614394,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "17.09.1989",
-        "matrikelnummer": 2108159,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 3,
+        "geburtsdatum": "12.07.1991",
+        "matrikelnummer": 2263769,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Matt",
-        "plzort": "53210 Bonn",
+        "nachname": "Eckel",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Stadtweg 26",
+        "strasse": "Alsterdorfer Stra\u00dfe 9e",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
                 "fsem": 5
             }
         ],
-        "vorname": "Heilwig",
+        "vorname": "Rothmund",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1000601,
+    "nummer": 1404025,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "26.09.1995",
-        "matrikelnummer": 2610287,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "12.11.1994",
+        "matrikelnummer": 2332059,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Matz",
-        "plzort": "1",
+        "nachname": "H\u00e4nsel",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Kramergasse 7",
+        "strasse": "Kroogbl\u00f6cke 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 12
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
             }
         ],
-        "vorname": "Leokadia",
+        "vorname": "Agnes",
         "weiblich": true
     }
 }

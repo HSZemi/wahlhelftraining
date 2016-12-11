@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2139990,
+    "nummer": 1962698,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.04.1990",
-        "matrikelnummer": 2206910,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "08.07.1992",
+        "matrikelnummer": 2959145,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Noe",
-        "plzort": "53210 Bonn",
+        "nachname": "D\u00f6rfler",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Herxheimerstra\u00dfe 1",
+        "strasse": "Zur Sandgrube 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 6
             }
         ],
-        "vorname": "Gerwin",
+        "vorname": "Lewin",
         "weiblich": false
     }
 }

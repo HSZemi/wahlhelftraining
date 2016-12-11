@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2507667,
+    "nummer": 2998084,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "06.06.1992",
-        "matrikelnummer": 2367630,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hagedorn",
-        "plzort": "53183 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "23.02.1988",
+        "matrikelnummer": 16413,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Brill",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Sophie-Rosenthal-Stra\u00dfe 27",
+        "strasse": "Klein\u2026 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
             }
         ],
-        "vorname": "Goldine",
+        "vorname": "Waltrud",
         "weiblich": true
     }
 }

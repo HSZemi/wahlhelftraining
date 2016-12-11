@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2382200,
+    "nummer": 2380708,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "22.03.1988",
-        "matrikelnummer": 2034652,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "02.11.1992",
+        "matrikelnummer": 2741172,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Reinhard",
-        "plzort": "53219 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Burkert",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Reisstra\u00dfe 11",
+        "strasse": "Steintorwall 5",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Merlinde",
+        "vorname": "Rositta",
         "weiblich": true
     }
 }

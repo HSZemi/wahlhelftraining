@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2789955,
+    "nummer": 1268330,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.01.1987",
-        "matrikelnummer": 14158,
+        "fakultaet": 6,
+        "geburtsdatum": "28.05.1989",
+        "matrikelnummer": 2272606,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bremer",
-        "plzort": "53220 Bonn",
+        "nachname": "Weise",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Hermann-T\u00f6gel-Weg 5",
+        "strasse": "Hohle Gasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Physik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Bernhart",
-        "weiblich": false
+        "vorname": "Tabea",
+        "weiblich": true
     }
 }

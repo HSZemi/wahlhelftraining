@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1892480,
-    "semester": "Sommersemester 2016",
+    "nummer": 2921034,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "05.10.1986",
-        "matrikelnummer": 2335368,
+        "geburtsdatum": "21.11.1995",
+        "matrikelnummer": 2846361,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Erhardt",
-        "plzort": "5",
+        "nachname": "Kremser",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Kleine Holl 6",
+        "strasse": "Schmiedeg\u00e4\u00dfchen 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 12
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 4
             }
         ],
-        "vorname": "Neidhard",
-        "weiblich": false
+        "vorname": "Rosi",
+        "weiblich": true
     }
 }

@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1912999,
+    "nummer": 2802414,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.08.1995",
-        "matrikelnummer": 2651714,
+        "fakultaet": 8,
+        "geburtsdatum": "06.06.1988",
+        "matrikelnummer": 2479288,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weirich",
-        "plzort": "53112 Bonn",
+        "nachname": "Wunder",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Holzgrund 0",
+        "strasse": "Karl-May-Str. 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Altamerikanistik/Ethnologie",
-                "fsem": 7
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Kruno",
+        "vorname": "Maurus",
         "weiblich": false
     }
 }

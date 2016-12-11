@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2389282,
+    "nummer": 2001539,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "24.10.1992",
-        "matrikelnummer": 2945947,
+        "fakultaet": 4,
+        "geburtsdatum": "12.02.1996",
+        "matrikelnummer": 2101633,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stenger",
-        "plzort": "53219 Bonn",
+        "nachname": "Muth",
+        "plzort": "15518 Langewahl",
         "sternchen": 0,
-        "strasse": "Burgunderweg 24b",
+        "strasse": "Saydaer Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Hanskarl",
-        "weiblich": false
+        "vorname": "Klarissa",
+        "weiblich": true
     }
 }

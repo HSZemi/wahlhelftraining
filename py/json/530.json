@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": true
     },
-    "nummer": 1204053,
+    "nummer": 1707747,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "08.02.1993",
-        "matrikelnummer": 181095,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "28.12.1993",
+        "matrikelnummer": 2354977,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Raab",
-        "plzort": "53131 Bonn",
+        "nachname": "Brill",
+        "plzort": "07554 P\u00f6lzig",
         "sternchen": 0,
-        "strasse": "Rosenbergerstra\u00dfe 21",
+        "strasse": "Gro\u00dfglocknerstra\u00dfe 27",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Phillip",
-        "weiblich": false
+        "vorname": "Leonie",
+        "weiblich": true
     }
 }

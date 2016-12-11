@@ -1,41 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2101645,
+    "nummer": 2180435,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "13.05.1993",
-        "matrikelnummer": 1952854,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "06.02.1995",
+        "matrikelnummer": 137208,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6ppl",
-        "plzort": "53220 Bonn",
+        "nachname": "Sommer",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Krummauer Stra\u00dfe 2",
+        "strasse": "Hanfftsweg 6",
         "studienfaecher": [
             {
                 "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 13
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 5
             },
             {
                 "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 6
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Heyko",
-        "weiblich": false
+        "vorname": "Eleni",
+        "weiblich": true
     }
 }

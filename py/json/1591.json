@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2381270,
+    "nummer": 2348395,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "15.09.1996",
-        "matrikelnummer": 2502974,
+        "fakultaet": 9,
+        "geburtsdatum": "03.01.1991",
+        "matrikelnummer": 1952617,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mager",
-        "plzort": "53116 Bonn",
+        "nachname": "Michler",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Wehrheimer Stra\u00dfe 10e",
+        "strasse": "Lilienthalstra\u00dfe 17d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Hilderose",
-        "weiblich": true
+        "vorname": "Engelbrecht",
+        "weiblich": false
     }
 }

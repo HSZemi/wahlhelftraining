@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1092053,
+    "nummer": 2804877,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "17.11.1999",
-        "matrikelnummer": 2161505,
+        "fakultaet": 1,
+        "geburtsdatum": "15.12.1988",
+        "matrikelnummer": 1936326,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kast",
-        "plzort": "53136 Bonn",
+        "nachname": "Knopp",
+        "plzort": "07554 P\u00f6lzig",
         "sternchen": 0,
-        "strasse": "Meisenweg 11",
+        "strasse": "Altkleinzschachwitz 11",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 7
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Freya",
-        "weiblich": true
+        "vorname": "Hartmann",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1563870,
+    "nummer": 2161154,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.02.1991",
-        "matrikelnummer": 2003915,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "06.05.1993",
+        "matrikelnummer": 2486680,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stumpe",
-        "plzort": "53189 Bonn",
+        "nachname": "Wittke",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Kreuznacher Stra\u00dfe 17",
+        "strasse": "Ostergassel 13",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 9
             }
         ],
-        "vorname": "Harro",
-        "weiblich": false
+        "vorname": "Nicole",
+        "weiblich": true
     }
 }

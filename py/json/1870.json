@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2364277,
+    "nummer": 1387070,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.12.1994",
-        "matrikelnummer": 2877374,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "07.04.1999",
+        "matrikelnummer": 2415657,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holtz",
-        "plzort": "n",
+        "nachname": "Ehlers",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Sachsenallee 23",
+        "strasse": "Marktweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
                 "fsem": 3
             }
         ],
-        "vorname": "Siglinde",
+        "vorname": "Steffi",
         "weiblich": true
     }
 }

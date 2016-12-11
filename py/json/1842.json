@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2087921,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1195709,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.06.1993",
-        "matrikelnummer": 1935194,
+        "fakultaet": 0,
+        "geburtsdatum": "23.12.1990",
+        "matrikelnummer": 3037072,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stork",
-        "plzort": "53150 Bonn",
+        "nachname": "Esch",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Pfahlpl\u00e4tzchen 10",
+        "strasse": "Kroatengasse 25",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
             }
         ],
-        "vorname": "Kunibert",
+        "vorname": "Jens",
         "weiblich": false
     }
 }

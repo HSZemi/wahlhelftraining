@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1005658,
+    "nummer": 2197795,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "14.10.1997",
-        "matrikelnummer": 19082,
+        "fakultaet": 9,
+        "geburtsdatum": "28.09.1996",
+        "matrikelnummer": 2565941,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00fcttner",
-        "plzort": "53177 Bonn",
+        "nachname": "Schneiders",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Obere Sterngasse 16",
+        "strasse": "Jenaer Weg 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
                 "fsem": 13
             }
         ],
-        "vorname": "Hetty",
+        "vorname": "Rosa",
         "weiblich": true
     }
 }

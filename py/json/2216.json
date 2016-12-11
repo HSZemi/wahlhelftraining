@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2497104,
+    "nummer": 1822940,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "19.10.1999",
-        "matrikelnummer": 2738518,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "19.10.1993",
+        "matrikelnummer": 2448015,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pl\u00f6ger",
-        "plzort": "o",
+        "nachname": "Zielke",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Merkatorweg 21",
+        "strasse": "Tannenstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
             }
         ],
-        "vorname": "Manhold",
+        "vorname": "Heinzkarl",
         "weiblich": false
     }
 }

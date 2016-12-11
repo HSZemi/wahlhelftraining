@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1420798,
+    "nummer": 1852183,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "07.12.1999",
-        "matrikelnummer": 12524,
+        "geburtsdatum": "14.12.1996",
+        "matrikelnummer": 2878689,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": false,
-        "nachname": "Flohr",
-        "plzort": "53114 Bonn",
+        "nachname": "Rohrer",
+        "plzort": "29229 Celle",
         "sternchen": 0,
-        "strasse": "Hartmannweg 1",
+        "strasse": "Hospitalstra\u00dfe 18",
         "studienfaecher": [
             {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 11
+                "fach": "Economics",
+                "fsem": 12
             }
         ],
-        "vorname": "Isedore",
+        "vorname": "Hatice",
         "weiblich": true
     }
 }

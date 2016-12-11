@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1941557,
+    "nummer": 2165273,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.10.1992",
-        "matrikelnummer": 165971,
-        "mehrfachausfertigung": 4,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Lukas",
-        "plzort": "1",
+        "fakultaet": 5,
+        "geburtsdatum": "10.06.1995",
+        "matrikelnummer": 2528593,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gutjahr",
+        "plzort": "88094 Oberteuringen",
         "sternchen": 0,
-        "strasse": "Parlamentsplatz 13",
+        "strasse": "Ockerwitzer Dorfstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 5
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Englisch",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Romanistik",
+                "fsem": 7
             }
         ],
-        "vorname": "Edelmut",
-        "weiblich": false
+        "vorname": "Anny",
+        "weiblich": true
     }
 }

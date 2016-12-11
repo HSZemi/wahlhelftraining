@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2792186,
+    "nummer": 1970721,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.03.1997",
-        "matrikelnummer": 14197,
+        "fakultaet": 0,
+        "geburtsdatum": "08.12.1991",
+        "matrikelnummer": 2585231,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Weiss",
-        "plzort": "53124 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schenkel",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Kleemannstra\u00dfe 17",
+        "strasse": "Elfride-Tr\u00f6tschel-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Skandinavistik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Kommunikationswissenschaften",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Gotthard",
+        "vorname": "Diethard",
         "weiblich": false
     }
 }

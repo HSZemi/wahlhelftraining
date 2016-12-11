@@ -4,38 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1738082,
+    "nummer": 2370192,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.12.1990",
-        "matrikelnummer": 2379592,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "11.05.1994",
+        "matrikelnummer": 2523310,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fenzl",
-        "plzort": "53188 Bonn",
+        "nachname": "Kutz",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Am Steinernen Stock 4",
+        "strasse": "Im Kramersfeld 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
                 "fsem": 7
             },
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Deutsch-Franz\u00f6sische Studien",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sistik",
-                "fsem": 1
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Egidius",
-        "weiblich": false
+        "vorname": "Beate",
+        "weiblich": true
     }
 }

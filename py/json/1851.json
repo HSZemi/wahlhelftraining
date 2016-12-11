@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1078985,
+    "nummer": 2202299,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "28.10.1994",
-        "matrikelnummer": 189628,
+        "geburtsdatum": "14.07.1988",
+        "matrikelnummer": 2188517,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckl",
-        "plzort": "53197 Bonn",
+        "nachname": "Meuser",
+        "plzort": "24610 Trappenkamp",
         "sternchen": 0,
-        "strasse": "H\u00f6pers Kamp 7",
+        "strasse": "Zwergenstieg 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 4
             }
         ],
-        "vorname": "Hansfried",
+        "vorname": "Karlfrieder",
         "weiblich": false
     }
 }

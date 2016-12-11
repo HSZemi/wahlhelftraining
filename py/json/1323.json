@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2213394,
+    "nummer": 2316765,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.03.1991",
-        "matrikelnummer": 1938460,
+        "fakultaet": 0,
+        "geburtsdatum": "08.05.1998",
+        "matrikelnummer": 17623,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Martin",
-        "plzort": "53220 Bonn",
+        "nachname": "Ramm",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Steinmetzstra\u00dfe 6",
+        "strasse": "Sanatoriumsweg 20",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 7
             }
         ],
-        "vorname": "Hansgeorg",
+        "vorname": "Torge",
         "weiblich": false
     }
 }

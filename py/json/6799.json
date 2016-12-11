@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1700925,
+    "semester": "Sommersemester 2016",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "25.08.1997",
+        "matrikelnummer": 1938210,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Niemeyer",
+        "plzort": "53208 Bonn",
+        "sternchen": 0,
+        "strasse": "Bachweg 3e",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 1
+            }
+        ],
+        "vorname": "Klotilde",
+        "weiblich": true
+    }
+}

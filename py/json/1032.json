@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1104701,
+    "nummer": 1392760,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.08.1996",
-        "matrikelnummer": 2051959,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "K\u00e4hler",
-        "plzort": "53217 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "17.10.1999",
+        "matrikelnummer": 2660966,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Volk",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Breyer-Stra\u00dfe 2",
+        "strasse": "Mutschelleweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 3
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Politik und Gesellschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "K\u00e4the",
-        "weiblich": true
+        "vorname": "Arnd",
+        "weiblich": false
     }
 }

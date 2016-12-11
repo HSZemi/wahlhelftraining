@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2734203,
+    "nummer": 2256732,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "18.08.1994",
-        "matrikelnummer": 151940,
+        "fakultaet": 5,
+        "geburtsdatum": "18.07.1991",
+        "matrikelnummer": 2378022,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rahm",
-        "plzort": "n",
+        "nachname": "Brendel",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Lockwitztalstra\u00dfe 0d",
+        "strasse": "Herriotstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Reinholdt",
+        "vorname": "Thoralf",
         "weiblich": false
     }
 }

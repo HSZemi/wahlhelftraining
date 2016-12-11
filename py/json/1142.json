@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2800886,
+    "nummer": 2937102,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "18.01.1999",
-        "matrikelnummer": 13473,
+        "fakultaet": 5,
+        "geburtsdatum": "08.12.1995",
+        "matrikelnummer": 1933371,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grosse",
-        "plzort": "53178 Bonn",
+        "nachname": "Katzer",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Gasfabrikstra\u00dfe 2",
+        "strasse": "Philipp-Reis-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 8
             }
         ],
-        "vorname": "Aron",
-        "weiblich": false
+        "vorname": "Zita",
+        "weiblich": true
     }
 }

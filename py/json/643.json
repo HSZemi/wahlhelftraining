@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1215284,
+    "nummer": 2526096,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "14.07.1994",
-        "matrikelnummer": 2616431,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "26.03.1993",
+        "matrikelnummer": 2758293,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sacher",
-        "plzort": "53177 Bonn",
+        "nachname": "Burkard",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Spiegelgraben 4",
+        "strasse": "Franz-Kafka-Stra\u00dfe 24",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 4
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Lothar",
-        "weiblich": false
+        "vorname": "Ivana",
+        "weiblich": true
     }
 }

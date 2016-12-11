@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2580900,
+    "nummer": 1567213,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "09.02.1990",
-        "matrikelnummer": 2508808,
+        "geburtsdatum": "27.05.1984",
+        "matrikelnummer": 17854,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckhardt",
-        "plzort": "53133 Bonn",
+        "nachname": "Endres",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Schwendler-Stra\u00dfe 16",
+        "strasse": "Schindelmacherweg 0",
         "studienfaecher": [
             {
                 "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 7
+                "fach": "Klinische Immunologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Ellen",
+        "vorname": "Carsta",
         "weiblich": true
     }
 }

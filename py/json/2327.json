@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2481134,
+    "nummer": 2365144,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "03.06.1984",
-        "matrikelnummer": 163067,
+        "fakultaet": 7,
+        "geburtsdatum": "14.10.1991",
+        "matrikelnummer": 3087870,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Andreas",
-        "plzort": "53176 Bonn",
+        "nachname": "Busch",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Erbbaustra\u00dfe 35",
+        "strasse": "Zwischen den Br\u00fccken 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 3
-            },
-            {
                 "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 9
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
             }
         ],
-        "vorname": "Amrei",
-        "weiblich": true
+        "vorname": "Hansmartin",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1265202,
+    "nummer": 1323708,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "18.09.1988",
-        "matrikelnummer": 2835316,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "05.07.1987",
+        "matrikelnummer": 3165986,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reichle",
-        "plzort": "53156 Bonn",
+        "nachname": "Oestreich",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Hammer Steindamm 12",
+        "strasse": "G\u00f6rresstra\u00dfe 0",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 7
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Sigenot",
+        "vorname": "Markolf",
         "weiblich": false
     }
 }

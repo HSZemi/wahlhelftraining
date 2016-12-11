@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2092753,
+    "nummer": 1931259,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.08.1997",
-        "matrikelnummer": 19240,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "28.03.1994",
+        "matrikelnummer": 15947,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Frese",
-        "plzort": "1",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Frick",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Awarenweg 5",
+        "strasse": "Adam-Heinstadt-Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 4
+                "fach": "Klinische Medizintechnik",
+                "fsem": 3
             }
         ],
-        "vorname": "Rahel",
+        "vorname": "Cordula",
         "weiblich": true
     }
 }

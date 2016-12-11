@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1095152,
+    "nummer": 2495096,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "06.01.1986",
-        "matrikelnummer": 2428745,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "05.12.1989",
+        "matrikelnummer": 2452047,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nowak",
-        "plzort": "53127 Bonn",
+        "nachname": "Henning",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Snitgerstieg 2",
+        "strasse": "Fernsicht 4",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
+                "fach": "Katholische Theologie",
                 "fsem": 9
-            },
-            {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 1
             }
         ],
-        "vorname": "Gotthart",
-        "weiblich": false
+        "vorname": "Lisl",
+        "weiblich": true
     }
 }

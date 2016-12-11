@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1335537,
-    "semester": "Sommersemester 2016",
+    "nummer": 1721201,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.01.1987",
-        "matrikelnummer": 2094372,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "11.09.1982",
+        "matrikelnummer": 2004938,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Geyer",
-        "plzort": "53184 Bonn",
+        "nachname": "Mischke",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Gehm-Weg 17",
+        "strasse": "An der Este 32",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Chemistry",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Karlgeorg",
+        "vorname": "Alfinus",
         "weiblich": false
     }
 }

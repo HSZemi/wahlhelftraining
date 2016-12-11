@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1371765,
+    "nummer": 1685495,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.09.1999",
-        "matrikelnummer": 2110127,
+        "fakultaet": 4,
+        "geburtsdatum": "11.03.1990",
+        "matrikelnummer": 14807,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Spieker",
-        "plzort": "53206 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Herr",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Horner Br\u00fcckenweg 8",
+        "strasse": "Haarweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Gunthard",
+        "vorname": "Walfried",
         "weiblich": false
     }
 }

@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2415876,
+    "nummer": 1108249,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "17.05.1999",
-        "matrikelnummer": 2016136,
+        "fakultaet": 4,
+        "geburtsdatum": "26.10.1992",
+        "matrikelnummer": 2203630,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6pfner",
-        "plzort": "53140 Bonn",
+        "nachname": "Herter",
+        "plzort": "91090 Effeltrich",
         "sternchen": 0,
-        "strasse": "Jochenmattweg 2",
+        "strasse": "Johann Nepomuk-Fuchs-Gasse 9",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Politische Wissenschaft",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Vergleichende Religionswissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Germanistik, Vergleichende Literatur- und Kulturwissenschaft",
-                "fsem": 12
+                "fach": "Medizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Jacqueline",
+        "vorname": "Sissy",
         "weiblich": true
     }
 }

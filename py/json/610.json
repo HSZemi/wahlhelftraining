@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2683165,
+    "nummer": 2663614,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "20.02.1995",
-        "matrikelnummer": 2201585,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "22.03.1992",
+        "matrikelnummer": 3138641,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hammer",
-        "plzort": "53207 Bonn",
+        "nachname": "Eichner",
+        "plzort": "13159 Berlin",
         "sternchen": 0,
-        "strasse": "H\u00f6llengasse 0",
+        "strasse": "Girlitzweg 19",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 1
             }
         ],
-        "vorname": "Otwin",
-        "weiblich": false
+        "vorname": "Loremarie",
+        "weiblich": true
     }
 }

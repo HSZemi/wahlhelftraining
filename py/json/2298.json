@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2840070,
+    "nummer": 1433210,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.03.1995",
-        "matrikelnummer": 2071913,
+        "fakultaet": 5,
+        "geburtsdatum": "10.04.1993",
+        "matrikelnummer": 2722026,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcper",
-        "plzort": "53148 Bonn",
+        "nachname": "Holzwarth",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Am Spritzenhaus 2",
+        "strasse": "Malteserstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Physik der Erde und Atmosph\u00e4re",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Psychologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Germanistik",
+                "fsem": 7
             }
         ],
-        "vorname": "Christhardt",
-        "weiblich": false
+        "vorname": "Gerburg",
+        "weiblich": true
     }
 }

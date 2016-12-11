@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1890355,
+    "nummer": 2217792,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.05.1997",
-        "matrikelnummer": 2180562,
+        "fakultaet": 8,
+        "geburtsdatum": "20.08.1996",
+        "matrikelnummer": 3015369,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmidtke",
-        "plzort": "53163 Bonn",
+        "nachname": "Steinhoff",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Galeriestra\u00dfe 2",
+        "strasse": "Am Steinacker 20",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Benediktus",
+        "vorname": "Maximillian",
         "weiblich": false
     }
 }

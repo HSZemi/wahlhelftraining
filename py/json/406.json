@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2680275,
+    "nummer": 1906554,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "28.03.1994",
-        "matrikelnummer": 2546735,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "19.03.1997",
+        "matrikelnummer": 140827,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00fchl",
-        "plzort": "53113 Bonn",
+        "nachname": "Brennecke",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00f6melburgweg 3",
+        "strasse": "Jakobsbrunnenstra\u00dfe 26",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 4
             }
         ],
-        "vorname": "Sibille",
+        "vorname": "Edith",
         "weiblich": true
     }
 }

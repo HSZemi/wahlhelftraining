@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1333272,
+    "nummer": 1555630,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 1,
-        "geburtsdatum": "19.11.1986",
-        "matrikelnummer": 18909,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "02.06.1996",
+        "matrikelnummer": 2001691,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmoll",
-        "plzort": "53205 Bonn",
+        "nachname": "Plank",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Werkstra\u00dfe 4",
+        "strasse": "Seehofstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 10
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 11
             }
         ],
-        "vorname": "Ottheinz",
-        "weiblich": false
+        "vorname": "Agnes",
+        "weiblich": true
     }
 }

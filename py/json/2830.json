@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2261302,
+    "nummer": 1565465,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "20.08.1999",
-        "matrikelnummer": 2089044,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "01.02.1993",
+        "matrikelnummer": 2457508,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Herrmann",
-        "plzort": "53174 Bonn",
+        "nachname": "Wendt",
+        "plzort": "56729 Langenfeld",
         "sternchen": 0,
-        "strasse": "Bergbahnstra\u00dfe 3",
+        "strasse": "Wieckestra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 5
+                "fsem": 9
             }
         ],
-        "vorname": "Freya",
+        "vorname": "Aslind",
         "weiblich": true
     }
 }

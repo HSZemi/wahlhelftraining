@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1700852,
+    "nummer": 1160453,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.05.1999",
-        "matrikelnummer": 1940489,
+        "fakultaet": 3,
+        "geburtsdatum": "02.05.1987",
+        "matrikelnummer": 2037867,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Elsner",
-        "plzort": "53159 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schillinger",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Anton-Weck-Stra\u00dfe 4",
+        "strasse": "Richardstra\u00dfenbr\u00fccke 26",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 7
             }
         ],
-        "vorname": "Tiberius",
-        "weiblich": false
+        "vorname": "Clarissa",
+        "weiblich": true
     }
 }

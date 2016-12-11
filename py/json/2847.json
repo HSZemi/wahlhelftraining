@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2773949,
+    "nummer": 2034000,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "28.07.1999",
-        "matrikelnummer": 2457249,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "04.03.1995",
+        "matrikelnummer": 12737,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Adler",
-        "plzort": "53179 Bonn",
+        "nachname": "Thon",
+        "plzort": "17237 Watzkendorf",
         "sternchen": 0,
-        "strasse": "Karl-Lachmann-Stra\u00dfe 10",
+        "strasse": "Gro\u00dfsedlitzer Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Nathalie",
+        "vorname": "Kyra",
         "weiblich": true
     }
 }

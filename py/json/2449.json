@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2032447,
+    "nummer": 2503781,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.12.1996",
-        "matrikelnummer": 2652775,
+        "fakultaet": 5,
+        "geburtsdatum": "21.01.1994",
+        "matrikelnummer": 2809858,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wiegel",
-        "plzort": "53163 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wunderlich",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Kellerberg 8",
+        "strasse": "Sachsdorfer Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
                 "fsem": 11
             }
         ],
-        "vorname": "Luitwin",
-        "weiblich": false
+        "vorname": "Leoni",
+        "weiblich": true
     }
 }

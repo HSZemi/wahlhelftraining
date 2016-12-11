@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1867378,
+    "nummer": 1116760,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.03.1994",
-        "matrikelnummer": 15592,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "01.07.1994",
+        "matrikelnummer": 2774341,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ammon",
-        "plzort": "53195 Bonn",
+        "nachname": "Stoffel",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Leimenrode 1",
+        "strasse": "L\u00fcneburger Stra\u00dfe 16",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 5
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
+                "fach": "Tierwissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Helfried",
-        "weiblich": false
+        "vorname": "Mia",
+        "weiblich": true
     }
 }

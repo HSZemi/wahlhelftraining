@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2939462,
+    "nummer": 1444618,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "26.07.1997",
-        "matrikelnummer": 2800819,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "03.10.1999",
+        "matrikelnummer": 3024320,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Junghans",
-        "plzort": " ",
+        "nachname": "Ruoff",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Pre\u00dfgasse 0",
+        "strasse": "Alpenroder Stra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Neurosciences",
-                "fsem": 9
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Kordula",
+        "vorname": "Birte",
         "weiblich": true
     }
 }

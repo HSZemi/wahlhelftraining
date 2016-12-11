@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2990736,
+    "nummer": 2528456,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.12.1992",
-        "matrikelnummer": 2636425,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Weinberger",
-        "plzort": "53154 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "18.02.1991",
+        "matrikelnummer": 3044425,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Siegl",
+        "plzort": "25842 Bargum",
         "sternchen": 0,
-        "strasse": "Bruderwaldstr. 24",
+        "strasse": "Goernebr\u00fccke 8",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 9
             }
         ],
-        "vorname": "Hanne",
-        "weiblich": true
+        "vorname": "Karlfriedrich",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2652820,
+    "nummer": 2821273,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.06.1989",
-        "matrikelnummer": 2457835,
+        "fakultaet": 6,
+        "geburtsdatum": "01.12.1992",
+        "matrikelnummer": 129153,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bergner",
-        "plzort": "53183 Bonn",
+        "nachname": "Weinberg",
+        "plzort": "85395 Attenkirchen",
         "sternchen": 0,
-        "strasse": "Curtiusweg 2",
+        "strasse": "Rathenauplatz 10",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 10
             }
         ],
-        "vorname": "Heliane",
+        "vorname": "Rosegunde",
         "weiblich": true
     }
 }

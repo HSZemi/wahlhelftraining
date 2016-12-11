@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2433200,
+    "nummer": 2663782,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.09.1995",
-        "matrikelnummer": 2056572,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "26.01.1996",
+        "matrikelnummer": 2059396,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fromme",
-        "plzort": "53137 Bonn",
+        "nachname": "Weinrich",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Heine-Stra\u00dfe 1",
+        "strasse": "Konrad-Glatt-Stra\u00dfe 0a",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Swen",
+        "vorname": "Emmeram",
         "weiblich": false
     }
 }

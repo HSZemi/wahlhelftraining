@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1004604,
+    "nummer": 1169466,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "23.01.1994",
-        "matrikelnummer": 12168,
+        "geburtsdatum": "03.06.1987",
+        "matrikelnummer": 2249124,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Vaupel",
-        "plzort": "53132 Bonn",
+        "nachname": "Panzer",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Rauchstra\u00dfe 4",
+        "strasse": "Sterntalerstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Didaktik der Geschichte",
+                "fsem": 4
             }
         ],
-        "vorname": "Hansi",
-        "weiblich": false
+        "vorname": "Anje",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2446672,
+    "nummer": 2220505,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "21.12.1999",
-        "matrikelnummer": 2006085,
+        "geburtsdatum": "06.10.1994",
+        "matrikelnummer": 144960,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zieger",
-        "plzort": "53209 Bonn",
+        "nachname": "Ziemann",
+        "plzort": "24793 Brammer",
         "sternchen": 0,
-        "strasse": "An der Sch\u00e4ferei 4",
+        "strasse": "Esperantostra\u00dfe 6a",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Einhardt",
+        "vorname": "Marko",
         "weiblich": false
     }
 }

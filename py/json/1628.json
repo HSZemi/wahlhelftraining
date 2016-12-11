@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1307131,
+    "nummer": 2061148,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "14.11.1997",
-        "matrikelnummer": 17468,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "23.09.1990",
+        "matrikelnummer": 2133724,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Giesecke",
-        "plzort": "o",
+        "nachname": "Bruns",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "J\u00fcrsweg 0",
+        "strasse": "Antoniplatz 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 7
             }
         ],
-        "vorname": "Bertfriede",
-        "weiblich": true
+        "vorname": "Gangolf",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1406111,
+    "nummer": 1061172,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.05.1986",
-        "matrikelnummer": 118027,
+        "fakultaet": 4,
+        "geburtsdatum": "19.06.1993",
+        "matrikelnummer": 2925478,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6cher",
-        "plzort": "53117 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "H\u00e4rtl",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Reism\u00fchle 18a",
+        "strasse": "Albert-Wolf-Platz 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Valeria",
+        "vorname": "Olinde",
         "weiblich": true
     }
 }

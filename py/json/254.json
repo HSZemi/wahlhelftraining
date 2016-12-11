@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2037284,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2106317,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "28.01.1990",
-        "matrikelnummer": 2767144,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "26.06.1995",
+        "matrikelnummer": 3111716,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlick",
-        "plzort": "53156 Bonn",
+        "nachname": "Petersen",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00fcckersbr\u00fccke 0",
+        "strasse": "Adolf-Leweke-Stra\u00dfe 4d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Lateinamerika- und Altamerikastudien",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 11
             }
         ],
-        "vorname": "Gundhart",
+        "vorname": "Gerwald",
         "weiblich": false
     }
 }

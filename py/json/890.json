@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2521994,
+    "nummer": 1277229,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "24.03.1993",
-        "matrikelnummer": 2929684,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "27.03.1990",
+        "matrikelnummer": 2665298,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Burkhart",
-        "plzort": "53163 Bonn",
+        "nachname": "Wenig",
+        "plzort": "76689 Karlsdorf-Neuthard",
         "sternchen": 0,
-        "strasse": "Sultanstra\u00dfe 2",
+        "strasse": "Ackerweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Willma",
-        "weiblich": true
+        "vorname": "Eckhold",
+        "weiblich": false
     }
 }

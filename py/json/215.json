@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1930897,
+    "nummer": 1781376,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "02.06.1994",
-        "matrikelnummer": 2246028,
+        "geburtsdatum": "24.01.1993",
+        "matrikelnummer": 3076552,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mehlhorn",
-        "plzort": "53216 Bonn",
+        "nachname": "Liebe",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hellerrand 11",
+        "strasse": "Altenberger Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Magister Theologiae (ev.)",
                 "fach": "Evangelische Theologie",
-                "fsem": 13
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Gerhart",
-        "weiblich": false
+        "vorname": "Leokadia",
+        "weiblich": true
     }
 }

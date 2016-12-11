@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1412167,
+    "nummer": 1894494,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.09.1996",
-        "matrikelnummer": 2970198,
+        "fakultaet": 0,
+        "geburtsdatum": "07.11.1994",
+        "matrikelnummer": 3154860,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leibold",
-        "plzort": "53120 Bonn",
+        "nachname": "Bitzer",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Quirinsstra\u00dfe 1",
+        "strasse": "Eichbuschweg 30",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Steffie",
+        "vorname": "Apollonia",
         "weiblich": true
     }
 }

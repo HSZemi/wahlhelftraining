@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2293632,
+    "nummer": 1340707,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.07.1998",
-        "matrikelnummer": 2371647,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "24.04.1998",
+        "matrikelnummer": 3068927,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hammann",
-        "plzort": "53222 Bonn",
+        "nachname": "Mezger",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Leibnizstra\u00dfe 2",
+        "strasse": "Franz-Lenbach-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Wastl",
-        "weiblich": false
+        "vorname": "Gertraud",
+        "weiblich": true
     }
 }

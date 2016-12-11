@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2216849,
+    "nummer": 1304265,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.12.1994",
-        "matrikelnummer": 2826869,
+        "fakultaet": 0,
+        "geburtsdatum": "20.04.1992",
+        "matrikelnummer": 2080620,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gast",
-        "plzort": "53116 Bonn",
+        "nachname": "Hackl",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Stra\u00dfe des 17.Juni 5",
+        "strasse": "Silesiusstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 13
             }
         ],
-        "vorname": "Luzie",
-        "weiblich": true
+        "vorname": "Volkart",
+        "weiblich": false
     }
 }

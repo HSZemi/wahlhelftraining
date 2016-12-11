@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1123407,
+    "semester": "Sommersemester 2016",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "11.05.1990",
+        "matrikelnummer": 127757,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Knoll",
+        "plzort": "53157 Bonn",
+        "sternchen": 0,
+        "strasse": "Br\u00fcckenstra\u00dfe 12",
+        "studienfaecher": [
+            {
+                "abschluss": "Master of Science",
+                "fach": "Arzneimittelforschung (Drug Research)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
+            }
+        ],
+        "vorname": "Paulus",
+        "weiblich": false
+    }
+}

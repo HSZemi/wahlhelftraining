@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2618508,
+    "nummer": 1042754,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.05.1994",
-        "matrikelnummer": 2749138,
+        "fakultaet": 8,
+        "geburtsdatum": "28.11.1996",
+        "matrikelnummer": 2101838,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schanz",
-        "plzort": "53227 Bonn",
+        "nachname": "Wegner",
+        "plzort": "27449 Kutenholz",
         "sternchen": 0,
-        "strasse": "Rohmerplatz 8",
+        "strasse": "Theodor-Heuss-Allee 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 7
             }
         ],
-        "vorname": "Dietwolf",
+        "vorname": "Friedlieb",
         "weiblich": false
     }
 }

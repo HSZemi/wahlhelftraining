@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2985715,
+    "nummer": 1069781,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.08.1993",
-        "matrikelnummer": 2819388,
+        "fakultaet": 4,
+        "geburtsdatum": "23.05.1999",
+        "matrikelnummer": 2574416,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jentsch",
-        "plzort": "7",
+        "nachname": "Haag",
+        "plzort": "06780 Z\u00f6rbig",
         "sternchen": 0,
-        "strasse": "Lingnerallee 8",
+        "strasse": "Thudichumstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 5
             }
         ],
-        "vorname": "Miroslawa",
-        "weiblich": true
+        "vorname": "Ehrenfried",
+        "weiblich": false
     }
 }

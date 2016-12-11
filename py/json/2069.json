@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1087860,
+    "nummer": 1850786,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "22.04.1992",
-        "matrikelnummer": 2950594,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "17.08.1994",
+        "matrikelnummer": 2409256,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meindl",
-        "plzort": "53151 Bonn",
+        "nachname": "K\u00f6ppel",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Holzweg 2",
+        "strasse": "Im Vogelsgesang 12",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 4
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Haymo",
-        "weiblich": false
+        "vorname": "Irmfriede",
+        "weiblich": true
     }
 }

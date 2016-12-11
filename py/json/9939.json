@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": true,
+        "sp": true
+    },
+    "nummer": 2288723,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "11.11.1992",
+        "matrikelnummer": 3001802,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kugel",
+        "plzort": "27249 Mellinghausen",
+        "sternchen": 0,
+        "strasse": "Bughofer Str. 1",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
+            }
+        ],
+        "vorname": "Mechtild",
+        "weiblich": true
+    }
+}

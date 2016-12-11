@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2443041,
+    "nummer": 1459777,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "03.09.1995",
-        "matrikelnummer": 2256982,
+        "fakultaet": 7,
+        "geburtsdatum": "18.06.1993",
+        "matrikelnummer": 1961865,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kirch",
-        "plzort": "5",
+        "nachname": "Hermes",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Sternweg 0",
+        "strasse": "Bechsteinstra\u00dfe 0a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 6
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 10
             }
         ],
-        "vorname": "Annita",
+        "vorname": "Annetraude",
         "weiblich": true
     }
 }

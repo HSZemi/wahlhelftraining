@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2123191,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "05.03.1990",
+        "matrikelnummer": 2175984,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Moser",
+        "plzort": "07619 Schk\u00f6len",
+        "sternchen": 0,
+        "strasse": "St. Georgs Kirchhof 2",
+        "studienfaecher": [
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 6
+            }
+        ],
+        "vorname": "Hermfried",
+        "weiblich": false
+    }
+}

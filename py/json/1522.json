@@ -1,41 +1,46 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1214704,
+    "nummer": 1060586,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "17.08.1988",
-        "matrikelnummer": 2844477,
+        "geburtsdatum": "05.01.1997",
+        "matrikelnummer": 3177039,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hellmuth",
-        "plzort": " ",
+        "nachname": "Haug",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Gauguinweg 2",
+        "strasse": "An der S\u00fcdlehne 0",
         "studienfaecher": [
             {
                 "abschluss": "LA MA Gym Ge",
-                "fach": "Katholische Religionslehre",
-                "fsem": 4
+                "fach": "Griechisch",
+                "fsem": 13
             },
             {
                 "abschluss": "",
-                "fach": "Latein",
-                "fsem": 4
+                "fach": "Englisch",
+                "fsem": 13
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Virginia",
-        "weiblich": true
+        "vorname": "Wendelinus",
+        "weiblich": false
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2427943,
+    "nummer": 2383308,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "24.02.1988",
-        "matrikelnummer": 2362748,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "08.03.1991",
+        "matrikelnummer": 2645279,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scheck",
-        "plzort": "o",
+        "nachname": "Kapp",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Aubachweg 1",
+        "strasse": "Flaischlenstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 3
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Annely",
+        "vorname": "Kornelia",
         "weiblich": true
     }
 }

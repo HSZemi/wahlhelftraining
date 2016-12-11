@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2012430,
+    "nummer": 1622645,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.05.1994",
-        "matrikelnummer": 2004372,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "12.12.1990",
+        "matrikelnummer": 2631973,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlick",
-        "plzort": "2",
+        "nachname": "Franke",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Vogelstellerweg 18",
+        "strasse": "Lauterbacher Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Relindis",
-        "weiblich": true
+        "vorname": "Wenzel",
+        "weiblich": false
     }
 }

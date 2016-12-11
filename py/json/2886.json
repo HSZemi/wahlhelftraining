@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1927923,
+    "nummer": 1346152,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "04.06.1994",
-        "matrikelnummer": 2027596,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "02.04.1990",
+        "matrikelnummer": 2949993,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stumpe",
-        "plzort": "B",
+        "nachname": "Zell",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Eichh\u00f6rnchenweg 3",
+        "strasse": "Niederauer Stra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Keltologie",
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
                 "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Sprachlernforschung",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 11
             }
         ],
-        "vorname": "Hasko",
+        "vorname": "Hildmar",
         "weiblich": false
     }
 }

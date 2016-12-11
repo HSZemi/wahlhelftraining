@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2581713,
+    "nummer": 1850079,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "11.09.1993",
-        "matrikelnummer": 2305995,
-        "mehrfachausfertigung": 4,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "06.09.1991",
+        "matrikelnummer": 2645619,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sorge",
-        "plzort": "n",
+        "nachname": "Spieker",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Birkenhain 30",
+        "strasse": "Stegerwaldstra\u00dfe 39",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 8
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
-                "fsem": 13
+                "fach": "Entwicklungsforschung",
+                "fsem": 4
             }
         ],
-        "vorname": "Renatus",
-        "weiblich": false
+        "vorname": "Sofia",
+        "weiblich": true
     }
 }

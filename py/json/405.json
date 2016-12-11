@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1464053,
+    "nummer": 1373917,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "04.03.1993",
-        "matrikelnummer": 2656555,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "06.08.1991",
+        "matrikelnummer": 3028520,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rieger",
-        "plzort": "53198 Bonn",
+        "nachname": "Reichmann",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Roitzscher Dorfstra\u00dfe 9",
+        "strasse": "Martin-Luther-Str. 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Eginald",
-        "weiblich": false
+        "vorname": "Daniela",
+        "weiblich": true
     }
 }

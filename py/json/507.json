@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1395188,
+    "nummer": 1324578,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.12.1999",
-        "matrikelnummer": 2341675,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "02.12.1992",
+        "matrikelnummer": 118819,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Duda",
-        "plzort": "53169 Bonn",
+        "nachname": "Hilgers",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Rosengasse 10",
+        "strasse": "Stormsweg 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Interreligi\u00f6se Studien - Philosophie der Religionen",
-                "fsem": 7
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Danica",
+        "vorname": "Hedy",
         "weiblich": true
     }
 }

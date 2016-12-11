@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2871935,
+    "nummer": 2810911,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "21.10.1993",
-        "matrikelnummer": 2373577,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "15.11.1996",
+        "matrikelnummer": 2572902,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Giesecke",
-        "plzort": "53171 Bonn",
+        "nachname": "B\u00f6hme",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Ferdinand-Scholling-Ring 13d",
+        "strasse": "Martin-Weber-Platz 18",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
-                "fsem": 2
+                "fsem": 4
             }
         ],
-        "vorname": "Christof",
+        "vorname": "Ambros",
         "weiblich": false
     }
 }

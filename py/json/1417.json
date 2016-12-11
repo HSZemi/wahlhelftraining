@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1919472,
+    "nummer": 1703512,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.02.1993",
-        "matrikelnummer": 2659456,
+        "fakultaet": 6,
+        "geburtsdatum": "15.04.1995",
+        "matrikelnummer": 2884231,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Sch\u00fcrer",
-        "plzort": "53220 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lerch",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Michelsberger Str. 12",
+        "strasse": "Paul-Arnsberg-Platz 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 6
+                "fach": "Biochemistry",
+                "fsem": 3
             }
         ],
-        "vorname": "Alfons",
+        "vorname": "Gundhard",
         "weiblich": false
     }
 }

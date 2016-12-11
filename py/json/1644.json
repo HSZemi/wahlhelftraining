@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2031333,
+    "nummer": 1893762,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "26.12.1991",
-        "matrikelnummer": 2360558,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "14.10.1997",
+        "matrikelnummer": 2712286,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neuhaus",
-        "plzort": "53199 Bonn",
+        "nachname": "Homann",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Richter-Stra\u00dfe 6c",
+        "strasse": "Gr\u00fcndelsteig 24",
         "studienfaecher": [
             {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 8
+                "fach": "Neurosciences",
+                "fsem": 11
             }
         ],
-        "vorname": "Margitta",
+        "vorname": "Alin",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2412439,
+    "nummer": 2247442,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "19.11.1994",
-        "matrikelnummer": 2347457,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "27.07.1997",
+        "matrikelnummer": 2811999,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Witte",
-        "plzort": "53179 Bonn",
+        "nachname": "Baumer",
+        "plzort": "03058 Roggosen",
         "sternchen": 0,
-        "strasse": "Arthur-Schlo\u00dfmann-Weg 2c",
+        "strasse": "Beim Gesundbrunnen 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 5
             }
         ],
-        "vorname": "Waldtraut",
+        "vorname": "Rommy",
         "weiblich": true
     }
 }

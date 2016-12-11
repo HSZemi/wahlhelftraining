@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2333583,
+    "nummer": 2440088,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "09.08.1996",
-        "matrikelnummer": 2098567,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "04.07.1999",
+        "matrikelnummer": 2254487,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Taube",
-        "plzort": "53129 Bonn",
+        "nachname": "L\u00fcth",
+        "plzort": "86447 Aindling",
         "sternchen": 0,
-        "strasse": "Ludwig-Emmel-Weg 1",
+        "strasse": "Von-Reider-Str. 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
                 "fsem": 12
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Birgit",
+        "vorname": "Kristiane",
         "weiblich": true
     }
 }

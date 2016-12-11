@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1429845,
+    "nummer": 1895965,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "07.04.1990",
-        "matrikelnummer": 163149,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "06.02.1994",
+        "matrikelnummer": 2922589,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kampmann",
-        "plzort": "53174 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Steffens",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Friedebacher Stra\u00dfe 5d",
+        "strasse": "Reversbrunnenweg 20",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 9
             },
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 5
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Lea",
-        "weiblich": true
+        "vorname": "Arnhart",
+        "weiblich": false
     }
 }

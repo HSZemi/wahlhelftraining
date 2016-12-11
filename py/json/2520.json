@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2054549,
+    "nummer": 2855691,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "10.11.1997",
-        "matrikelnummer": 15981,
+        "geburtsdatum": "27.06.1997",
+        "matrikelnummer": 2126603,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gerling",
-        "plzort": "53173 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Amann",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Gra\u00dfmannweg 14",
+        "strasse": "Moosleitenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "\u00dcbersetzungswissenschaft",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kunstgeschichte",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Koreanisch",
+                "fsem": 10
             }
         ],
-        "vorname": "Dominik",
-        "weiblich": false
+        "vorname": "Raisa",
+        "weiblich": true
     }
 }

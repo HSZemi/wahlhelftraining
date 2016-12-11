@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1666698,
+    "nummer": 1961335,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "24.11.1993",
-        "matrikelnummer": 2376358,
+        "fakultaet": 2,
+        "geburtsdatum": "16.06.1994",
+        "matrikelnummer": 17060,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bruch",
-        "plzort": "3",
+        "nachname": "Lorenz",
+        "plzort": "06779 Thurland",
         "sternchen": 0,
-        "strasse": "Bedrich-Smetana-Stra\u00dfe 2b",
+        "strasse": "Paul-Kornfeld-Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Manhard",
-        "weiblich": false
+        "vorname": "Pamela",
+        "weiblich": true
     }
 }

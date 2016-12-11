@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1146349,
-    "semester": "Sommersemester 2016",
+    "nummer": 1444565,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.02.1999",
-        "matrikelnummer": 2043117,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "14.11.1988",
+        "matrikelnummer": 180274,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bernhard",
-        "plzort": "53201 Bonn",
+        "nachname": "Dieterle",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Richard-Wagner-Str. 0",
+        "strasse": "Kotzschweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 6
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Jannick",
-        "weiblich": false
+        "vorname": "Diethild",
+        "weiblich": true
     }
 }

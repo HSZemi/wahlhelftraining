@@ -1,0 +1,41 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2559312,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "02.05.1987",
+        "matrikelnummer": 2158711,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klinger",
+        "plzort": "53228 Bonn",
+        "sternchen": 0,
+        "strasse": "Im Leimfeld 9",
+        "studienfaecher": [
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            }
+        ],
+        "vorname": "Eberhard",
+        "weiblich": false
+    }
+}

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2019401,
+    "nummer": 1275025,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "03.06.1988",
-        "matrikelnummer": 15302,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Tischer",
-        "plzort": "53211 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "06.07.1997",
+        "matrikelnummer": 1976809,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Weidemann",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Joseph Haydngasse 26",
+        "strasse": "Seeg\u00e4rten 9",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Ilonka",
-        "weiblich": true
+        "vorname": "Gangolf",
+        "weiblich": false
     }
 }

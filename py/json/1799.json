@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2619848,
+    "nummer": 2198842,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.08.1991",
-        "matrikelnummer": 2696483,
+        "fakultaet": 2,
+        "geburtsdatum": "21.02.1993",
+        "matrikelnummer": 1972705,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schick",
-        "plzort": "53218 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pfeil",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Quettigstra\u00dfe 8",
+        "strasse": "Schleemer Ring 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Rutger",
+        "vorname": "Marbod",
         "weiblich": false
     }
 }

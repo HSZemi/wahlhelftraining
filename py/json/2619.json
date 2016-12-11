@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1187417,
+    "nummer": 1646478,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "03.12.1993",
-        "matrikelnummer": 1932802,
+        "fakultaet": 1,
+        "geburtsdatum": "01.10.1998",
+        "matrikelnummer": 13030,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frie\u00df",
-        "plzort": "3",
+        "nachname": "M\u00f6hle",
+        "plzort": "17329 Krackow",
         "sternchen": 0,
-        "strasse": "Am Sch\u00e4nkenberg 12",
+        "strasse": "Privatweg 11",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Immanuel",
-        "weiblich": false
+        "vorname": "Erica",
+        "weiblich": true
     }
 }

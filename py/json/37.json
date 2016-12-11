@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2195254,
+    "nummer": 2244538,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.06.1984",
-        "matrikelnummer": 2685646,
+        "fakultaet": 4,
+        "geburtsdatum": "15.02.1986",
+        "matrikelnummer": 3098901,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Oehler",
-        "plzort": "53186 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Porthstra\u00dfe 13",
+        "strasse": "Winterhuder Marktplatz 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 10
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Italienisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Steph",
+        "vorname": "Marcel",
         "weiblich": false
     }
 }

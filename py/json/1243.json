@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2257295,
+    "nummer": 1705194,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.02.1992",
-        "matrikelnummer": 157546,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "10.12.1990",
+        "matrikelnummer": 2443434,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Probst",
-        "plzort": "53147 Bonn",
+        "nachname": "Lemm",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Madrider Stra\u00dfe 2a",
+        "strasse": "Trienter Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 8
             }
         ],
-        "vorname": "Franzl",
-        "weiblich": false
+        "vorname": "Chantal",
+        "weiblich": true
     }
 }

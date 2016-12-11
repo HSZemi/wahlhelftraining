@@ -4,20 +4,20 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2122247,
+    "nummer": 2437385,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "28.08.1995",
-        "matrikelnummer": 13493,
+        "geburtsdatum": "10.05.1998",
+        "matrikelnummer": 2452433,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Burger",
-        "plzort": "B",
+        "nachname": "Schreiner",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Hallesche Stra\u00dfe 34",
+        "strasse": "Oberh\u00f6chst\u00e4dter Weg 7",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
@@ -25,12 +25,22 @@
                 "fsem": 11
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
                 "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Nicolas",
-        "weiblich": false
+        "vorname": "Annagret",
+        "weiblich": true
     }
 }

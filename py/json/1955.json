@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2046566,
+    "nummer": 1859619,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.12.1996",
-        "matrikelnummer": 1931982,
+        "fakultaet": 4,
+        "geburtsdatum": "26.08.1985",
+        "matrikelnummer": 2601724,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gro\u00dfer",
-        "plzort": "53181 Bonn",
+        "nachname": "Knoll",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Klaus-Mann-Platz 16",
+        "strasse": "Beerenhut 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Egbert",
+        "vorname": "Emil",
         "weiblich": false
     }
 }

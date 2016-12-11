@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1871418,
+    "nummer": 2700168,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.08.1994",
-        "matrikelnummer": 2159189,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 3,
+        "geburtsdatum": "13.04.1994",
+        "matrikelnummer": 131713,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schink",
-        "plzort": "53187 Bonn",
+        "nachname": "Reder",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Berbisdorfer Stra\u00dfe 13",
+        "strasse": "K\u00fcchelstr. 16",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
                 "fsem": 11
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Herrmann",
-        "weiblich": false
+        "vorname": "Hildelies",
+        "weiblich": true
     }
 }

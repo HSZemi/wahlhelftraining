@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2060573,
+    "nummer": 1958690,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "13.05.1990",
-        "matrikelnummer": 2258184,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "07.09.1989",
+        "matrikelnummer": 170310,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thom",
-        "plzort": "1",
+        "nachname": "Stobbe",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Cauerstra\u00dfe 4",
+        "strasse": "Schleemer Br\u00fccke 0",
         "studienfaecher": [
             {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 8
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 2
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Wendelinus",
+        "vorname": "Christof",
         "weiblich": false
     }
 }

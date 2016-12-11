@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2127373,
+    "nummer": 1094968,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.08.1991",
-        "matrikelnummer": 1942361,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "15.08.1995",
+        "matrikelnummer": 2555482,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stroh",
-        "plzort": "53211 Bonn",
+        "nachname": "Fechner",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Grumbacher Stra\u00dfe 0",
+        "strasse": "Wendel-Hipler-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Arch\u00e4ologien",
                 "fsem": 11
             }
         ],
-        "vorname": "Siegrun",
-        "weiblich": true
+        "vorname": "Rico",
+        "weiblich": false
     }
 }

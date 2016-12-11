@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1076498,
+    "nummer": 2554778,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.02.1994",
-        "matrikelnummer": 174943,
+        "fakultaet": 8,
+        "geburtsdatum": "08.05.1997",
+        "matrikelnummer": 112526,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Rudolf",
-        "plzort": "n",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Nelles",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Oskar-Seyffert-Stra\u00dfe 21",
+        "strasse": "Hinterer Graben 20b",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Reinold",
-        "weiblich": false
+        "vorname": "Otti",
+        "weiblich": true
     }
 }

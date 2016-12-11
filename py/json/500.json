@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2459432,
+    "nummer": 2508257,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "19.11.1996",
-        "matrikelnummer": 2567342,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "08.08.1985",
+        "matrikelnummer": 1933548,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meiners",
-        "plzort": "53114 Bonn",
+        "nachname": "Heuer",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Spitzbergstra\u00dfe 15",
+        "strasse": "Rossendorfer Ring 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Vergleichende Literaturwissenschaft",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Peter",
-        "weiblich": false
+        "vorname": "Kreszenz",
+        "weiblich": true
     }
 }

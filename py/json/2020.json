@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1149402,
+    "nummer": 1478508,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.04.1998",
-        "matrikelnummer": 1952622,
+        "fakultaet": 6,
+        "geburtsdatum": "03.07.1996",
+        "matrikelnummer": 11744,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Ebeling",
-        "plzort": "53164 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bohnert",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Jahnbr\u00fccke 10",
+        "strasse": "Haferbl\u00f6cken 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 4
             }
         ],
-        "vorname": "Marietheres",
+        "vorname": "Katerina",
         "weiblich": true
     }
 }

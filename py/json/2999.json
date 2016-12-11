@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1175285,
+    "nummer": 1287178,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "05.03.1994",
-        "matrikelnummer": 2895658,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "08.09.1996",
+        "matrikelnummer": 2863422,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Breunig",
-        "plzort": "53175 Bonn",
+        "nachname": "Emrich",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Bachstra\u00dfenbr\u00fccke 5",
+        "strasse": "Kattowitzer Stra\u00dfe 42",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
                 "fach": "Katholische Theologie",
-                "fsem": 5
+                "fsem": 12
             }
         ],
-        "vorname": "Gundel",
+        "vorname": "Dolores",
         "weiblich": true
     }
 }

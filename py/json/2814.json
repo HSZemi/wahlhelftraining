@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2995253,
+    "nummer": 1260224,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "06.12.1986",
-        "matrikelnummer": 2728794,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "05.08.1989",
+        "matrikelnummer": 1913265,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wecker",
-        "plzort": "n",
+        "nachname": "B\u00fcnger",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Wildunger Stra\u00dfe 4",
+        "strasse": "Werkstra\u00dfe 32",
         "studienfaecher": [
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 4
+            },
             {
                 "abschluss": "Bachelor of Arts",
                 "fach": "Geographie",
-                "fsem": 5
+                "fsem": 1
             }
         ],
-        "vorname": "Elfrieda",
+        "vorname": "Amrei",
         "weiblich": true
     }
 }

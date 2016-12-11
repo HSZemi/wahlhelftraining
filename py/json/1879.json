@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2826670,
+    "nummer": 2717588,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "21.03.1996",
-        "matrikelnummer": 2842689,
+        "fakultaet": 0,
+        "geburtsdatum": "04.06.1987",
+        "matrikelnummer": 2271372,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pongratz",
-        "plzort": "53172 Bonn",
+        "nachname": "Habel",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Br\u00fcningstra\u00dfe 12",
+        "strasse": "Hans-Flesch-Platz 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Manja",
+        "vorname": "Heidelind",
         "weiblich": true
     }
 }

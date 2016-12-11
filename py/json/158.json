@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2193488,
-    "semester": "Sommersemester 2016",
+    "nummer": 1393991,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.01.1990",
-        "matrikelnummer": 2247565,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "05.10.1995",
+        "matrikelnummer": 2292933,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meurer",
-        "plzort": "53151 Bonn",
+        "nachname": "Schr\u00f6er",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Salm\u00fcnsterer Stra\u00dfe 0a",
+        "strasse": "Am Rainchen 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 13
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Burgel",
-        "weiblich": true
+        "vorname": "Friedhold",
+        "weiblich": false
     }
 }

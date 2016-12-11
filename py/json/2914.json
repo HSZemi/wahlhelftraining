@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2303969,
-    "semester": "Sommersemester 2016",
+    "nummer": 2855660,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.06.1993",
-        "matrikelnummer": 122642,
+        "fakultaet": 0,
+        "geburtsdatum": "14.08.1993",
+        "matrikelnummer": 2669685,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kruse",
-        "plzort": " ",
+        "nachname": "Hinze",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Reinhardstra\u00dfe 22",
+        "strasse": "Augustusweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Mathematics",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Myrta",
+        "vorname": "Natalija",
         "weiblich": true
     }
 }

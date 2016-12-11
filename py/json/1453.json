@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1812137,
+    "nummer": 1472670,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.02.1981",
-        "matrikelnummer": 2270198,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 7,
+        "geburtsdatum": "02.05.1999",
+        "matrikelnummer": 154262,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Naumann",
-        "plzort": "53136 Bonn",
+        "nachname": "Melcher",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Holzbergenweg 22",
+        "strasse": "Melisseweg 6",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 9
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
+                "fach": "Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Sighelm",
+        "vorname": "Berti",
         "weiblich": false
     }
 }

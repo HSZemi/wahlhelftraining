@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1283770,
+    "nummer": 1128583,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.09.1992",
-        "matrikelnummer": 2433957,
+        "fakultaet": 0,
+        "geburtsdatum": "26.02.1990",
+        "matrikelnummer": 144902,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ketterer",
-        "plzort": "53153 Bonn",
+        "nachname": "Bluhm",
+        "plzort": "47506 Neukirchen-Vluyn",
         "sternchen": 0,
-        "strasse": "Alexander Wolf-Gasse 0",
+        "strasse": "Am R\u00fctschlehen 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
                 "fsem": 5
             }
         ],
-        "vorname": "Gesche",
-        "weiblich": true
+        "vorname": "Karlgeorg",
+        "weiblich": false
     }
 }

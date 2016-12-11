@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1850690,
+    "nummer": 1112397,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.07.1991",
-        "matrikelnummer": 2835129,
+        "fakultaet": 8,
+        "geburtsdatum": "05.08.1990",
+        "matrikelnummer": 11279,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Moll",
-        "plzort": "53184 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zipfel",
+        "plzort": "17493 Greifswald",
         "sternchen": 0,
-        "strasse": "Wimmelsweg 9",
+        "strasse": "Lersnerstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 1
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Gottwalt",
-        "weiblich": false
+        "vorname": "Jolanthe",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1213961,
+    "nummer": 2407621,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.08.1999",
-        "matrikelnummer": 2316584,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Haller",
-        "plzort": "53119 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "18.07.1992",
+        "matrikelnummer": 1926009,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sperlich",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Hasenbanckweg 3b",
+        "strasse": "Wiesengrund 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 7
             }
         ],
-        "vorname": "Thomas",
+        "vorname": "Albert",
         "weiblich": false
     }
 }

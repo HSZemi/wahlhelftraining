@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2698575,
+    "nummer": 1146365,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "12.01.1989",
-        "matrikelnummer": 2457272,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "25.09.1996",
+        "matrikelnummer": 2909933,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfeifer",
-        "plzort": "53203 Bonn",
+        "nachname": "Rump",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Mei\u00df-Stra\u00dfe 1",
+        "strasse": "Im Heidenfeld 13a",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Tibetologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Siggi",
+        "vorname": "Adelgunde",
         "weiblich": true
     }
 }

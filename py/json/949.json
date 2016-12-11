@@ -1,46 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1641367,
+    "nummer": 2327258,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "14.09.1995",
-        "matrikelnummer": 2570610,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "26.05.1991",
+        "matrikelnummer": 2128819,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Smith",
-        "plzort": "n",
+        "nachname": "Forster",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Schneewittchenweg 11b",
+        "strasse": "J\u00e4gergasse 13",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 8
             },
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Deutsch",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 2
             }
         ],
-        "vorname": "Walther",
+        "vorname": "Tassilo",
         "weiblich": false
     }
 }

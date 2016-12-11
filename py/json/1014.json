@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1401944,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2781367,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.06.1990",
-        "matrikelnummer": 2700491,
+        "fakultaet": 8,
+        "geburtsdatum": "21.09.1988",
+        "matrikelnummer": 2139154,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tischler",
-        "plzort": "53134 Bonn",
+        "nachname": "Seel",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Kuriergang 1",
+        "strasse": "Kurmarkstra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geographie",
-                "fsem": 13
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Annarose",
-        "weiblich": true
+        "vorname": "Nicolas",
+        "weiblich": false
     }
 }

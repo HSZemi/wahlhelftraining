@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1967284,
+    "nummer": 2271761,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "09.09.1994",
-        "matrikelnummer": 129645,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "18.04.1996",
+        "matrikelnummer": 2735825,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sand",
-        "plzort": "53112 Bonn",
+        "nachname": "Benz",
+        "plzort": "16306 Vierraden",
         "sternchen": 0,
-        "strasse": "Gitterseestra\u00dfe 14",
+        "strasse": "Inselstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Hispanistik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
                 "fsem": 6
             }
         ],
-        "vorname": "Gertmund",
-        "weiblich": false
+        "vorname": "Peggy",
+        "weiblich": true
     }
 }

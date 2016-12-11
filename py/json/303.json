@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2254997,
+    "nummer": 2736251,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.05.1996",
-        "matrikelnummer": 2208272,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "01.01.1998",
+        "matrikelnummer": 13591,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lucas",
-        "plzort": "53192 Bonn",
+        "nachname": "Brunke",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Hanfftsweg 10",
+        "strasse": "Miltenberger Stra\u00dfe 26d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Anglistik/Englische Sprache u. mittelalterliche",
+                "fsem": 5
             }
         ],
-        "vorname": "Michaele",
-        "weiblich": true
+        "vorname": "Jonny",
+        "weiblich": false
     }
 }

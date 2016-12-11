@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1452017,
+    "nummer": 1530567,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "08.02.1993",
-        "matrikelnummer": 2386388,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "24.08.1992",
+        "matrikelnummer": 2609454,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlicht",
-        "plzort": "53210 Bonn",
+        "nachname": "Tischer",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hirtenacker 2",
+        "strasse": "Obere Seelgasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 3
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
             }
         ],
-        "vorname": "Philine",
-        "weiblich": true
+        "vorname": "Eckard",
+        "weiblich": false
     }
 }

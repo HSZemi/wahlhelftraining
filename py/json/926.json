@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1586325,
+    "nummer": 1960780,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.10.1999",
-        "matrikelnummer": 2462892,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "27.08.1990",
+        "matrikelnummer": 18863,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seidler",
-        "plzort": "53212 Bonn",
+        "nachname": "Amann",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Eckdahl 1",
+        "strasse": "Foockenstra\u00dfe 4e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Chemistry",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 12
             }
         ],
-        "vorname": "Krista",
+        "vorname": "Edeltraud",
         "weiblich": true
     }
 }

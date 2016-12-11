@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2931555,
+    "nummer": 2396110,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "25.04.1993",
-        "matrikelnummer": 2534543,
+        "fakultaet": 9,
+        "geburtsdatum": "23.08.1989",
+        "matrikelnummer": 15232,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Ruoff",
-        "plzort": "53176 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinen",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Bautzner Landstra\u00dfe 11c",
+        "strasse": "F\u00e4hrstra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "fach": "Economics",
+                "fsem": 3
             }
         ],
-        "vorname": "Cordt",
+        "vorname": "Marcel",
         "weiblich": false
     }
 }

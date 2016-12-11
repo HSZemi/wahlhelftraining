@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1097692,
+    "nummer": 1390770,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.02.1996",
-        "matrikelnummer": 2169709,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "13.04.1989",
+        "matrikelnummer": 2347390,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Tiemann",
-        "plzort": "53141 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hinrichs",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Gewandhausstra\u00dfe 27",
+        "strasse": "Gasanstaltstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
             }
         ],
-        "vorname": "Aloisius",
+        "vorname": "Niklaus",
         "weiblich": false
     }
 }

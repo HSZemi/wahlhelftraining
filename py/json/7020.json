@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": true
+    },
+    "nummer": 2374380,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "23.01.1994",
+        "matrikelnummer": 3135706,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Frahm",
+        "plzort": "53219 Bonn",
+        "sternchen": 0,
+        "strasse": "Julius-Kobler-Weg 5",
+        "studienfaecher": [
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 1
+            }
+        ],
+        "vorname": "Margrit",
+        "weiblich": true
+    }
+}

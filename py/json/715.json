@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1046980,
+    "nummer": 1879322,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.11.1998",
-        "matrikelnummer": 2765219,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "11.02.1999",
+        "matrikelnummer": 2867004,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baier",
-        "plzort": "53152 Bonn",
+        "nachname": "Schl\u00f6mer",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "W\u00fcrzburger Str. 29",
+        "strasse": "Kleinhausweg 27",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Arzneimittelforschung (Drug Research)",
-                "fsem": 8
+                "fach": "Neurosciences",
+                "fsem": 10
             }
         ],
-        "vorname": "Dietbald",
+        "vorname": "Lienhardt",
         "weiblich": false
     }
 }

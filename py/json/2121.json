@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2425961,
+    "nummer": 1440328,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "01.07.1990",
-        "matrikelnummer": 2517764,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "11.01.1999",
+        "matrikelnummer": 2384432,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bonn",
-        "plzort": "53148 Bonn",
+        "nachname": "Feldmann",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Rohrbachstra\u00dfe 19",
+        "strasse": "Fachfeldstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 7
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Wilhard",
+        "vorname": "Timmo",
         "weiblich": false
     }
 }

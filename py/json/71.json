@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2820619,
+    "nummer": 2141288,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.10.1988",
-        "matrikelnummer": 2481121,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "15.10.1993",
+        "matrikelnummer": 179183,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinke",
-        "plzort": "53150 Bonn",
+        "nachname": "Becker",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Mergenthalerstra\u00dfe 8e",
+        "strasse": "Buger Hauptstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 10
             }
         ],
-        "vorname": "Konrad",
-        "weiblich": false
+        "vorname": "Marianne",
+        "weiblich": true
     }
 }

@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2674896,
+    "semester": "Sommersemester 2016",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "22.08.1991",
+        "matrikelnummer": 11400,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Greger",
+        "plzort": "30539 Hannover",
+        "sternchen": 0,
+        "strasse": "Agnesstr. 5",
+        "studienfaecher": [
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
+            }
+        ],
+        "vorname": "Damian",
+        "weiblich": false
+    }
+}

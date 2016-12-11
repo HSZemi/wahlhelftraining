@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1321499,
+    "nummer": 2539056,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.12.1994",
-        "matrikelnummer": 114246,
+        "fakultaet": 8,
+        "geburtsdatum": "13.03.1987",
+        "matrikelnummer": 3047805,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lenz",
-        "plzort": "53200 Bonn",
+        "nachname": "Pohle",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Auf der Scheibe 2",
+        "strasse": "Spiegelgraben 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 5
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Inna",
-        "weiblich": true
+        "vorname": "Bertold",
+        "weiblich": false
     }
 }

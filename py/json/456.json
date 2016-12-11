@@ -2,45 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2572037,
+    "nummer": 1915953,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "01.07.1989",
-        "matrikelnummer": 127026,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "04.12.1996",
+        "matrikelnummer": 1900332,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53170 Bonn",
+        "nachname": "Kn\u00f6dler",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Hynspergstra\u00dfe 32",
+        "strasse": "Nordweg 3",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "fach": "Zahnmedizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Ekkehart",
+        "vorname": "Xaver",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2371042,
+    "nummer": 1930726,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.01.1987",
-        "matrikelnummer": 16460,
+        "fakultaet": 2,
+        "geburtsdatum": "02.12.1999",
+        "matrikelnummer": 1937103,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brandenburg",
-        "plzort": "53163 Bonn",
+        "nachname": "Waibel",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Luttge-Marie-Weg 0",
+        "strasse": "Tocklergasse 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Vergleichende Literaturwissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Dierk",
+        "vorname": "Hadubert",
         "weiblich": false
     }
 }

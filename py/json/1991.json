@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1714688,
+    "nummer": 1632921,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "07.11.1985",
-        "matrikelnummer": 2558925,
+        "fakultaet": 3,
+        "geburtsdatum": "07.07.1990",
+        "matrikelnummer": 2549683,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinkamp",
-        "plzort": "53145 Bonn",
+        "nachname": "Spiekermann",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Konrad-Kreutzer-Stra\u00dfe 14",
+        "strasse": "Zschonerblick 6",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Biologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Katholische Religionslehre",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "K\u00e4te",
-        "weiblich": true
+        "vorname": "Notker",
+        "weiblich": false
     }
 }

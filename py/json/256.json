@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1158828,
+    "nummer": 2513661,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "06.01.1986",
-        "matrikelnummer": 2924596,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "04.07.1986",
+        "matrikelnummer": 2107987,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kerkhoff",
-        "plzort": " ",
+        "nachname": "Frick",
+        "plzort": "91639 Wolframs-Eschenbach",
         "sternchen": 0,
-        "strasse": "Josef Reichl-Gasse 6e",
+        "strasse": "Untere Br\u00fccke 42d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Paulina",
-        "weiblich": true
+        "vorname": "Adolf",
+        "weiblich": false
     }
 }

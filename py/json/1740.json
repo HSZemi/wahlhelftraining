@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2814197,
+    "nummer": 1618855,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "21.10.1990",
-        "matrikelnummer": 2014528,
+        "fakultaet": 0,
+        "geburtsdatum": "09.07.1991",
+        "matrikelnummer": 3011060,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meisel",
-        "plzort": "53161 Bonn",
+        "nachname": "Plate",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Stegstra\u00dfe 3",
+        "strasse": "G\u00fcnderrodestra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 2
             }
         ],
-        "vorname": "Waldtraut",
-        "weiblich": true
+        "vorname": "Frithjof",
+        "weiblich": false
     }
 }

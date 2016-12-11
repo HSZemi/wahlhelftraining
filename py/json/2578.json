@@ -4,38 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2242339,
+    "nummer": 1759480,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.04.1993",
-        "matrikelnummer": 2786698,
+        "fakultaet": 7,
+        "geburtsdatum": "24.07.1991",
+        "matrikelnummer": 2027082,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hell",
-        "plzort": "53175 Bonn",
+        "nachname": "Rott",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "St\u00e4ndlerstr. 0",
+        "strasse": "Fritz-Schreiter-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 12
             },
             {
                 "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 3
+                "fach": "Italienisch",
+                "fsem": 12
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "fsem": 12
             }
         ],
-        "vorname": "Holmer",
-        "weiblich": false
+        "vorname": "Sybil",
+        "weiblich": true
     }
 }

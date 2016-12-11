@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2204419,
+    "nummer": 2259393,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.02.1989",
-        "matrikelnummer": 2003135,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 6,
+        "geburtsdatum": "21.06.1999",
+        "matrikelnummer": 2012434,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Engelhardt",
-        "plzort": "53140 Bonn",
+        "nachname": "Kemmer",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Steinbruchgasse 13e",
+        "strasse": "Hohe Kanzel 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Konstantin",
-        "weiblich": false
+        "vorname": "Thilde",
+        "weiblich": true
     }
 }

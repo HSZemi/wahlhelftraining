@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1128159,
+    "nummer": 1919341,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.07.1994",
-        "matrikelnummer": 2860204,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wieland",
-        "plzort": "o",
+        "fakultaet": 0,
+        "geburtsdatum": "21.12.1995",
+        "matrikelnummer": 2912159,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Behn",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Reu\u00dfstr. 6",
+        "strasse": "Michael-Stumpf-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 7
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Freimut",
+        "vorname": "Berndt",
         "weiblich": false
     }
 }

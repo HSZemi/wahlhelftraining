@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2217680,
+    "nummer": 1822652,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.07.1995",
-        "matrikelnummer": 195634,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "08.02.1997",
+        "matrikelnummer": 1944251,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hansen",
-        "plzort": "53195 Bonn",
+        "nachname": "Breuer",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Franke-Stra\u00dfe 7",
+        "strasse": "Rudolf-Diesel-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Anje",
-        "weiblich": true
+        "vorname": "Wendel",
+        "weiblich": false
     }
 }

@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2208294,
+    "nummer": 2345726,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "19.12.1993",
-        "matrikelnummer": 2135181,
+        "fakultaet": 8,
+        "geburtsdatum": "08.10.1992",
+        "matrikelnummer": 3052476,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tausch",
-        "plzort": "53183 Bonn",
+        "nachname": "Licht",
+        "plzort": "16835 R\u00fcthnick",
         "sternchen": 0,
-        "strasse": "Adelheidstra\u00dfe 17",
+        "strasse": "Iselinstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 10
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Latein",
+                "fsem": 6
             },
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 11
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Lilibeth",
+        "vorname": "Elma",
         "weiblich": true
     }
 }

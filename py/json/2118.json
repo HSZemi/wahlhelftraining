@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2686194,
+    "nummer": 2320988,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "27.05.1996",
-        "matrikelnummer": 2269844,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Seliger",
-        "plzort": "53180 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "14.10.1996",
+        "matrikelnummer": 2012300,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hohmann",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Arndesstieg 2",
+        "strasse": "Sandweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Sylvana",
+        "vorname": "Martine",
         "weiblich": true
     }
 }

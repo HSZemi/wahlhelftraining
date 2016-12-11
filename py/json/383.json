@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1127927,
+    "nummer": 1219000,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "28.04.1997",
-        "matrikelnummer": 1997137,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Giesen",
-        "plzort": " ",
+        "fakultaet": 5,
+        "geburtsdatum": "18.10.1999",
+        "matrikelnummer": 2418587,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Pfeil",
+        "plzort": "97074 W\u00fcrzburg",
         "sternchen": 0,
-        "strasse": "Olbrichstra\u00dfe 0",
+        "strasse": "An der Wildhube 25",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Keltologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 6
             }
         ],
-        "vorname": "Katrein",
+        "vorname": "Emine",
         "weiblich": true
     }
 }

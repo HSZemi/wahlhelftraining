@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1811541,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2899270,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.02.1986",
-        "matrikelnummer": 2435606,
+        "fakultaet": 5,
+        "geburtsdatum": "13.01.1987",
+        "matrikelnummer": 2515793,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grobe",
-        "plzort": "1",
+        "nachname": "R\u00f6hrs",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Bielefelder Stra\u00dfe 15c",
+        "strasse": "Sand\u00e4ckerweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Mikrobiologie",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Annelise",
-        "weiblich": true
+        "vorname": "Raik",
+        "weiblich": false
     }
 }

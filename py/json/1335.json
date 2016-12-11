@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1193075,
+    "nummer": 1089898,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "26.12.1992",
-        "matrikelnummer": 2090441,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Vollmer",
-        "plzort": "53150 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "28.01.1993",
+        "matrikelnummer": 2229840,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zitzmann",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Bannewitzer Stra\u00dfe 1",
+        "strasse": "Hanfstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
                 "fsem": 7
             }
         ],
-        "vorname": "Utto",
+        "vorname": "Christoph",
         "weiblich": false
     }
 }

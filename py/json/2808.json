@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1257485,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1509463,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.08.1993",
-        "matrikelnummer": 2255707,
+        "fakultaet": 5,
+        "geburtsdatum": "05.01.1988",
+        "matrikelnummer": 2017095,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "B\u00f6hnke",
-        "plzort": "n",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kutzner",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Anton-Graff-Stra\u00dfe 6",
+        "strasse": "Lattenkamp 4b",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Hispanistik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Sprachlernforschung",
+                "fsem": 11
             }
         ],
-        "vorname": "Irmtraud",
+        "vorname": "Leni",
         "weiblich": true
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1309768,
+    "nummer": 2152700,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.07.1998",
-        "matrikelnummer": 2045069,
+        "fakultaet": 5,
+        "geburtsdatum": "04.04.1998",
+        "matrikelnummer": 158658,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Timmermann",
-        "plzort": "53190 Bonn",
+        "nachname": "Gra\u00df",
+        "plzort": "06785 Brandhorst",
         "sternchen": 0,
-        "strasse": "Untere M\u00fchlbr\u00fccke 20",
+        "strasse": "Goldbekweg 3",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geschichte",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "S\u00fcdostasienwissenschaft",
+                "fsem": 2
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "fach": "Ernaehrungswiss.",
+                "fsem": 9
             }
         ],
-        "vorname": "Helmuth",
-        "weiblich": false
+        "vorname": "Julie",
+        "weiblich": true
     }
 }

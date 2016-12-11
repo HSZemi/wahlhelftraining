@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2518174,
+    "nummer": 1938983,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.04.1997",
-        "matrikelnummer": 2332062,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "14.08.1998",
+        "matrikelnummer": 1983436,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dohrmann",
-        "plzort": "B",
+        "nachname": "Benecke",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Kauber Weg 7",
+        "strasse": "Nonnenpfad 5",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Sabine",
+        "vorname": "Betti",
         "weiblich": true
     }
 }

@@ -4,48 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2190951,
+    "nummer": 2726372,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.10.1996",
-        "matrikelnummer": 194087,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "15.01.1997",
+        "matrikelnummer": 2224069,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Acker",
-        "plzort": "53227 Bonn",
+        "nachname": "Fuhr",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Am Staffelstein 14",
+        "strasse": "Kiekmoor 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Lateinamerika- und Altamerikastudien",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
                 "fsem": 6
             },
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 5
-            },
-            {
                 "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 7
+                "fach": "Markt und Konsum",
+                "fsem": 6
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 10
             }
         ],
-        "vorname": "Elenore",
-        "weiblich": true
+        "vorname": "Giesbert",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2340879,
+    "nummer": 2841715,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "04.10.1994",
-        "matrikelnummer": 1944346,
+        "fakultaet": 7,
+        "geburtsdatum": "05.04.1992",
+        "matrikelnummer": 144486,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stecher",
-        "plzort": "o",
+        "nachname": "Rotter",
+        "plzort": "89597 Unterwachingen",
         "sternchen": 0,
-        "strasse": "Kurhessenstra\u00dfe 5",
+        "strasse": "Am Hirschknock 20",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 7
             }
         ],
-        "vorname": "Heilwig",
-        "weiblich": false
+        "vorname": "Resel",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1626348,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2147568,
+    "semester": "Wintersemester 2015/2016",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "02.05.1995",
-        "matrikelnummer": 2348900,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Berberich",
-        "plzort": "53172 Bonn",
+        "fakultaet": 7,
+        "geburtsdatum": "05.02.1994",
+        "matrikelnummer": 146944,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Klotz",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Tweest\u00fccken 4",
+        "strasse": "Poststra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 2
             }
         ],
-        "vorname": "Fanny",
-        "weiblich": true
+        "vorname": "Felix",
+        "weiblich": false
     }
 }

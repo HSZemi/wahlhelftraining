@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1376546,
+    "nummer": 2501128,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "24.09.1996",
-        "matrikelnummer": 2790305,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "03.03.1995",
+        "matrikelnummer": 2460812,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Freier",
-        "plzort": "53118 Bonn",
+        "nachname": "Krell",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "An den Geestbergen 8",
+        "strasse": "Berthold-Haupt-Stra\u00dfe 13c",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 7
             }
         ],
-        "vorname": "Kristiane",
+        "vorname": "Irmi",
         "weiblich": true
     }
 }

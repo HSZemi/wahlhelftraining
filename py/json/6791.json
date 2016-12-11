@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": true,
+        "sp": true
+    },
+    "nummer": 1060843,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "15.01.1995",
+        "matrikelnummer": 2725339,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Worm",
+        "plzort": "53113 Bonn",
+        "sternchen": 0,
+        "strasse": "Dr.-Rattel-Str. 1b",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
+            }
+        ],
+        "vorname": "Didi",
+        "weiblich": false
+    }
+}

@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2126690,
+    "nummer": 1965880,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "16.09.1990",
-        "matrikelnummer": 2692792,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "13.03.1993",
+        "matrikelnummer": 1950397,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ro\u00dfmann",
-        "plzort": "n",
+        "nachname": "Weber",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Gustav-Klimt-Weg 14",
+        "strasse": "Lugturmstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 13
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Gitti",
+        "vorname": "Brigitte",
         "weiblich": true
     }
 }

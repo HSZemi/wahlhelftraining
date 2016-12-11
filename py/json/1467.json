@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2123210,
+    "nummer": 2669885,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.09.1991",
-        "matrikelnummer": 2204288,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "01.01.1994",
+        "matrikelnummer": 2281380,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grosser",
-        "plzort": "53196 Bonn",
+        "nachname": "Rettig",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Deutschherrnufer 8",
+        "strasse": "Kellerskopfweg 19",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
+            },
+            {
                 "abschluss": "Master of Arts",
-                "fach": "Germanistik",
-                "fsem": 11
+                "fach": "Gesellschaften, Globalisierung und Entwicklung",
+                "fsem": 3
             }
         ],
-        "vorname": "Gottwalt",
+        "vorname": "Wiegand",
         "weiblich": false
     }
 }

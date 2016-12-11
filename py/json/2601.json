@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1105118,
+    "nummer": 1179392,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.05.1991",
-        "matrikelnummer": 2193956,
+        "fakultaet": 2,
+        "geburtsdatum": "07.05.1998",
+        "matrikelnummer": 3070953,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwanke",
-        "plzort": "1",
+        "nachname": "Kortmann",
+        "plzort": "56291 Wiebelsheim",
         "sternchen": 0,
-        "strasse": "Antonigasse 13",
+        "strasse": "H\u00fchndorfer Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 8
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Carin",
+        "vorname": "Mareen",
         "weiblich": true
     }
 }

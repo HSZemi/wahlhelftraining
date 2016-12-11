@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1749699,
+    "nummer": 1174916,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.10.1991",
-        "matrikelnummer": 2690596,
+        "fakultaet": 7,
+        "geburtsdatum": "04.11.1988",
+        "matrikelnummer": 3138897,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "T\u00fcrk",
-        "plzort": "53180 Bonn",
+        "nachname": "Hauk",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Erich-K\u00e4stner-Stra\u00dfe 20",
+        "strasse": "Am Zwingerteich 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
             }
         ],
-        "vorname": "Bertolt",
-        "weiblich": false
+        "vorname": "Muthild",
+        "weiblich": true
     }
 }

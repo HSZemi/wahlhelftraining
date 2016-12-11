@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 5,
+    "loecher": {
+        "gremien": true,
+        "sp": true
+    },
+    "nummer": 2253483,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "18.03.1991",
+        "matrikelnummer": 2637756,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Buchholz",
+        "plzort": "53186 Bonn",
+        "sternchen": 0,
+        "strasse": "An der Eisenbahn 11",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 12
+            }
+        ],
+        "vorname": "Roselind",
+        "weiblich": true
+    }
+}

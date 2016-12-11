@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 5,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1233110,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "14.11.1994",
+        "matrikelnummer": 2199586,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00e4uerle",
+        "plzort": "53116 Bonn",
+        "sternchen": 0,
+        "strasse": "Rheinstr. 5",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Islamwissenschaft/Nahostsprachen",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Romanistik",
+                "fsem": 5
+            }
+        ],
+        "vorname": "Anett",
+        "weiblich": true
+    }
+}

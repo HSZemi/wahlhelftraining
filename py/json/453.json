@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2980930,
+    "nummer": 1644927,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.06.1993",
-        "matrikelnummer": 115569,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "07.05.1995",
+        "matrikelnummer": 137291,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eller",
+        "nachname": "L\u00fcdemann",
         "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Heisterstra\u00dfe 5c",
+        "strasse": "In den Zeul\u00e4ckern 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Hadumod",
-        "weiblich": true
+        "vorname": "Englbert",
+        "weiblich": false
     }
 }

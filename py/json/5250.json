@@ -1,0 +1,31 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": true,
+        "sp": true
+    },
+    "nummer": 2345203,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "27.09.1998",
+        "matrikelnummer": 2256271,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Volk",
+        "plzort": "53174 Bonn",
+        "sternchen": 0,
+        "strasse": "Eekholtesweg 0",
+        "studienfaecher": [
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 2
+            }
+        ],
+        "vorname": "Angelina",
+        "weiblich": true
+    }
+}

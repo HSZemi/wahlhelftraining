@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2101691,
+    "nummer": 1432724,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.03.1995",
-        "matrikelnummer": 2071443,
+        "fakultaet": 6,
+        "geburtsdatum": "10.06.1996",
+        "matrikelnummer": 172001,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Burk",
-        "plzort": "3",
+        "nachname": "Lindenau",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Lucaestra\u00dfe 12",
+        "strasse": "Markersbacher Weg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Meteorologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Eugenie",
+        "vorname": "Huldine",
         "weiblich": true
     }
 }

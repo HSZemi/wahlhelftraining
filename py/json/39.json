@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2690767,
+    "nummer": 1573163,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "24.08.1990",
-        "matrikelnummer": 2639114,
+        "fakultaet": 5,
+        "geburtsdatum": "16.03.1999",
+        "matrikelnummer": 1952734,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wichmann",
-        "plzort": "53170 Bonn",
+        "nachname": "Heinen",
+        "plzort": "22605 Hamburg",
         "sternchen": 0,
-        "strasse": "Battenberger Weg 10",
+        "strasse": "Am Blankstadl 21",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Chris",
+        "vorname": "Marcel",
         "weiblich": false
     }
 }

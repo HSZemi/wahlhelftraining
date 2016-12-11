@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2214748,
+    "nummer": 2861039,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.12.1991",
-        "matrikelnummer": 2056416,
+        "fakultaet": 4,
+        "geburtsdatum": "27.05.1992",
+        "matrikelnummer": 2481206,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leder",
-        "plzort": "53185 Bonn",
+        "nachname": "Mast",
+        "plzort": "92706 Luhe-Wildenau",
         "sternchen": 0,
-        "strasse": "Josef-Herrmann-Stra\u00dfe 2",
+        "strasse": "Welzelstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 13
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Folkhardt",
+        "vorname": "Thilo",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2175710,
+    "nummer": 1744259,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.10.1999",
-        "matrikelnummer": 2937430,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "07.05.1999",
+        "matrikelnummer": 2809491,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baier",
-        "plzort": "53144 Bonn",
+        "nachname": "Grams",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Spitalgasse 6",
+        "strasse": "Mattkamp 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 10
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 1
             }
         ],
-        "vorname": "Margrid",
-        "weiblich": true
+        "vorname": "Andreas",
+        "weiblich": false
     }
 }

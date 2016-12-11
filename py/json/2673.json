@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1213375,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 1576672,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "11.03.1988",
-        "matrikelnummer": 2363018,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 9,
+        "geburtsdatum": "02.07.1991",
+        "matrikelnummer": 3149070,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frei",
-        "plzort": "53203 Bonn",
+        "nachname": "Heilmann",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Flanbrechtstra\u00dfe 2",
+        "strasse": "Steinbruchgasse 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 2
             }
         ],
-        "vorname": "Lindmar",
-        "weiblich": false
+        "vorname": "Hildegardt",
+        "weiblich": true
     }
 }

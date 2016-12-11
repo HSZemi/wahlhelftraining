@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2272323,
+    "nummer": 2908601,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.03.1999",
-        "matrikelnummer": 2518218,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 3,
+        "geburtsdatum": "13.01.1992",
+        "matrikelnummer": 2102293,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sanders",
-        "plzort": "53192 Bonn",
+        "nachname": "Schuster",
+        "plzort": "90562 Kalchreuth",
         "sternchen": 0,
-        "strasse": "Thurn und Taxis-Platz 2",
+        "strasse": "Gei\u00dflertwiete 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 6
             }
         ],
-        "vorname": "Otthein",
-        "weiblich": false
+        "vorname": "Suse",
+        "weiblich": true
     }
 }

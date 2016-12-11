@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1641728,
+    "nummer": 2363386,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.08.1983",
-        "matrikelnummer": 2033378,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "26.10.1992",
+        "matrikelnummer": 124839,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00f6we",
-        "plzort": "53160 Bonn",
+        "nachname": "Kr\u00f6ll",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-Behrens-Stra\u00dfe 9",
+        "strasse": "Teubnerweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienkommunikation",
                 "fsem": 4
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
+                "abschluss": "",
+                "fach": "S\u00fcdostasienwissenschaft",
                 "fsem": 4
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Ingedore",
-        "weiblich": true
+        "vorname": "Alfhard",
+        "weiblich": false
     }
 }

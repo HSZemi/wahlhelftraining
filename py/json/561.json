@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2609411,
+    "nummer": 1799061,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.01.1989",
-        "matrikelnummer": 2383395,
+        "fakultaet": 8,
+        "geburtsdatum": "15.12.1998",
+        "matrikelnummer": 175771,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Merkl",
-        "plzort": "53210 Bonn",
+        "nachname": "Haug",
+        "plzort": "17248 L\u00e4rz",
         "sternchen": 0,
-        "strasse": "Grillenburger Stra\u00dfe 3",
+        "strasse": "Brahmsstra\u00dfe 6c",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Volkhardt",
+        "vorname": "Walbert",
         "weiblich": false
     }
 }

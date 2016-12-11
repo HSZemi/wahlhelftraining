@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2674312,
+    "nummer": 2923677,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.11.1994",
-        "matrikelnummer": 151548,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "10.09.1995",
+        "matrikelnummer": 121212,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wunsch",
-        "plzort": "53139 Bonn",
+        "nachname": "Weigert",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00fclya-Platz 20",
+        "strasse": "A\u00dflarer Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Wunnibald",
-        "weiblich": false
+        "vorname": "Sylwia",
+        "weiblich": true
     }
 }

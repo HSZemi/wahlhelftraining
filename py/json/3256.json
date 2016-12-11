@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1109330,
+    "semester": "Sommersemester 2016",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "21.05.1993",
+        "matrikelnummer": 2732954,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lohmann",
+        "plzort": "16928 Lindenberg",
+        "sternchen": 0,
+        "strasse": "Gautschweg 11",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 11
+            }
+        ],
+        "vorname": "Tell",
+        "weiblich": false
+    }
+}

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2430111,
+    "nummer": 2536408,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "27.09.1993",
-        "matrikelnummer": 2260787,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "26.08.1988",
+        "matrikelnummer": 2132996,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Licht",
-        "plzort": "53201 Bonn",
+        "nachname": "Klein",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Neulu\u00dfheimer Stra\u00dfe 6",
+        "strasse": "Zum Fruchthof 0",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 9
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 2
             }
         ],
-        "vorname": "Raimond",
-        "weiblich": false
+        "vorname": "Annina",
+        "weiblich": true
     }
 }

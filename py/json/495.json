@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1285809,
+    "nummer": 2808355,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.08.1995",
-        "matrikelnummer": 1954567,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "20.05.1997",
+        "matrikelnummer": 2176000,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "V\u00f6lkel",
-        "plzort": "53204 Bonn",
+        "nachname": "Weinberger",
+        "plzort": "09131 Chemnitz",
         "sternchen": 0,
-        "strasse": "Aubachstr. 22",
+        "strasse": "Kaspar-Siemers-Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Arch\u00e4ologien",
+                "fsem": 4
             },
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 1
+                "abschluss": "",
+                "fach": "Italianistik",
+                "fsem": 10
             }
         ],
-        "vorname": "Hippolytus",
+        "vorname": "Roderich",
         "weiblich": false
     }
 }

@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2187185,
+    "nummer": 1135357,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "06.10.1992",
-        "matrikelnummer": 11448,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "22.05.1995",
+        "matrikelnummer": 2930055,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stork",
-        "plzort": "53181 Bonn",
+        "nachname": "Stange",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Scharfreiterplatz 0a",
+        "strasse": "Neudobritzer Weg 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Holle",
-        "weiblich": true
+        "vorname": "Gotthelf",
+        "weiblich": false
     }
 }

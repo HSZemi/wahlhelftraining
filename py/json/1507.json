@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2337659,
+    "nummer": 2876689,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "02.10.1997",
-        "matrikelnummer": 1914908,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "09.11.1993",
+        "matrikelnummer": 13874,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Saathoff",
-        "plzort": "53216 Bonn",
+        "nachname": "B\u00fcscher",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Brentanopark 2",
+        "strasse": "Bebelstra\u00dfe 12e",
         "studienfaecher": [
             {
                 "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 9
+                "fach": "Ecumenical Studies",
+                "fsem": 11
             }
         ],
-        "vorname": "Anna",
-        "weiblich": true
+        "vorname": "Christopher",
+        "weiblich": false
     }
 }

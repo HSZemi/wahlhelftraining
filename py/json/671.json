@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1625344,
+    "nummer": 2869824,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
         "fakultaet": 1,
-        "geburtsdatum": "05.10.1988",
-        "matrikelnummer": 17837,
+        "geburtsdatum": "09.05.1998",
+        "matrikelnummer": 18450,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reich",
-        "plzort": "53176 Bonn",
+        "nachname": "M\u00f6bius",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Hunnenweg 5",
+        "strasse": "Feiningerstra\u00dfe 3e",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
                 "fach": "Katholische Theologie",
-                "fsem": 4
+                "fsem": 12
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 9
             }
         ],
-        "vorname": "Edwin",
+        "vorname": "Helge",
         "weiblich": false
     }
 }

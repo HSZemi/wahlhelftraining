@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2038479,
+    "nummer": 1652174,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "11.04.1991",
-        "matrikelnummer": 2848596,
+        "fakultaet": 7,
+        "geburtsdatum": "06.09.1996",
+        "matrikelnummer": 148404,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00e4f",
-        "plzort": "5",
+        "nachname": "Rudolph",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hofgut 14",
+        "strasse": "Schneidweg 10",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 1
             }
         ],
-        "vorname": "Myriam",
+        "vorname": "Alix",
         "weiblich": true
     }
 }

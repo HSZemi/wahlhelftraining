@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2854749,
+    "nummer": 1327483,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "27.01.1988",
-        "matrikelnummer": 2590602,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "28.04.1993",
+        "matrikelnummer": 2015017,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kirst",
-        "plzort": "53161 Bonn",
+        "nachname": "Gehrig",
+        "plzort": "25821 Almdorf",
         "sternchen": 0,
-        "strasse": "Lilienthalallee 1",
+        "strasse": "L\u00fcneburger Stra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 3
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Arzneimittelwissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Radegundis",
+        "vorname": "Sinaida",
         "weiblich": true
     }
 }

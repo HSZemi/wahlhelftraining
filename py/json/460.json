@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1899262,
+    "nummer": 2870149,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.12.1993",
-        "matrikelnummer": 2853802,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "21.05.1998",
+        "matrikelnummer": 2533853,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ehrlich",
-        "plzort": "n",
+        "nachname": "Stockmann",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "An der Aue 2",
+        "strasse": "Zachenweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Plant Sciences",
-                "fsem": 9
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Sigtraud",
-        "weiblich": true
+        "vorname": "Wiethold",
+        "weiblich": false
     }
 }

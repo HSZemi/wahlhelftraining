@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2292776,
+    "nummer": 1921738,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "04.04.1988",
-        "matrikelnummer": 2683243,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Tiemann",
-        "plzort": "53130 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "22.11.1994",
+        "matrikelnummer": 2535073,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Peschke",
+        "plzort": "14641 Wansdorf",
         "sternchen": 0,
-        "strasse": "Zur Steinr\u00fccke 27",
+        "strasse": "Max-Planck-Str. 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "\u00c4gyptologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Herzlinde",
+        "vorname": "Marilen",
         "weiblich": true
     }
 }

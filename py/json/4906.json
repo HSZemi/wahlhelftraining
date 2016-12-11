@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 3,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2904775,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "18.02.1991",
+        "matrikelnummer": 123086,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hopp",
+        "plzort": "53143 Bonn",
+        "sternchen": 0,
+        "strasse": "M\u00fchlendamm 4",
+        "studienfaecher": [
+            {
+                "abschluss": "Master of Science",
+                "fach": "Astrophysik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
+            }
+        ],
+        "vorname": "Hartmann",
+        "weiblich": false
+    }
+}

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2492522,
+    "nummer": 2050120,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "15.11.1990",
-        "matrikelnummer": 2626264,
+        "geburtsdatum": "07.10.1998",
+        "matrikelnummer": 153108,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Saur",
-        "plzort": "53201 Bonn",
+        "nachname": "Assmann",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "In den Zeul\u00e4ckern 12c",
+        "strasse": "Nedderster Moorweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Deutsch-Italienische Studien",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sistik",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Otthard",
+        "vorname": "Theophilus",
         "weiblich": false
     }
 }

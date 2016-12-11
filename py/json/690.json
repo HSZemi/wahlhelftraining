@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1337602,
+    "nummer": 1300808,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "16.09.1988",
-        "matrikelnummer": 2941545,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "16.10.1995",
+        "matrikelnummer": 2615291,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wagenknecht",
-        "plzort": "5",
+        "nachname": "Pichler",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Roepersweg 3",
+        "strasse": "Im Trierischen Hof 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 9
             },
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 2
             }
         ],
-        "vorname": "Luzia",
-        "weiblich": true
+        "vorname": "Xaver",
+        "weiblich": false
     }
 }

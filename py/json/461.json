@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1000277,
+    "nummer": 2526072,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "06.03.1993",
-        "matrikelnummer": 2796558,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "26.06.1997",
+        "matrikelnummer": 2800324,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Woll",
-        "plzort": "53112 Bonn",
+        "nachname": "Mair",
+        "plzort": "30171 Hannover",
         "sternchen": 0,
-        "strasse": "Blumenweg 6",
+        "strasse": "Bachforellenweg 1",
         "studienfaecher": [
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 2
+            },
             {
                 "abschluss": "Master of Arts",
                 "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 10
+                "fsem": 1
             }
         ],
-        "vorname": "Siglinde",
-        "weiblich": true
+        "vorname": "Ivo",
+        "weiblich": false
     }
 }

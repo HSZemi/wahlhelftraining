@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2743694,
+    "nummer": 1418377,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.04.1999",
-        "matrikelnummer": 1925752,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "25.08.1988",
+        "matrikelnummer": 131979,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kleiner",
-        "plzort": "5",
+        "nachname": "Kugel",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Ullersdorfer Stra\u00dfe 2",
+        "strasse": "Steinweg 42",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Italienisch",
+                "fsem": 7
             },
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 1
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Freddy",
-        "weiblich": false
+        "vorname": "Siegtraud",
+        "weiblich": true
     }
 }

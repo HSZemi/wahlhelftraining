@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2561566,
+    "nummer": 2294794,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.08.1989",
-        "matrikelnummer": 2623673,
+        "fakultaet": 9,
+        "geburtsdatum": "19.11.1987",
+        "matrikelnummer": 2223800,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haubold",
-        "plzort": "7",
+        "nachname": "Albert",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Hertzstr. 11",
+        "strasse": "Hainsberger Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Arndt",
-        "weiblich": false
+        "vorname": "Friedegund",
+        "weiblich": true
     }
 }

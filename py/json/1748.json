@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2627983,
+    "nummer": 2902901,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.10.1998",
-        "matrikelnummer": 2744750,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "25.07.1990",
+        "matrikelnummer": 2783195,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hensel",
-        "plzort": "53184 Bonn",
+        "nachname": "Volkmer",
+        "plzort": "54570 Meisburg",
         "sternchen": 0,
-        "strasse": "Reichenbachstra\u00dfe 4",
+        "strasse": "Am alten Bahnhof 5",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Geschichte",
-                "fsem": 2
+                "fach": "Medizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Aleksandra",
+        "vorname": "Ortraud",
         "weiblich": true
     }
 }

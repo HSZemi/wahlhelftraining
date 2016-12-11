@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1396226,
+    "nummer": 2297455,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.06.1992",
-        "matrikelnummer": 18269,
+        "fakultaet": 8,
+        "geburtsdatum": "19.07.1995",
+        "matrikelnummer": 3181763,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Fehr",
-        "plzort": "6",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Reichle",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Blumengasse 9",
+        "strasse": "Paul-B\u00fcttner-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Karolina",
-        "weiblich": true
+        "vorname": "Siggi",
+        "weiblich": false
     }
 }

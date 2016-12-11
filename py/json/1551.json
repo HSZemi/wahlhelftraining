@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2384065,
+    "nummer": 2871941,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "19.09.1993",
-        "matrikelnummer": 158295,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "26.10.1993",
+        "matrikelnummer": 2272075,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sauter",
-        "plzort": "3",
+        "nachname": "Neugebauer",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Liehrstra\u00dfe 6",
+        "strasse": "Zwetschgenweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Reny",
-        "weiblich": true
+        "vorname": "Burkhardt",
+        "weiblich": false
     }
 }

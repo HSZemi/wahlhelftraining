@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1228908,
+    "nummer": 1119322,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.11.1998",
-        "matrikelnummer": 2569671,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "27.12.1998",
+        "matrikelnummer": 2686500,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwind",
-        "plzort": "53178 Bonn",
+        "nachname": "Berens",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Pfaffengrund 6",
+        "strasse": "Martin-Andersen-Nex\u00f6-Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Wendel",
-        "weiblich": false
+        "vorname": "Hildegardt",
+        "weiblich": true
     }
 }

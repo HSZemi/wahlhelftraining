@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1789224,
+    "nummer": 1817336,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.04.1993",
-        "matrikelnummer": 2513195,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Radtke",
-        "plzort": "53199 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "11.12.1995",
+        "matrikelnummer": 2186209,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hein",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Rohlederstra\u00dfe 4",
+        "strasse": "H\u00e4nichenweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 13
             }
         ],
-        "vorname": "Rabea",
-        "weiblich": true
+        "vorname": "Burkhard",
+        "weiblich": false
     }
 }

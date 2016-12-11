@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2020193,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2462738,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "05.11.1991",
-        "matrikelnummer": 2103969,
+        "fakultaet": 9,
+        "geburtsdatum": "14.09.1991",
+        "matrikelnummer": 2204450,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Licht",
-        "plzort": "53132 Bonn",
+        "nachname": "Wiedemann",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Dornmattstra\u00dfe 7",
+        "strasse": "Herderstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Helm",
+        "vorname": "Harribert",
         "weiblich": false
     }
 }

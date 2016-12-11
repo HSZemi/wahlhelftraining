@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2796401,
+    "nummer": 2399339,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "16.10.1995",
-        "matrikelnummer": 2238748,
+        "fakultaet": 8,
+        "geburtsdatum": "09.12.1985",
+        "matrikelnummer": 3188785,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Reindl",
-        "plzort": "53216 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Esser",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Knorrstra\u00dfe 8",
+        "strasse": "Hebbelstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Marinette",
+        "vorname": "Hiltraud",
         "weiblich": true
     }
 }

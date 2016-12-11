@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1040130,
+    "nummer": 2874240,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "15.05.1989",
-        "matrikelnummer": 2545865,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "19.10.1995",
+        "matrikelnummer": 1943763,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kohnen",
-        "plzort": "1",
+        "nachname": "Rode",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Gustav-Richter-Stra\u00dfe 7",
+        "strasse": "Lichtenbergstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 13
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Hadmut",
-        "weiblich": true
+        "vorname": "Leopold",
+        "weiblich": false
     }
 }

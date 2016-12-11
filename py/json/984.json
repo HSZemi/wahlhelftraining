@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1425081,
+    "nummer": 2945586,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.06.1986",
-        "matrikelnummer": 2845099,
+        "fakultaet": 2,
+        "geburtsdatum": "26.03.1990",
+        "matrikelnummer": 1953297,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hallmann",
-        "plzort": "6",
+        "nachname": "W\u00fcnsch",
+        "plzort": "04509 Zwochau",
         "sternchen": 0,
-        "strasse": "Thea-Rasche-Stra\u00dfe 18",
+        "strasse": "Am R\u00fctschlehen 3c",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Deutsch-Italienische Studien",
                 "fsem": 5
             }
         ],
-        "vorname": "Rochus",
-        "weiblich": false
+        "vorname": "Lena",
+        "weiblich": true
     }
 }

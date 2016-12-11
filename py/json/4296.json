@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": true,
+        "sp": true
+    },
+    "nummer": 1293452,
+    "semester": "Sommersemester 2016",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "01.04.1991",
+        "matrikelnummer": 192110,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wald",
+        "plzort": "53113 Bonn",
+        "sternchen": 0,
+        "strasse": "Ilmenauer Weg 20",
+        "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 7
+            }
+        ],
+        "vorname": "Zeno",
+        "weiblich": false
+    }
+}

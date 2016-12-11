@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1606817,
+    "nummer": 1437264,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "06.09.1995",
-        "matrikelnummer": 2143021,
+        "fakultaet": 4,
+        "geburtsdatum": "06.04.1992",
+        "matrikelnummer": 2421116,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brix",
-        "plzort": "53221 Bonn",
+        "nachname": "Gutsche",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Neckelmannstra\u00dfe 4",
+        "strasse": "Birkenhain 18",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 1
+                "fach": "Zahnmedizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Ingetrud",
-        "weiblich": true
+        "vorname": "Sonnfried",
+        "weiblich": false
     }
 }

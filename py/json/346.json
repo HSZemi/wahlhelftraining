@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1411321,
-    "semester": "Sommersemester 2016",
+    "nummer": 2780428,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.04.1995",
-        "matrikelnummer": 18768,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Sch\u00f6tz",
-        "plzort": "53170 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "07.12.1999",
+        "matrikelnummer": 2113864,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Garbe",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Konkordienplatz 6",
+        "strasse": "St\u00f6ckelstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 8
             }
         ],
-        "vorname": "Gisa",
+        "vorname": "Gottfriede",
         "weiblich": true
     }
 }

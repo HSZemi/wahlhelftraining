@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1107679,
+    "nummer": 1283137,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "07.12.1994",
-        "matrikelnummer": 2592627,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Meinhardt",
-        "plzort": "3",
+        "fakultaet": 7,
+        "geburtsdatum": "03.05.1999",
+        "matrikelnummer": 2781682,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Doll",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Winckelmannstra\u00dfe 25",
+        "strasse": "Kreuzerhohl 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Anneros",
+        "vorname": "Aurelia",
         "weiblich": true
     }
 }

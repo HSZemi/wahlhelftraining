@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1089071,
+    "nummer": 1463442,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "07.12.1999",
-        "matrikelnummer": 1903204,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "15.06.1999",
+        "matrikelnummer": 193983,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lang",
-        "plzort": "1",
+        "nachname": "K\u00f6hler",
+        "plzort": "99869 Goldbach",
         "sternchen": 0,
-        "strasse": "Zachenweg 29",
+        "strasse": "Kleinfeldstr. 19",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Tibetologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Trutz",
+        "vorname": "Tristan",
         "weiblich": false
     }
 }

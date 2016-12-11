@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1835213,
+    "nummer": 2649056,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.03.1992",
-        "matrikelnummer": 2277123,
+        "fakultaet": 2,
+        "geburtsdatum": "24.02.1989",
+        "matrikelnummer": 2337105,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittke",
-        "plzort": "53229 Bonn",
+        "nachname": "Althaus",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "An den Teichen 1",
+        "strasse": "Heidebl\u00f6ck 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
                 "fsem": 3
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Rainald",
-        "weiblich": false
+        "vorname": "Jeannette",
+        "weiblich": true
     }
 }

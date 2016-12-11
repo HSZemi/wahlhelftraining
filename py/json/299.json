@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1255616,
+    "nummer": 2292772,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.12.1998",
-        "matrikelnummer": 2278511,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "08.12.1997",
+        "matrikelnummer": 2512424,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behling",
-        "plzort": "53157 Bonn",
+        "nachname": "Giesen",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Thymianweg 3",
+        "strasse": "Chlodwig-Poth-Anlage 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Kulturstudien zu Lateinamerika/Estudios culturales de America Latina",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Physik",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Runfried",
-        "weiblich": false
+        "vorname": "Bianka",
+        "weiblich": true
     }
 }

@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2975067,
+    "nummer": 2674053,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "12.07.1999",
-        "matrikelnummer": 2353967,
+        "fakultaet": 0,
+        "geburtsdatum": "10.07.1988",
+        "matrikelnummer": 2010511,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seibel",
-        "plzort": "5",
+        "nachname": "Mester",
+        "plzort": "93083 Obertraubling",
         "sternchen": 0,
-        "strasse": "Zum Eichelberg 7",
+        "strasse": "Jungmannstra\u00dfe 16",
         "studienfaecher": [
             {
                 "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Reinulf",
+        "vorname": "Constantin",
         "weiblich": false
     }
 }

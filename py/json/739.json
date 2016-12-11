@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1890826,
+    "nummer": 1315245,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "16.05.1995",
-        "matrikelnummer": 2687075,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "06.09.1995",
+        "matrikelnummer": 179055,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Posselt",
-        "plzort": "53213 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Seel",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Schimmelsgasse 16",
+        "strasse": "L\u00f6tzener Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Anton",
-        "weiblich": false
+        "vorname": "Berta",
+        "weiblich": true
     }
 }

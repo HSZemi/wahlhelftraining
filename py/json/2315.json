@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2810861,
+    "nummer": 1161555,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.01.1989",
-        "matrikelnummer": 17905,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "19.02.1995",
+        "matrikelnummer": 2648048,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sailer",
-        "plzort": " ",
+        "nachname": "Kuntze",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Neundorfer Stra\u00dfe 25",
+        "strasse": "Sachsenfeld 11a",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 1
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 11
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Judith",
+        "vorname": "Klothildis",
         "weiblich": true
     }
 }

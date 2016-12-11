@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2990681,
+    "nummer": 2569203,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.02.1987",
-        "matrikelnummer": 2991446,
+        "fakultaet": 8,
+        "geburtsdatum": "05.08.1994",
+        "matrikelnummer": 2241465,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Casper",
-        "plzort": "53157 Bonn",
+        "nachname": "Zech",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Halskestra\u00dfe 14",
+        "strasse": "Alts\u00f6brigen 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Christopherus",
-        "weiblich": false
+        "vorname": "Mirjana",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1030256,
+    "nummer": 2950095,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.10.1999",
-        "matrikelnummer": 2216972,
+        "fakultaet": 9,
+        "geburtsdatum": "25.11.1989",
+        "matrikelnummer": 14831,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wein",
-        "plzort": "53215 Bonn",
+        "nachname": "Schaub",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Oskar-Maune-Stra\u00dfe 10",
+        "strasse": "Max-Pruss-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
                 "fsem": 10
             }
         ],
-        "vorname": "Lotte",
+        "vorname": "Karsta",
         "weiblich": true
     }
 }

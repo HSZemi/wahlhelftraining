@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2373987,
+    "nummer": 1006572,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.12.1998",
-        "matrikelnummer": 1994056,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "25.07.1989",
+        "matrikelnummer": 2078577,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwarzkopf",
-        "plzort": "3",
+        "nachname": "Niehoff",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Leuckartstra\u00dfe 13",
+        "strasse": "Eichbuscher Stra\u00dfe 1e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Fr\u00fchgeschichtliche Arch\u00e4ologie und Arch\u00e4ologie der R\u00f6mischen Provinzen",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Englische Philologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Felix",
+        "vorname": "Hagen",
         "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1160302,
+    "nummer": 1135394,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.12.1998",
-        "matrikelnummer": 2961710,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "16.06.1984",
+        "matrikelnummer": 2803804,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kratzer",
-        "plzort": "53119 Bonn",
+        "nachname": "Kracht",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Ferdinand-Kramer-Stra\u00dfe 0",
+        "strasse": "G\u00f6ddestra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 7
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Fine",
-        "weiblich": true
+        "vorname": "Wernhard",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1426230,
+    "nummer": 1056849,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "18.01.1990",
-        "matrikelnummer": 1919501,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "11.08.1999",
+        "matrikelnummer": 2504510,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grunwald",
-        "plzort": "53228 Bonn",
+        "nachname": "Heyer",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00fcttigstra\u00dfe 46",
+        "strasse": "Ulberndorfer Weg 5",
         "studienfaecher": [
             {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 12
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
             }
         ],
-        "vorname": "Alrik",
-        "weiblich": false
+        "vorname": "Siska",
+        "weiblich": true
     }
 }

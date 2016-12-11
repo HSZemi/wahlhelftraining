@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1390974,
+    "nummer": 1328722,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.01.1991",
-        "matrikelnummer": 2463929,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "22.04.1999",
+        "matrikelnummer": 124011,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schorn",
-        "plzort": "53152 Bonn",
+        "nachname": "Dorsch",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Aufbaustr. 12",
+        "strasse": "Magdeburger Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Elizabeth",
-        "weiblich": true
+        "vorname": "Helfred",
+        "weiblich": false
     }
 }

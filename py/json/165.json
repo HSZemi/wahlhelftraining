@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2452600,
+    "nummer": 1522200,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.10.1999",
-        "matrikelnummer": 2012985,
+        "fakultaet": 9,
+        "geburtsdatum": "07.03.1994",
+        "matrikelnummer": 3173515,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Joseph",
-        "plzort": "53163 Bonn",
+        "nachname": "Puls",
+        "plzort": "99338 Plaue",
         "sternchen": 0,
-        "strasse": "Strullendorfer Str. 5",
+        "strasse": "Wuppertaler Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             }
         ],
-        "vorname": "Gitte",
-        "weiblich": true
+        "vorname": "Heimhart",
+        "weiblich": false
     }
 }

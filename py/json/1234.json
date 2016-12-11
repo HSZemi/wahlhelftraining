@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2709274,
+    "nummer": 1541598,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.07.1992",
-        "matrikelnummer": 17366,
+        "fakultaet": 9,
+        "geburtsdatum": "21.08.1993",
+        "matrikelnummer": 3085106,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Freudenberg",
-        "plzort": "53177 Bonn",
+        "nachname": "Reisch",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00f6merwall 1",
+        "strasse": "Reineckstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "North American Studies",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             },
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Radmila",
-        "weiblich": true
+        "vorname": "Heimhart",
+        "weiblich": false
     }
 }

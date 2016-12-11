@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2276100,
+    "nummer": 1070017,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "03.08.1990",
-        "matrikelnummer": 2890072,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "03.03.1993",
+        "matrikelnummer": 186208,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schorr",
-        "plzort": "53133 Bonn",
+        "nachname": "Butz",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Blumengasse 3",
+        "strasse": "Weinligstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 7
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Ralph",
-        "weiblich": false
+        "vorname": "Evelinde",
+        "weiblich": true
     }
 }

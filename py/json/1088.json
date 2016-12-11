@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2530320,
+    "nummer": 1006240,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "03.10.1996",
-        "matrikelnummer": 2607381,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "06.05.1991",
+        "matrikelnummer": 3104818,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "F\u00e4rber",
-        "plzort": "53225 Bonn",
+        "nachname": "Wittenberg",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Fleckenb\u00fchlstra\u00dfe 12",
+        "strasse": "Agnesstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 7
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Heidemarie",
+        "vorname": "Carmine",
         "weiblich": true
     }
 }

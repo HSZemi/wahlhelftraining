@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2137865,
+    "nummer": 1159109,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.05.1992",
-        "matrikelnummer": 19544,
+        "fakultaet": 0,
+        "geburtsdatum": "14.02.1993",
+        "matrikelnummer": 2868560,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Nissen",
-        "plzort": "53154 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Heinen",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Am Querweg 35",
+        "strasse": "Weidegasse 15e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Amalia",
+        "vorname": "Maria",
         "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1512889,
+    "nummer": 2955522,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.11.1989",
-        "matrikelnummer": 142796,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "10.08.1994",
+        "matrikelnummer": 12661,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bogner",
-        "plzort": "53120 Bonn",
+        "nachname": "Wagener",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Kramergasse 14",
+        "strasse": "Holzgraben 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Sound Studies",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Annamaria",
+        "vorname": "Myriam",
         "weiblich": true
     }
 }

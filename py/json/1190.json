@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2936148,
+    "nummer": 1862969,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.12.1992",
-        "matrikelnummer": 2101648,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Zabel",
-        "plzort": "53206 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "06.08.1989",
+        "matrikelnummer": 2695419,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Herdt",
+        "plzort": "24972 Steinberg",
         "sternchen": 0,
-        "strasse": "Petersstra\u00dfe 28",
+        "strasse": "Krenkelstra\u00dfe 11b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 6
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Nikodem",
-        "weiblich": false
+        "vorname": "Elli",
+        "weiblich": true
     }
 }

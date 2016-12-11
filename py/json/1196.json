@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2151690,
+    "nummer": 2342089,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.05.1999",
-        "matrikelnummer": 191689,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "01.01.1991",
+        "matrikelnummer": 2322767,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Laub",
-        "plzort": "1",
+        "nachname": "Michalski",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Neue Rothofstra\u00dfe 8",
+        "strasse": "Emsdorfer Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Alin",
+        "vorname": "Constanze",
         "weiblich": true
     }
 }

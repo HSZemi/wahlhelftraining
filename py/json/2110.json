@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1049477,
+    "nummer": 2833065,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "19.04.1999",
-        "matrikelnummer": 2909774,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kirschner",
-        "plzort": "53210 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "18.04.1996",
+        "matrikelnummer": 2652198,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Heyne",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Rudolf Perthen-Gasse 20",
+        "strasse": "Poelchaukamp 37",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Leberecht",
-        "weiblich": false
+        "vorname": "Laura",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2474658,
+    "nummer": 2101983,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.11.1994",
-        "matrikelnummer": 1951221,
+        "fakultaet": 4,
+        "geburtsdatum": "19.04.1995",
+        "matrikelnummer": 16321,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schumacher",
-        "plzort": "8",
+        "nachname": "Knappe",
+        "plzort": "07819 Pillingsdorf",
         "sternchen": 0,
-        "strasse": "Meraner Stra\u00dfe 3",
+        "strasse": "Zum Moorkrug 1",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Luitgard",
-        "weiblich": true
+        "vorname": "Gerhard",
+        "weiblich": false
     }
 }

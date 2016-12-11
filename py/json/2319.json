@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1568474,
+    "nummer": 1002562,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.09.1982",
-        "matrikelnummer": 2620979,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "16.05.1999",
+        "matrikelnummer": 3047492,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Konrad",
-        "plzort": "53167 Bonn",
+        "nachname": "Kratzer",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Winckelmannstra\u00dfe 6",
+        "strasse": "Alttrachau 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
                 "fsem": 10
             }
         ],
-        "vorname": "Ilse",
-        "weiblich": true
+        "vorname": "Hansi",
+        "weiblich": false
     }
 }

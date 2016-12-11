@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2735865,
-    "semester": "Sommersemester 2016",
+    "nummer": 2170985,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "14.02.1991",
-        "matrikelnummer": 19453,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gilles",
-        "plzort": "53117 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "10.07.1995",
+        "matrikelnummer": 2570965,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Conrad",
+        "plzort": "87487 Wiggensbach",
         "sternchen": 0,
-        "strasse": "Jakob-B\u00f6hme-Stra\u00dfe 0",
+        "strasse": "Auf der Schlo\u00dfhecke 0",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 3
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Dimitri",
+        "vorname": "Hasko",
         "weiblich": false
     }
 }

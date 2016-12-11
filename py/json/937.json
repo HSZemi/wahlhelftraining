@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2779195,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2700041,
+    "semester": "Wintersemester 2015/2016",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "26.04.1997",
-        "matrikelnummer": 2264416,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "26.07.1993",
+        "matrikelnummer": 2327428,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6ller",
-        "plzort": "53132 Bonn",
+        "nachname": "Kellner",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Helene-Lange-Stra\u00dfe 4",
+        "strasse": "Sodener Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Oskar",
-        "weiblich": false
+        "vorname": "Dorle",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1212744,
+    "nummer": 2716349,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.03.1985",
-        "matrikelnummer": 2014656,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "26.04.1987",
+        "matrikelnummer": 2094734,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hausmann",
-        "plzort": "53167 Bonn",
+        "nachname": "F\u00f6rtsch",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Untere Br\u00fccke 0",
+        "strasse": "Parkstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Psychologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Kornelia",
-        "weiblich": true
+        "vorname": "Emmeran",
+        "weiblich": false
     }
 }

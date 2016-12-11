@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1856126,
+    "nummer": 2536579,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "20.11.1996",
-        "matrikelnummer": 11899,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "01.05.1990",
+        "matrikelnummer": 2126935,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scheer",
-        "plzort": "53156 Bonn",
+        "nachname": "Hagemann",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Messelweg 19",
+        "strasse": "Rossertstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 1
             }
         ],
-        "vorname": "Diethelm",
-        "weiblich": false
+        "vorname": "Mia",
+        "weiblich": true
     }
 }

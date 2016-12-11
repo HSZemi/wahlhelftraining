@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2615754,
+    "nummer": 2324051,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.12.1997",
-        "matrikelnummer": 176235,
+        "fakultaet": 7,
+        "geburtsdatum": "02.05.1989",
+        "matrikelnummer": 3094728,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fey",
-        "plzort": "53193 Bonn",
+        "nachname": "Beer",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Josef-Wirmer-Stra\u00dfe 10",
+        "strasse": "Semperstr. 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 9
             }
         ],
-        "vorname": "Stilla",
-        "weiblich": true
+        "vorname": "Wulfhard",
+        "weiblich": false
     }
 }

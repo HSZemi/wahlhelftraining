@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2745715,
+    "nummer": 2788075,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.04.1993",
-        "matrikelnummer": 2956206,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "03.11.1996",
+        "matrikelnummer": 186577,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Graupner",
-        "plzort": "53117 Bonn",
+        "nachname": "Goldmann",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Marienschachtweg 11",
+        "strasse": "Welschhufer Stra\u00dfe 2e",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kunstgeschichte und Arch\u00e4ologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
                 "fsem": 1
             }
         ],
-        "vorname": "Siglind",
+        "vorname": "Christella",
         "weiblich": true
     }
 }

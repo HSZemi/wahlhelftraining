@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1257277,
+    "nummer": 1186554,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "22.03.1997",
-        "matrikelnummer": 2291673,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schleicher",
-        "plzort": "53204 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "17.06.1993",
+        "matrikelnummer": 2363917,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Decker",
+        "plzort": "15913 Glietz",
         "sternchen": 0,
-        "strasse": "Theodor-Heuss-Allee 27",
+        "strasse": "Am Friedrichsbrunnen 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Darius",
-        "weiblich": false
+        "vorname": "Meta",
+        "weiblich": true
     }
 }

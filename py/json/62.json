@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1945258,
+    "nummer": 2380222,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.10.1990",
-        "matrikelnummer": 2105788,
+        "fakultaet": 1,
+        "geburtsdatum": "14.10.1999",
+        "matrikelnummer": 3134724,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Thiemann",
-        "plzort": "53192 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Spiegel",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Weinligstra\u00dfe 1",
+        "strasse": "Trienter Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 5
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 7
             }
         ],
-        "vorname": "Tiberius",
-        "weiblich": false
+        "vorname": "Katerina",
+        "weiblich": true
     }
 }

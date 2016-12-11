@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2106738,
+    "nummer": 1071940,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.04.1989",
-        "matrikelnummer": 2629979,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 0,
+        "geburtsdatum": "11.04.1993",
+        "matrikelnummer": 3107859,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thoms",
-        "plzort": "53142 Bonn",
+        "nachname": "Gebhard",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Albert-Blank-Stra\u00dfe 17",
+        "strasse": "Leppersdorfer Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geographie",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Fini",
-        "weiblich": true
+        "vorname": "Wunnibald",
+        "weiblich": false
     }
 }

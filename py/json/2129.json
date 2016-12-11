@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2322760,
+    "nummer": 1075223,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.12.1995",
-        "matrikelnummer": 2724808,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Poth",
-        "plzort": "9",
+        "fakultaet": 6,
+        "geburtsdatum": "07.10.1994",
+        "matrikelnummer": 2690383,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Witzke",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Wehrhofstra\u00dfe 9",
+        "strasse": "Lietbargredder 5c",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 2
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 2
             }
         ],
-        "vorname": "Randolph",
-        "weiblich": false
+        "vorname": "Song\u00fcl",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2530430,
+    "nummer": 2052237,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "07.05.1998",
-        "matrikelnummer": 2853613,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "01.09.1999",
+        "matrikelnummer": 2341960,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rohrer",
-        "plzort": "n",
+        "nachname": "Ammann",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Kirchengasse 24",
+        "strasse": "Semperstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 8
             }
         ],
-        "vorname": "Detmar",
-        "weiblich": false
+        "vorname": "Nadine",
+        "weiblich": true
     }
 }

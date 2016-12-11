@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 3,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2424863,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "17.05.1999",
+        "matrikelnummer": 2026647,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Niermann",
+        "plzort": "53209 Bonn",
+        "sternchen": 0,
+        "strasse": "Am Eigenheimweg 3",
+        "studienfaecher": [
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 5
+            }
+        ],
+        "vorname": "Wilbert",
+        "weiblich": false
+    }
+}

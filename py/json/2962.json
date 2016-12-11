@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1223132,
+    "nummer": 2432368,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "02.09.1999",
-        "matrikelnummer": 1919999,
+        "geburtsdatum": "03.05.1980",
+        "matrikelnummer": 1901621,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meiser",
-        "plzort": "53181 Bonn",
+        "nachname": "Mertes",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Schweinfurter Str. 15",
+        "strasse": "Am Kammerholz 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Mathematik",
+                "fsem": 12
             }
         ],
-        "vorname": "Resie",
-        "weiblich": true
+        "vorname": "Walter",
+        "weiblich": false
     }
 }

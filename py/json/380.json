@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2445554,
+    "nummer": 1675254,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "26.10.1996",
-        "matrikelnummer": 2065075,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "10.05.1999",
+        "matrikelnummer": 2889947,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nolte",
-        "plzort": "53205 Bonn",
+        "nachname": "Schupp",
+        "plzort": "37345 St\u00f6ckey",
         "sternchen": 0,
-        "strasse": "Kopernikusstra\u00dfe 1",
+        "strasse": "Buchwaldstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 12
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Annaliese",
-        "weiblich": true
+        "vorname": "Meinulf",
+        "weiblich": false
     }
 }

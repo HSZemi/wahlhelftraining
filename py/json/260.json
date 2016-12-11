@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1376017,
+    "nummer": 2592234,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.01.1996",
-        "matrikelnummer": 2705877,
+        "fakultaet": 8,
+        "geburtsdatum": "11.12.1991",
+        "matrikelnummer": 1937522,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Radtke",
-        "plzort": "n",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Wiegel",
+        "plzort": "57614 Woldert",
         "sternchen": 0,
-        "strasse": "Franz-B\u00e4nsch-Stra\u00dfe 2",
+        "strasse": "Favoritenstra\u00dfe 30",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Physik",
-                "fsem": 4
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Luisa",
-        "weiblich": true
+        "vorname": "Christof",
+        "weiblich": false
     }
 }

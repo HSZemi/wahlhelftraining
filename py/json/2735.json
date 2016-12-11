@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2975780,
+    "nummer": 2318085,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.03.1989",
-        "matrikelnummer": 2943738,
+        "fakultaet": 0,
+        "geburtsdatum": "15.01.1993",
+        "matrikelnummer": 2521776,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Manthey",
-        "plzort": "53118 Bonn",
+        "nachname": "Kortmann",
+        "plzort": "89291 Holzheim",
         "sternchen": 0,
-        "strasse": "Adolph-Schomacker-Weg 48",
+        "strasse": "Maystra\u00dfe 9e",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 7
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Alwina",
-        "weiblich": true
+        "vorname": "Isfried",
+        "weiblich": false
     }
 }

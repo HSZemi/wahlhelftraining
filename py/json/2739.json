@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1551919,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1215163,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "04.06.1999",
-        "matrikelnummer": 2148027,
+        "fakultaet": 1,
+        "geburtsdatum": "24.05.1995",
+        "matrikelnummer": 3133288,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Teichert",
-        "plzort": "53197 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Karg",
+        "plzort": "27245 Kirchdorf",
         "sternchen": 0,
-        "strasse": "Lipsiusstra\u00dfe 3",
+        "strasse": "Robert-Berndt-Stra\u00dfe 15",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 8
+                "fach": "Katholische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 3
             }
         ],
-        "vorname": "Gotthold",
+        "vorname": "Winfrid",
         "weiblich": false
     }
 }

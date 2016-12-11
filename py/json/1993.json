@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2892892,
+    "nummer": 2085582,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.09.1993",
-        "matrikelnummer": 2122901,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 4,
+        "geburtsdatum": "12.05.1994",
+        "matrikelnummer": 2597180,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haberl",
-        "plzort": "53173 Bonn",
+        "nachname": "Rausch",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Gildenweg 17",
+        "strasse": "Kulmbacher Platz 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
                 "fsem": 7
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Sigmut",
+        "vorname": "Nikodem",
         "weiblich": false
     }
 }

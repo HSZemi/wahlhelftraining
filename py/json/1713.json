@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1084780,
+    "nummer": 2338961,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.10.1994",
-        "matrikelnummer": 2599042,
+        "fakultaet": 5,
+        "geburtsdatum": "19.04.1984",
+        "matrikelnummer": 2838049,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "P\u00f6hlmann",
-        "plzort": "53141 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Nitsche",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Guerickestra\u00dfe 0",
+        "strasse": "Nordviver 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Ernaehrungswiss.",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Steve",
-        "weiblich": false
+        "vorname": "Annelise",
+        "weiblich": true
     }
 }

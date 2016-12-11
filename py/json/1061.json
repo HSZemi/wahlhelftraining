@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2267580,
+    "nummer": 1784283,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.08.1998",
-        "matrikelnummer": 2132224,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "03.06.1990",
+        "matrikelnummer": 1954876,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sa\u00df",
-        "plzort": "5",
+        "nachname": "Storck",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Annaberg 2",
+        "strasse": "Friesstra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Maic",
-        "weiblich": false
+        "vorname": "Ribana",
+        "weiblich": true
     }
 }

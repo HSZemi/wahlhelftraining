@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1298667,
+    "nummer": 1315255,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "13.12.1992",
-        "matrikelnummer": 1990734,
+        "geburtsdatum": "09.02.1993",
+        "matrikelnummer": 3027335,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fl\u00fcgge",
-        "plzort": "53185 Bonn",
+        "nachname": "Keck",
+        "plzort": "09648 Altmittweida",
         "sternchen": 0,
-        "strasse": "Meriandamm 1",
+        "strasse": "Kuhnsweg 1b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
+                "abschluss": "Bachelor of Science",
                 "fach": "Psychologie",
-                "fsem": 10
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 4
             }
         ],
-        "vorname": "Rudolf",
+        "vorname": "Edwin",
         "weiblich": false
     }
 }

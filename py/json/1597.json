@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1463879,
+    "nummer": 1196631,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.09.1996",
-        "matrikelnummer": 14578,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "09.10.1999",
+        "matrikelnummer": 2800267,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reichl",
-        "plzort": "53201 Bonn",
+        "nachname": "Jungmann",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Weintraubenstra\u00dfe 2",
+        "strasse": "Tronitzer Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 8
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Degenhardt",
+        "vorname": "Tristan",
         "weiblich": false
     }
 }

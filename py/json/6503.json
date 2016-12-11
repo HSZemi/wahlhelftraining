@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1414213,
+    "semester": "Wintersemester 2015/2016",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "01.11.1995",
+        "matrikelnummer": 2872637,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Forstner",
+        "plzort": "53183 Bonn",
+        "sternchen": 0,
+        "strasse": "Baumeisterstra\u00dfe 13",
+        "studienfaecher": [
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 12
+            }
+        ],
+        "vorname": "Bardo",
+        "weiblich": false
+    }
+}

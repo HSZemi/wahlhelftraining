@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2374220,
-    "semester": "Sommersemester 2016",
+    "nummer": 2195019,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "15.06.1990",
-        "matrikelnummer": 2535852,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Zorn",
-        "plzort": "53150 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "14.02.1990",
+        "matrikelnummer": 2942265,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Behringer",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Ro\u00dfkopfstra\u00dfe 9",
+        "strasse": "Albrecht-von-Eyb-Leite 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Ilseruth",
-        "weiblich": true
+        "vorname": "Sigenot",
+        "weiblich": false
     }
 }

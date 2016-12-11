@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1291523,
+    "nummer": 1253426,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.05.1998",
-        "matrikelnummer": 13850,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "27.03.1989",
+        "matrikelnummer": 2828713,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haustein",
-        "plzort": "53202 Bonn",
+        "nachname": "K\u00f6tter",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Lepsiusstra\u00dfe 0",
+        "strasse": "Renkfeldweg 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Japanisch",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 13
             }
         ],
-        "vorname": "Siegulf",
-        "weiblich": false
+        "vorname": "Dajana",
+        "weiblich": true
     }
 }

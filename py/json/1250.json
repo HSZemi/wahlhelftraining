@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2901775,
+    "nummer": 1075683,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "07.01.1992",
-        "matrikelnummer": 1991164,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "11.08.1991",
+        "matrikelnummer": 14409,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Putz",
-        "plzort": "53116 Bonn",
+        "nachname": "Zeh",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Am Biedersberg 2",
+        "strasse": "In der Warth 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Adeline",
-        "weiblich": true
+        "vorname": "Harri",
+        "weiblich": false
     }
 }

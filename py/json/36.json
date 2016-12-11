@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2669515,
+    "nummer": 2178846,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "02.05.1993",
-        "matrikelnummer": 2137847,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "28.02.1997",
+        "matrikelnummer": 3125203,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinrichs",
-        "plzort": "53193 Bonn",
+        "nachname": "Heinen",
+        "plzort": "15526 Rietz-Neuendorf",
         "sternchen": 0,
-        "strasse": "M\u00fcnchener Stra\u00dfe 1",
+        "strasse": "S\u00fcdwesthang 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Physik",
+                "fsem": 6
             }
         ],
-        "vorname": "Bartho",
-        "weiblich": false
+        "vorname": "Wendela",
+        "weiblich": true
     }
 }

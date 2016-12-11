@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1044770,
+    "nummer": 2083439,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "03.11.1993",
-        "matrikelnummer": 2142156,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 8,
+        "geburtsdatum": "25.08.1996",
+        "matrikelnummer": 156855,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Piontek",
-        "plzort": " ",
+        "nachname": "Kerber",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Jenaer Weg 34",
+        "strasse": "Otto-Altenkirch-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 1
             }
         ],
-        "vorname": "Diana",
-        "weiblich": true
+        "vorname": "Sigmut",
+        "weiblich": false
     }
 }

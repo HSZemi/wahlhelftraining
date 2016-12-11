@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2447633,
+    "nummer": 2755578,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.05.1988",
-        "matrikelnummer": 2555741,
+        "fakultaet": 2,
+        "geburtsdatum": "16.10.1999",
+        "matrikelnummer": 2012109,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nicolai",
-        "plzort": "53203 Bonn",
+        "nachname": "Krebs",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Schiffbeker Br\u00fccke 2",
+        "strasse": "Dr. Lorenz Karall-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Englisch",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             },
             {
-                "abschluss": "",
-                "fach": "Mathematik",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 12
             }
         ],
-        "vorname": "Liselotte",
+        "vorname": "Urta",
         "weiblich": true
     }
 }

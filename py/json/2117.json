@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1162340,
+    "nummer": 2601797,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "17.06.1995",
-        "matrikelnummer": 18104,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "28.05.1993",
+        "matrikelnummer": 2994247,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hecht",
-        "plzort": "5",
+        "nachname": "Kreuz",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Krieschendorfer Stra\u00dfe 3",
+        "strasse": "Spenerstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Griechische Literatur der Antike und ihr Fortleben",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Hispanistik",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Babette",
-        "weiblich": true
+        "vorname": "Bolko",
+        "weiblich": false
     }
 }

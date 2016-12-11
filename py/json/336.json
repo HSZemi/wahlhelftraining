@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2880805,
+    "nummer": 2303349,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.04.1986",
-        "matrikelnummer": 2671802,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Brix",
-        "plzort": "53177 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "23.11.1996",
+        "matrikelnummer": 2423532,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Meier",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Antoniplatz 8",
+        "strasse": "Schmaler Weg 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 6
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Lars",
+        "vorname": "Warnfried",
         "weiblich": false
     }
 }

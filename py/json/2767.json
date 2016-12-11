@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2489169,
+    "nummer": 2415719,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "19.12.1999",
-        "matrikelnummer": 2994056,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 9,
+        "geburtsdatum": "27.09.1997",
+        "matrikelnummer": 162192,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wunder",
-        "plzort": "53186 Bonn",
+        "nachname": "Fa\u00dfbender",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Altgostritz 0",
+        "strasse": "Ischler Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Gerrit",
-        "weiblich": false
+        "vorname": "Herwiga",
+        "weiblich": true
     }
 }

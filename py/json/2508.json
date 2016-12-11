@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2525103,
+    "nummer": 2689380,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.06.1991",
-        "matrikelnummer": 14369,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Lederer",
-        "plzort": "53216 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "08.04.1997",
+        "matrikelnummer": 2670233,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Friese",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Heimgarten 15",
+        "strasse": "August-Macke-Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Mathematics",
+                "fsem": 1
             }
         ],
-        "vorname": "Hadubert",
+        "vorname": "Florentin",
         "weiblich": false
     }
 }

@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1744358,
+    "nummer": 1767110,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "28.01.1995",
-        "matrikelnummer": 12181,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 2,
+        "geburtsdatum": "19.05.1993",
+        "matrikelnummer": 1996234,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hahn",
-        "plzort": "53228 Bonn",
+        "nachname": "M\u00f6hring",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Am Stieglitzgrund 19",
+        "strasse": "Zum Turmberg 7c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 1
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 7
             }
         ],
-        "vorname": "Trauhard",
+        "vorname": "Treuhard",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2995344,
+    "nummer": 2776237,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "22.04.1993",
-        "matrikelnummer": 2188528,
+        "fakultaet": 2,
+        "geburtsdatum": "17.02.1994",
+        "matrikelnummer": 2855232,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kolberg",
-        "plzort": "7",
+        "nachname": "Buchwald",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Andreaestra\u00dfe 0",
+        "strasse": "Oberweid 28",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 8
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Gisbert",
+        "vorname": "Kajetan",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1883190,
+    "nummer": 2441071,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.09.1995",
-        "matrikelnummer": 11622,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "03.08.1992",
+        "matrikelnummer": 3006401,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00f6ker",
-        "plzort": "53117 Bonn",
+        "nachname": "Meiser",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Diesterwegplatz 3",
+        "strasse": "Am M\u00fchlenberg 24",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Amalia",
-        "weiblich": true
+        "vorname": "Freimund",
+        "weiblich": false
     }
 }

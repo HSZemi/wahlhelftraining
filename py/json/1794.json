@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1006760,
+    "nummer": 1143124,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.06.1994",
-        "matrikelnummer": 2204354,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "14.12.1995",
+        "matrikelnummer": 1901559,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eichler",
-        "plzort": "53221 Bonn",
+        "nachname": "Theil",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Alzeyer Stra\u00dfe 6",
+        "strasse": "An der Mauer 0b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Latein",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 5
             }
         ],
-        "vorname": "Annegreth",
-        "weiblich": true
+        "vorname": "Berthold",
+        "weiblich": false
     }
 }

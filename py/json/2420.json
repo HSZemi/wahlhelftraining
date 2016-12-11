@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1890035,
+    "nummer": 1881742,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.01.1996",
-        "matrikelnummer": 2543794,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6ler",
-        "plzort": "53225 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "19.04.1990",
+        "matrikelnummer": 1944086,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "F\u00f6rster",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Rauschenberger Stra\u00dfe 7",
+        "strasse": "Nagelsweg 12",
         "studienfaecher": [
             {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
-        "vorname": "Eyck",
+        "vorname": "Michel",
         "weiblich": false
     }
 }

@@ -1,0 +1,31 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1234347,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "18.01.1994",
+        "matrikelnummer": 2274451,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinzelmann",
+        "plzort": "53123 Bonn",
+        "sternchen": 0,
+        "strasse": "Oberviechtacher Str. 7",
+        "studienfaecher": [
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            }
+        ],
+        "vorname": "Sonnfried",
+        "weiblich": false
+    }
+}

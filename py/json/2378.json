@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2822593,
+    "nummer": 1851356,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.11.1995",
-        "matrikelnummer": 2734290,
+        "fakultaet": 3,
+        "geburtsdatum": "12.05.1986",
+        "matrikelnummer": 2564885,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Jung",
-        "plzort": "53131 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Vogt",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlwiesenstra\u00dfe 6",
+        "strasse": "Am Kr\u00e4henh\u00fcgel 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 2
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 10
             },
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "G\u00f6n\u00fcl",
+        "vorname": "Helrike",
         "weiblich": true
     }
 }

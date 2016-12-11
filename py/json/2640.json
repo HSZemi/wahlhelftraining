@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2498570,
+    "nummer": 1125393,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "23.10.1998",
-        "matrikelnummer": 2773352,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "21.04.1990",
+        "matrikelnummer": 2247607,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauck",
-        "plzort": "53175 Bonn",
+        "nachname": "R\u00f6ll",
+        "plzort": "98634 Kaltensundheim",
         "sternchen": 0,
-        "strasse": "Brauereistra\u00dfe 4",
+        "strasse": "Raiffeisenplatz 1c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Italianistik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 10
             }
         ],
-        "vorname": "Alheidis",
-        "weiblich": true
+        "vorname": "Ruprecht",
+        "weiblich": false
     }
 }

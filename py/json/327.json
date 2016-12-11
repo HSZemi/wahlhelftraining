@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2937710,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2204361,
+    "semester": "Sommersemester 2016",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "03.05.1999",
-        "matrikelnummer": 2885838,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Deutschmann",
-        "plzort": "5",
+        "fakultaet": 6,
+        "geburtsdatum": "08.07.1999",
+        "matrikelnummer": 2756848,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sommerfeld",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Annette-Kolb-Stra\u00dfe 1",
+        "strasse": "Erikaweg 26",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 8
             }
         ],
-        "vorname": "Utto",
-        "weiblich": false
+        "vorname": "Nadia",
+        "weiblich": true
     }
 }

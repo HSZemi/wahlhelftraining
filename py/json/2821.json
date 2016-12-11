@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1806470,
+    "nummer": 1309023,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "04.11.1991",
-        "matrikelnummer": 2288739,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "23.03.1997",
+        "matrikelnummer": 3122800,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lehmkuhl",
-        "plzort": "n",
+        "nachname": "Stern",
+        "plzort": "96047 Bamberg",
         "sternchen": 0,
-        "strasse": "August-Wagner-Stra\u00dfe 11",
+        "strasse": "Schreyerstra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Curt",
+        "vorname": "Helmo",
         "weiblich": false
     }
 }

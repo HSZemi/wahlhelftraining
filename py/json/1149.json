@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2379322,
+    "nummer": 2524859,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.09.1993",
-        "matrikelnummer": 2357666,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "10.05.1986",
+        "matrikelnummer": 2710941,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fritzsch",
-        "plzort": "53134 Bonn",
+        "nachname": "H\u00e4cker",
+        "plzort": "72227 Egenhausen",
         "sternchen": 0,
-        "strasse": "Burgstra\u00dfe 0",
+        "strasse": "Wuppertaler Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 7
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 12
             }
         ],
-        "vorname": "Merten",
-        "weiblich": false
+        "vorname": "Anna-Marie",
+        "weiblich": true
     }
 }

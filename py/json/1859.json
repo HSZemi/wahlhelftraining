@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2273423,
+    "nummer": 1533954,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "09.07.1993",
-        "matrikelnummer": 2186760,
+        "fakultaet": 5,
+        "geburtsdatum": "11.09.1992",
+        "matrikelnummer": 2712169,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weichert",
-        "plzort": "53136 Bonn",
+        "nachname": "Lackner",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Wasgaustra\u00dfe 17",
+        "strasse": "Mengsstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
                 "fsem": 10
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Komparatistik",
-                "fsem": 9
             }
         ],
-        "vorname": "Filiz",
-        "weiblich": true
+        "vorname": "Zeno",
+        "weiblich": false
     }
 }

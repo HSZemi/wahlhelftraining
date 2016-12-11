@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1991418,
+    "nummer": 1633531,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "06.05.1996",
-        "matrikelnummer": 2422856,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "17.05.1989",
+        "matrikelnummer": 2748286,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcper",
-        "plzort": " ",
+        "nachname": "Klos",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Nicolaistra\u00dfe 3",
+        "strasse": "Bild\u00e4ckerstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Medienwissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Hispanistik",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Dorith",
-        "weiblich": true
+        "vorname": "Hansjoachim",
+        "weiblich": false
     }
 }

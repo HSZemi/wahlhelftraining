@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2502111,
+    "nummer": 2704614,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.03.1996",
-        "matrikelnummer": 19302,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "20.11.1995",
+        "matrikelnummer": 2625787,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kr\u00f6ner",
-        "plzort": " ",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schroll",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Andreas-Hofer-Str. 52",
+        "strasse": "Eltviller Stra\u00dfe 19b",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Orientalische Kunstgeschichte",
-                "fsem": 2
+                "fach": "Lebensmittelchemie",
+                "fsem": 10
             }
         ],
-        "vorname": "Gotlind",
-        "weiblich": true
+        "vorname": "Friedmuth",
+        "weiblich": false
     }
 }

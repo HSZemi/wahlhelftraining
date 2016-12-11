@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1727910,
-    "semester": "Sommersemester 2016",
+    "nummer": 2292329,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.11.1990",
-        "matrikelnummer": 12605,
+        "fakultaet": 2,
+        "geburtsdatum": "28.10.1995",
+        "matrikelnummer": 2635330,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lucas",
-        "plzort": "5",
+        "nachname": "Freund",
+        "plzort": "24994 Jardelund",
         "sternchen": 0,
-        "strasse": "Wiesenh\u00fcttenplatz 12b",
+        "strasse": "Solmspark 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Kassandra",
-        "weiblich": true
+        "vorname": "Friedbald",
+        "weiblich": false
     }
 }

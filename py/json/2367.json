@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1637229,
+    "nummer": 1300395,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "03.12.1993",
-        "matrikelnummer": 2362649,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "25.02.1995",
+        "matrikelnummer": 2630998,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwinn",
-        "plzort": "53121 Bonn",
+        "nachname": "Hermes",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Rosentalried 3d",
+        "strasse": "Leinwebergasse 7",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 9
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Gustel",
-        "weiblich": true
+        "vorname": "Benno",
+        "weiblich": false
     }
 }

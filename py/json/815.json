@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1241597,
-    "semester": "Sommersemester 2016",
+    "nummer": 1674244,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.09.1995",
-        "matrikelnummer": 2401702,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "12.10.1993",
+        "matrikelnummer": 1964992,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6tze",
-        "plzort": "5",
+        "nachname": "Nu\u00dfbaum",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00e4ndlerstra\u00dfe 24",
+        "strasse": "Dunckersweg 41",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Kulturstudien zu Lateinamerika/Estudios culturales de America Latina",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Burkhart",
+        "vorname": "Hanswalter",
         "weiblich": false
     }
 }

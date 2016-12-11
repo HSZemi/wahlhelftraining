@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2600682,
+    "nummer": 2567454,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "10.10.1991",
-        "matrikelnummer": 2464130,
+        "fakultaet": 9,
+        "geburtsdatum": "05.06.1994",
+        "matrikelnummer": 2245260,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rie\u00df",
-        "plzort": "53153 Bonn",
+        "nachname": "Bohm",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Institutsgasse 0",
+        "strasse": "Sudhausweg 18",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Chemie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Abraham",
+        "vorname": "Erhardt",
         "weiblich": false
     }
 }

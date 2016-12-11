@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1221108,
+    "nummer": 2161862,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.06.1983",
-        "matrikelnummer": 18816,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Lauterbach",
-        "plzort": "53227 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "01.04.1992",
+        "matrikelnummer": 3103526,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Streicher",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Altstetzsch 5",
+        "strasse": "Felix-Wankel-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 10
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Sigurd",
+        "vorname": "Hieronymus",
         "weiblich": false
     }
 }

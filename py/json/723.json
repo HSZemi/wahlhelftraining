@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1292008,
+    "nummer": 2609356,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "09.10.1993",
-        "matrikelnummer": 2122638,
+        "fakultaet": 4,
+        "geburtsdatum": "13.05.1998",
+        "matrikelnummer": 15789,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Tetzlaff",
-        "plzort": "53136 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "H\u00f6ger",
+        "plzort": "76774 Leimersheim",
         "sternchen": 0,
-        "strasse": "Melanchthonplatz 6",
+        "strasse": "Bruckertshof 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Heidrun",
+        "vorname": "Sabinchen",
         "weiblich": true
     }
 }

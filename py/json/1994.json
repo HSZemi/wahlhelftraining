@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1639808,
+    "nummer": 1946872,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.01.1994",
-        "matrikelnummer": 2997376,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "06.01.1999",
+        "matrikelnummer": 1954190,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Benz",
-        "plzort": "1",
+        "nachname": "Behm",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Waschstattgasse 5",
+        "strasse": "Heimgarten 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Japanisch",
                 "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Hispanistik",
+                "fsem": 4
             }
         ],
-        "vorname": "Arite",
-        "weiblich": true
+        "vorname": "Denny",
+        "weiblich": false
     }
 }

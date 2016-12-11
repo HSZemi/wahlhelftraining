@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2556345,
+    "nummer": 1236289,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "06.06.1995",
-        "matrikelnummer": 2134369,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "07.11.1992",
+        "matrikelnummer": 2969543,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittmann",
-        "plzort": "53203 Bonn",
+        "nachname": "Rohrbach",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Adolf-Kolpingstr. 3",
+        "strasse": "Franz-R\u00fccker-Allee 9",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Violetta",
+        "vorname": "Danielle",
         "weiblich": true
     }
 }

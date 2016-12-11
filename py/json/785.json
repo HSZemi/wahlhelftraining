@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1436126,
+    "nummer": 1329039,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "10.11.1997",
-        "matrikelnummer": 2575509,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "28.10.1992",
+        "matrikelnummer": 2963834,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Swoboda",
-        "plzort": "53201 Bonn",
+        "nachname": "Pohlmann",
+        "plzort": "59510 Lippetal",
         "sternchen": 0,
-        "strasse": "Eysseneckstra\u00dfe 11",
+        "strasse": "Georg-Speyer-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Lateinamerika- und Altamerikastudien",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 6
             }
         ],
-        "vorname": "Julian",
-        "weiblich": false
+        "vorname": "Margaretha",
+        "weiblich": true
     }
 }

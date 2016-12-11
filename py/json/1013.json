@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2271014,
+    "nummer": 1072924,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.10.1998",
-        "matrikelnummer": 2798755,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "01.08.1997",
+        "matrikelnummer": 3091930,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rehm",
-        "plzort": "53200 Bonn",
+        "nachname": "Eichinger",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Adenauerufer 5",
+        "strasse": "Herbesthaler Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Kunstgeschichte",
-                "fsem": 2
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Friedolin",
-        "weiblich": false
+        "vorname": "Chantal",
+        "weiblich": true
     }
 }

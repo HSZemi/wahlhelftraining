@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 2,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2361521,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "09.02.1990",
+        "matrikelnummer": 2065423,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Herbert",
+        "plzort": "53124 Bonn",
+        "sternchen": 0,
+        "strasse": "Im Triborn 7",
+        "studienfaecher": [
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 13
+            }
+        ],
+        "vorname": "Diethardt",
+        "weiblich": false
+    }
+}

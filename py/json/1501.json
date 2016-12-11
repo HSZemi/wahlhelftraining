@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2503892,
+    "nummer": 1793055,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "01.12.1991",
-        "matrikelnummer": 2818079,
+        "fakultaet": 8,
+        "geburtsdatum": "09.05.1992",
+        "matrikelnummer": 3006156,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mies",
-        "plzort": "53178 Bonn",
+        "nachname": "Mock",
+        "plzort": "25821 Bredstedt",
         "sternchen": 0,
-        "strasse": "Kattowitzer Stra\u00dfe 0",
+        "strasse": "Am Putjatinpark 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 5
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Rosalinde",
+        "vorname": "Susan",
         "weiblich": true
     }
 }

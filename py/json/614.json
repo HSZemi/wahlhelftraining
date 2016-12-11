@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2098902,
+    "nummer": 1786746,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.10.1997",
-        "matrikelnummer": 2670955,
+        "fakultaet": 6,
+        "geburtsdatum": "17.11.1995",
+        "matrikelnummer": 3107863,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Engler",
-        "plzort": "53205 Bonn",
+        "nachname": "Dorsch",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Heldenbergener Stra\u00dfe 0",
+        "strasse": "Am Seekanal 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Politische Wissenschaft",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 7
             }
         ],
-        "vorname": "Belina",
-        "weiblich": true
+        "vorname": "Curd",
+        "weiblich": false
     }
 }

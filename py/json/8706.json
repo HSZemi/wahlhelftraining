@@ -1,0 +1,31 @@
+{
+    "ausfertigung": 1,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 1234190,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "24.12.1997",
+        "matrikelnummer": 2885783,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Brock",
+        "plzort": "53200 Bonn",
+        "sternchen": 0,
+        "strasse": "Marie-Elis.-L\u00fcders-Stra\u00dfe 0a",
+        "studienfaecher": [
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 13
+            }
+        ],
+        "vorname": "Kristian",
+        "weiblich": false
+    }
+}

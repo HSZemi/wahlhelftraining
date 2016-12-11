@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2014635,
+    "nummer": 1441592,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "05.02.1993",
-        "matrikelnummer": 2203551,
+        "geburtsdatum": "09.06.1987",
+        "matrikelnummer": 2377434,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thielen",
-        "plzort": "53127 Bonn",
+        "nachname": "Baumgarten",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Pelzm\u00fchlweg 19",
+        "strasse": "Leonardo-da-Vinci-Allee 14",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Medienkommunikation",
-                "fsem": 13
+                "fach": "Politik und Gesellschaft",
+                "fsem": 6
             },
             {
                 "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 13
+                "fach": "Keltologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Burckhard",
+        "vorname": "Niklas",
         "weiblich": false
     }
 }

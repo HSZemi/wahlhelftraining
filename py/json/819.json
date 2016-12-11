@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2519470,
+    "nummer": 2739110,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "04.04.1996",
-        "matrikelnummer": 2632913,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "18.12.1988",
+        "matrikelnummer": 14500,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schanz",
-        "plzort": "3",
+        "nachname": "G\u00f6rlich",
+        "plzort": "03172 Grabko",
         "sternchen": 0,
-        "strasse": "M\u00fcgelner Stra\u00dfe 3b",
+        "strasse": "Schwanheimer Bahnstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 5
             }
         ],
-        "vorname": "Petra",
-        "weiblich": true
+        "vorname": "Ralph",
+        "weiblich": false
     }
 }

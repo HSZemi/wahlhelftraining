@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2165213,
+    "nummer": 2369807,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "05.11.1995",
-        "matrikelnummer": 1988724,
+        "fakultaet": 5,
+        "geburtsdatum": "04.02.1992",
+        "matrikelnummer": 119256,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hell",
-        "plzort": "o",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Karg",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Panzerleite 1",
+        "strasse": "Waschstattgasse 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Koreanisch",
+                "fsem": 10
             }
         ],
-        "vorname": "Berit",
-        "weiblich": true
+        "vorname": "Baptist",
+        "weiblich": false
     }
 }

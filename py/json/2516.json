@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1457749,
+    "nummer": 2420933,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "27.04.1991",
-        "matrikelnummer": 2582718,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "25.11.1985",
+        "matrikelnummer": 3013506,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ebel",
-        "plzort": "53137 Bonn",
+        "nachname": "Welker",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Steinkopfweg 12",
+        "strasse": "Eilenburger Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 9
             },
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 2
             }
         ],
-        "vorname": "August",
-        "weiblich": false
+        "vorname": "Ludwina",
+        "weiblich": true
     }
 }

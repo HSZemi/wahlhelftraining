@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1873149,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1371465,
+    "semester": "Sommersemester 2016",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.07.1992",
-        "matrikelnummer": 1902282,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "07.01.1991",
+        "matrikelnummer": 1941700,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wege",
-        "plzort": "3",
+        "nachname": "Arens",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Kalmitstra\u00dfe 3",
+        "strasse": "Katharinenstr. 15",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Bettina",
+        "vorname": "Cilly",
         "weiblich": true
     }
 }

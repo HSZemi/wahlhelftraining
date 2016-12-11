@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1130116,
+    "nummer": 2885532,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.09.1989",
-        "matrikelnummer": 2627099,
+        "fakultaet": 8,
+        "geburtsdatum": "15.09.1994",
+        "matrikelnummer": 2527220,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Helmke",
-        "plzort": "53209 Bonn",
+        "nachname": "Hinkel",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "An der D\u00fcrren Heide 25",
+        "strasse": "Weingartenweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
                 "fsem": 7
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Inna",
+        "vorname": "Sindy",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2974377,
+    "nummer": 1675278,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.06.1989",
-        "matrikelnummer": 2201134,
+        "fakultaet": 5,
+        "geburtsdatum": "14.10.1995",
+        "matrikelnummer": 150943,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Braun",
-        "plzort": "53158 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Coenen",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Dr.-Haas-Str. 0",
+        "strasse": "Rosenthaler Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Japanisch",
+                "fsem": 11
             }
         ],
-        "vorname": "Waltraut",
+        "vorname": "Angelina",
         "weiblich": true
     }
 }

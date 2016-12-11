@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1054104,
+    "nummer": 1722339,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.04.1999",
-        "matrikelnummer": 2935898,
+        "fakultaet": 6,
+        "geburtsdatum": "13.12.1997",
+        "matrikelnummer": 2701944,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feller",
-        "plzort": "53140 Bonn",
+        "nachname": "Sch\u00f6ler",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Ringelnatzg\u00e4sschen 0",
+        "strasse": "Bunsenstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Cindy",
+        "vorname": "Ramona",
         "weiblich": true
     }
 }

@@ -1,0 +1,36 @@
+{
+    "ausfertigung": 3,
+    "loecher": {
+        "gremien": false,
+        "sp": false
+    },
+    "nummer": 2489002,
+    "semester": "Wintersemester 2016/2017",
+    "stud": {
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "24.02.1993",
+        "matrikelnummer": 123664,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sager",
+        "plzort": "53222 Bonn",
+        "sternchen": 0,
+        "strasse": "Friebelstra\u00dfe 10",
+        "studienfaecher": [
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
+            }
+        ],
+        "vorname": "Wilhelma",
+        "weiblich": true
+    }
+}

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1791775,
+    "nummer": 2370595,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.03.1990",
-        "matrikelnummer": 2497269,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "15.08.1989",
+        "matrikelnummer": 2456262,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Loose",
-        "plzort": "53118 Bonn",
+        "nachname": "Thiede",
+        "plzort": "91790 Raitenbuch",
         "sternchen": 0,
-        "strasse": "Im Nardholz 10d",
+        "strasse": "Bergstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 8
             }
         ],
-        "vorname": "Karlheiner",
+        "vorname": "Thilo",
         "weiblich": false
     }
 }

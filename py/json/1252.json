@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1658155,
+    "nummer": 2981231,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "16.12.1993",
-        "matrikelnummer": 2205726,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Holland",
-        "plzort": "53224 Bonn",
+        "fakultaet": 9,
+        "geburtsdatum": "13.06.1991",
+        "matrikelnummer": 1928321,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Heim",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Altrochwitz 1",
+        "strasse": "Altwachwitz 3a",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Benedikt",
+        "vorname": "Lienhardt",
         "weiblich": false
     }
 }
