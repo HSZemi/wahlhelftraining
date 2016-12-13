@@ -570,7 +570,7 @@
 	function get_negativliste(){
 		if(current_data != null){
 			for (var i = 0; i < negativliste.length; i++){
-				if(negativliste[i][1] == current_data['stud']['matrikelnummer']){
+				if(negativliste[i][1] == current_data['stud']['matrikelnummer'] && negativliste[i][2] == current_data['stud']['vorname'] && negativliste[i][3] == current_data['stud']['nachname']){
 					return negativliste[i];
 				}
 			}
@@ -580,7 +580,7 @@
 	
 	function loadRandomStud(){
 		
-		var id = Math.floor(Math.random() * 3000);
+		var id = Math.floor(Math.random() * 10000);
 		
 		$('#ausweisbild').hide(200);
 		
