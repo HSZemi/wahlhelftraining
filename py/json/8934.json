@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2561998,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1866712,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "13.10.1993",
-        "matrikelnummer": 2531122,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Weinzierl",
-        "plzort": "97714 Oerlenbach",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "21.04.1991",
+        "matrikelnummer": 2825942,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kissel",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "G\u00f6nnerstr. 5",
+        "strasse": "Geiselsteinweg 26",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 8
             }
         ],
-        "vorname": "Traudlinde",
+        "vorname": "K\u00e4the",
         "weiblich": true
     }
 }

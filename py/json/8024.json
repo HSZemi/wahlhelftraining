@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2953711,
+    "nummer": 2294105,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "03.03.1991",
-        "matrikelnummer": 2878556,
+        "fakultaet": 8,
+        "geburtsdatum": "19.11.1986",
+        "matrikelnummer": 2822520,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ritz",
-        "plzort": "53145 Bonn",
+        "nachname": "Simons",
+        "plzort": "07546 Gera",
         "sternchen": 0,
-        "strasse": "Karl-Wessendorft-Stra\u00dfe 0",
+        "strasse": "Gr\u00fcnland-Donnerskirchen 16",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 3
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Eva-Marie",
-        "weiblich": true
+        "vorname": "Traugott",
+        "weiblich": false
     }
 }

@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1181669,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1965405,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "12.11.1998",
-        "matrikelnummer": 122962,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "20.06.1994",
+        "matrikelnummer": 2232065,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Resch",
-        "plzort": "03185 Turnow-Preilack",
+        "nachname": "W\u00f6hrle",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Am Wei\u00dfen Adler 10",
+        "strasse": "Arthur-Schlo\u00dfmann-Weg 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Siegenot",
+        "vorname": "Maurus",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1729547,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2708335,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.02.1998",
-        "matrikelnummer": 1920242,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "05.05.1999",
+        "matrikelnummer": 2625112,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stahl",
-        "plzort": "53174 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "An der Telle 7b",
+        "strasse": "Schultzweg 21",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Urda",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

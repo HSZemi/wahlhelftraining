@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2510445,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1717921,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.11.1998",
-        "matrikelnummer": 2241093,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "28.06.1988",
+        "matrikelnummer": 2222584,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rummel",
-        "plzort": "53143 Bonn",
+        "nachname": "Rottmann",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Fernsehturmstra\u00dfe 69",
+        "strasse": "Im Vogelsgesang 7e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Mikrobiologie",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 9
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Felizia",
+        "vorname": "Franziska",
         "weiblich": true
     }
 }

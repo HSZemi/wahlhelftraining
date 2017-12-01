@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2551400,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1377685,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "17.10.1999",
-        "matrikelnummer": 123094,
+        "fakultaet": 6,
+        "geburtsdatum": "24.03.1992",
+        "matrikelnummer": 2166553,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Clau\u00df",
-        "plzort": "53221 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Muth",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Kuhnsweg 5",
+        "strasse": "Theatergassen 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Biologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Cord",
+        "vorname": "Helmrich",
         "weiblich": false
     }
 }

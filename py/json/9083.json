@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2877938,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2854249,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.03.1989",
-        "matrikelnummer": 2111842,
+        "fakultaet": 8,
+        "geburtsdatum": "19.04.1986",
+        "matrikelnummer": 2345921,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfaff",
-        "plzort": "53220 Bonn",
+        "nachname": "Zieger",
+        "plzort": "46147 Oberhausen",
         "sternchen": 0,
-        "strasse": "Theodor-Heuss-Stra\u00dfe 7",
+        "strasse": "Zeil 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Helgard",
-        "weiblich": true
+        "vorname": "Dankwart",
+        "weiblich": false
     }
 }

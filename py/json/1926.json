@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1930726,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1701040,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "02.12.1999",
-        "matrikelnummer": 1937103,
+        "fakultaet": 1,
+        "geburtsdatum": "22.10.1993",
+        "matrikelnummer": 2523551,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Waibel",
-        "plzort": "53210 Bonn",
+        "nachname": "Berg",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Tocklergasse 5",
+        "strasse": "Dunantring 10b",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Vergleichende Literaturwissenschaft",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Hadubert",
+        "vorname": "Wolfhelm",
         "weiblich": false
     }
 }

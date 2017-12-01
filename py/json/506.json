@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1349873,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2256261,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "02.09.1993",
-        "matrikelnummer": 2951000,
+        "geburtsdatum": "18.11.1999",
+        "matrikelnummer": 2481722,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "N\u00fcrnberger",
-        "plzort": "53214 Bonn",
+        "nachname": "Teufel",
+        "plzort": "33102 Paderborn",
         "sternchen": 0,
-        "strasse": "Zur Sch\u00e4ferei 17",
+        "strasse": "G\u00fcnderrodestra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Molecular Biology and Biotechnology",
+                "fsem": 5
             }
         ],
-        "vorname": "Agata",
+        "vorname": "Hildburg",
         "weiblich": true
     }
 }

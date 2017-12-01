@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2546660,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2492131,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.12.1996",
-        "matrikelnummer": 3012773,
+        "fakultaet": 8,
+        "geburtsdatum": "27.06.1993",
+        "matrikelnummer": 2987110,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eickhoff",
-        "plzort": "53163 Bonn",
+        "nachname": "Rolf",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Kalkuttabr\u00fccke 0",
+        "strasse": "Dreist\u00fccken 24",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Kurth",
-        "weiblich": false
+        "vorname": "Zenta",
+        "weiblich": true
     }
 }

@@ -1,41 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1323941,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1725539,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "21.02.1998",
-        "matrikelnummer": 2619833,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "09.11.1992",
+        "matrikelnummer": 2568506,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Waldmann",
-        "plzort": "53147 Bonn",
+        "nachname": "Kerscher",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Auf dem Lerchenb\u00fchl 9",
+        "strasse": "Wesselyring 10",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Deutsch",
-                "fsem": 10
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
             },
             {
                 "abschluss": "",
-                "fach": "Physik",
-                "fsem": 10
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 12
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "fsem": 12
             }
         ],
-        "vorname": "Margaritta",
+        "vorname": "Liane",
         "weiblich": true
     }
 }

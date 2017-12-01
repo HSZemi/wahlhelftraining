@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2884217,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2805834,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "18.12.1995",
-        "matrikelnummer": 11184,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "18.09.1992",
+        "matrikelnummer": 2923826,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Koch",
-        "plzort": "53147 Bonn",
+        "nachname": "Guhl",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Seeadlerstieg 17e",
+        "strasse": "Pre\u00dfgasse 5a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Arnt",
-        "weiblich": false
+        "vorname": "Debora",
+        "weiblich": true
     }
 }

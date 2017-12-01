@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2278122,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1313137,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.05.1988",
-        "matrikelnummer": 1971359,
+        "fakultaet": 8,
+        "geburtsdatum": "03.03.1992",
+        "matrikelnummer": 2771063,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Heitz",
-        "plzort": "53225 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wilde",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Adalbert-Stifter-Stra\u00dfe 15",
+        "strasse": "Klapperfeldstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 7
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             },
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             }
         ],
-        "vorname": "Kilian",
-        "weiblich": false
+        "vorname": "Diethilde",
+        "weiblich": true
     }
 }

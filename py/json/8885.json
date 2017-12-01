@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1569184,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2606909,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.07.1991",
-        "matrikelnummer": 1956553,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "14.12.1992",
+        "matrikelnummer": 2830465,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holland",
-        "plzort": "53199 Bonn",
+        "nachname": "Blome",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Lugturmweg 21",
+        "strasse": "Leisbergh\u00f6he 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 1
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Wilhardt",
-        "weiblich": false
+        "vorname": "Schwanhild",
+        "weiblich": true
     }
 }

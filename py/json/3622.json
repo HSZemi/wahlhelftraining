@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2923286,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1376950,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "13.02.1986",
-        "matrikelnummer": 169054,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "04.05.1994",
+        "matrikelnummer": 1909051,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kirsch",
-        "plzort": "23738 Kabelhorst",
+        "nachname": "Graupner",
+        "plzort": "94330 Aiterhofen",
         "sternchen": 0,
-        "strasse": "Franz Schubert-Platz 5",
+        "strasse": "Seidelbaststra\u00dfe 7e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Lisanne",
+        "vorname": "Trautlind",
         "weiblich": true
     }
 }

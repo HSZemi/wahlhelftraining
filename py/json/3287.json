@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1355372,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1520432,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.08.1989",
-        "matrikelnummer": 188559,
+        "fakultaet": 4,
+        "geburtsdatum": "02.10.1991",
+        "matrikelnummer": 12206,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strunz",
-        "plzort": "53136 Bonn",
+        "nachname": "Zwick",
+        "plzort": "64354 Reinheim",
         "sternchen": 0,
-        "strasse": "Friedrich-Heyer-Weg 2",
+        "strasse": "Eberhardstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Sieglinde",
-        "weiblich": true
+        "vorname": "Gernfried",
+        "weiblich": false
     }
 }

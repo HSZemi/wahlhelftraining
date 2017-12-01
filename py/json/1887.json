@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1485539,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2564169,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "20.03.1992",
-        "matrikelnummer": 2446057,
+        "geburtsdatum": "28.03.1994",
+        "matrikelnummer": 2048491,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Schild",
-        "plzort": "53137 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Will",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Keltenstra\u00dfe 5",
+        "strasse": "Turmstra\u00dfe 40",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 13
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 11
             }
         ],
-        "vorname": "Hermfried",
+        "vorname": "Sigmar",
         "weiblich": false
     }
 }

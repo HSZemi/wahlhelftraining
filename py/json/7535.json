@@ -2,35 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2389283,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2490206,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.05.1991",
-        "matrikelnummer": 2023920,
+        "fakultaet": 8,
+        "geburtsdatum": "13.12.1992",
+        "matrikelnummer": 2031312,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lambert",
-        "plzort": "53202 Bonn",
+        "nachname": "J\u00fcnger",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Goetzplatz 4",
+        "strasse": "Waldhausstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geography of Environmental Risks and Human Security",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Philosophie",
                 "fsem": 5
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Julian",
+        "vorname": "Ambrosius",
         "weiblich": false
     }
 }

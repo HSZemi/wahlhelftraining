@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1095641,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1464563,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "20.01.1992",
-        "matrikelnummer": 2616892,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "25.05.1987",
+        "matrikelnummer": 151309,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sander",
-        "plzort": "89291 Holzheim",
+        "nachname": "Ganter",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Simon-Ochs-Stra\u00dfe 19",
+        "strasse": "Solmspark 6",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
             }
         ],
-        "vorname": "Seibold",
-        "weiblich": false
+        "vorname": "Sigrid",
+        "weiblich": true
     }
 }

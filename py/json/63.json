@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1954668,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2109883,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.11.1994",
-        "matrikelnummer": 2241277,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "03.01.1987",
+        "matrikelnummer": 2920474,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Risse",
-        "plzort": "53170 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Brehmweg 5",
+        "strasse": "Niedersedlitzer Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 10
             }
         ],
-        "vorname": "Hedda",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

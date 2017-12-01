@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1977118,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2612626,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.01.1986",
-        "matrikelnummer": 2829126,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "11.09.1992",
+        "matrikelnummer": 17900,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53121 Bonn",
+        "plzort": "63512 Hainburg",
         "sternchen": 0,
-        "strasse": "Max-von-Pettenkofer-Weg 6",
+        "strasse": "Hocksteinstra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Ribana",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

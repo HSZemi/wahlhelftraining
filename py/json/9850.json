@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": false
+        "gremien": false,
+        "sp": true
     },
-    "nummer": 1055873,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1009425,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "03.02.1993",
-        "matrikelnummer": 2241357,
+        "fakultaet": 0,
+        "geburtsdatum": "15.01.1991",
+        "matrikelnummer": 2808654,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jakobi",
-        "plzort": "99867 Gotha",
+        "nachname": "Ertel",
+        "plzort": "98749 Steinheid",
         "sternchen": 0,
-        "strasse": "Galgenfuhr 42",
+        "strasse": "Am Seeblick 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 5
             }
         ],
-        "vorname": "Reinhold",
+        "vorname": "Frithjof",
         "weiblich": false
     }
 }

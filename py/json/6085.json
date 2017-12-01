@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2941135,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1283867,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.12.1993",
-        "matrikelnummer": 12047,
+        "fakultaet": 8,
+        "geburtsdatum": "14.07.1994",
+        "matrikelnummer": 3021368,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bartsch",
-        "plzort": "53198 Bonn",
+        "nachname": "Reimann",
+        "plzort": "87437 Kempten",
         "sternchen": 0,
-        "strasse": "Scharfreiterplatz 4",
+        "strasse": "Obere Seelgasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 5
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Nick",
-        "weiblich": false
+        "vorname": "Runhild",
+        "weiblich": true
     }
 }

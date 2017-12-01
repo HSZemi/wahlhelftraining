@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1595719,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2154559,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.05.1989",
-        "matrikelnummer": 2254479,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 4,
+        "geburtsdatum": "12.04.1999",
+        "matrikelnummer": 2972376,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Georg",
-        "plzort": "53207 Bonn",
+        "nachname": "R\u00f6der",
+        "plzort": "21514 G\u00f6ttin",
         "sternchen": 0,
-        "strasse": "Insterburger Stra\u00dfe 23",
+        "strasse": "Taubenweg 15e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Giselher",
-        "weiblich": false
+        "vorname": "Trudi",
+        "weiblich": true
     }
 }

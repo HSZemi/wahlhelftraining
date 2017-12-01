@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1016688,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2161483,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.07.1986",
-        "matrikelnummer": 3181536,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "21.05.1987",
+        "matrikelnummer": 177041,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "V\u00f6lkl",
-        "plzort": "56370 Reckenroth",
+        "nachname": "Kley",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Bischofswerder Stra\u00dfe 0",
+        "strasse": "Rathausplatz 4",
         "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
+            },
             {
                 "abschluss": "Master of Laws",
                 "fach": "Deutsches Recht",
-                "fsem": 10
+                "fsem": 4
             }
         ],
-        "vorname": "Martin",
+        "vorname": "Otheinrich",
         "weiblich": false
     }
 }

@@ -1,32 +1,37 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1572347,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2900503,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.09.1991",
-        "matrikelnummer": 2577094,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "09.04.1987",
+        "matrikelnummer": 2012873,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fricke",
-        "plzort": "19273 Melkof",
+        "nachname": "Frech",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Stiller Winkel 12",
+        "strasse": "Heimchenweg 2",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 12
+            },
+            {
                 "abschluss": "LA MA Gym Ge",
-                "fach": "Deutsch",
+                "fach": "Informatik",
                 "fsem": 1
             },
             {
                 "abschluss": "",
-                "fach": "Sozialwissenschaften",
+                "fach": "Italienisch",
                 "fsem": 1
             },
             {
@@ -35,7 +40,7 @@
                 "fsem": 1
             }
         ],
-        "vorname": "Franz",
-        "weiblich": false
+        "vorname": "Margarethe",
+        "weiblich": true
     }
 }

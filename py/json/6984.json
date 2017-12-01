@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2814792,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2756754,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "04.05.1989",
-        "matrikelnummer": 2777072,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "22.02.1995",
+        "matrikelnummer": 2021135,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Menges",
-        "plzort": "53144 Bonn",
+        "nachname": "Kinzel",
+        "plzort": "10711 Berlin",
         "sternchen": 0,
-        "strasse": "Crutzenkirchweg 8",
+        "strasse": "Steinbeker Hauptstra\u00dfe 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Biochemistry",
-                "fsem": 2
+                "fach": "Psychologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 12
             }
         ],
-        "vorname": "Hilde",
-        "weiblich": true
+        "vorname": "Dietbald",
+        "weiblich": false
     }
 }

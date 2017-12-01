@@ -1,46 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2797335,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2612498,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "11.09.1992",
-        "matrikelnummer": 2200396,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "25.04.1990",
+        "matrikelnummer": 2670452,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wilms",
-        "plzort": "53140 Bonn",
+        "nachname": "Wenger",
+        "plzort": "17129 Bentzin",
         "sternchen": 0,
-        "strasse": "Kirchnerweg 3",
+        "strasse": "Holzdamm 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 7
+                "fsem": 2
             },
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 5
             }
         ],
-        "vorname": "Ingelene",
-        "weiblich": true
+        "vorname": "Iven",
+        "weiblich": false
     }
 }

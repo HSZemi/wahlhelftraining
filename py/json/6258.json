@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2515572,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2592777,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "20.12.1990",
-        "matrikelnummer": 2041750,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "18.08.1993",
+        "matrikelnummer": 1912761,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bohm",
-        "plzort": "53134 Bonn",
+        "nachname": "Geissler",
+        "plzort": "45329 Essen",
         "sternchen": 0,
-        "strasse": "Johann Kodatsch-Stra\u00dfe 45",
+        "strasse": "Alte Falterstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Skandinavistik",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Psychologie",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Geschichte",
+                "fsem": 11
             }
         ],
-        "vorname": "Hilda",
-        "weiblich": true
+        "vorname": "Amadeus",
+        "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1774537,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2966603,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "22.02.1998",
-        "matrikelnummer": 2183081,
+        "fakultaet": 8,
+        "geburtsdatum": "15.01.1992",
+        "matrikelnummer": 181907,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gutmann",
-        "plzort": "53181 Bonn",
+        "nachname": "Kramp",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Spohrstra\u00dfe 2",
+        "strasse": "W\u00f6hlerbr\u00fccke 3b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 3
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Gertmund",
+        "vorname": "Oswald",
         "weiblich": false
     }
 }

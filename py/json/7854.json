@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2094729,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2123363,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "08.09.1994",
-        "matrikelnummer": 2246721,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "12.04.1991",
+        "matrikelnummer": 11988,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Severin",
-        "plzort": "53190 Bonn",
+        "nachname": "Beutel",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Vilbeler Landstra\u00dfe 31",
+        "strasse": "Archsumer Weg 1b",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Biologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Winfried",
+        "vorname": "Wernfried",
         "weiblich": false
     }
 }

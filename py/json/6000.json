@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1370961,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2563455,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.10.1993",
-        "matrikelnummer": 2440230,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "09.07.1999",
+        "matrikelnummer": 2003893,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Block",
-        "plzort": "89434 Blindheim",
+        "nachname": "Thies",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Im Dunster 53",
+        "strasse": "Ma\u00dfholderpfad 11",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 10
             }
         ],
-        "vorname": "Hanshelmut",
+        "vorname": "Emeram",
         "weiblich": false
     }
 }

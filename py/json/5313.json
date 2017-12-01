@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2099301,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2846061,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "23.04.1987",
-        "matrikelnummer": 2170990,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "03.04.1993",
+        "matrikelnummer": 2145255,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bruckner",
-        "plzort": "53198 Bonn",
+        "nachname": "Meinel",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Idarwaldstra\u00dfe 0",
+        "strasse": "Fliederberg 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
             }
         ],
-        "vorname": "Hubertine",
-        "weiblich": true
+        "vorname": "Wolfhelm",
+        "weiblich": false
     }
 }

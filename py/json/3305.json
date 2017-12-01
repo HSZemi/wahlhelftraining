@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2673370,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2594536,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "06.05.1992",
-        "matrikelnummer": 1976531,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kircher",
-        "plzort": "53175 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "08.06.1999",
+        "matrikelnummer": 2110434,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Heinzel",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Kreuz\u00e4cker 2",
+        "strasse": "Blauenstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
                 "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 8
             }
         ],
-        "vorname": "Friedemar",
-        "weiblich": false
+        "vorname": "Lara",
+        "weiblich": true
     }
 }

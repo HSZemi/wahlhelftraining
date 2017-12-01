@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2433069,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1903487,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "08.03.1988",
-        "matrikelnummer": 2393686,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "01.04.1992",
+        "matrikelnummer": 12479,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buchner",
-        "plzort": "53197 Bonn",
+        "nachname": "Dehn",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Von-Elm-Stieg 16",
+        "strasse": "An der Eisenbahn 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
-                "fsem": 13
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Anneluise",
-        "weiblich": true
+        "vorname": "Arnhart",
+        "weiblich": false
     }
 }

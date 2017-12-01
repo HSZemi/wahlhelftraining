@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1372391,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1236946,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.01.1995",
-        "matrikelnummer": 2140778,
+        "fakultaet": 9,
+        "geburtsdatum": "07.10.1999",
+        "matrikelnummer": 2580178,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krebs",
-        "plzort": "53143 Bonn",
+        "nachname": "Stadler",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Brixener Stra\u00dfe 19",
+        "strasse": "Grundweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Friedwin",
-        "weiblich": false
+        "vorname": "Dolores",
+        "weiblich": true
     }
 }

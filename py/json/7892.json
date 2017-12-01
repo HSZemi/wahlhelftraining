@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1784043,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1327356,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "03.10.1985",
-        "matrikelnummer": 2158178,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "13.01.1988",
+        "matrikelnummer": 3150314,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knoll",
-        "plzort": "53183 Bonn",
+        "nachname": "Bracht",
+        "plzort": "91325 Adelsdorf",
         "sternchen": 0,
-        "strasse": "Leisniger Stra\u00dfe 15",
+        "strasse": "Vierh\u00e4usergasse 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Frithjof",
+        "vorname": "Gunnar",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1094603,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1004024,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "16.12.1992",
-        "matrikelnummer": 2233579,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "10.03.1994",
+        "matrikelnummer": 2211287,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jungbluth",
-        "plzort": "53175 Bonn",
+        "nachname": "Sch\u00f6nemann",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Schwarze Br\u00fccke 5",
+        "strasse": "Meier-Seligmann-Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Steven",
+        "vorname": "Til",
         "weiblich": false
     }
 }

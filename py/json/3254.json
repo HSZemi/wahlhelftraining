@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2964515,
+    "nummer": 2855461,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "22.01.1989",
-        "matrikelnummer": 2876943,
+        "geburtsdatum": "09.09.1999",
+        "matrikelnummer": 2365135,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Dewald",
-        "plzort": "56244 Vielbach",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hartig",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Danziger Platz 13",
+        "strasse": "Leumerstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
+                "abschluss": "Bachelor of Science",
                 "fach": "Psychologie",
-                "fsem": 10
+                "fsem": 11
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Nikodem",
-        "weiblich": false
+        "vorname": "Friedl",
+        "weiblich": true
     }
 }

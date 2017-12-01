@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1738610,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2357652,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "09.06.1989",
-        "matrikelnummer": 3169436,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "27.02.1996",
+        "matrikelnummer": 2708517,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "J\u00fcnemann",
-        "plzort": "53222 Bonn",
+        "nachname": "Kretzschmar",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Schmiede 10",
+        "strasse": "Dinkelkamp 8a",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 8
             }
         ],
-        "vorname": "Gottwalt",
+        "vorname": "Raphael",
         "weiblich": false
     }
 }

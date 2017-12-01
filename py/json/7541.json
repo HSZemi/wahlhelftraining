@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1927444,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2063104,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "06.08.1992",
-        "matrikelnummer": 134657,
+        "fakultaet": 2,
+        "geburtsdatum": "28.06.1992",
+        "matrikelnummer": 19710,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Marquardt",
-        "plzort": "93359 Wildenberg",
+        "nachname": "Daniel",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz-Boehle-Stra\u00dfe 9a",
+        "strasse": "Raiffeisenplatz 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Nortrud",
-        "weiblich": true
+        "vorname": "Melchior",
+        "weiblich": false
     }
 }

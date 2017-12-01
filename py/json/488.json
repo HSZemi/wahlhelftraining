@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1596463,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2213804,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "28.05.1990",
-        "matrikelnummer": 2983534,
+        "geburtsdatum": "04.03.1994",
+        "matrikelnummer": 2013103,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wassermann",
-        "plzort": "53194 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Erfurter Weg 10",
+        "strasse": "Adalbertstr. 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Chemistry",
+                "fsem": 11
             }
         ],
-        "vorname": "Heidemarie",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2312161,
+    "nummer": 2172832,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "11.05.1993",
-        "matrikelnummer": 3062782,
+        "fakultaet": 8,
+        "geburtsdatum": "06.10.1985",
+        "matrikelnummer": 2825954,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kahl",
-        "plzort": "53191 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Bangert",
+        "plzort": "06237 Spergau",
         "sternchen": 0,
-        "strasse": "Knickweg 31",
+        "strasse": "Darnieweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Heiderich",
+        "vorname": "Dankmar",
         "weiblich": false
     }
 }

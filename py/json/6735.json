@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1590468,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1671998,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "11.04.1997",
-        "matrikelnummer": 18441,
+        "geburtsdatum": "14.01.1991",
+        "matrikelnummer": 2702706,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niemeier",
-        "plzort": "98634 Kaltenwestheim",
+        "nachname": "Pesch",
+        "plzort": "15831 Selchow",
         "sternchen": 0,
-        "strasse": "Kalvarienbergplatz 1",
+        "strasse": "Leuckartstra\u00dfe 2d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Skandinavistik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Lateinamerika- und Altamerikastudien",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Indologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Gebhart",
+        "vorname": "Gottlieb",
         "weiblich": false
     }
 }

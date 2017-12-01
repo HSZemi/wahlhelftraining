@@ -2,45 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2538028,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1731547,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.11.1994",
-        "matrikelnummer": 14531,
+        "fakultaet": 4,
+        "geburtsdatum": "04.08.1994",
+        "matrikelnummer": 2522657,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "V\u00f6lker",
-        "plzort": "53162 Bonn",
+        "nachname": "Hanke",
+        "plzort": "58730 Fr\u00f6ndenberg",
         "sternchen": 0,
-        "strasse": "Sudetenstra\u00dfe 4",
+        "strasse": "Karschm\u00fchlenblick 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
                 "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Rudolph",
+        "vorname": "Nick",
         "weiblich": false
     }
 }

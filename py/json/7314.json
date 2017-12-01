@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2138944,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1743372,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.11.1995",
-        "matrikelnummer": 2832486,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "26.08.1997",
+        "matrikelnummer": 2918401,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Freund",
-        "plzort": "36211 Alheim",
+        "nachname": "Seidel",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Arnsberg-Platz 7",
+        "strasse": "Am Langenzug 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Gitta",
-        "weiblich": true
+        "vorname": "Sieghart",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1312504,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1044633,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.08.1998",
-        "matrikelnummer": 2362296,
+        "fakultaet": 4,
+        "geburtsdatum": "09.05.1996",
+        "matrikelnummer": 2554538,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Keim",
-        "plzort": "34599 Neuental",
+        "nachname": "Hundertmark",
+        "plzort": "57612 Birnbach",
         "sternchen": 0,
-        "strasse": "Nagelsf\u00f6rst 3",
+        "strasse": "Am Steinbruch 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Lateinamerika- und Altamerikastudien",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Hispanistik",
-                "fsem": 9
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 5
             }
         ],
-        "vorname": "Steph",
-        "weiblich": false
+        "vorname": "Siggi",
+        "weiblich": true
     }
 }

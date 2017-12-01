@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2532834,
+    "nummer": 2914824,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.12.1996",
-        "matrikelnummer": 2750990,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "14.02.1988",
+        "matrikelnummer": 2363941,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lochner",
-        "plzort": "53221 Bonn",
+        "nachname": "Mandel",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Ruth-Moufang-Stra\u00dfe 16",
+        "strasse": "Wasserhofstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 8
             }
         ],
-        "vorname": "Bartold",
+        "vorname": "Karli",
         "weiblich": false
     }
 }

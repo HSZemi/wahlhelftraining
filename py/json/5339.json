@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1725868,
+    "nummer": 1250822,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.10.1989",
-        "matrikelnummer": 2181788,
+        "fakultaet": 8,
+        "geburtsdatum": "14.02.1992",
+        "matrikelnummer": 3181814,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00fchle",
-        "plzort": "53221 Bonn",
+        "nachname": "Groll",
+        "plzort": "03253 Schilda",
         "sternchen": 0,
-        "strasse": "Friesenstra\u00dfe 15",
+        "strasse": "Heigenbr\u00fccker Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 10
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Erich",
+        "vorname": "Nicky",
         "weiblich": false
     }
 }

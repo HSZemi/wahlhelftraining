@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2547245,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2228287,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "18.03.1999",
-        "matrikelnummer": 2901467,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "02.12.1998",
+        "matrikelnummer": 2177448,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ehrich",
-        "plzort": "53201 Bonn",
+        "nachname": "Pl\u00f6tz",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Franz-R\u00fccker-Allee 26",
+        "strasse": "Burgunderweg 21",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 2
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Sabrine",
+        "vorname": "Benita",
         "weiblich": true
     }
 }

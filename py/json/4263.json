@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2282652,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2363313,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.05.1991",
-        "matrikelnummer": 2858654,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "22.11.1991",
+        "matrikelnummer": 2084136,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hilmer",
-        "plzort": "53184 Bonn",
+        "nachname": "Munz",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Kornfeld-Weg 17",
+        "strasse": "Bruckertshof 27",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Lerke",
-        "weiblich": true
+        "vorname": "Claudius",
+        "weiblich": false
     }
 }

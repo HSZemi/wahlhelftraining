@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1525721,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2502900,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.03.1997",
-        "matrikelnummer": 2107517,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "20.04.1994",
+        "matrikelnummer": 2447814,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Beer",
-        "plzort": "53200 Bonn",
+        "nachname": "Rick",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Meraner Stra\u00dfe 1",
+        "strasse": "Lipsiusstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
+                "fsem": 8
             }
         ],
-        "vorname": "Leongard",
+        "vorname": "Irmgarda",
         "weiblich": true
     }
 }

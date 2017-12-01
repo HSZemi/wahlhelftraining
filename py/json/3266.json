@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2975354,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2827977,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.11.1995",
-        "matrikelnummer": 2975144,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "11.11.1995",
+        "matrikelnummer": 1944379,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heise",
-        "plzort": "53216 Bonn",
+        "nachname": "Schindler",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Hartmann-Ibach-Stra\u00dfe 43",
+        "strasse": "S\u00fcderstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
                 "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 7
             }
         ],
-        "vorname": "Gotthilf",
+        "vorname": "Dieterich",
         "weiblich": false
     }
 }

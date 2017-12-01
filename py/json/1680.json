@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2806707,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1908662,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.08.1994",
-        "matrikelnummer": 2422008,
+        "fakultaet": 5,
+        "geburtsdatum": "02.06.1999",
+        "matrikelnummer": 3179809,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tewes",
-        "plzort": "96369 Wei\u00dfenbrunn",
+        "nachname": "Fritze",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Klagenfurter Stra\u00dfe 1",
+        "strasse": "Kramergasse 22",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 8
-            },
-            {
                 "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 10
+                "fach": "Germanistik",
+                "fsem": 12
             }
         ],
-        "vorname": "Wernher",
+        "vorname": "Armin",
         "weiblich": false
     }
 }

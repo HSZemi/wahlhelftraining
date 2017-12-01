@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2183601,
-    "semester": "Sommersemester 2016",
+    "nummer": 2823977,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "24.07.1999",
-        "matrikelnummer": 2140726,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "02.11.1995",
+        "matrikelnummer": 3176892,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Budde",
-        "plzort": "53197 Bonn",
+        "nachname": "Rieder",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Oswaltstra\u00dfe 4",
+        "strasse": "Lepsiusstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 12
             }
         ],
-        "vorname": "Freya",
+        "vorname": "Susana",
         "weiblich": true
     }
 }

@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2887005,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1915812,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "05.06.1991",
-        "matrikelnummer": 182963,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "09.03.1997",
+        "matrikelnummer": 1921165,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thiel",
-        "plzort": "79591 Eimeldingen",
+        "nachname": "Barz",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Jenkelweg 3",
+        "strasse": "Brendelweg 5",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Friederike",
-        "weiblich": true
+        "vorname": "Olf",
+        "weiblich": false
     }
 }

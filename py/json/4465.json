@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2259477,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2175368,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.06.1993",
-        "matrikelnummer": 2490233,
+        "fakultaet": 6,
+        "geburtsdatum": "22.04.1999",
+        "matrikelnummer": 3051988,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kampmann",
-        "plzort": "53180 Bonn",
+        "nachname": "Nachtigall",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Horner Wegbr\u00fccke 2",
+        "strasse": "Cordierstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 11
+                "fach": "Pharmazie",
+                "fsem": 10
             }
         ],
-        "vorname": "Ferdinand",
+        "vorname": "Willmar",
         "weiblich": false
     }
 }

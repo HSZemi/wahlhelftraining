@@ -1,46 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2719914,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2214768,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "14.01.1995",
-        "matrikelnummer": 2145526,
+        "fakultaet": 8,
+        "geburtsdatum": "12.03.1992",
+        "matrikelnummer": 18842,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pietzsch",
-        "plzort": "53209 Bonn",
+        "nachname": "Stingl",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Poisenweg 0",
+        "strasse": "Dillenburger Stra\u00dfe 33",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 13
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 8
             },
             {
                 "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 9
+                "fach": "Katholische Religionslehre",
+                "fsem": 12
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "fsem": 8
             }
         ],
-        "vorname": "Alfhard",
+        "vorname": "Brandolf",
         "weiblich": false
     }
 }

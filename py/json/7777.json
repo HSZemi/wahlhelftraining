@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1643010,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2667846,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.07.1992",
-        "matrikelnummer": 13020,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "17.03.1987",
+        "matrikelnummer": 3022024,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haubold",
-        "plzort": "94345 Aholfing",
+        "nachname": "Marquardt",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Heiligkreuzgasse 6",
+        "strasse": "Baruch-Baschwitz-Platz 9b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Manhard",
-        "weiblich": false
+        "vorname": "Dietburg",
+        "weiblich": true
     }
 }

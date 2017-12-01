@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2015069,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1125846,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.08.1993",
-        "matrikelnummer": 3003231,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 1,
+        "geburtsdatum": "26.04.1997",
+        "matrikelnummer": 177729,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Linn",
-        "plzort": "17498 Mesekenhagen",
+        "nachname": "Radloff",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Im Pr\u00fcfling 1",
+        "strasse": "Schlinkenweg 3",
         "studienfaecher": [
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 3
+            },
             {
                 "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "fsem": 9
             }
         ],
-        "vorname": "Wunibald",
-        "weiblich": false
+        "vorname": "Wiltrudis",
+        "weiblich": true
     }
 }

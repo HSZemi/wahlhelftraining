@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1562287,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2879133,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "21.09.1988",
-        "matrikelnummer": 2855058,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "02.02.1999",
+        "matrikelnummer": 2700639,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Adler",
-        "plzort": "53161 Bonn",
+        "nachname": "Tietjen",
+        "plzort": "56288 Hasselbach",
         "sternchen": 0,
-        "strasse": "Chausseehausstra\u00dfe 27",
+        "strasse": "Medinger Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 4
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Pankratius",
-        "weiblich": false
+        "vorname": "Annaliese",
+        "weiblich": true
     }
 }

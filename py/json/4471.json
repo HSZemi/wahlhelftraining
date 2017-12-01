@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2658248,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1699188,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.06.1990",
-        "matrikelnummer": 2001399,
+        "fakultaet": 8,
+        "geburtsdatum": "24.11.1987",
+        "matrikelnummer": 2510108,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ruge",
-        "plzort": "53184 Bonn",
+        "nachname": "Wachsmuth",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Senefelderweg 14",
+        "strasse": "Otto-Dittrich-Stra\u00dfe 5e",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 5
             }
         ],
-        "vorname": "Mechthilde",
-        "weiblich": true
+        "vorname": "Rainald",
+        "weiblich": false
     }
 }

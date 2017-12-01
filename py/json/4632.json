@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1319190,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1359003,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.08.1992",
-        "matrikelnummer": 2845554,
+        "fakultaet": 4,
+        "geburtsdatum": "03.11.1999",
+        "matrikelnummer": 2522894,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fenske",
-        "plzort": "53489 Sinzig",
+        "nachname": "Schlick",
+        "plzort": "55776 Hahnweiler",
         "sternchen": 0,
-        "strasse": "Wormser Platz 3",
+        "strasse": "Lubminer Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
             }
         ],
-        "vorname": "Kunibert",
+        "vorname": "Marcus",
         "weiblich": false
     }
 }

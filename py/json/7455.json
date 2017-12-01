@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1139244,
+    "nummer": 2614348,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.11.1991",
-        "matrikelnummer": 112697,
+        "fakultaet": 4,
+        "geburtsdatum": "10.11.1987",
+        "matrikelnummer": 2580680,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ruhl",
-        "plzort": "53195 Bonn",
+        "nachname": "Kindermann",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Steinr\u00fccke 6",
+        "strasse": "Robert Michlits-Stra\u00dfe 33",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
                 "fach": "Katholische Theologie",
-                "fsem": 10
+                "fsem": 12
             }
         ],
-        "vorname": "Melissa",
-        "weiblich": true
+        "vorname": "Hildebert",
+        "weiblich": false
     }
 }

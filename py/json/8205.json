@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1593875,
-    "semester": "Sommersemester 2016",
+    "nummer": 1261254,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.04.1998",
-        "matrikelnummer": 2898013,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "24.04.1992",
+        "matrikelnummer": 11962,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Obermaier",
-        "plzort": "53136 Bonn",
+        "nachname": "Maul",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Else-Klindtworth-Stra\u00dfe 17",
+        "strasse": "An der K\u00fcmmelschenke 2d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Chemie",
+                "fsem": 9
             }
         ],
-        "vorname": "Anette",
+        "vorname": "Adina",
         "weiblich": true
     }
 }

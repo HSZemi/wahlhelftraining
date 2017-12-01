@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1496836,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2574023,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "24.12.1994",
-        "matrikelnummer": 2152460,
+        "fakultaet": 5,
+        "geburtsdatum": "13.04.1999",
+        "matrikelnummer": 2071398,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gregor",
-        "plzort": "53195 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "94481 Grafenau",
         "sternchen": 0,
-        "strasse": "Friedrich-Dessauer-Stra\u00dfe 1",
+        "strasse": "Westfleth-Passage 5",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Cordt",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

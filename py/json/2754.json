@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1294109,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1615107,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.07.1993",
-        "matrikelnummer": 2059709,
+        "fakultaet": 8,
+        "geburtsdatum": "27.08.1994",
+        "matrikelnummer": 2491811,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinberg",
-        "plzort": "53181 Bonn",
+        "nachname": "Niebuhr",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Adalbert-Stifter-Str. 2",
+        "strasse": "Am Staffelstein 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 1
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 9
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 10
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 9
             }
         ],
-        "vorname": "Emma",
-        "weiblich": true
+        "vorname": "Nikodem",
+        "weiblich": false
     }
 }

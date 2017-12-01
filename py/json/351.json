@@ -2,40 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1268193,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2378096,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "20.12.1992",
-        "matrikelnummer": 2062774,
+        "fakultaet": 5,
+        "geburtsdatum": "24.12.1990",
+        "matrikelnummer": 2917633,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schaar",
-        "plzort": "53126 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Gaustritzer Stra\u00dfe 10",
+        "strasse": "Zum Nixenteich 22",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Englisch",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 6
             }
         ],
-        "vorname": "Lilo",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

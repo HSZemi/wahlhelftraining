@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2765648,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1534385,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.11.1993",
-        "matrikelnummer": 11295,
+        "fakultaet": 1,
+        "geburtsdatum": "07.09.1986",
+        "matrikelnummer": 3041807,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leopold",
-        "plzort": "53143 Bonn",
+        "nachname": "Kaiser",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Sch\u00e4ferei 1",
+        "strasse": "Fasangartenstr. 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geographie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Eleonora",
-        "weiblich": true
+        "vorname": "Karlfried",
+        "weiblich": false
     }
 }

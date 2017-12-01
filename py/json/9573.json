@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1407950,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2687521,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "24.07.1993",
-        "matrikelnummer": 19216,
+        "geburtsdatum": "03.08.1995",
+        "matrikelnummer": 15283,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langenbach",
-        "plzort": "53225 Bonn",
+        "nachname": "Erbe",
+        "plzort": "08258 Markneukirchen",
         "sternchen": 0,
-        "strasse": "Zschonergrundstra\u00dfe 23",
+        "strasse": "Zieglerstra\u00dfe 32",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 1
             }
         ],
-        "vorname": "Wolfbert",
+        "vorname": "Brandolf",
         "weiblich": false
     }
 }

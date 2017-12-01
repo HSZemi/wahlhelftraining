@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1808333,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1563100,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "11.01.1996",
-        "matrikelnummer": 2592168,
+        "fakultaet": 2,
+        "geburtsdatum": "02.12.1994",
+        "matrikelnummer": 2103356,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuhr",
-        "plzort": "53214 Bonn",
+        "nachname": "T\u00f6lle",
+        "plzort": "87490 Haldenwang",
         "sternchen": 0,
-        "strasse": "Zweite Borstelmannbr\u00fccke 1",
+        "strasse": "Nelkenweg 10",
         "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 13
+            },
             {
                 "abschluss": "Kirchl.Ex.",
                 "fach": "Altkatholische Theologie",
-                "fsem": 3
+                "fsem": 7
             }
         ],
-        "vorname": "Wenzel",
-        "weiblich": false
+        "vorname": "Hildegart",
+        "weiblich": true
     }
 }

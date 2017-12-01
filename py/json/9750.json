@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1641740,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2628496,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "20.08.1987",
-        "matrikelnummer": 2104166,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "21.04.1994",
+        "matrikelnummer": 2188966,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6pfner",
-        "plzort": "77794 Lautenbach",
+        "nachname": "Zielke",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Rauchstra\u00dfe 3",
+        "strasse": "Schongauerstra\u00dfe 0",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 12
+            },
+            {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 3
+                "fach": "Kunstgeschichte",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Romanistik",
+                "fsem": 8
             }
         ],
-        "vorname": "Meikel",
+        "vorname": "Gotthart",
         "weiblich": false
     }
 }

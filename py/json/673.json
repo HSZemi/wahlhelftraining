@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1834194,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2330575,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "10.05.1996",
-        "matrikelnummer": 17935,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "13.08.1999",
+        "matrikelnummer": 3156384,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strasser",
-        "plzort": "53213 Bonn",
+        "nachname": "H\u00f6lzer",
+        "plzort": "70178 Stuttgart",
         "sternchen": 0,
-        "strasse": "Panoramaweg 0",
+        "strasse": "Marderweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Islamwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Bertold",
-        "weiblich": false
+        "vorname": "Idamarie",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2752101,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2914093,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "10.01.1990",
-        "matrikelnummer": 2096400,
+        "geburtsdatum": "27.02.1990",
+        "matrikelnummer": 2107766,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holtz",
-        "plzort": "88436 Eberhardzell",
+        "nachname": "M\u00e4rz",
+        "plzort": "57614 Oberwambach",
         "sternchen": 0,
-        "strasse": "Jenaer Weg 5",
+        "strasse": "Klingenberger Stra\u00dfe 10",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
                 "fach": "Geographie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "fsem": 6
             }
         ],
-        "vorname": "Cornelius",
+        "vorname": "Eginald",
         "weiblich": false
     }
 }

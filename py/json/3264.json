@@ -1,46 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1604066,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2165557,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.07.1991",
-        "matrikelnummer": 2039847,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 3,
+        "geburtsdatum": "02.12.1992",
+        "matrikelnummer": 2753629,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinkamp",
-        "plzort": "53200 Bonn",
+        "nachname": "Nickel",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Brendelweg 7",
+        "strasse": "Gustav-Klimt-Weg 5",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 12
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Computational Life Sciences",
-                "fsem": 13
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Latein",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Resilotte",
-        "weiblich": true
+        "vorname": "Thomas",
+        "weiblich": false
     }
 }

@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2250112,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1436890,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "09.06.1994",
-        "matrikelnummer": 2903298,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "05.02.1991",
+        "matrikelnummer": 18407,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6se",
-        "plzort": "03226 Raddusch",
+        "nachname": "Scheid",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfe Seestra\u00dfe 0",
+        "strasse": "Erste Banksbr\u00fccke 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
                 "fsem": 7
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 1
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Rosamarie",
-        "weiblich": true
+        "vorname": "Adelhard",
+        "weiblich": false
     }
 }

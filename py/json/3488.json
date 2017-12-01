@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1301125,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2610378,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "01.07.1993",
-        "matrikelnummer": 1963822,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "10.07.1993",
+        "matrikelnummer": 18130,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rentsch",
-        "plzort": "53171 Bonn",
+        "nachname": "Messner",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Collenbuschstra\u00dfe 6",
+        "strasse": "Anckelmannstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Mathematik",
+                "fsem": 5
             }
         ],
-        "vorname": "Robby",
+        "vorname": "Anton",
         "weiblich": false
     }
 }

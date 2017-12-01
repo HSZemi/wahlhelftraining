@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2026922,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1326383,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "08.09.1993",
-        "matrikelnummer": 2707355,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "26.05.1994",
+        "matrikelnummer": 2379286,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tacke",
-        "plzort": "53135 Bonn",
+        "nachname": "Traub",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Johanna-Spyri-Weg 12",
+        "strasse": "Hellerauer Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 3
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Edwina",
+        "vorname": "Frida",
         "weiblich": true
     }
 }

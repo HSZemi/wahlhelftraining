@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1546118,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2581434,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.06.1986",
-        "matrikelnummer": 2275600,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "28.07.1998",
+        "matrikelnummer": 14523,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behrend",
-        "plzort": "53155 Bonn",
+        "nachname": "Kalisch",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Ausschl\u00e4ger Weg 7",
+        "strasse": "Angelsteg 8",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Biologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Mathematik",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Ingfried",
-        "weiblich": false
+        "vorname": "Siegbritta",
+        "weiblich": true
     }
 }

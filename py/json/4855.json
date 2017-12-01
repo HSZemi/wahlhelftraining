@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1138230,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2770154,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.05.1999",
-        "matrikelnummer": 143717,
+        "fakultaet": 6,
+        "geburtsdatum": "23.01.1991",
+        "matrikelnummer": 2145241,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kugler",
-        "plzort": "53218 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Goerke",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Celler Weg 1",
+        "strasse": "Rennbahnstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "abschluss": "Promotion",
+                "fach": "Chemie",
                 "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Herger",
+        "vorname": "Alfinus",
         "weiblich": false
     }
 }

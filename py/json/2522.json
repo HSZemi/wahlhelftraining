@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2539793,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2415714,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.10.1999",
-        "matrikelnummer": 11516,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Adams",
-        "plzort": "53206 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "10.09.1993",
+        "matrikelnummer": 2381801,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Witzel",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Wehrstra\u00dfe 2",
+        "strasse": "Fellnerstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Altamerikanistik und Ethnologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Skandinavistik",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Liesel",
+        "vorname": "Ignazia",
         "weiblich": true
     }
 }

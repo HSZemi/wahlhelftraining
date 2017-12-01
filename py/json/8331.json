@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1866657,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2494985,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "07.12.1989",
-        "matrikelnummer": 2301054,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "14.05.1996",
+        "matrikelnummer": 2662041,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wallner",
-        "plzort": "53153 Bonn",
+        "nachname": "Altmann",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Rudolf-Nehmer-Stra\u00dfe 2",
+        "strasse": "Propstengasse 3",
         "studienfaecher": [
             {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
+            },
+            {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
             }
         ],
-        "vorname": "Uta",
+        "vorname": "Rose",
         "weiblich": true
     }
 }

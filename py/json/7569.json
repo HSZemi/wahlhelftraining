@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2327944,
+    "nummer": 2162816,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.06.1993",
-        "matrikelnummer": 1972037,
+        "fakultaet": 8,
+        "geburtsdatum": "26.03.1994",
+        "matrikelnummer": 3035207,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuhnt",
-        "plzort": "53171 Bonn",
+        "nachname": "Obermeier",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bauernbusch 7",
+        "strasse": "Friedrich-Heyer-Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
-                "fsem": 3
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 9
             },
             {
                 "abschluss": "",
-                "fach": "Arch\u00e4ologien",
-                "fsem": 3
+                "fach": "Italienisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Dinah",
-        "weiblich": true
+        "vorname": "Eduard",
+        "weiblich": false
     }
 }

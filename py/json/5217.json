@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1168580,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2532363,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.10.1988",
-        "matrikelnummer": 1912911,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "21.05.1999",
+        "matrikelnummer": 161241,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Berndt",
-        "plzort": "53211 Bonn",
+        "nachname": "Semmler",
+        "plzort": "21775 Steinau",
         "sternchen": 0,
-        "strasse": "Borstelmannsweg 7",
+        "strasse": "Konrad-Hoenen-Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Katholische Religionslehre",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Biologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 2
             }
         ],
-        "vorname": "Hadumod",
-        "weiblich": true
+        "vorname": "Runald",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1581836,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1286407,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "17.03.1989",
-        "matrikelnummer": 191890,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Seibert",
-        "plzort": "53136 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "08.02.1989",
+        "matrikelnummer": 2116549,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Haack",
+        "plzort": "25821 Bredstedt",
         "sternchen": 0,
-        "strasse": "Stephansplatz 0",
+        "strasse": "Pestitzer Weg 24",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "fach": "Medizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Gereon",
-        "weiblich": false
+        "vorname": "Norma",
+        "weiblich": true
     }
 }

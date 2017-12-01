@@ -4,43 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1553462,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2778229,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "07.09.1992",
-        "matrikelnummer": 2262541,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "04.03.1984",
+        "matrikelnummer": 2733704,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behringer",
-        "plzort": "53123 Bonn",
+        "nachname": "Wilhelm",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Schlo\u00dfstra\u00dfe 3",
+        "strasse": "Hennegasse 11",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "fsem": 5
             }
         ],
-        "vorname": "Lissi",
-        "weiblich": true
+        "vorname": "Loisl",
+        "weiblich": false
     }
 }

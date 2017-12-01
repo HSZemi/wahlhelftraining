@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1859764,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2337010,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.05.1989",
-        "matrikelnummer": 2375649,
+        "fakultaet": 9,
+        "geburtsdatum": "06.02.1995",
+        "matrikelnummer": 2276778,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Teschner",
-        "plzort": "53196 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schardt",
+        "plzort": "88356 Ostrach",
         "sternchen": 0,
-        "strasse": "Georg-Meisenbach-Str. 6",
+        "strasse": "Magdeburger Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Mirjana",
+        "vorname": "Elgard",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1149435,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1466523,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.05.1992",
-        "matrikelnummer": 3063663,
+        "fakultaet": 4,
+        "geburtsdatum": "16.07.1993",
+        "matrikelnummer": 3091799,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schubert",
-        "plzort": "53190 Bonn",
+        "nachname": "Kettler",
+        "plzort": "04874 Belgern",
         "sternchen": 0,
-        "strasse": "Kr\u00f6gerstra\u00dfe 8",
+        "strasse": "Rudolf-Kempe-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
             }
         ],
-        "vorname": "Britta",
-        "weiblich": true
+        "vorname": "Liborius",
+        "weiblich": false
     }
 }

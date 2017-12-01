@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1421768,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2478084,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "14.03.1998",
-        "matrikelnummer": 3062512,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "16.11.1997",
+        "matrikelnummer": 2379683,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Decker",
-        "plzort": "53183 Bonn",
+        "nachname": "H\u00fcmmer",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Am Weinberg 14",
+        "strasse": "Hainsberger Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 13
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Hansotto",
+        "vorname": "Timon",
         "weiblich": false
     }
 }

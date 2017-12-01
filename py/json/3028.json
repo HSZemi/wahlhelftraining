@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2916514,
-    "semester": "Sommersemester 2016",
+    "nummer": 1021493,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.11.1993",
-        "matrikelnummer": 2562488,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "11.05.1997",
+        "matrikelnummer": 2624701,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schr\u00f6er",
-        "plzort": "53123 Bonn",
+        "nachname": "H\u00e4user",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Winterstra\u00dfe 16",
+        "strasse": "Hahngartenstra\u00dfe 1b",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
+                "fach": "Indologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
                 "fsem": 9
             }
         ],
-        "vorname": "Hieronimus",
-        "weiblich": false
+        "vorname": "Jenny",
+        "weiblich": true
     }
 }

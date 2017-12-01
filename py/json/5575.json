@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2381721,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2208175,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "18.03.1999",
-        "matrikelnummer": 2014222,
+        "geburtsdatum": "01.12.1996",
+        "matrikelnummer": 1971793,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00fcning",
-        "plzort": "53189 Bonn",
+        "nachname": "Arend",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Kupferhammer 7",
+        "strasse": "Hardenbergstra\u00dfe 18c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Asienwissenschaften",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Chinesisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Skandinavistik",
+                "fsem": 4
             }
         ],
-        "vorname": "Hadubert",
+        "vorname": "Tobias",
         "weiblich": false
     }
 }

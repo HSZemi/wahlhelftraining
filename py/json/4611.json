@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1326526,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1327775,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.12.1999",
-        "matrikelnummer": 2064218,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Leipold",
-        "plzort": "53132 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "02.11.1991",
+        "matrikelnummer": 120834,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Steck",
+        "plzort": "55765 Ellenberg",
         "sternchen": 0,
-        "strasse": "Am Mittelwald 11",
+        "strasse": "Gottleubaer Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
                 "fsem": 12
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Siegmar",
+        "vorname": "Wulfhardt",
         "weiblich": false
     }
 }

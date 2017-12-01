@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1046567,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1425077,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.08.1998",
-        "matrikelnummer": 2352014,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "17.07.1996",
+        "matrikelnummer": 2794509,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dohrmann",
-        "plzort": "53226 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Paquetstra\u00dfe 0",
+        "strasse": "Antonin-Dvorak-Stra\u00dfe 3",
         "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 6
+            },
             {
                 "abschluss": "Kirchl.Ex.",
                 "fach": "Altkatholische Theologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 6
+                "fsem": 1
             }
         ],
-        "vorname": "Hubertus",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

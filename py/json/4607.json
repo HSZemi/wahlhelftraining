@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2023447,
+    "nummer": 1216567,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.03.1999",
-        "matrikelnummer": 2127313,
+        "fakultaet": 3,
+        "geburtsdatum": "04.03.1996",
+        "matrikelnummer": 2254833,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dressler",
-        "plzort": "53125 Bonn",
+        "nachname": "Kalb",
+        "plzort": "15910 Schuhlen-Wiese",
         "sternchen": 0,
-        "strasse": "Gundelsheimer Str. 14",
+        "strasse": "Bahnh\u00e4user 8e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Marlis",
+        "vorname": "Angela",
         "weiblich": true
     }
 }

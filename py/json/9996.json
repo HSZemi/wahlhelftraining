@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1527824,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2205965,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "19.07.1999",
-        "matrikelnummer": 18227,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "12.03.1999",
+        "matrikelnummer": 3173319,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langenbach",
-        "plzort": "19243 Boddin",
+        "nachname": "Artmann",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Bertheltstra\u00dfe 16",
+        "strasse": "Stollestra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 2
             }
         ],
-        "vorname": "Inghard",
-        "weiblich": false
+        "vorname": "Ulfrida",
+        "weiblich": true
     }
 }

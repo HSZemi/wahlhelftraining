@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2036501,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2536363,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.12.1999",
-        "matrikelnummer": 2725032,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "19.05.1996",
+        "matrikelnummer": 2730847,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mende",
-        "plzort": "53194 Bonn",
+        "nachname": "Tausch",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Schlangenkoppel 49",
+        "strasse": "Seegasse 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Keltologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
                 "fsem": 8
             }
         ],
-        "vorname": "Mechtilde",
-        "weiblich": true
+        "vorname": "Zacharias",
+        "weiblich": false
     }
 }

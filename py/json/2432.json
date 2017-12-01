@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1182677,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1452724,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "14.07.1996",
-        "matrikelnummer": 2572166,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "24.02.1993",
+        "matrikelnummer": 2058498,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heumann",
-        "plzort": "53130 Bonn",
+        "nachname": "Mader",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Nordkanalstra\u00dfe 2",
+        "strasse": "Mithrasstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 1
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Krimhild",
+        "vorname": "Lina",
         "weiblich": true
     }
 }

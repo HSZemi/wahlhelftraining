@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2025561,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2924342,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "02.12.1998",
-        "matrikelnummer": 3182532,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "11.04.1999",
+        "matrikelnummer": 2197788,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlag",
-        "plzort": "24882 Schaalby",
+        "nachname": "Br\u00f6ker",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Haferbl\u00f6cken 1",
+        "strasse": "Sp\u00f6rsigweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 4
             }
         ],
-        "vorname": "Irene",
-        "weiblich": true
+        "vorname": "Siegmund",
+        "weiblich": false
     }
 }

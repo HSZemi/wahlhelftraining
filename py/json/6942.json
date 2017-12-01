@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1931767,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1513593,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "27.03.1991",
-        "matrikelnummer": 193279,
+        "geburtsdatum": "06.12.1994",
+        "matrikelnummer": 2772310,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schuller",
-        "plzort": "53171 Bonn",
+        "nachname": "Heim",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Schnorrstra\u00dfe 1",
+        "strasse": "Rosentalweg 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Deutsch-Italienische Studien",
-                "fsem": 9
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Loni",
-        "weiblich": true
+        "vorname": "Welf",
+        "weiblich": false
     }
 }

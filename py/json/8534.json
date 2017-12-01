@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1252633,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1507577,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.05.1993",
-        "matrikelnummer": 2859787,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "25.04.1997",
+        "matrikelnummer": 1982809,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00fcmmer",
-        "plzort": "53146 Bonn",
+        "nachname": "Unruh",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Tr\u00fcbnerstra\u00dfe 9",
+        "strasse": "Wallfahrtsweg 21",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
                 "fsem": 13
             }
         ],
-        "vorname": "Diethmar",
+        "vorname": "Lenard",
         "weiblich": false
     }
 }

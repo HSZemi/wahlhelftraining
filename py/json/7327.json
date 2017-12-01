@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1717941,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2112325,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.09.1991",
-        "matrikelnummer": 2348969,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "04.09.1996",
+        "matrikelnummer": 2011737,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schreiter",
-        "plzort": "74429 Sulzbach-Laufen",
+        "nachname": "Wenzl",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Halepaghenstra\u00dfe 18",
+        "strasse": "Kopernikusstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Neurowissenschaften",
-                "fsem": 2
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Janin",
+        "vorname": "Imelda",
         "weiblich": true
     }
 }

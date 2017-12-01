@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1996000,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1436339,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.07.1988",
-        "matrikelnummer": 2755912,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "03.05.1987",
+        "matrikelnummer": 2742823,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bader",
-        "plzort": "53145 Bonn",
+        "nachname": "Erbe",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Mittelsteg 6c",
+        "strasse": "Katharina-Staritz-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 2
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 10
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Waldburgis",
-        "weiblich": true
+        "vorname": "Eyck",
+        "weiblich": false
     }
 }

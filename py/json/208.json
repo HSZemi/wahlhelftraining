@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1667145,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1772951,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "09.06.1993",
-        "matrikelnummer": 197997,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Br\u00f6ker",
-        "plzort": "53198 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "14.01.1991",
+        "matrikelnummer": 2359511,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinen",
+        "plzort": "79677 Sch\u00f6nenberg",
         "sternchen": 0,
-        "strasse": "Jammertal 21",
+        "strasse": "Halskebr\u00fccke 0",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Germanistik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 5
             }
         ],
-        "vorname": "Berit",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

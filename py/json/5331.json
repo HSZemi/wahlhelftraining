@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1659902,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2973747,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "24.11.1995",
-        "matrikelnummer": 2739673,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Winkler",
-        "plzort": "53178 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "22.01.1990",
+        "matrikelnummer": 3083989,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Eichhorn",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Zschierbachstra\u00dfe 9",
+        "strasse": "Heidem\u00fchlweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Hildemarie",
-        "weiblich": true
+        "vorname": "Immanuel",
+        "weiblich": false
     }
 }

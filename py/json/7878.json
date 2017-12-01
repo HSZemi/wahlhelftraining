@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1927490,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1331697,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.06.1994",
-        "matrikelnummer": 18591,
+        "fakultaet": 1,
+        "geburtsdatum": "15.05.1994",
+        "matrikelnummer": 2515170,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Speicher",
-        "plzort": "39435 Borne",
+        "nachname": "Gl\u00fcck",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Am Dorfplatz 4",
+        "strasse": "Ewald-Kluge-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Eginhardt",
-        "weiblich": false
+        "vorname": "Huberta",
+        "weiblich": true
     }
 }

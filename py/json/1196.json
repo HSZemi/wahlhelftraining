@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": true,
         "sp": true
     },
-    "nummer": 2342089,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2503692,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.01.1991",
-        "matrikelnummer": 2322767,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "02.01.1989",
+        "matrikelnummer": 2468817,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Michalski",
-        "plzort": "53139 Bonn",
+        "nachname": "Neuhaus",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Emsdorfer Stra\u00dfe 0",
+        "strasse": "Klosterberg 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Romanische Philologie, 2 Teilgebiete",
+                "fsem": 7
             }
         ],
-        "vorname": "Constanze",
-        "weiblich": true
+        "vorname": "Bernhard",
+        "weiblich": false
     }
 }

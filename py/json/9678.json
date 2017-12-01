@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2900294,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2538493,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "02.08.1992",
-        "matrikelnummer": 2920030,
+        "fakultaet": 4,
+        "geburtsdatum": "06.04.1993",
+        "matrikelnummer": 2825987,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Strobl",
-        "plzort": "53160 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kuschel",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Bachstra\u00dfe 5",
+        "strasse": "Borngraben 4",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 8
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "fach": "Entwicklungsforschung",
+                "fsem": 5
             }
         ],
-        "vorname": "Anton",
-        "weiblich": false
+        "vorname": "Trautlind",
+        "weiblich": true
     }
 }

@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1163392,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2857933,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "11.07.1996",
-        "matrikelnummer": 15451,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "14.04.1988",
+        "matrikelnummer": 3147595,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Althoff",
-        "plzort": "53229 Bonn",
+        "nachname": "Buchholz",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Derbyweg 18",
+        "strasse": "Pillnitzer Landstra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Geschichte",
+                "fsem": 1
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Reginbert",
+        "vorname": "Romanus",
         "weiblich": false
     }
 }

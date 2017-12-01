@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1325963,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1199065,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.03.1996",
-        "matrikelnummer": 2278064,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "09.07.1993",
+        "matrikelnummer": 2284643,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schillinger",
-        "plzort": "53219 Bonn",
+        "nachname": "Lauber",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "N\u00fcrnberger Platz 6",
+        "strasse": "Oberweid 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kunstgeschichte",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Asienwissenschaften",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Janine",
+        "vorname": "Annabell",
         "weiblich": true
     }
 }

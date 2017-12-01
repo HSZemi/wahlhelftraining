@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1269449,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1609300,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.07.1995",
-        "matrikelnummer": 2686347,
-        "mehrfachausfertigung": 5,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "11.06.1999",
+        "matrikelnummer": 2540286,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rosin",
-        "plzort": "85309 P\u00f6rnbach",
+        "nachname": "Strohmeier",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrichstra\u00dfe 6",
+        "strasse": "Cordierstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
                 "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Ulf",
-        "weiblich": false
+        "vorname": "Frieda",
+        "weiblich": true
     }
 }

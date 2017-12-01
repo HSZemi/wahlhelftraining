@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1354739,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1447303,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.10.1997",
-        "matrikelnummer": 16004,
+        "fakultaet": 8,
+        "geburtsdatum": "12.08.1993",
+        "matrikelnummer": 2402386,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wilczek",
-        "plzort": "09306 Seelitz",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Spengler",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Paradiesgasse 0",
+        "strasse": "Max-Grahl-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 13
             }
         ],
-        "vorname": "Fridolin",
-        "weiblich": false
+        "vorname": "Helmine",
+        "weiblich": true
     }
 }

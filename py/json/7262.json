@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2111508,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2247548,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "15.01.1989",
-        "matrikelnummer": 2888023,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "10.02.1993",
+        "matrikelnummer": 2498002,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tacke",
-        "plzort": "53118 Bonn",
+        "nachname": "Ro\u00df",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Katharinenstr. 14",
+        "strasse": "M\u00fcllerstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 5
             }
         ],
-        "vorname": "Eckehardt",
+        "vorname": "Dierk",
         "weiblich": false
     }
 }

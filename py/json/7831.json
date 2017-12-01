@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2505866,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1254961,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "11.12.1994",
-        "matrikelnummer": 2908698,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "01.11.1996",
+        "matrikelnummer": 3018034,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sippel",
-        "plzort": "53181 Bonn",
+        "nachname": "Sperlich",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Basteiplatz 28",
+        "strasse": "Am Feldweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Musikwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Hanskarl",
+        "vorname": "Stanislaus",
         "weiblich": false
     }
 }

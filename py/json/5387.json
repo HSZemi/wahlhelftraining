@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1504757,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1479427,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "06.04.1983",
-        "matrikelnummer": 2823448,
+        "fakultaet": 1,
+        "geburtsdatum": "02.04.1987",
+        "matrikelnummer": 2502535,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlecht",
-        "plzort": "53131 Bonn",
+        "nachname": "Holm",
+        "plzort": "93191 Rettenbach",
         "sternchen": 0,
-        "strasse": "Heiliggrabstr. 9",
+        "strasse": "Gautschweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Aloysia",
-        "weiblich": true
+        "vorname": "Gotthardt",
+        "weiblich": false
     }
 }

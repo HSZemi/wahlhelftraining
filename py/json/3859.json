@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2822276,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1025658,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.05.1991",
-        "matrikelnummer": 2139665,
+        "fakultaet": 6,
+        "geburtsdatum": "02.04.1992",
+        "matrikelnummer": 2321369,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nowack",
-        "plzort": "53182 Bonn",
+        "nachname": "Schreck",
+        "plzort": "39579 Kl\u00e4den",
         "sternchen": 0,
-        "strasse": "Johanna-Kirchner-Stra\u00dfe 12a",
+        "strasse": "Sch\u00f6nbornstra\u00dfe 0e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Pharmazie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 11
             }
         ],
-        "vorname": "Fridolin",
-        "weiblich": false
+        "vorname": "Ilka",
+        "weiblich": true
     }
 }

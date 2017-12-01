@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1823082,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2799506,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "06.10.1988",
-        "matrikelnummer": 2015687,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "27.06.1992",
+        "matrikelnummer": 2390945,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Senger",
-        "plzort": "53116 Bonn",
+        "nachname": "Preuss",
+        "plzort": "76771 H\u00f6rdt",
         "sternchen": 0,
-        "strasse": "Linke Steinzeile 6",
+        "strasse": "Quettigstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
-        "vorname": "Margrid",
+        "vorname": "Yasmin",
         "weiblich": true
     }
 }

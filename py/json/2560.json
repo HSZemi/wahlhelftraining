@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2195019,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1424297,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "14.02.1990",
-        "matrikelnummer": 2942265,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 2,
+        "geburtsdatum": "08.12.1999",
+        "matrikelnummer": 2190716,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behringer",
-        "plzort": "53221 Bonn",
+        "nachname": "K\u00f6nig",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Albrecht-von-Eyb-Leite 23",
+        "strasse": "Lodischgasse 31",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 4
             }
         ],
-        "vorname": "Sigenot",
-        "weiblich": false
+        "vorname": "Siglind",
+        "weiblich": true
     }
 }

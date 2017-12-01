@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1525757,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2484825,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.09.1996",
-        "matrikelnummer": 2324845,
+        "fakultaet": 4,
+        "geburtsdatum": "02.09.1998",
+        "matrikelnummer": 2820439,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Marschall",
-        "plzort": "53174 Bonn",
+        "nachname": "Loth",
+        "plzort": "79282 Ballrechten-Dottingen",
         "sternchen": 0,
-        "strasse": "F\u00fcllshoff Weg 17",
+        "strasse": "Hasenbanckweg 15",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
                 "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 7
             }
         ],
-        "vorname": "Irena",
+        "vorname": "Linhilde",
         "weiblich": true
     }
 }

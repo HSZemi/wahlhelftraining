@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2301980,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2705574,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.09.1999",
-        "matrikelnummer": 2626163,
+        "fakultaet": 3,
+        "geburtsdatum": "05.11.1993",
+        "matrikelnummer": 2397715,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Zimmer",
-        "plzort": "53132 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Krull",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Hohle Gasse 4",
+        "strasse": "Breitenauer Stra\u00dfe 53",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 7
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 12
             },
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 1
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Emilie",
-        "weiblich": true
+        "vorname": "Bernhardt",
+        "weiblich": false
     }
 }

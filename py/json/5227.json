@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1915975,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2004056,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.07.1990",
-        "matrikelnummer": 2842780,
+        "fakultaet": 8,
+        "geburtsdatum": "06.07.1994",
+        "matrikelnummer": 3150761,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heigl",
-        "plzort": "53115 Bonn",
+        "nachname": "Baer",
+        "plzort": "15838 Kummersdorf-Gut",
         "sternchen": 0,
-        "strasse": "J\u00e4ckstr. 36",
+        "strasse": "Kunigundendamm 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Nurten",
+        "vorname": "Gisela",
         "weiblich": true
     }
 }

@@ -1,46 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2118235,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2191015,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.05.1995",
-        "matrikelnummer": 2122538,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "12.10.1989",
+        "matrikelnummer": 129936,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fchnel",
-        "plzort": "53202 Bonn",
+        "nachname": "Wittwer",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Siedlerweg 1",
+        "strasse": "Joseph-von-Fraunhofer-Stra\u00dfe 26",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Griechisch",
-                "fsem": 6
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 1
             },
             {
                 "abschluss": "",
-                "fach": "Latein",
-                "fsem": 6
+                "fach": "Biologie",
+                "fsem": 3
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "fsem": 1
             }
         ],
-        "vorname": "Eckhard",
-        "weiblich": false
+        "vorname": "Benita",
+        "weiblich": true
     }
 }

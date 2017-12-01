@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1309936,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1243204,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.05.1990",
-        "matrikelnummer": 2914031,
-        "mehrfachausfertigung": 4,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "17.07.1999",
+        "matrikelnummer": 3194540,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knopf",
-        "plzort": "16278 Pinnow",
+        "nachname": "Heinen",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Betzdorfer Stra\u00dfe 3",
+        "strasse": "Carolaplatz 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Biologie",
-                "fsem": 9
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Sofia",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

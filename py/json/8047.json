@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1119905,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1595273,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.04.1990",
-        "matrikelnummer": 1909342,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "06.02.1994",
+        "matrikelnummer": 2513494,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6hnke",
-        "plzort": "53158 Bonn",
+        "nachname": "Probst",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Neuhofstra\u00dfe 0",
+        "strasse": "Charlotte-B\u00fchler-Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Hispanistik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Altamerikanistik und Ethnologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
                 "fsem": 3
             }
         ],
-        "vorname": "Harri",
-        "weiblich": false
+        "vorname": "Elly",
+        "weiblich": true
     }
 }

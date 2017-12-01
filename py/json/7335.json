@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2188250,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2012584,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.03.1999",
-        "matrikelnummer": 2419458,
+        "fakultaet": 9,
+        "geburtsdatum": "04.08.1990",
+        "matrikelnummer": 2112081,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hartwich",
-        "plzort": "32479 Hille",
+        "nachname": "Ring",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Ginsterstieg 1",
+        "strasse": "Kleinlugaer Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
             },
             {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
                 "fsem": 5
             }
         ],
-        "vorname": "Sylvie",
+        "vorname": "Dorkas",
         "weiblich": true
     }
 }

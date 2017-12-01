@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2505286,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2401560,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.08.1997",
-        "matrikelnummer": 17984,
+        "fakultaet": 9,
+        "geburtsdatum": "09.12.1996",
+        "matrikelnummer": 2154230,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Laub",
-        "plzort": "53157 Bonn",
+        "nachname": "Grunwald",
+        "plzort": "27432 Hipstedt",
         "sternchen": 0,
-        "strasse": "Lister Weg 14",
+        "strasse": "Reinhardstra\u00dfe 0a",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Gerd",
+        "vorname": "Zeno",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2300644,
-    "semester": "Sommersemester 2016",
+    "nummer": 1548154,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.07.1990",
-        "matrikelnummer": 2085147,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "26.02.1992",
+        "matrikelnummer": 2712169,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Drewes",
-        "plzort": "84565 Oberneukirchen",
+        "nachname": "Kimmel",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-Fischer-Allee 1",
+        "strasse": "Theodor-Storm-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geographie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Bachelor of Arts",
+                "abschluss": "Promotion",
                 "fach": "Katholische Theologie",
-                "fsem": 3
+                "fsem": 12
             }
         ],
-        "vorname": "Wilhelmine",
+        "vorname": "Susanne",
         "weiblich": true
     }
 }

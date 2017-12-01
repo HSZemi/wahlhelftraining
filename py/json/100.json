@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2508067,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1533003,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "15.01.1983",
-        "matrikelnummer": 3123791,
+        "geburtsdatum": "11.07.1988",
+        "matrikelnummer": 181179,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klingler",
-        "plzort": "53224 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwigsh\u00f6he 0",
+        "strasse": "Flemingstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
-                "fsem": 1
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Katja",
+        "vorname": "Sven",
         "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1092218,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2243896,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "22.08.1995",
-        "matrikelnummer": 3007539,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "13.07.1993",
+        "matrikelnummer": 3006155,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwarz",
-        "plzort": "53147 Bonn",
+        "nachname": "K\u00f6lsch",
+        "plzort": "06429 Pobzig",
         "sternchen": 0,
-        "strasse": "Weststra\u00dfe 17",
+        "strasse": "Mariannenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
+                "abschluss": "Promotion",
+                "fach": "Medizin",
                 "fsem": 13
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 8
             }
         ],
-        "vorname": "Sigisbert",
-        "weiblich": false
+        "vorname": "Eunike",
+        "weiblich": true
     }
 }

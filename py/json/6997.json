@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1638161,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1479915,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.05.1995",
-        "matrikelnummer": 2146794,
+        "fakultaet": 0,
+        "geburtsdatum": "12.07.1998",
+        "matrikelnummer": 16340,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fchl",
-        "plzort": "87616 Wald",
+        "nachname": "Fleischer",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Ermelstra\u00dfe 1",
+        "strasse": "Am Wasserturm 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 3
             }
         ],
-        "vorname": "Oskar",
-        "weiblich": false
+        "vorname": "Claudia",
+        "weiblich": true
     }
 }

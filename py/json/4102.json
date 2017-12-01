@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2693768,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2626236,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.07.1999",
-        "matrikelnummer": 2393890,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "17.07.1988",
+        "matrikelnummer": 2693000,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klingbeil",
-        "plzort": "53218 Bonn",
+        "nachname": "Bonk",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Vogelsanger Weg 2",
+        "strasse": "Grosseweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 9
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Lilija",
+        "vorname": "Sofia",
         "weiblich": true
     }
 }

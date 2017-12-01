@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1207949,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2192385,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "07.08.1987",
-        "matrikelnummer": 3143857,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "13.05.1989",
+        "matrikelnummer": 19042,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Henrich",
-        "plzort": "53217 Bonn",
+        "nachname": "Weinzierl",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Merck-Stra\u00dfe 8",
+        "strasse": "Osterbergstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "English Literatures and Cultures",
+                "fsem": 9
             }
         ],
-        "vorname": "Rosetraut",
+        "vorname": "Elfrieda",
         "weiblich": true
     }
 }

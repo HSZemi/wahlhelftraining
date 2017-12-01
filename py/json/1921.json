@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2386574,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2493523,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.05.1996",
-        "matrikelnummer": 2667883,
+        "fakultaet": 4,
+        "geburtsdatum": "27.03.1991",
+        "matrikelnummer": 1968910,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Streich",
-        "plzort": "53229 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Tr\u00f6ster",
+        "plzort": "01477 Arnsdorf",
         "sternchen": 0,
-        "strasse": "An den Birken 4",
+        "strasse": "Vogelsteinstra\u00dfe 18c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 10
+                "fach": "Neurosciences",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Justus",
-        "weiblich": false
+        "vorname": "Anette",
+        "weiblich": true
     }
 }

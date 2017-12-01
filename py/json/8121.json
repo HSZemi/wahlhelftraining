@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2869682,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2639520,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "11.04.1990",
-        "matrikelnummer": 2463721,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "05.12.1984",
+        "matrikelnummer": 3024902,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dietel",
-        "plzort": "53210 Bonn",
+        "nachname": "Klinke",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Waidmannstra\u00dfe 4",
+        "strasse": "Kurt-Schumacher-Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Islamwissenschaft",
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
                 "fsem": 11
             }
         ],
-        "vorname": "Miroslawa",
-        "weiblich": true
+        "vorname": "Dietram",
+        "weiblich": false
     }
 }

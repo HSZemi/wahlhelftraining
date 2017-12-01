@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2042810,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1191845,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "14.01.1983",
-        "matrikelnummer": 2421264,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "20.02.1995",
+        "matrikelnummer": 125628,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rother",
-        "plzort": "53163 Bonn",
+        "nachname": "Harms",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Thorwaldsenstra\u00dfe 0",
+        "strasse": "Heidelberger Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
                 "fsem": 7
             }
         ],
-        "vorname": "Antja",
-        "weiblich": true
+        "vorname": "Benjamin",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2964118,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2286109,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.09.1999",
-        "matrikelnummer": 2995305,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "09.05.1998",
+        "matrikelnummer": 2316238,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reichardt",
-        "plzort": "53153 Bonn",
+        "nachname": "Lipp",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Am Feld 2a",
+        "strasse": "Kaspar-Siemers-Weg 6",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 6
             }
         ],
-        "vorname": "Inka",
+        "vorname": "Hermi",
         "weiblich": true
     }
 }

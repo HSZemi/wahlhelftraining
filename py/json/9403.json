@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2017508,
-    "semester": "Sommersemester 2016",
+    "nummer": 2086365,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.01.1989",
-        "matrikelnummer": 2491983,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "27.08.1991",
+        "matrikelnummer": 1941202,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Koll",
-        "plzort": "53138 Bonn",
+        "nachname": "L\u00fcdemann",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Schwandorfer Str. 27",
+        "strasse": "Am Acker 17",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 3
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Gelbert",
-        "weiblich": false
+        "vorname": "Ortraud",
+        "weiblich": true
     }
 }

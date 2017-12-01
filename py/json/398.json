@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2634542,
+    "nummer": 2587686,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.04.1991",
-        "matrikelnummer": 2488248,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "09.01.1999",
+        "matrikelnummer": 2271187,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kromer",
-        "plzort": "53129 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Im Kohlacker 1",
+        "strasse": "Wachsbleichstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
                 "fsem": 9
             }
         ],
-        "vorname": "Hansludwig",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

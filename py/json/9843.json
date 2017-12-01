@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1565874,
+    "nummer": 1241059,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "02.09.1998",
-        "matrikelnummer": 2743901,
+        "geburtsdatum": "25.01.1999",
+        "matrikelnummer": 2107914,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerlach",
-        "plzort": "53154 Bonn",
+        "nachname": "Leicht",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Baumeister-Rohrer-Str. 12",
+        "strasse": "Klotzscher Weg 0c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Magister Theologiae (ev.)",
                 "fach": "Evangelische Theologie",
-                "fsem": 7
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 11
             }
         ],
-        "vorname": "Stephanie",
+        "vorname": "Viktoria",
         "weiblich": true
     }
 }

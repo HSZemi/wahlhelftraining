@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1458226,
-    "semester": "Sommersemester 2016",
+    "nummer": 2638361,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.09.1990",
-        "matrikelnummer": 1981204,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "24.10.1986",
+        "matrikelnummer": 2394386,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sautter",
-        "plzort": "53130 Bonn",
+        "nachname": "Baumbach",
+        "plzort": "27404 Rhade",
         "sternchen": 0,
-        "strasse": "Rodelweg 12",
+        "strasse": "Hartwicusstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
                 "fsem": 8
             }
         ],
-        "vorname": "Frowin",
-        "weiblich": false
+        "vorname": "Lerke",
+        "weiblich": true
     }
 }

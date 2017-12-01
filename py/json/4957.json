@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2250441,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2771965,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.09.1999",
-        "matrikelnummer": 15684,
+        "fakultaet": 1,
+        "geburtsdatum": "18.07.1992",
+        "matrikelnummer": 2734259,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stoll",
-        "plzort": "53133 Bonn",
+        "nachname": "Pfau",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hellerhof 11",
+        "strasse": "Hohenfelder Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Friedmar",
+        "vorname": "Bringfried",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1262588,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2750679,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "25.12.1988",
-        "matrikelnummer": 2004292,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "01.02.1994",
+        "matrikelnummer": 2306747,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Aigner",
-        "plzort": "53215 Bonn",
+        "nachname": "Bier",
+        "plzort": "67737 Frankelbach",
         "sternchen": 0,
-        "strasse": "Kleinzschachwitzer Stra\u00dfe 9",
+        "strasse": "Am Mittelt\u00e4nnicht 39",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Ludwiga",
+        "vorname": "Rosemarie",
         "weiblich": true
     }
 }

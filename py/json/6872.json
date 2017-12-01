@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1173569,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1538636,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.10.1989",
-        "matrikelnummer": 2935659,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "12.10.1997",
+        "matrikelnummer": 2065710,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfennig",
-        "plzort": "53149 Bonn",
+        "nachname": "Keck",
+        "plzort": "14806 Planetal",
         "sternchen": 0,
-        "strasse": "Sturmvogelweg 13",
+        "strasse": "Rheinstr. 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 2
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 1
             }
         ],
-        "vorname": "Bonifaz",
-        "weiblich": false
+        "vorname": "Borka",
+        "weiblich": true
     }
 }

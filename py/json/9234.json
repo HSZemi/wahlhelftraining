@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1471700,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2688032,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "09.12.1994",
-        "matrikelnummer": 177830,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "12.01.1989",
+        "matrikelnummer": 2497832,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Goll",
-        "plzort": "53140 Bonn",
+        "nachname": "Ilg",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Opitzstra\u00dfe 0",
+        "strasse": "Zur Bleiche 26",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "\u00c4lt.u.Neu.Germanistik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Trinchen",
+        "vorname": "Willma",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1016280,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1493467,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "01.11.1985",
-        "matrikelnummer": 3173164,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "27.03.1993",
+        "matrikelnummer": 3131700,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kerber",
-        "plzort": "53193 Bonn",
+        "nachname": "Gericke",
+        "plzort": "03238 Betten",
         "sternchen": 0,
-        "strasse": "Augustusweg 4d",
+        "strasse": "Alter Bahndamm 25",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Klassische Philologie/Griechisch",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
             }
         ],
-        "vorname": "Kristian",
-        "weiblich": false
+        "vorname": "Frigga",
+        "weiblich": true
     }
 }

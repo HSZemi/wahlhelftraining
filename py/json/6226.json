@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1473562,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2989658,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "24.07.1997",
-        "matrikelnummer": 2392783,
+        "geburtsdatum": "24.07.1990",
+        "matrikelnummer": 2891411,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kolbeck",
-        "plzort": "53144 Bonn",
+        "nachname": "Hauser",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Schwarzenbergstr. 19",
+        "strasse": "Gundhofstra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 3
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Sprach- u. Kulturwissenschaft Zentralasiens",
+                "fsem": 2
             }
         ],
-        "vorname": "Rosemie",
-        "weiblich": true
+        "vorname": "Ronny",
+        "weiblich": false
     }
 }

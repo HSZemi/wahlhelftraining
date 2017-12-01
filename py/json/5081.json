@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1187305,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2895779,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "17.10.1995",
-        "matrikelnummer": 3138593,
+        "fakultaet": 5,
+        "geburtsdatum": "03.09.1990",
+        "matrikelnummer": 3120428,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00fcck",
-        "plzort": "88367 Hohentengen",
+        "nachname": "Schr\u00f6ter",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Rosentitzer Stra\u00dfe 6",
+        "strasse": "Am Weinberg 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 13
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Wendela",
-        "weiblich": true
+        "vorname": "Irmin",
+        "weiblich": false
     }
 }

@@ -1,31 +1,56 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2734772,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2711931,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "08.05.1997",
-        "matrikelnummer": 2890890,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "16.12.1996",
+        "matrikelnummer": 3062340,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6hne",
-        "plzort": "53200 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Am Mittelwald 7",
+        "strasse": "Meenkbr\u00fccke 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 4
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Hermine",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2916347,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1247571,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.04.1999",
-        "matrikelnummer": 3026283,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "10.10.1990",
+        "matrikelnummer": 3036384,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinecke",
-        "plzort": "53112 Bonn",
+        "nachname": "Tremmel",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Arndesstieg 6",
+        "strasse": "Anspacher Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Sylvio",
+        "vorname": "Sepp",
         "weiblich": false
     }
 }

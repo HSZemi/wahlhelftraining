@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1215163,
-    "semester": "Sommersemester 2016",
+    "nummer": 1290299,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.05.1995",
-        "matrikelnummer": 3133288,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "26.03.1993",
+        "matrikelnummer": 14510,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Karg",
-        "plzort": "27245 Kirchdorf",
+        "nachname": "Feist",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Berndt-Stra\u00dfe 15",
+        "strasse": "Am Brunnen 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
             }
         ],
-        "vorname": "Winfrid",
-        "weiblich": false
+        "vorname": "Nadeshda",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2706351,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1532293,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "05.10.1989",
-        "matrikelnummer": 18919,
+        "fakultaet": 2,
+        "geburtsdatum": "16.02.1991",
+        "matrikelnummer": 2946416,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wassermann",
-        "plzort": "53133 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Pawlik",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Schwanenwikbr\u00fccke 2a",
+        "strasse": "Bellevue 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Katrin",
-        "weiblich": true
+        "vorname": "Frieder",
+        "weiblich": false
     }
 }

@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1150733,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2970558,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "18.11.1999",
-        "matrikelnummer": 176795,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "13.10.1988",
+        "matrikelnummer": 2940086,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gaus",
-        "plzort": "53118 Bonn",
+        "nachname": "Lange",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Wicke-Stra\u00dfe 5",
+        "strasse": "Johann-Klotz-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 7
             },
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 10
+                "fach": "Geographie",
+                "fsem": 6
             }
         ],
-        "vorname": "Dankwart",
-        "weiblich": false
+        "vorname": "Daniela",
+        "weiblich": true
     }
 }

@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2199976,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1732129,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "02.07.1987",
-        "matrikelnummer": 2930184,
+        "geburtsdatum": "10.04.1990",
+        "matrikelnummer": 2418020,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Willms",
-        "plzort": "53163 Bonn",
+        "nachname": "Herzig",
+        "plzort": "18513 Grammendorf",
         "sternchen": 0,
-        "strasse": "Franz-Latzel-Stra\u00dfe 1",
+        "strasse": "An den Dorfwiesen 16",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             },
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Helmine",
+        "vorname": "Dolores",
         "weiblich": true
     }
 }

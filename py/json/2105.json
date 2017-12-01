@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2323774,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2999655,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "24.01.1996",
-        "matrikelnummer": 2014249,
+        "geburtsdatum": "27.01.1987",
+        "matrikelnummer": 2595549,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schiele",
-        "plzort": "53145 Bonn",
+        "nachname": "Menges",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Putbuser Weg 8b",
+        "strasse": "Hauboldstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Renaissance-Studien",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 5
             }
         ],
-        "vorname": "Wilmut",
-        "weiblich": false
+        "vorname": "Annkatrin",
+        "weiblich": true
     }
 }

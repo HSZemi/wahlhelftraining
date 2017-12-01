@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2434021,
-    "semester": "Sommersemester 2016",
+    "nummer": 2369837,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.08.1992",
-        "matrikelnummer": 2516683,
+        "fakultaet": 5,
+        "geburtsdatum": "18.01.1991",
+        "matrikelnummer": 2728677,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmuck",
-        "plzort": "53113 Bonn",
+        "nachname": "Kerkhoff",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Hirtenweg 14",
+        "strasse": "R\u00fcckersbr\u00fccke 31",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Heilwig",
-        "weiblich": true
+        "vorname": "Burchard",
+        "weiblich": false
     }
 }

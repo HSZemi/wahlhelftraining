@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2731539,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1155745,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "01.03.1992",
-        "matrikelnummer": 2380326,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "02.06.1998",
+        "matrikelnummer": 3160592,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gro\u00dfe",
-        "plzort": "53214 Bonn",
+        "nachname": "Stephan",
+        "plzort": "99819 Oberellen",
         "sternchen": 0,
-        "strasse": "Mengsstra\u00dfe 3",
+        "strasse": "Malzweg 17",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Katholische Religionslehre",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Mathematik",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Ulvi",
-        "weiblich": false
+        "vorname": "Rosely",
+        "weiblich": true
     }
 }

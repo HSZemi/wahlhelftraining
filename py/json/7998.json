@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1834075,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2005539,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.08.1992",
-        "matrikelnummer": 11642,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "23.01.1990",
+        "matrikelnummer": 111553,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Menges",
-        "plzort": "53111 Bonn",
+        "nachname": "Haller",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Kindleinseiche 3",
+        "strasse": "Esterhazystra\u00dfe 39",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 2
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Steffen",
-        "weiblich": false
+        "vorname": "Cl\u00e4re",
+        "weiblich": true
     }
 }

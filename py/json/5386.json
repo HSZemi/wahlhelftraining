@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2786861,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2426621,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.12.1993",
-        "matrikelnummer": 2575604,
+        "fakultaet": 7,
+        "geburtsdatum": "26.07.1996",
+        "matrikelnummer": 2185923,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Philippi",
-        "plzort": "14641 Berge",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Dunker",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Becker-Stra\u00dfe 13",
+        "strasse": "Sengelmannstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Niklaus",
-        "weiblich": false
+        "vorname": "Nadeshda",
+        "weiblich": true
     }
 }

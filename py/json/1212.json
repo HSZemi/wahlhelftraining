@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2790962,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2844311,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.04.1994",
-        "matrikelnummer": 2147455,
+        "fakultaet": 8,
+        "geburtsdatum": "14.07.1985",
+        "matrikelnummer": 2069463,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Petermann",
-        "plzort": "21514 G\u00fcster",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Winter",
+        "plzort": "74597 Stimpfach",
         "sternchen": 0,
-        "strasse": "Winterhuder Br\u00fccke 11",
+        "strasse": "Gerhard-Domagk-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 5
             }
         ],
-        "vorname": "Larissa",
-        "weiblich": true
+        "vorname": "Utho",
+        "weiblich": false
     }
 }

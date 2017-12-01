@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1368558,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1048824,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.02.1990",
-        "matrikelnummer": 2893181,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "06.09.1996",
+        "matrikelnummer": 12773,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ewers",
-        "plzort": "53147 Bonn",
+        "nachname": "Diefenbach",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Am G\u00fcckelsberg 6",
+        "strasse": "Eutsch\u00fctzer Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Anna-Maria",
+        "vorname": "Sibille",
         "weiblich": true
     }
 }

@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": true,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2266808,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2219680,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 1,
-        "geburtsdatum": "03.12.1992",
-        "matrikelnummer": 2050149,
+        "geburtsdatum": "16.03.1996",
+        "matrikelnummer": 1991514,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Berndt",
-        "plzort": "53213 Bonn",
+        "nachname": "Rist",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Einbaumstra\u00dfe 1",
+        "strasse": "Wormser Platz 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 9
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Fridoline",
+        "vorname": "Rotraud",
         "weiblich": true
     }
 }

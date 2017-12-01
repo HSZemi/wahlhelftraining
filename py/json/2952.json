@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1323438,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2413640,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "10.10.1990",
-        "matrikelnummer": 3103734,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "23.03.1997",
+        "matrikelnummer": 119780,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tempel",
-        "plzort": "53120 Bonn",
+        "nachname": "Reich",
+        "plzort": "56812 Valwig",
         "sternchen": 0,
-        "strasse": "Arno-Lade-Stra\u00dfe 8a",
+        "strasse": "Sperberweg 8",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Seppl",
-        "weiblich": false
+        "vorname": "Irmlind",
+        "weiblich": true
     }
 }

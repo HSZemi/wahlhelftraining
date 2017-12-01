@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2444787,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1036662,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "17.04.1988",
-        "matrikelnummer": 2409483,
+        "fakultaet": 9,
+        "geburtsdatum": "27.10.1991",
+        "matrikelnummer": 2170799,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Z\u00f6ller",
-        "plzort": "53198 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schaible",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Marienthaler Stra\u00dfe 1",
+        "strasse": "Rietschelweg 6a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Rosmarie",
+        "vorname": "Friedericke",
         "weiblich": true
     }
 }

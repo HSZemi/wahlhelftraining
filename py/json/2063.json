@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2226602,
+    "nummer": 2563779,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.11.1999",
-        "matrikelnummer": 3135609,
+        "fakultaet": 8,
+        "geburtsdatum": "15.07.1987",
+        "matrikelnummer": 2131784,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jasper",
-        "plzort": "53201 Bonn",
+        "nachname": "Vater",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00fcckertstr. 3",
+        "strasse": "Legienstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Nikolaus",
-        "weiblich": false
+        "vorname": "Maja",
+        "weiblich": true
     }
 }

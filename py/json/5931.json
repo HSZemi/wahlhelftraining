@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2213016,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1848065,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "20.02.1992",
-        "matrikelnummer": 1939451,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "09.10.1990",
+        "matrikelnummer": 2097873,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Oertel",
-        "plzort": "53147 Bonn",
+        "nachname": "Gla\u00df",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Margarete und Fritz-Kahl-Anlage 1",
+        "strasse": "Kirchlinden 19",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 5
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Haymo",
+        "vorname": "Thilo",
         "weiblich": false
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2897406,
+    "nummer": 1653460,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "02.10.1998",
-        "matrikelnummer": 2840590,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "06.07.1998",
+        "matrikelnummer": 3199068,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fromme",
-        "plzort": "53163 Bonn",
+        "nachname": "R\u00fctten",
+        "plzort": "54518 Platten",
         "sternchen": 0,
-        "strasse": "Johannes-Stumpf-Stra\u00dfe 9d",
+        "strasse": "Klauerstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 3
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Kassandra",
-        "weiblich": true
+        "vorname": "Volkard",
+        "weiblich": false
     }
 }

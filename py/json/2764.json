@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2762480,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1158107,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "11.01.1987",
-        "matrikelnummer": 2999972,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "26.07.1997",
+        "matrikelnummer": 18519,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niggemann",
-        "plzort": "53214 Bonn",
+        "nachname": "M\u00e4der",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Prager Stra\u00dfe 8",
+        "strasse": "Plieningerstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Sighild",
-        "weiblich": true
+        "vorname": "Christward",
+        "weiblich": false
     }
 }

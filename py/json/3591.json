@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": true
+        "gremien": true,
+        "sp": false
     },
-    "nummer": 2034363,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1266718,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.08.1989",
-        "matrikelnummer": 2259639,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "19.02.1993",
+        "matrikelnummer": 13781,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hammes",
-        "plzort": "53180 Bonn",
+        "nachname": "Scheck",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Batterie 15",
+        "strasse": "Oberonstra\u00dfe 30",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
             }
         ],
-        "vorname": "Christa",
+        "vorname": "Anneruth",
         "weiblich": true
     }
 }

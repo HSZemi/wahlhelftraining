@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1659786,
+    "nummer": 2017467,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.04.1996",
-        "matrikelnummer": 17922,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "02.12.1994",
+        "matrikelnummer": 2678304,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hilpert",
-        "plzort": "53203 Bonn",
+        "nachname": "Bitter",
+        "plzort": "82541 M\u00fcnsing",
         "sternchen": 0,
-        "strasse": "Westpreu\u00dfenstra\u00dfe 6",
+        "strasse": "Kapellenfeldstr. 28",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Wibke",
+        "vorname": "Evchen",
         "weiblich": true
     }
 }

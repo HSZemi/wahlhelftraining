@@ -1,46 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2946482,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2634573,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.05.1990",
-        "matrikelnummer": 2208184,
+        "fakultaet": 0,
+        "geburtsdatum": "10.04.1991",
+        "matrikelnummer": 2786362,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schley",
-        "plzort": "94256 Drachselsried",
+        "nachname": "Frost",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Hotterweg 5a",
+        "strasse": "Josephinenstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 12
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
             }
         ],
-        "vorname": "Witmar",
-        "weiblich": false
+        "vorname": "Helen",
+        "weiblich": true
     }
 }

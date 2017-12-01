@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1151570,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2564389,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.12.1989",
-        "matrikelnummer": 3000523,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "27.07.1997",
+        "matrikelnummer": 2730304,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heller",
-        "plzort": "53149 Bonn",
+        "nachname": "Ge\u00dfner",
+        "plzort": "76185 Karlsruhe",
         "sternchen": 0,
-        "strasse": "Gebauerstra\u00dfe 9",
+        "strasse": "Hanns-Rothbarth-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Asienwissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 4
             }
         ],
-        "vorname": "Mirjana",
+        "vorname": "Cl\u00e4re",
         "weiblich": true
     }
 }

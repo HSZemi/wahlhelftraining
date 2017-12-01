@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1614201,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2424244,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.06.1990",
-        "matrikelnummer": 1947215,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "18.04.1992",
+        "matrikelnummer": 2158696,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lochner",
-        "plzort": "53205 Bonn",
+        "nachname": "Hoffmeister",
+        "plzort": "08324 Bockau",
         "sternchen": 0,
-        "strasse": "Ebereschenweg 1",
+        "strasse": "Am alten Bahnhof 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Psychologie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Sprachlernforschung",
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
                 "fsem": 10
             }
         ],
-        "vorname": "Lerke",
-        "weiblich": true
+        "vorname": "Adolf",
+        "weiblich": false
     }
 }

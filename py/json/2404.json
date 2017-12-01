@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1216789,
-    "semester": "Sommersemester 2016",
+    "nummer": 2045456,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "03.01.1992",
-        "matrikelnummer": 2824053,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "03.04.1993",
+        "matrikelnummer": 2509605,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Alex",
-        "plzort": "53217 Bonn",
+        "nachname": "Heinrich",
+        "plzort": "03096 Dissen-Striesow",
         "sternchen": 0,
-        "strasse": "Max-Klinger-Stra\u00dfe 12",
+        "strasse": "Kobbachstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Geowissenschaften",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 11
             }
         ],
-        "vorname": "Edgar",
-        "weiblich": false
+        "vorname": "Zenzi",
+        "weiblich": true
     }
 }

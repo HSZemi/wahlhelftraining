@@ -1,31 +1,56 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2576152,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1197172,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "15.06.1991",
-        "matrikelnummer": 3161213,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "19.10.1993",
+        "matrikelnummer": 2051475,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gabler",
-        "plzort": "03096 Briesen",
+        "nachname": "Speck",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Weimarer Stra\u00dfe 2",
+        "strasse": "An den Hufen 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 12
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Bernfried",
+        "vorname": "Wunibald",
         "weiblich": false
     }
 }

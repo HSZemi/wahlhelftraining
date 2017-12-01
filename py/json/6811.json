@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1501470,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2021213,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.11.1986",
-        "matrikelnummer": 2007002,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "05.10.1992",
+        "matrikelnummer": 2765677,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6decke",
-        "plzort": "53180 Bonn",
+        "nachname": "Stork",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Gebr\u00fcder-Hommel-Anlage 1b",
+        "strasse": "Am Lindenberg 10",
         "studienfaecher": [
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
+            },
             {
                 "abschluss": "Staatsex.",
                 "fach": "Pharmazie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "fsem": 10
             }
         ],
-        "vorname": "Reiner",
+        "vorname": "Loisl",
         "weiblich": false
     }
 }

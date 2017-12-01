@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1550627,
-    "semester": "Sommersemester 2016",
+    "nummer": 2802518,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "05.08.1991",
-        "matrikelnummer": 3061070,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "12.08.1999",
+        "matrikelnummer": 2326241,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00fcttler",
-        "plzort": "17440 Buggenhagen",
+        "nachname": "K\u00fcrschner",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Dietrich-Bonhoeffer-Weg 4",
+        "strasse": "Sch\u00f6nfelder Stra\u00dfe 44",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Heini",
+        "vorname": "Raimond",
         "weiblich": false
     }
 }

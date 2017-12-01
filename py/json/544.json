@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2329314,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2763708,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.02.1998",
-        "matrikelnummer": 3148281,
+        "fakultaet": 4,
+        "geburtsdatum": "10.09.1998",
+        "matrikelnummer": 2134606,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kloos",
-        "plzort": "37355 Kleinbartloff",
+        "nachname": "Dudek",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Schenkendorfstra\u00dfe 5",
+        "strasse": "Gustav-Hartmann-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
                 "fsem": 13
             }
         ],
-        "vorname": "Suse",
+        "vorname": "Hildemarie",
         "weiblich": true
     }
 }

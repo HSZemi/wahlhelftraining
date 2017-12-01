@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2589595,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2560531,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "06.01.1991",
-        "matrikelnummer": 2665884,
+        "geburtsdatum": "03.08.1999",
+        "matrikelnummer": 2571247,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "St\u00fcber",
-        "plzort": "53150 Bonn",
+        "nachname": "Kremer",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Schmiedeberger Stra\u00dfe 14",
+        "strasse": "M\u00fcnchner Platz 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 4
             }
         ],
-        "vorname": "Marieliese",
-        "weiblich": true
+        "vorname": "Wernher",
+        "weiblich": false
     }
 }

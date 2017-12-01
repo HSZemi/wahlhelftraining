@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2029493,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2536952,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "16.07.1997",
-        "matrikelnummer": 1935714,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "01.12.1993",
+        "matrikelnummer": 2632823,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grosser",
-        "plzort": "53119 Bonn",
+        "nachname": "Holzer",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Theobald Collin-Weg 12e",
+        "strasse": "Stufenweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
             }
         ],
-        "vorname": "Stephanus",
+        "vorname": "Dieter",
         "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1831678,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2063952,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.03.1993",
-        "matrikelnummer": 2735431,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "08.01.1982",
+        "matrikelnummer": 2658310,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scholten",
-        "plzort": "53136 Bonn",
+        "nachname": "Sch\u00f6ttler",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Halskestra\u00dfe 9",
+        "strasse": "Schl\u00fcsselstr. 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Tobias",
+        "vorname": "Alfinus",
         "weiblich": false
     }
 }

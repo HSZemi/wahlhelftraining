@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1083625,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1537849,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.12.1989",
-        "matrikelnummer": 2214609,
+        "fakultaet": 5,
+        "geburtsdatum": "26.12.1998",
+        "matrikelnummer": 2020736,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Braun",
-        "plzort": "53151 Bonn",
+        "nachname": "Dieterle",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Baunacher Str. 3",
+        "strasse": "Ooser Luisenstra\u00dfe 29",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Nevenka",
-        "weiblich": true
+        "vorname": "Christophorus",
+        "weiblich": false
     }
 }

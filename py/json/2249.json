@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2202098,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1692020,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.09.1999",
-        "matrikelnummer": 2994233,
+        "fakultaet": 8,
+        "geburtsdatum": "06.12.1992",
+        "matrikelnummer": 2833685,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Haag",
-        "plzort": "53152 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Witte",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Sandgrubenweg 6",
+        "strasse": "Maternstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 8
             }
         ],
-        "vorname": "Annagret",
-        "weiblich": true
+        "vorname": "Witmar",
+        "weiblich": false
     }
 }

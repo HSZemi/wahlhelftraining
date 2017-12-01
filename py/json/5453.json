@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1479996,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2593946,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "19.08.1995",
-        "matrikelnummer": 2290331,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "25.04.1989",
+        "matrikelnummer": 2043822,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kiel",
-        "plzort": "53222 Bonn",
+        "nachname": "Schneck",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Montabaurer Stra\u00dfe 1",
+        "strasse": "Moritzburg-Pillnitzer Weg 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Neurosciences",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 13
+                "fsem": 6
             }
         ],
-        "vorname": "Michelle",
+        "vorname": "Ingunde",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2796650,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1075864,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "15.01.1996",
-        "matrikelnummer": 1931993,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kellner",
-        "plzort": "53211 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "28.06.1990",
+        "matrikelnummer": 2130542,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sch\u00e4tzle",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Altk\u00f6nigstra\u00dfe 0",
+        "strasse": "Hynspergstra\u00dfe 21",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Kunstgeschichte",
+                "fsem": 2
             }
         ],
-        "vorname": "Harribert",
-        "weiblich": false
+        "vorname": "Adelgund",
+        "weiblich": true
     }
 }

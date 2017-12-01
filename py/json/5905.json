@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1825257,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1237366,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "07.12.1998",
-        "matrikelnummer": 121655,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "03.04.1993",
+        "matrikelnummer": 2928950,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Greb",
-        "plzort": "53223 Bonn",
+        "nachname": "Steinberger",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Sankt \u00c4gidigasse 5",
+        "strasse": "Heinrich-Tessenow-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 6
             },
             {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Klauspeter",
+        "vorname": "Arnold",
         "weiblich": false
     }
 }

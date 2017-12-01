@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1057771,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1031818,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "12.03.1997",
-        "matrikelnummer": 2249049,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "16.09.1996",
+        "matrikelnummer": 2446190,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "B\u00fcnger",
-        "plzort": "53171 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "H\u00f6fer",
+        "plzort": "19322 Breese",
         "sternchen": 0,
-        "strasse": "Blostwiete 1c",
+        "strasse": "Grenzwinkel 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Sigi",
+        "vorname": "Moritz",
         "weiblich": false
     }
 }

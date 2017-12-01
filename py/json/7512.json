@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2185192,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2947567,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.07.1995",
-        "matrikelnummer": 2272644,
+        "fakultaet": 6,
+        "geburtsdatum": "19.04.1995",
+        "matrikelnummer": 2727415,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eichhorn",
-        "plzort": "53192 Bonn",
+        "nachname": "Meiners",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Spechtweg 11",
+        "strasse": "Starkenfeldstr. 5",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 9
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Rosegunde",
-        "weiblich": true
+        "vorname": "Volkbert",
+        "weiblich": false
     }
 }

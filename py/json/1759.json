@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2321415,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2615444,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "15.11.1994",
-        "matrikelnummer": 2481118,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "14.12.1990",
+        "matrikelnummer": 3122182,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wichert",
-        "plzort": "56070 Koblenz",
+        "nachname": "Kleinhans",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Stolzenbergstra\u00dfe 16",
+        "strasse": "Ullersdorfer Platz 11",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 12
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
                 "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Hartwald",
-        "weiblich": false
+        "vorname": "Gundemarie",
+        "weiblich": true
     }
 }

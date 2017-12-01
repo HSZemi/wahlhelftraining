@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2599546,
-    "semester": "Sommersemester 2016",
+    "nummer": 1052605,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "23.10.1992",
-        "matrikelnummer": 161714,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "05.04.1990",
+        "matrikelnummer": 2960936,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Sternberg",
-        "plzort": "37635 L\u00fcerdissen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "K\u00f6stler",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Am Maisfeld 6",
+        "strasse": "R\u00fcbenkamp 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Biologie",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Koreanisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Skandinavistik",
+                "fsem": 6
             }
         ],
-        "vorname": "Michael",
+        "vorname": "Hardo",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1860094,
-    "semester": "Sommersemester 2016",
+    "nummer": 2654100,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "05.06.1992",
-        "matrikelnummer": 121838,
+        "fakultaet": 5,
+        "geburtsdatum": "05.03.1992",
+        "matrikelnummer": 2639467,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Breyer",
-        "plzort": "53156 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "85664 Hohenlinden",
         "sternchen": 0,
-        "strasse": "R\u00e4hnitzer Stra\u00dfe 1",
+        "strasse": "M\u00fchlbruchstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Hispanistik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Lateinamerika- und Altamerikastudien",
+                "fsem": 2
             }
         ],
-        "vorname": "Luitgard",
+        "vorname": "Sven",
         "weiblich": true
     }
 }

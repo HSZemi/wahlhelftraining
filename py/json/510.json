@@ -1,31 +1,36 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2085383,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2256073,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.10.1994",
-        "matrikelnummer": 2848643,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "05.03.1989",
+        "matrikelnummer": 2808479,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gottschlich",
-        "plzort": "53205 Bonn",
+        "nachname": "Eichholz",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Fliederberg 5a",
+        "strasse": "Gerberstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 7
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Arzneimittelwissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Annekatrin",
-        "weiblich": true
+        "vorname": "Gottreich",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1321189,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1256036,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.01.1991",
-        "matrikelnummer": 2366361,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "10.07.1997",
+        "matrikelnummer": 2233665,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bu\u00df",
-        "plzort": "53157 Bonn",
+        "nachname": "Lutz",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Br\u00fcckenstr. 6",
+        "strasse": "Altk\u00f6nigstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
+                "abschluss": "Promotion",
+                "fach": "Kulturwissenschaft",
                 "fsem": 6
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Detlef",
-        "weiblich": false
+        "vorname": "Isolde",
+        "weiblich": true
     }
 }

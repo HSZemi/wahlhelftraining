@@ -2,30 +2,45 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1497809,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1652637,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.01.1991",
-        "matrikelnummer": 14301,
+        "fakultaet": 8,
+        "geburtsdatum": "01.10.1997",
+        "matrikelnummer": 2309147,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rau",
-        "plzort": "53173 Bonn",
+        "nachname": "Tolksdorf",
+        "plzort": "23858 Wesenberg",
         "sternchen": 0,
-        "strasse": "Altgruna 3",
+        "strasse": "Sudetenweg 1e",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 11
             }
         ],
-        "vorname": "Birkhild",
+        "vorname": "Florence",
         "weiblich": true
     }
 }

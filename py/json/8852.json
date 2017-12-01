@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1058162,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1486515,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.04.1990",
-        "matrikelnummer": 1956312,
+        "fakultaet": 4,
+        "geburtsdatum": "13.10.1988",
+        "matrikelnummer": 2420818,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Sattler",
-        "plzort": "53202 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Krebs",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "W\u00f6hlerbr\u00fccke 6",
+        "strasse": "Obere Sandstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Historische Geographie",
-                "fsem": 13
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Altamerikanistik/Ethnologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Ulla",
-        "weiblich": true
+        "vorname": "Gerdt",
+        "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2423778,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1898048,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.03.1996",
-        "matrikelnummer": 13055,
+        "fakultaet": 8,
+        "geburtsdatum": "14.11.1994",
+        "matrikelnummer": 2723029,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heidemann",
-        "plzort": "53187 Bonn",
+        "nachname": "Thelen",
+        "plzort": "66978 Leimen",
         "sternchen": 0,
-        "strasse": "Wesselyring 2",
+        "strasse": "Curt-Guratzsch-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 13
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Leonhardt",
+        "vorname": "Hartfried",
         "weiblich": false
     }
 }

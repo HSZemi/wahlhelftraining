@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2970768,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1112610,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "09.03.1982",
-        "matrikelnummer": 2789220,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "24.12.1998",
+        "matrikelnummer": 2693113,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hommel",
-        "plzort": "67688 Rodenbach",
+        "nachname": "Schreier",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Klingenberger Stra\u00dfe 1",
+        "strasse": "H\u00fcnfelder Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Arno",
+        "vorname": "Arnt",
         "weiblich": false
     }
 }

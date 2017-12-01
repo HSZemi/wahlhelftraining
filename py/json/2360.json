@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2332131,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2024224,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.09.1989",
-        "matrikelnummer": 2268666,
+        "fakultaet": 6,
+        "geburtsdatum": "04.04.1990",
+        "matrikelnummer": 2354313,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Tietze",
-        "plzort": "53128 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Buchwald",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Eschebachstra\u00dfe 0",
+        "strasse": "An der Christuskirche 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Heiner",
+        "vorname": "Sigenot",
         "weiblich": false
     }
 }

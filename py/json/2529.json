@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2941456,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2728487,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "06.03.1991",
-        "matrikelnummer": 12011,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Bosse",
-        "plzort": "53163 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "10.01.1995",
+        "matrikelnummer": 3164678,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kindler",
+        "plzort": "55432 Niederburg",
         "sternchen": 0,
-        "strasse": "Hasenweg 12",
+        "strasse": "Leo-Tolstoj-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Hannsgeorg",
-        "weiblich": false
+        "vorname": "Marena",
+        "weiblich": true
     }
 }

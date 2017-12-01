@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1853066,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2035086,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "07.01.1988",
-        "matrikelnummer": 2718502,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "01.03.1994",
+        "matrikelnummer": 3052670,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kania",
-        "plzort": "53198 Bonn",
+        "nachname": "Sch\u00fcrmann",
+        "plzort": "55237 Bornheim",
         "sternchen": 0,
-        "strasse": "M\u00fchlbacher Stra\u00dfe 18",
+        "strasse": "Am Weiher 20b",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 2
             }
         ],
-        "vorname": "Darius",
+        "vorname": "Guntmar",
         "weiblich": false
     }
 }

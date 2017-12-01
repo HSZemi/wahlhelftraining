@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2240623,
+    "nummer": 2964706,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "25.11.1992",
-        "matrikelnummer": 2260750,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "19.11.1990",
+        "matrikelnummer": 1990564,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krau\u00df",
-        "plzort": "67454 Ha\u00dfloch",
+        "nachname": "Georg",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Schwanenwik 4",
+        "strasse": "Am Lugaer Graben 17",
         "studienfaecher": [
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 4
+            },
             {
                 "abschluss": "Master of Arts",
                 "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "fsem": 2
             }
         ],
-        "vorname": "Margrid",
-        "weiblich": true
+        "vorname": "Guntram",
+        "weiblich": false
     }
 }

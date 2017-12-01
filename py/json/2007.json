@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1153708,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2057833,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "09.01.1990",
-        "matrikelnummer": 2611213,
+        "fakultaet": 9,
+        "geburtsdatum": "13.01.1996",
+        "matrikelnummer": 2922720,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stegmann",
-        "plzort": "53157 Bonn",
+        "nachname": "Herzog",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Steinbeker Weg 0",
+        "strasse": "Wolgaster Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             }
         ],
-        "vorname": "Concetta",
-        "weiblich": true
+        "vorname": "Vincenz",
+        "weiblich": false
     }
 }

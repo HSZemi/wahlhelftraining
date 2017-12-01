@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1722293,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1619424,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "22.11.1999",
-        "matrikelnummer": 12593,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "25.07.1996",
+        "matrikelnummer": 1932088,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zellner",
-        "plzort": "53191 Bonn",
+        "nachname": "Elsner",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Eppendorfer Stieg 21d",
+        "strasse": "Bleidenstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 13
             }
         ],
-        "vorname": "Arnfred",
-        "weiblich": false
+        "vorname": "Gundula",
+        "weiblich": true
     }
 }

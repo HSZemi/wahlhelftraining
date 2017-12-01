@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2315362,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2428137,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.11.1996",
-        "matrikelnummer": 2248253,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "16.07.1996",
+        "matrikelnummer": 2226549,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6sch",
-        "plzort": "53219 Bonn",
+        "nachname": "Polster",
+        "plzort": "37619 Bodenwerder",
         "sternchen": 0,
-        "strasse": "David-Stempel-Stra\u00dfe 0",
+        "strasse": "Baumtwiete 2",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Zahnmedizin",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
             }
         ],
-        "vorname": "Sina",
+        "vorname": "Francesca",
         "weiblich": true
     }
 }

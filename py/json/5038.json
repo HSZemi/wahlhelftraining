@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2899487,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2740842,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "11.12.1997",
-        "matrikelnummer": 2555194,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "02.02.1990",
+        "matrikelnummer": 2854790,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Czech",
-        "plzort": "06729 Tr\u00f6glitz",
+        "nachname": "Koch",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Schalkwiesenweg 21",
+        "strasse": "Frankenstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Computational Life Sciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Kati",
-        "weiblich": true
+        "vorname": "Siegfrid",
+        "weiblich": false
     }
 }

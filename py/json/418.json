@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2271761,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1025018,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.04.1996",
-        "matrikelnummer": 2735825,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "28.04.1995",
+        "matrikelnummer": 2072536,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Benz",
-        "plzort": "16306 Vierraden",
+        "nachname": "Heinen",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Inselstra\u00dfe 10",
+        "strasse": "Ferdinandplatz 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Hispanistik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 6
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Peggy",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

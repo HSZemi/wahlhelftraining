@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2294479,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2074656,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.06.1999",
-        "matrikelnummer": 2356920,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "14.06.1989",
+        "matrikelnummer": 15310,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neef",
-        "plzort": "53175 Bonn",
+        "nachname": "S\u00f6llner",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Dieselstra\u00dfe 3c",
+        "strasse": "Steinweg 26",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Nutzpflanzenwissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Renata",
-        "weiblich": true
+        "vorname": "Erdfried",
+        "weiblich": false
     }
 }

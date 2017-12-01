@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2418737,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1885802,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "06.12.1990",
-        "matrikelnummer": 2458295,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "15.04.1993",
+        "matrikelnummer": 2152621,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiedemann",
-        "plzort": "53112 Bonn",
+        "nachname": "Fuchs",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Rhiemsweg 1",
+        "strasse": "Griesstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Klauspeter",
-        "weiblich": false
+        "vorname": "Sophie",
+        "weiblich": true
     }
 }

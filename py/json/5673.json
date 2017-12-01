@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2112638,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2114742,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "18.08.1989",
-        "matrikelnummer": 2752700,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "08.11.1994",
+        "matrikelnummer": 2165778,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heidt",
-        "plzort": "19071 Grambow",
+        "nachname": "Buss",
+        "plzort": "86500 Kutzenhausen",
         "sternchen": 0,
-        "strasse": "Mertonstra\u00dfe 0",
+        "strasse": "Altl\u00f6btau 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Willehad",
+        "vorname": "Anrich",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2279758,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2701340,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.04.1996",
-        "matrikelnummer": 2303579,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 9,
+        "geburtsdatum": "22.12.1992",
+        "matrikelnummer": 3107646,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jauch",
-        "plzort": "53209 Bonn",
+        "nachname": "Brand",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Siedlerweg 4",
+        "strasse": "Buchwaldstra\u00dfe 31",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Arthur",
-        "weiblich": false
+        "vorname": "Cilli",
+        "weiblich": true
     }
 }

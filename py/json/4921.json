@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2357552,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1606979,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "04.10.1990",
-        "matrikelnummer": 16234,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "25.05.1993",
+        "matrikelnummer": 3146344,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Falk",
-        "plzort": "99947 Behringen",
+        "nachname": "Maiwald",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Werkst\u00e4ttenstra\u00dfe 9",
+        "strasse": "Grethenweg 13",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 12
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Adele",
+        "vorname": "Friedhild",
         "weiblich": true
     }
 }

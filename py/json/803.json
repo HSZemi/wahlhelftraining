@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2855617,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1486062,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.08.1992",
-        "matrikelnummer": 2901168,
+        "fakultaet": 0,
+        "geburtsdatum": "19.03.1988",
+        "matrikelnummer": 2576174,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Epple",
-        "plzort": "53165 Bonn",
+        "nachname": "H\u00e4hnel",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Pfotenhauerstra\u00dfe 26",
+        "strasse": "Senefelderstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Physik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Chemie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Yasemin",
+        "vorname": "Trautchen",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2706334,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2992204,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "18.06.1988",
-        "matrikelnummer": 2290930,
+        "fakultaet": 6,
+        "geburtsdatum": "07.11.1995",
+        "matrikelnummer": 2464166,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00e4utigam",
-        "plzort": "27248 Ehrenburg",
+        "nachname": "Meurer",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Borstelmannsweg 39",
+        "strasse": "Lessingstra\u00dfe 10b",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Physik der Erde und Atmosph\u00e4re",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "fach": "Entwicklungsforschung",
+                "fsem": 10
             }
         ],
-        "vorname": "Arnhart",
+        "vorname": "Karli",
         "weiblich": false
     }
 }

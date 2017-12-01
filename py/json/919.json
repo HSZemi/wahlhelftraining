@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1038733,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2611400,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "08.10.1996",
-        "matrikelnummer": 2782767,
+        "geburtsdatum": "25.07.1991",
+        "matrikelnummer": 2384322,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kirchner",
-        "plzort": "73111 Lauterstein",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ziegler",
+        "plzort": "32120 Hiddenhausen",
         "sternchen": 0,
-        "strasse": "Vogelstellerweg 1",
+        "strasse": "Gersdorfer Weg 12",
         "studienfaecher": [
             {
                 "abschluss": "Master",
                 "fach": "Drug Regulatory Affairs",
-                "fsem": 13
+                "fsem": 7
             }
         ],
-        "vorname": "Malwine",
-        "weiblich": true
+        "vorname": "Theophil",
+        "weiblich": false
     }
 }

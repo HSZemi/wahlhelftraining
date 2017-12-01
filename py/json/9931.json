@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1790655,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1207951,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.03.1993",
-        "matrikelnummer": 3192184,
+        "fakultaet": 4,
+        "geburtsdatum": "06.08.1998",
+        "matrikelnummer": 2090084,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Flaig",
-        "plzort": "53203 Bonn",
+        "nachname": "Albert",
+        "plzort": "44869 Bochum",
         "sternchen": 0,
-        "strasse": "An St. Theresia 0",
+        "strasse": "Redlriedweg 7",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 7
             }
         ],
-        "vorname": "Leopoldina",
+        "vorname": "Eleonore",
         "weiblich": true
     }
 }

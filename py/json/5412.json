@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1815791,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1657453,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "08.02.1994",
-        "matrikelnummer": 2533208,
+        "geburtsdatum": "19.11.1993",
+        "matrikelnummer": 2156236,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wilhelm",
-        "plzort": "53118 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Nielsen",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Am Ziegenberg 26",
+        "strasse": "Friedenstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 4
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
             }
         ],
-        "vorname": "Benediktus",
+        "vorname": "Friedberg",
         "weiblich": false
     }
 }

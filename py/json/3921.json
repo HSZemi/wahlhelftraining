@@ -1,41 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2610717,
+    "nummer": 2302953,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "02.09.1989",
-        "matrikelnummer": 2657992,
+        "geburtsdatum": "21.02.1992",
+        "matrikelnummer": 3033925,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krampe",
-        "plzort": "53174 Bonn",
+        "nachname": "Eberlein",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Schwertfegergasse 4",
+        "strasse": "Bozenhardweg 11",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 11
             },
             {
                 "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 9
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 11
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "fsem": 11
             }
         ],
-        "vorname": "Gerlach",
+        "vorname": "Sidonius",
         "weiblich": false
     }
 }

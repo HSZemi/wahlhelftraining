@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1709397,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2373826,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "12.04.1994",
-        "matrikelnummer": 2251521,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 3,
+        "geburtsdatum": "24.04.1995",
+        "matrikelnummer": 2397066,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lenz",
-        "plzort": "53155 Bonn",
+        "nachname": "Schuhmann",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Georgendamm 7a",
+        "strasse": "Gautschweg 25",
         "studienfaecher": [
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 13
+            },
             {
                 "abschluss": "Staatsex.",
                 "fach": "Lebensmittelchemie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 11
+                "fsem": 2
             }
         ],
-        "vorname": "Lieselore",
+        "vorname": "Rosel",
         "weiblich": true
     }
 }

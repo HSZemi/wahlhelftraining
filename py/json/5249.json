@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1259405,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2851392,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "09.03.1997",
-        "matrikelnummer": 2122720,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "10.04.1999",
+        "matrikelnummer": 127163,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kramer",
-        "plzort": "53119 Bonn",
+        "nachname": "Diefenbach",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Danckwerthweg 8",
+        "strasse": "Paul-Heyse-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Eberhardt",
-        "weiblich": false
+        "vorname": "Susanna",
+        "weiblich": true
     }
 }

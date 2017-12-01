@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1588903,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1585456,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.04.1992",
-        "matrikelnummer": 2974852,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "19.06.1994",
+        "matrikelnummer": 174545,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pietzsch",
-        "plzort": "53167 Bonn",
+        "nachname": "Fengler",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Mittelbachstr. 4",
+        "strasse": "Tomandlried 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Gerrit",
-        "weiblich": false
+        "vorname": "Urta",
+        "weiblich": true
     }
 }

@@ -1,46 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1151534,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1213880,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "23.01.1993",
-        "matrikelnummer": 1964411,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "27.06.1991",
+        "matrikelnummer": 2831831,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinig",
-        "plzort": "53125 Bonn",
+        "nachname": "Scheibe",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Alten Stadttor 3",
+        "strasse": "Jahnbr\u00fccke 3",
         "studienfaecher": [
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
+            },
             {
                 "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 2
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Latein",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "fsem": 3
             }
         ],
-        "vorname": "Scholastika",
+        "vorname": "Silvia",
         "weiblich": true
     }
 }

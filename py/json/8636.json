@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2669429,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2054243,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.12.1993",
-        "matrikelnummer": 2967277,
+        "fakultaet": 4,
+        "geburtsdatum": "13.09.1999",
+        "matrikelnummer": 2554000,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Frerichs",
-        "plzort": "53184 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Obermaier",
+        "plzort": "51379 Leverkusen",
         "sternchen": 0,
-        "strasse": "Malterstra\u00dfe 6",
+        "strasse": "Am Pfeiferberg 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Physik",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 6
             }
         ],
-        "vorname": "Erla",
+        "vorname": "Ferdinande",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1490912,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2179387,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.05.1996",
-        "matrikelnummer": 19108,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "03.10.1992",
+        "matrikelnummer": 17573,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kampmann",
-        "plzort": "53167 Bonn",
+        "nachname": "Tesch",
+        "plzort": "99438 Vollersroda",
         "sternchen": 0,
-        "strasse": "Luisenhofstieg 6",
+        "strasse": "Grillenburger Stra\u00dfe 0e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
                 "fsem": 1
             }
         ],
-        "vorname": "Sigi",
+        "vorname": "Maxi",
         "weiblich": true
     }
 }

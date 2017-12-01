@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2653093,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1313808,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.11.1991",
-        "matrikelnummer": 2184278,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "11.03.1993",
+        "matrikelnummer": 162168,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wendel",
-        "plzort": "56766 Ulmen",
+        "nachname": "Hammerschmidt",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Am H\u00fcgel 22",
+        "strasse": "Lepsiusstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Molekulare Biomedizin",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Reinhardt",
-        "weiblich": false
+        "vorname": "Elfi",
+        "weiblich": true
     }
 }

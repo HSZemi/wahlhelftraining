@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1012586,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1431896,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.05.1999",
-        "matrikelnummer": 11305,
+        "fakultaet": 8,
+        "geburtsdatum": "24.07.1997",
+        "matrikelnummer": 2847501,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauck",
-        "plzort": "53175 Bonn",
+        "nachname": "Jessen",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Plassenburgstr. 4",
+        "strasse": "Eyssenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Computer Science",
-                "fsem": 13
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
             }
         ],
-        "vorname": "Olf",
-        "weiblich": false
+        "vorname": "Vesna",
+        "weiblich": true
     }
 }

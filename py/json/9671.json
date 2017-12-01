@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1661080,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1926671,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.03.1991",
-        "matrikelnummer": 2463095,
+        "fakultaet": 8,
+        "geburtsdatum": "23.07.1986",
+        "matrikelnummer": 2577294,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Becht",
-        "plzort": "27211 Bassum",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Boy",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Elsa-Br\u00e4ndstr\u00f6m-Stra\u00dfe 1a",
+        "strasse": "Beim Saaren 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Sofia",
-        "weiblich": true
+        "vorname": "Oliver",
+        "weiblich": false
     }
 }

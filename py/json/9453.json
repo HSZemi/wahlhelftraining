@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1277802,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2188847,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "18.04.1996",
-        "matrikelnummer": 3102430,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "11.06.1989",
+        "matrikelnummer": 185988,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fritzsche",
-        "plzort": "06896 Straach",
+        "nachname": "Enders",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Residenzstr. 1e",
+        "strasse": "Scariastra\u00dfe 27",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 11
             }
         ],
-        "vorname": "Dietger",
-        "weiblich": false
+        "vorname": "Helena",
+        "weiblich": true
     }
 }

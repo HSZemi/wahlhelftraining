@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2870460,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2441271,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "05.11.1998",
-        "matrikelnummer": 2253608,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "12.12.1992",
+        "matrikelnummer": 2436328,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Linder",
-        "plzort": "53212 Bonn",
+        "nachname": "Jochum",
+        "plzort": "80796 M\u00fcnchen",
         "sternchen": 0,
-        "strasse": "Knoopstra\u00dfe 34",
+        "strasse": "Fischstr. 30",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
                 "fsem": 4
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Kathleen",
-        "weiblich": true
+        "vorname": "Matthias",
+        "weiblich": false
     }
 }

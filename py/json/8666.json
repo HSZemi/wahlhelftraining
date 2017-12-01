@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1001884,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2203825,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.04.1994",
-        "matrikelnummer": 1943712,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "22.05.1992",
+        "matrikelnummer": 2730127,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behrend",
-        "plzort": "53111 Bonn",
+        "nachname": "Groh",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Flemingstra\u00dfe 2",
+        "strasse": "De-Neufville-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Meta",
-        "weiblich": true
+        "vorname": "Mirco",
+        "weiblich": false
     }
 }

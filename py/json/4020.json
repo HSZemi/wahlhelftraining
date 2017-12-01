@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2127059,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2502237,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.06.1996",
-        "matrikelnummer": 2852049,
+        "fakultaet": 8,
+        "geburtsdatum": "24.06.1994",
+        "matrikelnummer": 2712301,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hillenbrand",
-        "plzort": "53223 Bonn",
+        "nachname": "Bohm",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Grafensteinstr. 2",
+        "strasse": "W\u00f6hlerbr\u00fccke 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Englisch",
                 "fsem": 10
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Notburga",
+        "vorname": "Karola",
         "weiblich": true
     }
 }

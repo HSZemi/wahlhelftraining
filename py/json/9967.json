@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1221190,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2286280,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.09.1992",
-        "matrikelnummer": 2735041,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "08.12.1985",
+        "matrikelnummer": 2223047,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Keppler",
-        "plzort": "53153 Bonn",
+        "nachname": "Richter",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Stockheimer Stra\u00dfe 1",
+        "strasse": "Ma\u00dfbornstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Geowissenschaften",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Aribert",
+        "vorname": "Sigfried",
         "weiblich": false
     }
 }

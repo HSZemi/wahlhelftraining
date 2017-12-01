@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2123214,
-    "semester": "Sommersemester 2016",
+    "nummer": 1641775,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "20.01.1997",
-        "matrikelnummer": 3176624,
+        "fakultaet": 8,
+        "geburtsdatum": "22.09.1992",
+        "matrikelnummer": 2972295,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiebe",
-        "plzort": "53198 Bonn",
+        "nachname": "Reinke",
+        "plzort": "77652 Offenburg",
         "sternchen": 0,
-        "strasse": "Eichbuschweg 14",
+        "strasse": "Alte Falterstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Kasimir",
+        "vorname": "Wolfhart",
         "weiblich": false
     }
 }

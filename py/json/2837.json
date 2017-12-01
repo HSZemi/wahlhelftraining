@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2194875,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2593031,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "15.08.1991",
-        "matrikelnummer": 2195925,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "09.04.1993",
+        "matrikelnummer": 2066881,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ley",
-        "plzort": "53147 Bonn",
+        "nachname": "Pongratz",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Birsteiner Stra\u00dfe 25",
+        "strasse": "Zwickauer Stra\u00dfe 30",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kommunikationswissenschaften",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sistik",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Wulf",
-        "weiblich": false
+        "vorname": "Rita",
+        "weiblich": true
     }
 }

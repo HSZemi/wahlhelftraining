@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2485217,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1051915,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.05.1996",
-        "matrikelnummer": 2704746,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "01.01.1994",
+        "matrikelnummer": 2103222,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Streich",
-        "plzort": "25927 Aventoft",
+        "nachname": "Wiedemann",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Schiffbeker H\u00f6he 9",
+        "strasse": "Am Wasserturm 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 11
             }
         ],
-        "vorname": "Bolko",
-        "weiblich": false
+        "vorname": "Anette",
+        "weiblich": true
     }
 }

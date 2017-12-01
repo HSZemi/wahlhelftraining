@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1285953,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2843605,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.07.1995",
-        "matrikelnummer": 2597740,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kreuzer",
-        "plzort": "53217 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "13.05.1989",
+        "matrikelnummer": 1901311,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Tappe",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "S\u00fcdring 4",
+        "strasse": "Maria-Reiche-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geschichte",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Koreanisch",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 2
             }
         ],
-        "vorname": "Liborius",
-        "weiblich": false
+        "vorname": "Benita",
+        "weiblich": true
     }
 }

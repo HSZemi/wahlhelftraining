@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1158749,
+    "nummer": 2702747,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "04.10.1993",
-        "matrikelnummer": 2858396,
+        "fakultaet": 8,
+        "geburtsdatum": "12.08.1990",
+        "matrikelnummer": 14428,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mester",
-        "plzort": "06543 Braunschwende",
+        "nachname": "Sedlmeier",
+        "plzort": "98646 Straufhain",
         "sternchen": 0,
-        "strasse": "M\u00fchlheimer Stra\u00dfe 5",
+        "strasse": "Paracelsusstr. 52",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
                 "fsem": 7
             }
         ],
-        "vorname": "Ela",
-        "weiblich": true
+        "vorname": "Joschka",
+        "weiblich": false
     }
 }

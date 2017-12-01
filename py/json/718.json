@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1592292,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2363931,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.11.1996",
-        "matrikelnummer": 2024725,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "17.12.1995",
+        "matrikelnummer": 3095637,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Walch",
-        "plzort": "53131 Bonn",
+        "nachname": "Thiede",
+        "plzort": "20255 Hamburg",
         "sternchen": 0,
-        "strasse": "Bockenheimer Warte 8",
+        "strasse": "Carl-von-Weinberg-Stra\u00dfe 3c",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 13
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Volkhardt",
-        "weiblich": false
+        "vorname": "Felizitas",
+        "weiblich": true
     }
 }

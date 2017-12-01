@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2013664,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2736537,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.03.1999",
-        "matrikelnummer": 2797258,
+        "fakultaet": 6,
+        "geburtsdatum": "23.05.1993",
+        "matrikelnummer": 116675,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Loch",
-        "plzort": "53229 Bonn",
+        "nachname": "Breyer",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Marshallweg 6",
+        "strasse": "Zirkusstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 1
             }
         ],
-        "vorname": "Anneke",
+        "vorname": "Birglinde",
         "weiblich": true
     }
 }

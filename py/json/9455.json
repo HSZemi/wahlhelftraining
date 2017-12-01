@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2823440,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2083839,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "14.06.1989",
-        "matrikelnummer": 2756367,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "11.08.1987",
+        "matrikelnummer": 2168687,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bartz",
-        "plzort": "53180 Bonn",
+        "nachname": "Wirth",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Tessenow-Weg 4",
+        "strasse": "Altfrankener H\u00f6he 11",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 8
             }
         ],
-        "vorname": "Sighelm",
-        "weiblich": false
+        "vorname": "Sophie",
+        "weiblich": true
     }
 }

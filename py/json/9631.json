@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2683228,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1035565,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "24.11.1991",
-        "matrikelnummer": 2292184,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Stief",
-        "plzort": "53147 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "05.04.1992",
+        "matrikelnummer": 186924,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schober",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Dillenburger Stra\u00dfe 0",
+        "strasse": "L\u00f6wenzahnweg 4e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ernaehrungswiss.",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 12
             }
         ],
-        "vorname": "Sonnhilde",
-        "weiblich": true
+        "vorname": "Rudolf",
+        "weiblich": false
     }
 }

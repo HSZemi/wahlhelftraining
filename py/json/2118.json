@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2320988,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2784743,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "14.10.1996",
-        "matrikelnummer": 2012300,
+        "fakultaet": 8,
+        "geburtsdatum": "05.11.1996",
+        "matrikelnummer": 16315,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hohmann",
-        "plzort": "53168 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "K\u00fcper",
+        "plzort": "87463 Dietmannsried",
         "sternchen": 0,
-        "strasse": "Sandweg 0",
+        "strasse": "Pfingstbrunnenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Martine",
-        "weiblich": true
+        "vorname": "Kevin",
+        "weiblich": false
     }
 }

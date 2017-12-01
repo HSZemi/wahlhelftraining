@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1754763,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1505262,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "12.08.1993",
-        "matrikelnummer": 1995441,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "22.11.1993",
+        "matrikelnummer": 3059101,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brehmer",
-        "plzort": "53172 Bonn",
+        "nachname": "Hipp",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Georg-Starcke-Weg 7",
+        "strasse": "Danziger Weg 2",
         "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
             {
                 "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 11
+                "fsem": 8
             }
         ],
-        "vorname": "Helwin",
-        "weiblich": false
+        "vorname": "Ula",
+        "weiblich": true
     }
 }

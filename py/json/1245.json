@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1781893,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1181340,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.03.1991",
-        "matrikelnummer": 2000534,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "26.04.1995",
+        "matrikelnummer": 3036109,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiesmann",
-        "plzort": "53164 Bonn",
+        "nachname": "Mielke",
+        "plzort": "25860 Arlewatt",
         "sternchen": 0,
-        "strasse": "M\u00fcller-Armack-Stra\u00dfe 1",
+        "strasse": "Fuldaer Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Physik",
+                "fsem": 9
             }
         ],
-        "vorname": "Roger",
-        "weiblich": false
+        "vorname": "Mathilde",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1085277,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2177541,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.08.1997",
-        "matrikelnummer": 3183286,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "13.11.1992",
+        "matrikelnummer": 111310,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siemer",
-        "plzort": "88319 Aitrach",
+        "nachname": "Schell",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Carl-von-Noorden-Platz 11",
+        "strasse": "Dreieichenstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geophysik",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "D\u00f6rte",
+        "vorname": "Marliese",
         "weiblich": true
     }
 }

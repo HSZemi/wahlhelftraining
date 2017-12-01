@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2233278,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1846494,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.06.1989",
-        "matrikelnummer": 2184573,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "26.07.1996",
+        "matrikelnummer": 2460834,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rohe",
-        "plzort": "53202 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "An der Schmiede 18",
+        "strasse": "Dornmattstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 8
             }
         ],
-        "vorname": "Margarethe",
+        "vorname": "Sven",
         "weiblich": true
     }
 }

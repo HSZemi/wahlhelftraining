@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1422215,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2842863,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "09.12.1994",
-        "matrikelnummer": 13027,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "17.12.1992",
+        "matrikelnummer": 128864,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiener",
-        "plzort": "53153 Bonn",
+        "nachname": "Ehrhardt",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Kurt-Tucholsky-Stra\u00dfe 2",
+        "strasse": "Karpatenstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 13
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Dorothea",
-        "weiblich": true
+        "vorname": "Rudolph",
+        "weiblich": false
     }
 }

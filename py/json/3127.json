@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1481398,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1680611,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "02.05.1999",
-        "matrikelnummer": 15982,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "12.05.1991",
+        "matrikelnummer": 2095324,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Keim",
-        "plzort": "53177 Bonn",
+        "nachname": "Ehmann",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Gutsfeld 3",
+        "strasse": "Hans-Rubbert-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
             }
         ],
-        "vorname": "Bernulf",
-        "weiblich": false
+        "vorname": "Burglind",
+        "weiblich": true
     }
 }

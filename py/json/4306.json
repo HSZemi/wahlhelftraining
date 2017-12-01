@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1472009,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2336471,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.07.1996",
-        "matrikelnummer": 2983911,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "27.12.1993",
+        "matrikelnummer": 2038897,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sager",
-        "plzort": "53141 Bonn",
+        "nachname": "Kast",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Bahnhof 1",
+        "strasse": "Zum-Jungen-Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Biochemistry",
-                "fsem": 10
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Herwarth",
-        "weiblich": false
+        "vorname": "Waldtraut",
+        "weiblich": true
     }
 }

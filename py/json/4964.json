@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1878888,
-    "semester": "Sommersemester 2016",
+    "nummer": 2444636,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "02.02.1993",
-        "matrikelnummer": 1997713,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 0,
+        "geburtsdatum": "13.01.1992",
+        "matrikelnummer": 2832769,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Anders",
-        "plzort": "53152 Bonn",
+        "nachname": "Mucha",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Wachwitzer Bergstra\u00dfe 16",
+        "strasse": "Kalkreuther Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Sprachliche Kommunikation",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch als Zweit- und Fremdsprache",
+                "fsem": 7
             }
         ],
-        "vorname": "Ferfried",
-        "weiblich": false
+        "vorname": "Donata",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2371539,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1874615,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.06.1985",
-        "matrikelnummer": 2845033,
+        "fakultaet": 7,
+        "geburtsdatum": "27.12.1989",
+        "matrikelnummer": 1958261,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "He\u00df",
-        "plzort": "53140 Bonn",
+        "nachname": "Hammes",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Memmelsdorfer Str. 1",
+        "strasse": "Br\u00fcningstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 9
             }
         ],
-        "vorname": "Eik",
+        "vorname": "Follrich",
         "weiblich": false
     }
 }

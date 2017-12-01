@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1220773,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2954633,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.11.1999",
-        "matrikelnummer": 2165651,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "06.05.1994",
+        "matrikelnummer": 2641349,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bergner",
-        "plzort": "53178 Bonn",
+        "nachname": "Backhaus",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Am Lindenberg 6a",
+        "strasse": "Kelkheimer Stra\u00dfe 5b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 5
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Traute",
+        "vorname": "Gundela",
         "weiblich": true
     }
 }

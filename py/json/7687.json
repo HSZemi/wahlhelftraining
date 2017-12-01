@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1929213,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1848969,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.10.1995",
-        "matrikelnummer": 2351070,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 3,
+        "geburtsdatum": "02.07.1992",
+        "matrikelnummer": 3110660,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schade",
-        "plzort": "53167 Bonn",
+        "nachname": "Tetzlaff",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00f6melburgweg 39",
+        "strasse": "Duisbergstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 6
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 10
             }
         ],
-        "vorname": "Hetty",
-        "weiblich": true
+        "vorname": "Herfried",
+        "weiblich": false
     }
 }

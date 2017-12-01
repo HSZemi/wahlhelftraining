@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2438108,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1407942,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "15.03.1999",
-        "matrikelnummer": 2216433,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "14.10.1995",
+        "matrikelnummer": 2391595,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6rtz",
-        "plzort": "53229 Bonn",
+        "nachname": "Seeliger",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Bergbahnstra\u00dfe 2",
+        "strasse": "Alfred-Delp-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Fabian",
-        "weiblich": false
+        "vorname": "Irene",
+        "weiblich": true
     }
 }

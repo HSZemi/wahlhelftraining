@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1160375,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2557990,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.11.1997",
-        "matrikelnummer": 3009194,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "16.05.1996",
+        "matrikelnummer": 2523377,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sand",
-        "plzort": "53191 Bonn",
+        "nachname": "Dudek",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Nordheimstra\u00dfe 0",
+        "strasse": "Liebigbr\u00fccke 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Interreligi\u00f6se Studien - Philosophie der Religionen",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Steffen",
-        "weiblich": false
+        "vorname": "Natascha",
+        "weiblich": true
     }
 }

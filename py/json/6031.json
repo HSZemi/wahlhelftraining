@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1252267,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1402426,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "20.02.1991",
-        "matrikelnummer": 2628337,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Lotz",
-        "plzort": "67149 Meckenheim",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "11.11.1985",
+        "matrikelnummer": 2674743,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Weigand",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Ostritzer Stra\u00dfe 11",
+        "strasse": "Guttenweg 21",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Skandinavistik",
-                "fsem": 1
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Eleonora",
+        "vorname": "Madeleine",
         "weiblich": true
     }
 }

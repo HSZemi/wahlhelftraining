@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2106184,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2233858,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "10.04.1997",
-        "matrikelnummer": 3023082,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "12.08.1991",
+        "matrikelnummer": 2118654,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Valentin",
-        "plzort": "53159 Bonn",
+        "nachname": "Voigt",
+        "plzort": "72291 Betzweiler-W\u00e4lde",
         "sternchen": 0,
-        "strasse": "Hennersdorfer Weg 1",
+        "strasse": "An den Geiselwiesen 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 10
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Arnd",
-        "weiblich": false
+        "vorname": "Hannah",
+        "weiblich": true
     }
 }

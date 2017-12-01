@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2410623,
-    "semester": "Sommersemester 2016",
+    "nummer": 2495623,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "22.07.1999",
-        "matrikelnummer": 117749,
+        "fakultaet": 4,
+        "geburtsdatum": "02.03.1991",
+        "matrikelnummer": 3017088,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bamberger",
-        "plzort": "53169 Bonn",
+        "nachname": "Schlegel",
+        "plzort": "63928 Eichenb\u00fchl",
         "sternchen": 0,
-        "strasse": "Langebr\u00fccker Stra\u00dfe 7",
+        "strasse": "Adam-Stegerwald-Str. 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Promotion",
+                "fach": "Medizin",
                 "fsem": 4
             }
         ],
-        "vorname": "Biggi",
-        "weiblich": true
+        "vorname": "Heintje",
+        "weiblich": false
     }
 }

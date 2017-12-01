@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1858442,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1863192,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "28.03.1995",
-        "matrikelnummer": 1994491,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "07.06.1990",
+        "matrikelnummer": 2232271,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baron",
-        "plzort": "53122 Bonn",
+        "nachname": "Wolfram",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Anwanderstr. 26",
+        "strasse": "Albert-Einstein-Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Kevin",
-        "weiblich": false
+        "vorname": "Edwina",
+        "weiblich": true
     }
 }

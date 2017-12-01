@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1943767,
+    "nummer": 1481645,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "15.02.1994",
-        "matrikelnummer": 2844268,
+        "geburtsdatum": "18.09.1997",
+        "matrikelnummer": 2506222,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kanzler",
-        "plzort": "53221 Bonn",
+        "nachname": "Schlosser",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Torweg 2",
+        "strasse": "Gem\u00fcndener Stra\u00dfe 16",
         "studienfaecher": [
             {
                 "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 6
+                "fsem": 13
             }
         ],
-        "vorname": "Franziska",
+        "vorname": "Annerike",
         "weiblich": true
     }
 }

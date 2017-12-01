@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2622584,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1506802,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.12.1991",
-        "matrikelnummer": 2386893,
+        "fakultaet": 0,
+        "geburtsdatum": "01.07.1994",
+        "matrikelnummer": 2788203,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Roch",
-        "plzort": "07389 Grobengereuth",
+        "nachname": "Sch\u00f6pf",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00f6btauer Br\u00fccke 24",
+        "strasse": "Im Wichheimer Feld 32",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Geophysik",
-                "fsem": 10
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Vreni",
-        "weiblich": true
+        "vorname": "Tilman",
+        "weiblich": false
     }
 }

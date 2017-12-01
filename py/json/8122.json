@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2700602,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1456782,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "07.06.1993",
-        "matrikelnummer": 1965327,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "23.08.1989",
+        "matrikelnummer": 11947,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hundt",
-        "plzort": "53224 Bonn",
+        "nachname": "Engl",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Schlagfeldweg 20",
+        "strasse": "Gregor Josef Werner-Stra\u00dfe 9e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Skandinavistik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Romanistik",
                 "fsem": 11
             }
         ],
-        "vorname": "Heide",
-        "weiblich": true
+        "vorname": "Caspar",
+        "weiblich": false
     }
 }

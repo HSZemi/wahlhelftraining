@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1853525,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2006991,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.10.1985",
-        "matrikelnummer": 2584495,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "22.10.1988",
+        "matrikelnummer": 126503,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klaas",
-        "plzort": "53156 Bonn",
+        "nachname": "Storz",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Eduard-St\u00fcbler-Stra\u00dfe 18",
+        "strasse": "Bendergasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 5
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Theodor",
+        "vorname": "Gerthold",
         "weiblich": false
     }
 }

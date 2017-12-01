@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2487317,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1932930,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "22.03.1996",
-        "matrikelnummer": 2524273,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "26.12.1989",
+        "matrikelnummer": 2275713,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Erhardt",
-        "plzort": "53113 Bonn",
+        "nachname": "Georg",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Ronneburgstra\u00dfe 7e",
+        "strasse": "Vogelbeerenweg 15",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Ulfried",
-        "weiblich": false
+        "vorname": "Burghilde",
+        "weiblich": true
     }
 }

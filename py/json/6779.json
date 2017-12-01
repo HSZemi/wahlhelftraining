@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2648191,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1864626,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "03.01.1994",
-        "matrikelnummer": 11451,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "27.10.1998",
+        "matrikelnummer": 3192766,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00f6ser",
-        "plzort": "38385 Ingeleben",
+        "nachname": "J\u00e4ger",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Verdener Weg 7",
+        "strasse": "Brockhausstra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Physik",
+                "fsem": 1
             }
         ],
-        "vorname": "Arwed",
+        "vorname": "Hartlieb",
         "weiblich": false
     }
 }

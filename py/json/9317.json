@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1167819,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1709547,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.03.1991",
-        "matrikelnummer": 3158116,
+        "fakultaet": 4,
+        "geburtsdatum": "28.10.1990",
+        "matrikelnummer": 120259,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kremer",
-        "plzort": "53182 Bonn",
+        "nachname": "Blume",
+        "plzort": "69509 M\u00f6rlenbach",
         "sternchen": 0,
-        "strasse": "Fernsicht 8",
+        "strasse": "Vicedom 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Arzneimittelwissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
                 "fsem": 13
             }
         ],
-        "vorname": "Mania",
-        "weiblich": true
+        "vorname": "Matthias",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1636858,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2075566,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.03.1992",
-        "matrikelnummer": 2156643,
+        "fakultaet": 6,
+        "geburtsdatum": "19.01.1991",
+        "matrikelnummer": 181643,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sedlmeier",
-        "plzort": "53183 Bonn",
+        "nachname": "J\u00fcttner",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Schweriner Stra\u00dfe 21",
+        "strasse": "Fohlengartenstr. 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Arzneimittelwissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Alex",
-        "weiblich": false
+        "vorname": "Ivana",
+        "weiblich": true
     }
 }

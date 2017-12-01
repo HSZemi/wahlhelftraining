@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2852163,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1735524,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "18.05.1990",
-        "matrikelnummer": 2834129,
+        "fakultaet": 4,
+        "geburtsdatum": "07.02.1992",
+        "matrikelnummer": 2537138,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "W\u00f6rle",
-        "plzort": "53131 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Storz",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Rossertstra\u00dfe 31",
+        "strasse": "H\u00fchnerposten 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Irlanda",
+        "vorname": "Halina",
         "weiblich": true
     }
 }

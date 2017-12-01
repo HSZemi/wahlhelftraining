@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1062353,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2936484,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.02.1995",
-        "matrikelnummer": 3096456,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "27.03.1996",
+        "matrikelnummer": 2457098,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scheuermann",
-        "plzort": "53125 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Am M\u00fchlenbach 4",
+        "strasse": "Zum Sportplatz 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Allgemeine Sprachwissenschaft",
-                "fsem": 13
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 9
             }
         ],
-        "vorname": "Elisa",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

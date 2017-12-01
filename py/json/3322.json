@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2627659,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1846735,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.12.1993",
-        "matrikelnummer": 2404971,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "13.03.1994",
+        "matrikelnummer": 2149343,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinig",
-        "plzort": "53209 Bonn",
+        "nachname": "Gerhard",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-B\u00f6hm-Stra\u00dfe 0",
+        "strasse": "Porthstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 7
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Renilde",
-        "weiblich": true
+        "vorname": "Arwin",
+        "weiblich": false
     }
 }

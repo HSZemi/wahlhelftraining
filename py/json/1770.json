@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1938983,
+    "nummer": 2878086,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "14.08.1998",
-        "matrikelnummer": 1983436,
+        "fakultaet": 8,
+        "geburtsdatum": "25.05.1995",
+        "matrikelnummer": 2727261,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Benecke",
-        "plzort": "53208 Bonn",
+        "nachname": "Gr\u00fcnewald",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Nonnenpfad 5",
+        "strasse": "Jungfernleite 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Betti",
-        "weiblich": true
+        "vorname": "Arnhart",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2345203,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2470018,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.09.1998",
-        "matrikelnummer": 2256271,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "23.11.1993",
+        "matrikelnummer": 2373806,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Volk",
-        "plzort": "53174 Bonn",
+        "nachname": "Wichmann",
+        "plzort": "04617 Fockendorf",
         "sternchen": 0,
-        "strasse": "Eekholtesweg 0",
+        "strasse": "Am Badweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 2
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 3
             }
         ],
-        "vorname": "Angelina",
+        "vorname": "Desiree",
         "weiblich": true
     }
 }

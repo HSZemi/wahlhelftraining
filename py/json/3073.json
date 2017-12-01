@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1041674,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2807965,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.07.1990",
-        "matrikelnummer": 2851561,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "17.09.1996",
+        "matrikelnummer": 2498087,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwalbe",
-        "plzort": "53164 Bonn",
+        "nachname": "Kopf",
+        "plzort": "85293 Reichertshausen",
         "sternchen": 0,
-        "strasse": "Niederschleems 1",
+        "strasse": "Merkenstra\u00dfe 14a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 9
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 6
             }
         ],
-        "vorname": "Hermine",
-        "weiblich": true
+        "vorname": "Welfhard",
+        "weiblich": false
     }
 }

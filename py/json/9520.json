@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1312345,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1661030,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "08.11.1993",
-        "matrikelnummer": 2943770,
+        "fakultaet": 2,
+        "geburtsdatum": "18.09.1989",
+        "matrikelnummer": 3072449,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knuth",
-        "plzort": "26524 Halbemond",
+        "nachname": "Hering",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Wacholderweg 3",
+        "strasse": "Wilschdorfer Landstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Gerhart",
-        "weiblich": false
+        "vorname": "Heidegret",
+        "weiblich": true
     }
 }

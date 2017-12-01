@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1677527,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2206229,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.01.1986",
-        "matrikelnummer": 3096683,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "18.10.1992",
+        "matrikelnummer": 2570459,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bauch",
-        "plzort": "53164 Bonn",
+        "nachname": "Eckhardt",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Ostpreu\u00dfenstra\u00dfe 14",
+        "strasse": "Schubertshof 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Fred",
+        "vorname": "Hasko",
         "weiblich": false
     }
 }

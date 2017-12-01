@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1183340,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2948160,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "11.11.1992",
-        "matrikelnummer": 166720,
+        "fakultaet": 6,
+        "geburtsdatum": "28.10.1991",
+        "matrikelnummer": 2430693,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heppner",
-        "plzort": "53219 Bonn",
+        "nachname": "Pfisterer",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Dittersdorfer Stra\u00dfe 12",
+        "strasse": "Diemelstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Italienisch",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
                 "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
             }
         ],
-        "vorname": "Jonathan",
-        "weiblich": false
+        "vorname": "Nora",
+        "weiblich": true
     }
 }

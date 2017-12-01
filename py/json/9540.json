@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2681494,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2693919,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "07.04.1991",
-        "matrikelnummer": 16829,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "27.10.1989",
+        "matrikelnummer": 2351296,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thiele",
-        "plzort": "53221 Bonn",
+        "nachname": "Heilig",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Schunckstra\u00dfe 2",
+        "strasse": "Melanchthonplatz 19",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 3
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Seppl",
+        "vorname": "Haymo",
         "weiblich": false
     }
 }

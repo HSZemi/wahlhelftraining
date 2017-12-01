@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2577880,
+    "nummer": 2621512,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "12.03.1983",
-        "matrikelnummer": 2353205,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Bertsch",
-        "plzort": "84329 Wurmannsquick",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "22.11.1996",
+        "matrikelnummer": 2066628,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Buck",
+        "plzort": "56759 Laubach",
         "sternchen": 0,
-        "strasse": "Heinrich-Tessenow-Stra\u00dfe 28",
+        "strasse": "Am Mispelbusch 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Sigrid",
-        "weiblich": true
+        "vorname": "Richard",
+        "weiblich": false
     }
 }

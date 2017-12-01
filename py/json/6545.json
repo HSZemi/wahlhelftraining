@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1835183,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2440740,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.07.1989",
-        "matrikelnummer": 2094032,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "19.08.1996",
+        "matrikelnummer": 1966674,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiemann",
-        "plzort": "53216 Bonn",
+        "nachname": "Senger",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Stadtblick 1",
+        "strasse": "Br\u00fchlsche Terrasse 2",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Informatik",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 4
+                "fach": "Life Science Informatics",
+                "fsem": 12
             }
         ],
-        "vorname": "Bernhart",
+        "vorname": "Chris",
         "weiblich": false
     }
 }

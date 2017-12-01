@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1367305,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1446062,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "15.10.1994",
-        "matrikelnummer": 2830659,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "07.10.1998",
+        "matrikelnummer": 2858829,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kroll",
-        "plzort": "53168 Bonn",
+        "nachname": "Hierl",
+        "plzort": "71717 Beilstein",
         "sternchen": 0,
-        "strasse": "Palmstra\u00dfe 4",
+        "strasse": "Helene-Lange-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Philipp",
-        "weiblich": false
+        "vorname": "Melissa",
+        "weiblich": true
     }
 }

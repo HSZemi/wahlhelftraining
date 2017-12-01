@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2117867,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2893426,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.10.1990",
-        "matrikelnummer": 1905295,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "15.05.1999",
+        "matrikelnummer": 2368223,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Deckert",
-        "plzort": "53153 Bonn",
+        "nachname": "Lamprecht",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Nonnenbr\u00fccke 0",
+        "strasse": "Berg.-Gladbacher-Str. 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Osteurop\u00e4ische Geschichte",
-                "fsem": 11
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Wanda",
+        "vorname": "Christella",
         "weiblich": true
     }
 }

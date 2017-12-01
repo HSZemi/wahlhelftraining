@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2464984,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2740024,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "18.03.1985",
-        "matrikelnummer": 3076732,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "16.05.1999",
+        "matrikelnummer": 2817333,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behnke",
-        "plzort": "53111 Bonn",
+        "nachname": "Goldschmidt",
+        "plzort": "19089 G\u00f6hren",
         "sternchen": 0,
-        "strasse": "L\u00fcckendorfer Stra\u00dfe 1",
+        "strasse": "Reuterweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Asienwissenschaften",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Michaele",
-        "weiblich": true
+        "vorname": "Gerhardt",
+        "weiblich": false
     }
 }

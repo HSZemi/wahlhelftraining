@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1597653,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2608673,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "19.07.1997",
-        "matrikelnummer": 2702878,
+        "fakultaet": 8,
+        "geburtsdatum": "25.04.1987",
+        "matrikelnummer": 2363587,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ahrens",
-        "plzort": "53149 Bonn",
+        "nachname": "Hunger",
+        "plzort": "14974 Thyrow",
         "sternchen": 0,
-        "strasse": "Girlitzweg 1",
+        "strasse": "Lenbachstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 11
             },
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Betina",
+        "vorname": "Siegtraud",
         "weiblich": true
     }
 }

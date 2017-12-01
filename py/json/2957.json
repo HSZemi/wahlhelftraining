@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1776040,
-    "semester": "Sommersemester 2016",
+    "nummer": 2727077,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "25.05.1993",
-        "matrikelnummer": 2913313,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "19.04.1996",
+        "matrikelnummer": 3059917,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Herzberg",
-        "plzort": "53111 Bonn",
+        "nachname": "Klostermann",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Waldwiesenstr. 16",
+        "strasse": "Teichrosenweg 0",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Biologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Danica",
+        "vorname": "Ehrengard",
         "weiblich": true
     }
 }

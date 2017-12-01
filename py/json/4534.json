@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1897330,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1478254,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "27.06.1993",
-        "matrikelnummer": 2920849,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wild",
-        "plzort": "53196 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "16.04.1983",
+        "matrikelnummer": 2681782,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Breunig",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00f6scherstra\u00dfe 15",
+        "strasse": "Am Hofefeld 32",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Nutzpflanzenwissenschaften",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie",
+                "fsem": 3
             }
         ],
-        "vorname": "Cilli",
-        "weiblich": true
+        "vorname": "Siegulf",
+        "weiblich": false
     }
 }

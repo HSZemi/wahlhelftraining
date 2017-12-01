@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1210941,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2251939,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.07.1991",
-        "matrikelnummer": 2300990,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kopf",
-        "plzort": "55471 W\u00fcschheim",
+        "fakultaet": 1,
+        "geburtsdatum": "20.02.1991",
+        "matrikelnummer": 2672879,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Walch",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Heidenauer Stra\u00dfe 14",
+        "strasse": "Hainsberger Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Dietmute",
-        "weiblich": true
+        "vorname": "Thoralf",
+        "weiblich": false
     }
 }

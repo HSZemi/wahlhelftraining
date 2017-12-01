@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2665375,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2744514,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "24.06.1993",
-        "matrikelnummer": 2317542,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "25.09.1994",
+        "matrikelnummer": 2217476,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Arendt",
-        "plzort": "53140 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Schulte-H\u00f6he 4",
+        "strasse": "Wartenaubr\u00fccke 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 11
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Eckehardt",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

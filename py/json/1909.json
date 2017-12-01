@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2523957,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2366778,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.03.1993",
-        "matrikelnummer": 12920,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "02.11.1989",
+        "matrikelnummer": 2323119,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcper",
-        "plzort": "53208 Bonn",
+        "nachname": "Basler",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Ing. Julius Raab-Stra\u00dfe 1",
+        "strasse": "Bahnstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 3
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Edelburg",
+        "vorname": "Paola",
         "weiblich": true
     }
 }

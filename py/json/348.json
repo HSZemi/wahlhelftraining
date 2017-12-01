@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2065906,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2513044,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.05.1999",
-        "matrikelnummer": 1921031,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "26.10.1986",
+        "matrikelnummer": 3062990,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Christ",
-        "plzort": "53139 Bonn",
+        "nachname": "Heinen",
+        "plzort": "65582 Hambach",
         "sternchen": 0,
-        "strasse": "Malapertstra\u00dfe 1",
+        "strasse": "Adalbert-Stifter-Stra\u00dfe 55",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Spanische Kultur und europ\u00e4ische Identit\u00e4t",
-                "fsem": 6
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Elia",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

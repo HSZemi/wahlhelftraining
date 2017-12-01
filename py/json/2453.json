@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1364100,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1334021,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "24.09.1988",
-        "matrikelnummer": 2417938,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "26.10.1995",
+        "matrikelnummer": 3161092,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buchholz",
-        "plzort": "53194 Bonn",
+        "nachname": "Heppner",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Trachenberger Platz 7",
+        "strasse": "Gr\u00fcndenseestra\u00dfe 11c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 7
             },
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 2
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Eckart",
-        "weiblich": false
+        "vorname": "Gisela",
+        "weiblich": true
     }
 }

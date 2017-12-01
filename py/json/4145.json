@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1092230,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2651084,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "24.06.1999",
-        "matrikelnummer": 2918081,
+        "geburtsdatum": "10.12.1996",
+        "matrikelnummer": 3076860,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krell",
-        "plzort": "53156 Bonn",
+        "nachname": "Schramm",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Ebereschenweg 13",
+        "strasse": "Am Friedenshang 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Withold",
-        "weiblich": false
+        "vorname": "Annelore",
+        "weiblich": true
     }
 }

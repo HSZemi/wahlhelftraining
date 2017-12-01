@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2139677,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1407826,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "09.11.1996",
-        "matrikelnummer": 2243257,
+        "geburtsdatum": "14.04.1987",
+        "matrikelnummer": 1997398,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Groth",
-        "plzort": "53151 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Engelhard",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "G\u00f6ttengasse 6",
+        "strasse": "Hans-B\u00f6ckler-Str. 12",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geowissenschaften",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
             }
         ],
-        "vorname": "Liselotte",
+        "vorname": "Connie",
         "weiblich": true
     }
 }

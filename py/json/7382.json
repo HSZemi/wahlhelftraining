@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1893403,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2523880,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.08.1985",
-        "matrikelnummer": 2753046,
+        "fakultaet": 9,
+        "geburtsdatum": "18.08.1989",
+        "matrikelnummer": 2992754,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Harth",
-        "plzort": "63691 Ranstadt",
+        "nachname": "Knobloch",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Humbrachtstra\u00dfe 11",
+        "strasse": "Am Kampmoor 9",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Renaissance-Studien",
+                "fsem": 1
             }
         ],
-        "vorname": "Wingolf",
-        "weiblich": false
+        "vorname": "Marika",
+        "weiblich": true
     }
 }

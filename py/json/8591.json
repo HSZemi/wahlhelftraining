@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1425417,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1092248,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.02.1993",
-        "matrikelnummer": 2615044,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "28.01.1992",
+        "matrikelnummer": 2453045,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seger",
-        "plzort": "53195 Bonn",
+        "nachname": "Hansen",
+        "plzort": "66798 Wallerfangen",
         "sternchen": 0,
-        "strasse": "Landsberger Stra\u00dfe 10",
+        "strasse": "Am Werk 15",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Wendelinus",
-        "weiblich": false
+        "vorname": "Birgitta",
+        "weiblich": true
     }
 }

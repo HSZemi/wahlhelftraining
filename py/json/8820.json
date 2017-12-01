@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2042036,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2020567,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.06.1996",
-        "matrikelnummer": 3089496,
+        "fakultaet": 2,
+        "geburtsdatum": "03.07.1989",
+        "matrikelnummer": 2435467,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Noe",
-        "plzort": "45143 Essen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinicke",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Kantstr. 29",
+        "strasse": "Baumtwiete 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Eberhard",
-        "weiblich": false
+        "vorname": "Denise",
+        "weiblich": true
     }
 }

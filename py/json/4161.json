@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1976394,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2433602,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.01.1994",
-        "matrikelnummer": 2371843,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "02.04.1996",
+        "matrikelnummer": 2785374,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grieger",
-        "plzort": "39291 Ziepel",
+        "nachname": "Reischl",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Victor-Klemperer-Stra\u00dfe 0a",
+        "strasse": "Wilhelmsbader Weg 11",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Klothilde",
+        "vorname": "Heilwig",
         "weiblich": true
     }
 }

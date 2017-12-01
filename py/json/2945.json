@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1759324,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2622880,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "20.11.1999",
-        "matrikelnummer": 2168015,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "16.11.1987",
+        "matrikelnummer": 178731,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stelzer",
-        "plzort": "53204 Bonn",
+        "nachname": "Bickel",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-May-Platz 3",
+        "strasse": "Michelsberger Str. 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
                 "fsem": 9
             }
         ],
-        "vorname": "Bertin",
+        "vorname": "Martin",
         "weiblich": false
     }
 }

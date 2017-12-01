@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1463820,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2599516,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "24.06.1997",
-        "matrikelnummer": 2224116,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "23.10.1990",
+        "matrikelnummer": 2891297,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tiemann",
-        "plzort": "06528 Horla",
+        "nachname": "Strauss",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Dr. Hubergasse 1",
+        "strasse": "Romroder Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 11
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 6
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Benedict",
+        "vorname": "Hieronimus",
         "weiblich": false
     }
 }

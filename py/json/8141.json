@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1487380,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1170308,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "10.04.1993",
-        "matrikelnummer": 3084305,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "14.03.1994",
+        "matrikelnummer": 2966433,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fick",
-        "plzort": "53209 Bonn",
+        "nachname": "Pr\u00fcfer",
+        "plzort": "26345 Bockhorn",
         "sternchen": 0,
-        "strasse": "Paul-Bode-Stra\u00dfe 5",
+        "strasse": "Am Lehmberg 7",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Biologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechisch",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Klassische Philologie/Griechisch",
+                "fsem": 1
             }
         ],
-        "vorname": "Rudenz",
-        "weiblich": false
+        "vorname": "Manja",
+        "weiblich": true
     }
 }

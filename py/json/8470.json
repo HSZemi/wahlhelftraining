@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1619753,
-    "semester": "Sommersemester 2016",
+    "nummer": 2287636,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.09.1999",
-        "matrikelnummer": 2148022,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "08.08.1999",
+        "matrikelnummer": 2978615,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinert",
-        "plzort": "53145 Bonn",
+        "nachname": "Bretschneider",
+        "plzort": "57638 Obernau",
         "sternchen": 0,
-        "strasse": "Gm\u00fcnder Stra\u00dfe 3",
+        "strasse": "H\u00f6rnchenweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Aaron",
-        "weiblich": false
+        "vorname": "Susi",
+        "weiblich": true
     }
 }

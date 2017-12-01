@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2510665,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2711291,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "14.06.1993",
-        "matrikelnummer": 2046487,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "08.03.1987",
+        "matrikelnummer": 16723,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wiedmann",
-        "plzort": "53139 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Brill",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Niddagaustra\u00dfe 42",
+        "strasse": "Torontobr\u00fccke 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Hispanistik",
+                "fsem": 8
             }
         ],
-        "vorname": "Martine",
-        "weiblich": true
+        "vorname": "Holm",
+        "weiblich": false
     }
 }

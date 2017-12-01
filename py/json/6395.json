@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1212094,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1518938,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.05.1992",
-        "matrikelnummer": 2842645,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "22.01.1993",
+        "matrikelnummer": 1901979,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schiefer",
-        "plzort": "14913 Herbersdorf",
+        "nachname": "Flick",
+        "plzort": "84332 Hebertsfelden",
         "sternchen": 0,
-        "strasse": "Weistropper Weg 1",
+        "strasse": "Dr. Karl Renner-Stra\u00dfe 5",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 11
+                "fach": "Indologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 1
             }
         ],
-        "vorname": "Rosetraut",
-        "weiblich": true
+        "vorname": "Heinfried",
+        "weiblich": false
     }
 }

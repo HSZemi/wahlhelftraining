@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2602072,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1494649,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.08.1994",
-        "matrikelnummer": 3122230,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "22.06.1999",
+        "matrikelnummer": 2588058,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seyfarth",
-        "plzort": "27308 Kirchlinteln",
+        "nachname": "Hei\u00df",
+        "plzort": "24888 Loit",
         "sternchen": 0,
-        "strasse": "Heinz-Saalig-Weg 3",
+        "strasse": "Hertzstr. 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Osteurop\u00e4ische Geschichte",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 4
             }
         ],
-        "vorname": "Beat",
-        "weiblich": false
+        "vorname": "Berthilde",
+        "weiblich": true
     }
 }

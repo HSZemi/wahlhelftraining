@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1172977,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1051360,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "12.06.1987",
-        "matrikelnummer": 2772351,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "07.05.1995",
+        "matrikelnummer": 1909127,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Demir",
-        "plzort": "53125 Bonn",
+        "nachname": "Siemers",
+        "plzort": "34590 Wabern",
         "sternchen": 0,
-        "strasse": "Satzgasse 0",
+        "strasse": "Meriandamm 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Bardo",
-        "weiblich": false
+        "vorname": "Siegfriede",
+        "weiblich": true
     }
 }

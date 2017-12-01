@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1051156,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1477069,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.09.1991",
-        "matrikelnummer": 15593,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "08.06.1988",
+        "matrikelnummer": 2662770,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kahle",
-        "plzort": "53208 Bonn",
+        "nachname": "Gregor",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Basteistra\u00dfe 11",
+        "strasse": "Am Rathaus 15",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 10
             }
         ],
-        "vorname": "Ingetraud",
+        "vorname": "Inga",
         "weiblich": true
     }
 }

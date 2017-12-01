@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1614394,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1989008,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.07.1991",
-        "matrikelnummer": 2263769,
+        "fakultaet": 5,
+        "geburtsdatum": "18.03.1995",
+        "matrikelnummer": 2161640,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckel",
-        "plzort": "53190 Bonn",
+        "nachname": "Semmler",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Alsterdorfer Stra\u00dfe 9e",
+        "strasse": "Klosterfeldstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "English Studies",
+                "fsem": 9
             }
         ],
-        "vorname": "Rothmund",
-        "weiblich": false
+        "vorname": "Rosalia",
+        "weiblich": true
     }
 }

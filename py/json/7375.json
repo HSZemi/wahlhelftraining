@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2061285,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1403529,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.09.1996",
-        "matrikelnummer": 2385618,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "07.08.1991",
+        "matrikelnummer": 2927433,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jakob",
-        "plzort": "53202 Bonn",
+        "nachname": "Hirschmann",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Schlinkenweg 5",
+        "strasse": "Apfelweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
                 "fsem": 13
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 13
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 2
             }
         ],
-        "vorname": "Ester",
-        "weiblich": true
+        "vorname": "Ulvi",
+        "weiblich": false
     }
 }

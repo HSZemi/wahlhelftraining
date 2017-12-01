@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1445479,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1364779,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.10.1992",
-        "matrikelnummer": 2424624,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "02.10.1994",
+        "matrikelnummer": 2605865,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "W\u00f6lk",
-        "plzort": "53167 Bonn",
+        "nachname": "Meder",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Am Pfarrlehn 26",
+        "strasse": "Lukasstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Steve",
+        "vorname": "Falk",
         "weiblich": false
     }
 }

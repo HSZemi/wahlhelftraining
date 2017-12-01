@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2326875,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2013439,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.03.1999",
-        "matrikelnummer": 2686224,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "27.03.1999",
+        "matrikelnummer": 3030214,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gebauer",
-        "plzort": "53119 Bonn",
+        "nachname": "Fath",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Niedernhauser Stra\u00dfe 2",
+        "strasse": "Altleuben 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Suzanne",
-        "weiblich": true
+        "vorname": "Guntram",
+        "weiblich": false
     }
 }

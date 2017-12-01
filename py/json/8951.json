@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1636971,
+    "nummer": 1213612,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.06.1988",
-        "matrikelnummer": 2375937,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "11.01.1992",
+        "matrikelnummer": 2531357,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hesse",
-        "plzort": "53130 Bonn",
+        "nachname": "Brauner",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Andreas-Lang-Steig 33",
+        "strasse": "Am Luftbr\u00fcckendenkmal 4",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Erich",
-        "weiblich": false
+        "vorname": "Marinette",
+        "weiblich": true
     }
 }

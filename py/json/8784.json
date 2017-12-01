@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1680668,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2529438,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.10.1996",
-        "matrikelnummer": 2857735,
+        "fakultaet": 3,
+        "geburtsdatum": "17.12.1999",
+        "matrikelnummer": 16664,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Drechsel",
-        "plzort": "56479 Irmtraut",
+        "nachname": "Lang",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Kelkheimer Stra\u00dfe 5",
+        "strasse": "Kreuzerhohl 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 10
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 5
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Guido",
-        "weiblich": false
+        "vorname": "Margitte",
+        "weiblich": true
     }
 }

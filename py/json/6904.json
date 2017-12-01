@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2974554,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2969327,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "21.10.1992",
-        "matrikelnummer": 1972043,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "01.01.1994",
+        "matrikelnummer": 183022,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kast",
-        "plzort": "53145 Bonn",
+        "nachname": "Bolz",
+        "plzort": "59427 Unna",
         "sternchen": 0,
-        "strasse": "Fl\u00f6\u00dfergasse 3",
+        "strasse": "Ludwig-Zamenhof-Weg 5e",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Ludolf",
+        "vorname": "Folkhardt",
         "weiblich": false
     }
 }

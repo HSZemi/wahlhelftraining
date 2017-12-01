@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2153156,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2219830,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.08.1993",
-        "matrikelnummer": 2758820,
-        "mehrfachausfertigung": 4,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "13.08.1993",
+        "matrikelnummer": 120716,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krah",
-        "plzort": "53222 Bonn",
+        "nachname": "Dannenberg",
+        "plzort": "25863 Langene\u00df",
         "sternchen": 0,
-        "strasse": "H\u00f6gerdamm 0",
+        "strasse": "Demblerstr. 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Ernestine",
-        "weiblich": true
+        "vorname": "Wigbert",
+        "weiblich": false
     }
 }

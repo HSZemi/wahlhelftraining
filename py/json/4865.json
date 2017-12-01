@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1665559,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1101385,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.07.1995",
-        "matrikelnummer": 2230709,
+        "fakultaet": 2,
+        "geburtsdatum": "28.10.1996",
+        "matrikelnummer": 2795551,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meyer",
-        "plzort": "53128 Bonn",
+        "nachname": "Reindl",
+        "plzort": "37355 Vollenborn",
         "sternchen": 0,
-        "strasse": "Hermann-Gro\u00dfe-Stra\u00dfe 5b",
+        "strasse": "Andreas-Gryphius-Stra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Elbert",
+        "vorname": "Quintus",
         "weiblich": false
     }
 }

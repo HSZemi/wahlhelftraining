@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2336803,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1224274,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.03.1996",
-        "matrikelnummer": 2544665,
+        "fakultaet": 6,
+        "geburtsdatum": "10.11.1988",
+        "matrikelnummer": 3086659,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Offermann",
-        "plzort": "17268 Grunewald",
+        "nachname": "Brehmer",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Hinter der Linah 14",
+        "strasse": "Trakehner Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Physik",
+                "fsem": 9
             }
         ],
-        "vorname": "Rainer",
-        "weiblich": false
+        "vorname": "Luise",
+        "weiblich": true
     }
 }

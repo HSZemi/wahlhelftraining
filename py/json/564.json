@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1350730,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1964287,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "10.07.1993",
-        "matrikelnummer": 2284875,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "24.12.1999",
+        "matrikelnummer": 2812127,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwind",
-        "plzort": "53163 Bonn",
+        "nachname": "de",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Schurichtstra\u00dfe 1",
+        "strasse": "Stupanusstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 11
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Gotthilf",
-        "weiblich": false
+        "vorname": "Hella",
+        "weiblich": true
     }
 }

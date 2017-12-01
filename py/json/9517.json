@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2677264,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1755102,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.05.1986",
-        "matrikelnummer": 15774,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "24.10.1996",
+        "matrikelnummer": 2407182,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00fccker",
-        "plzort": "91560 Heilsbronn",
+        "nachname": "Holzner",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Lombardsbr\u00fccke 22",
+        "strasse": "Guerickestra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 3
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Heyko",
-        "weiblich": false
+        "vorname": "Liesbeth",
+        "weiblich": true
     }
 }

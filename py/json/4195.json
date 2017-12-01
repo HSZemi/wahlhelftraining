@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2066300,
+    "nummer": 1729369,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "06.05.1997",
-        "matrikelnummer": 2520277,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "02.03.1995",
+        "matrikelnummer": 1941210,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6hnke",
-        "plzort": "53137 Bonn",
+        "nachname": "D\u00fcring",
+        "plzort": "23936 Bernstorf",
         "sternchen": 0,
-        "strasse": "Blagnac-Br\u00fccke 1",
+        "strasse": "Podemuser Hauptstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Mathematik",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Latein",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Chemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Marie-Luise",
-        "weiblich": true
+        "vorname": "Arne",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2663826,
+    "nummer": 1008151,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.11.1992",
-        "matrikelnummer": 2952352,
+        "fakultaet": 3,
+        "geburtsdatum": "25.08.1999",
+        "matrikelnummer": 3038749,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frank",
-        "plzort": "53150 Bonn",
+        "nachname": "Schenke",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Ferdinand-Porsche-Stra\u00dfe 4c",
+        "strasse": "Kasseler Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Heinfried",
+        "vorname": "Ferhard",
         "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2770712,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1333422,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "14.08.1992",
-        "matrikelnummer": 2533473,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "09.05.1998",
+        "matrikelnummer": 2353720,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schurig",
-        "plzort": "74423 Obersontheim",
+        "nachname": "Bolz",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Dungerstra\u00dfe 0",
+        "strasse": "Maxener Stra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Ramona",
+        "vorname": "Benedikta",
         "weiblich": true
     }
 }

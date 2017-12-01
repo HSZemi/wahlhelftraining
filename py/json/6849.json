@@ -4,33 +4,28 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2364135,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2515796,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "16.02.1996",
-        "matrikelnummer": 2788303,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "08.04.1995",
+        "matrikelnummer": 2562173,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gro\u00df",
-        "plzort": "53151 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Blum",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Diebsgrundweg 2",
+        "strasse": "Hofstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Judith",
-        "weiblich": true
+        "vorname": "Winfried",
+        "weiblich": false
     }
 }

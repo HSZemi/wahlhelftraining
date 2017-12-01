@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1110834,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2766582,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "02.07.1995",
-        "matrikelnummer": 2481170,
+        "fakultaet": 2,
+        "geburtsdatum": "01.11.1999",
+        "matrikelnummer": 16734,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Manke",
-        "plzort": "53161 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Breidenbach",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Adolf-Leweke-Stra\u00dfe 4",
+        "strasse": "Hasselhorstweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Hadumod",
+        "vorname": "Elfgard",
         "weiblich": true
     }
 }

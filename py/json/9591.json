@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1735167,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2162950,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "10.11.1991",
-        "matrikelnummer": 2407066,
+        "geburtsdatum": "17.01.1995",
+        "matrikelnummer": 2849537,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Metz",
-        "plzort": "53129 Bonn",
+        "nachname": "Titze",
+        "plzort": "85764 Oberschlei\u00dfheim",
         "sternchen": 0,
-        "strasse": "Friedrich-Press-Stra\u00dfe 47",
+        "strasse": "Hachmannplatz 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Kunstgeschichte",
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
                 "fsem": 1
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 3
             }
         ],
-        "vorname": "Joschka",
-        "weiblich": false
+        "vorname": "Marli",
+        "weiblich": true
     }
 }

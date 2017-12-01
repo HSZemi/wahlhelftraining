@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2641310,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2456260,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.03.1994",
-        "matrikelnummer": 2075476,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "06.05.1989",
+        "matrikelnummer": 1932380,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sager",
-        "plzort": "53147 Bonn",
+        "nachname": "Kappel",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Marterlweg 16",
+        "strasse": "Sonnentaustra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Sighard",
+        "vorname": "Frieder",
         "weiblich": false
     }
 }

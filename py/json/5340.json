@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2777431,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2620032,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "24.03.1991",
-        "matrikelnummer": 2668075,
+        "fakultaet": 6,
+        "geburtsdatum": "15.07.1990",
+        "matrikelnummer": 2152673,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gutmann",
-        "plzort": "53152 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "K\u00f6nig",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Sudhausweg 18b",
+        "strasse": "Faulbrunnenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 12
             }
         ],
-        "vorname": "Helmtraud",
+        "vorname": "T\u00fcrkan",
         "weiblich": true
     }
 }

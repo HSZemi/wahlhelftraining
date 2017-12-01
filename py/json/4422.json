@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1715529,
-    "semester": "Sommersemester 2016",
+    "nummer": 1608311,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "19.03.1995",
-        "matrikelnummer": 2683253,
+        "fakultaet": 5,
+        "geburtsdatum": "10.10.1993",
+        "matrikelnummer": 1904045,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wunderlich",
-        "plzort": "53138 Bonn",
+        "nachname": "Paulsen",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Br\u00fchler Stra\u00dfe 25",
+        "strasse": "Stra\u00dfe des 17.Juni 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
                 "fsem": 11
             }
         ],
-        "vorname": "Roselies",
-        "weiblich": true
+        "vorname": "Siegert",
+        "weiblich": false
     }
 }

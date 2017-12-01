@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2958427,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2153718,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.02.1999",
-        "matrikelnummer": 3115786,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "11.10.1999",
+        "matrikelnummer": 16512,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hertwig",
-        "plzort": "53200 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Telemannstra\u00dfe 15",
+        "strasse": "Ri\u00dfweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Sybil",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

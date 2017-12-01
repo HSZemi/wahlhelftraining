@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1389190,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2442662,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "19.07.1999",
-        "matrikelnummer": 2473299,
+        "fakultaet": 5,
+        "geburtsdatum": "09.12.1994",
+        "matrikelnummer": 2200322,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hammes",
-        "plzort": "53203 Bonn",
+        "nachname": "Heinen",
+        "plzort": "70329 Stuttgart",
         "sternchen": 0,
-        "strasse": "Eichenweg 1",
+        "strasse": "Ezzostr. 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Nutzpflanzenwissenschaften",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Englische Philologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Italienisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Carolin",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

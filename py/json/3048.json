@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1822357,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1641997,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "26.06.1990",
-        "matrikelnummer": 2410396,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "07.05.1992",
+        "matrikelnummer": 2217031,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langguth",
-        "plzort": "53190 Bonn",
+        "nachname": "Keitel",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bildlein 6",
+        "strasse": "Casparsmeyerstr. 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 7
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 4
             }
         ],
-        "vorname": "Hanns",
+        "vorname": "Timmo",
         "weiblich": false
     }
 }

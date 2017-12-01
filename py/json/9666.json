@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2958565,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2945610,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "03.07.1991",
-        "matrikelnummer": 2829928,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "02.08.1994",
+        "matrikelnummer": 2833602,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brill",
-        "plzort": "76829 Ranschbach",
+        "nachname": "Feldmeier",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Joseph Haydn-Platz 7",
+        "strasse": "Am Kl\u00f6terbusch 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Allgemeine Sprachwissenschaft",
                 "fsem": 4
             }
         ],
-        "vorname": "Ayse",
-        "weiblich": true
+        "vorname": "Sighard",
+        "weiblich": false
     }
 }

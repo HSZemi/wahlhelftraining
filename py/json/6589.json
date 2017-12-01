@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2739594,
-    "semester": "Sommersemester 2016",
+    "nummer": 2147046,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "18.08.1996",
-        "matrikelnummer": 2448546,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "17.07.1997",
+        "matrikelnummer": 2089007,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinzelmann",
-        "plzort": "53114 Bonn",
+        "nachname": "Klose",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Rudolph-Stra\u00dfe 4c",
+        "strasse": "Memmelsdorfer Str. 24",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Dagomar",
-        "weiblich": false
+        "vorname": "Evelin",
+        "weiblich": true
     }
 }

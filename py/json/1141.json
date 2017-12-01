@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2126115,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1304708,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "12.04.1990",
-        "matrikelnummer": 11385,
+        "geburtsdatum": "21.04.1994",
+        "matrikelnummer": 1969153,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "R\u00f6der",
-        "plzort": "53117 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Voigtl\u00e4nder",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Moorkoppel 1",
+        "strasse": "Lomnitzer Stra\u00dfe 29",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
                 "fsem": 3
             }
         ],
-        "vorname": "Denis",
+        "vorname": "Barthold",
         "weiblich": false
     }
 }

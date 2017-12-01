@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1609456,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1287490,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.09.1990",
-        "matrikelnummer": 3084236,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "21.03.1997",
+        "matrikelnummer": 1985757,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grund",
-        "plzort": "53196 Bonn",
+        "nachname": "Klose",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Am W\u00e4ldchen 6",
+        "strasse": "Zur Rodelbahn 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Alte Geschichte",
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Altamerikanistik und Ethnologie",
                 "fsem": 6
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "",
+                "fach": "Germanistik",
                 "fsem": 4
             }
         ],
-        "vorname": "Kora",
+        "vorname": "Jadwiga",
         "weiblich": true
     }
 }

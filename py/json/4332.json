@@ -1,36 +1,36 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2512524,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1228442,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "03.09.1996",
-        "matrikelnummer": 3093378,
+        "geburtsdatum": "11.01.1995",
+        "matrikelnummer": 2921195,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Albers",
-        "plzort": "53198 Bonn",
+        "nachname": "Mittelst\u00e4dt",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Ostparkstra\u00dfe 0b",
+        "strasse": "Mittelsteg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 10
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Siglind",
-        "weiblich": true
+        "vorname": "Burkardt",
+        "weiblich": false
     }
 }

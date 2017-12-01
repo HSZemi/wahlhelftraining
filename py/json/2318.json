@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2668400,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2502991,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.05.1996",
-        "matrikelnummer": 2561825,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "27.10.1991",
+        "matrikelnummer": 2407597,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wunderlich",
-        "plzort": "65624 Altendiez",
+        "nachname": "Br\u00fcmmer",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Martin-Henrich-Anlage 19",
+        "strasse": "Striesener Winkel 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 10
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Latein",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 9
             }
         ],
-        "vorname": "Gertraut",
-        "weiblich": true
+        "vorname": "Burkard",
+        "weiblich": false
     }
 }

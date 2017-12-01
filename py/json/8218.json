@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1530994,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1718965,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "05.06.1993",
-        "matrikelnummer": 2702223,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Holtmann",
-        "plzort": "91174 Spalt",
+        "fakultaet": 5,
+        "geburtsdatum": "23.12.1991",
+        "matrikelnummer": 3159516,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Ulrich",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Dunckersweg 4c",
+        "strasse": "Parsevalstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Sprachlernforschung",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "English Studies",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Hubertine",
+        "vorname": "Justina",
         "weiblich": true
     }
 }

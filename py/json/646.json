@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1322460,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2075993,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.02.1991",
-        "matrikelnummer": 11266,
+        "fakultaet": 7,
+        "geburtsdatum": "03.07.1999",
+        "matrikelnummer": 3010265,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Mai",
-        "plzort": "93192 Wald",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Brix",
+        "plzort": "54426 Berglicht",
         "sternchen": 0,
-        "strasse": "Fritz-Meinhardt-Stra\u00dfe 2",
+        "strasse": "An den Birken 19",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Immunobiology: from molecules to integrative systems",
-                "fsem": 1
+                "fach": "Agricultural and Food Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Betti",
-        "weiblich": true
+        "vorname": "Gunhard",
+        "weiblich": false
     }
 }

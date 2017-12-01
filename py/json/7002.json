@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1755551,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2350484,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.11.1995",
-        "matrikelnummer": 1955284,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "03.12.1999",
+        "matrikelnummer": 2248680,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scholten",
-        "plzort": "17322 Blankensee",
+        "nachname": "B\u00f6hnke",
+        "plzort": "36419 Schleid",
         "sternchen": 0,
-        "strasse": "Neuer Me\u00dfweg 3",
+        "strasse": "Dammhauser Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Heide",
+        "vorname": "Thilde",
         "weiblich": true
     }
 }

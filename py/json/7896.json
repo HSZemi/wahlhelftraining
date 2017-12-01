@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1245596,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1209306,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "27.08.1999",
-        "matrikelnummer": 3023995,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "06.02.1992",
+        "matrikelnummer": 2139535,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwenke",
-        "plzort": "56479 Waldm\u00fchlen",
+        "nachname": "Sch\u00e4fer",
+        "plzort": "55487 Sohren",
         "sternchen": 0,
-        "strasse": "Stephan-Heise-Stra\u00dfe 4",
+        "strasse": "Apfelweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Interreligi\u00f6se Studien - Philosophie der Religionen",
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
                 "fsem": 5
             }
         ],
-        "vorname": "Trautlind",
+        "vorname": "Mirjana",
         "weiblich": true
     }
 }

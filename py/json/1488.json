@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2505857,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2306063,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "15.04.1988",
-        "matrikelnummer": 2041338,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "21.04.1999",
+        "matrikelnummer": 120300,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "P\u00e4tzold",
-        "plzort": "44309 Dortmund",
+        "nachname": "Wiedenmann",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Rudolfstra\u00dfe 0",
+        "strasse": "Institutsgasse 6",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 9
+                "fach": "Informatik",
+                "fsem": 4
             }
         ],
-        "vorname": "Irmtraut",
-        "weiblich": true
+        "vorname": "Mathias",
+        "weiblich": false
     }
 }

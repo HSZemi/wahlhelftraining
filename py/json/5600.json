@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1229387,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1442083,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "06.07.1995",
-        "matrikelnummer": 2181106,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "12.07.1999",
+        "matrikelnummer": 2746956,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gundlach",
-        "plzort": "53137 Bonn",
+        "nachname": "Nelles",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Gohliser Stra\u00dfe 22",
+        "strasse": "H\u00fchndorfer Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
             }
         ],
-        "vorname": "Ruppert",
-        "weiblich": false
+        "vorname": "Wendeline",
+        "weiblich": true
     }
 }

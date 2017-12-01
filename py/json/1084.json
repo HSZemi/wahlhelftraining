@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1689348,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1926388,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "03.10.1989",
-        "matrikelnummer": 152645,
+        "fakultaet": 9,
+        "geburtsdatum": "02.11.1999",
+        "matrikelnummer": 149597,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Markgraf",
-        "plzort": "53114 Bonn",
+        "nachname": "Menges",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Am Alten Elbarm 14",
+        "strasse": "Am Alten Zoll 12",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Mathematik",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Italienisch",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Jannick",
+        "vorname": "Hartwin",
         "weiblich": false
     }
 }

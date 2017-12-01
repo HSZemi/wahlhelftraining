@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1842506,
+    "nummer": 1798969,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.04.1996",
-        "matrikelnummer": 2168402,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "11.03.1996",
+        "matrikelnummer": 2392616,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hagemann",
-        "plzort": "53203 Bonn",
+        "nachname": "Mucha",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Lina-Meyer-Stra\u00dfe 12",
+        "strasse": "Hinter der Linah 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
+                "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
-                "fsem": 4
+                "fsem": 13
             }
         ],
-        "vorname": "Sieglind",
-        "weiblich": true
+        "vorname": "Florenz",
+        "weiblich": false
     }
 }

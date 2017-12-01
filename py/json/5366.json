@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2252797,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1071213,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "26.12.1993",
-        "matrikelnummer": 17641,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "11.05.1992",
+        "matrikelnummer": 2558329,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Werth",
-        "plzort": "99638 B\u00fcchel",
+        "nachname": "Sch\u00fcmann",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Blankenheimer Stra\u00dfe 2",
+        "strasse": "Rahmhofstra\u00dfe 26e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 12
+                "fsem": 11
             }
         ],
-        "vorname": "Claudius",
-        "weiblich": false
+        "vorname": "Ivette",
+        "weiblich": true
     }
 }

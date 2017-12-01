@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1640892,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1565491,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "11.11.1998",
-        "matrikelnummer": 2486761,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "19.01.1997",
+        "matrikelnummer": 190683,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Semmler",
-        "plzort": "53180 Bonn",
+        "nachname": "Burg",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Barbarastra\u00dfe 25",
+        "strasse": "Br\u00fcckhofstra\u00dfe 31",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Altamerikanistik/Ethnologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 12
             }
         ],
-        "vorname": "Holm",
-        "weiblich": false
+        "vorname": "Birgitt",
+        "weiblich": true
     }
 }

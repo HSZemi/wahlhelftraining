@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2792158,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2876037,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "10.06.1996",
-        "matrikelnummer": 2233184,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 6,
+        "geburtsdatum": "07.08.1991",
+        "matrikelnummer": 2521417,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diekmann",
-        "plzort": "53210 Bonn",
+        "nachname": "Hetzel",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "An der Kreisbahn 2",
+        "strasse": "bearbeiten 7",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Physik",
+                "fsem": 9
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "fach": "Agrarwissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Annelie",
-        "weiblich": true
+        "vorname": "Karlfried",
+        "weiblich": false
     }
 }

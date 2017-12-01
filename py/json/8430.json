@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1829491,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1942639,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "22.05.1987",
-        "matrikelnummer": 2783968,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "16.09.1995",
+        "matrikelnummer": 1998200,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stenger",
-        "plzort": "27726 Worpswede",
+        "nachname": "Mader",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Melitta-Bentz-Stra\u00dfe 7",
+        "strasse": "Wilhelmstr. 5",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 11
             }
         ],
-        "vorname": "Luitgard",
-        "weiblich": true
+        "vorname": "Karleugen",
+        "weiblich": false
     }
 }

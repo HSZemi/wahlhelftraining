@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2058763,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1505316,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.05.1996",
-        "matrikelnummer": 3054047,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "11.09.1997",
+        "matrikelnummer": 1963534,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mund",
-        "plzort": "53182 Bonn",
+        "nachname": "Ertl",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Bregenzer Stra\u00dfe 4",
+        "strasse": "Am Friedhof 6",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Friedbert",
+        "vorname": "Ewald",
         "weiblich": false
     }
 }

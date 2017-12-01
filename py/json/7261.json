@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2209528,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2184529,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.03.1994",
-        "matrikelnummer": 2941101,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "15.10.1997",
+        "matrikelnummer": 14875,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jacobsen",
-        "plzort": "38467 Bergfeld",
+        "nachname": "Wiegmann",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Hohenschwangauplatz 1",
+        "strasse": "August-Schanz-Stra\u00dfe 0c",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 3
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Suse",
+        "vorname": "Susette",
         "weiblich": true
     }
 }

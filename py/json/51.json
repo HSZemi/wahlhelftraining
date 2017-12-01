@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2753977,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1605234,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.11.1998",
-        "matrikelnummer": 2531540,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "16.05.1999",
+        "matrikelnummer": 3060395,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brandes",
-        "plzort": "24805 Prinzenmoor",
+        "nachname": "Zemantek",
+        "plzort": "39638 Gardelegen",
         "sternchen": 0,
-        "strasse": "Am Hang 2",
+        "strasse": "Badstubengasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 9
             }
         ],
-        "vorname": "Kai",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2037613,
+    "nummer": 2530572,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "03.12.1991",
-        "matrikelnummer": 2128320,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "25.05.1999",
+        "matrikelnummer": 16961,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Goldschmidt",
-        "plzort": "98631 Mendhausen",
+        "nachname": "R\u00fchle",
+        "plzort": "58256 Ennepetal",
         "sternchen": 0,
-        "strasse": "Rudolf-Ro\u00df-Allee 11",
+        "strasse": "Lochm\u00fchlenweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 1
             }
         ],
-        "vorname": "Ljubica",
-        "weiblich": true
+        "vorname": "Vitus",
+        "weiblich": false
     }
 }

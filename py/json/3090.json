@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2668224,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1585207,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "16.07.1990",
-        "matrikelnummer": 2590605,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "11.08.1993",
+        "matrikelnummer": 2639303,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Thielmann",
-        "plzort": "53194 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Gabel",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Neumattring 1",
+        "strasse": "W\u00f6lfnitzstra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Randolf",
+        "vorname": "Irmo",
         "weiblich": false
     }
 }

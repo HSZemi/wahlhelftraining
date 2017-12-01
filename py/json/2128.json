@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1822652,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1095049,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.02.1997",
-        "matrikelnummer": 1944251,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Breuer",
-        "plzort": "53229 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "24.07.1989",
+        "matrikelnummer": 2215981,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Milz",
+        "plzort": "63863 Eschau",
         "sternchen": 0,
-        "strasse": "Rudolf-Diesel-Stra\u00dfe 9",
+        "strasse": "Agnes-Smedley-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Wendel",
+        "vorname": "Eberhardt",
         "weiblich": false
     }
 }

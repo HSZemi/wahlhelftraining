@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2462082,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2075601,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.12.1992",
-        "matrikelnummer": 2502107,
+        "fakultaet": 6,
+        "geburtsdatum": "21.02.1995",
+        "matrikelnummer": 2900087,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Pott",
-        "plzort": "53193 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kloss",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Cosch\u00fctzer H\u00f6he 40",
+        "strasse": "Doktor-Eisenbart-Hof 15",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Meteorologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 7
             }
         ],
-        "vorname": "Heliane",
+        "vorname": "Carolin",
         "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1057250,
-    "semester": "Sommersemester 2016",
+    "nummer": 2828893,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.02.1993",
-        "matrikelnummer": 14628,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Bunk",
-        "plzort": "25774 Karolinenkoog",
+        "fakultaet": 7,
+        "geburtsdatum": "09.04.1992",
+        "matrikelnummer": 2148872,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Umbach",
+        "plzort": "24632 Heidmoor",
         "sternchen": 0,
-        "strasse": "G\u00fcnter-Vogt-Ring 2",
+        "strasse": "Apostelstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Josefine",
+        "vorname": "Nortrud",
         "weiblich": true
     }
 }

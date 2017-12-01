@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1996559,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2420964,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "21.12.1991",
-        "matrikelnummer": 2486092,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "01.01.1988",
+        "matrikelnummer": 3009375,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gaul",
-        "plzort": "67745 Grumbach",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Raasch",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Schwandorfer Str. 16",
+        "strasse": "Ohlengarten 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Vera",
-        "weiblich": true
+        "vorname": "Irminfried",
+        "weiblich": false
     }
 }

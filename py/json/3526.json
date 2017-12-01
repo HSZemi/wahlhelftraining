@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1669549,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2798797,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.09.1993",
-        "matrikelnummer": 19610,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "05.03.1986",
+        "matrikelnummer": 2170148,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siefert",
-        "plzort": "16352 Sch\u00f6nerlinde",
+        "nachname": "Schuldt",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Christiane-Vulpius-Stra\u00dfe 9",
+        "strasse": "Echzeller Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 7
             }
         ],
-        "vorname": "Wilhard",
-        "weiblich": false
+        "vorname": "Thekla",
+        "weiblich": true
     }
 }

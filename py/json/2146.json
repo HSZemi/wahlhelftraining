@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2947085,
+    "nummer": 2766209,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.12.1995",
-        "matrikelnummer": 2363108,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 0,
+        "geburtsdatum": "13.11.1987",
+        "matrikelnummer": 2451387,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ulmer",
-        "plzort": "53222 Bonn",
+        "nachname": "Engelhardt",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Schlesierweg 25",
+        "strasse": "Kurt-Exner-Weg 4",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Ingomar",
-        "weiblich": false
+        "vorname": "Victoria",
+        "weiblich": true
     }
 }

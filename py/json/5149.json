@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2836192,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2513321,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "19.12.1991",
-        "matrikelnummer": 2050296,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "11.07.1996",
+        "matrikelnummer": 2792074,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4fele",
-        "plzort": "53112 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Bendel",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00fctzengasse 0c",
+        "strasse": "Kramergasse 10",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 9
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Julian",
+        "vorname": "Schorsch",
         "weiblich": false
     }
 }

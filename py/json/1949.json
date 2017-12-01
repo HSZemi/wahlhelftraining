@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1183341,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2220494,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
+        "fakultaet": 5,
         "geburtsdatum": "19.11.1997",
-        "matrikelnummer": 3137917,
+        "matrikelnummer": 3010851,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fleckenstein",
-        "plzort": "53166 Bonn",
+        "nachname": "Ludewig",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "An der Mannsfaut 8",
+        "strasse": "Ingolst\u00e4dter Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 13
             }
         ],
-        "vorname": "Miriam",
-        "weiblich": true
+        "vorname": "Isbert",
+        "weiblich": false
     }
 }

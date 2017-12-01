@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1339482,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1596100,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "21.02.1993",
-        "matrikelnummer": 2780270,
+        "fakultaet": 8,
+        "geburtsdatum": "21.11.1990",
+        "matrikelnummer": 16684,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Acker",
-        "plzort": "24848 Kropp",
+        "nachname": "Sperling",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Estewiesen 19",
+        "strasse": "Uthmannstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 10
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Historische Geographie",
-                "fsem": 2
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Amalia",
+        "vorname": "Traudi",
         "weiblich": true
     }
 }

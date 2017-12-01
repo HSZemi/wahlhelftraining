@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1869778,
+    "nummer": 2495055,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.08.1994",
-        "matrikelnummer": 3072532,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "21.04.1997",
+        "matrikelnummer": 2041853,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reiser",
-        "plzort": "06493 Schielo",
+        "nachname": "Seitz",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Soester Stra\u00dfe 1",
+        "strasse": "Sobrigauer Weg 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
                 "fsem": 2
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 7
             }
         ],
-        "vorname": "Lissy",
-        "weiblich": true
+        "vorname": "Volkmar",
+        "weiblich": false
     }
 }

@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1310295,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1704790,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.06.1999",
-        "matrikelnummer": 15098,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "12.06.1999",
+        "matrikelnummer": 2394760,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nolting",
-        "plzort": "94345 Aholfing",
+        "nachname": "Michels",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Albers-Stra\u00dfe 1",
+        "strasse": "Hagenstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Musikwissenschaft",
+                "fsem": 9
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch-Italienische Studien",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Indologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Anna-Luise",
-        "weiblich": true
+        "vorname": "Ruppert",
+        "weiblich": false
     }
 }

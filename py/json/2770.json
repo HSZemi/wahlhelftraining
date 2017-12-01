@@ -1,46 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2286628,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2838601,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "06.07.1994",
-        "matrikelnummer": 199492,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "17.05.1991",
+        "matrikelnummer": 2838608,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Manz",
-        "plzort": "53227 Bonn",
+        "nachname": "Schnabel",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Wildunger Stra\u00dfe 3",
+        "strasse": "Kaditzer Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 11
             },
             {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Miroslawa",
+        "vorname": "Almtrud",
         "weiblich": true
     }
 }

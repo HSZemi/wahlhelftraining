@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2213185,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1971076,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.12.1998",
-        "matrikelnummer": 3010201,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "11.10.1991",
+        "matrikelnummer": 3084763,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mende",
-        "plzort": "53120 Bonn",
+        "nachname": "Friedemann",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Zachenweg 16",
+        "strasse": "Steintorbr\u00fccke 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Meteorologie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Regelinde",
-        "weiblich": true
+        "vorname": "Knut",
+        "weiblich": false
     }
 }

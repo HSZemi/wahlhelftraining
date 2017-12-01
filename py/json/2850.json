@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2253351,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1885346,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "03.06.1992",
-        "matrikelnummer": 3150528,
+        "geburtsdatum": "24.12.1995",
+        "matrikelnummer": 2838487,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gehrig",
-        "plzort": "53178 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Beckmann",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Altebergsweg 12",
+        "strasse": "Hondiusweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Mathematik",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Knuth",
+        "vorname": "Benedict",
         "weiblich": false
     }
 }

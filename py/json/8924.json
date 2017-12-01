@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1706218,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2526733,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "08.07.1990",
-        "matrikelnummer": 2160216,
-        "mehrfachausfertigung": 5,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schult",
-        "plzort": "53123 Bonn",
+        "geburtsdatum": "15.11.1987",
+        "matrikelnummer": 3146881,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gro\u00dfmann",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Marie-Juchacz-Stra\u00dfe 21",
+        "strasse": "Berggut 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 2
             }
         ],
-        "vorname": "Gunnar",
+        "vorname": "Heinrich",
         "weiblich": false
     }
 }

@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2320473,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2201981,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.05.1995",
-        "matrikelnummer": 2732183,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schr\u00f6der",
-        "plzort": "53206 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "26.01.1997",
+        "matrikelnummer": 137453,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Faller",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Bockenheimer Anlage 8",
+        "strasse": "Elbstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Lateinamerika- und Altamerikastudien",
-                "fsem": 3
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 1
             },
             {
                 "abschluss": "",
-                "fach": "Romanistik",
-                "fsem": 3
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Haimo",
-        "weiblich": false
+        "vorname": "Wally",
+        "weiblich": true
     }
 }

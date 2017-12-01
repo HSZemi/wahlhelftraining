@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1369119,
+    "nummer": 1798751,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "04.07.1996",
-        "matrikelnummer": 3065768,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "01.06.1989",
+        "matrikelnummer": 2975191,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sandner",
-        "plzort": "53212 Bonn",
+        "nachname": "Stamm",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Erhard-Anlage 5",
+        "strasse": "Willemerstra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 9
+                "fach": "Kulturwissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Chemie",
+                "fsem": 7
             }
         ],
-        "vorname": "Thilo",
-        "weiblich": false
+        "vorname": "Irmfriede",
+        "weiblich": true
     }
 }

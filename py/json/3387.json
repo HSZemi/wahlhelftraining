@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2029520,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2461789,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "28.02.1993",
-        "matrikelnummer": 2456564,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "23.11.1995",
+        "matrikelnummer": 2800954,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heyne",
-        "plzort": "53204 Bonn",
+        "nachname": "Tietz",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Hertha-Lindner-Stra\u00dfe 12",
+        "strasse": "Raabestra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Ignazia",
-        "weiblich": true
+        "vorname": "Adolf",
+        "weiblich": false
     }
 }

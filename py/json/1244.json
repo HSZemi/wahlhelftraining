@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2907729,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2085231,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.07.1998",
-        "matrikelnummer": 2897265,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "10.02.1992",
+        "matrikelnummer": 2470845,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kowalski",
-        "plzort": "53171 Bonn",
+        "nachname": "Johannes",
+        "plzort": "06110 Halle",
         "sternchen": 0,
-        "strasse": "Kulmbachstra\u00dfe 52",
+        "strasse": "Ludwig-Hensler-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 9
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Ingbert",
+        "vorname": "Didi",
         "weiblich": false
     }
 }

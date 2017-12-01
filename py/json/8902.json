@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1962002,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2111029,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.08.1987",
-        "matrikelnummer": 2776565,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "14.10.1991",
+        "matrikelnummer": 2805516,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nitsche",
-        "plzort": "53211 Bonn",
+        "nachname": "Voigtl\u00e4nder",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Ritter von Bach-Stra\u00dfe 6",
+        "strasse": "Buzzistra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 8
+                "abschluss": "Master of Arts",
+                "fach": "North American Studies",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 4
             }
         ],
-        "vorname": "Andree",
-        "weiblich": false
+        "vorname": "Ortrun",
+        "weiblich": true
     }
 }

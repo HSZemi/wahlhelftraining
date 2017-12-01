@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1000853,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2681666,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.08.1991",
-        "matrikelnummer": 2719105,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "23.11.1998",
+        "matrikelnummer": 2529674,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wurst",
-        "plzort": "04626 Mehna",
+        "nachname": "B\u00f6hnke",
+        "plzort": "31553 Auhagen",
         "sternchen": 0,
-        "strasse": "Busmannstra\u00dfe 20",
+        "strasse": "Moorfleeter Stra\u00dfe 12",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
                 "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 3
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 2
             }
         ],
-        "vorname": "Valerie",
-        "weiblich": true
+        "vorname": "Kuno",
+        "weiblich": false
     }
 }

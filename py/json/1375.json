@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2777774,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2235353,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "25.12.1994",
-        "matrikelnummer": 148810,
+        "fakultaet": 2,
+        "geburtsdatum": "17.02.1996",
+        "matrikelnummer": 1947702,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Streit",
-        "plzort": "53142 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Seiffert",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Panzerleite 18",
+        "strasse": "Brockesstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Helrike",
+        "vorname": "Marie-Theres",
         "weiblich": true
     }
 }

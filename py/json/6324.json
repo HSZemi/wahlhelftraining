@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2384151,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1697552,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "09.10.1989",
-        "matrikelnummer": 2679210,
+        "geburtsdatum": "11.06.1996",
+        "matrikelnummer": 2142950,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neufeld",
-        "plzort": "53188 Bonn",
+        "nachname": "Schlesinger",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Auf der Schlo\u00dfhecke 1",
+        "strasse": "Frankenstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 11
             }
         ],
-        "vorname": "Dieterich",
-        "weiblich": false
+        "vorname": "Friedlies",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2955983,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1552491,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.07.1989",
-        "matrikelnummer": 3097219,
+        "fakultaet": 6,
+        "geburtsdatum": "08.05.1996",
+        "matrikelnummer": 186533,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Sattler",
-        "plzort": "53145 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heitz",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Petersstra\u00dfe 2",
+        "strasse": "Leibnizstra\u00dfe 0",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 1
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 3
+                "fach": "Neurosciences",
+                "fsem": 5
             }
         ],
-        "vorname": "Lois",
-        "weiblich": false
+        "vorname": "Halina",
+        "weiblich": true
     }
 }

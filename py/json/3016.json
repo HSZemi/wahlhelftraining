@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2574313,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1497664,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.08.1992",
-        "matrikelnummer": 3189139,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "07.03.1990",
+        "matrikelnummer": 1955180,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dohmen",
-        "plzort": "53164 Bonn",
+        "nachname": "D\u00fcring",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Artur-Landgraf-Str. 0",
+        "strasse": "Stengeletwiete 8b",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 1
             }
         ],
-        "vorname": "Mischel",
+        "vorname": "Ignatz",
         "weiblich": false
     }
 }

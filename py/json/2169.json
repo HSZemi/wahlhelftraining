@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2762685,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1462699,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.02.1995",
-        "matrikelnummer": 2474471,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "13.10.1992",
+        "matrikelnummer": 3189418,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feldmeier",
-        "plzort": "53220 Bonn",
+        "nachname": "Poser",
+        "plzort": "54338 Longen",
         "sternchen": 0,
-        "strasse": "Frankenthaler Weg 11",
+        "strasse": "Rechte Steinzeile 22",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Annarose",
+        "vorname": "Gerdi",
         "weiblich": true
     }
 }

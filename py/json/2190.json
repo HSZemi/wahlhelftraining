@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1107168,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2217447,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "13.01.1993",
-        "matrikelnummer": 19903,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "04.11.1996",
+        "matrikelnummer": 2562160,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mutschler",
-        "plzort": "06295 Rottelsdorf",
+        "nachname": "Scheffler",
+        "plzort": "21522 Hittbergen",
         "sternchen": 0,
-        "strasse": "Ackerstra\u00dfe 42",
+        "strasse": "Nibelungenallee 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
                 "fsem": 4
             }
         ],
-        "vorname": "Amanda",
-        "weiblich": true
+        "vorname": "Wieland",
+        "weiblich": false
     }
 }

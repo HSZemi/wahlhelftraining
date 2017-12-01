@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2505754,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2686446,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.08.1990",
-        "matrikelnummer": 2039163,
+        "fakultaet": 4,
+        "geburtsdatum": "19.03.1996",
+        "matrikelnummer": 2688375,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
+        "mitglied_studierendenschaft": false,
         "nachname": "Heinen",
-        "plzort": "56357 Niederwallmenach",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Pr\u00e4lat-Meixner-Platz 6",
+        "strasse": "Vogesenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
                 "fsem": 4
             }
         ],
-        "vorname": "Wiltraud",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

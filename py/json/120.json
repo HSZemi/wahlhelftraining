@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1165380,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1672510,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.11.1993",
-        "matrikelnummer": 3026485,
+        "fakultaet": 6,
+        "geburtsdatum": "01.12.1998",
+        "matrikelnummer": 195780,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittwer",
-        "plzort": "53146 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "F\u00f6rsterstra\u00dfe 0",
+        "strasse": "Okrifteler Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 13
             }
         ],
-        "vorname": "Luitpold",
+        "vorname": "Marcel",
         "weiblich": false
     }
 }

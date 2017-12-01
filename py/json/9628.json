@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1175272,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1407385,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.05.1993",
-        "matrikelnummer": 146173,
+        "fakultaet": 5,
+        "geburtsdatum": "20.02.1992",
+        "matrikelnummer": 13988,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Franzke",
-        "plzort": "53154 Bonn",
+        "nachname": "Rohloff",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Richard-Weidlich-Platz 9",
+        "strasse": "Klinkstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 4
             }
         ],
-        "vorname": "Notburga",
-        "weiblich": true
+        "vorname": "Dietgar",
+        "weiblich": false
     }
 }

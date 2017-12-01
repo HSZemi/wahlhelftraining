@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1545867,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1481842,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "21.03.1995",
-        "matrikelnummer": 3033939,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "15.11.1998",
+        "matrikelnummer": 2202767,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Glei\u00dfner",
-        "plzort": "53142 Bonn",
+        "nachname": "Schober",
+        "plzort": "72764 Reutlingen",
         "sternchen": 0,
-        "strasse": "Gutenbergstra\u00dfe 14",
+        "strasse": "Holsteiner Stra\u00dfe 5d",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Sunhild",
+        "vorname": "Elise",
         "weiblich": true
     }
 }

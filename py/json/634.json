@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2530460,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1986121,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "13.03.1999",
-        "matrikelnummer": 1991279,
+        "fakultaet": 8,
+        "geburtsdatum": "11.04.1996",
+        "matrikelnummer": 183098,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Linde",
-        "plzort": "53227 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Jung",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Grenzstr. 0",
+        "strasse": "Lenaustra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Otthold",
-        "weiblich": false
+        "vorname": "Dorothe",
+        "weiblich": true
     }
 }

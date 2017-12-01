@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2241925,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2291833,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.03.1998",
-        "matrikelnummer": 2995139,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Sack",
-        "plzort": "77796 M\u00fchlenbach",
+        "fakultaet": 4,
+        "geburtsdatum": "28.12.1993",
+        "matrikelnummer": 2359307,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hilmer",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Reisstra\u00dfe 0",
+        "strasse": "Zschierener Stra\u00dfe 13",
         "studienfaecher": [
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 1
+            },
             {
                 "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
                 "fsem": 11
-            },
-            {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 9
             }
         ],
-        "vorname": "Roland",
+        "vorname": "Marko",
         "weiblich": false
     }
 }

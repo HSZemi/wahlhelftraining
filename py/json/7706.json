@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1235268,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2067623,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "18.05.1988",
-        "matrikelnummer": 2053207,
+        "fakultaet": 6,
+        "geburtsdatum": "03.04.1989",
+        "matrikelnummer": 2890120,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Andres",
-        "plzort": "53840 Troisdorf",
+        "nachname": "M\u00e4rz",
+        "plzort": "87784 Westerheim",
         "sternchen": 0,
-        "strasse": "Hermann-Reichelt-Stra\u00dfe 3",
+        "strasse": "H\u00f6fener Weg 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 3
             }
         ],
-        "vorname": "Annekatrin",
-        "weiblich": true
+        "vorname": "Theofried",
+        "weiblich": false
     }
 }

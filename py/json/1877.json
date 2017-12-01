@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1920612,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1527364,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.09.1993",
-        "matrikelnummer": 2178265,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "26.12.1995",
+        "matrikelnummer": 14728,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Angermann",
-        "plzort": "53161 Bonn",
+        "nachname": "Kuck",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Overbergstra\u00dfe 5",
+        "strasse": "Bleichstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 8
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Rose-Marie",
-        "weiblich": true
+        "vorname": "Klauspeter",
+        "weiblich": false
     }
 }

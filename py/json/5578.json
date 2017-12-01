@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2302500,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1366450,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.01.1999",
-        "matrikelnummer": 2232104,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 0,
+        "geburtsdatum": "24.04.1987",
+        "matrikelnummer": 187153,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hau",
-        "plzort": "53167 Bonn",
+        "nachname": "Neugebauer",
+        "plzort": "26906 Dersum",
         "sternchen": 0,
-        "strasse": "Firstenweg 1",
+        "strasse": "Heunischstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Adina",
-        "weiblich": true
+        "vorname": "Benjamin",
+        "weiblich": false
     }
 }

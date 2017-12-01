@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2062632,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1738364,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "21.10.1996",
-        "matrikelnummer": 11568,
+        "fakultaet": 5,
+        "geburtsdatum": "06.03.1999",
+        "matrikelnummer": 2532091,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hempel",
-        "plzort": "53210 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Eisner",
+        "plzort": "23948 Damshagen",
         "sternchen": 0,
-        "strasse": "Kanalstra\u00dfe 0",
+        "strasse": "Maria-Louisen-Stieg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "Promotion",
+                "fach": "Musikwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 5
             }
         ],
-        "vorname": "Kersten",
-        "weiblich": false
+        "vorname": "Lilija",
+        "weiblich": true
     }
 }

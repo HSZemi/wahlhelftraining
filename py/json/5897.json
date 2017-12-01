@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1313713,
-    "semester": "Sommersemester 2016",
+    "nummer": 1347215,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.01.1989",
-        "matrikelnummer": 2793167,
+        "fakultaet": 0,
+        "geburtsdatum": "03.07.1989",
+        "matrikelnummer": 3074556,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buchholz",
-        "plzort": "53136 Bonn",
+        "nachname": "Kleiner",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Rathenauplatz 1",
+        "strasse": "Georg-Thielen-Gasse 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Susan",
+        "vorname": "Sophia",
         "weiblich": true
     }
 }

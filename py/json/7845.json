@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1771445,
+    "nummer": 2658264,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "21.05.1992",
-        "matrikelnummer": 2610387,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "05.06.1995",
+        "matrikelnummer": 2167343,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Waibel",
-        "plzort": "53149 Bonn",
+        "nachname": "Nissen",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Albusstra\u00dfe 6",
+        "strasse": "Dillgasse 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 3
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 11
             }
         ],
-        "vorname": "Wilhardt",
-        "weiblich": false
+        "vorname": "Krimhild",
+        "weiblich": true
     }
 }

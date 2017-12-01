@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1311161,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2259351,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "17.04.1993",
-        "matrikelnummer": 2311593,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "23.04.1997",
+        "matrikelnummer": 191461,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wieser",
-        "plzort": "53151 Bonn",
+        "nachname": "Hinz",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Aussichtsweg 2",
+        "strasse": "Hummelb\u00fchel 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 13
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 2
             }
         ],
-        "vorname": "Gunhilde",
-        "weiblich": true
+        "vorname": "Sigishelm",
+        "weiblich": false
     }
 }

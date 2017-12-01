@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2365306,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1470934,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "23.04.1990",
-        "matrikelnummer": 2244857,
+        "fakultaet": 7,
+        "geburtsdatum": "21.07.1990",
+        "matrikelnummer": 1919997,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grimm",
-        "plzort": "53163 Bonn",
+        "nachname": "Heck",
+        "plzort": "55286 W\u00f6rrstadt",
         "sternchen": 0,
-        "strasse": "Raimundstra\u00dfe 23",
+        "strasse": "Am Leutewitzer Park 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Richarda",
+        "vorname": "Charlotte",
         "weiblich": true
     }
 }

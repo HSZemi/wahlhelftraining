@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1284803,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2289457,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "26.10.1993",
-        "matrikelnummer": 178624,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "16.12.1988",
+        "matrikelnummer": 2363753,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fenske",
-        "plzort": "53196 Bonn",
+        "nachname": "Hahn",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-Bied-Stra\u00dfe 8c",
+        "strasse": "Ludwigstra\u00dfe 28",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
                 "fsem": 11
             }
         ],
-        "vorname": "Siegrun",
+        "vorname": "Ivanka",
         "weiblich": true
     }
 }

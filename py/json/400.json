@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2366815,
+    "nummer": 2286268,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "19.08.1985",
-        "matrikelnummer": 1943129,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "12.12.1991",
+        "matrikelnummer": 2451856,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baumert",
-        "plzort": "53156 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Spitzhausstra\u00dfe 4",
+        "strasse": "Richard-Weidlich-Platz 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
+                "fsem": 1
             }
         ],
-        "vorname": "Ljudmila",
+        "vorname": "Sven",
         "weiblich": true
     }
 }

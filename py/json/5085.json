@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2240468,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2954655,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "16.03.1991",
-        "matrikelnummer": 2421074,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Bley",
-        "plzort": "53217 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "05.06.1981",
+        "matrikelnummer": 2956869,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Effenberger",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-Bied-Stra\u00dfe 2",
+        "strasse": "Bischofswerder Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 2
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Ruth",
-        "weiblich": true
+        "vorname": "Gangolf",
+        "weiblich": false
     }
 }

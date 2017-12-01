@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1919341,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2252155,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "21.12.1995",
-        "matrikelnummer": 2912159,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Behn",
-        "plzort": "53157 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "06.02.1994",
+        "matrikelnummer": 18970,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fenske",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Michael-Stumpf-Stra\u00dfe 6",
+        "strasse": "Gewandhausstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 9
+                "abschluss": "Bachelor of Science",
+                "fach": "Mathematik",
+                "fsem": 5
             }
         ],
-        "vorname": "Berndt",
+        "vorname": "Albin",
         "weiblich": false
     }
 }

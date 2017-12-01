@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1358312,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1881766,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.10.1989",
-        "matrikelnummer": 3187534,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 9,
+        "geburtsdatum": "20.02.1992",
+        "matrikelnummer": 2587791,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Szymanski",
-        "plzort": "53178 Bonn",
+        "nachname": "Theis",
+        "plzort": "14641 M\u00fchlenberge",
         "sternchen": 0,
-        "strasse": "An der K\u00fcmmelschenke 6c",
+        "strasse": "Winterbachstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Molecular Biology and Biotechnology",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Harry",
+        "vorname": "Ferdinand",
         "weiblich": false
     }
 }

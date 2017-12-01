@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1877379,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1615917,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "25.08.1987",
-        "matrikelnummer": 2841697,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "06.05.1985",
+        "matrikelnummer": 183356,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sippel",
-        "plzort": "06295 Burgsdorf",
+        "nachname": "Schanz",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Rombergstra\u00dfe 13",
+        "strasse": "Am H\u00fcnenstein 4",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "fach": "Rechtswissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Svetlana",
-        "weiblich": true
+        "vorname": "Siegmund",
+        "weiblich": false
     }
 }

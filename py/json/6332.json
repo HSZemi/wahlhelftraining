@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1070242,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1722253,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.01.1995",
-        "matrikelnummer": 2969910,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "20.08.1996",
+        "matrikelnummer": 3100764,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Philipp",
-        "plzort": "53121 Bonn",
+        "nachname": "Stang",
+        "plzort": "79258 Hartheim",
         "sternchen": 0,
-        "strasse": "Lugturmstra\u00dfe 0",
+        "strasse": "Hartwicusstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 12
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Tankred",
-        "weiblich": false
+        "vorname": "Gundela",
+        "weiblich": true
     }
 }

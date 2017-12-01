@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": true
     },
-    "nummer": 2143997,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1252142,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "27.08.1994",
-        "matrikelnummer": 2100154,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "18.05.1988",
+        "matrikelnummer": 2830443,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heilmann",
-        "plzort": "53111 Bonn",
+        "nachname": "Tiede",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Baumstra\u00dfe 33",
+        "strasse": "Residenzstr. 15",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 9
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 1
             }
         ],
-        "vorname": "Erdwin",
-        "weiblich": false
+        "vorname": "Freya",
+        "weiblich": true
     }
 }

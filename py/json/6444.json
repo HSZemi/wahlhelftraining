@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2323079,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1805995,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "24.09.1992",
-        "matrikelnummer": 2361388,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "04.04.1994",
+        "matrikelnummer": 3102195,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jansen",
-        "plzort": "53123 Bonn",
+        "nachname": "Johannes",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Martin-Luther-Stra\u00dfe 6",
+        "strasse": "Wittgensdorfer Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
             }
         ],
-        "vorname": "Adina",
+        "vorname": "Mira",
         "weiblich": true
     }
 }

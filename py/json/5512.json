@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2123432,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1621991,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "24.08.1994",
-        "matrikelnummer": 2198949,
+        "fakultaet": 6,
+        "geburtsdatum": "28.11.1992",
+        "matrikelnummer": 2284731,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Streich",
-        "plzort": "53123 Bonn",
+        "nachname": "Wei\u00dfbach",
+        "plzort": "66806 Ensdorf",
         "sternchen": 0,
-        "strasse": "St.Michaelstra\u00dfe 8",
+        "strasse": "Winterbergstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
             }
         ],
-        "vorname": "Ilona",
-        "weiblich": true
+        "vorname": "Reinulf",
+        "weiblich": false
     }
 }

@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2379309,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2852240,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.02.1988",
-        "matrikelnummer": 2443119,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "23.07.1997",
+        "matrikelnummer": 2786282,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wohlgemuth",
-        "plzort": "53205 Bonn",
+        "nachname": "Reinhart",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Siedlerstr. 4",
+        "strasse": "Daniel-Frese-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Lenore",
+        "vorname": "Franka",
         "weiblich": true
     }
 }

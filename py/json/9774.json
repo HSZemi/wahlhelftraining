@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1910107,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1375148,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "16.03.1991",
-        "matrikelnummer": 2250714,
+        "fakultaet": 0,
+        "geburtsdatum": "22.08.1991",
+        "matrikelnummer": 2478452,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "J\u00fcnemann",
-        "plzort": "31634 Steimbke",
+        "nachname": "Wollny",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Haingrabenstra\u00dfe 0",
+        "strasse": "Homburger Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 13
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Concetta",
-        "weiblich": true
+        "vorname": "Arno",
+        "weiblich": false
     }
 }

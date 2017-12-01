@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1892957,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2036283,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.05.1992",
-        "matrikelnummer": 2094738,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "07.10.1998",
+        "matrikelnummer": 2656384,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hansen",
-        "plzort": "53168 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Duwe",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Moosleite 4",
+        "strasse": "Washingtonring 22",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Heinfried",
-        "weiblich": false
+        "vorname": "Irmengild",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2447020,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1994206,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.09.1991",
-        "matrikelnummer": 3173623,
+        "fakultaet": 5,
+        "geburtsdatum": "23.10.1999",
+        "matrikelnummer": 2661441,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lenz",
-        "plzort": "53157 Bonn",
+        "nachname": "Berndt",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Regnitzstr. 10",
+        "strasse": "Emil-Sulzbach-Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Astrophysik",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Steven",
+        "vorname": "Heinzkarl",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1093518,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2782742,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.10.1993",
-        "matrikelnummer": 2646221,
+        "fakultaet": 1,
+        "geburtsdatum": "25.07.1994",
+        "matrikelnummer": 3014509,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": false,
-        "nachname": "Lennartz",
-        "plzort": "53171 Bonn",
+        "nachname": "Klaus",
+        "plzort": "26188 Edewecht",
         "sternchen": 0,
-        "strasse": "R\u00fctlistra\u00dfe 38",
+        "strasse": "Marienplatz 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Petra",
+        "vorname": "Rita",
         "weiblich": true
     }
 }

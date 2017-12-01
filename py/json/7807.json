@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1268644,
+    "nummer": 2500314,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "21.08.1992",
-        "matrikelnummer": 123707,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "11.01.1991",
+        "matrikelnummer": 1948193,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reimer",
-        "plzort": "53156 Bonn",
+        "nachname": "Schenke",
+        "plzort": "38486 Immekath",
         "sternchen": 0,
-        "strasse": "Falltorstra\u00dfe 11",
+        "strasse": "Braumannstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 3
             }
         ],
-        "vorname": "Jolante",
-        "weiblich": true
+        "vorname": "Claudius",
+        "weiblich": false
     }
 }

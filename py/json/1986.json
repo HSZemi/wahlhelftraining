@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2600234,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1280250,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.02.1992",
-        "matrikelnummer": 2738518,
+        "fakultaet": 6,
+        "geburtsdatum": "28.06.1993",
+        "matrikelnummer": 16234,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diel",
-        "plzort": "89367 Waldstetten",
+        "nachname": "Milde",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "In den Biegen 0",
+        "strasse": "An der Este 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Biochemistry",
+                "fsem": 6
             }
         ],
-        "vorname": "Hellfried",
-        "weiblich": false
+        "vorname": "Dana",
+        "weiblich": true
     }
 }

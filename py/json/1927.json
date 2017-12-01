@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1518963,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2242574,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.09.1997",
-        "matrikelnummer": 2679563,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "19.04.1997",
+        "matrikelnummer": 2506984,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sager",
-        "plzort": "53187 Bonn",
+        "nachname": "Hemmer",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "August-Siebert-Stra\u00dfe 10",
+        "strasse": "Drachengasse 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 3
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Margit",
-        "weiblich": true
+        "vorname": "Emmeran",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1427483,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1268249,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.12.1995",
-        "matrikelnummer": 2426539,
+        "fakultaet": 6,
+        "geburtsdatum": "20.03.1999",
+        "matrikelnummer": 2554346,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fc\u00dfler",
-        "plzort": "53142 Bonn",
+        "nachname": "Kleinschmidt",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Limpert-Weg 17",
+        "strasse": "Ehrlichstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 2
+                "fach": "Geographie",
+                "fsem": 12
             }
         ],
-        "vorname": "Bertolt",
+        "vorname": "Guido",
         "weiblich": false
     }
 }

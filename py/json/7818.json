@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1501974,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2597768,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "24.07.1988",
-        "matrikelnummer": 2846974,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "18.11.1992",
+        "matrikelnummer": 2868259,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fc\u00dfler",
-        "plzort": "53218 Bonn",
+        "nachname": "Thielemann",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Inger-Kar\u00e9n-Stra\u00dfe 1",
+        "strasse": "Winzerweg 14",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Englisch",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             },
             {
-                "abschluss": "",
-                "fach": "Griechisch",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 8
             }
         ],
-        "vorname": "Gabi",
-        "weiblich": true
+        "vorname": "Julian",
+        "weiblich": false
     }
 }

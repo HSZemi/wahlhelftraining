@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1171606,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2129357,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "27.05.1991",
-        "matrikelnummer": 2505151,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "10.03.1992",
+        "matrikelnummer": 19505,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wenger",
-        "plzort": "53221 Bonn",
+        "nachname": "Wittke",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Wei\u00dfkirchener Weg 6",
+        "strasse": "Am Pfarrlehn 23d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 10
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 7
             }
         ],
-        "vorname": "Gotthold",
-        "weiblich": false
+        "vorname": "Krimhilde",
+        "weiblich": true
     }
 }

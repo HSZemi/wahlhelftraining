@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1321673,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1140653,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.03.1991",
-        "matrikelnummer": 2091874,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 6,
+        "geburtsdatum": "03.03.1992",
+        "matrikelnummer": 3105198,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6nisch",
-        "plzort": "53220 Bonn",
+        "nachname": "Eger",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Di\u00dfmann-Stra\u00dfe 6",
+        "strasse": "Grusonstra\u00dfe 6a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Koreanisch",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Kunstgeschichte",
-                "fsem": 4
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
+                "fach": "Geography of Environmental Risks and Human Security",
                 "fsem": 2
             }
         ],
-        "vorname": "Thilde",
-        "weiblich": true
+        "vorname": "Fridolin",
+        "weiblich": false
     }
 }

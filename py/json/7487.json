@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1415284,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1954053,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.08.1992",
-        "matrikelnummer": 3074274,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Quast",
-        "plzort": "53129 Bonn",
+        "fakultaet": 9,
+        "geburtsdatum": "09.02.1992",
+        "matrikelnummer": 3032111,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Seidl",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Dakarweg 6",
+        "strasse": "Dunckerstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             }
         ],
-        "vorname": "Ljubica",
-        "weiblich": true
+        "vorname": "Ireneus",
+        "weiblich": false
     }
 }

@@ -2,35 +2,45 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2937102,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2107873,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.12.1995",
-        "matrikelnummer": 1933371,
+        "fakultaet": 3,
+        "geburtsdatum": "04.07.1996",
+        "matrikelnummer": 2197803,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Katzer",
-        "plzort": "53214 Bonn",
+        "nachname": "Krieger",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Philipp-Reis-Stra\u00dfe 0",
+        "strasse": "Niedersedlitzer Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 6
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Zita",
-        "weiblich": true
+        "vorname": "Alex",
+        "weiblich": false
     }
 }

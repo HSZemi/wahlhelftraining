@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1788824,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2805171,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.02.1994",
-        "matrikelnummer": 2439850,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "04.05.1996",
+        "matrikelnummer": 2415724,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauber",
-        "plzort": "53225 Bonn",
+        "nachname": "Taube",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Bindingstra\u00dfe 5d",
+        "strasse": "Am Krankenhaus 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Damian",
+        "vorname": "Johann",
         "weiblich": false
     }
 }

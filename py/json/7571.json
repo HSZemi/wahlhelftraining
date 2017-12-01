@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1911950,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1235779,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "17.06.1997",
-        "matrikelnummer": 2138956,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "05.05.1994",
+        "matrikelnummer": 2648110,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kindler",
-        "plzort": "53166 Bonn",
+        "nachname": "W\u00fcst",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Wittelsbacherallee 0",
+        "strasse": "Obernzeller Str. 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Italienisch",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Arved",
+        "vorname": "Reinbert",
         "weiblich": false
     }
 }

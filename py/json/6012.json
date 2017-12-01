@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1282519,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2301658,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.04.1997",
-        "matrikelnummer": 18707,
+        "fakultaet": 3,
+        "geburtsdatum": "17.09.1996",
+        "matrikelnummer": 2365179,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dahm",
-        "plzort": "53136 Bonn",
+        "nachname": "Wolf",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Florianweg 5",
+        "strasse": "Fliederstra\u00dfe 38",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Trauhard",
+        "vorname": "Gerwald",
         "weiblich": false
     }
 }

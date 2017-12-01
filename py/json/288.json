@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2561922,
+    "nummer": 1959927,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "08.11.1987",
-        "matrikelnummer": 2982784,
+        "geburtsdatum": "07.05.1996",
+        "matrikelnummer": 2162605,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brune",
-        "plzort": "53207 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Hohenbusch-Markt 4",
+        "strasse": "Zweite Luisenbr\u00fccke 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "\u00c4gyptologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Reginbert",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

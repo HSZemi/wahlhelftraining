@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1592389,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1517373,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.01.1993",
-        "matrikelnummer": 2231486,
+        "fakultaet": 7,
+        "geburtsdatum": "13.08.1999",
+        "matrikelnummer": 117922,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feil",
-        "plzort": "53207 Bonn",
+        "nachname": "Niemann",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00fctzenh\u00f6he 3",
+        "strasse": "Neuer Wall 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Marie-Louise",
-        "weiblich": true
+        "vorname": "Knuth",
+        "weiblich": false
     }
 }

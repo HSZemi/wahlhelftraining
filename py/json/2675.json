@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1233842,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2451611,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "28.08.1999",
-        "matrikelnummer": 2564996,
+        "geburtsdatum": "24.07.1998",
+        "matrikelnummer": 3089044,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Germann",
-        "plzort": "53119 Bonn",
+        "nachname": "Mair",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Am Geistpf\u00f6rtchen 1",
+        "strasse": "Wetkesgarten 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Tibetologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "English Studies",
                 "fsem": 4
             }
         ],
-        "vorname": "Elif",
-        "weiblich": true
+        "vorname": "Godo",
+        "weiblich": false
     }
 }

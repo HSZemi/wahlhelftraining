@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1647316,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2803765,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "22.12.1996",
-        "matrikelnummer": 2746668,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "12.04.1998",
+        "matrikelnummer": 2399907,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lipinski",
-        "plzort": "57413 Finnentrop",
+        "nachname": "Kopp",
+        "plzort": "14612 Falkensee",
         "sternchen": 0,
-        "strasse": "Gutschmidstra\u00dfe 8a",
+        "strasse": "Schunckstra\u00dfe 61",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "fach": "Pharmazie",
                 "fsem": 3
             }
         ],
-        "vorname": "Gitti",
+        "vorname": "Astrid",
         "weiblich": true
     }
 }

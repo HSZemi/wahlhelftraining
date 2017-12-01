@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1426038,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1557190,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.05.1995",
-        "matrikelnummer": 2850461,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "11.10.1999",
+        "matrikelnummer": 2889918,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kunst",
-        "plzort": "53187 Bonn",
+        "nachname": "Liebe",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Gem\u00fcndener Stra\u00dfe 16",
+        "strasse": "Wilhelm-Mei\u00df-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Sigtrud",
-        "weiblich": true
+        "vorname": "Hartmann",
+        "weiblich": false
     }
 }

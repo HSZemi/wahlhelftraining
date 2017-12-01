@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2977199,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2929109,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "20.06.1995",
-        "matrikelnummer": 2983801,
+        "fakultaet": 7,
+        "geburtsdatum": "02.09.1993",
+        "matrikelnummer": 2546903,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Heinen",
-        "plzort": "53114 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zemantek",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Kirschenstra\u00dfe 0",
+        "strasse": "Pflugstra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 2
             }
         ],
-        "vorname": "Sibylla",
+        "vorname": "Sven",
         "weiblich": true
     }
 }

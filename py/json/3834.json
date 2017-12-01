@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2515192,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1533171,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "25.01.1992",
-        "matrikelnummer": 2560383,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "25.03.1996",
+        "matrikelnummer": 2022165,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zell",
-        "plzort": "61239 Ober-M\u00f6rlen",
+        "nachname": "Conradi",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Akazienweg 4",
+        "strasse": "Am Elbblick 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Lissi",
-        "weiblich": true
+        "vorname": "Otfried",
+        "weiblich": false
     }
 }

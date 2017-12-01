@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1354318,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2321104,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "08.06.1991",
-        "matrikelnummer": 166108,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "06.04.1994",
+        "matrikelnummer": 2278269,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Woll",
-        "plzort": "67685 Eulenbis",
+        "nachname": "Tausch",
+        "plzort": "56370 Mittelfischbach",
         "sternchen": 0,
-        "strasse": "An der B\u00f6schung 23a",
+        "strasse": "Franz-Werfel-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Physik",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Birgid",
+        "vorname": "Kerstin",
         "weiblich": true
     }
 }

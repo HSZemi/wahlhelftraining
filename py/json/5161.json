@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1369765,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1304905,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "26.03.1996",
-        "matrikelnummer": 2679662,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "02.05.1988",
+        "matrikelnummer": 11874,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Casper",
-        "plzort": "53225 Bonn",
+        "nachname": "Hilgers",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00fchndorfer Weg 17",
+        "strasse": "S\u00fcderstra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 8
             }
         ],
-        "vorname": "Adelbert",
+        "vorname": "Arwed",
         "weiblich": false
     }
 }

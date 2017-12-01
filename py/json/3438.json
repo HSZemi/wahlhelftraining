@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2989605,
-    "semester": "Sommersemester 2016",
+    "nummer": 1148426,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.05.1995",
-        "matrikelnummer": 13999,
+        "fakultaet": 3,
+        "geburtsdatum": "08.02.1994",
+        "matrikelnummer": 1990158,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nelles",
-        "plzort": "56288 Spesenroth",
+        "nachname": "A\u00dfmann",
+        "plzort": "22395 Hamburg",
         "sternchen": 0,
-        "strasse": "Maternstr. 9",
+        "strasse": "Bergstieg 2",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Volkher",
+        "vorname": "Inkmar",
         "weiblich": false
     }
 }

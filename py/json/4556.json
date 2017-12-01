@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2132248,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1144760,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "23.09.1997",
-        "matrikelnummer": 2921375,
+        "fakultaet": 6,
+        "geburtsdatum": "19.06.1998",
+        "matrikelnummer": 14136,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Janzen",
-        "plzort": "70197 Stuttgart",
+        "nachname": "R\u00fcdiger",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Hirschackerstr. 1",
+        "strasse": "Rothofleite 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Biologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
                 "fsem": 11
             }
         ],
-        "vorname": "Gernfried",
+        "vorname": "Rudolph",
         "weiblich": false
     }
 }

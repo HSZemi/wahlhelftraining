@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2370595,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2005680,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "15.08.1989",
-        "matrikelnummer": 2456262,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "02.05.1989",
+        "matrikelnummer": 2417005,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thiede",
-        "plzort": "91790 Raitenbuch",
+        "nachname": "Heber",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Bergstra\u00dfe 6",
+        "strasse": "Hermannstal 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Physik",
+                "fsem": 1
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 7
             }
         ],
-        "vorname": "Thilo",
-        "weiblich": false
+        "vorname": "Ermelinde",
+        "weiblich": true
     }
 }

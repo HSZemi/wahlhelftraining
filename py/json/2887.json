@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2804877,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2572403,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "15.12.1988",
-        "matrikelnummer": 1936326,
+        "fakultaet": 4,
+        "geburtsdatum": "22.08.1994",
+        "matrikelnummer": 2029856,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knopp",
-        "plzort": "07554 P\u00f6lzig",
+        "nachname": "Simon",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Altkleinzschachwitz 11",
+        "strasse": "Kl\u00f6ckelsbergstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
                 "fsem": 9
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Hartmann",
+        "vorname": "Winfrid",
         "weiblich": false
     }
 }

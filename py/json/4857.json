@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2520787,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1783134,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.07.1997",
-        "matrikelnummer": 2367776,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "20.11.1995",
+        "matrikelnummer": 2025416,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pagel",
-        "plzort": "53122 Bonn",
+        "nachname": "Rie\u00df",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Klosterberg 5b",
+        "strasse": "Franz-Liszt-Gasse 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Ferhard",
-        "weiblich": false
+        "vorname": "Viola",
+        "weiblich": true
     }
 }

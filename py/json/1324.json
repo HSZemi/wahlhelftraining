@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2064712,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1203289,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "10.01.1987",
-        "matrikelnummer": 2451697,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "16.11.1999",
+        "matrikelnummer": 2437372,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schillinger",
-        "plzort": "24256 Schlesen",
+        "nachname": "Wassermann",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Hofwiese 18",
+        "strasse": "Textorstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
                 "fach": "Pharmazie",
-                "fsem": 6
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Eleonora",
+        "vorname": "Lona",
         "weiblich": true
     }
 }

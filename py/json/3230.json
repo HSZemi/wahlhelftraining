@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2447616,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1688519,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.02.1992",
-        "matrikelnummer": 3194713,
+        "fakultaet": 9,
+        "geburtsdatum": "27.02.1999",
+        "matrikelnummer": 2983017,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pahl",
-        "plzort": "53228 Bonn",
+        "nachname": "Storch",
+        "plzort": "74927 Eschelbronn",
         "sternchen": 0,
-        "strasse": "Karl-Sch\u00fcler-Weg 26",
+        "strasse": "Carbonestra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Dunja",
+        "vorname": "Klothildis",
         "weiblich": true
     }
 }

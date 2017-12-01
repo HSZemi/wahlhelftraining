@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1840083,
+    "nummer": 1705077,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.07.1991",
-        "matrikelnummer": 1991734,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Degenhardt",
-        "plzort": "10553 Berlin",
+        "fakultaet": 8,
+        "geburtsdatum": "03.02.1987",
+        "matrikelnummer": 151523,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Jacob",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Ingolst\u00e4dter Stra\u00dfe 6b",
+        "strasse": "Ludwig-Ermold-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 12
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Herlinde",
-        "weiblich": true
+        "vorname": "Otfried",
+        "weiblich": false
     }
 }

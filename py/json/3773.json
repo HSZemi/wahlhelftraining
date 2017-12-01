@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2316521,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1324808,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.05.1992",
-        "matrikelnummer": 2669466,
+        "fakultaet": 6,
+        "geburtsdatum": "13.01.1992",
+        "matrikelnummer": 1930452,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4ring",
-        "plzort": "53196 Bonn",
+        "nachname": "Schaller",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Wunderburg 13",
+        "strasse": "Herbert-Weichmann-Br\u00fccke 10",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Geophysik",
+                "fsem": 12
             }
         ],
-        "vorname": "Erdmute",
+        "vorname": "Mechtild",
         "weiblich": true
     }
 }

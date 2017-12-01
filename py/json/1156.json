@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1607694,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1029709,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "12.10.1993",
-        "matrikelnummer": 12340,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "11.10.1988",
+        "matrikelnummer": 2313517,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diel",
-        "plzort": "53123 Bonn",
+        "nachname": "Salzmann",
+        "plzort": "98553 Eichenberg",
         "sternchen": 0,
-        "strasse": "Friesenstra\u00dfe 16",
+        "strasse": "Nebeniusstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 13
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             }
         ],
-        "vorname": "Gerolf",
-        "weiblich": false
+        "vorname": "Mareile",
+        "weiblich": true
     }
 }

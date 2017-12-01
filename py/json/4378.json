@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1901238,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2555530,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.11.1991",
-        "matrikelnummer": 2750022,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "01.05.1988",
+        "matrikelnummer": 19090,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4nel",
-        "plzort": "58762 Altena",
+        "nachname": "Hein",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Manderscheider Stra\u00dfe 2",
+        "strasse": "Gr\u00fcndenseestra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Sarina",
-        "weiblich": true
+        "vorname": "Hildebrand",
+        "weiblich": false
     }
 }

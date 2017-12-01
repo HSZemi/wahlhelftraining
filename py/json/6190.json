@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1236003,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2627947,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.06.1999",
-        "matrikelnummer": 2657841,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "24.05.1991",
+        "matrikelnummer": 2470565,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wenig",
-        "plzort": "53156 Bonn",
+        "nachname": "Lanz",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00fcdesheimer Stra\u00dfe 1",
+        "strasse": "Chausseehausstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Hartfried",
+        "vorname": "Joachim",
         "weiblich": false
     }
 }

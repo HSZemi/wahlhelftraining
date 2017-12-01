@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2179458,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 1655570,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.12.1999",
-        "matrikelnummer": 2977241,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "03.08.1999",
+        "matrikelnummer": 2556355,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Flach",
-        "plzort": "53174 Bonn",
+        "nachname": "Raddatz",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Hohemarkstra\u00dfe 4",
+        "strasse": "Am Buscherberg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
                 "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Xaver",
+        "vorname": "Meinhard",
         "weiblich": false
     }
 }

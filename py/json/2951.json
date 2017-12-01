@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1742420,
-    "semester": "Sommersemester 2016",
+    "nummer": 1020599,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "21.06.1991",
-        "matrikelnummer": 2727055,
+        "geburtsdatum": "09.12.1999",
+        "matrikelnummer": 11432,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlick",
-        "plzort": "53130 Bonn",
+        "nachname": "Jensen",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Drifft 18",
+        "strasse": "Waldhausstra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 13
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Helena",
-        "weiblich": true
+        "vorname": "Harald",
+        "weiblich": false
     }
 }

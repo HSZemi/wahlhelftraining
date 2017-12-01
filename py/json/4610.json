@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1635594,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2134022,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.11.1997",
-        "matrikelnummer": 12873,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "16.09.1994",
+        "matrikelnummer": 2877701,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hahn",
-        "plzort": "53172 Bonn",
+        "nachname": "Heinecke",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Haenel-Clau\u00df-Platz 45",
+        "strasse": "Hedwig-Dransfeld-Stra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "fach": "Rechtspsychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Freya",
+        "vorname": "Anuschka",
         "weiblich": true
     }
 }

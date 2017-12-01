@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1742752,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1523617,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "02.06.1993",
-        "matrikelnummer": 3066994,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "09.03.1992",
+        "matrikelnummer": 3035418,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bolz",
-        "plzort": "53194 Bonn",
+        "nachname": "Arndt",
+        "plzort": "86947 Weil",
         "sternchen": 0,
-        "strasse": "Volgersbrunnenweg 3",
+        "strasse": "Gotenstra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Molekulare Biomedizin",
-                "fsem": 13
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             },
             {
                 "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 8
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 13
             }
         ],
-        "vorname": "Gitti",
-        "weiblich": true
+        "vorname": "Hartmann",
+        "weiblich": false
     }
 }

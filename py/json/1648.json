@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1791520,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2410315,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "09.07.1994",
-        "matrikelnummer": 146826,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "21.08.1989",
+        "matrikelnummer": 2668989,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Thieme",
-        "plzort": "53146 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "B\u00f6hm",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Hohe Stra\u00dfe 10",
+        "strasse": "Marktweg 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "fach": "Tierwissenschaften",
                 "fsem": 7
             }
         ],
-        "vorname": "Adolfa",
-        "weiblich": true
+        "vorname": "Remigius",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2609793,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2093934,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.04.1998",
-        "matrikelnummer": 2560638,
+        "fakultaet": 5,
+        "geburtsdatum": "16.12.1991",
+        "matrikelnummer": 2157739,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Jentzsch",
-        "plzort": "56291 Birkheim",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Puls",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Mercatorstra\u00dfe 21c",
+        "strasse": "Hermann-Kunz-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Klassische Philologie/Griechisch",
+                "fsem": 13
             }
         ],
-        "vorname": "Danuta",
+        "vorname": "Olivia",
         "weiblich": true
     }
 }

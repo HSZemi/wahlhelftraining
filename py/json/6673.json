@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1254891,
-    "semester": "Sommersemester 2016",
+    "nummer": 1002889,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.06.1997",
-        "matrikelnummer": 2322652,
-        "mehrfachausfertigung": 4,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "02.07.1994",
+        "matrikelnummer": 3059048,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fichtner",
-        "plzort": "53168 Bonn",
+        "nachname": "Hauser",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Weitling-Stra\u00dfe 5",
+        "strasse": "Hermann-Krone-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Arzneimittelwissenschaften",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 6
             }
         ],
-        "vorname": "Lisanne",
-        "weiblich": true
+        "vorname": "Sven",
+        "weiblich": false
     }
 }

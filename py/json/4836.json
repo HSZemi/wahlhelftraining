@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2438588,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2084230,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "20.05.1995",
-        "matrikelnummer": 2697497,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "12.06.1995",
+        "matrikelnummer": 117636,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4fner",
-        "plzort": "53154 Bonn",
+        "nachname": "Tietz",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Am Dorngraben 2e",
+        "strasse": "Bergedorfer Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 8
             }
         ],
-        "vorname": "Karlfried",
-        "weiblich": false
+        "vorname": "Elwira",
+        "weiblich": true
     }
 }

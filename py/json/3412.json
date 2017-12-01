@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1149447,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2005389,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "20.12.1999",
-        "matrikelnummer": 2195076,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "26.01.1990",
+        "matrikelnummer": 2022079,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reichmann",
-        "plzort": "53210 Bonn",
+        "nachname": "Szymanski",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Auf der Scholle 2",
+        "strasse": "Friedrich Wilhelm Raiffeisen-Stra\u00dfe 60",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Edeltraud",
+        "vorname": "Isgard",
         "weiblich": true
     }
 }

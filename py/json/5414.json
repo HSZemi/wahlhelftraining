@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1446179,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1499482,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "14.08.1997",
-        "matrikelnummer": 12175,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "18.08.1999",
+        "matrikelnummer": 2345375,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eisele",
-        "plzort": "53137 Bonn",
+        "nachname": "Schultes",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Gamigstra\u00dfe 19",
+        "strasse": "Randsiedlung 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Mathematik",
+                "fsem": 8
             }
         ],
-        "vorname": "Carla",
-        "weiblich": true
+        "vorname": "Eberhard",
+        "weiblich": false
     }
 }

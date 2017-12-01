@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1257345,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1653592,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "17.09.1988",
-        "matrikelnummer": 2564400,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "24.07.1993",
+        "matrikelnummer": 18422,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meister",
-        "plzort": "88373 Fleischwangen",
+        "nachname": "Dre\u00dfler",
+        "plzort": "07387 Kr\u00f6lpa",
         "sternchen": 0,
-        "strasse": "Am Riederbruch 5",
+        "strasse": "Steinbacher Hohl 19",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
             }
         ],
-        "vorname": "Blasius",
+        "vorname": "Helgomar",
         "weiblich": false
     }
 }

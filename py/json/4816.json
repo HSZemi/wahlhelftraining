@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2834407,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2872510,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.07.1988",
-        "matrikelnummer": 2564050,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "09.10.1999",
+        "matrikelnummer": 2251717,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strau\u00df",
-        "plzort": "53170 Bonn",
+        "nachname": "G\u00f6hler",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Leisbergh\u00f6he 26",
+        "strasse": "Hofm\u00fchlenstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Wanda",
-        "weiblich": true
+        "vorname": "Lienhard",
+        "weiblich": false
     }
 }

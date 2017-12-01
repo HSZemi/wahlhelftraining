@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1633043,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1274331,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.02.1993",
-        "matrikelnummer": 3086813,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "08.02.1989",
+        "matrikelnummer": 3163628,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Michaelis",
-        "plzort": "53221 Bonn",
+        "nachname": "Burkert",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Zeiss-Abbe-Stra\u00dfe 21",
+        "strasse": "Fritz-Ehlers-Weg 5",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Altamerikanistik und Ethnologie",
-                "fsem": 5
+                "fach": "Katholische Theologie",
+                "fsem": 11
             },
             {
-                "abschluss": "",
-                "fach": "Medienkommunikation",
-                "fsem": 5
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Sibilla",
-        "weiblich": true
+        "vorname": "Gerhard",
+        "weiblich": false
     }
 }

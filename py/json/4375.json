@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2758654,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1112327,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "03.06.1996",
-        "matrikelnummer": 2929847,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "17.07.1999",
+        "matrikelnummer": 3174416,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bertram",
-        "plzort": "53218 Bonn",
+        "nachname": "Brandner",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Finthener Weg 10",
+        "strasse": "Leinpfadbr\u00fccke 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 9
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Sara",
+        "vorname": "Rosalinde",
         "weiblich": true
     }
 }

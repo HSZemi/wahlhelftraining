@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1172627,
+    "nummer": 1255741,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.11.1990",
-        "matrikelnummer": 2107165,
+        "fakultaet": 5,
+        "geburtsdatum": "27.05.1992",
+        "matrikelnummer": 2435140,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "D\u00f6rfler",
-        "plzort": "53190 Bonn",
+        "nachname": "Denecke",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Eschdorfer Stra\u00dfe 14",
+        "strasse": "L\u00f6\u00dfnitzweg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Telse",
-        "weiblich": true
+        "vorname": "Wenzel",
+        "weiblich": false
     }
 }

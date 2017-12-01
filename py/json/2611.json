@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2677987,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2381494,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "28.04.1994",
-        "matrikelnummer": 2154897,
+        "fakultaet": 2,
+        "geburtsdatum": "04.01.1993",
+        "matrikelnummer": 1912557,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wolter",
-        "plzort": "53196 Bonn",
+        "nachname": "Pitz",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Frauensteinplatz 29",
+        "strasse": "Fliederstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Wolfram",
-        "weiblich": false
+        "vorname": "Korinna",
+        "weiblich": true
     }
 }

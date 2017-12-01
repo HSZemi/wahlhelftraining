@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2589531,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2259676,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.11.1991",
-        "matrikelnummer": 19511,
+        "fakultaet": 8,
+        "geburtsdatum": "24.08.1990",
+        "matrikelnummer": 2695942,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Uhlmann",
-        "plzort": "53224 Bonn",
+        "nachname": "Dreher",
+        "plzort": "84100 Niederaichbach",
         "sternchen": 0,
-        "strasse": "An den Postwiesen 6",
+        "strasse": "N\u00fcrnberger Str. 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Siglinde",
+        "vorname": "Miroslawa",
         "weiblich": true
     }
 }

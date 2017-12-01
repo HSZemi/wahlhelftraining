@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1328722,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1387382,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "22.04.1999",
-        "matrikelnummer": 124011,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "22.09.1999",
+        "matrikelnummer": 2092036,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dorsch",
-        "plzort": "53173 Bonn",
+        "nachname": "Mutschler",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Magdeburger Stra\u00dfe 9",
+        "strasse": "bearbeiten 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Hispanistik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "S\u00fcdostasienwissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Helfred",
+        "vorname": "Marold",
         "weiblich": false
     }
 }

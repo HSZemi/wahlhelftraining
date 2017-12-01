@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1687391,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1748823,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.02.1994",
-        "matrikelnummer": 2421077,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kaden",
-        "plzort": "81671 M\u00fcnchen",
+        "fakultaet": 8,
+        "geburtsdatum": "28.04.1998",
+        "matrikelnummer": 2192157,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Friedrichs",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Leithaweg 2",
+        "strasse": "Charlotte-B\u00fchler-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 3
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Raymund",
-        "weiblich": false
+        "vorname": "Lieselene",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1882072,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2714150,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "01.06.1991",
-        "matrikelnummer": 187207,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "04.06.1992",
+        "matrikelnummer": 3005531,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kohler",
-        "plzort": "53185 Bonn",
+        "nachname": "Welzel",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Wiesenh\u00fcttenplatz 0e",
+        "strasse": "\u00d6tv\u00f6sgarten 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
                 "fsem": 3
             }
         ],
-        "vorname": "Eckhold",
-        "weiblich": false
+        "vorname": "Camilla",
+        "weiblich": true
     }
 }

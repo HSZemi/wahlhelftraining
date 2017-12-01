@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2700041,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2500466,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.07.1993",
-        "matrikelnummer": 2327428,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "13.11.1995",
+        "matrikelnummer": 2182602,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kellner",
-        "plzort": "53114 Bonn",
+        "nachname": "Schlecht",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Sodener Stra\u00dfe 14",
+        "strasse": "Hunnenweg 11",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 9
             }
         ],
-        "vorname": "Dorle",
-        "weiblich": true
+        "vorname": "Gernot",
+        "weiblich": false
     }
 }

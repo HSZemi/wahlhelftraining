@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1693778,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2278762,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "13.06.1998",
-        "matrikelnummer": 2966428,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "07.02.1989",
+        "matrikelnummer": 1909867,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Maa\u00df",
-        "plzort": "17039 Zirzow",
+        "nachname": "Rosendahl",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Marienstra\u00dfe 21",
+        "strasse": "Bozener Weg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Altamerikanistik und Ethnologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Meinold",
-        "weiblich": false
+        "vorname": "Eugenia",
+        "weiblich": true
     }
 }

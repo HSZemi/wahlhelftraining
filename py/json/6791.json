@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1060843,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1452303,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "15.01.1995",
-        "matrikelnummer": 2725339,
+        "fakultaet": 0,
+        "geburtsdatum": "23.09.1996",
+        "matrikelnummer": 2678594,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Worm",
-        "plzort": "53113 Bonn",
+        "nachname": "Matthias",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Dr.-Rattel-Str. 1b",
+        "strasse": "Stendaler Stra\u00dfe 26",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 10
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 11
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Didi",
-        "weiblich": false
+        "vorname": "Annagret",
+        "weiblich": true
     }
 }

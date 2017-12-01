@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2230151,
-    "semester": "Sommersemester 2016",
+    "nummer": 1861999,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "20.04.1997",
-        "matrikelnummer": 2470641,
+        "fakultaet": 8,
+        "geburtsdatum": "20.03.1993",
+        "matrikelnummer": 123348,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schurr",
-        "plzort": "26486 Wangerooge",
+        "nachname": "Grund",
+        "plzort": "85122 Hitzhofen",
         "sternchen": 0,
-        "strasse": "Heidengasse 3",
+        "strasse": "Wuttkestra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Ottobert",
-        "weiblich": false
+        "vorname": "Annina",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2539468,
-    "semester": "Sommersemester 2016",
+    "nummer": 1190472,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "28.01.1997",
-        "matrikelnummer": 2871827,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "04.01.1988",
+        "matrikelnummer": 1970828,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wanke",
-        "plzort": "53174 Bonn",
+        "nachname": "Schnurr",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Wehlener Stra\u00dfe 14",
+        "strasse": "Rosenrotweg 2",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "fach": "Musikwissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
+                "fsem": 12
             }
         ],
-        "vorname": "Gerta",
-        "weiblich": true
+        "vorname": "Emil",
+        "weiblich": false
     }
 }

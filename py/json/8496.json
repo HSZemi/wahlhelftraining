@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1974076,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1218744,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.08.1999",
-        "matrikelnummer": 3048589,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "15.08.1997",
+        "matrikelnummer": 2354459,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strauch",
-        "plzort": "53127 Bonn",
+        "nachname": "Martens",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Pohlandplatz 9",
+        "strasse": "Sierichstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 9
             }
         ],
-        "vorname": "Pascale",
-        "weiblich": true
+        "vorname": "Arnold",
+        "weiblich": false
     }
 }

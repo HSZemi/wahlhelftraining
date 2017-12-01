@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2664956,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1278540,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.07.1997",
-        "matrikelnummer": 2004139,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "11.09.1990",
+        "matrikelnummer": 19949,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6lzel",
-        "plzort": "38835 Osterode",
+        "nachname": "Reiss",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Zum M\u00fchlweg 34",
+        "strasse": "Linkstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 7
             }
         ],
-        "vorname": "Hannchen",
-        "weiblich": true
+        "vorname": "Hildebert",
+        "weiblich": false
     }
 }

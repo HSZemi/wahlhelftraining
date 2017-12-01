@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2294794,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1111168,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "19.11.1987",
-        "matrikelnummer": 2223800,
+        "geburtsdatum": "25.06.1994",
+        "matrikelnummer": 2594089,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Albert",
-        "plzort": "53151 Bonn",
+        "nachname": "Sieg",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Hainsberger Stra\u00dfe 4",
+        "strasse": "Langebr\u00fccker Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Friedegund",
+        "vorname": "Almuth",
         "weiblich": true
     }
 }

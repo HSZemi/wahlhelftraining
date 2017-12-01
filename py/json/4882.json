@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1669561,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2211229,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "27.04.1992",
-        "matrikelnummer": 3024603,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "01.03.1991",
+        "matrikelnummer": 2511056,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heyer",
-        "plzort": "39590 Heeren",
+        "nachname": "Hotz",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Lohrgasse 5",
+        "strasse": "Marderweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 1
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 11
             }
         ],
-        "vorname": "Germo",
+        "vorname": "Theo",
         "weiblich": false
     }
 }

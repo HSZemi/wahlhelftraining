@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2664391,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2474678,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "02.02.1992",
-        "matrikelnummer": 13712,
+        "geburtsdatum": "06.10.1993",
+        "matrikelnummer": 2033825,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00e4cker",
-        "plzort": "53198 Bonn",
+        "nachname": "K\u00f6nig",
+        "plzort": "15848 Speichrow",
         "sternchen": 0,
-        "strasse": "Im Weingarten 6c",
+        "strasse": "Zschierener Elbstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Mathematik",
-                "fsem": 8
+                "fach": "Meteorologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Nadeshda",
-        "weiblich": true
+        "vorname": "Ansgar",
+        "weiblich": false
     }
 }

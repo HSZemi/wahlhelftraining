@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2691169,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1555979,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.06.1996",
-        "matrikelnummer": 2412201,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "07.12.1994",
+        "matrikelnummer": 2095279,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Barz",
-        "plzort": "24632 Lentf\u00f6hrden",
+        "nachname": "Klotz",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Kindleinseiche 0",
+        "strasse": "Miquelallee 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 10
-            },
-            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "fach": "Psychologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Romi",
+        "vorname": "Eli",
         "weiblich": true
     }
 }

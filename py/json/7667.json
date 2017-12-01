@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1752488,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2491609,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "12.10.1992",
-        "matrikelnummer": 112378,
+        "fakultaet": 5,
+        "geburtsdatum": "04.12.1994",
+        "matrikelnummer": 2364097,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Bitter",
-        "plzort": "53213 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Nie\u00dfen",
+        "plzort": "24802 Emkendorf",
         "sternchen": 0,
-        "strasse": "Olberskamp 0",
+        "strasse": "Katharina-Petri-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Aron",
-        "weiblich": false
+        "vorname": "Helmtraud",
+        "weiblich": true
     }
 }

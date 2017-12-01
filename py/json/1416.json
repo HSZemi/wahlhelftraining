@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1391715,
+    "nummer": 1535005,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "06.10.1994",
-        "matrikelnummer": 172445,
+        "fakultaet": 4,
+        "geburtsdatum": "10.02.1991",
+        "matrikelnummer": 2442778,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Reif",
-        "plzort": "53190 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Donath",
+        "plzort": "24594 Hohenwestedt",
         "sternchen": 0,
-        "strasse": "Lehngutstra\u00dfe 18",
+        "strasse": "Bullenbergsweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
                 "fsem": 8
             }
         ],
-        "vorname": "Welfhard",
+        "vorname": "Hendrik",
         "weiblich": false
     }
 }

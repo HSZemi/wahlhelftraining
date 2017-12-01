@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1810903,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1595413,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.08.1998",
-        "matrikelnummer": 195102,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "14.03.1991",
+        "matrikelnummer": 2736397,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pl\u00f6ger",
-        "plzort": "53200 Bonn",
+        "nachname": "Krohn",
+        "plzort": "57577 Hamm",
         "sternchen": 0,
-        "strasse": "Blauenstra\u00dfe 1",
+        "strasse": "Seeblick 4",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Torben",
+        "vorname": "Wichard",
         "weiblich": false
     }
 }

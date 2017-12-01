@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2177188,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2371369,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.02.1992",
-        "matrikelnummer": 2042630,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "27.10.1987",
+        "matrikelnummer": 2954017,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thiede",
-        "plzort": "53165 Bonn",
+        "nachname": "Lemmer",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfheidestra\u00dfe 11",
+        "strasse": "Alemannenweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
                 "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 4
             }
         ],
-        "vorname": "Waldfried",
+        "vorname": "Edelbert",
         "weiblich": false
     }
 }

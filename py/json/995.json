@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2826536,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2629615,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "01.03.1992",
-        "matrikelnummer": 2781212,
+        "fakultaet": 4,
+        "geburtsdatum": "28.08.1989",
+        "matrikelnummer": 18112,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sohn",
-        "plzort": "53208 Bonn",
+        "nachname": "Kube",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Ostmoorweg 1",
+        "strasse": "Vilbeler Landstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 11
             }
         ],
-        "vorname": "Wolfrid",
-        "weiblich": false
+        "vorname": "Jeannette",
+        "weiblich": true
     }
 }

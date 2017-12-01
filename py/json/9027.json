@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2787726,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1068960,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.10.1990",
-        "matrikelnummer": 2958025,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "13.09.1996",
+        "matrikelnummer": 12767,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reiter",
-        "plzort": "53184 Bonn",
+        "nachname": "Erler",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Sandgrubenweg 0",
+        "strasse": "Eberhardtstr. 6",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Geologie/Pal\u00e4ontologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Allmar",
-        "weiblich": false
+        "vorname": "Heidegard",
+        "weiblich": true
     }
 }

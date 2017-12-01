@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2908595,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2449894,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "10.11.1996",
-        "matrikelnummer": 2892173,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "26.01.1995",
+        "matrikelnummer": 2891586,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaspar",
-        "plzort": "53155 Bonn",
+        "nachname": "K\u00f6llner",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Halskebr\u00fccke 8",
+        "strasse": "Falkenstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 7
+                "fach": "Zahnmedizin",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Birthe",
+        "vorname": "Marieliese",
         "weiblich": true
     }
 }

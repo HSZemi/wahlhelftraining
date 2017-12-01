@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2726656,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2274799,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "21.03.1989",
-        "matrikelnummer": 2600600,
+        "fakultaet": 0,
+        "geburtsdatum": "07.11.1992",
+        "matrikelnummer": 2858561,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schnabel",
-        "plzort": "53156 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sorge",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Michael-Hering-Weg 53",
+        "strasse": "Jammertal 34",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 11
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
                 "fsem": 10
             }
         ],
-        "vorname": "Joseph",
+        "vorname": "Freddy",
         "weiblich": false
     }
 }

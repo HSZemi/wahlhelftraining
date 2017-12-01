@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2462323,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1551379,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.08.1994",
-        "matrikelnummer": 2901130,
+        "fakultaet": 1,
+        "geburtsdatum": "19.09.1997",
+        "matrikelnummer": 3139326,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Greb",
-        "plzort": "09661 Striegistal",
+        "nachname": "Hansmann",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Gurkenallee 18",
+        "strasse": "Siedlerstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Arzneimittelwissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Aline",
+        "vorname": "Finchen",
         "weiblich": true
     }
 }

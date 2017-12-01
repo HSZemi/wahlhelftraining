@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1446900,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1368033,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "21.01.1997",
-        "matrikelnummer": 2327327,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "24.06.1997",
+        "matrikelnummer": 125968,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klaus",
-        "plzort": "53129 Bonn",
+        "nachname": "Kick",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Berzdorfer Stra\u00dfe 6",
+        "strasse": "Hellersiedlung Weg N 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Simon",
+        "vorname": "Falkmar",
         "weiblich": false
     }
 }

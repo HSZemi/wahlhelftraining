@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1729655,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2690077,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "10.05.1995",
-        "matrikelnummer": 119321,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "08.12.1989",
+        "matrikelnummer": 154760,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ehret",
-        "plzort": "53187 Bonn",
+        "nachname": "Back",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Jacob Rauschenfels-Gasse 0b",
+        "strasse": "Beim Berliner Tor 1",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 2
             }
         ],
-        "vorname": "Hannmeike",
-        "weiblich": true
+        "vorname": "Thorsten",
+        "weiblich": false
     }
 }

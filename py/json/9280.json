@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2197006,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1497623,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "01.11.1991",
-        "matrikelnummer": 2804748,
+        "fakultaet": 7,
+        "geburtsdatum": "08.11.1991",
+        "matrikelnummer": 2388636,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gei\u00dfler",
-        "plzort": "53173 Bonn",
+        "nachname": "Thaler",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Seehof 14",
+        "strasse": "Oben Borgfelde 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Runfried",
-        "weiblich": false
+        "vorname": "Ina",
+        "weiblich": true
     }
 }

@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2521253,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1814075,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "20.09.1995",
-        "matrikelnummer": 2127300,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "10.11.1995",
+        "matrikelnummer": 2393425,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Peschel",
-        "plzort": "53207 Bonn",
+        "nachname": "Sch\u00fctze",
+        "plzort": "06682 Deuben",
         "sternchen": 0,
-        "strasse": "Gr\u00e4sigter Weg 1",
+        "strasse": "Josef-Kindshofen-Str. 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Vergleichende Religionswissenschaft",
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
                 "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Kunstgeschichte",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Geologie/Pal\u00e4ontologie",
-                "fsem": 9
             }
         ],
-        "vorname": "Elli",
-        "weiblich": true
+        "vorname": "Blasius",
+        "weiblich": false
     }
 }

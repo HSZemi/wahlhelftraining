@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1654181,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2312780,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "24.08.1996",
-        "matrikelnummer": 2502467,
+        "fakultaet": 8,
+        "geburtsdatum": "04.02.1997",
+        "matrikelnummer": 1928482,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwalbe",
-        "plzort": "53212 Bonn",
+        "nachname": "Lackner",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "An der Schanze 1",
+        "strasse": "Zweite Grevenbr\u00fccke 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 9
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
                 "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Fridulf",
-        "weiblich": false
+        "vorname": "Dietlinde",
+        "weiblich": true
     }
 }

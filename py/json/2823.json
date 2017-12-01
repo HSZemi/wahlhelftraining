@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2359101,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1556383,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.05.1999",
-        "matrikelnummer": 2596626,
+        "fakultaet": 4,
+        "geburtsdatum": "08.10.1998",
+        "matrikelnummer": 2387246,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kummer",
-        "plzort": "53116 Bonn",
+        "nachname": "Thies",
+        "plzort": "06543 Hermerode",
         "sternchen": 0,
-        "strasse": "Pirnaischer Platz 0",
+        "strasse": "Masurenweg 34",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Lieselene",
+        "vorname": "Irma",
         "weiblich": true
     }
 }

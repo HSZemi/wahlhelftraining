@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2864001,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2499778,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "11.06.1988",
-        "matrikelnummer": 3092468,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "21.07.1990",
+        "matrikelnummer": 182070,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kleine",
-        "plzort": "53147 Bonn",
+        "nachname": "Thelen",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Breedenweg 0",
+        "strasse": "Oskar-Mai-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Latein",
-                "fsem": 11
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             },
             {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Vera",
+        "vorname": "Nadja",
         "weiblich": true
     }
 }

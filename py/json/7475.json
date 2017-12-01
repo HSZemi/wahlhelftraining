@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1433522,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1103620,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.06.1999",
-        "matrikelnummer": 3001606,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "27.02.1993",
+        "matrikelnummer": 2268963,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
         "nachname": "Wiedemann",
-        "plzort": "53120 Bonn",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Weyermannstr. 4",
+        "strasse": "Ruprechtstra\u00dfe 6b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Gretlies",
+        "vorname": "Gundhild",
         "weiblich": true
     }
 }

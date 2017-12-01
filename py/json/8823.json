@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2996666,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1697875,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.02.1993",
-        "matrikelnummer": 2129623,
+        "fakultaet": 8,
+        "geburtsdatum": "02.11.1989",
+        "matrikelnummer": 2761480,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hilgers",
-        "plzort": "53215 Bonn",
+        "nachname": "Strube",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Grumbacher Stra\u00dfe 0",
+        "strasse": "Washingtonallee 5",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 3
             },
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Reglind",
-        "weiblich": true
+        "vorname": "Oswin",
+        "weiblich": false
     }
 }

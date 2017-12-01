@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1163345,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2649736,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "25.02.1993",
-        "matrikelnummer": 2358874,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Teske",
-        "plzort": "53125 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "13.01.1994",
+        "matrikelnummer": 2392235,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Staudinger",
+        "plzort": "64385 Reichelsheim",
         "sternchen": 0,
-        "strasse": "Leo-Tolstoj-Stra\u00dfe 0",
+        "strasse": "Dr. Ernst Franz-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Sprachliche Kommunikation",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Koreanisch",
+                "fsem": 8
             }
         ],
-        "vorname": "Sven",
+        "vorname": "Justus",
         "weiblich": false
     }
 }

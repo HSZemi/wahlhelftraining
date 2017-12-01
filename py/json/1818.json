@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1091624,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2668175,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "17.04.1999",
-        "matrikelnummer": 16483,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "23.09.1989",
+        "matrikelnummer": 2159619,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gabler",
-        "plzort": "53220 Bonn",
+        "nachname": "Kummer",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00e4destra\u00dfe 1",
+        "strasse": "Reichenhaller Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Didaktik der Naturwissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Paulfried",
+        "vorname": "Gotthard",
         "weiblich": false
     }
 }

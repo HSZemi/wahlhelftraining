@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": true,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1717272,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1158654,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "24.07.1998",
-        "matrikelnummer": 119180,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "06.11.1991",
+        "matrikelnummer": 2608326,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wolf",
-        "plzort": "53226 Bonn",
+        "nachname": "Boy",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Carl-Goerdeler-Stra\u00dfe 18",
+        "strasse": "Schwanenwik 1b",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Tibetologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
+                "fsem": 5
             }
         ],
-        "vorname": "Ribana",
+        "vorname": "Franzi",
         "weiblich": true
     }
 }

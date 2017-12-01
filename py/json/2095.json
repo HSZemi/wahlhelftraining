@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2830438,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1795399,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.12.1999",
-        "matrikelnummer": 12432,
+        "fakultaet": 0,
+        "geburtsdatum": "06.11.1996",
+        "matrikelnummer": 190771,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Huber",
-        "plzort": "53163 Bonn",
+        "nachname": "Hubert",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Stumpenweg 7",
+        "strasse": "Dora-Stock-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Wunnibald",
+        "vorname": "Gottfried",
         "weiblich": false
     }
 }

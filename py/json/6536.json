@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1552326,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1820108,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "03.11.1996",
-        "matrikelnummer": 2357406,
+        "fakultaet": 6,
+        "geburtsdatum": "10.11.1996",
+        "matrikelnummer": 2687788,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Vater",
-        "plzort": "53191 Bonn",
+        "nachname": "Sailer",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Volgersbrunnenweg 4",
+        "strasse": "An der S\u00fcdlehne 7",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 1
             },
             {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Urban",
-        "weiblich": false
+        "vorname": "Ivonne",
+        "weiblich": true
     }
 }

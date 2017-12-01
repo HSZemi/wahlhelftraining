@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2346845,
-    "semester": "Sommersemester 2016",
+    "nummer": 2772326,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "24.12.1990",
-        "matrikelnummer": 188642,
+        "fakultaet": 9,
+        "geburtsdatum": "17.05.1988",
+        "matrikelnummer": 2312877,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siekmann",
-        "plzort": "53155 Bonn",
+        "nachname": "Na\u00df",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Radeberger Stra\u00dfe 5",
+        "strasse": "Fallerslebenstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 10
             }
         ],
-        "vorname": "Gerborg",
-        "weiblich": true
+        "vorname": "Hanskarl",
+        "weiblich": false
     }
 }

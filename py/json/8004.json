@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1372638,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2460702,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "19.04.1999",
-        "matrikelnummer": 153552,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "24.10.1998",
+        "matrikelnummer": 2629306,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Escher",
-        "plzort": "53202 Bonn",
+        "nachname": "Weidner",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Apostelstra\u00dfe 5",
+        "strasse": "Neuegasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Geographie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 11
             }
         ],
-        "vorname": "Rolf",
-        "weiblich": false
+        "vorname": "Friedhilde",
+        "weiblich": true
     }
 }

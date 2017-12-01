@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2211161,
+    "nummer": 1197673,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.08.1999",
-        "matrikelnummer": 3049932,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "25.04.1996",
+        "matrikelnummer": 2801299,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schnelle",
-        "plzort": "53152 Bonn",
+        "nachname": "Marschall",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrichsstr. 16",
+        "strasse": "Steingasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Sylvio",
-        "weiblich": false
+        "vorname": "Griseldis",
+        "weiblich": true
     }
 }

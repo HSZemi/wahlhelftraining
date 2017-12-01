@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1082035,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1302397,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "28.01.1985",
-        "matrikelnummer": 2270714,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "25.05.1995",
+        "matrikelnummer": 2188326,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Held",
-        "plzort": "53161 Bonn",
+        "nachname": "Richter",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Seinsheimstr. 28",
+        "strasse": "Rathenauplatz 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Sigrun",
-        "weiblich": true
+        "vorname": "Arnfried",
+        "weiblich": false
     }
 }

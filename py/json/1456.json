@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1294774,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2258285,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.03.1992",
-        "matrikelnummer": 12279,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "20.02.1992",
+        "matrikelnummer": 2968272,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niemeyer",
-        "plzort": "53168 Bonn",
+        "nachname": "Bremer",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Tiberiusstra\u00dfe 20",
+        "strasse": "Waitzstra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 4
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
             }
         ],
-        "vorname": "Wiltraud",
+        "vorname": "Hildegart",
         "weiblich": true
     }
 }

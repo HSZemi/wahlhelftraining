@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1419546,
-    "semester": "Sommersemester 2016",
+    "nummer": 1341452,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "25.05.1990",
-        "matrikelnummer": 1981393,
+        "fakultaet": 9,
+        "geburtsdatum": "08.07.1999",
+        "matrikelnummer": 2015568,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinrich",
-        "plzort": "53220 Bonn",
+        "nachname": "Wenzel",
+        "plzort": "75015 Bretten",
         "sternchen": 0,
-        "strasse": "Landgraf-Philipp-Stra\u00dfe 0",
+        "strasse": "Eytelweinstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Marcus",
+        "vorname": "Wolrad",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2042396,
-    "semester": "Sommersemester 2016",
+    "nummer": 1356937,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "03.10.1996",
-        "matrikelnummer": 2489612,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "21.02.1992",
+        "matrikelnummer": 131959,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Birkholz",
-        "plzort": "53184 Bonn",
+        "nachname": "Henrich",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Streekbr\u00fccke 11",
+        "strasse": "Kirsch\u00e4ckerstr. 23e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Politikwissenschaft",
+                "fsem": 11
             }
         ],
-        "vorname": "Christmut",
+        "vorname": "Lenz",
         "weiblich": false
     }
 }

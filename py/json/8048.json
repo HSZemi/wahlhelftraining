@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1899216,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1339674,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.04.1990",
-        "matrikelnummer": 2728365,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 3,
+        "geburtsdatum": "03.01.1993",
+        "matrikelnummer": 3140288,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diefenbach",
-        "plzort": "53112 Bonn",
+        "nachname": "Bornemann",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hopfenfeld 0",
+        "strasse": "Else-Alken-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Urthe",
-        "weiblich": true
+        "vorname": "Birk",
+        "weiblich": false
     }
 }

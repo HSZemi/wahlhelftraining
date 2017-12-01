@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2921773,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1630942,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.11.1995",
-        "matrikelnummer": 2527755,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "09.01.1993",
+        "matrikelnummer": 2120580,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gruner",
-        "plzort": "53212 Bonn",
+        "nachname": "John",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Schweizer Stra\u00dfe 6",
+        "strasse": "Herbesthaler Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Neuere deutsche Literatur",
-                "fsem": 6
+                "fach": "Chemie",
+                "fsem": 3
             },
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
             }
         ],
-        "vorname": "Herwig",
-        "weiblich": false
+        "vorname": "Wilhelmine",
+        "weiblich": true
     }
 }

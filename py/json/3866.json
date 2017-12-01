@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1978598,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2241962,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "09.02.1995",
-        "matrikelnummer": 2242165,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "19.01.1994",
+        "matrikelnummer": 2430165,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wecker",
-        "plzort": "53210 Bonn",
+        "nachname": "Brose",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Kl\u00fcberstra\u00dfe 22a",
+        "strasse": "M\u00fclheimer Ring 14",
         "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
+            },
             {
                 "abschluss": "Promotion",
                 "fach": "Entwicklungsforschung",
-                "fsem": 9
+                "fsem": 13
             }
         ],
-        "vorname": "Franca",
+        "vorname": "Elsabe",
         "weiblich": true
     }
 }

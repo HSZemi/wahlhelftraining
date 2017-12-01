@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1756457,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2814350,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "20.12.1994",
-        "matrikelnummer": 2203247,
+        "fakultaet": 9,
+        "geburtsdatum": "19.10.1996",
+        "matrikelnummer": 16635,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Backes",
-        "plzort": "53148 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Poppe",
+        "plzort": "27624 K\u00fchrstedt",
         "sternchen": 0,
-        "strasse": "Textorstra\u00dfe 7",
+        "strasse": "Neumattring 1c",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             },
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Nikolas",
+        "vorname": "Eduardt",
         "weiblich": false
     }
 }

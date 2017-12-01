@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2343019,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2759528,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "06.06.1999",
-        "matrikelnummer": 148855,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "14.12.1999",
+        "matrikelnummer": 2126424,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Vo\u00df",
-        "plzort": "53123 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Herbert-von-Meister-Stra\u00dfe 25c",
+        "strasse": "Ortenaustr. / mit Stichstr. 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 10
+                "fach": "Life Science Informatics",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 9
             }
         ],
-        "vorname": "Ottfried",
+        "vorname": "Marcel",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1305096,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2772928,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.08.1993",
-        "matrikelnummer": 114633,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "02.06.1983",
+        "matrikelnummer": 13114,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "F\u00f6rster",
-        "plzort": "53205 Bonn",
+        "nachname": "Behling",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Koppenhofgasse 5",
+        "strasse": "Thiemanns Weg 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
-                "fsem": 10
+                "fach": "Psychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Michael",
+        "vorname": "Reinbert",
         "weiblich": false
     }
 }

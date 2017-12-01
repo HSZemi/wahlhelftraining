@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2072358,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2243181,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.05.1995",
-        "matrikelnummer": 2110364,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "28.04.1998",
+        "matrikelnummer": 3134947,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kr\u00f6ber",
-        "plzort": "24392 Dollrottfeld",
+        "nachname": "Heider",
+        "plzort": "39264 Walternienburg",
         "sternchen": 0,
-        "strasse": "Uhlenhorster Weg 39",
+        "strasse": "Hertelstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 1
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Heidemaria",
-        "weiblich": true
+        "vorname": "Friedhardt",
+        "weiblich": false
     }
 }

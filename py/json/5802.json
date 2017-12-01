@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2332115,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1261967,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "12.02.1996",
-        "matrikelnummer": 2657802,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "12.09.1996",
+        "matrikelnummer": 2295052,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00fctter",
-        "plzort": "53138 Bonn",
+        "nachname": "Nielsen",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "F\u00e4hrhausbr\u00fccke 14",
+        "strasse": "Werrastra\u00dfe 29",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 4
             }
         ],
-        "vorname": "Walli",
-        "weiblich": true
+        "vorname": "Stefan",
+        "weiblich": false
     }
 }

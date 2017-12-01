@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2235943,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2193856,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.08.1994",
-        "matrikelnummer": 2554657,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "25.11.1998",
+        "matrikelnummer": 2328287,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Enders",
-        "plzort": "53118 Bonn",
+        "nachname": "Pietzsch",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Drifft 16",
+        "strasse": "Erste Grevenbr\u00fccke 17",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Sighart",
+        "vorname": "Seppl",
         "weiblich": false
     }
 }

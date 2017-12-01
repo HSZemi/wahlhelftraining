@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2002470,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 1953782,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "04.11.1994",
-        "matrikelnummer": 2413369,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "06.08.1996",
+        "matrikelnummer": 2787788,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niedermeier",
-        "plzort": "53199 Bonn",
+        "nachname": "Glock",
+        "plzort": "25693 Gudendorf",
         "sternchen": 0,
-        "strasse": "Hellersiedlung Weg K 18",
+        "strasse": "Am Alten Volkshaus 39",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 1
             }
         ],
-        "vorname": "Gereon",
-        "weiblich": false
+        "vorname": "Elfi",
+        "weiblich": true
     }
 }

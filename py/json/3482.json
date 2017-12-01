@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1531176,
-    "semester": "Sommersemester 2016",
+    "nummer": 2158352,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.07.1995",
-        "matrikelnummer": 2451470,
+        "fakultaet": 8,
+        "geburtsdatum": "07.01.1996",
+        "matrikelnummer": 14290,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerth",
-        "plzort": "53171 Bonn",
+        "nachname": "Freytag",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Pr\u00f6stlweg 1",
+        "strasse": "Singapurweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 12
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Dolores",
+        "vorname": "Holdina",
         "weiblich": true
     }
 }

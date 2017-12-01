@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2041902,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1199657,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "14.02.1991",
-        "matrikelnummer": 162228,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "05.09.1992",
+        "matrikelnummer": 2219472,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strasser",
-        "plzort": "53163 Bonn",
+        "nachname": "Heidemann",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Hardenbergstra\u00dfe 11",
+        "strasse": "Hauboldstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Manhard",
-        "weiblich": false
+        "vorname": "Zofia",
+        "weiblich": true
     }
 }

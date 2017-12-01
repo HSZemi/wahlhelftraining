@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2859685,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2999559,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.06.1999",
-        "matrikelnummer": 1946210,
+        "fakultaet": 9,
+        "geburtsdatum": "05.09.1984",
+        "matrikelnummer": 2755445,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bl\u00fcmel",
-        "plzort": "29413 Bornsen",
+        "nachname": "Metzner",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Roter Grabenweg 15",
+        "strasse": "Schlesierweg 5",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
+            },
+            {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 2
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 13
             }
         ],
-        "vorname": "Uto",
+        "vorname": "Otfried",
         "weiblich": false
     }
 }

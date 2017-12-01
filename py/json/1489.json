@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": true
+        "gremien": true,
+        "sp": false
     },
-    "nummer": 1624340,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1591652,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "10.01.1992",
-        "matrikelnummer": 197327,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "01.03.1999",
+        "matrikelnummer": 2001380,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Raddatz",
-        "plzort": "53153 Bonn",
+        "nachname": "Bott",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Silberbornstra\u00dfe 6",
+        "strasse": "Bielefelder Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Geographie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Bertwalda",
-        "weiblich": true
+        "vorname": "Neithart",
+        "weiblich": false
     }
 }

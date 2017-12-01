@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2642745,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1797586,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "19.08.1996",
-        "matrikelnummer": 19485,
+        "fakultaet": 2,
+        "geburtsdatum": "24.07.1994",
+        "matrikelnummer": 2411561,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Timmermann",
-        "plzort": "53113 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Seidler",
+        "plzort": "21762 Otterndorf",
         "sternchen": 0,
-        "strasse": "Leutewitzer Stra\u00dfe 4",
+        "strasse": "R\u00f6hrborngasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Albina",
+        "vorname": "Fridoline",
         "weiblich": true
     }
 }

@@ -1,41 +1,56 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2014109,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1610853,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.03.1991",
-        "matrikelnummer": 2336240,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "20.08.1992",
+        "matrikelnummer": 140519,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Alber",
-        "plzort": "53200 Bonn",
+        "nachname": "Kasper",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Pforzheimer Stra\u00dfe 14",
+        "strasse": "Am Stadtrand 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kommunikationswissenschaften",
-                "fsem": 1
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 7
             },
             {
                 "abschluss": "",
-                "fach": "Psychologie",
-                "fsem": 13
+                "fach": "Katholische Religionslehre",
+                "fsem": 3
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 1
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Olli",
+        "vorname": "Silvio",
         "weiblich": false
     }
 }

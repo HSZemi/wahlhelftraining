@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1919513,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1554224,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "14.03.1992",
-        "matrikelnummer": 17476,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Glei\u00dfner",
-        "plzort": "53221 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "06.03.1990",
+        "matrikelnummer": 3157404,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Himmel",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "W\u00f6hlerstra\u00dfe 33",
+        "strasse": "Hauskoppel 4b",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 1
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 2
             }
         ],
-        "vorname": "Loretta",
-        "weiblich": true
+        "vorname": "Reinold",
+        "weiblich": false
     }
 }

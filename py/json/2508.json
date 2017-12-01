@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2689380,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1291462,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.04.1997",
-        "matrikelnummer": 2670233,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Friese",
-        "plzort": "53120 Bonn",
+        "fakultaet": 9,
+        "geburtsdatum": "02.03.1999",
+        "matrikelnummer": 1959398,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Spiller",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "August-Macke-Weg 6",
+        "strasse": "Erlichstr. 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Mathematics",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Florentin",
-        "weiblich": false
+        "vorname": "Henriette",
+        "weiblich": true
     }
 }

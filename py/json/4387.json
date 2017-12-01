@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1955146,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2836209,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.04.1996",
-        "matrikelnummer": 3199231,
+        "fakultaet": 6,
+        "geburtsdatum": "17.07.1992",
+        "matrikelnummer": 2083274,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sadowski",
-        "plzort": "25712 Kuden",
+        "nachname": "Straube",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Richard-Wagner-Stra\u00dfe 15",
+        "strasse": "Blumenstra\u00dfenbr\u00fccke 42",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 6
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Stephanus",
+        "vorname": "Renold",
         "weiblich": false
     }
 }

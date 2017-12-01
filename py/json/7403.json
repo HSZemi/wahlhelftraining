@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1299054,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2201828,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "02.07.1993",
-        "matrikelnummer": 152270,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "12.06.1997",
+        "matrikelnummer": 2266908,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00f6sch",
-        "plzort": "53151 Bonn",
+        "nachname": "Raschke",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Brandenburger Weg 1",
+        "strasse": "Klaus-Groth-Stra\u00dfe 7",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 1
+                "fach": "Medizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Oslinde",
+        "vorname": "Linhilde",
         "weiblich": true
     }
 }

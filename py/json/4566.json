@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1762776,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1664964,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "02.06.1990",
-        "matrikelnummer": 1989011,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Stevens",
-        "plzort": "94151 Mauth",
+        "geburtsdatum": "16.07.1992",
+        "matrikelnummer": 2142658,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Heinisch",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Gerhart-Hauptmann-Stra\u00dfe 7",
+        "strasse": "Caspar-David-Friedrich-Stra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Neithart",
+        "vorname": "Luitwin",
         "weiblich": false
     }
 }

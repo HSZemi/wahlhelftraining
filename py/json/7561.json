@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1145842,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1804817,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.09.1991",
-        "matrikelnummer": 2536861,
+        "fakultaet": 5,
+        "geburtsdatum": "07.04.1992",
+        "matrikelnummer": 2592286,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kipp",
-        "plzort": "16845 Temnitztal",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schlecht",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00fcgelgenstra\u00dfe 2",
+        "strasse": "Emdener Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Lienard",
-        "weiblich": false
+        "vorname": "Friederun",
+        "weiblich": true
     }
 }

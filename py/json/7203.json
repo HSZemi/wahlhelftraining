@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2452791,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2655882,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.04.1992",
-        "matrikelnummer": 2102338,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "25.08.1983",
+        "matrikelnummer": 2987748,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiegand",
-        "plzort": "53138 Bonn",
+        "nachname": "Kania",
+        "plzort": "65375 Oestrich-Winkel",
         "sternchen": 0,
-        "strasse": "Johann-Klotz-Stra\u00dfe 13",
+        "strasse": "Im Wichheimer Feld 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 8
             }
         ],
-        "vorname": "Pia",
-        "weiblich": true
+        "vorname": "Bernd",
+        "weiblich": false
     }
 }

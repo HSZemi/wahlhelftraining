@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2138084,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2064276,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.10.1984",
-        "matrikelnummer": 2080490,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "23.12.1997",
+        "matrikelnummer": 11112,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Menge",
-        "plzort": "87754 Kammlach",
+        "nachname": "Ferber",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Kuriergang 11",
+        "strasse": "Emil-Sulzbach-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 3
             }
         ],
-        "vorname": "Hansludwig",
+        "vorname": "Heilwig",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1840936,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1717945,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.07.1989",
-        "matrikelnummer": 2049888,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "23.05.1993",
+        "matrikelnummer": 2972489,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reis",
-        "plzort": "59192 Bergkamen",
+        "nachname": "Biedermann",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Kitzb\u00fchler Stra\u00dfe 4d",
+        "strasse": "Eilendorfer Moorweg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Rainmund",
+        "vorname": "Reinholdt",
         "weiblich": false
     }
 }

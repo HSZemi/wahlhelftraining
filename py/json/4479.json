@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1130360,
+    "nummer": 2762792,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.04.1986",
-        "matrikelnummer": 2066577,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "09.07.1991",
+        "matrikelnummer": 2257170,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Toth",
-        "plzort": "92283 Lauterhofen",
+        "nachname": "Reisinger",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "An der Landscheide 11",
+        "strasse": "Elefantengasse 8a",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 9
             }
         ],
-        "vorname": "Sonnhard",
-        "weiblich": false
+        "vorname": "Sibylla",
+        "weiblich": true
     }
 }

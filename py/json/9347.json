@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2043621,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1154945,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.12.1986",
-        "matrikelnummer": 3025154,
+        "fakultaet": 4,
+        "geburtsdatum": "11.07.1994",
+        "matrikelnummer": 2972402,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Donner",
-        "plzort": "53148 Bonn",
+        "nachname": "Gundlach",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Helfenberger Stra\u00dfe 19",
+        "strasse": "K\u00f6nighofgasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kunstgeschichte",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechische Literatur der Antike und ihr Fortleben",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 11
             }
         ],
-        "vorname": "Sieghild",
+        "vorname": "Anke",
         "weiblich": true
     }
 }

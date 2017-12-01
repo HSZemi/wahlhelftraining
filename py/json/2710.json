@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1390110,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1019898,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "20.05.1999",
-        "matrikelnummer": 2381288,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "04.02.1986",
+        "matrikelnummer": 2737764,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Warnke",
-        "plzort": "53206 Bonn",
+        "nachname": "Christ",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Am Rausch 10",
+        "strasse": "Bernhard-von-Lindenau-Platz 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Philosophie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Italianistik",
+                "fsem": 6
             }
         ],
-        "vorname": "Arnolf",
+        "vorname": "Isfried",
         "weiblich": false
     }
 }

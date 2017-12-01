@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1670076,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1371904,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.11.1999",
-        "matrikelnummer": 141320,
+        "fakultaet": 4,
+        "geburtsdatum": "25.10.1994",
+        "matrikelnummer": 2473348,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rode",
-        "plzort": "53147 Bonn",
+        "nachname": "Steck",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Rotk\u00e4ppchenweg 0",
+        "strasse": "Archenholzstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 1
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Hildelies",
-        "weiblich": true
+        "vorname": "Roger",
+        "weiblich": false
     }
 }

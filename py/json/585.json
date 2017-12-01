@@ -1,46 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2305110,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2449780,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.08.1997",
-        "matrikelnummer": 2128351,
+        "fakultaet": 0,
+        "geburtsdatum": "17.12.1994",
+        "matrikelnummer": 2803780,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Debus",
-        "plzort": "53204 Bonn",
+        "nachname": "Ludewig",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Franz-Latzel-Stra\u00dfe 8",
+        "strasse": "An der Aue 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 7
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 12
             },
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
                 "fsem": 10
             }
         ],
-        "vorname": "Janin",
-        "weiblich": true
+        "vorname": "Kurd",
+        "weiblich": false
     }
 }

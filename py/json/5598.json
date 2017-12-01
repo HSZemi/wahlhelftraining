@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1151483,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2709337,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.12.1997",
-        "matrikelnummer": 2963319,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "23.03.1999",
+        "matrikelnummer": 3108084,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mielke",
-        "plzort": "53177 Bonn",
+        "nachname": "L\u00fcdtke",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Franz-Mehring-Stra\u00dfe 0",
+        "strasse": "Albrecht-von-Eyb-Leite 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Italienisch",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 1
             }
         ],
-        "vorname": "Wilfried",
-        "weiblich": false
+        "vorname": "Rosemaria",
+        "weiblich": true
     }
 }

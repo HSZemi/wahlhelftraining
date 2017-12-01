@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1390387,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2901848,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.12.1993",
-        "matrikelnummer": 2866619,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "19.04.1991",
+        "matrikelnummer": 14372,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Petermann",
-        "plzort": "53152 Bonn",
+        "nachname": "K\u00fcpper",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Ischler Stra\u00dfe 17",
+        "strasse": "Anton-G\u00fcnther-Weg 28",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Christhardt",
+        "vorname": "Herold",
         "weiblich": false
     }
 }

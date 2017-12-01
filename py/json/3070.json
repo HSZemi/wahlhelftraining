@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2981108,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2718676,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.03.1990",
-        "matrikelnummer": 2319499,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "26.10.1992",
+        "matrikelnummer": 2030810,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Matzke",
-        "plzort": "53170 Bonn",
+        "nachname": "Baumbach",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Zauckeroder Stra\u00dfe 20",
+        "strasse": "B\u00e4rensteiner Stra\u00dfe 29",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 3
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Nicole",
+        "vorname": "Apollonia",
         "weiblich": true
     }
 }

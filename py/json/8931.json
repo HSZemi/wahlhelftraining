@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1342611,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1019410,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.12.1999",
-        "matrikelnummer": 189028,
+        "fakultaet": 2,
+        "geburtsdatum": "13.12.1992",
+        "matrikelnummer": 171487,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krau\u00dfe",
-        "plzort": "22143 Hamburg",
+        "nachname": "Thon",
+        "plzort": "26340 Zetel",
         "sternchen": 0,
-        "strasse": "Gerolsteiner Stra\u00dfe 2",
+        "strasse": "H\u00f6tzlring 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Germanistik",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Knuth",
-        "weiblich": false
+        "vorname": "Christiane",
+        "weiblich": true
     }
 }

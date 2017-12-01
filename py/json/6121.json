@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1182647,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1164710,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "07.03.1989",
-        "matrikelnummer": 2522609,
+        "fakultaet": 5,
+        "geburtsdatum": "02.07.1989",
+        "matrikelnummer": 2193941,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schock",
-        "plzort": "53116 Bonn",
+        "nachname": "J\u00e4kel",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Fischadlerstieg 58",
+        "strasse": "Brunnenweg 28",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 13
             }
         ],
-        "vorname": "Thoralf",
+        "vorname": "Raik",
         "weiblich": false
     }
 }

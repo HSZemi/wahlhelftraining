@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2593833,
-    "semester": "Sommersemester 2016",
+    "nummer": 1291436,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.02.1987",
-        "matrikelnummer": 2413624,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "11.11.1991",
+        "matrikelnummer": 140126,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Flick",
-        "plzort": "53139 Bonn",
+        "nachname": "Schild",
+        "plzort": "17392 Boldekow",
         "sternchen": 0,
-        "strasse": "Waldstr. 26",
+        "strasse": "Wasgaustra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "German and Comparative Literature",
+                "fsem": 11
             }
         ],
-        "vorname": "Arnhild",
+        "vorname": "Gaby",
         "weiblich": true
     }
 }

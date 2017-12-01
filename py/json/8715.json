@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1363683,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1064557,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.01.1995",
-        "matrikelnummer": 157673,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Weller",
-        "plzort": "53132 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "03.12.1999",
+        "matrikelnummer": 2392638,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Effenberger",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Hollestra\u00dfe 12e",
+        "strasse": "Terrassenwohnpark 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 6
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Irmlind",
+        "vorname": "Cristina",
         "weiblich": true
     }
 }

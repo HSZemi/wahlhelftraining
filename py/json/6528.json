@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2314426,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1029838,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "20.08.1992",
-        "matrikelnummer": 19469,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "20.09.1989",
+        "matrikelnummer": 3177428,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spiegel",
-        "plzort": "56412 Oberelbert",
+        "nachname": "Diederich",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Garbenweg 3",
+        "strasse": "Palmerstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
+                "abschluss": "Master of Arts",
+                "fach": "Skandinavistik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Chemie",
                 "fsem": 6
             }
         ],
-        "vorname": "Franziska",
+        "vorname": "Ilsabe",
         "weiblich": true
     }
 }

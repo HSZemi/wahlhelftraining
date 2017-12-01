@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2177285,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2268174,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.06.1994",
-        "matrikelnummer": 2244557,
+        "fakultaet": 9,
+        "geburtsdatum": "16.04.1993",
+        "matrikelnummer": 2142957,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steiger",
-        "plzort": "53139 Bonn",
+        "nachname": "Michel",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Marienburgstra\u00dfe 2",
+        "strasse": "Dunantstr. 14",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Donate",
-        "weiblich": true
+        "vorname": "Jonas",
+        "weiblich": false
     }
 }

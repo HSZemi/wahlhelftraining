@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2008008,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1936151,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "22.10.1995",
-        "matrikelnummer": 2736645,
+        "fakultaet": 5,
+        "geburtsdatum": "13.01.1997",
+        "matrikelnummer": 18552,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kusch",
-        "plzort": "24253 Fahren",
+        "nachname": "Dittrich",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Haufes Berg 2a",
+        "strasse": "Billstieg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Anglistik/Amerikanische Sprache u. Literatur",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 11
             }
         ],
-        "vorname": "Neidhard",
-        "weiblich": false
+        "vorname": "Damaris",
+        "weiblich": true
     }
 }

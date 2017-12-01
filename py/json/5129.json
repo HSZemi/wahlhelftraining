@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1451960,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2414984,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.07.1996",
-        "matrikelnummer": 2516822,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 2,
+        "geburtsdatum": "22.06.1993",
+        "matrikelnummer": 133489,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rosendahl",
-        "plzort": "36452 Fischbach/Rh\u00f6n",
+        "nachname": "Kuschel",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Sonnenbergstra\u00dfe 0",
+        "strasse": "Liststra\u00dfe 26",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Meteorologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 6
             }
         ],
-        "vorname": "Kunigunda",
-        "weiblich": true
+        "vorname": "Dietrich",
+        "weiblich": false
     }
 }

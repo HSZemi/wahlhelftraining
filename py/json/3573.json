@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2825368,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1948543,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.10.1995",
-        "matrikelnummer": 2665557,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "06.06.1996",
+        "matrikelnummer": 3008364,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feige",
-        "plzort": "07549 Gera",
+        "nachname": "Wirtz",
+        "plzort": "56357 Berg",
         "sternchen": 0,
-        "strasse": "Gro\u00dfe Rittergasse 8",
+        "strasse": "Berthelsdorfer Weg 40",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 4
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Mathias",
+        "vorname": "Mathis",
         "weiblich": false
     }
 }

@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1147249,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1369862,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.06.1988",
-        "matrikelnummer": 1918304,
+        "fakultaet": 4,
+        "geburtsdatum": "02.02.1999",
+        "matrikelnummer": 2918265,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Burger",
-        "plzort": "79268 B\u00f6tzingen",
+        "nachname": "Menne",
+        "plzort": "99428 Hopfgarten",
         "sternchen": 0,
-        "strasse": "Esterhazyplatz 25",
+        "strasse": "Gr\u00e4bchenweg 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Adelgund",
-        "weiblich": true
+        "vorname": "Hansheinz",
+        "weiblich": false
     }
 }

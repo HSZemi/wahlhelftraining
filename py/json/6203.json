@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2819781,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1714972,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.09.1997",
-        "matrikelnummer": 17543,
+        "fakultaet": 1,
+        "geburtsdatum": "18.12.1996",
+        "matrikelnummer": 14772,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "P\u00f6schl",
-        "plzort": "53141 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klinke",
+        "plzort": "10625 Berlin",
         "sternchen": 0,
-        "strasse": "Friedrich-Ebert-Str. 6",
+        "strasse": "Otto-Dittrich-Stra\u00dfe 37",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 6
             }
         ],
-        "vorname": "Ingeruth",
-        "weiblich": true
+        "vorname": "Conrad",
+        "weiblich": false
     }
 }

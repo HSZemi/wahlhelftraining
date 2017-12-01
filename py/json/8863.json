@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1718314,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1258336,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.06.1994",
-        "matrikelnummer": 2395110,
+        "fakultaet": 8,
+        "geburtsdatum": "19.12.1993",
+        "matrikelnummer": 2805808,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Zell",
-        "plzort": "53142 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "K\u00e4stner",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Miquelallee 13",
+        "strasse": "Stockheimer Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 1
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Nortrun",
-        "weiblich": true
+        "vorname": "Marius",
+        "weiblich": false
     }
 }

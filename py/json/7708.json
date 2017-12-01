@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1806918,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2718419,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.02.1999",
-        "matrikelnummer": 2498834,
+        "fakultaet": 5,
+        "geburtsdatum": "22.09.1990",
+        "matrikelnummer": 2486064,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ackermann",
-        "plzort": "53162 Bonn",
+        "nachname": "Bergemann",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Proschh\u00fcbelstra\u00dfe 1",
+        "strasse": "Elly-Heuss-Knapp-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Roselind",
+        "vorname": "Frederike",
         "weiblich": true
     }
 }

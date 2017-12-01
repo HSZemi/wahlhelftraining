@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2577202,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2380280,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 7,
-        "geburtsdatum": "01.02.1997",
-        "matrikelnummer": 2107656,
+        "geburtsdatum": "14.01.1995",
+        "matrikelnummer": 3018087,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwenk",
-        "plzort": "53216 Bonn",
+        "nachname": "Tauber",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Emerich-Ambros-Ufer 4",
+        "strasse": "Zur Sch\u00e4ferei 25",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 9
+                "fach": "Tierwissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Sven",
-        "weiblich": false
+        "vorname": "Isolde",
+        "weiblich": true
     }
 }

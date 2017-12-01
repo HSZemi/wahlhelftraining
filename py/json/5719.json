@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2726686,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2727112,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.07.1994",
-        "matrikelnummer": 2326351,
+        "fakultaet": 5,
+        "geburtsdatum": "15.10.1985",
+        "matrikelnummer": 2531621,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaminski",
-        "plzort": "56330 Kobern-Gondorf",
+        "nachname": "Gerke",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Friedensstra\u00dfe 7",
+        "strasse": "Buchenhain 33",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
+                "abschluss": "Promotion",
+                "fach": "Didaktik der Naturwissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 12
             }
         ],
-        "vorname": "Gebhard",
-        "weiblich": false
+        "vorname": "Leoni",
+        "weiblich": true
     }
 }

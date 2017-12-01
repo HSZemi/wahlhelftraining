@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2774422,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2247128,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "12.02.1999",
-        "matrikelnummer": 3179267,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "16.03.1994",
+        "matrikelnummer": 2207711,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fromme",
-        "plzort": "53180 Bonn",
+        "nachname": "Fehr",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Fidelio-F.-Finke-Stra\u00dfe 3",
+        "strasse": "Lindenweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 11
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Karla",
-        "weiblich": true
+        "vorname": "Edelwald",
+        "weiblich": false
     }
 }

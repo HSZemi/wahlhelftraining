@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2640228,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2559822,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.05.1994",
-        "matrikelnummer": 182769,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "04.10.1999",
+        "matrikelnummer": 2364965,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hennemann",
-        "plzort": "53148 Bonn",
+        "nachname": "Strasser",
+        "plzort": "86424 Dinkelscherben",
         "sternchen": 0,
-        "strasse": "K\u00e4ferstieg 9e",
+        "strasse": "Pinkertweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Geologie/Pal\u00e4ontologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Odilo",
+        "vorname": "Wendel",
         "weiblich": false
     }
 }

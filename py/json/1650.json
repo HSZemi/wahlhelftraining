@@ -1,41 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2345726,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1084365,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 8,
-        "geburtsdatum": "08.10.1992",
-        "matrikelnummer": 3052476,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "07.10.1988",
+        "matrikelnummer": 117323,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Licht",
-        "plzort": "16835 R\u00fcthnick",
+        "nachname": "Kuhlmann",
+        "plzort": "17309 Marienthal",
         "sternchen": 0,
-        "strasse": "Iselinstra\u00dfe 17",
+        "strasse": "Riederstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Latein",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
                 "fsem": 6
             },
             {
                 "abschluss": "",
-                "fach": "Katholische Religionslehre",
+                "fach": "Evangelische Religionslehre",
                 "fsem": 6
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "fsem": 13
             }
         ],
-        "vorname": "Elma",
-        "weiblich": true
+        "vorname": "Ehrenfried",
+        "weiblich": false
     }
 }

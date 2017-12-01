@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1185098,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1539634,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "23.11.1994",
-        "matrikelnummer": 12218,
+        "fakultaet": 6,
+        "geburtsdatum": "05.12.1999",
+        "matrikelnummer": 2647495,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kroll",
-        "plzort": "53123 Bonn",
+        "nachname": "Paulus",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "D\u00f6rnichtweg 8d",
+        "strasse": "Synagogenplatz 8c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Chemie",
+                "fsem": 8
             },
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
             }
         ],
-        "vorname": "Sylvia",
+        "vorname": "Amalie",
         "weiblich": true
     }
 }

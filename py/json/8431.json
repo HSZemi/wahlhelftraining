@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2794407,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1150832,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "25.06.1992",
-        "matrikelnummer": 12207,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "07.08.1991",
+        "matrikelnummer": 2549256,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scheffer",
-        "plzort": "22927 Gro\u00dfhansdorf",
+        "nachname": "Hertel",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Heimfriedweg 1",
+        "strasse": "Maltenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Gesellschaften, Globalisierung und Entwicklung",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 2
             }
         ],
-        "vorname": "Gunhilde",
+        "vorname": "Wera",
         "weiblich": true
     }
 }

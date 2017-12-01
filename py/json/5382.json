@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2411825,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2136939,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "10.05.1991",
-        "matrikelnummer": 2094647,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "06.10.1991",
+        "matrikelnummer": 2058363,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leber",
-        "plzort": "53126 Bonn",
+        "nachname": "Erhard",
+        "plzort": "18586 Gager",
         "sternchen": 0,
-        "strasse": "Am Lohwald 14",
+        "strasse": "Pfarrfeldstr. 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 2
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 9
             }
         ],
-        "vorname": "Annalene",
+        "vorname": "Kati",
         "weiblich": true
     }
 }

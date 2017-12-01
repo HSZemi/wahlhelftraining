@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1835633,
-    "semester": "Sommersemester 2016",
+    "nummer": 2087068,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.04.1999",
-        "matrikelnummer": 2921267,
+        "fakultaet": 8,
+        "geburtsdatum": "08.07.1993",
+        "matrikelnummer": 2565075,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckel",
-        "plzort": "53150 Bonn",
+        "nachname": "Winkel",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Kaspar-Sp\u00e4t-Str. 5",
+        "strasse": "Sonnenbergstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 6
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Otwin",
-        "weiblich": false
+        "vorname": "Corinne",
+        "weiblich": true
     }
 }

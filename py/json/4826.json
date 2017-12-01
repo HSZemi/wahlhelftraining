@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2351262,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2352450,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "18.03.1994",
-        "matrikelnummer": 3178429,
+        "fakultaet": 0,
+        "geburtsdatum": "19.12.1989",
+        "matrikelnummer": 3026205,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bertram",
-        "plzort": "53153 Bonn",
+        "nachname": "Engel",
+        "plzort": "54646 Burg",
         "sternchen": 0,
-        "strasse": "Talstra\u00dfe 4d",
+        "strasse": "Neuer Markt 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Diethart",
+        "vorname": "Bertin",
         "weiblich": false
     }
 }

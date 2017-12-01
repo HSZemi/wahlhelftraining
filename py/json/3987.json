@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1302101,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2264022,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "23.02.1994",
-        "matrikelnummer": 2785590,
+        "fakultaet": 2,
+        "geburtsdatum": "18.12.1995",
+        "matrikelnummer": 2934671,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Katz",
-        "plzort": "98596 Trusetal",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sa\u00df",
+        "plzort": "88697 Bermatingen",
         "sternchen": 0,
-        "strasse": "Stavenort 23",
+        "strasse": "Walter-Hesselbach-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 10
             }
         ],
-        "vorname": "Bartold",
+        "vorname": "Cay",
         "weiblich": false
     }
 }

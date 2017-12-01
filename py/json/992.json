@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1910239,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2329746,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.04.1999",
-        "matrikelnummer": 186596,
+        "fakultaet": 6,
+        "geburtsdatum": "03.03.1988",
+        "matrikelnummer": 2375957,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Karcher",
-        "plzort": "98617 Meiningen",
+        "nachname": "Weniger",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Hirschb\u00fchlstr. 11",
+        "strasse": "Mittelstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Arnold",
+        "vorname": "Kuno",
         "weiblich": false
     }
 }

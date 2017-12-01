@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1720475,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2487609,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.05.1989",
-        "matrikelnummer": 190034,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 1,
+        "geburtsdatum": "04.11.1988",
+        "matrikelnummer": 18067,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hillmann",
-        "plzort": "53194 Bonn",
+        "nachname": "Sacher",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Wilhelm-von-Steuben-Stra\u00dfe 3",
+        "strasse": "Burgunderweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Eginhardt",
-        "weiblich": false
+        "vorname": "Inga",
+        "weiblich": true
     }
 }

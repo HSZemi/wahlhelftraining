@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2995372,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1344417,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.07.1992",
-        "matrikelnummer": 17704,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 0,
+        "geburtsdatum": "21.10.1991",
+        "matrikelnummer": 3146294,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerling",
-        "plzort": "53205 Bonn",
+        "nachname": "Valentin",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "An der Linde 5",
+        "strasse": "Krumme Gasse 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
             }
         ],
-        "vorname": "Inga",
-        "weiblich": true
+        "vorname": "Dietbald",
+        "weiblich": false
     }
 }

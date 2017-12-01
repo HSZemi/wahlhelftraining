@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1786257,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2558232,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.08.1994",
-        "matrikelnummer": 2078888,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "25.04.1993",
+        "matrikelnummer": 2376901,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weidemann",
-        "plzort": "53196 Bonn",
+        "nachname": "Meyer",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Steigerweg 3",
+        "strasse": "Geibelstra\u00dfe 26",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 12
+                "fach": "Keltologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch-Italienische Studien",
+                "fsem": 2
             }
         ],
-        "vorname": "Manfred",
-        "weiblich": false
+        "vorname": "Irmgard",
+        "weiblich": true
     }
 }

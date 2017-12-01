@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1849096,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2425968,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.01.1993",
-        "matrikelnummer": 2320600,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "26.07.1991",
+        "matrikelnummer": 133024,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seewald",
-        "plzort": "53191 Bonn",
+        "nachname": "Mair",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Beim Pachthof 4",
+        "strasse": "Baumeisterstra\u00dfe 10d",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
             }
         ],
-        "vorname": "Wedig",
-        "weiblich": false
+        "vorname": "Gerta",
+        "weiblich": true
     }
 }

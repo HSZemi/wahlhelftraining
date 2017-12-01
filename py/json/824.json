@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1100039,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1251016,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.10.1991",
-        "matrikelnummer": 172329,
+        "fakultaet": 3,
+        "geburtsdatum": "24.01.1988",
+        "matrikelnummer": 2284249,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holzinger",
-        "plzort": "53183 Bonn",
+        "nachname": "Horvath",
+        "plzort": "02708 Gro\u00dfschweidnitz",
         "sternchen": 0,
-        "strasse": "Blauhandgasse 7",
+        "strasse": "Wilhelm-Roser-Weg 24",
         "studienfaecher": [
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
+            },
             {
                 "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "fsem": 12
             }
         ],
-        "vorname": "Margolf",
-        "weiblich": false
+        "vorname": "Feli",
+        "weiblich": true
     }
 }

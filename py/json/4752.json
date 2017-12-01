@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2998823,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2726360,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.05.1992",
-        "matrikelnummer": 3184941,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "24.08.1996",
+        "matrikelnummer": 2097367,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerhardt",
-        "plzort": "53120 Bonn",
+        "nachname": "Harnisch",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Schwabstra\u00dfe 16",
+        "strasse": "Habelstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 12
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 12
             }
         ],
-        "vorname": "Burgel",
+        "vorname": "Gertrude",
         "weiblich": true
     }
 }

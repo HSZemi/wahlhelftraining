@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1087916,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2677465,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "24.07.1991",
-        "matrikelnummer": 3087429,
+        "geburtsdatum": "19.08.1989",
+        "matrikelnummer": 2132924,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Carstensen",
-        "plzort": "53207 Bonn",
+        "nachname": "Feist",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Pillnitzer Platz 0",
+        "strasse": "Herbert-Quandt-Str. 6a",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 3
             }
         ],
-        "vorname": "Kordula",
-        "weiblich": true
+        "vorname": "Gerhardt",
+        "weiblich": false
     }
 }

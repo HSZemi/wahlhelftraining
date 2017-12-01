@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2713249,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2035278,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.05.1995",
-        "matrikelnummer": 198390,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "26.06.1992",
+        "matrikelnummer": 2362435,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Palm",
-        "plzort": "78554 Aldingen",
+        "nachname": "Huppertz",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Meranierstr. 3",
+        "strasse": "Zum Jammertal 2",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 10
+                "fach": "Ernaehrungswiss.",
+                "fsem": 8
             }
         ],
-        "vorname": "Heidelinde",
+        "vorname": "Ute",
         "weiblich": true
     }
 }

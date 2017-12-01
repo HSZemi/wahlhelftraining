@@ -1,46 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1991848,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1224478,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.08.1996",
-        "matrikelnummer": 12513,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "09.01.1990",
+        "matrikelnummer": 2190550,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rettig",
-        "plzort": "53154 Bonn",
+        "nachname": "Lesch",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Am Kronenh\u00fcgel 7",
+        "strasse": "Burgkstra\u00dfe 24",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 13
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
+                "abschluss": "LA BA Berufskolleg",
                 "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 12
+                "fsem": 8
             },
             {
                 "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 12
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "fsem": 8
             }
         ],
-        "vorname": "Ellengard",
-        "weiblich": true
+        "vorname": "Eric",
+        "weiblich": false
     }
 }

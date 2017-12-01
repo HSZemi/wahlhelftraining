@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1475807,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1571969,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.01.1992",
-        "matrikelnummer": 2663326,
+        "fakultaet": 9,
+        "geburtsdatum": "16.03.1993",
+        "matrikelnummer": 2774809,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Spiekermann",
-        "plzort": "53114 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klement",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Tullastra\u00dfe 0",
+        "strasse": "Im Wichheimer Feld 3",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "fach": "Historische Geographie",
+                "fsem": 10
             }
         ],
-        "vorname": "Kai",
-        "weiblich": false
+        "vorname": "Suzanne",
+        "weiblich": true
     }
 }

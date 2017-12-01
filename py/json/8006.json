@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2040143,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2848955,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.05.1999",
-        "matrikelnummer": 3139932,
+        "fakultaet": 5,
+        "geburtsdatum": "04.08.1986",
+        "matrikelnummer": 3180621,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stuber",
-        "plzort": "54459 Wiltingen",
+        "nachname": "Knoth",
+        "plzort": "99706 Badra",
         "sternchen": 0,
-        "strasse": "Friesstra\u00dfe 1",
+        "strasse": "Schuhgasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Romanistik",
+                "fsem": 1
             }
         ],
-        "vorname": "Renold",
+        "vorname": "Ingram",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1621752,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1943101,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "26.07.1997",
-        "matrikelnummer": 2323621,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "23.02.1989",
+        "matrikelnummer": 170181,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jablonski",
-        "plzort": "90599 Dietenhofen",
+        "nachname": "Mahr",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Volgersbrunnenweg 3d",
+        "strasse": "Wed 15e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 13
             }
         ],
-        "vorname": "Sibilla",
-        "weiblich": true
+        "vorname": "Borwin",
+        "weiblich": false
     }
 }

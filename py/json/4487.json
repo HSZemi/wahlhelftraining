@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2557124,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1562069,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "25.05.1991",
-        "matrikelnummer": 2025355,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "17.01.1999",
+        "matrikelnummer": 2780590,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dengler",
-        "plzort": "53143 Bonn",
+        "nachname": "Grams",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Theilerstr. 2d",
+        "strasse": "Bamberger Str. 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Applied Linguistics",
+                "fsem": 13
             }
         ],
-        "vorname": "Benno",
-        "weiblich": false
+        "vorname": "Steffi",
+        "weiblich": true
     }
 }

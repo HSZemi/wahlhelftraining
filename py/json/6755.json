@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2127711,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1699983,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "11.10.1999",
-        "matrikelnummer": 3124746,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "27.07.1989",
+        "matrikelnummer": 2304571,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Popp",
-        "plzort": "53126 Bonn",
+        "nachname": "Engel",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bundleshof 6",
+        "strasse": "Brillenburgskamp 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Theophilus",
-        "weiblich": false
+        "vorname": "Mirella",
+        "weiblich": true
     }
 }

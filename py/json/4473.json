@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1401965,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2987304,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.05.1990",
-        "matrikelnummer": 2106786,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "16.03.1990",
+        "matrikelnummer": 193087,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kretzer",
-        "plzort": "53114 Bonn",
+        "nachname": "Pelzer",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Kolbergstra\u00dfe 9",
+        "strasse": "Vogelsanger Weg 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Biologie",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 5
             }
         ],
-        "vorname": "Nikolas",
+        "vorname": "Leon",
         "weiblich": false
     }
 }

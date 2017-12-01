@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1311474,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2761543,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.09.1995",
-        "matrikelnummer": 176362,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "08.06.1993",
+        "matrikelnummer": 17749,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfeil",
-        "plzort": "53119 Bonn",
+        "nachname": "Pollmann",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Rasselweg 9",
+        "strasse": "Sch\u00f6nbornstr. 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Islamwissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Margot",
+        "vorname": "Jelena",
         "weiblich": true
     }
 }

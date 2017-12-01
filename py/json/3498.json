@@ -1,23 +1,23 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1026787,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2363474,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "08.03.1990",
-        "matrikelnummer": 2563144,
+        "geburtsdatum": "22.05.1995",
+        "matrikelnummer": 2435857,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schultz",
-        "plzort": "53194 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stra\u00dfer",
+        "plzort": "21438 Brackel",
         "sternchen": 0,
-        "strasse": "Heinzstra\u00dfe 26",
+        "strasse": "Aubr\u00fccke 66",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
@@ -25,7 +25,7 @@
                 "fsem": 7
             }
         ],
-        "vorname": "Annely",
+        "vorname": "Hildeburg",
         "weiblich": true
     }
 }

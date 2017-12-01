@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1356772,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2642293,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.01.1999",
-        "matrikelnummer": 2646396,
+        "fakultaet": 7,
+        "geburtsdatum": "14.05.1993",
+        "matrikelnummer": 125481,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rieck",
-        "plzort": "53173 Bonn",
+        "nachname": "Potthoff",
+        "plzort": "33397 Rietberg",
         "sternchen": 0,
-        "strasse": "Hellersiedlung Weg H 3",
+        "strasse": "Lodischgasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 6
             }
         ],
-        "vorname": "Hansotto",
-        "weiblich": false
+        "vorname": "Monique",
+        "weiblich": true
     }
 }

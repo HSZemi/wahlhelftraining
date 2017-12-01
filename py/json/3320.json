@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1921346,
+    "nummer": 2971261,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "08.06.1999",
-        "matrikelnummer": 2852258,
+        "geburtsdatum": "12.06.1986",
+        "matrikelnummer": 2050160,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stuber",
-        "plzort": "53142 Bonn",
+        "nachname": "Pichler",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "In der Fuchskaut 7",
+        "strasse": "M\u00fchlfeld 44",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Arzneimittelforschung (Drug Research)",
-                "fsem": 6
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Karen",
-        "weiblich": true
+        "vorname": "Wulfhard",
+        "weiblich": false
     }
 }

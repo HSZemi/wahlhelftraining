@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1281821,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2391499,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.09.1991",
-        "matrikelnummer": 2085707,
+        "fakultaet": 7,
+        "geburtsdatum": "24.05.1995",
+        "matrikelnummer": 2608133,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sell",
-        "plzort": "53177 Bonn",
+        "nachname": "Kuch",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Steintorplatz 1c",
+        "strasse": "Reeperbahn 31",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Fine",
+        "vorname": "Aynur",
         "weiblich": true
     }
 }

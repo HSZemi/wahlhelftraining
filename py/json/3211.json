@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2340016,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2151841,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "15.07.1992",
-        "matrikelnummer": 3120386,
+        "fakultaet": 8,
+        "geburtsdatum": "08.01.1996",
+        "matrikelnummer": 13194,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gla\u00df",
-        "plzort": "53206 Bonn",
+        "nachname": "Kerkhoff",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Mayer-Stra\u00dfe 17b",
+        "strasse": "Neunkircher Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Mariechen",
-        "weiblich": true
+        "vorname": "Maximillian",
+        "weiblich": false
     }
 }

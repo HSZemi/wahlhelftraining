@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2071120,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2929045,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "12.03.1992",
-        "matrikelnummer": 158480,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "15.09.1996",
+        "matrikelnummer": 3106575,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Engelke",
-        "plzort": "39264 Zernitz",
+        "nachname": "Hilger",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Am Keppschlo\u00df 7c",
+        "strasse": "Haeussermannstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 8
             }
         ],
-        "vorname": "Walburga",
-        "weiblich": true
+        "vorname": "Ruprecht",
+        "weiblich": false
     }
 }

@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1891637,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2015890,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "03.01.1986",
-        "matrikelnummer": 2119562,
+        "fakultaet": 6,
+        "geburtsdatum": "22.08.1995",
+        "matrikelnummer": 2959708,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinig",
-        "plzort": "53215 Bonn",
+        "nachname": "Klo\u00df",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Konrad-Kreutzer-Stra\u00dfe 26",
+        "strasse": "Oskar-Mai-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
             }
         ],
-        "vorname": "Susanne",
+        "vorname": "Anni",
         "weiblich": true
     }
 }

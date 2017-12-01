@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1556659,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2483096,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.06.1991",
-        "matrikelnummer": 187439,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "26.10.1994",
+        "matrikelnummer": 162350,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fr\u00f6hlich",
-        "plzort": "99947 Kleinwelsbach",
+        "nachname": "Sch\u00fcle",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Am Wiesental 17",
+        "strasse": "Th\u00e4terstra\u00dfe 24",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Fritzi",
+        "vorname": "Emine",
         "weiblich": true
     }
 }

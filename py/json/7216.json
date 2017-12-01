@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2693893,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1167210,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "01.06.1988",
-        "matrikelnummer": 2155077,
+        "geburtsdatum": "02.02.1990",
+        "matrikelnummer": 2632090,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Borrmann",
-        "plzort": "53196 Bonn",
+        "nachname": "G\u00f6dde",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Albert-Wolf-Platz 0",
+        "strasse": "Kaitzer Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geschichte",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 5
             },
             {
                 "abschluss": "",
-                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 13
+                "fach": "Evangelische Religionslehre",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Eddi",
-        "weiblich": false
+        "vorname": "Barbara",
+        "weiblich": true
     }
 }

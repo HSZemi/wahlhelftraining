@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1260697,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2419308,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "22.11.1987",
-        "matrikelnummer": 2014097,
+        "fakultaet": 2,
+        "geburtsdatum": "27.09.1994",
+        "matrikelnummer": 2965499,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Aydin",
-        "plzort": "53212 Bonn",
+        "nachname": "J\u00fcrgens",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Ginsterstieg 1",
+        "strasse": "G\u00f6rzer Str. 4",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             },
             {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Dankmar",
+        "vorname": "Meinulf",
         "weiblich": false
     }
 }

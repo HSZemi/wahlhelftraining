@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2527992,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1273875,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "08.05.1999",
-        "matrikelnummer": 2274747,
+        "fakultaet": 5,
+        "geburtsdatum": "23.08.1996",
+        "matrikelnummer": 2742033,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Jessen",
-        "plzort": "53165 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Bier",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Runkeler Stra\u00dfe 1",
+        "strasse": "Kastanienweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 5
             }
         ],
-        "vorname": "Irmelinde",
+        "vorname": "Danica",
         "weiblich": true
     }
 }

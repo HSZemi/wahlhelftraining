@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2178922,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1605686,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.11.1999",
-        "matrikelnummer": 2446028,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "20.09.1990",
+        "matrikelnummer": 2018633,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scheele",
-        "plzort": "53115 Bonn",
+        "nachname": "Gerstner",
+        "plzort": "74629 Pfedelbach",
         "sternchen": 0,
-        "strasse": "Boxdorfer Weg 25",
+        "strasse": "Am Brack 16",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geographie",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Katarina",
-        "weiblich": true
+        "vorname": "Dominik",
+        "weiblich": false
     }
 }

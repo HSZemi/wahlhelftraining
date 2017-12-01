@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1074183,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1901696,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "26.03.1998",
-        "matrikelnummer": 3052925,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "21.11.1991",
+        "matrikelnummer": 2759111,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Aigner",
-        "plzort": "55758 Oberw\u00f6rresbach",
+        "nachname": "Jankowski",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Repsoldstra\u00dfe 7",
+        "strasse": "Stegwiese 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 2
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 13
             }
         ],
-        "vorname": "Gerthold",
-        "weiblich": false
+        "vorname": "Antonina",
+        "weiblich": true
     }
 }

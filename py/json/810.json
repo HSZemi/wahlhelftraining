@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1173125,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1245476,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.02.1998",
-        "matrikelnummer": 2260396,
+        "fakultaet": 5,
+        "geburtsdatum": "01.01.1997",
+        "matrikelnummer": 2640832,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Faust",
-        "plzort": "53193 Bonn",
+        "nachname": "Reinhart",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Elisabeth-Boer-Stra\u00dfe 2a",
+        "strasse": "Am Kohlenplatz 4",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Altamerikanistik/Ethnologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 2
             }
         ],
-        "vorname": "Burghardt",
+        "vorname": "Wolfmar",
         "weiblich": false
     }
 }

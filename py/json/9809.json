@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1419584,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1708448,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "16.07.1998",
-        "matrikelnummer": 2100239,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "02.10.1986",
+        "matrikelnummer": 3016655,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wildner",
-        "plzort": "06667 Pretzsch",
+        "nachname": "He\u00df",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Neschwitzer Stra\u00dfe 13",
+        "strasse": "B\u00fchlauer Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 10
             }
         ],
-        "vorname": "Friedegunde",
-        "weiblich": true
+        "vorname": "Harro",
+        "weiblich": false
     }
 }

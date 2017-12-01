@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2405650,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1825104,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.06.1997",
-        "matrikelnummer": 2237641,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "22.01.1992",
+        "matrikelnummer": 3006455,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmelz",
-        "plzort": "53126 Bonn",
+        "nachname": "Mock",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Kettelerallee 6",
+        "strasse": "Hainstr. 7c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Asienwissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Phillippus",
-        "weiblich": false
+        "vorname": "Wendelgard",
+        "weiblich": true
     }
 }

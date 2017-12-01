@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2812263,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1868905,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.01.1996",
-        "matrikelnummer": 2252191,
+        "fakultaet": 6,
+        "geburtsdatum": "11.11.1994",
+        "matrikelnummer": 147230,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Konrad",
-        "plzort": "53215 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rohrer",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Zentgrafenstra\u00dfe 7",
+        "strasse": "Altmannbr\u00fccke 26",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Mathematik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 7
             }
         ],
-        "vorname": "Birga",
-        "weiblich": true
+        "vorname": "Hanfried",
+        "weiblich": false
     }
 }

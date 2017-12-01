@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1301835,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1936190,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.04.1994",
-        "matrikelnummer": 2995414,
+        "fakultaet": 5,
+        "geburtsdatum": "10.01.1999",
+        "matrikelnummer": 185957,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6ck",
-        "plzort": "39291 Lostau",
+        "nachname": "Weinrich",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Eberhardstra\u00dfe 8",
+        "strasse": "Saalfelder Stra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geologie/Pal\u00e4ontologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Komparatistik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Islamwissenschaft/Nahostsprachen",
                 "fsem": 4
             }
         ],
-        "vorname": "Nortrud",
-        "weiblich": true
+        "vorname": "Ferdinand",
+        "weiblich": false
     }
 }

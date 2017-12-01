@@ -4,33 +4,28 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2890185,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1858925,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "08.07.1991",
-        "matrikelnummer": 2571021,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "05.06.1987",
+        "matrikelnummer": 2684991,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Pick",
-        "plzort": "53165 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Wille",
+        "plzort": "42109 Wuppertal",
         "sternchen": 0,
-        "strasse": "Fischbacher Stra\u00dfe 15",
+        "strasse": "Judeichstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 10
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 2
+                "fach": "Klassische Philologie/Latein",
+                "fsem": 13
             }
         ],
-        "vorname": "Kunibert",
-        "weiblich": false
+        "vorname": "Eva",
+        "weiblich": true
     }
 }

@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2902901,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2829367,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.07.1990",
-        "matrikelnummer": 2783195,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "05.10.1994",
+        "matrikelnummer": 15515,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Volkmer",
-        "plzort": "54570 Meisburg",
+        "nachname": "Schwerdtfeger",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Am alten Bahnhof 5",
+        "strasse": "Christophorusweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 1
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Ortraud",
+        "vorname": "Annetraude",
         "weiblich": true
     }
 }

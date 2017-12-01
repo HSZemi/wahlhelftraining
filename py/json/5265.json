@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2844736,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1862146,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "10.11.1995",
-        "matrikelnummer": 1961053,
+        "fakultaet": 0,
+        "geburtsdatum": "21.07.1991",
+        "matrikelnummer": 2728190,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Trautmann",
-        "plzort": "53191 Bonn",
+        "nachname": "Lemmer",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Kunigundenruhstr. 6",
+        "strasse": "Oskarstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "fach": "Altkatholische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
                 "fsem": 5
             }
         ],
-        "vorname": "Heyo",
-        "weiblich": false
+        "vorname": "Anna-Lena",
+        "weiblich": true
     }
 }

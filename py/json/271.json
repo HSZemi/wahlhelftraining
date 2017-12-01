@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2247296,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2692661,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.01.1996",
-        "matrikelnummer": 15281,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "02.03.1990",
+        "matrikelnummer": 2510098,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Beil",
-        "plzort": "53153 Bonn",
+        "nachname": "Heinen",
+        "plzort": "02742 Friedersdorf",
         "sternchen": 0,
-        "strasse": "Salbachstra\u00dfe 19",
+        "strasse": "Rohmerplatz 11",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Magrit",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

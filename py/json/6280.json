@@ -1,31 +1,51 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2743910,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2802071,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "15.05.1999",
-        "matrikelnummer": 2640134,
+        "fakultaet": 5,
+        "geburtsdatum": "16.11.1999",
+        "matrikelnummer": 19467,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Glas",
-        "plzort": "53212 Bonn",
+        "nachname": "Krahn",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Geerken-Weg 23e",
+        "strasse": "Am Abtshof 5",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Islamwissenschaft/Nahostsprachen",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Politik und Gesellschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Stephan",
-        "weiblich": false
+        "vorname": "Wiltrudis",
+        "weiblich": true
     }
 }

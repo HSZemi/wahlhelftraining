@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2889064,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2041986,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.02.1986",
-        "matrikelnummer": 1978952,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "01.09.1984",
+        "matrikelnummer": 2158146,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knuth",
-        "plzort": "78333 Stockach",
+        "nachname": "Kammerer",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Leopold Nattlgasse 3a",
+        "strasse": "Th\u00f6melstra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Dorota",
+        "vorname": "Gislind",
         "weiblich": true
     }
 }

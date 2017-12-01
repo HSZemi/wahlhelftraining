@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1303066,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2412712,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "07.01.1996",
-        "matrikelnummer": 2043652,
-        "mehrfachausfertigung": 5,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Althoff",
-        "plzort": "53213 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "28.06.1989",
+        "matrikelnummer": 2976715,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Friesen",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Ullersdorfer Platz 15d",
+        "strasse": "Kleberstr. 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Annehild",
-        "weiblich": true
+        "vorname": "Karlheinrich",
+        "weiblich": false
     }
 }

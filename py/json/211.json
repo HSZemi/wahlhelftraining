@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1935893,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2151449,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "08.12.1999",
-        "matrikelnummer": 3156624,
+        "fakultaet": 6,
+        "geburtsdatum": "16.08.1994",
+        "matrikelnummer": 2687956,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wedel",
-        "plzort": "53198 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Augrabenweg 0",
+        "strasse": "Schanzenstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Sevim",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1736841,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2985852,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.08.1990",
-        "matrikelnummer": 16548,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "09.03.1999",
+        "matrikelnummer": 2328242,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langner",
-        "plzort": "18184 Broderstorf",
+        "nachname": "Zemantek",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Altenzeller Stra\u00dfe 4",
+        "strasse": "Spitzbergstra\u00dfe 53d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "German and Comparative Literature",
-                "fsem": 12
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Geographie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Katholische Religionslehre",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Ildiko",
+        "vorname": "Sven",
         "weiblich": true
     }
 }

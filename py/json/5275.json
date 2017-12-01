@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2891207,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1534271,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.06.1999",
-        "matrikelnummer": 2387215,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "21.03.1999",
+        "matrikelnummer": 2536440,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Andersen",
-        "plzort": "53192 Bonn",
+        "nachname": "Niehues",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Ebertplatz 5",
+        "strasse": "Ried Krautgarten 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 7
             }
         ],
-        "vorname": "Artur",
+        "vorname": "Paulfried",
         "weiblich": false
     }
 }

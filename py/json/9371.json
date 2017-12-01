@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1115682,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2722832,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "06.07.1995",
-        "matrikelnummer": 3193101,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "02.08.1995",
+        "matrikelnummer": 2838167,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Keil",
-        "plzort": "82447 Spatzenhausen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Brummer",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Fl\u00f6\u00dfergasse 0",
+        "strasse": "New-York-Br\u00fccke 8",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "Master of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Lene",
-        "weiblich": true
+        "vorname": "Ekkehart",
+        "weiblich": false
     }
 }

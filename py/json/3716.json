@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2990524,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1086686,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.05.1993",
-        "matrikelnummer": 3148147,
+        "fakultaet": 1,
+        "geburtsdatum": "28.05.1994",
+        "matrikelnummer": 13875,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wenger",
-        "plzort": "53126 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Scholten",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Am Krankenhaus 0",
+        "strasse": "Jean-Kempf-Weg 25",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Biologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Gunhilde",
+        "vorname": "Werngard",
         "weiblich": true
     }
 }

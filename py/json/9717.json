@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2547361,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1857930,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "03.11.1993",
-        "matrikelnummer": 2309020,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "06.11.1999",
+        "matrikelnummer": 2386794,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weishaupt",
-        "plzort": "53156 Bonn",
+        "nachname": "Geyer",
+        "plzort": "14641 Ribbeck",
         "sternchen": 0,
-        "strasse": "An der Reitanlage 2",
+        "strasse": "Jean-Paul-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 5
             }
         ],
-        "vorname": "Arlinde",
-        "weiblich": true
+        "vorname": "Herwart",
+        "weiblich": false
     }
 }

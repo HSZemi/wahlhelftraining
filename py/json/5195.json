@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2889599,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1396522,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.10.1993",
-        "matrikelnummer": 2886296,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "26.06.1995",
+        "matrikelnummer": 2006146,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Loth",
-        "plzort": "53196 Bonn",
+        "nachname": "Wein",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Sand\u00e4ckerweg 8",
+        "strasse": "Kloster-Langheim-Str. 15",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 13
             }
         ],
-        "vorname": "Karla",
+        "vorname": "Gerti",
         "weiblich": true
     }
 }

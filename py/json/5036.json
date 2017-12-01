@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2488687,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1145190,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "05.10.1997",
-        "matrikelnummer": 2009522,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "10.02.1994",
+        "matrikelnummer": 2703428,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hochmuth",
-        "plzort": "53116 Bonn",
+        "nachname": "B\u00f6hmer",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Hauptwachstr. 2",
+        "strasse": "Grimoldweg 1",
         "studienfaecher": [
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
-            },
             {
                 "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
-                "fsem": 6
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Gerdt",
+        "vorname": "Sergius",
         "weiblich": false
     }
 }

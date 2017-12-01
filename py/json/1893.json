@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2173681,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1628707,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "09.03.1999",
-        "matrikelnummer": 2166542,
+        "geburtsdatum": "06.11.1997",
+        "matrikelnummer": 2462676,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Burger",
-        "plzort": "53173 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Roller",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Leanderweg 16",
+        "strasse": "Max-Bock-Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
                 "fsem": 4
             }
         ],
-        "vorname": "Alin",
-        "weiblich": true
+        "vorname": "Torge",
+        "weiblich": false
     }
 }

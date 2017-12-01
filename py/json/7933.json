@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1821730,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1010474,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "16.12.1999",
-        "matrikelnummer": 2865729,
+        "fakultaet": 1,
+        "geburtsdatum": "27.12.1995",
+        "matrikelnummer": 2141621,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Casper",
-        "plzort": "53177 Bonn",
+        "nachname": "Debus",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Taufsteinweg 2",
+        "strasse": "Simsonstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Marianne",
-        "weiblich": true
+        "vorname": "Burckhardt",
+        "weiblich": false
     }
 }

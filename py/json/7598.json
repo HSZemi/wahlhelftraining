@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2222706,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1762836,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.06.1991",
-        "matrikelnummer": 2126648,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "28.05.1999",
+        "matrikelnummer": 2631258,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wunsch",
-        "plzort": "53183 Bonn",
+        "nachname": "Abels",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Alois Tomasini-Gasse 0",
+        "strasse": "Windm\u00fchlberggasse 0e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Rosemarie",
+        "vorname": "Ilsemarie",
         "weiblich": true
     }
 }

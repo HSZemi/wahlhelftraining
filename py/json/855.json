@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1474926,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1480536,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "06.03.1993",
-        "matrikelnummer": 1942668,
+        "fakultaet": 9,
+        "geburtsdatum": "15.04.1994",
+        "matrikelnummer": 2035338,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seeger",
-        "plzort": "53212 Bonn",
+        "nachname": "Erhard",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Osterbrook 2c",
+        "strasse": "Lotzdorfer Stra\u00dfe 19a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Felicia",
+        "vorname": "Berna",
         "weiblich": true
     }
 }

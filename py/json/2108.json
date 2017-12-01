@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2064979,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2816548,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.01.1990",
-        "matrikelnummer": 2855296,
+        "fakultaet": 5,
+        "geburtsdatum": "18.10.1995",
+        "matrikelnummer": 113211,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fr\u00fch",
-        "plzort": "53136 Bonn",
+        "nachname": "Voss",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Angergasse 22",
+        "strasse": "Walter-Abschlag-Weg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 10
+                "abschluss": "Master of Arts",
+                "fach": "Sound Studies",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Hildegunde",
+        "vorname": "Valeri",
         "weiblich": true
     }
 }

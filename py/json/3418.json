@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1297012,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1271745,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "06.07.1991",
-        "matrikelnummer": 130250,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "22.12.1985",
+        "matrikelnummer": 2289711,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sorg",
-        "plzort": "53205 Bonn",
+        "nachname": "Thoms",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Rapunzelgasse 17",
+        "strasse": "Jean-Gardner-Batten-Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Erik",
-        "weiblich": false
+        "vorname": "Sofie",
+        "weiblich": true
     }
 }

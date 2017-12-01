@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1337640,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2741414,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "26.12.1996",
-        "matrikelnummer": 2293505,
+        "geburtsdatum": "28.09.1995",
+        "matrikelnummer": 2661197,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Joachim",
-        "plzort": "53214 Bonn",
+        "nachname": "Schalk",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "An der Bildeiche 1",
+        "strasse": "Halskestra\u00dfe 24",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Laurenz",
-        "weiblich": false
+        "vorname": "Theres",
+        "weiblich": true
     }
 }

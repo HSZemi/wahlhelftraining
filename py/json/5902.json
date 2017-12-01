@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2627638,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2812658,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.06.1986",
-        "matrikelnummer": 2576056,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "03.07.1991",
+        "matrikelnummer": 2603919,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krupp",
-        "plzort": "53223 Bonn",
+        "nachname": "Sch\u00f6nborn",
+        "plzort": "18551 Glowe",
         "sternchen": 0,
-        "strasse": "Paul-Apel-Stra\u00dfe 13",
+        "strasse": "Horner Stieg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Musikwissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Komparatistik",
-                "fsem": 13
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Augustin",
-        "weiblich": false
+        "vorname": "Felicia",
+        "weiblich": true
     }
 }

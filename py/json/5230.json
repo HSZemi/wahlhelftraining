@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1534837,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1506662,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.05.1999",
-        "matrikelnummer": 2452477,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "21.05.1998",
+        "matrikelnummer": 2939068,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Weiss",
-        "plzort": "53218 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kapp",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Haeussermannstra\u00dfe 5",
+        "strasse": "Schillerstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 12
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Rathgunde",
-        "weiblich": true
+        "vorname": "Till",
+        "weiblich": false
     }
 }

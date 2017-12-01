@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1563172,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1450886,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.06.1994",
-        "matrikelnummer": 2218295,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "13.10.1987",
+        "matrikelnummer": 2440556,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frenz",
-        "plzort": "53130 Bonn",
+        "nachname": "Krone",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Schalksbornstra\u00dfe 7",
+        "strasse": "Von-Elm-Stieg 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 4
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Friedrich",
-        "weiblich": false
+        "vorname": "Ann-Kathrin",
+        "weiblich": true
     }
 }

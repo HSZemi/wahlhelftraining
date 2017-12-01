@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1569075,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2460336,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.08.1991",
-        "matrikelnummer": 14968,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "20.03.1994",
+        "matrikelnummer": 17890,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Merk",
-        "plzort": "53207 Bonn",
+        "nachname": "Enke",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Pfarrer-Schneider-Stra\u00dfe 1",
+        "strasse": "Altklosterbergstra\u00dfe 35",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 3
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 8
             }
         ],
-        "vorname": "Annemarie",
-        "weiblich": true
+        "vorname": "Walter",
+        "weiblich": false
     }
 }

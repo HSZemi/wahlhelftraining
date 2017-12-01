@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1978438,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2125913,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "27.06.1998",
-        "matrikelnummer": 2464431,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Nagel",
-        "plzort": "74869 Schwarzach",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "03.08.1994",
+        "matrikelnummer": 2392431,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kiel",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Paracelsusstr. 8",
+        "strasse": "Wilmsdorfer Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "fach": "Katholische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 4
             }
         ],
-        "vorname": "Elke",
-        "weiblich": true
+        "vorname": "Meinfried",
+        "weiblich": false
     }
 }

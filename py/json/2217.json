@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1236289,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1889030,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.11.1992",
-        "matrikelnummer": 2969543,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 5,
+        "geburtsdatum": "22.04.1998",
+        "matrikelnummer": 1983059,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rohrbach",
-        "plzort": "53209 Bonn",
+        "nachname": "Andresen",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Franz-R\u00fccker-Allee 9",
+        "strasse": "Severusstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Danielle",
-        "weiblich": true
+        "vorname": "Roderich",
+        "weiblich": false
     }
 }

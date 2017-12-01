@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2659625,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2616992,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.05.1992",
-        "matrikelnummer": 2056808,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "02.04.1997",
+        "matrikelnummer": 19081,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Friedrich",
-        "plzort": "53153 Bonn",
+        "nachname": "Rademacher",
+        "plzort": "95163 Wei\u00dfenstadt",
         "sternchen": 0,
-        "strasse": "Am Marienbad 7",
+        "strasse": "Wolfgang K\u00f6pp-Gasse 10",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Steffan",
-        "weiblich": false
+        "vorname": "Imelda",
+        "weiblich": true
     }
 }

@@ -1,46 +1,31 @@
 {
     "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1848463,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1492328,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "15.08.1993",
-        "matrikelnummer": 1913134,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "13.04.1999",
+        "matrikelnummer": 16373,
         "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Dietrich",
-        "plzort": "53213 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Olbrich",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Synagogenplatz 0",
+        "strasse": "Am Steinbruch 5",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Romanistik/Franz\u00f6sische Philologie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Chemie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Mathematik",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "fach": "Entwicklungsforschung",
+                "fsem": 12
             }
         ],
-        "vorname": "Roman",
-        "weiblich": false
+        "vorname": "Marieluise",
+        "weiblich": true
     }
 }

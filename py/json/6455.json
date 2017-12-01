@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1649116,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1216737,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.02.1998",
-        "matrikelnummer": 13696,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "02.09.1996",
+        "matrikelnummer": 1937226,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Golz",
-        "plzort": "53209 Bonn",
+        "nachname": "Rosner",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Franz-R\u00e4dlein-Weg 5",
+        "strasse": "Matisseweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 5
             }
         ],
-        "vorname": "Margund",
+        "vorname": "Chantal",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1821463,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2558596,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "25.03.1995",
-        "matrikelnummer": 3058447,
+        "geburtsdatum": "09.02.1991",
+        "matrikelnummer": 2752689,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6se",
-        "plzort": "56379 H\u00f6mberg",
+        "nachname": "Will",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Johann-Georg-Elser-Stra\u00dfe 20",
+        "strasse": "Feldweg 19",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Reinhardine",
-        "weiblich": true
+        "vorname": "Osmund",
+        "weiblich": false
     }
 }

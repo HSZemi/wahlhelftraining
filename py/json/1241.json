@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1892093,
-    "semester": "Sommersemester 2016",
+    "nummer": 2232381,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.06.1992",
-        "matrikelnummer": 15581,
+        "fakultaet": 1,
+        "geburtsdatum": "22.04.1999",
+        "matrikelnummer": 2946434,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kremer",
-        "plzort": "53216 Bonn",
+        "nachname": "Thon",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Kurmarkstra\u00dfe 4",
+        "strasse": "Hallstadter Str. 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Ingolf",
-        "weiblich": false
+        "vorname": "Gotlind",
+        "weiblich": true
     }
 }

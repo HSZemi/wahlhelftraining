@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2844974,
-    "semester": "Sommersemester 2016",
+    "nummer": 2198594,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "12.12.1999",
-        "matrikelnummer": 1921404,
+        "fakultaet": 6,
+        "geburtsdatum": "16.05.1996",
+        "matrikelnummer": 3050462,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Borchers",
-        "plzort": "53218 Bonn",
+        "nachname": "Berg",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Mannlehenweg 0",
+        "strasse": "Mobschatzer Stra\u00dfe 24",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 12
             }
         ],
-        "vorname": "Wendelin",
+        "vorname": "Oswin",
         "weiblich": false
     }
 }

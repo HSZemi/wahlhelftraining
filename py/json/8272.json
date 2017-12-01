@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1406711,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2524074,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.02.1995",
-        "matrikelnummer": 2624314,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "13.05.1999",
+        "matrikelnummer": 1974751,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nebel",
-        "plzort": "37296 Ringgau",
+        "nachname": "Eichhorn",
+        "plzort": "54316 Sch\u00f6ndorf",
         "sternchen": 0,
-        "strasse": "A\u00dfmannsh\u00e4user Weg 16c",
+        "strasse": "Berzeliusstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Kathy",
-        "weiblich": true
+        "vorname": "Ralph",
+        "weiblich": false
     }
 }

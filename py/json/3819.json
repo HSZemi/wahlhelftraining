@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2660250,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1251424,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "04.09.1999",
-        "matrikelnummer": 2115861,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "09.03.1986",
+        "matrikelnummer": 2390548,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Decker",
-        "plzort": "53182 Bonn",
+        "nachname": "Dickmann",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Grenzstr. 18",
+        "strasse": "Augustinstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 11
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 10
             }
         ],
-        "vorname": "Solveig",
-        "weiblich": true
+        "vorname": "Torben",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1336169,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2243984,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.03.1995",
-        "matrikelnummer": 2014571,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "10.04.1999",
+        "matrikelnummer": 2068842,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sachse",
-        "plzort": "53211 Bonn",
+        "nachname": "Wiesmann",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Am Klosterberg 2",
+        "strasse": "An der Rysselkuppe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
             }
         ],
-        "vorname": "Augustinus",
+        "vorname": "Ullrich",
         "weiblich": false
     }
 }

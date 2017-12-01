@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2207198,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1472207,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.01.1993",
-        "matrikelnummer": 2539293,
+        "fakultaet": 2,
+        "geburtsdatum": "07.03.1992",
+        "matrikelnummer": 2477605,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zeitler",
-        "plzort": "53185 Bonn",
+        "nachname": "Kolodziej",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Baumweg 7",
+        "strasse": "Trieskestra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 9
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Thomas",
+        "vorname": "Ferfried",
         "weiblich": false
     }
 }

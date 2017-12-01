@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2591749,
+    "nummer": 2767669,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.12.1995",
-        "matrikelnummer": 126418,
+        "fakultaet": 4,
+        "geburtsdatum": "22.12.1995",
+        "matrikelnummer": 2267805,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaden",
-        "plzort": "53127 Bonn",
+        "nachname": "Denecke",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Kalkuttabr\u00fccke 2a",
+        "strasse": "Gotenstra\u00dfe 1c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Anneheide",
-        "weiblich": true
+        "vorname": "Raimond",
+        "weiblich": false
     }
 }

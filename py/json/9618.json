@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2656614,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1372407,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.05.1992",
-        "matrikelnummer": 2207034,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 5,
+        "geburtsdatum": "09.01.1995",
+        "matrikelnummer": 2826256,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Speicher",
-        "plzort": "53221 Bonn",
+        "nachname": "Flaig",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00e4ndelallee 1",
+        "strasse": "Eisenstuckstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Politische Wissenschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Falk",
-        "weiblich": false
+        "vorname": "Gritt",
+        "weiblich": true
     }
 }

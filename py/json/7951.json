@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2912489,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1925612,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "05.07.1999",
-        "matrikelnummer": 2638652,
+        "geburtsdatum": "02.05.1992",
+        "matrikelnummer": 2581816,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00e4fers",
-        "plzort": "25764 Wesselburenerkoog",
+        "nachname": "Hopp",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "St.-George-Stra\u00dfe 6",
+        "strasse": "Karl-Sch\u00fcler-Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 12
             }
         ],
-        "vorname": "Gunter",
-        "weiblich": false
+        "vorname": "Susana",
+        "weiblich": true
     }
 }

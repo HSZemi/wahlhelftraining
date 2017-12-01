@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2716349,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1362279,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.04.1987",
-        "matrikelnummer": 2094734,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 0,
+        "geburtsdatum": "05.08.1989",
+        "matrikelnummer": 2015750,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "F\u00f6rtsch",
-        "plzort": "53157 Bonn",
+        "nachname": "Hertlein",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Parkstra\u00dfe 1",
+        "strasse": "Feldbergstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Psychologie",
-                "fsem": 1
+                "fach": "Entwicklungsforschung",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Emmeran",
+        "vorname": "Hieronimus",
         "weiblich": false
     }
 }

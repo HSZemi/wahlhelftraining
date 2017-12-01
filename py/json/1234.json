@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1541598,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1184618,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "21.08.1993",
-        "matrikelnummer": 3085106,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "16.08.1996",
+        "matrikelnummer": 16886,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reisch",
-        "plzort": "53152 Bonn",
+        "nachname": "Edelmann",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Reineckstra\u00dfe 0",
+        "strasse": "Neusatzstra\u00dfe 3c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Heimhart",
+        "vorname": "Hartwig",
         "weiblich": false
     }
 }

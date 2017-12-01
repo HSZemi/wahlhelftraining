@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2075691,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1090697,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.08.1992",
-        "matrikelnummer": 2371201,
+        "fakultaet": 6,
+        "geburtsdatum": "26.01.1996",
+        "matrikelnummer": 16311,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rottmann",
-        "plzort": "63867 Johannesberg",
+        "nachname": "H\u00e4ring",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Johann Kodatsch-Stra\u00dfe 25",
+        "strasse": "Lina-Meyer-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Vergleichende Religionswissenschaft",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Keltologie",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Geologie/Pal\u00e4ontologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Meik",
+        "vorname": "Welfhard",
         "weiblich": false
     }
 }

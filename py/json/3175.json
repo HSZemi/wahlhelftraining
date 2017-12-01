@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1952628,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2366923,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.04.1999",
-        "matrikelnummer": 2098311,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "10.09.1997",
+        "matrikelnummer": 2191882,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Breunig",
-        "plzort": "16515 Neuholland",
+        "nachname": "Kolodziej",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Edelstr. 1",
+        "strasse": "G\u00f6ppersdorfer Weg 5",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Moritz",
+        "vorname": "Vitus",
         "weiblich": false
     }
 }

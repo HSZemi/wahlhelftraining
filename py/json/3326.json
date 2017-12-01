@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1440484,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1572862,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "05.09.1990",
-        "matrikelnummer": 2368044,
+        "fakultaet": 2,
+        "geburtsdatum": "14.08.1997",
+        "matrikelnummer": 2200878,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baur",
-        "plzort": "53212 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Bebraer Stra\u00dfe 2",
+        "strasse": "Victor-Slotosch-Stra\u00dfe 31d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 3
             }
         ],
-        "vorname": "Bertwin",
+        "vorname": "Elmar",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2737530,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2622833,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "08.09.1986",
-        "matrikelnummer": 2445238,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "17.07.1998",
+        "matrikelnummer": 2628098,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stich",
-        "plzort": "53191 Bonn",
+        "nachname": "Schneller",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Theodor-Heuss-Allee 13",
+        "strasse": "Manilabr\u00fccke 6e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 10
             }
         ],
-        "vorname": "Gertraut",
+        "vorname": "Resie",
         "weiblich": true
     }
 }

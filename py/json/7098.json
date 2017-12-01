@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2333747,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1933884,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "07.01.1983",
-        "matrikelnummer": 2268127,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "07.03.1990",
+        "matrikelnummer": 2332713,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rieck",
-        "plzort": "53138 Bonn",
+        "nachname": "Fehr",
+        "plzort": "54675 Gentingen",
         "sternchen": 0,
-        "strasse": "Saarbr\u00fccker Stra\u00dfe 3",
+        "strasse": "Himmelreichstr. 15",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Italienisch",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Altamerikanistik und Ethnologie",
+                "fsem": 5
             },
             {
                 "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "fach": "Medienkommunikation",
+                "fsem": 5
             }
         ],
-        "vorname": "Winand",
+        "vorname": "Hendrik",
         "weiblich": false
     }
 }

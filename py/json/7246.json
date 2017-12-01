@@ -1,31 +1,31 @@
 {
     "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1322211,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1800168,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.12.1991",
-        "matrikelnummer": 11271,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "01.08.1993",
+        "matrikelnummer": 2937905,
         "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00e4fe",
-        "plzort": "53160 Bonn",
+        "nachname": "Redlich",
+        "plzort": "84579 Unterneukirchen",
         "sternchen": 0,
-        "strasse": "Delmer Bogen 2",
+        "strasse": "Scheidswaldstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Zdenka",
+        "vorname": "Amrei",
         "weiblich": true
     }
 }

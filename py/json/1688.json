@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1082145,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2724474,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.08.1998",
-        "matrikelnummer": 2068630,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "27.06.1993",
+        "matrikelnummer": 2004217,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "W\u00f6lfle",
-        "plzort": "53181 Bonn",
+        "nachname": "Neugebauer",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Seehofstr. 2",
+        "strasse": "Silbermannstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Markus",
+        "vorname": "Adalbert",
         "weiblich": false
     }
 }

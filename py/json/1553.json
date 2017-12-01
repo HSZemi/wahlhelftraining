@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1203417,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2804812,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.12.1995",
-        "matrikelnummer": 143312,
+        "fakultaet": 5,
+        "geburtsdatum": "08.10.1991",
+        "matrikelnummer": 2936012,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Rademacher",
-        "plzort": "53148 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wei\u00dfe",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Auf der Brandshofer Schleuse 29",
+        "strasse": "Polizeimeister-Kaspar-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Klassische Arch\u00e4ologie",
+                "fsem": 3
             },
             {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Josefine",
+        "vorname": "Annika",
         "weiblich": true
     }
 }

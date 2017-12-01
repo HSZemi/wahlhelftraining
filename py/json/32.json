@@ -1,31 +1,56 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1746724,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1428028,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.03.1993",
-        "matrikelnummer": 3077229,
+        "fakultaet": 8,
+        "geburtsdatum": "10.08.1993",
+        "matrikelnummer": 170218,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53129 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "35578 Wetzlar",
         "sternchen": 0,
-        "strasse": "F\u00e4rberstra\u00dfe 10",
+        "strasse": "Am Estedeich 11a",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Evangelische Religionslehre",
                 "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Ljiljana",
+        "vorname": "Sven",
         "weiblich": true
     }
 }

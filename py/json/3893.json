@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1923141,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1697678,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.03.1995",
-        "matrikelnummer": 2224442,
+        "fakultaet": 8,
+        "geburtsdatum": "06.08.1991",
+        "matrikelnummer": 2817609,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00f6wen",
-        "plzort": "53166 Bonn",
+        "nachname": "Meuser",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Obere M\u00fchlbr\u00fccke 11",
+        "strasse": "Snitgerreihe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Biologie",
-                "fsem": 10
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Karlfried",
-        "weiblich": false
+        "vorname": "Irmtraut",
+        "weiblich": true
     }
 }

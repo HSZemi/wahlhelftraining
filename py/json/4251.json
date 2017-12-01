@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2166649,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1181253,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.09.1991",
-        "matrikelnummer": 2996716,
+        "fakultaet": 2,
+        "geburtsdatum": "25.04.1988",
+        "matrikelnummer": 2405373,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Willmann",
-        "plzort": "25593 Christinenthal",
+        "nachname": "Hirsch",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Langsatzweg 1",
+        "strasse": "Muldaer Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Laila",
-        "weiblich": true
+        "vorname": "Joscha",
+        "weiblich": false
     }
 }

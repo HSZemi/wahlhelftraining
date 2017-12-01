@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2606138,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2827015,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "25.07.1990",
-        "matrikelnummer": 2898846,
+        "fakultaet": 6,
+        "geburtsdatum": "26.04.1994",
+        "matrikelnummer": 2674503,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sand",
-        "plzort": "53159 Bonn",
+        "nachname": "O\u00dfwald",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Tauernstra\u00dfe 1",
+        "strasse": "Kr\u00fcmmling 16d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 9
             }
         ],
-        "vorname": "Jennifer",
+        "vorname": "Uta",
         "weiblich": true
     }
 }

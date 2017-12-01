@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1632573,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2987638,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "17.12.1986",
-        "matrikelnummer": 14296,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "10.09.1985",
+        "matrikelnummer": 2974062,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stange",
-        "plzort": "53136 Bonn",
+        "nachname": "Kaden",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Eberhardstra\u00dfe 7",
+        "strasse": "Zeil 3",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 11
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Christophorus",
+        "vorname": "Rainer",
         "weiblich": false
     }
 }

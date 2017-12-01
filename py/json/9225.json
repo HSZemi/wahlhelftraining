@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1738405,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1504915,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "03.06.1988",
-        "matrikelnummer": 2281924,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "18.01.1992",
+        "matrikelnummer": 171174,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zach",
-        "plzort": "53214 Bonn",
+        "nachname": "Gerstner",
+        "plzort": "26624 S\u00fcdbrookmerland",
         "sternchen": 0,
-        "strasse": "Weinbergsweg 1",
+        "strasse": "B\u00e4rwalder Stra\u00dfe 16",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 2
+                "fach": "Geographie",
+                "fsem": 3
             }
         ],
-        "vorname": "Florence",
-        "weiblich": true
+        "vorname": "Grimbert",
+        "weiblich": false
     }
 }

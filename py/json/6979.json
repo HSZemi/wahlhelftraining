@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2389217,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1372183,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "06.01.1999",
-        "matrikelnummer": 2580109,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "28.08.1993",
+        "matrikelnummer": 2096376,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Erler",
-        "plzort": "39365 Harbke",
+        "nachname": "Eich",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Am Zaukenfeld 1c",
+        "strasse": "Heubnerstra\u00dfe 26a",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Nikola",
-        "weiblich": true
+        "vorname": "Vinzenz",
+        "weiblich": false
     }
 }

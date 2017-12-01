@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2150941,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1656107,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "21.01.1990",
-        "matrikelnummer": 15833,
+        "geburtsdatum": "10.11.1994",
+        "matrikelnummer": 2593259,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wieland",
-        "plzort": "53177 Bonn",
+        "nachname": "Kreuz",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00f6ttewitzer Weg 25",
+        "strasse": "Meersburger Stra\u00dfe 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Neurosciences",
-                "fsem": 10
+                "fsem": 4
             }
         ],
-        "vorname": "Othmar",
-        "weiblich": false
+        "vorname": "Herwiga",
+        "weiblich": true
     }
 }

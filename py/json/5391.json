@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": true,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2013333,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1657972,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.09.1994",
-        "matrikelnummer": 2776605,
+        "fakultaet": 5,
+        "geburtsdatum": "09.07.1993",
+        "matrikelnummer": 2410355,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Egner",
-        "plzort": "53172 Bonn",
+        "nachname": "Repp",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Ro\u00dfm\u00e4\u00dflerstra\u00dfe 7",
+        "strasse": "Ulanenplatz 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Erdfried",
+        "vorname": "Frank",
         "weiblich": false
     }
 }

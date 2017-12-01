@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2904380,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2833196,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.12.1998",
-        "matrikelnummer": 2558711,
+        "fakultaet": 4,
+        "geburtsdatum": "12.07.1993",
+        "matrikelnummer": 14293,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Harnisch",
-        "plzort": "53212 Bonn",
+        "nachname": "Wall",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Langriedgasse 0",
+        "strasse": "Zschierbachstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Dimitri",
+        "vorname": "Heinzwerner",
         "weiblich": false
     }
 }

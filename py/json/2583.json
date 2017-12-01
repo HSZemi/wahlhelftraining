@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2360451,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2103472,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.12.1994",
-        "matrikelnummer": 2766370,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "19.02.1994",
+        "matrikelnummer": 2411317,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leonhard",
-        "plzort": "53203 Bonn",
+        "nachname": "Flemming",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Seebauerstr. 13",
+        "strasse": "Oeserstra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 13
             }
         ],
-        "vorname": "Caren",
-        "weiblich": true
+        "vorname": "Eduardt",
+        "weiblich": false
     }
 }

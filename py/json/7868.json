@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1401134,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1952628,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "22.12.1991",
-        "matrikelnummer": 19884,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "03.03.1989",
+        "matrikelnummer": 2851144,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00fchrs",
-        "plzort": "91257 Pegnitz",
+        "nachname": "Papke",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Trimbergstr. 5",
+        "strasse": "Grimmstra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 3
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Utz",
+        "vorname": "Vinzenz",
         "weiblich": false
     }
 }

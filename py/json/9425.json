@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1248065,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2362692,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.10.1995",
-        "matrikelnummer": 2856217,
+        "fakultaet": 6,
+        "geburtsdatum": "20.03.1991",
+        "matrikelnummer": 2849753,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Birke",
-        "plzort": "53113 Bonn",
+        "nachname": "Hieber",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Rabenerstra\u00dfe 4e",
+        "strasse": "Weism\u00fcllerstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
+                "fsem": 2
             }
         ],
-        "vorname": "Viola",
-        "weiblich": true
+        "vorname": "Beat",
+        "weiblich": false
     }
 }

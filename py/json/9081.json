@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2448290,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1360395,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.11.1991",
-        "matrikelnummer": 2404010,
+        "fakultaet": 2,
+        "geburtsdatum": "04.01.1999",
+        "matrikelnummer": 2685809,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6nherr",
-        "plzort": "53135 Bonn",
+        "nachname": "L\u00fcke",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Baxmannweg 3",
+        "strasse": "Marienterrasse 18",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 10
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Sigwart",
+        "vorname": "Stephanus",
         "weiblich": false
     }
 }

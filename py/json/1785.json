@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2821273,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2121972,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.12.1992",
-        "matrikelnummer": 129153,
+        "fakultaet": 8,
+        "geburtsdatum": "07.04.1993",
+        "matrikelnummer": 18746,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weinberg",
-        "plzort": "85395 Attenkirchen",
+        "nachname": "Majewski",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Rathenauplatz 10",
+        "strasse": "Gladenbacher Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Rosegunde",
-        "weiblich": true
+        "vorname": "Wilbert",
+        "weiblich": false
     }
 }

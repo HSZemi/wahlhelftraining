@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1897611,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2265707,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "07.09.1998",
-        "matrikelnummer": 2745282,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "26.12.1991",
+        "matrikelnummer": 2618837,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00fcnzel",
-        "plzort": "18299 Weitendorf",
+        "nachname": "Drewes",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Jarrestra\u00dfe 16",
+        "strasse": "Pfingstweidstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Stanislaus",
-        "weiblich": false
+        "vorname": "Engelberta",
+        "weiblich": true
     }
 }

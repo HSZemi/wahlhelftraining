@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1953712,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1629379,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.05.1997",
-        "matrikelnummer": 2215741,
+        "fakultaet": 8,
+        "geburtsdatum": "18.11.1996",
+        "matrikelnummer": 2992012,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Steinmetz",
-        "plzort": "53123 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hille",
+        "plzort": "83410 Laufen",
         "sternchen": 0,
-        "strasse": "Elsterweg 2",
+        "strasse": "Bechsteinstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 6
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Tobias",
-        "weiblich": false
+        "vorname": "Liane",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1603282,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2375196,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.02.1997",
-        "matrikelnummer": 2902410,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "12.11.1995",
+        "matrikelnummer": 3147237,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thelen",
-        "plzort": "17099 Genzkow",
+        "nachname": "Schwenke",
+        "plzort": "25572 Landscheide",
         "sternchen": 0,
-        "strasse": "Scharfreiterstr. 0",
+        "strasse": "Herbert-von-Meister-Stra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Medienkommunikation",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Germanistik, Vergleichende Literatur- und Kulturwissenschaft",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Swen",
-        "weiblich": false
+        "vorname": "Jana",
+        "weiblich": true
     }
 }

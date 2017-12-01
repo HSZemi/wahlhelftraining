@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2480871,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2812231,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.04.1990",
-        "matrikelnummer": 2383508,
+        "fakultaet": 6,
+        "geburtsdatum": "09.01.1996",
+        "matrikelnummer": 16701,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ostermann",
-        "plzort": "03058 Frauendorf",
+        "nachname": "Zimmer",
+        "plzort": "12619 Berlin",
         "sternchen": 0,
-        "strasse": "Burggarten 33",
+        "strasse": "J\u00e4gerstieg 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Verfassungs-, Sozial- und Wirtschaftsgeschichte",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 8
             },
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 9
             }
         ],
-        "vorname": "Armgard",
+        "vorname": "Hilde",
         "weiblich": true
     }
 }

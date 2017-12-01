@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1187603,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1152767,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "05.01.1988",
-        "matrikelnummer": 13281,
+        "fakultaet": 0,
+        "geburtsdatum": "21.11.1998",
+        "matrikelnummer": 2799481,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kersting",
-        "plzort": "53170 Bonn",
+        "nachname": "Posselt",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Gr\u00fcne Telle 1",
+        "strasse": "Anna-Lindh-Allee 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 8
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Volkhard",
-        "weiblich": false
+        "vorname": "Sigune",
+        "weiblich": true
     }
 }

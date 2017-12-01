@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2624152,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1617556,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "23.12.1992",
-        "matrikelnummer": 1945381,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "24.12.1996",
+        "matrikelnummer": 2282533,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Goerke",
-        "plzort": "53217 Bonn",
+        "nachname": "Henrichs",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Eckernf\u00f6rder Stra\u00dfe 4",
+        "strasse": "K\u00f6tzschenbroder Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 2
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 6
             }
         ],
-        "vorname": "Wolff",
+        "vorname": "Folko",
         "weiblich": false
     }
 }

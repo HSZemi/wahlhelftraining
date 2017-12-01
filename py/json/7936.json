@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1905452,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1265993,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.12.1996",
-        "matrikelnummer": 2995399,
+        "fakultaet": 2,
+        "geburtsdatum": "17.01.1994",
+        "matrikelnummer": 2038366,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ewert",
-        "plzort": "53132 Bonn",
+        "nachname": "Wei\u00dfbach",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Renn-Allee 28",
+        "strasse": "Rechte Steinzeile 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Klassische Arch\u00e4ologie",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Niklaus",
-        "weiblich": false
+        "vorname": "Inna",
+        "weiblich": true
     }
 }

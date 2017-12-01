@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1588054,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2852973,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.06.1992",
-        "matrikelnummer": 2051726,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "20.01.1995",
+        "matrikelnummer": 116007,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lennartz",
-        "plzort": "53166 Bonn",
+        "nachname": "R\u00fchle",
+        "plzort": "23972 Metelsdorf",
         "sternchen": 0,
-        "strasse": "Blanchardstra\u00dfe 7",
+        "strasse": "Passavantstra\u00dfe 31",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 5
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 3
+                "fach": "Life Science Informatics",
+                "fsem": 4
             }
         ],
-        "vorname": "Clarissa",
+        "vorname": "Susann",
         "weiblich": true
     }
 }

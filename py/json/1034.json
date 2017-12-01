@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2973970,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2418563,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.02.1992",
-        "matrikelnummer": 2982919,
+        "fakultaet": 8,
+        "geburtsdatum": "17.10.1992",
+        "matrikelnummer": 12521,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuhnert",
-        "plzort": "53228 Bonn",
+        "nachname": "Klasen",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Heiliggrabstr. 9",
+        "strasse": "William-Shakespeare-Stra\u00dfe 5d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Sigfrid",
-        "weiblich": false
+        "vorname": "Beata",
+        "weiblich": true
     }
 }

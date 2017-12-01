@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2618922,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1842242,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "01.10.1999",
-        "matrikelnummer": 2635400,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "06.11.1995",
+        "matrikelnummer": 2286492,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Radermacher",
-        "plzort": "53164 Bonn",
+        "nachname": "Stengel",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Lewickistra\u00dfe 5",
+        "strasse": "Hellerstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 2
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Gottwaldt",
+        "vorname": "Gunther",
         "weiblich": false
     }
 }

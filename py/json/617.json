@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2350956,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1926213,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "19.12.1996",
-        "matrikelnummer": 2313282,
+        "fakultaet": 6,
+        "geburtsdatum": "13.06.1996",
+        "matrikelnummer": 2020167,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klinke",
-        "plzort": "53214 Bonn",
+        "nachname": "Henn",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Leanderweg 13",
+        "strasse": "Heinrich-Kegelmann-Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Biochemistry",
+                "fsem": 6
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 4
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Tina",
-        "weiblich": true
+        "vorname": "Leonhard",
+        "weiblich": false
     }
 }

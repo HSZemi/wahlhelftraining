@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2287266,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2017649,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.11.1994",
-        "matrikelnummer": 15654,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "12.05.1996",
+        "matrikelnummer": 133565,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Erler",
-        "plzort": "07768 Orlam\u00fcnde",
+        "nachname": "Breitenbach",
+        "plzort": "39524 Neuermark-L\u00fcbars",
         "sternchen": 0,
-        "strasse": "D\u00f6brastr. 3a",
+        "strasse": "Waldstr. 19",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 7
             }
         ],
-        "vorname": "Rudger",
-        "weiblich": false
+        "vorname": "Annerose",
+        "weiblich": true
     }
 }

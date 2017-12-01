@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2212662,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1719585,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "19.08.1983",
-        "matrikelnummer": 2261868,
+        "geburtsdatum": "27.02.1994",
+        "matrikelnummer": 2833614,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eberle",
-        "plzort": "53116 Bonn",
+        "nachname": "Kraemer",
+        "plzort": "16928 Sadenbeck",
         "sternchen": 0,
-        "strasse": "Edingerweg 10",
+        "strasse": "Poggenpohl 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Evangelische Theologie",
-                "fsem": 4
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Christof",
-        "weiblich": false
+        "vorname": "Lieselore",
+        "weiblich": true
     }
 }

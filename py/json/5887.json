@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1399105,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1011413,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.10.1991",
-        "matrikelnummer": 2662272,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "08.01.1994",
+        "matrikelnummer": 2597486,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schultes",
-        "plzort": "53137 Bonn",
+        "nachname": "Janz",
+        "plzort": "79256 Buchenbach",
         "sternchen": 0,
-        "strasse": "Gagernstra\u00dfe 1",
+        "strasse": "Lindberghplatz 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Physik",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
                 "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Helmfried",
-        "weiblich": false
+        "vorname": "Danica",
+        "weiblich": true
     }
 }

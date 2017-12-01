@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1885777,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2455811,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.04.1992",
-        "matrikelnummer": 2796536,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "22.04.1993",
+        "matrikelnummer": 177869,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ahrens",
-        "plzort": "53145 Bonn",
+        "nachname": "Deckert",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Erbacher Stra\u00dfe 32e",
+        "strasse": "Burgenlandweg 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
                 "fsem": 1
             }
         ],
-        "vorname": "Rainmund",
-        "weiblich": false
+        "vorname": "Heidelinde",
+        "weiblich": true
     }
 }

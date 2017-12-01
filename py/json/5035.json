@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1911630,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1014222,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "12.02.1994",
-        "matrikelnummer": 2982158,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "03.07.1992",
+        "matrikelnummer": 2950584,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heuer",
-        "plzort": "53155 Bonn",
+        "nachname": "Noll",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Adalbert-Stifter-Weg 2",
+        "strasse": "Kantstr. 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "fach": "Economics",
                 "fsem": 6
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Leopold",
+        "vorname": "Lebrecht",
         "weiblich": false
     }
 }

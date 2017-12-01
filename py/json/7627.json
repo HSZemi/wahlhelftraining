@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1819470,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2578711,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.12.1987",
-        "matrikelnummer": 1914641,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "12.12.1999",
+        "matrikelnummer": 2307748,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6der",
-        "plzort": "53222 Bonn",
+        "nachname": "Weitzel",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Brucknerstra\u00dfe 0",
+        "strasse": "Pflanzsteig 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geophysik",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
                 "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Fabiane",
+        "vorname": "Birghild",
         "weiblich": true
     }
 }

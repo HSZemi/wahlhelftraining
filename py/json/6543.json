@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1112520,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2388709,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.02.1985",
-        "matrikelnummer": 2286096,
+        "fakultaet": 4,
+        "geburtsdatum": "12.09.1999",
+        "matrikelnummer": 2531499,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Stutz",
-        "plzort": "53179 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hecker",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Telemannstra\u00dfe 37",
+        "strasse": "Westendring 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 7
             }
         ],
-        "vorname": "Folkhard",
-        "weiblich": false
+        "vorname": "Ina",
+        "weiblich": true
     }
 }

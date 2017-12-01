@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1207459,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2720193,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.03.1995",
-        "matrikelnummer": 3185305,
+        "fakultaet": 4,
+        "geburtsdatum": "25.08.1994",
+        "matrikelnummer": 118041,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bruns",
-        "plzort": "53115 Bonn",
+        "nachname": "Menne",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Mundsburger Br\u00fccke 4",
+        "strasse": "Braumannstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 12
             }
         ],
-        "vorname": "Irminfried",
-        "weiblich": false
+        "vorname": "Melitta",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1486749,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2982462,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "12.10.1998",
-        "matrikelnummer": 16191,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "18.03.1999",
+        "matrikelnummer": 2254145,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fleischmann",
-        "plzort": "53203 Bonn",
+        "nachname": "Hellmich",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Kellstra\u00dfe 14",
+        "strasse": "Basaltstra\u00dfe 9e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Politik und Gesellschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Sprachliche Kommunikation",
+                "fsem": 8
             }
         ],
-        "vorname": "Hildegund",
-        "weiblich": true
+        "vorname": "Rudolf",
+        "weiblich": false
     }
 }

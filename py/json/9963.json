@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1194764,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1431458,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "12.10.1998",
-        "matrikelnummer": 2819318,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Lange",
-        "plzort": "53178 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "17.10.1995",
+        "matrikelnummer": 13238,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sch\u00fcnemann",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Vogtstr. 1",
+        "strasse": "Emil-Rosenow-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Biologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Hanns",
+        "vorname": "Kornelius",
         "weiblich": false
     }
 }

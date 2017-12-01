@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2536466,
-    "semester": "Sommersemester 2016",
+    "nummer": 2631901,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "20.06.1993",
-        "matrikelnummer": 2893600,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "13.04.1992",
+        "matrikelnummer": 2118569,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Liebig",
-        "plzort": "15299 Mixdorf",
+        "nachname": "Wurster",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Teichgasse 23",
+        "strasse": "Spaldingstra\u00dfe 0d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 9
             }
         ],
-        "vorname": "Leonie",
-        "weiblich": true
+        "vorname": "Jannick",
+        "weiblich": false
     }
 }

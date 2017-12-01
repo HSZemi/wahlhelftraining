@@ -4,28 +4,38 @@
         "gremien": true,
         "sp": true
     },
-    "nummer": 1224458,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2995969,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.07.1997",
-        "matrikelnummer": 2664540,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "23.12.1988",
+        "matrikelnummer": 2328695,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittmann",
-        "plzort": "27337 Blender",
+        "nachname": "Diederich",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Hellersiedlung Weg B 7",
+        "strasse": "Gerlachstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Uranius",
+        "vorname": "Arnfried",
         "weiblich": false
     }
 }

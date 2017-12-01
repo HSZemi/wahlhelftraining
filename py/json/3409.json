@@ -1,46 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1426705,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2660949,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "10.08.1998",
-        "matrikelnummer": 2679859,
+        "geburtsdatum": "10.10.1990",
+        "matrikelnummer": 17025,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Stolze",
-        "plzort": "53189 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Roeder",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Margarete-Susman-Weg 2",
+        "strasse": "Luttge-Marie-Weg 5",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Sozialwissenschaften",
-                "fsem": 3
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 13
             },
             {
                 "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 3
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 13
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "fsem": 13
             }
         ],
-        "vorname": "Hilar",
-        "weiblich": false
+        "vorname": "Emma",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2300572,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1652244,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.06.1992",
-        "matrikelnummer": 2730050,
+        "fakultaet": 5,
+        "geburtsdatum": "12.11.1991",
+        "matrikelnummer": 2111578,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauck",
-        "plzort": "53194 Bonn",
+        "nachname": "Sandmann",
+        "plzort": "55129 Mainz",
         "sternchen": 0,
-        "strasse": "Josef-Herrmann-Stra\u00dfe 1",
+        "strasse": "Ohmstra\u00dfe 29",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 9
+                "fach": "Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Karli",
-        "weiblich": false
+        "vorname": "Lisanne",
+        "weiblich": true
     }
 }

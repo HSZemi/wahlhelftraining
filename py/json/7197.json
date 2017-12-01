@@ -1,46 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2604901,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1989100,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "20.07.1998",
-        "matrikelnummer": 2099843,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "06.05.1996",
+        "matrikelnummer": 1993465,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Volz",
-        "plzort": "06686 L\u00fctzen",
+        "nachname": "Petzold",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Wei\u00dfiger Weg 3",
+        "strasse": "Alfred-Delp-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 4
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 7
             },
             {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Theobalda",
+        "vorname": "Iwona",
         "weiblich": true
     }
 }

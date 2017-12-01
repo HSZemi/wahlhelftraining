@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1777251,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2573926,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.04.1990",
-        "matrikelnummer": 2442951,
+        "fakultaet": 7,
+        "geburtsdatum": "24.09.1993",
+        "matrikelnummer": 2997325,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bachmann",
-        "plzort": "53198 Bonn",
+        "nachname": "Kuntz",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Feulnerweg 0",
+        "strasse": "Kaiserstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 13
+                "fach": "Lebensmittelchemie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Andrea",
-        "weiblich": true
+        "vorname": "Mathis",
+        "weiblich": false
     }
 }

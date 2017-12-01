@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2857238,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1001133,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "14.04.1995",
-        "matrikelnummer": 132988,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "08.06.1992",
+        "matrikelnummer": 2450945,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wolters",
-        "plzort": "53141 Bonn",
+        "nachname": "K\u00f6gler",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Bleichstra\u00dfe 8",
+        "strasse": "Rennplatzstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 1
             }
         ],
-        "vorname": "Uto",
-        "weiblich": false
+        "vorname": "Benedikta",
+        "weiblich": true
     }
 }

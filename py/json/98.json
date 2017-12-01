@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2189098,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1987064,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "16.10.1990",
-        "matrikelnummer": 11713,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "07.07.1996",
+        "matrikelnummer": 2660436,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schimmel",
-        "plzort": "53144 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Curt-Querner-Stra\u00dfe 1",
+        "strasse": "Bachmannstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 3
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Alphonsus",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

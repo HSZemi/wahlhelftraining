@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1861929,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1234230,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.09.1990",
-        "matrikelnummer": 3103112,
+        "fakultaet": 8,
+        "geburtsdatum": "03.10.1999",
+        "matrikelnummer": 2054067,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "M\u00fchlbauer",
-        "plzort": "53126 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Borowski",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Niedersedlitzer Platz 4",
+        "strasse": "Vilbeler Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Computer Science",
-                "fsem": 8
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Evelore",
+        "vorname": "Roseline",
         "weiblich": true
     }
 }

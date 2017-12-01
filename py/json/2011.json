@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2462738,
-    "semester": "Sommersemester 2016",
+    "nummer": 2322312,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "14.09.1991",
-        "matrikelnummer": 2204450,
+        "fakultaet": 4,
+        "geburtsdatum": "08.01.1996",
+        "matrikelnummer": 2779187,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiedemann",
-        "plzort": "53141 Bonn",
+        "nachname": "Christiansen",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Herderstra\u00dfe 11",
+        "strasse": "Bismarckplatz 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 4
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Harribert",
-        "weiblich": false
+        "vorname": "Joanna",
+        "weiblich": true
     }
 }

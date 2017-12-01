@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1608037,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1663796,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "21.11.1993",
-        "matrikelnummer": 167361,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "21.12.1989",
+        "matrikelnummer": 2016627,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Czech",
-        "plzort": "53208 Bonn",
+        "nachname": "Licht",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Otto-Ernst-Weg 2",
+        "strasse": "Kleinborthener Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Immunobiology: from molecules to integrative systems",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Marianna",
+        "vorname": "Reny",
         "weiblich": true
     }
 }

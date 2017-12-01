@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2203737,
+    "nummer": 2094522,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.01.1991",
-        "matrikelnummer": 2625825,
+        "fakultaet": 7,
+        "geburtsdatum": "26.01.1989",
+        "matrikelnummer": 12162,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frenz",
-        "plzort": "53207 Bonn",
+        "nachname": "Fitz",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Wellengasse 33",
+        "strasse": "Lauschestra\u00dfe 31",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Lea",
-        "weiblich": true
+        "vorname": "Reinholdt",
+        "weiblich": false
     }
 }

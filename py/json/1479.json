@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1283137,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1848908,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "03.05.1999",
-        "matrikelnummer": 2781682,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "15.08.1998",
+        "matrikelnummer": 158816,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Doll",
-        "plzort": "53190 Bonn",
+        "nachname": "M\u00fchl",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Kreuzerhohl 0",
+        "strasse": "Am Rathaus 27",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Philosophie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Informatik",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 10
             }
         ],
-        "vorname": "Aurelia",
-        "weiblich": true
+        "vorname": "Burkardt",
+        "weiblich": false
     }
 }

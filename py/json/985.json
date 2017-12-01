@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2648858,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1888590,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "04.06.1994",
-        "matrikelnummer": 2738905,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "14.05.1993",
+        "matrikelnummer": 1944357,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bertsch",
-        "plzort": "53180 Bonn",
+        "nachname": "Winkelmann",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Landgraf-Wilhelm-Stra\u00dfe 8",
+        "strasse": "Troppauplatz 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Ula",
+        "vorname": "Dorlinde",
         "weiblich": true
     }
 }

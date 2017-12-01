@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": true,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1194632,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1026090,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.05.1985",
-        "matrikelnummer": 3108153,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "11.02.1992",
+        "matrikelnummer": 1971978,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kugler",
-        "plzort": "53226 Bonn",
+        "nachname": "Casper",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Elbinsel 6",
+        "strasse": "Elbbr\u00fcckenstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Keltologie",
+                "fsem": 2
             },
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 1
+                "abschluss": "",
+                "fach": "Sprachlernforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Innozenz",
-        "weiblich": false
+        "vorname": "Fridegund",
+        "weiblich": true
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1669914,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2452289,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.12.1992",
-        "matrikelnummer": 2220649,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "09.10.1994",
+        "matrikelnummer": 2177951,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rhein",
-        "plzort": "53179 Bonn",
+        "nachname": "Holzinger",
+        "plzort": "67734 Sulzbachtal",
         "sternchen": 0,
-        "strasse": "Fidelio-F.-Finke-Stra\u00dfe 3",
+        "strasse": "Abtsberg 25",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 6
             }
         ],
-        "vorname": "Ignazia",
+        "vorname": "Marilene",
         "weiblich": true
     }
 }

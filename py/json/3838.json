@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1352498,
-    "semester": "Sommersemester 2016",
+    "nummer": 1327204,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.09.1989",
-        "matrikelnummer": 2445754,
+        "fakultaet": 4,
+        "geburtsdatum": "02.11.1990",
+        "matrikelnummer": 2739577,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "L\u00f6sch",
-        "plzort": "53206 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Danner",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Pr\u00e4lat Gangl-Stra\u00dfe 52",
+        "strasse": "Koppenhofgasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Maxie",
-        "weiblich": true
+        "vorname": "Rudger",
+        "weiblich": false
     }
 }

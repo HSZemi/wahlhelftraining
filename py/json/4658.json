@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1300094,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2786408,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "21.09.1990",
-        "matrikelnummer": 2861839,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "26.01.1993",
+        "matrikelnummer": 2567794,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Prange",
-        "plzort": "53152 Bonn",
+        "nachname": "Appelt",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Otto-Flake-Stra\u00dfe 23",
+        "strasse": "Kramersfeld 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Edelhard",
-        "weiblich": false
+        "vorname": "Raimunde",
+        "weiblich": true
     }
 }

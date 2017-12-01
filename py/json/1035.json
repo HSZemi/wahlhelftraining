@@ -1,31 +1,56 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1932100,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1018517,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.02.1994",
-        "matrikelnummer": 2883872,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "03.10.1999",
+        "matrikelnummer": 2017942,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Friedl",
-        "plzort": "23992 Z\u00fcsow",
+        "nachname": "Staub",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Altenzeller Stra\u00dfe 16b",
+        "strasse": "Alkmenestra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Gerfriede",
+        "vorname": "Annetrude",
         "weiblich": true
     }
 }

@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2949892,
-    "semester": "Sommersemester 2016",
+    "nummer": 1988742,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.04.1984",
-        "matrikelnummer": 2404526,
+        "fakultaet": 0,
+        "geburtsdatum": "25.07.1992",
+        "matrikelnummer": 127414,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tesch",
-        "plzort": "53131 Bonn",
+        "nachname": "Fromme",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Azaleenweg 24",
+        "strasse": "Hugo-Wolf-Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Franz\u00f6sisch",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
                 "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Katholische Religionslehre",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 6
             }
         ],
-        "vorname": "Paul",
+        "vorname": "Wladislaus",
         "weiblich": false
     }
 }

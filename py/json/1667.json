@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1123307,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1363890,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.06.1996",
-        "matrikelnummer": 2638366,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Schaper",
-        "plzort": "53214 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "27.05.1994",
+        "matrikelnummer": 2468353,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kessler",
+        "plzort": "73274 Notzingen",
         "sternchen": 0,
-        "strasse": "Mosczinskystra\u00dfe 4a",
+        "strasse": "Carl-Zei\u00df-Stra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Arts",
-                "fach": "Kulturstudien zu Lateinamerika/Estudios culturales de America Latina",
-                "fsem": 1
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 9
             }
         ],
-        "vorname": "Angelika",
+        "vorname": "Angelina",
         "weiblich": true
     }
 }

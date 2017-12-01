@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2116812,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1902664,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "01.06.1999",
-        "matrikelnummer": 2990118,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "23.05.1993",
+        "matrikelnummer": 2008064,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weihrauch",
-        "plzort": "53222 Bonn",
+        "nachname": "Rohloff",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Residenzstr. 18",
+        "strasse": "Robert-Gernhardt-Br\u00fccke 15d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kommunikationswissenschaften",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
             },
             {
                 "abschluss": "",
-                "fach": "Altamerikanistik und Ethnologie",
-                "fsem": 9
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Gina",
-        "weiblich": true
+        "vorname": "Dietger",
+        "weiblich": false
     }
 }

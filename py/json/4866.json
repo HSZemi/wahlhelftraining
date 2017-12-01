@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1348932,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2805432,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "15.10.1991",
-        "matrikelnummer": 2600206,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "06.05.1989",
+        "matrikelnummer": 2751730,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schalk",
-        "plzort": "53217 Bonn",
+        "nachname": "Steininger",
+        "plzort": "54614 Sch\u00f6necken",
         "sternchen": 0,
-        "strasse": "Kasernstr. 14",
+        "strasse": "Fuchslochweg 1",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Englisch",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Waldfriede",
-        "weiblich": true
+        "vorname": "Nicki",
+        "weiblich": false
     }
 }

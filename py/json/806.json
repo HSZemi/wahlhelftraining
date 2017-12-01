@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2374428,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2433497,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.02.1993",
-        "matrikelnummer": 2016432,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "24.05.1987",
+        "matrikelnummer": 3172030,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holl",
-        "plzort": "53165 Bonn",
+        "nachname": "Pfeuffer",
+        "plzort": "54597 Reuth",
         "sternchen": 0,
-        "strasse": "Hahngartenstra\u00dfe 10",
+        "strasse": "Strietkoppel 43",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 6
             }
         ],
-        "vorname": "Nico",
-        "weiblich": false
+        "vorname": "Birgitt",
+        "weiblich": true
     }
 }

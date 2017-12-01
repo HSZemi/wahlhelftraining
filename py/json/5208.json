@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1759261,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1471848,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "04.04.1999",
-        "matrikelnummer": 2237984,
+        "geburtsdatum": "20.01.1994",
+        "matrikelnummer": 2133294,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Loth",
-        "plzort": "53152 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Liedtke",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Lindeberg 12",
+        "strasse": "Fritz-Bayerlein-Weg 13",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 4
+                "fach": "Historische Geographie",
+                "fsem": 10
             }
         ],
-        "vorname": "Marjan",
-        "weiblich": true
+        "vorname": "Engelhard",
+        "weiblich": false
     }
 }

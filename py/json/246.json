@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2453460,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1207043,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.08.1996",
-        "matrikelnummer": 2615813,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "04.01.1995",
+        "matrikelnummer": 2122906,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hoppe",
-        "plzort": "53183 Bonn",
+        "nachname": "Heinen",
+        "plzort": "73257 K\u00f6ngen",
         "sternchen": 0,
-        "strasse": "Gr\u00fcne Aue 1",
+        "strasse": "Frauenhofstra\u00dfe 25",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 11
+                "fach": "Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Carina",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

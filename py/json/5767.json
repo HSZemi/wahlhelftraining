@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2738721,
-    "semester": "Sommersemester 2016",
+    "nummer": 1656809,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.05.1995",
-        "matrikelnummer": 2888069,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "13.05.1993",
+        "matrikelnummer": 2766432,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kempe",
-        "plzort": "53162 Bonn",
+        "nachname": "Taubert",
+        "plzort": "04849 Kossa",
         "sternchen": 0,
-        "strasse": "De-Bary-Stra\u00dfe 2c",
+        "strasse": "Anckelmannsplatz 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 6
             }
         ],
-        "vorname": "Wernhild",
-        "weiblich": true
+        "vorname": "Rupert",
+        "weiblich": false
     }
 }

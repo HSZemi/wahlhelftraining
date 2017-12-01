@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1525732,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1066026,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.11.1993",
-        "matrikelnummer": 2374682,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Laub",
-        "plzort": "53182 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "14.02.1992",
+        "matrikelnummer": 16945,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Beckert",
+        "plzort": "54470 Graach",
         "sternchen": 0,
-        "strasse": "Hertogestra\u00dfe 5",
+        "strasse": "Pettenkoferstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Danny",
-        "weiblich": false
+        "vorname": "Irmentraut",
+        "weiblich": true
     }
 }

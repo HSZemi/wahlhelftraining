@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1129715,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1888869,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "06.01.1994",
-        "matrikelnummer": 2700272,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "04.09.1996",
+        "matrikelnummer": 2189180,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinrichs",
-        "plzort": "53179 Bonn",
+        "nachname": "Sandner",
+        "plzort": "04938 Uebigau-Wahrenbr\u00fcck",
         "sternchen": 0,
-        "strasse": "Corvinusweg 42c",
+        "strasse": "Bienenbusch 12",
         "studienfaecher": [
             {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
+            },
+            {
                 "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 11
+                "fach": "Klinische Medizintechnik",
+                "fsem": 9
             }
         ],
-        "vorname": "Ulfried",
+        "vorname": "Gottlieb",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2213861,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1596175,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.08.1991",
-        "matrikelnummer": 17113,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "08.06.1991",
+        "matrikelnummer": 2902678,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kersting",
-        "plzort": "09114 Chemnitz",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Assmann",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Bachzeile 1",
+        "strasse": "Russostra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "Bachelor of Arts",
+                "fach": "English Studies",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Romanistik",
                 "fsem": 5
             }
         ],
-        "vorname": "Edwine",
+        "vorname": "Marina",
         "weiblich": true
     }
 }

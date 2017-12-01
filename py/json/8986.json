@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2220763,
+    "nummer": 1751261,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "08.12.1991",
-        "matrikelnummer": 3146670,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "21.09.1996",
+        "matrikelnummer": 2796349,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00e4ffer",
-        "plzort": "53116 Bonn",
+        "nachname": "Dahmen",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Landwehrdamm 2",
+        "strasse": "Heiligenh\u00e4usel 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Chemie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
                 "fsem": 11
             }
         ],
-        "vorname": "Rosely",
-        "weiblich": true
+        "vorname": "Gunfried",
+        "weiblich": false
     }
 }

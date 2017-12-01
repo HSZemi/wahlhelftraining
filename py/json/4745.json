@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1258134,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2900090,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.02.1994",
-        "matrikelnummer": 2940943,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "22.09.1994",
+        "matrikelnummer": 2167965,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seewald",
-        "plzort": "53150 Bonn",
+        "nachname": "Rohe",
+        "plzort": "98660 Ehrenberg",
         "sternchen": 0,
-        "strasse": "Ludwigsburger Weg 14e",
+        "strasse": "Lipsiusstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Timo",
+        "vorname": "Ottmar",
         "weiblich": false
     }
 }

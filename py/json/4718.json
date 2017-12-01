@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2485121,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1838240,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "18.03.1997",
-        "matrikelnummer": 3092527,
+        "fakultaet": 2,
+        "geburtsdatum": "07.06.1998",
+        "matrikelnummer": 19722,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Effenberger",
-        "plzort": "53126 Bonn",
+        "nachname": "Borowski",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz-Arndt-Platz 5",
+        "strasse": "Krumme Gasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Raimar",
-        "weiblich": false
+        "vorname": "Iselore",
+        "weiblich": true
     }
 }

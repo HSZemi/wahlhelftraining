@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1867141,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2872878,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.07.1999",
-        "matrikelnummer": 3175133,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "07.09.1998",
+        "matrikelnummer": 2895903,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eppler",
-        "plzort": "55234 Kettenheim",
+        "nachname": "Engelhardt",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Tarvisstr. 4",
+        "strasse": "Rote H\u00e4user 30",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
-                "fsem": 12
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
             }
         ],
-        "vorname": "Ehrhard",
+        "vorname": "Edelbert",
         "weiblich": false
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1903944,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1674104,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "13.10.1992",
-        "matrikelnummer": 2740606,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "04.09.1990",
+        "matrikelnummer": 2322461,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behrendt",
-        "plzort": "53202 Bonn",
+        "nachname": "Weiler",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Hertzstra\u00dfe 3",
+        "strasse": "Ohkamp 7d",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 11
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Gero",
-        "weiblich": false
+        "vorname": "Roseliese",
+        "weiblich": true
     }
 }

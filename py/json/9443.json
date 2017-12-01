@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2962431,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1439298,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "07.08.1998",
-        "matrikelnummer": 2867645,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "04.04.1994",
+        "matrikelnummer": 2466085,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Christmann",
-        "plzort": "53180 Bonn",
+        "nachname": "Hartmann",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Baldes-Stra\u00dfe 0",
+        "strasse": "Dammgasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Silke",
-        "weiblich": true
+        "vorname": "Frohmund",
+        "weiblich": false
     }
 }

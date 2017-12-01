@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2715485,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1868412,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.07.1994",
-        "matrikelnummer": 3091890,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "25.04.1999",
+        "matrikelnummer": 2151214,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hornig",
-        "plzort": "53158 Bonn",
+        "nachname": "Diehl",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Ullersdorfer Landstra\u00dfe 28d",
+        "strasse": "Egestra\u00dfe 27",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Christhilde",
-        "weiblich": true
+        "vorname": "Schorsch",
+        "weiblich": false
     }
 }

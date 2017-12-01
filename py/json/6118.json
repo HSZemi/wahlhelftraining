@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1754518,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1287318,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.01.1997",
-        "matrikelnummer": 2307937,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "28.08.1992",
+        "matrikelnummer": 154131,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schultes",
-        "plzort": "53219 Bonn",
+        "nachname": "F\u00fchrer",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Kulmbacher Platz 6",
+        "strasse": "Diezer Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 9
             }
         ],
-        "vorname": "Gottlieb",
+        "vorname": "Sergius",
         "weiblich": false
     }
 }

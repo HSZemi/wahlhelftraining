@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2518668,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2355918,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "09.09.1986",
-        "matrikelnummer": 182841,
+        "geburtsdatum": "13.09.1993",
+        "matrikelnummer": 2157009,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Metzger",
-        "plzort": "73579 Schechingen",
+        "nachname": "W\u00e4chter",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Am Ebelfeld 10",
+        "strasse": "Hammer Baum 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Islamwissenschaft",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 11
             }
         ],
-        "vorname": "Mechtilde",
+        "vorname": "Frowine",
         "weiblich": true
     }
 }

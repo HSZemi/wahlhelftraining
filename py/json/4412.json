@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2502593,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1140702,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "23.01.1993",
-        "matrikelnummer": 2482924,
+        "fakultaet": 0,
+        "geburtsdatum": "20.01.1988",
+        "matrikelnummer": 2402393,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Schirmer",
-        "plzort": "53165 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Pl\u00f6tz",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Floriastra\u00dfe 6",
+        "strasse": "Fuchsbergweg 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
             }
         ],
-        "vorname": "Tiberius",
+        "vorname": "Cuno",
         "weiblich": false
     }
 }

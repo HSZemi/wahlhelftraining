@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2788280,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1049461,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "28.08.1993",
-        "matrikelnummer": 2175316,
+        "fakultaet": 4,
+        "geburtsdatum": "10.05.1999",
+        "matrikelnummer": 2432100,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frie\u00df",
-        "plzort": "53222 Bonn",
+        "nachname": "Schwerdtfeger",
+        "plzort": "19412 Br\u00fcel",
         "sternchen": 0,
-        "strasse": "Diebsgrundweg 9d",
+        "strasse": "Luisenhofstieg 18",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
-                "fsem": 1
+                "fsem": 12
             }
         ],
-        "vorname": "Alex",
-        "weiblich": false
+        "vorname": "Kornelia",
+        "weiblich": true
     }
 }

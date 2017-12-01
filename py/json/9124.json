@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1476774,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2512029,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "20.02.1995",
-        "matrikelnummer": 1918471,
+        "fakultaet": 3,
+        "geburtsdatum": "06.12.1989",
+        "matrikelnummer": 2783005,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haase",
-        "plzort": "53223 Bonn",
+        "nachname": "Walter",
+        "plzort": "30159 Hannover",
         "sternchen": 0,
-        "strasse": "Gei\u00dflertwiete 0",
+        "strasse": "Zur Pappritzm\u00fchle 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 1
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 10
             }
         ],
-        "vorname": "Eckhardt",
-        "weiblich": false
+        "vorname": "Ingelinde",
+        "weiblich": true
     }
 }

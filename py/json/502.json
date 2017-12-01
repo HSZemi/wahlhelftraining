@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1874342,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2490818,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "20.07.1993",
-        "matrikelnummer": 13099,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "03.12.1987",
+        "matrikelnummer": 2984772,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Boldt",
-        "plzort": "53195 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sternberg",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Allersstra\u00dfe 18",
+        "strasse": "Deutschherrnufer 4",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 13
             }
         ],
-        "vorname": "Christhardt",
+        "vorname": "Marzellus",
         "weiblich": false
     }
 }

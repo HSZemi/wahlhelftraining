@@ -1,33 +1,28 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2015102,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1801297,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "10.08.1994",
-        "matrikelnummer": 2754947,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "07.11.1989",
+        "matrikelnummer": 132874,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53196 Bonn",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Kilianst\u00e4dter Stra\u00dfe 22",
+        "strasse": "Georg-Esser-Anlage 31",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
         "vorname": "Marcel",

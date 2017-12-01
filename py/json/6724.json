@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2399911,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2750157,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "20.10.1995",
-        "matrikelnummer": 2957352,
+        "fakultaet": 8,
+        "geburtsdatum": "10.12.1986",
+        "matrikelnummer": 2122972,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schunk",
-        "plzort": "53160 Bonn",
+        "nachname": "Bosse",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Hermann-Brill-Stra\u00dfe 4",
+        "strasse": "Waldstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 5
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Ilsegret",
+        "vorname": "Lissy",
         "weiblich": true
     }
 }

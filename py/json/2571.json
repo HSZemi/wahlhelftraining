@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1150106,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1417500,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.05.1995",
-        "matrikelnummer": 2947004,
+        "fakultaet": 7,
+        "geburtsdatum": "16.08.1994",
+        "matrikelnummer": 2979672,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Uhlmann",
-        "plzort": "53148 Bonn",
+        "nachname": "Nagy",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Klein\u2026 4",
+        "strasse": "Eichbuschweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 13
             }
         ],
-        "vorname": "Nicky",
-        "weiblich": false
+        "vorname": "Elma",
+        "weiblich": true
     }
 }

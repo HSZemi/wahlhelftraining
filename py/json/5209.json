@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1410700,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2925267,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.02.1998",
-        "matrikelnummer": 2377621,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "26.04.1992",
+        "matrikelnummer": 2909576,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gabel",
-        "plzort": "53171 Bonn",
+        "nachname": "Heins",
+        "plzort": "54649 Lauperath",
         "sternchen": 0,
-        "strasse": "Liesel-Christ-Anlage 11",
+        "strasse": "Am Schwarzen Tor 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Karl",
-        "weiblich": false
+        "vorname": "Celia",
+        "weiblich": true
     }
 }

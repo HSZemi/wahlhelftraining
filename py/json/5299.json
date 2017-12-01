@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2494140,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1993249,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.04.1996",
-        "matrikelnummer": 3176967,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "10.03.1981",
+        "matrikelnummer": 3084129,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Greif",
-        "plzort": "53122 Bonn",
+        "nachname": "Hertwig",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Zellescher Weg 4",
+        "strasse": "Normannenweg 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
                 "fsem": 13
             }
         ],
-        "vorname": "Marlinde",
-        "weiblich": true
+        "vorname": "Bruno",
+        "weiblich": false
     }
 }

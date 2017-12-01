@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1825817,
-    "semester": "Sommersemester 2016",
+    "nummer": 1258264,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.06.1996",
-        "matrikelnummer": 19399,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "19.07.1997",
+        "matrikelnummer": 19981,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Michael",
-        "plzort": "53139 Bonn",
+        "nachname": "Wilhelmi",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Miltitzer Stra\u00dfe 2",
+        "strasse": "Hansaallee 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Hansgerd",
+        "vorname": "Nunzius",
         "weiblich": false
     }
 }

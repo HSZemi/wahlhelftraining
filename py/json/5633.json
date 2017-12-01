@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2547832,
-    "semester": "Sommersemester 2016",
+    "nummer": 2540196,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.11.1989",
-        "matrikelnummer": 2015545,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "03.01.1987",
+        "matrikelnummer": 19122,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nagy",
-        "plzort": "87672 Ro\u00dfhaupten",
+        "nachname": "R\u00f6hrig",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Bernd-Aldenhoff-Stra\u00dfe 5",
+        "strasse": "Roppeltsgasse 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life and Medical Sciences",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Jacob",
+        "vorname": "Baptist",
         "weiblich": false
     }
 }

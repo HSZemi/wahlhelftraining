@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1280273,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2164984,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.02.1995",
-        "matrikelnummer": 1932382,
+        "fakultaet": 3,
+        "geburtsdatum": "19.06.1997",
+        "matrikelnummer": 15306,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gregor",
+        "nachname": "Heinen",
         "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Lisa-Niebank-Weg 6",
+        "strasse": "Sebastiangasse 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Plant Sciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Welfhard",
+        "vorname": "Marcel",
         "weiblich": false
     }
 }

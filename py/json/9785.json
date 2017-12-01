@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1253480,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1415805,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.02.1993",
-        "matrikelnummer": 2703189,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "25.08.1995",
+        "matrikelnummer": 2234577,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlick",
-        "plzort": "37318 Schwobfeld",
+        "nachname": "Weinberg",
+        "plzort": "37345 Wei\u00dfenborn-L\u00fcderode",
         "sternchen": 0,
-        "strasse": "Weesensteiner Stra\u00dfe 2",
+        "strasse": "B\u00f6hlepark 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Gerhardt",
-        "weiblich": false
+        "vorname": "Evamaria",
+        "weiblich": true
     }
 }

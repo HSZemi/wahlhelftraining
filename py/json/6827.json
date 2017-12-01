@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1168621,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1558898,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "04.11.1991",
-        "matrikelnummer": 137679,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "10.08.1990",
+        "matrikelnummer": 2702899,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diedrich",
-        "plzort": "53217 Bonn",
+        "nachname": "Herold",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Franke-Stra\u00dfe 11",
+        "strasse": "Haardtwaldplatz 6",
         "studienfaecher": [
             {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             }
         ],
-        "vorname": "Hippolytus",
-        "weiblich": false
+        "vorname": "Katerina",
+        "weiblich": true
     }
 }

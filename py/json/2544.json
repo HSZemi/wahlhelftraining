@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1366070,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1741741,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.09.1987",
-        "matrikelnummer": 15451,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "18.03.1997",
+        "matrikelnummer": 2635760,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dietze",
-        "plzort": "53149 Bonn",
+        "nachname": "V\u00f6lkl",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Lugbank 4",
+        "strasse": "An der Bitz 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Pharmazie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Meinolf",
+        "vorname": "Raimond",
         "weiblich": false
     }
 }

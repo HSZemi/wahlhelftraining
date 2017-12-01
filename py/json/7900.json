@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1227979,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2325012,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.08.1996",
-        "matrikelnummer": 196876,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "21.11.1994",
+        "matrikelnummer": 2606168,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jakobs",
-        "plzort": "20144 Hamburg",
+        "nachname": "K\u00fcbler",
+        "plzort": "21220 Seevetal",
         "sternchen": 0,
-        "strasse": "Sporergasse 13",
+        "strasse": "Winckelmannstra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 10
             }
         ],
-        "vorname": "Thea",
-        "weiblich": true
+        "vorname": "Wolff",
+        "weiblich": false
     }
 }

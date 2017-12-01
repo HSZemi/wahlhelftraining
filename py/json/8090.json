@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2197302,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2824693,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "02.07.1992",
-        "matrikelnummer": 2538865,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kreutz",
-        "plzort": "35690 Dillenburg",
+        "fakultaet": 8,
+        "geburtsdatum": "22.09.1993",
+        "matrikelnummer": 2836019,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kleber",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Gelnh\u00e4user Stra\u00dfe 43",
+        "strasse": "Trompeterstra\u00dfe 23c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 10
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 7
             }
         ],
-        "vorname": "Markus",
-        "weiblich": false
+        "vorname": "Evamarie",
+        "weiblich": true
     }
 }

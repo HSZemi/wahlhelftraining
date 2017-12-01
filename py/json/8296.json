@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2634900,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1560304,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.11.1991",
-        "matrikelnummer": 2038084,
+        "fakultaet": 6,
+        "geburtsdatum": "09.01.1992",
+        "matrikelnummer": 2020636,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klug",
-        "plzort": "53222 Bonn",
+        "nachname": "Klee",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Rossendorfer Ring 5",
+        "strasse": "Hosterwitzer Stra\u00dfe 3b",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Mathematik",
+                "fsem": 7
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 5
+                "fach": "Chemistry",
+                "fsem": 4
             }
         ],
-        "vorname": "Gertmund",
-        "weiblich": false
+        "vorname": "Polina",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2043478,
-    "semester": "Sommersemester 2016",
+    "nummer": 1362260,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "21.09.1995",
-        "matrikelnummer": 3189305,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "13.04.1990",
+        "matrikelnummer": 2471170,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kollmann",
-        "plzort": "95466 Weidenberg",
+        "nachname": "Lampe",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Anna-L\u00fchring-Weg 9",
+        "strasse": "Grabenfeld 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Marold",
+        "vorname": "Tobias",
         "weiblich": false
     }
 }

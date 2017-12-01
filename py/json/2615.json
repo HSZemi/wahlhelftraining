@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2543884,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2436017,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.09.1987",
-        "matrikelnummer": 2253188,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "22.08.1997",
+        "matrikelnummer": 2862516,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brunke",
-        "plzort": "53131 Bonn",
+        "nachname": "Knoche",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Pf\u00e4lzer Stra\u00dfe 4",
+        "strasse": "Lerchenbergweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Marlinde",
-        "weiblich": true
+        "vorname": "Hansotto",
+        "weiblich": false
     }
 }

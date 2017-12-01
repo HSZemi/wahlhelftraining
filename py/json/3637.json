@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2144324,
-    "semester": "Sommersemester 2016",
+    "nummer": 1244394,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "05.03.1999",
-        "matrikelnummer": 2609691,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "09.12.1996",
+        "matrikelnummer": 164449,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Timm",
-        "plzort": "02747 Berthelsdorf",
+        "nachname": "Bartel",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Zieglerstra\u00dfe 3",
+        "strasse": "Talweg 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Altraud",
-        "weiblich": true
+        "vorname": "Otthard",
+        "weiblich": false
     }
 }

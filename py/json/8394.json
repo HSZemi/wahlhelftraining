@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1448265,
-    "semester": "Sommersemester 2016",
+    "nummer": 2894849,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "21.12.1995",
-        "matrikelnummer": 2941868,
+        "fakultaet": 6,
+        "geburtsdatum": "02.03.1992",
+        "matrikelnummer": 2003853,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Pietschmann",
-        "plzort": "53120 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pieper",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Hohend\u00f6lzschener Stra\u00dfe 1",
+        "strasse": "Alter Bahndamm 0",
         "studienfaecher": [
+            {
+                "abschluss": "Promotion",
+                "fach": "Meteorologie",
+                "fsem": 5
+            },
             {
                 "abschluss": "Magister Theologiae (kath.)",
                 "fach": "Katholische Theologie",
-                "fsem": 9
+                "fsem": 5
             }
         ],
-        "vorname": "Isidor",
-        "weiblich": false
+        "vorname": "Theres",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2776237,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1798140,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "17.02.1994",
-        "matrikelnummer": 2855232,
+        "geburtsdatum": "07.10.1994",
+        "matrikelnummer": 2271018,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buchwald",
-        "plzort": "53147 Bonn",
+        "nachname": "Kusch",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Oberweid 28",
+        "strasse": "Untere Seelgasse 14",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Kajetan",
+        "vorname": "Lebrecht",
         "weiblich": false
     }
 }

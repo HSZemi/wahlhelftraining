@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1189708,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1130359,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "15.11.1992",
-        "matrikelnummer": 3048872,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "08.02.1991",
+        "matrikelnummer": 14606,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gaiser",
-        "plzort": "54657 Badem",
+        "nachname": "Hipp",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Pfannm\u00fcllerstra\u00dfe 12",
+        "strasse": "Altseidnitz 8",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Geschichte",
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
                 "fsem": 6
             },
             {
-                "abschluss": "",
-                "fach": "Spanisch",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Nick",
+        "vorname": "Guido",
         "weiblich": false
     }
 }

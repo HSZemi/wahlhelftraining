@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2130905,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2056394,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "28.12.1995",
-        "matrikelnummer": 17119,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "02.12.1987",
+        "matrikelnummer": 3108619,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Busche",
-        "plzort": "53123 Bonn",
+        "nachname": "Eichholz",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Nieb\u00fcllweg 8",
+        "strasse": "Fuldaer Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 12
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Ivo",
+        "vorname": "Eginald",
         "weiblich": false
     }
 }

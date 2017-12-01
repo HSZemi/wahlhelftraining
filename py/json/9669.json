@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2048789,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1776615,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.09.1999",
-        "matrikelnummer": 2182093,
+        "fakultaet": 8,
+        "geburtsdatum": "15.06.1994",
+        "matrikelnummer": 2280104,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kahl",
-        "plzort": "54636 Seffern",
+        "nachname": "Michel",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Altkaditz 13",
+        "strasse": "Wegkoppel 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 10
             }
         ],
-        "vorname": "Gesa",
-        "weiblich": true
+        "vorname": "Carsten",
+        "weiblich": false
     }
 }

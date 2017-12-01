@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1910134,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2099981,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "04.12.1991",
-        "matrikelnummer": 1912028,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "19.10.1997",
+        "matrikelnummer": 12630,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kappes",
-        "plzort": "53185 Bonn",
+        "nachname": "Sch\u00f6ttler",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Schlo\u00dfgarten 9",
+        "strasse": "Ernst-May-Platz 6",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 9
+                "fach": "Entwicklungsforschung",
+                "fsem": 6
             }
         ],
-        "vorname": "Paul",
-        "weiblich": false
+        "vorname": "Constance",
+        "weiblich": true
     }
 }

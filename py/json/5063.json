@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2649834,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2314283,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "21.07.1993",
-        "matrikelnummer": 2662274,
+        "fakultaet": 3,
+        "geburtsdatum": "25.04.1990",
+        "matrikelnummer": 2800344,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mai",
-        "plzort": "99986 Oberdorla",
+        "nachname": "Pusch",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Ebert-Str. 1",
+        "strasse": "Schorkstr. 16",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
                 "fsem": 11
             },
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 7
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Ingeborg",
-        "weiblich": true
+        "vorname": "Zacharias",
+        "weiblich": false
     }
 }

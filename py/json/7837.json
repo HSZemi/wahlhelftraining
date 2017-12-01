@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2576922,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1625036,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "26.11.1999",
-        "matrikelnummer": 2037457,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "01.10.1991",
+        "matrikelnummer": 2253679,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Blau",
-        "plzort": "13597 Berlin",
+        "nachname": "Reusch",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Birkenau 1",
+        "strasse": "Ohmstra\u00dfe 11d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 8
             }
         ],
-        "vorname": "Gunther",
+        "vorname": "Beat",
         "weiblich": false
     }
 }

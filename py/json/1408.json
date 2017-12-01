@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1253323,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1211940,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.10.1999",
-        "matrikelnummer": 2475556,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "23.10.1997",
+        "matrikelnummer": 2583893,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feige",
-        "plzort": "53215 Bonn",
+        "nachname": "Reimann",
+        "plzort": "39615 Wendemark",
         "sternchen": 0,
-        "strasse": "Gerichtsstra\u00dfe 57",
+        "strasse": "Franz-Diehl-Weg 16",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Anne-Katrin",
-        "weiblich": true
+        "vorname": "Franzl",
+        "weiblich": false
     }
 }

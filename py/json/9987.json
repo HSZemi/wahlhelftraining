@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2504362,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1492209,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "14.01.1996",
-        "matrikelnummer": 18511,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "05.05.1990",
+        "matrikelnummer": 2755756,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hackmann",
-        "plzort": "53166 Bonn",
+        "nachname": "Blum",
+        "plzort": "61130 Nidderau",
         "sternchen": 0,
-        "strasse": "Elly-Beinhorn-Stra\u00dfe 16",
+        "strasse": "Ostergassel 22",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Englisch",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 13
             }
         ],
-        "vorname": "Kruno",
+        "vorname": "Karlheiner",
         "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2042640,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1662358,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.09.1990",
-        "matrikelnummer": 134640,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "23.07.1996",
+        "matrikelnummer": 143069,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00fcdtke",
-        "plzort": "53167 Bonn",
+        "nachname": "Mittermeier",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-Henlein-Stra\u00dfe 0",
+        "strasse": "Mittelbachstr. 22",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 8
             }
         ],
-        "vorname": "Britt",
-        "weiblich": true
+        "vorname": "Lewin",
+        "weiblich": false
     }
 }

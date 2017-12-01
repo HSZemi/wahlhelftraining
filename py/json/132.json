@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2198933,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1828065,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "01.10.1991",
-        "matrikelnummer": 2461465,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "10.08.1990",
+        "matrikelnummer": 2751494,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kolb",
-        "plzort": "53129 Bonn",
+        "nachname": "Heinen",
+        "plzort": "15732 Waltersdorf",
         "sternchen": 0,
-        "strasse": "Wernerstra\u00dfe 0",
+        "strasse": "Dopplerstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Naturschutz und Landschafts\u00f6kologie",
-                "fsem": 5
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             }
         ],
-        "vorname": "Danuta",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

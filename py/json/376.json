@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2903781,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1414775,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "18.03.1995",
-        "matrikelnummer": 2117422,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "03.05.1996",
+        "matrikelnummer": 2242257,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hofbauer",
-        "plzort": "53217 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Kaufunger Stra\u00dfe 36d",
+        "strasse": "Johannes-Brahms-Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 2
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Wieghart",
+        "vorname": "Marcel",
         "weiblich": false
     }
 }

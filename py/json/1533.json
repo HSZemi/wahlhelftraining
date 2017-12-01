@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1440429,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1939308,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.06.1994",
-        "matrikelnummer": 2200928,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "10.04.1994",
+        "matrikelnummer": 2951391,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Milz",
-        "plzort": "54518 Dodenburg",
+        "nachname": "Menges",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Rispengrasweg 6",
+        "strasse": "Am J\u00e4gerpark 34",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Burkhard",
-        "weiblich": false
+        "vorname": "Mareile",
+        "weiblich": true
     }
 }

@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1874073,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2840726,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "02.10.1992",
-        "matrikelnummer": 18985,
-        "mehrfachausfertigung": 5,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "05.07.1992",
+        "matrikelnummer": 2730362,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6rner",
-        "plzort": "53129 Bonn",
+        "nachname": "Hirschmann",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Serkowitzer Stra\u00dfe 6",
+        "strasse": "Zamenhofstra\u00dfe 13",
         "studienfaecher": [
             {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 11
+                "fach": "Chemie",
+                "fsem": 8
             }
         ],
-        "vorname": "Lukas",
+        "vorname": "Cai",
         "weiblich": false
     }
 }

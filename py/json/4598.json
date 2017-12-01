@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2843290,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1675253,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.04.1993",
-        "matrikelnummer": 3083908,
+        "fakultaet": 6,
+        "geburtsdatum": "24.12.1999",
+        "matrikelnummer": 2392867,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Benz",
-        "plzort": "53158 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kirchner",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Joseph Haydn-Platz 13",
+        "strasse": "Cohausenstra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
+                "fach": "Pharmazie",
                 "fsem": 9
             }
         ],
-        "vorname": "Hansfriedrich",
+        "vorname": "Alwin",
         "weiblich": false
     }
 }

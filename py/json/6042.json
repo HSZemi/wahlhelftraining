@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1902527,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2032752,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "01.12.1994",
-        "matrikelnummer": 2114165,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "15.08.1994",
+        "matrikelnummer": 3151935,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gaus",
-        "plzort": "18258 Kassow",
+        "nachname": "Pfaff",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "An der Bergkuppe 12",
+        "strasse": "Am Klosterberg 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Arkadius",
-        "weiblich": false
+        "vorname": "Philomena",
+        "weiblich": true
     }
 }

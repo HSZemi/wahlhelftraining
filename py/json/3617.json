@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1089267,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2905661,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "10.01.1995",
-        "matrikelnummer": 2873189,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "18.01.1992",
+        "matrikelnummer": 2516858,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuntz",
-        "plzort": "53131 Bonn",
+        "nachname": "Behrmann",
+        "plzort": "06786 Vockerode",
         "sternchen": 0,
-        "strasse": "Kandelstra\u00dfe 7",
+        "strasse": "Claviusstr. 9",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 8
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Waldemar",
-        "weiblich": false
+        "vorname": "Waldtraud",
+        "weiblich": true
     }
 }

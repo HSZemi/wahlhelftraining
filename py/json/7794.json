@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2679343,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2462546,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "01.03.1988",
-        "matrikelnummer": 2635185,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "09.11.1991",
+        "matrikelnummer": 19983,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baumer",
-        "plzort": "53139 Bonn",
+        "nachname": "Wassermann",
+        "plzort": "91257 Pegnitz",
         "sternchen": 0,
-        "strasse": "Spitzbergstra\u00dfe 12",
+        "strasse": "Helfenberger Grund 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Magister Theologiae (kath.)",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 10
+                "fsem": 1
             }
         ],
-        "vorname": "Alwine",
-        "weiblich": true
+        "vorname": "Ekkehard",
+        "weiblich": false
     }
 }

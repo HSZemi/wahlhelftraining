@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2483413,
+    "nummer": 2688661,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.12.1999",
-        "matrikelnummer": 2948615,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "03.04.1996",
+        "matrikelnummer": 2659152,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bruder",
-        "plzort": "38875 Elbingerode",
+        "nachname": "St\u00fcber",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Rehmstra\u00dfe 6",
+        "strasse": "Gro\u00dfer Maien 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Mathematik",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 2
             }
         ],
-        "vorname": "Clivia",
+        "vorname": "Cirsten",
         "weiblich": true
     }
 }

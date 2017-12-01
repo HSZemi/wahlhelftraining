@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2764892,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2813501,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.06.1994",
-        "matrikelnummer": 2837526,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "13.06.1999",
+        "matrikelnummer": 2719281,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6n",
-        "plzort": "53189 Bonn",
+        "nachname": "Hinrichs",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Otto-Mohr-Stra\u00dfe 2",
+        "strasse": "Pennricher Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 13
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "G\u00fclsen",
+        "vorname": "Melitta",
         "weiblich": true
     }
 }

@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1692631,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2832398,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.07.1993",
-        "matrikelnummer": 2574343,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "14.05.1994",
+        "matrikelnummer": 2454001,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Martini",
-        "plzort": "53228 Bonn",
+        "nachname": "Markert",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Freseniusstra\u00dfe 1",
+        "strasse": "Peralohstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Malve",
-        "weiblich": true
+        "vorname": "Reinhardt",
+        "weiblich": false
     }
 }

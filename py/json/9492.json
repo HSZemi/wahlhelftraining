@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2278892,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1269807,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.01.1995",
-        "matrikelnummer": 2873004,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "17.03.1992",
+        "matrikelnummer": 2276843,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grafe",
-        "plzort": "53215 Bonn",
+        "nachname": "Wiegmann",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Carl-Christ-Stra\u00dfe 7",
+        "strasse": "Egestra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Pharmazie",
+                "fsem": 8
             }
         ],
-        "vorname": "Rathgunde",
+        "vorname": "Madleine",
         "weiblich": true
     }
 }

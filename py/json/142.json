@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2559535,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1576754,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "17.09.1986",
-        "matrikelnummer": 1920847,
+        "fakultaet": 6,
+        "geburtsdatum": "05.07.1991",
+        "matrikelnummer": 2517396,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Birk",
-        "plzort": "53132 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Am Elbtalweg 19",
+        "strasse": "Terrassenwohnpark 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Agricultural and Food Economics",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Helmrich",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

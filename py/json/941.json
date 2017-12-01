@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2147568,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 2857354,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "05.02.1994",
-        "matrikelnummer": 146944,
+        "geburtsdatum": "14.08.1993",
+        "matrikelnummer": 3093395,
         "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Klotz",
-        "plzort": "53192 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ewert",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Poststra\u00dfe 9",
+        "strasse": "Martin-Haller-Ring 18c",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Agricultural and Food Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Felix",
+        "vorname": "Carl",
         "weiblich": false
     }
 }

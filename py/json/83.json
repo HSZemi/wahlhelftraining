@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1324663,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2921358,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.07.1989",
-        "matrikelnummer": 3044714,
+        "fakultaet": 4,
+        "geburtsdatum": "05.02.1997",
+        "matrikelnummer": 2112040,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Faust",
-        "plzort": "53111 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Winterbergstra\u00dfe 8",
+        "strasse": "Stiftsgasse 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Eginhard",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

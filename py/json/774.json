@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1231754,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2944593,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "01.07.1998",
-        "matrikelnummer": 2609783,
+        "geburtsdatum": "12.02.1990",
+        "matrikelnummer": 2649729,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wenk",
-        "plzort": "53160 Bonn",
+        "nachname": "Hilgers",
+        "plzort": "06862 Brambach",
         "sternchen": 0,
-        "strasse": "Dietzweg 18a",
+        "strasse": "Fidelio-F.-Finke-Stra\u00dfe 1e",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 3
             }
         ],
-        "vorname": "Margareta",
-        "weiblich": true
+        "vorname": "Hansjoachim",
+        "weiblich": false
     }
 }

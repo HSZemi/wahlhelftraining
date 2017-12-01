@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1208680,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1194658,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "27.03.1997",
-        "matrikelnummer": 2403283,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "06.03.1987",
+        "matrikelnummer": 3043903,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klapper",
-        "plzort": "53198 Bonn",
+        "nachname": "Klingenberg",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Rudolf Klafsky-Gasse 4d",
+        "strasse": "Johanna-Spyri-Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 1
             }
         ],
-        "vorname": "Justina",
+        "vorname": "Renilde",
         "weiblich": true
     }
 }

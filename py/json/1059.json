@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2421486,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1968274,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "20.05.1994",
-        "matrikelnummer": 2502541,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "10.09.1990",
+        "matrikelnummer": 2925960,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leicht",
-        "plzort": "18230 Biendorf",
+        "nachname": "Geist",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Waisenstieg 4",
+        "strasse": "Gro\u00dfe Rittergasse 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Lorenz",
-        "weiblich": false
+        "vorname": "Carina",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2948562,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2728519,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "23.11.1998",
-        "matrikelnummer": 2123739,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "26.11.1993",
+        "matrikelnummer": 2045301,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jeske",
-        "plzort": "53183 Bonn",
+        "nachname": "Oertel",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Goppelner Stra\u00dfe 1",
+        "strasse": "Sonnenpl\u00e4tzchen 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 13
             }
         ],
-        "vorname": "Erhart",
-        "weiblich": false
+        "vorname": "Ariane",
+        "weiblich": true
     }
 }

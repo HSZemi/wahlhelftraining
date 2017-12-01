@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1685936,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2061707,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.04.1993",
-        "matrikelnummer": 2150372,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "02.08.1996",
+        "matrikelnummer": 3043027,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mosch",
-        "plzort": "65558 Eppenrod",
+        "nachname": "Linder",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Stendaler Stra\u00dfe 8",
+        "strasse": "Stechgrundstra\u00dfe 6e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Biologie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 1
             }
         ],
-        "vorname": "Paulinus",
-        "weiblich": false
+        "vorname": "Resel",
+        "weiblich": true
     }
 }

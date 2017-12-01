@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2882931,
-    "semester": "Sommersemester 2016",
+    "nummer": 1585795,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.07.1991",
-        "matrikelnummer": 2911335,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 4,
+        "geburtsdatum": "28.07.1998",
+        "matrikelnummer": 16923,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Loose",
-        "plzort": "53184 Bonn",
+        "nachname": "Klein",
+        "plzort": "55566 Daubach",
         "sternchen": 0,
-        "strasse": "Gr\u00fcnwinkel 6",
+        "strasse": "Johann-Georg-Fahr-Anlage 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Psychologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Medienkommunikation",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Helene",
+        "vorname": "Schwanhild",
         "weiblich": true
     }
 }

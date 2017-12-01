@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1023844,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1820333,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "22.11.1999",
-        "matrikelnummer": 2374879,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "11.11.1990",
+        "matrikelnummer": 2062567,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tiedemann",
-        "plzort": "53128 Bonn",
+        "nachname": "Senger",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Schwenkstra\u00dfe 5",
+        "strasse": "Poelchaukamp 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "fsem": 7
             }
         ],
-        "vorname": "Carmen",
-        "weiblich": true
+        "vorname": "Dietram",
+        "weiblich": false
     }
 }

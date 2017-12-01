@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2123587,
+    "nummer": 2662399,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.02.1991",
-        "matrikelnummer": 111151,
+        "fakultaet": 8,
+        "geburtsdatum": "28.09.1993",
+        "matrikelnummer": 2202412,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Rohrer",
-        "plzort": "53136 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Opitz",
+        "plzort": "89287 Bellenberg",
         "sternchen": 0,
-        "strasse": "Heidestra\u00dfe 4a",
+        "strasse": "Traunreuter Str. 56",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 3
             },
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 12
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Wolfhart",
-        "weiblich": false
+        "vorname": "Janina",
+        "weiblich": true
     }
 }

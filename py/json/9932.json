@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1470616,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2101668,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.07.1991",
-        "matrikelnummer": 2859151,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "05.06.1992",
+        "matrikelnummer": 3123471,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behrend",
-        "plzort": "57539 H\u00f6vels",
+        "nachname": "Lindenberg",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00f6melburgstieg 2",
+        "strasse": "Hutweidegasse 8",
         "studienfaecher": [
             {
                 "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
+                "fach": "Katholische Theologie",
                 "fsem": 12
+            },
+            {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 2
             }
         ],
-        "vorname": "Heintje",
+        "vorname": "Walther",
         "weiblich": false
     }
 }

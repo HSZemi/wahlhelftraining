@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": true
     },
-    "nummer": 1666240,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1817256,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "04.10.1994",
-        "matrikelnummer": 1961689,
+        "fakultaet": 9,
+        "geburtsdatum": "10.06.1990",
+        "matrikelnummer": 3007367,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hoyer",
-        "plzort": "04617 Gerstenberg",
+        "nachname": "Maisch",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Wiesentorstra\u00dfe 17a",
+        "strasse": "Battertweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Fridegund",
+        "vorname": "Auguste",
         "weiblich": true
     }
 }

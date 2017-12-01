@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2852882,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1167142,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "11.12.1990",
-        "matrikelnummer": 2369944,
+        "fakultaet": 8,
+        "geburtsdatum": "19.09.1996",
+        "matrikelnummer": 18327,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kasper",
-        "plzort": "97286 Sommerhausen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zemantek",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Erwinstra\u00dfe 1",
+        "strasse": "Marbachweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Germar",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

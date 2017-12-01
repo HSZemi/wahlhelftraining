@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2346494,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2270770,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "13.12.1995",
-        "matrikelnummer": 2524601,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "18.11.1994",
+        "matrikelnummer": 2679738,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brosch",
-        "plzort": "53206 Bonn",
+        "nachname": "Merkle",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Welschgrabenstra\u00dfe 0",
+        "strasse": "Am Weiher 10",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 8
             }
         ],
-        "vorname": "Timotheus",
-        "weiblich": false
+        "vorname": "Melissa",
+        "weiblich": true
     }
 }

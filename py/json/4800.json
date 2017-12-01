@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2801875,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1446528,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "26.08.1998",
-        "matrikelnummer": 2587270,
+        "geburtsdatum": "09.10.1996",
+        "matrikelnummer": 2324305,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Habermann",
-        "plzort": "53198 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Rick",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Emil-Claar-Stra\u00dfe 1",
+        "strasse": "Untere Seelgasse 4c",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
             }
         ],
-        "vorname": "Ludmilla",
-        "weiblich": true
+        "vorname": "Sylvester",
+        "weiblich": false
     }
 }

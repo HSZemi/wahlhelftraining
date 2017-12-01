@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1321040,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2602446,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.10.1996",
-        "matrikelnummer": 143459,
+        "fakultaet": 6,
+        "geburtsdatum": "08.08.1991",
+        "matrikelnummer": 2147932,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00fctzner",
-        "plzort": "53134 Bonn",
+        "nachname": "Klose",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "An der Nordsiedlung 6",
+        "strasse": "Spitzwegstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 10
             }
         ],
-        "vorname": "Mira",
+        "vorname": "Alicja",
         "weiblich": true
     }
 }

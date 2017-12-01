@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1523659,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1724776,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.08.1996",
-        "matrikelnummer": 2842627,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "08.06.1994",
+        "matrikelnummer": 2398202,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rink",
-        "plzort": "53175 Bonn",
+        "nachname": "Stengel",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Heiligenbornstra\u00dfe 4",
+        "strasse": "Kaemmererufer 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Curt",
-        "weiblich": false
+        "vorname": "Stefani",
+        "weiblich": true
     }
 }

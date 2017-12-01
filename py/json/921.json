@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2101983,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1982088,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "19.04.1995",
-        "matrikelnummer": 16321,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "26.03.1995",
+        "matrikelnummer": 1919326,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knappe",
-        "plzort": "07819 Pillingsdorf",
+        "nachname": "Pecher",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Moorkrug 1",
+        "strasse": "Hermann-Mende-Stra\u00dfe 5a",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 6
             }
         ],
-        "vorname": "Gerhard",
-        "weiblich": false
+        "vorname": "Ilseruth",
+        "weiblich": true
     }
 }

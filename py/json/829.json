@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1125048,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1778795,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.04.1995",
-        "matrikelnummer": 141393,
+        "fakultaet": 4,
+        "geburtsdatum": "26.05.1983",
+        "matrikelnummer": 2468529,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Loose",
-        "plzort": "53217 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00f6hm",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-B\u00f6hler-Stra\u00dfe 8",
+        "strasse": "Hermann-Kunz-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 4
             }
         ],
-        "vorname": "Irmlinde",
+        "vorname": "Gritt",
         "weiblich": true
     }
 }

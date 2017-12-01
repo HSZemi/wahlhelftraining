@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2645399,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1216685,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "06.04.1996",
-        "matrikelnummer": 2513056,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "10.11.1991",
+        "matrikelnummer": 2412944,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Werle",
-        "plzort": "53209 Bonn",
+        "nachname": "Moser",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Trattendorfer Stra\u00dfe 14",
+        "strasse": "Waldfriedstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Leonhardt",
+        "vorname": "Jacob",
         "weiblich": false
     }
 }

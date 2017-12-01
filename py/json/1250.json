@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1075683,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1652938,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "11.08.1991",
-        "matrikelnummer": 14409,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 0,
+        "geburtsdatum": "22.11.1991",
+        "matrikelnummer": 15425,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zeh",
-        "plzort": "53139 Bonn",
+        "nachname": "Eickhoff",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "In der Warth 3",
+        "strasse": "Rose-Schloesinger-Anlage 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
                 "fsem": 3
             }
         ],
-        "vorname": "Harri",
-        "weiblich": false
+        "vorname": "Sieghild",
+        "weiblich": true
     }
 }

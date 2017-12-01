@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2068214,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1660126,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.02.1997",
-        "matrikelnummer": 2883719,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Steinert",
-        "plzort": "53145 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "02.04.1998",
+        "matrikelnummer": 16429,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gerken",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Altlockwitz 14d",
+        "strasse": "Am Horner Moor 15",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 11
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "B\u00e4rbel",
+        "vorname": "Jo",
         "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2773729,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1793650,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "09.10.1992",
-        "matrikelnummer": 3078038,
+        "fakultaet": 5,
+        "geburtsdatum": "05.10.1993",
+        "matrikelnummer": 157815,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Emde",
-        "plzort": "53196 Bonn",
+        "nachname": "Schl\u00f6sser",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Apensener Stra\u00dfe 10",
+        "strasse": "Gustav-Klimt-Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
                 "fsem": 6
             }
         ],
-        "vorname": "Brunhildis",
-        "weiblich": true
+        "vorname": "Trutz",
+        "weiblich": false
     }
 }

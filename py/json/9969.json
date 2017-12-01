@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2371605,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2666147,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.11.1987",
-        "matrikelnummer": 2575429,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Baumgartner",
-        "plzort": "53180 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "09.09.1993",
+        "matrikelnummer": 3184434,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kanzler",
+        "plzort": "07389 Peuschen",
         "sternchen": 0,
-        "strasse": "Schenkendorfstra\u00dfe 2",
+        "strasse": "Carl Moreau-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Politikwissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Xaverius",
+        "vorname": "Luitwin",
         "weiblich": false
     }
 }

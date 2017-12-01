@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2805953,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2454016,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "06.03.1986",
-        "matrikelnummer": 2092524,
+        "fakultaet": 6,
+        "geburtsdatum": "18.03.1994",
+        "matrikelnummer": 112212,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nies",
-        "plzort": "53175 Bonn",
+        "nachname": "Muth",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Kamelienweg 17",
+        "strasse": "Altmobschatz 3",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Italienisch",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 10
             }
         ],
-        "vorname": "Tilman",
-        "weiblich": false
+        "vorname": "Regelinde",
+        "weiblich": true
     }
 }

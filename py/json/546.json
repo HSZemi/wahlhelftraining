@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": true
     },
-    "nummer": 2751444,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1293341,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "18.12.1995",
-        "matrikelnummer": 2607678,
+        "fakultaet": 7,
+        "geburtsdatum": "18.12.1991",
+        "matrikelnummer": 2989658,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Johannsen",
-        "plzort": "53194 Bonn",
+        "nachname": "Bode",
+        "plzort": "90614 Ammerndorf",
         "sternchen": 0,
-        "strasse": "Kollwitzring 19",
+        "strasse": "Wickenweg 33",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
                 "fsem": 2
             }
         ],
-        "vorname": "Diethilde",
-        "weiblich": true
+        "vorname": "Wido",
+        "weiblich": false
     }
 }

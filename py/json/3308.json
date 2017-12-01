@@ -1,41 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2200657,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2097038,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "24.05.1997",
-        "matrikelnummer": 185779,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "28.03.1991",
+        "matrikelnummer": 138887,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Melcher",
-        "plzort": "53163 Bonn",
+        "nachname": "Kindermann",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Flinschstra\u00dfe 11",
+        "strasse": "Lichtenbergstra\u00dfe 32",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kunstgeschichte und Arch\u00e4ologie",
-                "fsem": 3
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 6
             },
             {
                 "abschluss": "",
-                "fach": "Musikwissenschaft",
-                "fsem": 3
+                "fach": "Informatik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 7
             }
         ],
-        "vorname": "Zeno",
-        "weiblich": false
+        "vorname": "Edelfriede",
+        "weiblich": true
     }
 }

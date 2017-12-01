@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1786746,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2568561,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.11.1995",
-        "matrikelnummer": 3107863,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "02.04.1998",
+        "matrikelnummer": 2818396,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dorsch",
-        "plzort": "53133 Bonn",
+        "nachname": "Hecht",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Am Seekanal 8",
+        "strasse": "Dreieichstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
+                "abschluss": "Promotion",
+                "fach": "Englische Philologie",
                 "fsem": 7
             }
         ],
-        "vorname": "Curd",
-        "weiblich": false
+        "vorname": "Malwine",
+        "weiblich": true
     }
 }

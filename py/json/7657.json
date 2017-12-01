@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1650938,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1358639,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.01.1996",
-        "matrikelnummer": 3072862,
+        "fakultaet": 9,
+        "geburtsdatum": "19.02.1999",
+        "matrikelnummer": 3000299,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Riemann",
-        "plzort": "53123 Bonn",
+        "nachname": "Gross",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Langsatzweg 11d",
+        "strasse": "Klosterriedgasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geologie/Pal\u00e4ontologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Josepha",
-        "weiblich": true
+        "vorname": "Kevin",
+        "weiblich": false
     }
 }

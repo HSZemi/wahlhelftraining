@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2112556,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1696386,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.04.1999",
-        "matrikelnummer": 3072303,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 2,
+        "geburtsdatum": "07.05.1985",
+        "matrikelnummer": 2167524,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Priebe",
-        "plzort": "53129 Bonn",
+        "nachname": "Knab",
+        "plzort": "21358 Mechtersen",
         "sternchen": 0,
-        "strasse": "Am Klosterberg 0",
+        "strasse": "Grothe-Marie-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 9
             }
         ],
-        "vorname": "Annamarie",
-        "weiblich": true
+        "vorname": "Reiner",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2023045,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1701545,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.03.1991",
-        "matrikelnummer": 2444766,
+        "fakultaet": 7,
+        "geburtsdatum": "01.01.1998",
+        "matrikelnummer": 2352482,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00e4tzle",
-        "plzort": "55767 R\u00f6tsweiler-Nockenthal",
+        "nachname": "Gabel",
+        "plzort": "56659 Burgbrohl",
         "sternchen": 0,
-        "strasse": "Zellescher Weg 18",
+        "strasse": "Graf-de-Thoranc-Passage 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Alicja",
-        "weiblich": true
+        "vorname": "Otger",
+        "weiblich": false
     }
 }

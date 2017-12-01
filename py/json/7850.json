@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2323255,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2294831,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.07.1993",
-        "matrikelnummer": 2870635,
+        "fakultaet": 0,
+        "geburtsdatum": "12.04.1993",
+        "matrikelnummer": 2322590,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weigel",
-        "plzort": "53182 Bonn",
+        "nachname": "Achenbach",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Schiffbeker Weg 23",
+        "strasse": "Neuburgst\u00e4dtel 21",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Mathematik",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Amalia",
-        "weiblich": true
+        "vorname": "Ansbert",
+        "weiblich": false
     }
 }

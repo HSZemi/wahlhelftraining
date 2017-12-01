@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2066513,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1388518,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.06.1996",
-        "matrikelnummer": 2691078,
+        "fakultaet": 0,
+        "geburtsdatum": "04.12.1992",
+        "matrikelnummer": 2251694,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Oehler",
-        "plzort": "53159 Bonn",
+        "nachname": "Meuser",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Scheunenhofstra\u00dfe 4",
+        "strasse": "Sporergasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 3
             }
         ],
-        "vorname": "Freddy",
+        "vorname": "Cord",
         "weiblich": false
     }
 }

@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2754923,
-    "semester": "Wintersemester 2015/2016",
+    "nummer": 1183934,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "19.09.1988",
-        "matrikelnummer": 2889785,
+        "fakultaet": 8,
+        "geburtsdatum": "27.09.1999",
+        "matrikelnummer": 2372675,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mucha",
-        "plzort": "53218 Bonn",
+        "nachname": "Ernst",
+        "plzort": "89077 Ulm",
         "sternchen": 0,
-        "strasse": "Hofmannstra\u00dfe 4",
+        "strasse": "Kolberger Weg 5",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 3
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Theresa",
+        "vorname": "Cl\u00e4re",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2560628,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1768598,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
         "fakultaet": 1,
-        "geburtsdatum": "28.02.1993",
-        "matrikelnummer": 2775262,
+        "geburtsdatum": "10.03.1996",
+        "matrikelnummer": 2456310,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gies",
-        "plzort": "17237 Wokuhl-Dabelow",
+        "nachname": "Graupner",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Bielefelder Stra\u00dfe 1",
+        "strasse": "Awarenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 6
+                "fsem": 8
             }
         ],
-        "vorname": "Alina",
-        "weiblich": true
+        "vorname": "Ludger",
+        "weiblich": false
     }
 }

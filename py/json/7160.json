@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2448046,
+    "nummer": 2625971,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.11.1986",
-        "matrikelnummer": 1985871,
+        "fakultaet": 4,
+        "geburtsdatum": "01.11.1999",
+        "matrikelnummer": 118610,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pflug",
-        "plzort": "53153 Bonn",
+        "nachname": "Kloss",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Balanstr. 5",
+        "strasse": "Theodor-Storm-Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Fabian",
-        "weiblich": false
+        "vorname": "Elgard",
+        "weiblich": true
     }
 }

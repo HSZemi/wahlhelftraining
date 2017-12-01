@@ -4,43 +4,28 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2592234,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1513269,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "11.12.1991",
-        "matrikelnummer": 1937522,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "15.01.1993",
+        "matrikelnummer": 17665,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wiegel",
-        "plzort": "57614 Woldert",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zemantek",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Favoritenstra\u00dfe 30",
+        "strasse": "S\u00fc\u00dfholzweg 2",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Geographie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Latein",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 10
+                "fach": "Astrophysik",
+                "fsem": 8
             }
         ],
-        "vorname": "Christof",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

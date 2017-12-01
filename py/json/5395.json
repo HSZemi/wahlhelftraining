@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1401626,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1537643,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "17.12.1989",
-        "matrikelnummer": 143108,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "02.06.1992",
+        "matrikelnummer": 2888212,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leder",
-        "plzort": "53180 Bonn",
+        "nachname": "Gebert",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Keppm\u00fchle 10d",
+        "strasse": "Carl-Cohn-Stra\u00dfe 38e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Agricultural and Food Economics",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Karolina",
+        "vorname": "Gerlinde",
         "weiblich": true
     }
 }

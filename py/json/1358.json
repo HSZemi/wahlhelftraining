@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2972382,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1646744,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "26.08.1993",
-        "matrikelnummer": 154671,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Molitor",
-        "plzort": "53173 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "06.01.1994",
+        "matrikelnummer": 1987705,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Haack",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Kaiserallee 0",
+        "strasse": "Am Erlicht 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Ludwig",
-        "weiblich": false
+        "vorname": "Theodore",
+        "weiblich": true
     }
 }

@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1733535,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2153917,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "03.05.1988",
-        "matrikelnummer": 13812,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "09.07.1991",
+        "matrikelnummer": 2137447,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zacharias",
-        "plzort": "53115 Bonn",
+        "nachname": "Dickmann",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fcnchberger Str. 19",
+        "strasse": "Im Langenacker 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Knuth",
+        "vorname": "Helmward",
         "weiblich": false
     }
 }

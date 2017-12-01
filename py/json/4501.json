@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1266333,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2920096,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "17.06.1992",
-        "matrikelnummer": 167998,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "02.06.1983",
+        "matrikelnummer": 2846242,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bohnert",
-        "plzort": "34513 Waldeck",
+        "nachname": "Ro\u00df",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Ullersdorf-Langebr\u00fccker Stra\u00dfe 23",
+        "strasse": "Am Zwinger 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Slavistik",
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
                 "fsem": 3
             },
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 9
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Gieselind",
-        "weiblich": true
+        "vorname": "Tilmann",
+        "weiblich": false
     }
 }

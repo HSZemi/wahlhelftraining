@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2525004,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2520473,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.08.1990",
-        "matrikelnummer": 2166433,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "05.02.1991",
+        "matrikelnummer": 2761129,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Karcher",
-        "plzort": "53194 Bonn",
+        "nachname": "Sauer",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Beim Alten Stadttor 13",
+        "strasse": "Margarete und Fritz-Kahl-Anlage 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Josef",
-        "weiblich": false
+        "vorname": "Dietlinde",
+        "weiblich": true
     }
 }

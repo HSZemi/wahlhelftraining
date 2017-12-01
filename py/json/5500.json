@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1694064,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1086332,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.01.1988",
-        "matrikelnummer": 3188733,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "02.01.1986",
+        "matrikelnummer": 3084383,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kropp",
-        "plzort": "53187 Bonn",
+        "nachname": "Heinrichs",
+        "plzort": "24247 Rodenbek",
         "sternchen": 0,
-        "strasse": "Kalk-M\u00fclheimer-Stra\u00dfe 10",
+        "strasse": "Triftgasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Wolfgang",
+        "vorname": "Siggi",
         "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2042660,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2792367,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.03.1994",
-        "matrikelnummer": 189912,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "15.08.1995",
+        "matrikelnummer": 2495971,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Korb",
-        "plzort": "94505 Bernried",
+        "nachname": "Loth",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Stettiner Stra\u00dfe 1",
+        "strasse": "Am Lockwitzbach 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 6
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Diemo",
-        "weiblich": false
+        "vorname": "Susanna",
+        "weiblich": true
     }
 }

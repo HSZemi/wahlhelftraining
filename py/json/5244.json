@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2068505,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1754251,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "14.02.1988",
-        "matrikelnummer": 2645878,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "14.06.1996",
+        "matrikelnummer": 2408444,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Riehl",
-        "plzort": "35781 Weilburg",
+        "nachname": "Nehls",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Im Klingenfeld 2",
+        "strasse": "Ermelstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             }
         ],
-        "vorname": "Wichard",
-        "weiblich": false
+        "vorname": "Liliane",
+        "weiblich": true
     }
 }

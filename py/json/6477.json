@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2344014,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1002285,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.03.1989",
-        "matrikelnummer": 2219370,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "06.07.1995",
+        "matrikelnummer": 15976,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eller",
-        "plzort": "53157 Bonn",
+        "nachname": "Wahl",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "W\u00fcnschendorfer Stra\u00dfe 24",
+        "strasse": "Vatterstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 10
             }
         ],
-        "vorname": "Gunthild",
-        "weiblich": true
+        "vorname": "Wenzel",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": true,
         "sp": true
     },
-    "nummer": 2909545,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1231306,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "04.02.1988",
-        "matrikelnummer": 2522165,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "14.05.1990",
+        "matrikelnummer": 2512453,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wei\u00dfe",
-        "plzort": "29553 Bienenb\u00fcttel",
+        "nachname": "Schmidl",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00e4fnergasse 5",
+        "strasse": "Hildesheimer Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Geophysik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Leonie",
-        "weiblich": true
+        "vorname": "Hardo",
+        "weiblich": false
     }
 }

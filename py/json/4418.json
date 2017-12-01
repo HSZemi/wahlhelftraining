@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2094498,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1254490,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "02.09.1998",
-        "matrikelnummer": 2805978,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "14.07.1990",
+        "matrikelnummer": 2699205,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00fctten",
-        "plzort": "53207 Bonn",
+        "nachname": "Langguth",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Michael-Proebstl-Weg 3",
+        "strasse": "Heumannstr. 3",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Marielene",
+        "vorname": "Marlit",
         "weiblich": true
     }
 }

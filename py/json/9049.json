@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2461709,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2201543,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.06.1996",
-        "matrikelnummer": 2491457,
+        "fakultaet": 9,
+        "geburtsdatum": "21.06.1992",
+        "matrikelnummer": 2150729,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eller",
-        "plzort": "53192 Bonn",
+        "nachname": "Trost",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Goetheallee 8",
+        "strasse": "Maulbeerwiese 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Asienwissenschaften",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Irmo",
+        "vorname": "Arne",
         "weiblich": false
     }
 }

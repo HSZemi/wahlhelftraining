@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2379142,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2221939,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "13.10.1989",
-        "matrikelnummer": 2590173,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "08.06.1992",
+        "matrikelnummer": 130770,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schley",
-        "plzort": "39359 Velsdorf",
+        "nachname": "Kahlert",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Heyse-Stra\u00dfe 6",
+        "strasse": "Tannenkopfweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Margitta",
+        "vorname": "Heidelies",
         "weiblich": true
     }
 }

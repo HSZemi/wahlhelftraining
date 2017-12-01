@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2822676,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1692768,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "26.04.1988",
-        "matrikelnummer": 2738958,
+        "fakultaet": 5,
+        "geburtsdatum": "23.03.1995",
+        "matrikelnummer": 153420,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kowalski",
-        "plzort": "53177 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Wessels",
+        "plzort": "07646 Gneus",
         "sternchen": 0,
-        "strasse": "Wasgaustra\u00dfe 5",
+        "strasse": "Liebenauer Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Koreanisch",
+                "fsem": 13
             }
         ],
-        "vorname": "Artur",
-        "weiblich": false
+        "vorname": "Gundemarie",
+        "weiblich": true
     }
 }

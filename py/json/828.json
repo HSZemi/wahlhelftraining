@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2584357,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1018764,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "16.08.1992",
-        "matrikelnummer": 2947799,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "18.02.1992",
+        "matrikelnummer": 19445,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kammer",
-        "plzort": "53168 Bonn",
+        "nachname": "Sautter",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hopfengarten 18",
+        "strasse": "Otto-Pilz-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 7
             }
         ],
-        "vorname": "Mirja",
+        "vorname": "Nevenka",
         "weiblich": true
     }
 }

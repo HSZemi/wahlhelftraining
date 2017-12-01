@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2791182,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2458601,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "13.11.1992",
-        "matrikelnummer": 2780347,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "28.11.1997",
+        "matrikelnummer": 2251399,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dill",
-        "plzort": "53189 Bonn",
+        "nachname": "Brunke",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Burgenlandstra\u00dfe 14a",
+        "strasse": "An der Alster 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 3
             }
         ],
-        "vorname": "Sabinchen",
+        "vorname": "Reinhilde",
         "weiblich": true
     }
 }

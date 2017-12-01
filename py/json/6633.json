@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2951061,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2923589,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.07.1988",
-        "matrikelnummer": 185268,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "22.01.1997",
+        "matrikelnummer": 2800873,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heppner",
-        "plzort": "53167 Bonn",
+        "nachname": "Nolden",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Pagenfelder Stra\u00dfe 31",
+        "strasse": "Arno-Schellenberg-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
             }
         ],
-        "vorname": "Gerrit",
-        "weiblich": false
+        "vorname": "Krimhild",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2927389,
-    "semester": "Sommersemester 2016",
+    "nummer": 1179493,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.06.1997",
-        "matrikelnummer": 2566315,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 3,
+        "geburtsdatum": "14.11.1995",
+        "matrikelnummer": 175380,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weihrauch",
-        "plzort": "14728 Kle\u00dfen-G\u00f6rne",
+        "nachname": "Bornemann",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Hufnagelstra\u00dfe 4",
+        "strasse": "Heiligkreuzgasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 12
             }
         ],
-        "vorname": "Annett",
-        "weiblich": true
+        "vorname": "Ronald",
+        "weiblich": false
     }
 }

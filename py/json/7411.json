@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1004028,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2932653,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "27.07.1996",
-        "matrikelnummer": 2568790,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "06.03.1989",
+        "matrikelnummer": 144912,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Unruh",
-        "plzort": "53186 Bonn",
+        "nachname": "Freytag",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Klingenberger Stra\u00dfe 6",
+        "strasse": "Am Melbersee 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Chemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Klotilde",
-        "weiblich": true
+        "vorname": "Christopherus",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1477752,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2062417,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "22.03.1992",
-        "matrikelnummer": 2663651,
+        "fakultaet": 4,
+        "geburtsdatum": "04.01.1988",
+        "matrikelnummer": 2956078,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Zech",
-        "plzort": "85114 Buxheim",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Rasch",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Rehgartenweg 21",
+        "strasse": "Sachsenallee 1",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 6
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Roberto",
+        "vorname": "Leberecht",
         "weiblich": false
     }
 }

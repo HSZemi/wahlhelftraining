@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2550995,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1740425,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "27.02.1996",
-        "matrikelnummer": 2246087,
+        "geburtsdatum": "10.04.1999",
+        "matrikelnummer": 2800005,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Matthies",
-        "plzort": "53113 Bonn",
+        "nachname": "Diehl",
+        "plzort": "86872 Scherstetten",
         "sternchen": 0,
-        "strasse": "N\u00f6thnitzbachweg 11",
+        "strasse": "Martin-Henrich-Anlage 8",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "S\u00fcdostasienwissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 7
             }
         ],
-        "vorname": "Ilsetraud",
+        "vorname": "Lieselene",
         "weiblich": true
     }
 }

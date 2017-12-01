@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2998125,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1849704,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "21.04.1994",
-        "matrikelnummer": 3188669,
+        "geburtsdatum": "17.12.1991",
+        "matrikelnummer": 17483,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lackner",
-        "plzort": "53138 Bonn",
+        "nachname": "Preis",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Nixenteich 15",
+        "strasse": "Estewiesen 2",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 4
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Volrad",
+        "vorname": "Conrad",
         "weiblich": false
     }
 }

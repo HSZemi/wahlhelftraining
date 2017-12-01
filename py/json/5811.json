@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2559312,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2068615,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "02.05.1987",
-        "matrikelnummer": 2158711,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "20.10.1993",
+        "matrikelnummer": 2331853,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klinger",
-        "plzort": "53228 Bonn",
+        "nachname": "Lanz",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Im Leimfeld 9",
+        "strasse": "Schafgarbenweg 7",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Latein",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
+                "abschluss": "Master of Science",
                 "fach": "Geographie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "fsem": 6
             }
         ],
-        "vorname": "Eberhard",
+        "vorname": "Winfried",
         "weiblich": false
     }
 }

@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1851356,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1597107,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.05.1986",
-        "matrikelnummer": 2564885,
+        "fakultaet": 4,
+        "geburtsdatum": "14.01.1986",
+        "matrikelnummer": 2149432,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Vogt",
-        "plzort": "53204 Bonn",
+        "nachname": "Abel",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Am Kr\u00e4henh\u00fcgel 2",
+        "strasse": "Faulborngasse 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 10
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 1
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Helrike",
-        "weiblich": true
+        "vorname": "Sascha",
+        "weiblich": false
     }
 }

@@ -449,7 +449,7 @@
 			if(current_data['stud']['ausweistyp'] == "zweithoerer"){
 				s += "Ausweistyp beachten\n";
 			}
-			if(current_data['semester'] != "Wintersemester 2016/2017"){
+			if(current_data['semester'] != "Wintersemester 2017/2018"){
 				s += "Semester beachten\n";
 			}
 			if(current_data['loecher']['sp']){
@@ -495,7 +495,7 @@
 	function get_target_set(){
 		target_set = new Set();
 		
-		if(current_data['semester'] == "Wintersemester 2016/2017" && current_data['stud']['ausweistyp'] != "zweithoerer"){
+		if(current_data['semester'] == "Wintersemester 2017/2018" && current_data['stud']['ausweistyp'] != "zweithoerer"){
 		
 			nl = get_negativliste();
 			

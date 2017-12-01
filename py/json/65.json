@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1557428,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2119274,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "25.02.1991",
-        "matrikelnummer": 2403020,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "15.01.1988",
+        "matrikelnummer": 2091789,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tacke",
-        "plzort": "53217 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Otto-Reinhold-Weg 5a",
+        "strasse": "Steinhauerdamm 21",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 11
             }
         ],
-        "vorname": "Helmward",
+        "vorname": "Marcel",
         "weiblich": false
     }
 }

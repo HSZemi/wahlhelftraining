@@ -1,46 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2569844,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2156175,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.04.1987",
-        "matrikelnummer": 2211186,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "07.05.1995",
+        "matrikelnummer": 2635662,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Achatz",
-        "plzort": "53143 Bonn",
+        "nachname": "Dorsch",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Washingtonring 8",
+        "strasse": "Auf dem Lerchenb\u00fchl 6",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Katholische Religionslehre",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 11
+                "fach": "Psychologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Mittelalterliche und neuere Geschichte",
+                "fsem": 8
             }
         ],
-        "vorname": "Waldfried",
+        "vorname": "Kurth",
         "weiblich": false
     }
 }

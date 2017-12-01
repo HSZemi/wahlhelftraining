@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1698891,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2635821,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "14.01.1994",
-        "matrikelnummer": 2535910,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "02.12.1996",
+        "matrikelnummer": 174786,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diefenbach",
-        "plzort": "53183 Bonn",
+        "nachname": "Uhl",
+        "plzort": "54518 Binsfeld",
         "sternchen": 0,
-        "strasse": "Rossertstra\u00dfe 5",
+        "strasse": "Merkenstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Philosophie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sistik",
-                "fsem": 9
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 4
             }
         ],
-        "vorname": "Ansbert",
-        "weiblich": false
+        "vorname": "Ulfrida",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2904775,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2653404,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.02.1991",
-        "matrikelnummer": 123086,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "03.11.1998",
+        "matrikelnummer": 2016145,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hopp",
-        "plzort": "53143 Bonn",
+        "nachname": "Krahn",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlendamm 4",
+        "strasse": "Jerusalemplatz 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Astrophysik",
-                "fsem": 8
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "fach": "Entwicklungsforschung",
+                "fsem": 4
             }
         ],
-        "vorname": "Hartmann",
-        "weiblich": false
+        "vorname": "Willma",
+        "weiblich": true
     }
 }

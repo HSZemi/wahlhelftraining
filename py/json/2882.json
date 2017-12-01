@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1884953,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1956295,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "16.12.1998",
-        "matrikelnummer": 2164792,
+        "geburtsdatum": "16.09.1991",
+        "matrikelnummer": 2366436,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ruff",
-        "plzort": "53192 Bonn",
+        "nachname": "Holzwarth",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Mittlerer Kaulberg 1d",
+        "strasse": "Am Weiher 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Germanistik, Vergleichende Literatur- und Kulturwissenschaft",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Kunstgeschichte",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
             }
         ],
-        "vorname": "Marie",
-        "weiblich": true
+        "vorname": "Nordfried",
+        "weiblich": false
     }
 }

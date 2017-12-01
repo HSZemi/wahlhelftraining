@@ -1,46 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1809529,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2274476,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.04.1994",
-        "matrikelnummer": 2866360,
+        "fakultaet": 3,
+        "geburtsdatum": "04.12.1988",
+        "matrikelnummer": 1920056,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spie\u00df",
-        "plzort": "83539 Pfaffing",
+        "nachname": "Fett",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Regensburger Stra\u00dfe 4",
+        "strasse": "Steinbeker Berg 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Nutzpflanzenwissenschaften",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             },
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Geographie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Burkardt",
+        "vorname": "Friedolf",
         "weiblich": false
     }
 }

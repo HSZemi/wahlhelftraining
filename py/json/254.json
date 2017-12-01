@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2106317,
-    "semester": "Sommersemester 2016",
+    "nummer": 2560272,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "26.06.1995",
-        "matrikelnummer": 3111716,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "18.01.1997",
+        "matrikelnummer": 2903365,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Petersen",
-        "plzort": "53121 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Adolf-Leweke-Stra\u00dfe 4d",
+        "strasse": "Walpurgisstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Lateinamerika- und Altamerikastudien",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Gerwald",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

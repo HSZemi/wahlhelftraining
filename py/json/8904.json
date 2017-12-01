@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1875266,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2805012,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.10.1988",
-        "matrikelnummer": 115005,
+        "fakultaet": 8,
+        "geburtsdatum": "19.10.1995",
+        "matrikelnummer": 14872,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hillenbrand",
-        "plzort": "53136 Bonn",
+        "nachname": "Pech",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hirtenacker 2",
+        "strasse": "Germaniastra\u00dfe 19a",
         "studienfaecher": [
             {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 2
+                "fach": "Life Science Informatics",
+                "fsem": 12
             }
         ],
-        "vorname": "Danica",
-        "weiblich": true
+        "vorname": "Burghardt",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2616619,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2094939,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "06.02.1999",
-        "matrikelnummer": 18173,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "02.03.1993",
+        "matrikelnummer": 15482,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ullmann",
-        "plzort": "53208 Bonn",
+        "nachname": "Gerling",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Dahlienweg 12",
+        "strasse": "Fechnerstra\u00dfe 15",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 13
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Nadine",
-        "weiblich": true
+        "vorname": "Aloisius",
+        "weiblich": false
     }
 }

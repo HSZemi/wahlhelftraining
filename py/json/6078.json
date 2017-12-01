@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1392029,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1944359,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "20.09.1988",
-        "matrikelnummer": 2021447,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "08.08.1998",
+        "matrikelnummer": 1938073,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "W\u00fcst",
-        "plzort": "53164 Bonn",
+        "nachname": "Holl",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Liebfrauenstra\u00dfe 1",
+        "strasse": "Pirnaer Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 2
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Indologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Ruth",
-        "weiblich": true
+        "vorname": "Gotthardt",
+        "weiblich": false
     }
 }

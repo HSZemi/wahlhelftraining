@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1252929,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1902456,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.01.1992",
-        "matrikelnummer": 2820419,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "01.11.1999",
+        "matrikelnummer": 143116,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nolting",
-        "plzort": "53199 Bonn",
+        "nachname": "Germann",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Volkersdorfer Weg 24",
+        "strasse": "Trieskestra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Erwin",
+        "vorname": "Stephan",
         "weiblich": false
     }
 }

@@ -1,46 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2445652,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1398709,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "20.01.1994",
-        "matrikelnummer": 2100376,
+        "fakultaet": 4,
+        "geburtsdatum": "09.08.1994",
+        "matrikelnummer": 3049852,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krieger",
-        "plzort": "53177 Bonn",
+        "nachname": "Barth",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Edmund-Moeller-Weg 2",
+        "strasse": "Ettlingerstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 9
             },
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Mathematik",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Deutsch",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
                 "fsem": 5
             }
         ],
-        "vorname": "Ida",
-        "weiblich": true
+        "vorname": "Helmar",
+        "weiblich": false
     }
 }

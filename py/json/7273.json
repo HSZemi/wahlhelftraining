@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2926869,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1645044,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.10.1993",
-        "matrikelnummer": 2753752,
+        "fakultaet": 6,
+        "geburtsdatum": "23.07.1992",
+        "matrikelnummer": 2052619,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gottfried",
-        "plzort": "53227 Bonn",
+        "nachname": "Kretzschmar",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Nikolaus-Brum-Stra\u00dfe 4",
+        "strasse": "Halskestra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
                 "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Bertolt",
+        "vorname": "Lenard",
         "weiblich": false
     }
 }

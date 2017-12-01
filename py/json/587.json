@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1458448,
-    "semester": "Sommersemester 2016",
+    "nummer": 1067842,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "04.07.1992",
-        "matrikelnummer": 123092,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "23.03.1999",
+        "matrikelnummer": 2190441,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stein",
-        "plzort": "53223 Bonn",
+        "nachname": "Schmalz",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Kiebitzweg 19",
+        "strasse": "Textorstra\u00dfe 16",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "fach": "Medizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Osmund",
-        "weiblich": false
+        "vorname": "Ramona",
+        "weiblich": true
     }
 }

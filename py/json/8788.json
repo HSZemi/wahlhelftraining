@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2510820,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1086047,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "15.11.1993",
-        "matrikelnummer": 2826752,
+        "fakultaet": 6,
+        "geburtsdatum": "15.03.1994",
+        "matrikelnummer": 2295590,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rentsch",
-        "plzort": "53220 Bonn",
+        "nachname": "Krauss",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Rothschildallee 6",
+        "strasse": "Preu\u00dfstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Mathematik",
+                "fsem": 2
             }
         ],
-        "vorname": "Gunther",
+        "vorname": "Utz",
         "weiblich": false
     }
 }

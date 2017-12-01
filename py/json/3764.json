@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1792281,
+    "nummer": 2541914,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "21.08.1999",
-        "matrikelnummer": 2566634,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "23.12.1992",
+        "matrikelnummer": 2897323,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wurm",
-        "plzort": "07952 Pausa",
+        "nachname": "Gro\u00df",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Kleiner Weg 15",
+        "strasse": "Rietzstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
             }
         ],
-        "vorname": "Herwart",
+        "vorname": "Bartold",
         "weiblich": false
     }
 }

@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1572607,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1981879,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.08.1991",
-        "matrikelnummer": 3059587,
+        "fakultaet": 4,
+        "geburtsdatum": "23.02.1999",
+        "matrikelnummer": 3035299,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weide",
-        "plzort": "53198 Bonn",
+        "nachname": "Knebel",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Zimmerstra\u00dfe 1",
+        "strasse": "Bommersheimer Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 9
             },
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Margrid",
-        "weiblich": true
+        "vorname": "Neithart",
+        "weiblich": false
     }
 }

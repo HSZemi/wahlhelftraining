@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2332948,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2949635,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "24.01.1993",
-        "matrikelnummer": 2840837,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "12.12.1989",
+        "matrikelnummer": 2668561,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schnoor",
-        "plzort": "53119 Bonn",
+        "nachname": "Grube",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Aubr\u00fccke 15",
+        "strasse": "Rembrandtstra\u00dfe 54a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Heimo",
-        "weiblich": false
+        "vorname": "Svea",
+        "weiblich": true
     }
 }

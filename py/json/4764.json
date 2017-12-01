@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2391262,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2652453,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "10.09.1995",
-        "matrikelnummer": 2061950,
+        "geburtsdatum": "01.05.1993",
+        "matrikelnummer": 2113694,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behrmann",
-        "plzort": "76185 Karlsruhe",
+        "nachname": "L\u00fcdtke",
+        "plzort": "29587 Natendorf",
         "sternchen": 0,
-        "strasse": "Luboldtstra\u00dfe 22",
+        "strasse": "Fabian-von-Schlabrendorff-Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
             }
         ],
-        "vorname": "Lenz",
+        "vorname": "Klauspeter",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2793342,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2956811,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "03.09.1988",
-        "matrikelnummer": 2660865,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "01.05.1995",
+        "matrikelnummer": 3006287,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Braune",
-        "plzort": "53147 Bonn",
+        "nachname": "B\u00f6sch",
+        "plzort": "21483 Wangelau",
         "sternchen": 0,
-        "strasse": "Maternistra\u00dfe 1c",
+        "strasse": "Lachnerstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Richard",
-        "weiblich": false
+        "vorname": "Anna",
+        "weiblich": true
     }
 }

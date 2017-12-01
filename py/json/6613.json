@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2321669,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2326731,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.08.1993",
-        "matrikelnummer": 19189,
+        "fakultaet": 2,
+        "geburtsdatum": "16.09.1989",
+        "matrikelnummer": 2806307,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schindler",
-        "plzort": "53229 Bonn",
+        "nachname": "Fr\u00fch",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Fliederberg 12b",
+        "strasse": "Rothh\u00e4userstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Spanisch",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 12
             }
         ],
-        "vorname": "Sturmhard",
-        "weiblich": false
+        "vorname": "Roselinde",
+        "weiblich": true
     }
 }

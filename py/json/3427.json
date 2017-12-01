@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2253483,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1782869,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "18.03.1991",
-        "matrikelnummer": 2637756,
-        "mehrfachausfertigung": 5,
+        "geburtsdatum": "10.07.1997",
+        "matrikelnummer": 2926311,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buchholz",
-        "plzort": "53186 Bonn",
+        "nachname": "Jentsch",
+        "plzort": "65366 Geisenheim",
         "sternchen": 0,
-        "strasse": "An der Eisenbahn 11",
+        "strasse": "Steinadlerweg 38",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 6
             },
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 12
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
             }
         ],
-        "vorname": "Roselind",
+        "vorname": "Gotelind",
         "weiblich": true
     }
 }

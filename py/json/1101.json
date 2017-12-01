@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1600204,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2464954,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 0,
-        "geburtsdatum": "28.08.1993",
-        "matrikelnummer": 2345422,
+        "geburtsdatum": "28.01.1991",
+        "matrikelnummer": 138466,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schupp",
-        "plzort": "53222 Bonn",
+        "nachname": "Gerth",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Stoltzestra\u00dfe 23",
+        "strasse": "Lise-Meitner-Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
                 "fach": "Entwicklungsforschung",
-                "fsem": 13
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Mareen",
-        "weiblich": true
+        "vorname": "Friedwald",
+        "weiblich": false
     }
 }

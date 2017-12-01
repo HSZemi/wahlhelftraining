@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1190966,
-    "semester": "Sommersemester 2016",
+    "nummer": 2192399,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.09.1992",
-        "matrikelnummer": 169772,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Simons",
-        "plzort": "24896 Treia",
+        "fakultaet": 9,
+        "geburtsdatum": "21.05.1995",
+        "matrikelnummer": 120965,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinen",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Mertonstra\u00dfe 4",
+        "strasse": "Lauterbacher Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Zahnmedizin",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 11
             }
         ],
-        "vorname": "Giesela",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

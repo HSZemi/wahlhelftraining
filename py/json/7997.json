@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2636567,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2609927,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "11.09.1996",
-        "matrikelnummer": 2475139,
+        "geburtsdatum": "06.11.1991",
+        "matrikelnummer": 2277994,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kirchhof",
-        "plzort": "92421 Schwandorf",
+        "nachname": "Rank",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Hermann-Conradi-Stra\u00dfe 35",
+        "strasse": "Untere Seelgasse 8",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 6
+                "fach": "Rechtspsychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Erica",
-        "weiblich": true
+        "vorname": "Ferhart",
+        "weiblich": false
     }
 }

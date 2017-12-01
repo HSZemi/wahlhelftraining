@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1262626,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2548450,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.04.1994",
-        "matrikelnummer": 2609561,
+        "fakultaet": 5,
+        "geburtsdatum": "19.02.1991",
+        "matrikelnummer": 2528162,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00f6ller",
-        "plzort": "83135 Schechen",
+        "nachname": "Bethke",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Hammer Landstra\u00dfe 14",
+        "strasse": "Sachsenh\u00e4user Ufer 27",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Japanisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Koreanisch",
+                "fsem": 2
             }
         ],
-        "vorname": "Susanna",
+        "vorname": "Katy",
         "weiblich": true
     }
 }

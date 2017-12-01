@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1170703,
-    "semester": "Sommersemester 2016",
+    "nummer": 2893091,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.12.1992",
-        "matrikelnummer": 2230497,
+        "fakultaet": 1,
+        "geburtsdatum": "02.07.1992",
+        "matrikelnummer": 2105637,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hintze",
-        "plzort": "53223 Bonn",
+        "nachname": "Schweikert",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Wittgensdorfer Stra\u00dfe 6",
+        "strasse": "Fischadlerstieg 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Liliane",
-        "weiblich": true
+        "vorname": "Immanuel",
+        "weiblich": false
     }
 }

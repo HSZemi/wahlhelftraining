@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1172484,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2806831,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "03.01.1990",
-        "matrikelnummer": 2922157,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "16.11.1993",
+        "matrikelnummer": 2325131,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wessel",
-        "plzort": "53126 Bonn",
+        "nachname": "Petzold",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "C\u00e4mmerswalder Stra\u00dfe 12",
+        "strasse": "Riedgrund 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
             }
         ],
-        "vorname": "Inge",
-        "weiblich": true
+        "vorname": "Siegulf",
+        "weiblich": false
     }
 }

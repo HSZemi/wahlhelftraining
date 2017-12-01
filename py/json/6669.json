@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2751933,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2880179,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.09.1991",
-        "matrikelnummer": 3081128,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "18.04.1987",
+        "matrikelnummer": 2418133,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behling",
-        "plzort": "53117 Bonn",
+        "nachname": "K\u00f6ppl",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Fahrenkamp 5",
+        "strasse": "Albert Kollmann-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Vanessa",
+        "vorname": "Olinde",
         "weiblich": true
     }
 }

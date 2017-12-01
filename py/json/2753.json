@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2798057,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1164167,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "02.10.1995",
-        "matrikelnummer": 3125664,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "17.02.1995",
+        "matrikelnummer": 2549326,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4ring",
-        "plzort": "53146 Bonn",
+        "nachname": "B\u00e4umler",
+        "plzort": "72539 Pfronstetten",
         "sternchen": 0,
-        "strasse": "H\u00f6rnchenweg 11",
+        "strasse": "Obergartenweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 2
             }
         ],
-        "vorname": "Bert",
-        "weiblich": false
+        "vorname": "Cilly",
+        "weiblich": true
     }
 }

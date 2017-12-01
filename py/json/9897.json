@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2234768,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2369185,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "09.08.1989",
-        "matrikelnummer": 2580082,
+        "geburtsdatum": "26.01.1992",
+        "matrikelnummer": 3021294,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Muth",
-        "plzort": "53204 Bonn",
+        "nachname": "Denecke",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Brennerstra\u00dfe 6",
+        "strasse": "Am Geistpf\u00f6rtchen 11",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Erdmute",
+        "vorname": "Beatrice",
         "weiblich": true
     }
 }

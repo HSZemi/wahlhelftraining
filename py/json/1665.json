@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1114554,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2143414,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "28.01.1996",
-        "matrikelnummer": 2727014,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "06.10.1992",
+        "matrikelnummer": 2620163,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heim",
-        "plzort": "53196 Bonn",
+        "nachname": "Ulbricht",
+        "plzort": "03130 Hornow-Wadelsdorf",
         "sternchen": 0,
-        "strasse": "Gr\u00fcningweg 3",
+        "strasse": "Agnes-Smedley-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
             }
         ],
-        "vorname": "Tania",
-        "weiblich": true
+        "vorname": "Heinz",
+        "weiblich": false
     }
 }

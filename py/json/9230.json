@@ -4,43 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2189407,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1137563,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.01.1994",
-        "matrikelnummer": 2618777,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "13.12.1996",
+        "matrikelnummer": 19562,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Matz",
-        "plzort": "53158 Bonn",
+        "nachname": "Eckart",
+        "plzort": "94078 Freyung",
         "sternchen": 0,
-        "strasse": "Theilerstr. 13",
+        "strasse": "Grenzstr. 4",
         "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 1
+            },
             {
                 "abschluss": "Staatsex.",
                 "fach": "Zahnmedizin",
-                "fsem": 12
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "fsem": 11
             }
         ],
-        "vorname": "Denise",
+        "vorname": "Hannerose",
         "weiblich": true
     }
 }

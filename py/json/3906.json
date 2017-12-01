@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1580911,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1228819,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "16.04.1999",
-        "matrikelnummer": 2947622,
-        "mehrfachausfertigung": 4,
+        "geburtsdatum": "02.08.1998",
+        "matrikelnummer": 3007623,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nickl",
-        "plzort": "53142 Bonn",
+        "nachname": "Kampe",
+        "plzort": "85135 Titting",
         "sternchen": 0,
-        "strasse": "Bad-Berneck-Str. 1",
+        "strasse": "Unterer Kreutberg 14",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Valeria",
-        "weiblich": true
+        "vorname": "Alhard",
+        "weiblich": false
     }
 }

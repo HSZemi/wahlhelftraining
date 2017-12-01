@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1613797,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1656935,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.02.1996",
-        "matrikelnummer": 1971928,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "19.07.1999",
+        "matrikelnummer": 1927109,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zapf",
-        "plzort": "78083 Dauchingen",
+        "nachname": "M\u00fccke",
+        "plzort": "06295 Polleben",
         "sternchen": 0,
-        "strasse": "Sigebandstra\u00dfe 10",
+        "strasse": "Gro\u00dfzschachwitzer Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Falkhard",
+        "vorname": "Wido",
         "weiblich": false
     }
 }

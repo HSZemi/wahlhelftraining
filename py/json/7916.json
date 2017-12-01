@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1217703,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2330716,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.09.1998",
-        "matrikelnummer": 197786,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 9,
+        "geburtsdatum": "19.06.1989",
+        "matrikelnummer": 2081617,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaspar",
-        "plzort": "53189 Bonn",
+        "nachname": "Stroh",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Urbaniweg 10",
+        "strasse": "Max-Leichter-Weg 14",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Henrike",
-        "weiblich": true
+        "vorname": "Vincenz",
+        "weiblich": false
     }
 }

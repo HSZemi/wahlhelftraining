@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2531131,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2887647,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "03.02.1989",
-        "matrikelnummer": 2666820,
+        "fakultaet": 4,
+        "geburtsdatum": "10.10.1992",
+        "matrikelnummer": 13127,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jungmann",
-        "plzort": "95233 Helmbrechts",
+        "nachname": "Schwarze",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Wolf-Huber-Weg 4",
+        "strasse": "Villaweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 11
             }
         ],
-        "vorname": "Ilseruth",
-        "weiblich": true
+        "vorname": "Helwart",
+        "weiblich": false
     }
 }

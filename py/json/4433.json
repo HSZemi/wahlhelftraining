@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2146733,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2891315,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.09.1991",
-        "matrikelnummer": 2685266,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 0,
+        "geburtsdatum": "28.01.1992",
+        "matrikelnummer": 115768,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Breier",
-        "plzort": "67752 Oberweiler-Tiefenbach",
+        "nachname": "Bade",
+        "plzort": "54673 Gem\u00fcnd",
         "sternchen": 0,
-        "strasse": "Karl-Roth-Stra\u00dfe 5",
+        "strasse": "Anna-Lindh-Allee 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Asienwissenschaften",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 6
             },
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Joachim",
-        "weiblich": false
+        "vorname": "Mareile",
+        "weiblich": true
     }
 }

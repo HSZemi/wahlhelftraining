@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1159779,
+    "nummer": 1525304,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "11.03.1993",
-        "matrikelnummer": 2147436,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "13.11.1992",
+        "matrikelnummer": 2442235,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00fcckmann",
-        "plzort": "53113 Bonn",
+        "nachname": "K\u00f6hn",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Trakehner Stra\u00dfe 0d",
+        "strasse": "Burglehen 21",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
                 "fsem": 6
             }
         ],
-        "vorname": "Martin",
+        "vorname": "Marzellus",
         "weiblich": false
     }
 }

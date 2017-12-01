@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1327483,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1325517,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.04.1993",
-        "matrikelnummer": 2015017,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "11.04.1989",
+        "matrikelnummer": 2666575,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gehrig",
-        "plzort": "25821 Almdorf",
+        "nachname": "Bartelt",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00fcneburger Stra\u00dfe 18",
+        "strasse": "Behringstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 13
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 11
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Arzneimittelwissenschaften",
-                "fsem": 1
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Sinaida",
+        "vorname": "Dana",
         "weiblich": true
     }
 }

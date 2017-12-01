@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2541652,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2373449,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "22.11.1998",
-        "matrikelnummer": 139988,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "19.09.1988",
+        "matrikelnummer": 3078725,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kramer",
-        "plzort": "53125 Bonn",
+        "nachname": "Schreck",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-August-Stra\u00dfe 5",
+        "strasse": "Friedrich-Karl-Klausing-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Gernfried",
-        "weiblich": false
+        "vorname": "Britta",
+        "weiblich": true
     }
 }

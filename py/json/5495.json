@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2674844,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2856638,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "14.11.1998",
-        "matrikelnummer": 1906948,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "28.11.1996",
+        "matrikelnummer": 2852671,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hohmann",
-        "plzort": "53133 Bonn",
+        "nachname": "Petri",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Fasanenweg 5",
+        "strasse": "Rosentalweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Hendrik",
+        "vorname": "Landolf",
         "weiblich": false
     }
 }

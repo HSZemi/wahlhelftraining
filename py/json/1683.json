@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2755578,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2970198,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "16.10.1999",
-        "matrikelnummer": 2012109,
+        "fakultaet": 3,
+        "geburtsdatum": "09.07.1997",
+        "matrikelnummer": 18576,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krebs",
-        "plzort": "53133 Bonn",
+        "nachname": "Saathoff",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Dr. Lorenz Karall-Stra\u00dfe 0",
+        "strasse": "Schmalwiesenstra\u00dfe 8",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 12
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Urta",
-        "weiblich": true
+        "vorname": "Thassilo",
+        "weiblich": false
     }
 }

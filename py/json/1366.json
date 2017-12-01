@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2943028,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1770423,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.01.1992",
-        "matrikelnummer": 2863471,
+        "fakultaet": 6,
+        "geburtsdatum": "15.07.1995",
+        "matrikelnummer": 2507459,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmid",
-        "plzort": "74613 \u00d6hringen",
+        "nachname": "R\u00f6hl",
+        "plzort": "23738 Lensahn",
         "sternchen": 0,
-        "strasse": "Kinderhortstra\u00dfe 8",
+        "strasse": "Malapertstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 9
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 4
             }
         ],
-        "vorname": "Gustel",
+        "vorname": "Gottwald",
         "weiblich": false
     }
 }

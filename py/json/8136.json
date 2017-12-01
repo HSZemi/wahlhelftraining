@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1960434,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1358440,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "15.08.1988",
-        "matrikelnummer": 2039866,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "09.05.1996",
+        "matrikelnummer": 2747974,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Paulus",
-        "plzort": "53195 Bonn",
+        "nachname": "Kaspar",
+        "plzort": "54616 Winterspelt",
         "sternchen": 0,
-        "strasse": "Ottostr. 2",
+        "strasse": "Rauchstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Kathy",
-        "weiblich": true
+        "vorname": "Mark",
+        "weiblich": false
     }
 }

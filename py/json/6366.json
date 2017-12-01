@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1125334,
+    "nummer": 1865753,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "23.05.1990",
-        "matrikelnummer": 2886774,
+        "fakultaet": 4,
+        "geburtsdatum": "14.04.1989",
+        "matrikelnummer": 14134,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Messerschmidt",
-        "plzort": "03238 M\u00fcnchhausen",
+        "nachname": "Weidlich",
+        "plzort": "53783 Eitorf",
         "sternchen": 0,
-        "strasse": "Jean-Kempf-Weg 42",
+        "strasse": "B\u00fcrgerspitalgasse 1b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 13
             }
         ],
-        "vorname": "Edwina",
-        "weiblich": true
+        "vorname": "Swen",
+        "weiblich": false
     }
 }

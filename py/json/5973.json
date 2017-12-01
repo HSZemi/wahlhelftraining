@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1057320,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2500202,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.03.1995",
-        "matrikelnummer": 2480742,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "15.03.1999",
+        "matrikelnummer": 11295,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "F\u00fcrst",
-        "plzort": "53155 Bonn",
+        "nachname": "Huppertz",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Barlachstra\u00dfe 20c",
+        "strasse": "Am Schneckenberg 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Katholische Religionslehre",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Physik",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Helgert",
-        "weiblich": false
+        "vorname": "Lisette",
+        "weiblich": true
     }
 }

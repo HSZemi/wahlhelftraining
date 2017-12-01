@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2645371,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1608075,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "13.10.1991",
-        "matrikelnummer": 2686472,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "18.02.1992",
+        "matrikelnummer": 2047326,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pech",
-        "plzort": "53217 Bonn",
+        "nachname": "Stelter",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Grootmoorredder 6",
+        "strasse": "Werftstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Latein",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Svetlana",
+        "vorname": "Lissi",
         "weiblich": true
     }
 }

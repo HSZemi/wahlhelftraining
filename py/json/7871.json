@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1714732,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1027456,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "05.06.1991",
-        "matrikelnummer": 2680576,
+        "fakultaet": 4,
+        "geburtsdatum": "25.05.1992",
+        "matrikelnummer": 2040857,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hommel",
-        "plzort": "53112 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "H\u00e4cker",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Ohmstr. 15",
+        "strasse": "Erbacher Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 4
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Gesellschaften, Globalisierung und Entwicklung",
+                "fsem": 7
             }
         ],
-        "vorname": "Franzi",
-        "weiblich": true
+        "vorname": "Diethard",
+        "weiblich": false
     }
 }

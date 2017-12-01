@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1488880,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2163311,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.10.1992",
-        "matrikelnummer": 2743743,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Weber",
-        "plzort": "53219 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "08.05.1996",
+        "matrikelnummer": 179899,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Fix",
+        "plzort": "38479 Tappenbeck",
         "sternchen": 0,
-        "strasse": "Braubachstra\u00dfe 3",
+        "strasse": "Unkersdorfer Weg 10b",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Latein",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 2
             }
         ],
-        "vorname": "Trautchen",
+        "vorname": "Catherine",
         "weiblich": true
     }
 }

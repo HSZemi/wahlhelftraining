@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1201381,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1501131,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "10.02.1987",
-        "matrikelnummer": 2549179,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "25.05.1994",
+        "matrikelnummer": 2158191,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Laux",
-        "plzort": "53113 Bonn",
+        "nachname": "Hinzmann",
+        "plzort": "72359 Dotternhausen",
         "sternchen": 0,
-        "strasse": "Zellescher Weg 13",
+        "strasse": "Triftstra\u00dfe 26",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Molekulare Biomedizin",
-                "fsem": 9
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Englisch",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 6
             }
         ],
-        "vorname": "Leila",
-        "weiblich": true
+        "vorname": "Eckhold",
+        "weiblich": false
     }
 }

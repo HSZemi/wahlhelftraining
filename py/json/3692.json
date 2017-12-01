@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1990685,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1591501,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "23.10.1998",
-        "matrikelnummer": 2553268,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "28.05.1992",
+        "matrikelnummer": 2797841,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stiegler",
-        "plzort": "53221 Bonn",
+        "nachname": "Balzer",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Atzelbergstra\u00dfe 2",
+        "strasse": "Hermann-Krone-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 7
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Friedhold",
+        "vorname": "Zeno",
         "weiblich": false
     }
 }

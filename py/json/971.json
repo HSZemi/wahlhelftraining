@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2988322,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1631766,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.03.1996",
-        "matrikelnummer": 2511750,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "24.07.1986",
+        "matrikelnummer": 17162,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlegel",
-        "plzort": "53175 Bonn",
+        "nachname": "Alex",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Medinger Weg 11",
+        "strasse": "Ketzendorfer Grund 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Psychologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Sprachlernforschung",
                 "fsem": 12
             }
         ],
-        "vorname": "Neithard",
-        "weiblich": false
+        "vorname": "Dorina",
+        "weiblich": true
     }
 }

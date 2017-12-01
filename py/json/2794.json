@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1384255,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2585484,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.04.1990",
-        "matrikelnummer": 2448908,
+        "fakultaet": 4,
+        "geburtsdatum": "18.05.1995",
+        "matrikelnummer": 2269162,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiest",
-        "plzort": "53118 Bonn",
+        "nachname": "Sauter",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Im S\u00fccklein 2",
+        "strasse": "G\u00fcnderrodestra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 2
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 4
             }
         ],
-        "vorname": "Madeleine",
-        "weiblich": true
+        "vorname": "Wolfhart",
+        "weiblich": false
     }
 }

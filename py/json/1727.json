@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1242092,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1747534,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.09.1999",
-        "matrikelnummer": 2757143,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "16.09.1990",
+        "matrikelnummer": 2915949,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Matern",
-        "plzort": "53175 Bonn",
+        "nachname": "Henn",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Hudtwalckertwiete 10",
+        "strasse": "Ernst-Kahn-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Adelheid",
-        "weiblich": true
+        "vorname": "Elbert",
+        "weiblich": false
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2663887,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1213476,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "19.08.1999",
-        "matrikelnummer": 13785,
+        "fakultaet": 8,
+        "geburtsdatum": "28.02.1992",
+        "matrikelnummer": 17430,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siefert",
-        "plzort": "53145 Bonn",
+        "nachname": "Kohn",
+        "plzort": "76857 Ramberg",
         "sternchen": 0,
-        "strasse": "Birkwitzer Weg 5",
+        "strasse": "Gr\u00fcner Bergweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
                 "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Burghild",
-        "weiblich": true
+        "vorname": "Hanswilhelm",
+        "weiblich": false
     }
 }

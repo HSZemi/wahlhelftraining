@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2319210,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2195531,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.02.1995",
-        "matrikelnummer": 1921348,
+        "fakultaet": 0,
+        "geburtsdatum": "21.11.1989",
+        "matrikelnummer": 121245,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Luther",
-        "plzort": "53171 Bonn",
+        "nachname": "Hamacher",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Medinger Stra\u00dfe 1",
+        "strasse": "Anzengruberstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 7
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Geschichte",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechisch",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Mira",
+        "vorname": "Isabella",
         "weiblich": true
     }
 }

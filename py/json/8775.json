@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2269739,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2488432,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "16.12.1996",
-        "matrikelnummer": 2998424,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "24.07.1995",
+        "matrikelnummer": 2234995,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klaiber",
-        "plzort": "53218 Bonn",
+        "nachname": "Epp",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelmstra\u00dfe 1",
+        "strasse": "Rechte Hauptzeile 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 6
             }
         ],
-        "vorname": "Mechtilde",
+        "vorname": "Witta",
         "weiblich": true
     }
 }

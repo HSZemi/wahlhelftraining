@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1293452,
-    "semester": "Sommersemester 2016",
+    "nummer": 2801714,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "01.04.1991",
-        "matrikelnummer": 192110,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "23.11.1993",
+        "matrikelnummer": 2860355,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wald",
-        "plzort": "53113 Bonn",
+        "nachname": "Wollny",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Ilmenauer Weg 20",
+        "strasse": "Eisbachstra\u00dfe 9",
         "studienfaecher": [
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 5
-            },
             {
                 "abschluss": "Bachelor of Science",
                 "fach": "Agrarwissenschaften",
-                "fsem": 7
+                "fsem": 10
             }
         ],
-        "vorname": "Zeno",
+        "vorname": "Wolfrid",
         "weiblich": false
     }
 }

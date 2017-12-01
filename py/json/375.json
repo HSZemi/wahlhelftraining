@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1781237,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2472253,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.03.1991",
-        "matrikelnummer": 1965166,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "28.06.1987",
+        "matrikelnummer": 2106979,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6sters",
-        "plzort": "56424 Mogendorf",
+        "nachname": "Zemantek",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Wendenstra\u00dfe 25",
+        "strasse": "Aussiger Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 4
             }
         ],
-        "vorname": "Gislind",
+        "vorname": "Sven",
         "weiblich": true
     }
 }

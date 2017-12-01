@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": true,
         "sp": true
     },
-    "nummer": 1074866,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1252569,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.08.1992",
-        "matrikelnummer": 2728847,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 6,
+        "geburtsdatum": "23.08.1994",
+        "matrikelnummer": 2650515,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strauss",
-        "plzort": "19399 Dobbertin",
+        "nachname": "Kappel",
+        "plzort": "95358 Guttenberg",
         "sternchen": 0,
-        "strasse": "Lugturmweg 4",
+        "strasse": "K\u00f6pperner Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 2
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Applied Linguistics",
+                "fsem": 1
             }
         ],
-        "vorname": "Maritta",
+        "vorname": "Dorothee",
         "weiblich": true
     }
 }

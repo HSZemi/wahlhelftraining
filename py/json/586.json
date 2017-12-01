@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2414412,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1445075,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.11.1999",
-        "matrikelnummer": 3151391,
+        "fakultaet": 0,
+        "geburtsdatum": "08.10.1999",
+        "matrikelnummer": 1941286,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schramm",
+        "nachname": "Zeller",
         "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Selma-Lagerl\u00f6f-Stra\u00dfe 0c",
+        "strasse": "Gothaer Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Mathematik",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Sigbert",
-        "weiblich": false
+        "vorname": "Ingelotte",
+        "weiblich": true
     }
 }

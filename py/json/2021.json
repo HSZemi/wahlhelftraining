@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1739404,
-    "semester": "Sommersemester 2016",
+    "nummer": 2409975,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.07.1998",
-        "matrikelnummer": 2614141,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "12.11.1987",
+        "matrikelnummer": 2657194,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Salzmann",
-        "plzort": "53220 Bonn",
+        "nachname": "R\u00fcther",
+        "plzort": "63688 Gedern",
         "sternchen": 0,
-        "strasse": "Oberbannstra\u00dfe 10",
+        "strasse": "Frobeniusweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Mathematik",
+                "fsem": 9
             }
         ],
-        "vorname": "Nicola",
-        "weiblich": true
+        "vorname": "Carl",
+        "weiblich": false
     }
 }

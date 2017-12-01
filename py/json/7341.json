@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": true
+        "gremien": true,
+        "sp": false
     },
-    "nummer": 1192846,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1124611,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "15.12.1990",
-        "matrikelnummer": 1904918,
+        "geburtsdatum": "13.04.1989",
+        "matrikelnummer": 1981804,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Roos",
-        "plzort": "53213 Bonn",
+        "nachname": "B\u00f6se",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Theisewitzer Stra\u00dfe 33",
+        "strasse": "B\u00f6cklerstra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Molekulare Biomedizin",
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Friedlieb",
+        "vorname": "Einhard",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1812706,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2121010,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.05.1991",
-        "matrikelnummer": 3092986,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "28.05.1994",
+        "matrikelnummer": 2428566,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ro\u00dfbach",
-        "plzort": "53215 Bonn",
+        "nachname": "K\u00fcnzel",
+        "plzort": "55234 Ober-Fl\u00f6rsheim",
         "sternchen": 0,
-        "strasse": "Am Biedersberg 0",
+        "strasse": "Adolph-Prior-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 3
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Jeannette",
+        "vorname": "Lysann",
         "weiblich": true
     }
 }

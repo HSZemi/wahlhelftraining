@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1804327,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2054823,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "04.07.1995",
-        "matrikelnummer": 2024941,
+        "fakultaet": 2,
+        "geburtsdatum": "04.01.1990",
+        "matrikelnummer": 2237028,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knott",
-        "plzort": "53113 Bonn",
+        "nachname": "Christiansen",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Beerenhut 19",
+        "strasse": "Deichtorplatz 7",
         "studienfaecher": [
             {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 8
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 12
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Luzie",
-        "weiblich": true
+        "vorname": "Cordian",
+        "weiblich": false
     }
 }

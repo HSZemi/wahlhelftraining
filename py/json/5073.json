@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1145318,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2539042,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.02.1995",
-        "matrikelnummer": 2846697,
+        "fakultaet": 5,
+        "geburtsdatum": "20.12.1999",
+        "matrikelnummer": 2962999,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Renz",
-        "plzort": "86495 Eurasburg",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Deutsch",
+        "plzort": "17111 Meesiger",
         "sternchen": 0,
-        "strasse": "Sankt-Rochus-Stra\u00dfe 2d",
+        "strasse": "Myliusstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
             }
         ],
-        "vorname": "Laura",
-        "weiblich": true
+        "vorname": "Emil",
+        "weiblich": false
     }
 }

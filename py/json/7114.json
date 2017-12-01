@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2556901,
+    "nummer": 2841039,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.01.1992",
-        "matrikelnummer": 2663586,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "04.06.1989",
+        "matrikelnummer": 2643754,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfaff",
-        "plzort": "53114 Bonn",
+        "nachname": "Z\u00fchlke",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Pfarrer-Schneider-Stra\u00dfe 9",
+        "strasse": "Altnickern 27",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Dora",
+        "vorname": "Pascale",
         "weiblich": true
     }
 }

@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2465880,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1668476,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.08.1997",
-        "matrikelnummer": 169786,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Schorn",
-        "plzort": "53185 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "02.02.1988",
+        "matrikelnummer": 2986820,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Leis",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Theodor-Fontane-Stra\u00dfe 5",
+        "strasse": "Deutschherrnufer 7",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "fach": "Hispanistik",
+                "fsem": 7
             },
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Epidemiologie",
+                "abschluss": "",
+                "fach": "Kunstgeschichte",
                 "fsem": 7
             }
         ],
-        "vorname": "Dennis",
+        "vorname": "Vincenz",
         "weiblich": false
     }
 }

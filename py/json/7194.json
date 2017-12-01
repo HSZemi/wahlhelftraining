@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2489002,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2083598,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.02.1993",
-        "matrikelnummer": 123664,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "24.10.1986",
+        "matrikelnummer": 3110043,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sager",
-        "plzort": "53222 Bonn",
+        "nachname": "Fath",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Friebelstra\u00dfe 10",
+        "strasse": "Thiemestra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Wilhelma",
+        "vorname": "Gertrud",
         "weiblich": true
     }
 }

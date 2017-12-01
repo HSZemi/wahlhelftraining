@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1597285,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1594619,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "20.06.1999",
-        "matrikelnummer": 1902392,
+        "fakultaet": 3,
+        "geburtsdatum": "01.02.1990",
+        "matrikelnummer": 3130810,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kirch",
-        "plzort": "53192 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Dierks",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Johann-Klotz-Stra\u00dfe 9",
+        "strasse": "Am Pre\u00dfgrund 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 8
             }
         ],
-        "vorname": "Loni",
-        "weiblich": true
+        "vorname": "Sighard",
+        "weiblich": false
     }
 }

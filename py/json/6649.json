@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1568874,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2852439,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "03.02.1989",
-        "matrikelnummer": 2436325,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "09.04.1993",
+        "matrikelnummer": 3184268,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sperlich",
-        "plzort": "53197 Bonn",
+        "nachname": "Herb",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "D\u00f6hlener Stra\u00dfe 3d",
+        "strasse": "Kleyerstra\u00dfe 24",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Charlotte",
-        "weiblich": true
+        "vorname": "Abraham",
+        "weiblich": false
     }
 }

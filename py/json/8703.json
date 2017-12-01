@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1013095,
+    "nummer": 1322234,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.04.1997",
-        "matrikelnummer": 2847520,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "09.02.1999",
+        "matrikelnummer": 2464611,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Becker",
-        "plzort": "53183 Bonn",
+        "nachname": "Lieder",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Regnitzstr. 4",
+        "strasse": "Sylvanerweg 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 7
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "fach": "Ernaehrungswiss.",
+                "fsem": 12
             }
         ],
-        "vorname": "Wolfhart",
-        "weiblich": false
+        "vorname": "Helrike",
+        "weiblich": true
     }
 }

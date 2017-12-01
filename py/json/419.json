@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2003052,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1990395,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "25.08.1989",
-        "matrikelnummer": 2201554,
+        "fakultaet": 4,
+        "geburtsdatum": "16.06.1996",
+        "matrikelnummer": 2577678,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kullmann",
-        "plzort": "53174 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zemantek",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Thudichumstra\u00dfe 33",
+        "strasse": "Rosentalweg 8b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             }
         ],
-        "vorname": "Adelina",
+        "vorname": "Sven",
         "weiblich": true
     }
 }

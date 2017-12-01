@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1537805,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2126312,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "26.05.1991",
-        "matrikelnummer": 2237584,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "12.10.1989",
+        "matrikelnummer": 3047297,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kimmel",
-        "plzort": "53162 Bonn",
+        "nachname": "Wehner",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Campus 0",
+        "strasse": "Grethenweg 2c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Peter",
-        "weiblich": false
+        "vorname": "Aynur",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1234743,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1159341,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.05.1994",
-        "matrikelnummer": 2092953,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "26.11.1991",
+        "matrikelnummer": 2189899,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seger",
-        "plzort": "53215 Bonn",
+        "nachname": "Bartelt",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Dr.-Haas-Str. 16",
+        "strasse": "T\u00f6gelstra\u00dfe 39",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 8
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 9
             }
         ],
-        "vorname": "Reinmar",
-        "weiblich": false
+        "vorname": "Liselotte",
+        "weiblich": true
     }
 }

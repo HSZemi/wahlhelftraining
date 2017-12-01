@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1005153,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2019091,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.06.1988",
-        "matrikelnummer": 16516,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 6,
+        "geburtsdatum": "25.07.1993",
+        "matrikelnummer": 2938265,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Katzer",
-        "plzort": "63768 H\u00f6sbach",
+        "nachname": "Bausch",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Heilbronner Stra\u00dfe 5",
+        "strasse": "Herbert-Collum-Stra\u00dfe 30",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Utz",
-        "weiblich": false
+        "vorname": "Lene",
+        "weiblich": true
     }
 }

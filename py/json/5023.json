@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2963000,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2320009,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.04.1992",
-        "matrikelnummer": 2048668,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "09.03.1995",
+        "matrikelnummer": 3170777,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schweigert",
-        "plzort": "53215 Bonn",
+        "nachname": "Gilles",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Siedlerstr. 3d",
+        "strasse": "Georg-Schumann-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 13
             }
         ],
-        "vorname": "Ingomar",
-        "weiblich": false
+        "vorname": "Serafine",
+        "weiblich": true
     }
 }

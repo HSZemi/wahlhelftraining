@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": true,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1564658,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2931872,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.02.1988",
-        "matrikelnummer": 2254695,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "15.12.1996",
+        "matrikelnummer": 3095561,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mathes",
-        "plzort": "53126 Bonn",
+        "nachname": "Kampe",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Am Steinbruch 2",
+        "strasse": "Ernst-Toller-Stra\u00dfe 0",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Master of Arts",
-                "fach": "Mittelalterstudien",
-                "fsem": 12
+                "fach": "Ecumenical Studies",
+                "fsem": 2
             }
         ],
-        "vorname": "Stephan",
-        "weiblich": false
+        "vorname": "Anja",
+        "weiblich": true
     }
 }

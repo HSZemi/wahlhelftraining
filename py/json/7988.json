@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1656768,
-    "semester": "Sommersemester 2016",
+    "nummer": 2484914,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.11.1993",
-        "matrikelnummer": 2982578,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "09.07.1996",
+        "matrikelnummer": 3127752,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Plum",
-        "plzort": "53174 Bonn",
+        "nachname": "Kirsten",
+        "plzort": "06918 Gentha",
         "sternchen": 0,
-        "strasse": "Ostritzer Stra\u00dfe 36e",
+        "strasse": "Heinrich-Tessenow-Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Raphael",
+        "vorname": "Pankratius",
         "weiblich": false
     }
 }

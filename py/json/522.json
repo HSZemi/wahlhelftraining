@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1996358,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2313252,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.08.1983",
-        "matrikelnummer": 2808837,
+        "fakultaet": 0,
+        "geburtsdatum": "12.10.1995",
+        "matrikelnummer": 2823690,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "G\u00f6rtz",
-        "plzort": "53151 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rumpf",
+        "plzort": "91235 Hartenstein",
         "sternchen": 0,
-        "strasse": "Washingtonstra\u00dfe 17c",
+        "strasse": "Gravenbruchring 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
                 "fsem": 1
             }
         ],
-        "vorname": "Swantje",
-        "weiblich": true
+        "vorname": "Wolfrid",
+        "weiblich": false
     }
 }

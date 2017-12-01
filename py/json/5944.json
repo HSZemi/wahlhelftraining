@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2831316,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2157889,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.04.1988",
-        "matrikelnummer": 3052974,
+        "fakultaet": 3,
+        "geburtsdatum": "14.09.1998",
+        "matrikelnummer": 2316169,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bauch",
-        "plzort": "53135 Bonn",
+        "nachname": "Henne",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Sauerackerweg 2",
+        "strasse": "K\u00f6nigsheimplatz 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Siegrid",
-        "weiblich": true
+        "vorname": "Manfried",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2824211,
+    "nummer": 2690739,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.05.1999",
-        "matrikelnummer": 2550552,
+        "fakultaet": 0,
+        "geburtsdatum": "18.03.1997",
+        "matrikelnummer": 2327010,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knapp",
-        "plzort": "17291 Sch\u00f6nfeld",
+        "nachname": "Stein",
+        "plzort": "07646 Meusebach",
         "sternchen": 0,
-        "strasse": "Mobilheimplatz 7",
+        "strasse": "Zur Kurwiese 18",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 12
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Informatik",
-                "fsem": 4
+                "fach": "Entwicklungsforschung",
+                "fsem": 1
             }
         ],
-        "vorname": "Franziska",
-        "weiblich": true
+        "vorname": "Gunhard",
+        "weiblich": false
     }
 }

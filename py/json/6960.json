@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1795087,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1665796,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.04.1988",
-        "matrikelnummer": 3097143,
+        "fakultaet": 5,
+        "geburtsdatum": "21.09.1998",
+        "matrikelnummer": 2412352,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wilde",
-        "plzort": "53150 Bonn",
+        "nachname": "Schneck",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Kettelerallee 2e",
+        "strasse": "Adenauerufer 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 9
+                "abschluss": "Bachelor of Arts",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "S\u00fcdostasienwissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Carmela",
+        "vorname": "Friedburg",
         "weiblich": true
     }
 }

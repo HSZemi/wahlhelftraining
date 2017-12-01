@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2789545,
+    "nummer": 2032700,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.07.1993",
-        "matrikelnummer": 2301329,
+        "geburtsdatum": "20.05.1988",
+        "matrikelnummer": 14613,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Engelmann",
-        "plzort": "53228 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Volkert",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Moritzburger Stra\u00dfe 14",
+        "strasse": "Bollweg 1d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 9
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Sofia",
+        "vorname": "Oda",
         "weiblich": true
     }
 }

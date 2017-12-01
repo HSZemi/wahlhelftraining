@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2198595,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2908192,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.06.1996",
-        "matrikelnummer": 2872104,
+        "fakultaet": 7,
+        "geburtsdatum": "05.03.1999",
+        "matrikelnummer": 2535813,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hess",
-        "plzort": "86465 Welden",
+        "nachname": "Flick",
+        "plzort": "01129 Dresden",
         "sternchen": 0,
-        "strasse": "Gruneliusstra\u00dfe 12b",
+        "strasse": "Airportring 33",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Klassische Arch\u00e4ologie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 10
             }
         ],
-        "vorname": "Juliana",
+        "vorname": "Saskia",
         "weiblich": true
     }
 }

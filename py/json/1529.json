@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1940610,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1119220,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "07.02.1983",
-        "matrikelnummer": 2228429,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "28.10.1992",
+        "matrikelnummer": 2348151,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haberland",
-        "plzort": "53204 Bonn",
+        "nachname": "Pauls",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Satzriedgasse 1",
+        "strasse": "Stegerwaldring 18",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 12
             }
         ],
-        "vorname": "Arndt",
-        "weiblich": false
+        "vorname": "Karolin",
+        "weiblich": true
     }
 }

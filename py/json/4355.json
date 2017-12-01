@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2739719,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1694531,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "27.05.1989",
-        "matrikelnummer": 1912093,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "13.04.1991",
+        "matrikelnummer": 2810546,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Faulhaber",
-        "plzort": "53135 Bonn",
+        "nachname": "Klemm",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Zschierbachweg 7",
+        "strasse": "Schwindstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Tankred",
+        "vorname": "Tell",
         "weiblich": false
     }
 }

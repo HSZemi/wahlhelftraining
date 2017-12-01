@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2144643,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1804359,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.05.1996",
-        "matrikelnummer": 1930724,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "08.01.1993",
+        "matrikelnummer": 2161582,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Bl\u00fcmel",
-        "plzort": "53125 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Blankenburg",
+        "plzort": "15831 Diepensee",
         "sternchen": 0,
-        "strasse": "Stallberg 2",
+        "strasse": "Wasaplatz 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 5
             }
         ],
-        "vorname": "Gerburg",
-        "weiblich": true
+        "vorname": "Helgert",
+        "weiblich": false
     }
 }

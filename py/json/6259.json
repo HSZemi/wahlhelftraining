@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2621173,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2709609,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "18.08.1991",
-        "matrikelnummer": 2925656,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "15.06.1991",
+        "matrikelnummer": 15302,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bucher",
-        "plzort": "53154 Bonn",
+        "nachname": "K\u00fcbler",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Hofheimer Stra\u00dfe 22e",
+        "strasse": "Amselweg 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 4
             }
         ],
-        "vorname": "Juliana",
-        "weiblich": true
+        "vorname": "Toralf",
+        "weiblich": false
     }
 }
