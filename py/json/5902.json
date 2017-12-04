@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2812658,
+    "nummer": 2684125,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.07.1991",
-        "matrikelnummer": 2603919,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "06.04.1994",
+        "matrikelnummer": 3081128,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6nborn",
-        "plzort": "18551 Glowe",
+        "nachname": "Strehl",
+        "plzort": "24256 Schlesen",
         "sternchen": 0,
-        "strasse": "Horner Stieg 2",
+        "strasse": "Beim Hirtenkaten 25",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 9
+                "abschluss": "Master of Arts",
+                "fach": "Geschichte",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Felicia",
+        "vorname": "Erlwine",
         "weiblich": true
     }
 }

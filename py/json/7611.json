@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1804359,
+    "nummer": 2531661,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "08.01.1993",
-        "matrikelnummer": 2161582,
+        "geburtsdatum": "17.04.1994",
+        "matrikelnummer": 2773647,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Blankenburg",
-        "plzort": "15831 Diepensee",
+        "nachname": "Mundt",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Wasaplatz 17",
+        "strasse": "Am M\u00fchlenbach 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Helgert",
-        "weiblich": false
+        "vorname": "Ana",
+        "weiblich": true
     }
 }

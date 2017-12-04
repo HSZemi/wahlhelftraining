@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2015890,
+    "nummer": 2608057,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.08.1995",
-        "matrikelnummer": 2959708,
+        "fakultaet": 8,
+        "geburtsdatum": "10.05.1996",
+        "matrikelnummer": 2154776,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klo\u00df",
-        "plzort": "53192 Bonn",
+        "nachname": "Schewe",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Oskar-Mai-Stra\u00dfe 6",
+        "strasse": "Seeheimer Stra\u00dfe 43",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Anni",
+        "vorname": "Sibyl",
         "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1896543,
+    "nummer": 1900054,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.06.1995",
-        "matrikelnummer": 3133314,
+        "fakultaet": 8,
+        "geburtsdatum": "21.05.1996",
+        "matrikelnummer": 2703248,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spindler",
-        "plzort": "02692 Eulowitz",
+        "nachname": "Thiel",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Ahlbecker Stra\u00dfe 2",
+        "strasse": "Max-Grahl-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Heyko",
+        "vorname": "Hanswilhelm",
         "weiblich": false
     }
 }

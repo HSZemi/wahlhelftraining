@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2266873,
+    "nummer": 1860403,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.02.1998",
-        "matrikelnummer": 2044545,
+        "fakultaet": 2,
+        "geburtsdatum": "22.02.1989",
+        "matrikelnummer": 2084809,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Braun",
-        "plzort": "53157 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Michel",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Pfortengartenweg 34",
+        "strasse": "Zelenkastra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 8
             }
         ],
-        "vorname": "Henrik",
-        "weiblich": false
+        "vorname": "Doritta",
+        "weiblich": true
     }
 }

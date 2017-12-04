@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1439927,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2138165,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.09.1998",
-        "matrikelnummer": 2370568,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "11.05.1996",
+        "matrikelnummer": 2441316,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zenker",
-        "plzort": "23909 Mechow",
+        "nachname": "Ruppert",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Manitiusstra\u00dfe 6",
+        "strasse": "Sch\u00f6fferstieg 25",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Walfried",
-        "weiblich": false
+        "vorname": "Roslinda",
+        "weiblich": true
     }
 }

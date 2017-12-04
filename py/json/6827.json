@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1558898,
+    "nummer": 2169624,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "10.08.1990",
-        "matrikelnummer": 2702899,
+        "fakultaet": 8,
+        "geburtsdatum": "26.09.1988",
+        "matrikelnummer": 2259970,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Herold",
-        "plzort": "53220 Bonn",
+        "nachname": "K\u00fcppers",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Haardtwaldplatz 6",
+        "strasse": "Louis-Pasteur-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Katerina",
+        "vorname": "Ines",
         "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1770423,
+    "nummer": 1343939,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.07.1995",
-        "matrikelnummer": 2507459,
+        "fakultaet": 1,
+        "geburtsdatum": "12.03.1993",
+        "matrikelnummer": 2726809,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6hl",
-        "plzort": "23738 Lensahn",
+        "nachname": "Taube",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Malapertstra\u00dfe 15",
+        "strasse": "Am Steinberg 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Gottwald",
-        "weiblich": false
+        "vorname": "Roslinde",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2828893,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2283189,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "09.04.1992",
-        "matrikelnummer": 2148872,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 3,
+        "geburtsdatum": "27.08.1992",
+        "matrikelnummer": 2322300,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Umbach",
-        "plzort": "24632 Heidmoor",
+        "nachname": "G\u00e4rtner",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Apostelstra\u00dfe 0",
+        "strasse": "Am Gr\u00fcnen Zipfel 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Nortrud",
-        "weiblich": true
+        "vorname": "Wastl",
+        "weiblich": false
     }
 }

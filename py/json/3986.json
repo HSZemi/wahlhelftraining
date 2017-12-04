@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2673793,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1432785,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "05.08.1999",
-        "matrikelnummer": 2605972,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "08.09.1988",
+        "matrikelnummer": 3164101,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Busse",
-        "plzort": "02782 Seifhennersdorf",
+        "nachname": "Zacharias",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Hardenbergstra\u00dfe 19",
+        "strasse": "Baumeisterstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Paulinus",
-        "weiblich": false
+        "vorname": "Desiree",
+        "weiblich": true
     }
 }

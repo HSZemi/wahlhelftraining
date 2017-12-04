@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2234928,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2235957,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "10.03.1990",
-        "matrikelnummer": 2464332,
+        "fakultaet": 2,
+        "geburtsdatum": "10.10.1993",
+        "matrikelnummer": 2051586,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wessels",
-        "plzort": "53122 Bonn",
+        "nachname": "Buss",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "F\u00e4hrhausbr\u00fccke 3",
+        "strasse": "Nickerner Stra\u00dfe 37",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 10
             }
         ],
-        "vorname": "Oswin",
-        "weiblich": false
+        "vorname": "Kirsten",
+        "weiblich": true
     }
 }

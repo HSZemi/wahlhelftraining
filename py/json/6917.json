@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1565594,
+    "nummer": 1538980,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "12.06.1996",
-        "matrikelnummer": 2505493,
+        "geburtsdatum": "01.10.1991",
+        "matrikelnummer": 2339959,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Biehl",
-        "plzort": "53209 Bonn",
+        "nachname": "Klo\u00df",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Burgfriedenstra\u00dfe 10",
+        "strasse": "Insterburger Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Psychologie",
-                "fsem": 10
+                "fsem": 7
             }
         ],
-        "vorname": "Friedlies",
+        "vorname": "Helena",
         "weiblich": true
     }
 }

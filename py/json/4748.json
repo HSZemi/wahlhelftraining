@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2264225,
+    "nummer": 2265708,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 2,
-        "geburtsdatum": "03.11.1998",
-        "matrikelnummer": 2269260,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "22.04.1996",
+        "matrikelnummer": 2567128,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spieker",
-        "plzort": "53210 Bonn",
+        "nachname": "Keim",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Kesselst\u00e4dter Stra\u00dfe 0",
+        "strasse": "Billstieg 15e",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
                 "fsem": 8
             }
         ],
-        "vorname": "Wiglaf",
-        "weiblich": false
+        "vorname": "Giesela",
+        "weiblich": true
     }
 }

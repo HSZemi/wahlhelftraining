@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1564233,
+    "nummer": 2230899,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "11.06.1994",
-        "matrikelnummer": 3094127,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "19.12.1995",
+        "matrikelnummer": 154690,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Z\u00fchlke",
-        "plzort": "53140 Bonn",
+        "nachname": "Blohm",
+        "plzort": "56869 Mastershausen",
         "sternchen": 0,
-        "strasse": "Rothh\u00e4userstra\u00dfe 8",
+        "strasse": "Neuland 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Burkhild",
+        "vorname": "Irmengard",
         "weiblich": true
     }
 }

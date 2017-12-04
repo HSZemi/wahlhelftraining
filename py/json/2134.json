@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1362260,
+    "nummer": 1560276,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "13.04.1990",
-        "matrikelnummer": 2471170,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "22.02.1995",
+        "matrikelnummer": 18965,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lampe",
-        "plzort": "53167 Bonn",
+        "nachname": "Thiede",
+        "plzort": "01683 Heynitz",
         "sternchen": 0,
-        "strasse": "Grabenfeld 2",
+        "strasse": "Friedrich-August-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 13
             }
         ],
-        "vorname": "Tobias",
-        "weiblich": false
+        "vorname": "Paola",
+        "weiblich": true
     }
 }

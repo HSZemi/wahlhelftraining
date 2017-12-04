@@ -1,31 +1,36 @@
 {
     "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2604579,
+    "nummer": 2389971,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.05.1992",
-        "matrikelnummer": 2473660,
+        "fakultaet": 7,
+        "geburtsdatum": "22.07.1994",
+        "matrikelnummer": 2212588,
         "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wehr",
-        "plzort": "53185 Bonn",
+        "nachname": "Gra\u00dfl",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Brillenburgskamp 0",
+        "strasse": "Waldwiesenstr. 13b",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             }
         ],
-        "vorname": "Lindmar",
+        "vorname": "Hasso",
         "weiblich": false
     }
 }

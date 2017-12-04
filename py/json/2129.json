@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1207082,
-    "semester": "Sommersemester 2017",
+    "nummer": 2026723,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "09.05.1999",
-        "matrikelnummer": 2384527,
+        "fakultaet": 6,
+        "geburtsdatum": "06.04.1994",
+        "matrikelnummer": 2234142,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schmoll",
-        "plzort": "53223 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hundt",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "In den Aspen 11",
+        "strasse": "Strehlener Stra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Meteorologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Hardo",
-        "weiblich": false
+        "vorname": "Inga",
+        "weiblich": true
     }
 }

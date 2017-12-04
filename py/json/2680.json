@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1328870,
+    "nummer": 2329011,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "20.11.1992",
-        "matrikelnummer": 2838540,
+        "fakultaet": 0,
+        "geburtsdatum": "19.07.1990",
+        "matrikelnummer": 2215528,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinle",
-        "plzort": "03130 Haidem\u00fchl",
+        "nachname": "Heine",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Tulpenstra\u00dfe 16",
+        "strasse": "Narzissenweg 9",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Geographie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechisch",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Danielle",
-        "weiblich": true
+        "vorname": "Friedewald",
+        "weiblich": false
     }
 }

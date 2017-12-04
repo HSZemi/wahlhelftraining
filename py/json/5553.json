@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1077648,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1201756,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.11.1995",
-        "matrikelnummer": 13603,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "06.05.1994",
+        "matrikelnummer": 3067372,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Martens",
-        "plzort": "53166 Bonn",
+        "nachname": "Stecher",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Hosaeusweg 0c",
+        "strasse": "Trakehner Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Japanisch",
-                "fsem": 11
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Italienisch",
+                "fsem": 6
             },
             {
                 "abschluss": "",
-                "fach": "Asienwissenschaften",
-                "fsem": 11
+                "fach": "Englisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Leon",
-        "weiblich": false
+        "vorname": "Helgard",
+        "weiblich": true
     }
 }

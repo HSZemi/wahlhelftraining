@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1375600,
+    "nummer": 1399588,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.05.1993",
-        "matrikelnummer": 2469275,
+        "fakultaet": 8,
+        "geburtsdatum": "27.08.1999",
+        "matrikelnummer": 2513994,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kutzner",
-        "plzort": "53167 Bonn",
+        "nachname": "Cohrs",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Walter-Nernst-Stra\u00dfe 8",
+        "strasse": "Am Festspielhaus 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Sieglind",
+        "vorname": "Hildelies",
         "weiblich": true
     }
 }

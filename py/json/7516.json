@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2417721,
+    "nummer": 2193669,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "17.03.1999",
-        "matrikelnummer": 1954315,
+        "fakultaet": 9,
+        "geburtsdatum": "27.08.1997",
+        "matrikelnummer": 12176,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eich",
-        "plzort": "53117 Bonn",
+        "nachname": "Frick",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Franz-Werfel-Stra\u00dfe 19",
+        "strasse": "Am Pfaffenberg 7",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Biologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Physik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 6
             }
         ],
-        "vorname": "Isolde",
-        "weiblich": true
+        "vorname": "Gerdt",
+        "weiblich": false
     }
 }

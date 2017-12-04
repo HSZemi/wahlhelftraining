@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1923458,
+    "nummer": 1366787,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "12.07.1991",
-        "matrikelnummer": 2026759,
+        "geburtsdatum": "13.04.1997",
+        "matrikelnummer": 199688,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hagel",
-        "plzort": "53217 Bonn",
+        "nachname": "Thiemann",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Coburger Str. 17",
+        "strasse": "Strullendorfer Str. 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Walburga",
-        "weiblich": true
+        "vorname": "Henning",
+        "weiblich": false
     }
 }

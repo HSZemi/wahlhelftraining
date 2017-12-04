@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2309190,
+    "nummer": 2092491,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.10.1999",
-        "matrikelnummer": 1921455,
+        "fakultaet": 6,
+        "geburtsdatum": "27.09.1987",
+        "matrikelnummer": 2508098,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuhnt",
-        "plzort": "53162 Bonn",
+        "nachname": "Waibel",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Wildbergstra\u00dfe 8",
+        "strasse": "Am Langenzug 12",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Wingolf",
-        "weiblich": false
+        "vorname": "Anfriede",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2467323,
+    "nummer": 2157277,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.08.1988",
-        "matrikelnummer": 2418023,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "28.07.1991",
+        "matrikelnummer": 3167475,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittwer",
-        "plzort": "53129 Bonn",
+        "nachname": "Starke",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Robert Graf-Platz 6",
+        "strasse": "Johann Permayer-Stra\u00dfe 16e",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
                 "fsem": 3
             }
         ],
-        "vorname": "Philine",
+        "vorname": "Arntraud",
         "weiblich": true
     }
 }

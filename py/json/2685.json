@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1565927,
+    "nummer": 2400164,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.11.1992",
-        "matrikelnummer": 1920769,
+        "fakultaet": 4,
+        "geburtsdatum": "11.06.1996",
+        "matrikelnummer": 2516422,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brosch",
-        "plzort": "53131 Bonn",
+        "nachname": "Dahlke",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Mockst\u00e4dter Stra\u00dfe 16",
+        "strasse": "Schulplatz 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 4
             },
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Manfried",
-        "weiblich": false
+        "vorname": "Sylvana",
+        "weiblich": true
     }
 }

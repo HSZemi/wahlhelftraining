@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2488245,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2679196,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.12.1993",
-        "matrikelnummer": 2974502,
+        "fakultaet": 7,
+        "geburtsdatum": "23.01.1996",
+        "matrikelnummer": 2922104,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brede",
-        "plzort": "50767 K\u00f6ln",
+        "nachname": "Merker",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Wei\u00dfbachstra\u00dfe 32d",
+        "strasse": "Sylvanerweg 61d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 11
             }
         ],
-        "vorname": "Josepha",
-        "weiblich": true
+        "vorname": "Eckart",
+        "weiblich": false
     }
 }

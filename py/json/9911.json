@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1128547,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2764002,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "16.10.1994",
-        "matrikelnummer": 3096224,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 9,
+        "geburtsdatum": "02.04.1995",
+        "matrikelnummer": 2111240,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Keil",
-        "plzort": "94486 Osterhofen",
+        "nachname": "Jacobs",
+        "plzort": "57632 Seelbach",
         "sternchen": 0,
-        "strasse": "Adolf-Leweke-Stra\u00dfe 17",
+        "strasse": "Am Goldenen Stiefel 5",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 3
             }
         ],
-        "vorname": "Paola",
+        "vorname": "Teresa",
         "weiblich": true
     }
 }

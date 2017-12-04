@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2041455,
+    "nummer": 2555508,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "25.02.1999",
-        "matrikelnummer": 2244864,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "10.12.1990",
+        "matrikelnummer": 2926095,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Michels",
-        "plzort": "53152 Bonn",
+        "nachname": "Conradi",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00f6henstr. 3",
+        "strasse": "Am Schwarzen Tor 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienkommunikation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Islamwissenschaft/Nahostsprachen",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
                 "fsem": 1
             }
         ],
-        "vorname": "Sonia",
+        "vorname": "Rotraud",
         "weiblich": true
     }
 }

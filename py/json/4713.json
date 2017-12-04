@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2520473,
+    "nummer": 2235722,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "05.02.1991",
-        "matrikelnummer": 2761129,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "20.06.1994",
+        "matrikelnummer": 2694923,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sauer",
-        "plzort": "53134 Bonn",
+        "nachname": "Wilk",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Margarete und Fritz-Kahl-Anlage 2",
+        "strasse": "Arolser Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Latein",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Informatik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Geophysik",
+                "fsem": 12
             }
         ],
-        "vorname": "Dietlinde",
-        "weiblich": true
+        "vorname": "Freimuth",
+        "weiblich": false
     }
 }

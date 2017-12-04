@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1343813,
+    "nummer": 1083863,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "07.01.1987",
-        "matrikelnummer": 2796516,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "05.05.1995",
+        "matrikelnummer": 2002153,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jahn",
-        "plzort": "53202 Bonn",
+        "nachname": "Sperlich",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Rayskistra\u00dfe 10",
+        "strasse": "Andreas-Meyer-Br\u00fccke 9d",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Mathematik",
+                "fsem": 12
             }
         ],
-        "vorname": "Gretel",
-        "weiblich": true
+        "vorname": "Ingowart",
+        "weiblich": false
     }
 }

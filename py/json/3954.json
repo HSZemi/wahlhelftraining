@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1232880,
+    "nummer": 2227425,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "26.09.1996",
-        "matrikelnummer": 153717,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "18.02.1999",
+        "matrikelnummer": 2130883,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weiland",
-        "plzort": "53166 Bonn",
+        "nachname": "Falke",
+        "plzort": "44579 Castrop-Rauxel",
         "sternchen": 0,
-        "strasse": "Seeadlerstieg 6",
+        "strasse": "Zeppelinallee 14",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 10
             }
         ],
-        "vorname": "Gustav",
+        "vorname": "Reinholdt",
         "weiblich": false
     }
 }

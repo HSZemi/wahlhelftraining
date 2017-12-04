@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1117079,
+    "nummer": 2517347,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.09.1996",
-        "matrikelnummer": 2772986,
+        "fakultaet": 8,
+        "geburtsdatum": "01.01.1994",
+        "matrikelnummer": 2088540,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiest",
-        "plzort": "53137 Bonn",
+        "nachname": "Schweigert",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Helgol\u00e4nder Stra\u00dfe 3",
+        "strasse": "Barlachstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "\u00c4gyptologie",
-                "fsem": 3
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Utto",
-        "weiblich": false
+        "vorname": "Carmen",
+        "weiblich": true
     }
 }

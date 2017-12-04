@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2925931,
+    "nummer": 1706788,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.09.1999",
-        "matrikelnummer": 2140626,
+        "fakultaet": 8,
+        "geburtsdatum": "14.05.1991",
+        "matrikelnummer": 2318258,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schleich",
-        "plzort": "53119 Bonn",
+        "nachname": "Freiberg",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Keppm\u00fchle 8",
+        "strasse": "August-Siebert-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Islamwissenschaft",
-                "fsem": 13
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 12
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Olivia",
+        "vorname": "Gertraud",
         "weiblich": true
     }
 }

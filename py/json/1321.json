@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2683966,
+    "nummer": 1613346,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.08.1993",
-        "matrikelnummer": 2480282,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "13.08.1998",
+        "matrikelnummer": 1936600,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leupold",
-        "plzort": "53195 Bonn",
+        "nachname": "Weidner",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Am Goldsteinpark 0",
+        "strasse": "Bremer Reihe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Anglistik/Amerikanistik: Sprachwissenschaft",
-                "fsem": 2
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Annie",
+        "vorname": "Jeannette",
         "weiblich": true
     }
 }

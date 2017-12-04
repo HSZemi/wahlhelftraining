@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2214396,
+    "nummer": 2316856,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "22.07.1991",
-        "matrikelnummer": 3135291,
+        "fakultaet": 5,
+        "geburtsdatum": "12.01.1999",
+        "matrikelnummer": 12274,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Voigtl\u00e4nder",
-        "plzort": "53167 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Mock",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Epstein-Stra\u00dfe 0",
+        "strasse": "Arndtstr. 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Kristian",
+        "vorname": "Carlheinz",
         "weiblich": false
     }
 }

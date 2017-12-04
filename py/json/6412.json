@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2614276,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2682040,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "22.02.1986",
-        "matrikelnummer": 2756319,
+        "fakultaet": 8,
+        "geburtsdatum": "16.07.1995",
+        "matrikelnummer": 16305,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Pichler",
-        "plzort": "15757 Freidorf",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Motz",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Heymelstra\u00dfe 0",
+        "strasse": "Ruppertshainer Stra\u00dfe 2c",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
                 "fsem": 11
             }
         ],
-        "vorname": "Nicolaus",
+        "vorname": "Kunibert",
         "weiblich": false
     }
 }

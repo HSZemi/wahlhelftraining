@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2908192,
+    "nummer": 2199116,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "05.03.1999",
-        "matrikelnummer": 2535813,
+        "fakultaet": 6,
+        "geburtsdatum": "25.08.1994",
+        "matrikelnummer": 1960163,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Flick",
-        "plzort": "01129 Dresden",
+        "nachname": "Fleischhauer",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Airportring 33",
+        "strasse": "Alte Falterstra\u00dfe 8a",
         "studienfaecher": [
             {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
-                "fsem": 10
+                "fach": "Mathematics",
+                "fsem": 4
             }
         ],
-        "vorname": "Saskia",
-        "weiblich": true
+        "vorname": "Gereon",
+        "weiblich": false
     }
 }

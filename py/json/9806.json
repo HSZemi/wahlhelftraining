@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2834357,
+    "nummer": 1356581,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.08.1993",
-        "matrikelnummer": 2065155,
+        "fakultaet": 9,
+        "geburtsdatum": "26.01.1997",
+        "matrikelnummer": 3004525,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stiefel",
-        "plzort": "53119 Bonn",
+        "nachname": "Schwalbe",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Altenzeller Stra\u00dfe 9",
+        "strasse": "Xaver-Fendt-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 13
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 1
             }
         ],
-        "vorname": "Gerhart",
-        "weiblich": false
+        "vorname": "Rosa-Maria",
+        "weiblich": true
     }
 }

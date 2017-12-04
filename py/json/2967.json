@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1104127,
+    "nummer": 2117197,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.12.1997",
-        "matrikelnummer": 2674093,
+        "fakultaet": 9,
+        "geburtsdatum": "16.07.1994",
+        "matrikelnummer": 174001,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ney",
-        "plzort": "53188 Bonn",
+        "nachname": "Schmelzer",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Ilbenst\u00e4dter Stra\u00dfe 15",
+        "strasse": "Hollkoppelweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Soziologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Chris",
-        "weiblich": false
+        "vorname": "Loremarie",
+        "weiblich": true
     }
 }

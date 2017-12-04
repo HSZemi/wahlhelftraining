@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1395901,
-    "semester": "Sommersemester 2017",
+    "nummer": 1649601,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.12.1988",
-        "matrikelnummer": 2870257,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 6,
+        "geburtsdatum": "04.09.1985",
+        "matrikelnummer": 2978553,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Post",
-        "plzort": "97647 Willmars",
+        "nachname": "Wein",
+        "plzort": "26180 Rastede",
         "sternchen": 0,
-        "strasse": "Reicker Stra\u00dfe 8",
+        "strasse": "Vogelstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Latein",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 12
             },
             {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 2
             }
         ],
-        "vorname": "Elvire",
-        "weiblich": true
+        "vorname": "Sidonius",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1858925,
+    "nummer": 1468706,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "05.06.1987",
-        "matrikelnummer": 2684991,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "24.08.1993",
+        "matrikelnummer": 3191202,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wille",
-        "plzort": "42109 Wuppertal",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hilpert",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Judeichstra\u00dfe 9",
+        "strasse": "Loschwitzer Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Klassische Philologie/Latein",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Eva",
-        "weiblich": true
+        "vorname": "Hatto",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2724003,
+    "nummer": 2620699,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.03.1995",
-        "matrikelnummer": 18747,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "20.06.1992",
+        "matrikelnummer": 2900857,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rausch",
-        "plzort": "97517 Rannungen",
+        "nachname": "Maurer",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Louise-Seidler-Stra\u00dfe 10",
+        "strasse": "Johannesallee 23",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Giesela",
-        "weiblich": true
+        "vorname": "Welfhard",
+        "weiblich": false
     }
 }

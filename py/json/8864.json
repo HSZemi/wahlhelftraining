@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1172931,
+    "nummer": 2113111,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.04.1995",
-        "matrikelnummer": 16683,
+        "fakultaet": 9,
+        "geburtsdatum": "14.04.1986",
+        "matrikelnummer": 2238740,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "L\u00fcth",
-        "plzort": "53140 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Englert",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "An der Alster 1",
+        "strasse": "Trautmannstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Gustav",
-        "weiblich": false
+        "vorname": "Ulrike",
+        "weiblich": true
     }
 }

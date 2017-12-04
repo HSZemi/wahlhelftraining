@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1645044,
+    "nummer": 1516006,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.07.1992",
-        "matrikelnummer": 2052619,
+        "fakultaet": 3,
+        "geburtsdatum": "07.10.1992",
+        "matrikelnummer": 2160628,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kretzschmar",
-        "plzort": "53132 Bonn",
+        "nachname": "R\u00f6hl",
+        "plzort": "17309 Zerrenthin",
         "sternchen": 0,
-        "strasse": "Halskestra\u00dfe 22",
+        "strasse": "Gro\u00dfe Rittergasse 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Lenard",
+        "vorname": "Titus",
         "weiblich": false
     }
 }

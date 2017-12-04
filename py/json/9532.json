@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1755469,
+    "nummer": 1469815,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "21.01.1993",
-        "matrikelnummer": 2365695,
+        "fakultaet": 4,
+        "geburtsdatum": "16.10.1995",
+        "matrikelnummer": 3096095,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "H\u00f6ft",
-        "plzort": "53210 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Himmel",
+        "plzort": "34431 Marsberg",
         "sternchen": 0,
-        "strasse": "Dellbr\u00fccker Stra\u00dfe 17e",
+        "strasse": "Am Rethteich 1",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 13
+                "fach": "Zahnmedizin",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 3
             }
         ],
-        "vorname": "Romana",
+        "vorname": "Lara",
         "weiblich": true
     }
 }

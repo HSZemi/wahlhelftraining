@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2031893,
+    "nummer": 1998876,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "12.10.1998",
-        "matrikelnummer": 2668959,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "25.08.1994",
+        "matrikelnummer": 3060187,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Timm",
-        "plzort": "53195 Bonn",
+        "nachname": "H\u00f6rner",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "E.T.A.-Hoffmann-Str. 35",
+        "strasse": "H\u00f6rselbergstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kunstgeschichte",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Deutsch als Zweit- und Fremdsprache",
-                "fsem": 12
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 10
             }
         ],
-        "vorname": "Ilona",
-        "weiblich": true
+        "vorname": "Hartwin",
+        "weiblich": false
     }
 }

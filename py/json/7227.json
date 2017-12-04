@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1698771,
+    "nummer": 1404189,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.09.1988",
-        "matrikelnummer": 2550925,
+        "fakultaet": 2,
+        "geburtsdatum": "13.11.1998",
+        "matrikelnummer": 2728295,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Senger",
-        "plzort": "56459 Rotenhain",
+        "nachname": "Rieger",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Brunnenstr. 1",
+        "strasse": "Klipphausener Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Englische Philologie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Physik der Erde und Atmosph\u00e4re",
+                "fsem": 5
             }
         ],
-        "vorname": "Marc",
-        "weiblich": false
+        "vorname": "Elvira",
+        "weiblich": true
     }
 }

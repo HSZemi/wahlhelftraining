@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1858307,
+    "nummer": 1637030,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.05.1995",
-        "matrikelnummer": 2717300,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "04.01.1988",
+        "matrikelnummer": 2786560,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Goldschmidt",
-        "plzort": "53111 Bonn",
+        "nachname": "Jordan",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Hinrichsenstra\u00dfe 6",
+        "strasse": "Bebelallee 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 11
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Italienisch",
+                "fsem": 12
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Geographie",
-                "fsem": 5
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Irena",
+        "vorname": "Jessika",
         "weiblich": true
     }
 }

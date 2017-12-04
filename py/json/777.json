@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1641775,
+    "nummer": 1873963,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "22.09.1992",
-        "matrikelnummer": 2972295,
+        "fakultaet": 5,
+        "geburtsdatum": "01.02.1998",
+        "matrikelnummer": 2985964,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinke",
-        "plzort": "77652 Offenburg",
+        "nachname": "H\u00f6fler",
+        "plzort": "97232 Giebelstadt",
         "sternchen": 0,
-        "strasse": "Alte Falterstra\u00dfe 9",
+        "strasse": "Altmockritz 3",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 9
             }
         ],
-        "vorname": "Wolfhart",
+        "vorname": "Gertwin",
         "weiblich": false
     }
 }

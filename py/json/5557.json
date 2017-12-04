@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2514699,
+    "nummer": 2327733,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.02.1995",
-        "matrikelnummer": 2592429,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "05.10.1997",
+        "matrikelnummer": 3181079,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Both",
-        "plzort": "53227 Bonn",
+        "nachname": "Felber",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Mutschelleweg 5",
+        "strasse": "Linke Hauptzeile 15",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Folkhardt",
-        "weiblich": false
+        "vorname": "Henny",
+        "weiblich": true
     }
 }

@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2265072,
+    "nummer": 1105354,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.07.1990",
-        "matrikelnummer": 2984371,
+        "fakultaet": 1,
+        "geburtsdatum": "27.05.1999",
+        "matrikelnummer": 3054564,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klein",
-        "plzort": "53184 Bonn",
+        "nachname": "Hegemann",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "D\u00fcsseldorfer Stra\u00dfe 6",
+        "strasse": "Gr\u00e4sigter Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Marietheres",
+        "vorname": "Annalies",
         "weiblich": true
     }
 }

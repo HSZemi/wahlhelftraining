@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2959033,
+    "nummer": 1173427,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.02.1999",
-        "matrikelnummer": 2100922,
+        "fakultaet": 3,
+        "geburtsdatum": "13.08.1987",
+        "matrikelnummer": 3100024,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stender",
-        "plzort": "53131 Bonn",
+        "nachname": "Feige",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Merck-Br\u00fccke 8",
+        "strasse": "Seeadlerstieg 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kommunikationswissenschaften",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 6
             },
             {
                 "abschluss": "",
-                "fach": "Sprachliche Kommunikation",
-                "fsem": 10
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Arno",
+        "vorname": "Ferhart",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2359094,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1308305,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.05.1990",
-        "matrikelnummer": 1933832,
+        "fakultaet": 1,
+        "geburtsdatum": "20.06.1995",
+        "matrikelnummer": 2138861,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittwer",
+        "nachname": "K\u00fchnert",
         "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Lauschestra\u00dfe 15",
+        "strasse": "Friedrich-August-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 6
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Sandra",
-        "weiblich": true
+        "vorname": "Wiethold",
+        "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2795719,
+    "nummer": 2302721,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "12.08.1988",
-        "matrikelnummer": 2828351,
+        "fakultaet": 8,
+        "geburtsdatum": "14.03.1991",
+        "matrikelnummer": 2053614,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reil",
-        "plzort": "53173 Bonn",
+        "nachname": "L\u00fcders",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Im Metzenacker 17",
+        "strasse": "Erna-Berger-Stra\u00dfe 1e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Annelie",
-        "weiblich": true
+        "vorname": "Erfried",
+        "weiblich": false
     }
 }

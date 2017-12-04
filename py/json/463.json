@@ -1,38 +1,28 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2732050,
+    "nummer": 1762221,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "18.12.1994",
-        "matrikelnummer": 138378,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "13.02.1997",
+        "matrikelnummer": 120060,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "53201 Bonn",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Urnenstra\u00dfe 9",
+        "strasse": "Randsiedlung 22",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Chemie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Biologie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 8
             }
         ],
         "vorname": "Sven",

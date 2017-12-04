@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1392922,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1168910,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.07.1988",
-        "matrikelnummer": 1958278,
+        "fakultaet": 6,
+        "geburtsdatum": "14.02.1991",
+        "matrikelnummer": 2270132,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seemann",
-        "plzort": "53195 Bonn",
+        "nachname": "Haack",
+        "plzort": "54668 Peffingen",
         "sternchen": 0,
-        "strasse": "Am Anger 6",
+        "strasse": "Trachauer Stra\u00dfe 59",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
                 "fsem": 2
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
             }
         ],
-        "vorname": "Waltraut",
+        "vorname": "Kordula",
         "weiblich": true
     }
 }

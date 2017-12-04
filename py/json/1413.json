@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1023716,
+    "nummer": 2772090,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.04.1989",
-        "matrikelnummer": 1946802,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "17.05.1996",
+        "matrikelnummer": 2694628,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwager",
-        "plzort": "53127 Bonn",
+        "nachname": "Heise",
+        "plzort": "04509 Zschortau",
         "sternchen": 0,
-        "strasse": "Steinbeker Hauptstra\u00dfe 1",
+        "strasse": "Welschgrabenstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Magister Theologiae (ev.)",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Evangelische Theologie",
-                "fsem": 1
+                "fsem": 7
             }
         ],
-        "vorname": "Wilhelma",
+        "vorname": "Frohmut",
         "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1688372,
+    "nummer": 1618290,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.03.1997",
-        "matrikelnummer": 2549478,
+        "fakultaet": 3,
+        "geburtsdatum": "25.03.1988",
+        "matrikelnummer": 12768,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klingenberg",
-        "plzort": "53200 Bonn",
+        "nachname": "Held",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Oehmestra\u00dfe 10",
+        "strasse": "Rudolf-Hilferding-Stra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Vroni",
-        "weiblich": true
+        "vorname": "Donatus",
+        "weiblich": false
     }
 }

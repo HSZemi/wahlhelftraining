@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2865102,
-    "semester": "Sommersemester 2017",
+    "nummer": 1381285,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.09.1996",
-        "matrikelnummer": 2936644,
+        "fakultaet": 7,
+        "geburtsdatum": "19.02.1995",
+        "matrikelnummer": 2252408,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4hnel",
-        "plzort": "53205 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Bruder",
+        "plzort": "27374 Visselh\u00f6vede",
         "sternchen": 0,
-        "strasse": "Seufzerallee 2",
+        "strasse": "Neumeierhof 1",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Zahnmedizin",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Christian",
-        "weiblich": false
+        "vorname": "Heiderose",
+        "weiblich": true
     }
 }

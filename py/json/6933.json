@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2358043,
+    "nummer": 1062365,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.08.1999",
-        "matrikelnummer": 2011362,
+        "fakultaet": 0,
+        "geburtsdatum": "24.09.1990",
+        "matrikelnummer": 2262962,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Werth",
-        "plzort": "53215 Bonn",
+        "nachname": "Rehbein",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Karl-K\u00f6nig-Weg 13",
+        "strasse": "Ha\u00dfbergestr. 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geographie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 3
             }
         ],
-        "vorname": "Erdmann",
-        "weiblich": false
+        "vorname": "Alexa",
+        "weiblich": true
     }
 }

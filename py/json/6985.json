@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2354328,
+    "nummer": 2358791,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.12.1999",
-        "matrikelnummer": 2117190,
+        "fakultaet": 7,
+        "geburtsdatum": "06.06.1988",
+        "matrikelnummer": 2358212,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bitter",
-        "plzort": "53207 Bonn",
+        "nachname": "Wulff",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Sachsenallee 7",
+        "strasse": "Sachsenbergstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 12
             }
         ],
-        "vorname": "Doris",
-        "weiblich": true
+        "vorname": "Elbert",
+        "weiblich": false
     }
 }

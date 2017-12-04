@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2495772,
+    "nummer": 1160479,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.10.1999",
-        "matrikelnummer": 2812991,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "12.07.1991",
+        "matrikelnummer": 14947,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ziemer",
-        "plzort": "53171 Bonn",
+        "nachname": "Schie\u00dfl",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfe Spillingsgasse 14",
+        "strasse": "An der D\u00fcrren Heide 2",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "abschluss": "Promotion",
+                "fach": "Didaktik der Naturwissenschaften",
                 "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
             }
         ],
-        "vorname": "Hanshermann",
+        "vorname": "Pascal",
         "weiblich": false
     }
 }

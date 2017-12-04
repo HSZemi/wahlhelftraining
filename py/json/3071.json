@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1755312,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1535666,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "03.06.1994",
-        "matrikelnummer": 2691953,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "18.11.1990",
+        "matrikelnummer": 2565084,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Teichmann",
-        "plzort": "53128 Bonn",
+        "nachname": "Conradi",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Teichwiesenweg 1",
+        "strasse": "M\u00fchlengrundweg 13",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Sozialwissenschaften",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Chemie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 5
             }
         ],
-        "vorname": "Robby",
+        "vorname": "Sigmar",
         "weiblich": false
     }
 }

@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2644180,
+    "nummer": 2332193,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.07.1999",
-        "matrikelnummer": 18142,
+        "fakultaet": 8,
+        "geburtsdatum": "07.06.1993",
+        "matrikelnummer": 15043,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Maschke",
-        "plzort": "53112 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Glatz",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Niederauer Platz 6",
+        "strasse": "Hartmann-Ibach-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 12
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Raimar",
+        "vorname": "Cord",
         "weiblich": false
     }
 }

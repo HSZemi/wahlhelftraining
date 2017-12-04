@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1055627,
+    "nummer": 1669130,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.04.1999",
-        "matrikelnummer": 2990219,
+        "fakultaet": 6,
+        "geburtsdatum": "16.08.1987",
+        "matrikelnummer": 2330009,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schirmer",
-        "plzort": "53204 Bonn",
+        "nachname": "Sch\u00f6nherr",
+        "plzort": "21720 Gr\u00fcnendeich",
         "sternchen": 0,
-        "strasse": "Theodor-W.-Adorno-Platz 15",
+        "strasse": "N\u00fcrburgstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Sozialwissenschaften",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Biologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 2
             }
         ],
-        "vorname": "Joachim",
+        "vorname": "Christopherus",
         "weiblich": false
     }
 }

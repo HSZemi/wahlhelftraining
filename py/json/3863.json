@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1207467,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1721144,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "05.08.1995",
-        "matrikelnummer": 2384944,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "09.03.1993",
+        "matrikelnummer": 2318444,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Roth",
-        "plzort": "67718 Schmalenberg",
+        "nachname": "Sieg",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00e4hlerstra\u00dfe 32",
+        "strasse": "Dr. Josef Marschall-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Nicolas",
-        "weiblich": false
+        "vorname": "Ottilie",
+        "weiblich": true
     }
 }

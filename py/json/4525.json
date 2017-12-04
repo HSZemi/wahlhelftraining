@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1455875,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2680873,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.03.1993",
-        "matrikelnummer": 15597,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "23.10.1988",
+        "matrikelnummer": 19899,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siemens",
-        "plzort": "53127 Bonn",
+        "nachname": "K\u00f6ppel",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Auguste-Lazar-Stra\u00dfe 3",
+        "strasse": "Fliederweg 16",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Physik",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Valeri",
-        "weiblich": true
+        "vorname": "Heinzdieter",
+        "weiblich": false
     }
 }

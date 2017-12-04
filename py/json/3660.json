@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2775278,
+    "nummer": 1291398,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.07.1986",
-        "matrikelnummer": 2415498,
+        "fakultaet": 2,
+        "geburtsdatum": "15.11.1990",
+        "matrikelnummer": 2142220,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Fries",
-        "plzort": "85778 Haimhausen",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Ulmer",
+        "plzort": "57632 Sch\u00fcrdt",
         "sternchen": 0,
-        "strasse": "Oskar-von-Miller-Stra\u00dfe 7",
+        "strasse": "Oskar-Pletsch-Stra\u00dfe 46",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
                 "fsem": 7
             }
         ],
-        "vorname": "Rebecca",
-        "weiblich": true
+        "vorname": "Wiglaf",
+        "weiblich": false
     }
 }

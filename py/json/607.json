@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2082537,
+    "nummer": 2997052,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.08.1991",
-        "matrikelnummer": 2095139,
+        "fakultaet": 2,
+        "geburtsdatum": "14.01.1991",
+        "matrikelnummer": 2126509,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schreyer",
-        "plzort": "53131 Bonn",
+        "nachname": "Horstmann",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Nottensdorfer Weg 1",
+        "strasse": "Kennedybr\u00fccke 34",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 9
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 3
             }
         ],
-        "vorname": "Gerwald",
-        "weiblich": false
+        "vorname": "Ingrid",
+        "weiblich": true
     }
 }

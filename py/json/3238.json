@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1597683,
+    "nummer": 1671636,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.03.1990",
-        "matrikelnummer": 3158376,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "23.03.1999",
+        "matrikelnummer": 2327190,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Karger",
-        "plzort": "53201 Bonn",
+        "nachname": "Heinecke",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Staudingerstr. 3",
+        "strasse": "Rosa-Luxemburg-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Ramona",
-        "weiblich": true
+        "vorname": "Gottwald",
+        "weiblich": false
     }
 }

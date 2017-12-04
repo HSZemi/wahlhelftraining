@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1233085,
+    "nummer": 2582848,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "21.05.1995",
-        "matrikelnummer": 1901004,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "15.05.1993",
+        "matrikelnummer": 2012956,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Franke",
-        "plzort": "24229 D\u00e4nischenhagen",
+        "nachname": "Seiffert",
+        "plzort": "14715 Milow",
         "sternchen": 0,
-        "strasse": "Hammer Landstra\u00dfe 7",
+        "strasse": "Klipphausener Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Romanistik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Kyra",
-        "weiblich": true
+        "vorname": "Friedrich",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2848609,
+    "nummer": 1436274,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "09.07.1997",
-        "matrikelnummer": 2060854,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Amann",
-        "plzort": "53122 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "04.11.1997",
+        "matrikelnummer": 2208756,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kretzer",
+        "plzort": "25563 F\u00f6hrden-Barl",
         "sternchen": 0,
-        "strasse": "Miltitzer Stra\u00dfe 11",
+        "strasse": "Helmholtzstr. 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 9
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch als Zweit- und Fremdsprache",
+                "fsem": 11
             }
         ],
-        "vorname": "Krimhild",
-        "weiblich": true
+        "vorname": "Frank",
+        "weiblich": false
     }
 }

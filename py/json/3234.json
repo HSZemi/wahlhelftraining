@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2639727,
+    "nummer": 2094025,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.07.1996",
-        "matrikelnummer": 2306530,
+        "fakultaet": 3,
+        "geburtsdatum": "02.05.1994",
+        "matrikelnummer": 190587,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6ckmann",
-        "plzort": "37176 N\u00f6rten-Hardenberg",
+        "nachname": "Schroeder",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "\u00d6denburger Stra\u00dfe 27",
+        "strasse": "Seezeile 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 12
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 10
             }
         ],
-        "vorname": "Theresia",
+        "vorname": "Editha",
         "weiblich": true
     }
 }

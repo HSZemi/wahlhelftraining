@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2241843,
+    "nummer": 1726228,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.06.1988",
-        "matrikelnummer": 2497640,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "22.06.1992",
+        "matrikelnummer": 2720995,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6diger",
-        "plzort": "53125 Bonn",
+        "nachname": "Tappe",
+        "plzort": "86984 Prem",
         "sternchen": 0,
-        "strasse": "Rottwerndorfer Stra\u00dfe 38",
+        "strasse": "Kleine Spillingsgasse 7",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
                 "fsem": 4
             }
         ],
-        "vorname": "Alla",
-        "weiblich": true
+        "vorname": "Romanus",
+        "weiblich": false
     }
 }

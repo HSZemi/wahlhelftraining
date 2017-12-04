@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2433762,
+    "nummer": 2324818,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.08.1993",
-        "matrikelnummer": 3031965,
+        "fakultaet": 8,
+        "geburtsdatum": "14.12.1992",
+        "matrikelnummer": 2317673,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lotz",
-        "plzort": "53216 Bonn",
+        "nachname": "Hagedorn",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Scherling-Weg 15",
+        "strasse": "Tagetesweg 19",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 12
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Elgine",
-        "weiblich": true
+        "vorname": "Bertram",
+        "weiblich": false
     }
 }

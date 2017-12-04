@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1674887,
+    "nummer": 1380119,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.02.1996",
-        "matrikelnummer": 11823,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "03.09.1990",
+        "matrikelnummer": 129566,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fr\u00fchauf",
-        "plzort": "53132 Bonn",
+        "nachname": "Geppert",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Horner Wegbr\u00fccke 8",
+        "strasse": "Heinrich-Zille-Stra\u00dfe 5e",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 3
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Marleen",
-        "weiblich": true
+        "vorname": "Heintje",
+        "weiblich": false
     }
 }

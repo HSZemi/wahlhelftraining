@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2564389,
+    "nummer": 2644450,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.07.1997",
-        "matrikelnummer": 2730304,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "22.12.1983",
+        "matrikelnummer": 1977017,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ge\u00dfner",
-        "plzort": "76185 Karlsruhe",
+        "nachname": "Reinhart",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Hanns-Rothbarth-Stra\u00dfe 3",
+        "strasse": "Vatterstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Deutsch-Franz\u00f6sische Studien",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 11
             },
             {
-                "abschluss": "",
-                "fach": "Asienwissenschaften",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
             }
         ],
-        "vorname": "Cl\u00e4re",
+        "vorname": "Adina",
         "weiblich": true
     }
 }

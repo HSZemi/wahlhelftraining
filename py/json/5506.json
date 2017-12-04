@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2446525,
+    "nummer": 2714285,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "25.12.1993",
-        "matrikelnummer": 19411,
+        "fakultaet": 9,
+        "geburtsdatum": "11.03.1996",
+        "matrikelnummer": 2736960,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Zuber",
-        "plzort": "15926 Heideblick",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Eckert",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Schlangenkoppel 6",
+        "strasse": "Feldkirchenstr. 6",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Griechisch",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 2
             }
         ],
-        "vorname": "Sabrine",
+        "vorname": "Susette",
         "weiblich": true
     }
 }

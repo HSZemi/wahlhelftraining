@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1050339,
+    "nummer": 1176672,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "21.02.1994",
-        "matrikelnummer": 2671524,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kettler",
-        "plzort": "53199 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "07.01.1983",
+        "matrikelnummer": 3172204,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kinzel",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Franz Liszt-Gasse 1",
+        "strasse": "August-Scheidel-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 10
             }
         ],
-        "vorname": "Heidi",
+        "vorname": "Annelies",
         "weiblich": true
     }
 }

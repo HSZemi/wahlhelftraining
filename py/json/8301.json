@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2776942,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2811200,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.10.1993",
-        "matrikelnummer": 124024,
+        "fakultaet": 6,
+        "geburtsdatum": "19.06.1995",
+        "matrikelnummer": 144653,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Enke",
-        "plzort": "97791 Obersinn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heyn",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Rosenweg 12",
+        "strasse": "Am Stausee 4",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "\u00c4lt.u.Neu.Germanistik",
-                "fsem": 6
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Wittmar",
+        "vorname": "Winrich",
         "weiblich": false
     }
 }

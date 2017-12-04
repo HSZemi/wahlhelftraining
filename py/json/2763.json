@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1642266,
+    "nummer": 1479652,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "02.11.1993",
-        "matrikelnummer": 2022666,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "26.02.1990",
+        "matrikelnummer": 162403,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Quade",
-        "plzort": "53138 Bonn",
+        "nachname": "Menge",
+        "plzort": "38378 Warberg",
         "sternchen": 0,
-        "strasse": "Halskebr\u00fccke 11",
+        "strasse": "Kamillenweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Mathematik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Ferfried",
+        "vorname": "Bertram",
         "weiblich": false
     }
 }

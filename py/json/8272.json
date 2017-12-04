@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2524074,
+    "nummer": 2938413,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "13.05.1999",
-        "matrikelnummer": 1974751,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "03.02.1991",
+        "matrikelnummer": 123006,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eichhorn",
-        "plzort": "54316 Sch\u00f6ndorf",
+        "nachname": "Zimmer",
+        "plzort": "06408 Pei\u00dfen",
         "sternchen": 0,
-        "strasse": "Berzeliusstra\u00dfe 3",
+        "strasse": "Ockerwitzer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 9
             }
         ],
-        "vorname": "Ralph",
-        "weiblich": false
+        "vorname": "Ingedore",
+        "weiblich": true
     }
 }

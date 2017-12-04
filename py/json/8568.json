@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1784736,
+    "nummer": 1363980,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.02.1992",
-        "matrikelnummer": 3143298,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "27.04.1999",
+        "matrikelnummer": 2724963,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00fchl",
-        "plzort": "53112 Bonn",
+        "nachname": "Brose",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Zachenweg 1",
+        "strasse": "Sterlepperstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "German and Comparative Literature",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 5
             }
         ],
-        "vorname": "Hanspeter",
-        "weiblich": false
+        "vorname": "Birgit",
+        "weiblich": true
     }
 }

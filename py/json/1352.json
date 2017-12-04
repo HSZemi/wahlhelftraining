@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1934481,
+    "nummer": 1808519,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "02.06.1998",
-        "matrikelnummer": 3072461,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 6,
+        "geburtsdatum": "28.07.1994",
+        "matrikelnummer": 2299318,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Metzger",
-        "plzort": "30455 Hannover",
+        "nachname": "Bastian",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Beunestra\u00dfe 13",
+        "strasse": "K\u00e4rntenstr. 5",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Florentine",
+        "vorname": "Klotilde",
         "weiblich": true
     }
 }

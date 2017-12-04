@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1972806,
+    "nummer": 2534404,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.09.1997",
-        "matrikelnummer": 2117982,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "12.02.1996",
+        "matrikelnummer": 2429587,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerhards",
-        "plzort": "53211 Bonn",
+        "nachname": "Lucas",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Keitumer Weg 2",
+        "strasse": "Lenaugasse 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "fach": "Psychologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Sven",
-        "weiblich": false
+        "vorname": "Arntraud",
+        "weiblich": true
     }
 }

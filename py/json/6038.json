@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1145129,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1812272,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.07.1997",
-        "matrikelnummer": 142405,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "23.01.1993",
+        "matrikelnummer": 2242121,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Holler",
-        "plzort": "53166 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schiffmann",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Hohenlohestr. 6",
+        "strasse": "Mannlehenweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 5
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Renatus",
+        "vorname": "Karli",
         "weiblich": false
     }
 }

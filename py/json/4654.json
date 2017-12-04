@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2419204,
+    "nummer": 2870502,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "10.12.1992",
-        "matrikelnummer": 2335533,
+        "fakultaet": 2,
+        "geburtsdatum": "11.05.1997",
+        "matrikelnummer": 2716955,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brecht",
-        "plzort": "83071 Stephanskirchen",
+        "nachname": "Fischbach",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00f6nigsbr\u00fccker Platz 4",
+        "strasse": "Kapersburgstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Reinhardt",
+        "vorname": "Harri",
         "weiblich": false
     }
 }

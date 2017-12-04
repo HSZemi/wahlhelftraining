@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2673825,
+    "nummer": 2553159,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.12.1995",
-        "matrikelnummer": 2007532,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "18.07.1992",
+        "matrikelnummer": 2797199,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kahlert",
-        "plzort": "53194 Bonn",
+        "nachname": "Goldmann",
+        "plzort": "47623 Kevelaer",
         "sternchen": 0,
-        "strasse": "Bruno-Georges-Platz 53",
+        "strasse": "Pulverteich 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Gundi",
+        "vorname": "Eva-Marie",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1372575,
-    "semester": "Sommersemester 2017",
+    "nummer": 1057244,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.07.1994",
-        "matrikelnummer": 2101781,
+        "fakultaet": 4,
+        "geburtsdatum": "12.10.1996",
+        "matrikelnummer": 2697038,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schulthei\u00df",
-        "plzort": "56357 Niederwallmenach",
+        "nachname": "Hettich",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Im Dunster 4",
+        "strasse": "Grabfeldstr. 31",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 6
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Pankratius",
+        "vorname": "Erhard",
         "weiblich": false
     }
 }

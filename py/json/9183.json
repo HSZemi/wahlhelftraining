@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1412130,
+    "nummer": 2065690,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.02.1993",
-        "matrikelnummer": 2607627,
+        "fakultaet": 6,
+        "geburtsdatum": "04.08.1994",
+        "matrikelnummer": 2739367,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Baumgartner",
-        "plzort": "53112 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Wolter",
+        "plzort": "27432 Hipstedt",
         "sternchen": 0,
-        "strasse": "Luisenplatz 7",
+        "strasse": "Robert-Blum-Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
             }
         ],
-        "vorname": "Uto",
-        "weiblich": false
+        "vorname": "Burghild",
+        "weiblich": true
     }
 }

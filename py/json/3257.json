@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2786291,
+    "nummer": 2355401,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "02.08.1993",
-        "matrikelnummer": 194886,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Klink",
-        "plzort": "53228 Bonn",
+        "geburtsdatum": "08.03.1995",
+        "matrikelnummer": 135932,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Paulus",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Freystra\u00dfe 0",
+        "strasse": "Jenny-Apolant-Weg 8",
         "studienfaecher": [
             {
                 "abschluss": "Promotion o.Ab.Astronomie",
                 "fach": "Astronomie/Astrophysik",
-                "fsem": 2
+                "fsem": 5
             }
         ],
-        "vorname": "Markwart",
-        "weiblich": false
+        "vorname": "Annetrud",
+        "weiblich": true
     }
 }

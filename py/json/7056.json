@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2484586,
+    "nummer": 1620207,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "15.09.1990",
-        "matrikelnummer": 3176922,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "05.11.1986",
+        "matrikelnummer": 2842297,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00fchler",
-        "plzort": "53123 Bonn",
+        "nachname": "Goldbach",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Neul\u00e4nder Stra\u00dfe 6",
+        "strasse": "Neubertstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Karlhans",
+        "vorname": "Lucas",
         "weiblich": false
     }
 }

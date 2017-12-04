@@ -4,38 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1511050,
+    "nummer": 1970950,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "01.04.1997",
-        "matrikelnummer": 3165396,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "14.08.1994",
+        "matrikelnummer": 2964578,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mann",
-        "plzort": "53162 Bonn",
+        "nachname": "Thaler",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Steintorwall 4",
+        "strasse": "Textorstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Biologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 5
             },
             {
                 "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 1
+                "fach": "Geschichte",
+                "fsem": 5
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 1
+                "fsem": 2
             }
         ],
-        "vorname": "Marlis",
-        "weiblich": true
+        "vorname": "Seppl",
+        "weiblich": false
     }
 }

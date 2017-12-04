@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1982088,
+    "nummer": 1156500,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "26.03.1995",
-        "matrikelnummer": 1919326,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "26.02.1996",
+        "matrikelnummer": 2564060,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pecher",
-        "plzort": "53120 Bonn",
+        "nachname": "He\u00df",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Hermann-Mende-Stra\u00dfe 5a",
+        "strasse": "Sch\u00e4nkenweg 0",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 12
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 6
+                "fach": "Life Science Informatics",
+                "fsem": 3
             }
         ],
-        "vorname": "Ilseruth",
+        "vorname": "Anneluise",
         "weiblich": true
     }
 }

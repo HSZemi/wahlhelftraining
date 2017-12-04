@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2884730,
+    "nummer": 2625718,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "15.09.1992",
-        "matrikelnummer": 2468841,
+        "fakultaet": 4,
+        "geburtsdatum": "18.02.1993",
+        "matrikelnummer": 2078526,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kleinhans",
-        "plzort": "53136 Bonn",
+        "nachname": "Dannenberg",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Adilostr. 0",
+        "strasse": "Baudissinstra\u00dfe 5",
         "studienfaecher": [
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 12
+            },
             {
                 "abschluss": "Promotion",
                 "fach": "Evangelische Theologie",
-                "fsem": 13
+                "fsem": 9
             }
         ],
-        "vorname": "Wulfhardt",
-        "weiblich": false
+        "vorname": "Brigitte",
+        "weiblich": true
     }
 }

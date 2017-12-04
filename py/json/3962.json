@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2044322,
+    "nummer": 2681848,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "03.11.1998",
-        "matrikelnummer": 19592,
+        "geburtsdatum": "10.07.1996",
+        "matrikelnummer": 2487053,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6tze",
-        "plzort": "53152 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Fleckenstein",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Ermold-Stra\u00dfe 6",
+        "strasse": "Kleinnaundorfer Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Renaissance-Studien",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Marija",
-        "weiblich": true
+        "vorname": "Lothar",
+        "weiblich": false
     }
 }

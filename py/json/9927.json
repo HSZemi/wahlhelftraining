@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1978332,
+    "nummer": 1205987,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.06.1993",
-        "matrikelnummer": 139211,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "15.01.1984",
+        "matrikelnummer": 2179775,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stuber",
-        "plzort": "53203 Bonn",
+        "nachname": "Grimm",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Mondrianweg 4",
+        "strasse": "Schirmhofweg 35",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 2
             }
         ],
-        "vorname": "Ingmar",
+        "vorname": "Simpert",
         "weiblich": false
     }
 }

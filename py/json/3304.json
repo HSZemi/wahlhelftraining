@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2465416,
+    "nummer": 2331363,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.08.1992",
-        "matrikelnummer": 2611326,
+        "fakultaet": 3,
+        "geburtsdatum": "01.04.1994",
+        "matrikelnummer": 2771361,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Anger",
-        "plzort": "09634 Siebenlehn",
+        "nachname": "Muth",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Ringstra\u00dfe 1",
+        "strasse": "Hallg\u00e4\u00dfchen 2",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Hellmut",
-        "weiblich": false
+        "vorname": "Mania",
+        "weiblich": true
     }
 }

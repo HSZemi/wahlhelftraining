@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2892239,
+    "nummer": 1331307,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "01.03.1989",
-        "matrikelnummer": 3127058,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "27.08.1991",
+        "matrikelnummer": 2373570,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Borgmann",
-        "plzort": "53159 Bonn",
+        "nachname": "B\u00e4chle",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Wassersternweg 15c",
+        "strasse": "Br\u00fcningstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Wencke",
+        "vorname": "Dorlies",
         "weiblich": true
     }
 }

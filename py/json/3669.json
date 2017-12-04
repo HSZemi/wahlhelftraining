@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2402226,
+    "nummer": 1124343,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.06.1991",
-        "matrikelnummer": 3156689,
+        "fakultaet": 0,
+        "geburtsdatum": "15.05.1993",
+        "matrikelnummer": 2265746,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lieske",
-        "plzort": "53156 Bonn",
+        "nachname": "Jacobi",
+        "plzort": "49565 Bramsche",
         "sternchen": 0,
-        "strasse": "Traunsteinweg 24",
+        "strasse": "Robert-Di\u00dfmann-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Physik",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Italienisch",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Hellgard",
-        "weiblich": true
+        "vorname": "Titus",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2662431,
+    "nummer": 1062794,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "12.05.1998",
-        "matrikelnummer": 2109127,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "13.04.1999",
+        "matrikelnummer": 2182552,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Philippi",
-        "plzort": "86874 Tussenhausen",
+        "nachname": "Gr\u00e4fe",
+        "plzort": "30853 Langenhagen",
         "sternchen": 0,
-        "strasse": "Mobilheimplatz 9",
+        "strasse": "Am Knie 14",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Heiner",
+        "vorname": "Gabriel",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1181082,
+    "nummer": 1356193,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "16.08.1992",
-        "matrikelnummer": 2451234,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "11.03.1999",
+        "matrikelnummer": 2297991,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Harter",
-        "plzort": "37318 Asbach-Sickenberg",
+        "nachname": "Sachs",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Trattendorfer Stra\u00dfe 12",
+        "strasse": "Grenadierplatzl 12",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Volkwart",
-        "weiblich": false
+        "vorname": "Biggy",
+        "weiblich": true
     }
 }

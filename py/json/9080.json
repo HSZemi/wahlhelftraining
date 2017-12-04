@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2677213,
+    "nummer": 1667427,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.01.1984",
-        "matrikelnummer": 11834,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "13.03.1992",
+        "matrikelnummer": 2520014,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sautter",
-        "plzort": "53139 Bonn",
+        "nachname": "Dieterle",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Buchgrabenweg 9",
+        "strasse": "K\u00e4the-Kollwitz-Platz 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 10
             }
         ],
-        "vorname": "Angelika",
+        "vorname": "Nathalie",
         "weiblich": true
     }
 }

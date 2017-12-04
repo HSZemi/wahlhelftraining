@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1438436,
+    "nummer": 1232473,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.10.1991",
-        "matrikelnummer": 2755014,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "22.11.1990",
+        "matrikelnummer": 2994363,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jan\u00dfen",
-        "plzort": "53125 Bonn",
+        "nachname": "Birk",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Rumpffsweg 0",
+        "strasse": "Zinggstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Alt-Amerikanistik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Rosemaria",
-        "weiblich": true
+        "vorname": "Hellmut",
+        "weiblich": false
     }
 }

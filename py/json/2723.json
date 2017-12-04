@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2765101,
+    "nummer": 1525245,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "01.04.1984",
-        "matrikelnummer": 19840,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "19.08.1995",
+        "matrikelnummer": 2206020,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinzel",
-        "plzort": "53182 Bonn",
+        "nachname": "Lorenzen",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Burgstallgasse 0",
+        "strasse": "Glitzaweg 20",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 9
             }
         ],
-        "vorname": "Heidebert",
-        "weiblich": false
+        "vorname": "Anna-Maria",
+        "weiblich": true
     }
 }

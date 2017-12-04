@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1779026,
+    "nummer": 1256963,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "15.07.1995",
-        "matrikelnummer": 2622610,
+        "fakultaet": 6,
+        "geburtsdatum": "17.03.1993",
+        "matrikelnummer": 125340,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brenner",
-        "plzort": "53192 Bonn",
+        "nachname": "Schilling",
+        "plzort": "25709 Kronprinzenkoog",
         "sternchen": 0,
-        "strasse": "Pyrmonter Stra\u00dfe 6",
+        "strasse": "Ma\u00dfbornstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 4
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Dorlinde",
+        "vorname": "Doraline",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2762491,
+    "nummer": 2139442,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.06.1993",
-        "matrikelnummer": 2725519,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "22.08.1993",
+        "matrikelnummer": 2605311,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6hne",
-        "plzort": "53216 Bonn",
+        "nachname": "Steinbrecher",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "J\u00fcngststra\u00dfe 51",
+        "strasse": "Glaskopfweg 20b",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             }
         ],
-        "vorname": "Ekkehart",
+        "vorname": "Sigbert",
         "weiblich": false
     }
 }

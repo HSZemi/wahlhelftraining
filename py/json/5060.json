@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1428782,
+    "nummer": 2846403,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "27.02.1990",
-        "matrikelnummer": 2994773,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "12.09.1990",
+        "matrikelnummer": 2537431,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mager",
-        "plzort": "53160 Bonn",
+        "nachname": "Spahn",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Hausdorfer Stra\u00dfe 6",
+        "strasse": "Stemmanns Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Arch\u00e4ologien",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Kommunikation in der globalisierten Mediengesellschaft",
+                "abschluss": "Promotion",
+                "fach": "Indologie",
                 "fsem": 10
             }
         ],
-        "vorname": "Friedmuth",
+        "vorname": "Engelmar",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1485750,
+    "nummer": 1316285,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "13.01.1993",
-        "matrikelnummer": 2069478,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "13.02.1999",
+        "matrikelnummer": 2126678,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kracht",
-        "plzort": "94577 Winzer",
+        "nachname": "Hammes",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "S\u00fc\u00dfholzweg 16",
+        "strasse": "Alfred-Schrapel-Stra\u00dfe 1d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
                 "fsem": 7
             }
         ],
-        "vorname": "Sigi",
-        "weiblich": false
+        "vorname": "Damaris",
+        "weiblich": true
     }
 }

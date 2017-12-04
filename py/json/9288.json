@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2591941,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2300031,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "10.11.1992",
-        "matrikelnummer": 2189286,
+        "geburtsdatum": "26.10.1999",
+        "matrikelnummer": 158670,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6hl",
-        "plzort": "53127 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Roloff",
+        "plzort": "97516 Oberschwarzach",
         "sternchen": 0,
-        "strasse": "Niersteiner Stra\u00dfe 0",
+        "strasse": "An den Ellerwiesen 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 13
             }
         ],
-        "vorname": "Gerta",
+        "vorname": "Marei",
         "weiblich": true
     }
 }

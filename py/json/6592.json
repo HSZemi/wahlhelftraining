@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1657740,
+    "nummer": 1376345,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.10.1993",
-        "matrikelnummer": 3139939,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "10.08.1990",
+        "matrikelnummer": 18629,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Peitz",
-        "plzort": "55278 Undenheim",
+        "nachname": "Bartsch",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Krieschendorfer Stra\u00dfe 6",
+        "strasse": "Neuenhainer Stra\u00dfe 1",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 12
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Geography of Environmental Risks and Human Security",
-                "fsem": 1
+                "fach": "Economics",
+                "fsem": 12
             }
         ],
-        "vorname": "Ingowart",
+        "vorname": "Rupprecht",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1289969,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2958964,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "07.10.1995",
-        "matrikelnummer": 1916621,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "07.09.1996",
+        "matrikelnummer": 3048617,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittmann",
-        "plzort": "53119 Bonn",
+        "nachname": "Senger",
+        "plzort": "31700 Heuer\u00dfen",
         "sternchen": 0,
-        "strasse": "Fl\u00f6rsheimer Stra\u00dfe 1",
+        "strasse": "Kleinlugaer Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Franz\u00f6sistik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 1
             }
         ],
-        "vorname": "Willma",
+        "vorname": "Claudia",
         "weiblich": true
     }
 }

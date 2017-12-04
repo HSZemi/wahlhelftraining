@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1959696,
+    "nummer": 1914064,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.12.1994",
-        "matrikelnummer": 2939614,
+        "fakultaet": 5,
+        "geburtsdatum": "07.03.1991",
+        "matrikelnummer": 2505175,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "K\u00fcper",
-        "plzort": "53141 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kohlmann",
+        "plzort": "31134 Hildesheim",
         "sternchen": 0,
-        "strasse": "Bankgasse 3",
+        "strasse": "Rosental 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Birgid",
-        "weiblich": true
+        "vorname": "Gotthold",
+        "weiblich": false
     }
 }

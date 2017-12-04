@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2886968,
+    "nummer": 1451113,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "weiterbildung",
         "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "06.11.1994",
-        "matrikelnummer": 2605199,
+        "fakultaet": 4,
+        "geburtsdatum": "24.03.1985",
+        "matrikelnummer": 2739209,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": false,
-        "nachname": "Weitz",
-        "plzort": "95032 Hof",
+        "nachname": "Brunke",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Schedlichstra\u00dfe 13",
+        "strasse": "B\u00fchlauer Sch\u00fctzensteig 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
                 "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 4
             }
         ],
-        "vorname": "Othmar",
-        "weiblich": false
+        "vorname": "Janett",
+        "weiblich": true
     }
 }

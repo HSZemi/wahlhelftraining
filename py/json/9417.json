@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1098378,
+    "nummer": 1321261,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "06.07.1996",
-        "matrikelnummer": 12199,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "25.07.1999",
+        "matrikelnummer": 2104139,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reisch",
-        "plzort": "53134 Bonn",
+        "nachname": "Arend",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Karl-Bieber-H\u00f6he 1",
+        "strasse": "Adalbert-Stifter-Stra\u00dfe 10",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Soziologie",
-                "fsem": 8
+                "fach": "Medizin",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Leonhard",
-        "weiblich": false
+        "vorname": "Annalies",
+        "weiblich": true
     }
 }

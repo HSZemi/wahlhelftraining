@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2846061,
+    "nummer": 1626998,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.04.1993",
-        "matrikelnummer": 2145255,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "20.07.1985",
+        "matrikelnummer": 1952648,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meinel",
-        "plzort": "53132 Bonn",
+        "nachname": "K\u00fcnzel",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Fliederberg 12",
+        "strasse": "R\u00fcckertstr. 23",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 5
             },
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 7
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Wolfhelm",
-        "weiblich": false
+        "vorname": "Karena",
+        "weiblich": true
     }
 }

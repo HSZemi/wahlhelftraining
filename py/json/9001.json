@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1947194,
+    "nummer": 1184421,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "27.07.1991",
-        "matrikelnummer": 112116,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "18.05.1995",
+        "matrikelnummer": 2439775,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Linde",
-        "plzort": "53209 Bonn",
+        "nachname": "Scheurer",
+        "plzort": "93173 Wenzenbach",
         "sternchen": 0,
-        "strasse": "Eichenweg 0",
+        "strasse": "Spitzwegstra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 11
             }
         ],
-        "vorname": "Hartmund",
-        "weiblich": false
+        "vorname": "Margaritta",
+        "weiblich": true
     }
 }

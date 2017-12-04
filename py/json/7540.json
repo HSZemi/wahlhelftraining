@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1577390,
+    "nummer": 1202685,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.02.1999",
-        "matrikelnummer": 2701364,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "25.01.1993",
+        "matrikelnummer": 2832549,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knebel",
-        "plzort": "86505 M\u00fcnsterhausen",
+        "nachname": "Quast",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Hauptsmoorstr. 6",
+        "strasse": "Tannenstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Biochemistry",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 12
             }
         ],
-        "vorname": "Helmo",
-        "weiblich": false
+        "vorname": "Theobalda",
+        "weiblich": true
     }
 }

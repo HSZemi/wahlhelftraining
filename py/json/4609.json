@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2423779,
+    "nummer": 2190298,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.02.1991",
-        "matrikelnummer": 13011,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "06.07.1999",
+        "matrikelnummer": 2354568,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6ser",
-        "plzort": "53129 Bonn",
+        "nachname": "Kuhnert",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Zinkh\u00fcttenweg 33",
+        "strasse": "Ligusterweg 2c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Friedbald",
-        "weiblich": false
+        "vorname": "Britt",
+        "weiblich": true
     }
 }

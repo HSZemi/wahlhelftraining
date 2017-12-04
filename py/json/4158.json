@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1547239,
+    "nummer": 1297113,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "08.08.1996",
-        "matrikelnummer": 2917988,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "25.02.1998",
+        "matrikelnummer": 2988661,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Michels",
-        "plzort": "53136 Bonn",
+        "nachname": "Reis",
+        "plzort": "57612 Hemmelzen",
         "sternchen": 0,
-        "strasse": "Sankt-Vitus-Stra\u00dfe 2",
+        "strasse": "Grazer Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
                 "fach": "Medizin",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "fsem": 1
             }
         ],
-        "vorname": "Esther",
-        "weiblich": true
+        "vorname": "Hanns",
+        "weiblich": false
     }
 }

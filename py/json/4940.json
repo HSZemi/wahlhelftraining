@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1524362,
+    "nummer": 1650543,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.05.1987",
-        "matrikelnummer": 2717609,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "27.01.1996",
+        "matrikelnummer": 13933,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Griese",
-        "plzort": "53173 Bonn",
+        "nachname": "Pecher",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Bockem\u00fchlstra\u00dfe 1",
+        "strasse": "Cosch\u00fctzer Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Herwarth",
+        "vorname": "Julius",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1709771,
+    "nummer": 1762288,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.02.1997",
-        "matrikelnummer": 2586114,
+        "fakultaet": 1,
+        "geburtsdatum": "15.12.1994",
+        "matrikelnummer": 2282838,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Liebe",
-        "plzort": "53196 Bonn",
+        "nachname": "Sondermann",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Kind-Stra\u00dfe 0",
+        "strasse": "Dimpfelweg 30",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Informatik",
-                "fsem": 9
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Woldemar",
+        "vorname": "Eckart",
         "weiblich": false
     }
 }

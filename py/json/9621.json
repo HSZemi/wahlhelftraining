@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2243896,
+    "nummer": 1819567,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.07.1993",
-        "matrikelnummer": 3006155,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "08.05.1995",
+        "matrikelnummer": 2269227,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6lsch",
-        "plzort": "06429 Pobzig",
+        "nachname": "Grams",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Mariannenstra\u00dfe 3",
+        "strasse": "Klaus-Groth-Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 13
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Eunike",
+        "vorname": "Johanna",
         "weiblich": true
     }
 }

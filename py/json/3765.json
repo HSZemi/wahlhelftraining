@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2417913,
+    "nummer": 1321751,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "23.11.1991",
-        "matrikelnummer": 2291157,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "26.01.1999",
+        "matrikelnummer": 2160399,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ahrens",
-        "plzort": "53225 Bonn",
+        "nachname": "Nolden",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Oskar-Schlemmer-Stra\u00dfe 12",
+        "strasse": "Sonnenpl\u00e4tzchen 1",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 13
             }
         ],
-        "vorname": "Annarose",
-        "weiblich": true
+        "vorname": "Rainhardt",
+        "weiblich": false
     }
 }

@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1984841,
+    "nummer": 2185057,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.01.1994",
-        "matrikelnummer": 2885094,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "27.07.1998",
+        "matrikelnummer": 2579715,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sprenger",
-        "plzort": "53171 Bonn",
+        "nachname": "G\u00f6rner",
+        "plzort": "56072 Koblenz",
         "sternchen": 0,
-        "strasse": "Am Elbblick 1",
+        "strasse": "Stetzscher Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 13
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Roman",
+        "vorname": "Heinrich",
         "weiblich": false
     }
 }

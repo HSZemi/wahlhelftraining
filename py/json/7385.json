@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2539348,
+    "nummer": 2107259,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "21.05.1996",
-        "matrikelnummer": 16257,
+        "fakultaet": 0,
+        "geburtsdatum": "22.11.1997",
+        "matrikelnummer": 3151658,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wollmann",
-        "plzort": "53202 Bonn",
+        "nachname": "Laufer",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Am Vorwerk 1",
+        "strasse": "Saarstra\u00dfe 30",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Anselm",
+        "vorname": "Odilo",
         "weiblich": false
     }
 }

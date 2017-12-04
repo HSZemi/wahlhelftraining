@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2005680,
+    "nummer": 2451976,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "02.05.1989",
-        "matrikelnummer": 2417005,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "10.10.1993",
+        "matrikelnummer": 2168270,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heber",
-        "plzort": "53194 Bonn",
+        "nachname": "Enke",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Hermannstal 15",
+        "strasse": "Hocksteinstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Physik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
                 "fsem": 7
             }
         ],
-        "vorname": "Ermelinde",
+        "vorname": "Geraldine",
         "weiblich": true
     }
 }

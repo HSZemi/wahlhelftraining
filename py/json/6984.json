@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2756754,
+    "nummer": 2599187,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.02.1995",
-        "matrikelnummer": 2021135,
+        "fakultaet": 4,
+        "geburtsdatum": "19.09.1993",
+        "matrikelnummer": 19287,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kinzel",
-        "plzort": "10711 Berlin",
+        "nachname": "Kn\u00fcppel",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Steinbeker Hauptstra\u00dfe 12",
+        "strasse": "An der Herzogin Garten 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 12
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 5
             }
         ],
-        "vorname": "Dietbald",
+        "vorname": "Toralf",
         "weiblich": false
     }
 }

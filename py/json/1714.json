@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2831698,
+    "nummer": 2958163,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.01.1994",
-        "matrikelnummer": 2675150,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "25.01.1994",
+        "matrikelnummer": 2813517,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knoche",
-        "plzort": "53134 Bonn",
+        "nachname": "Schwind",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Sengelmannstra\u00dfe 31",
+        "strasse": "Milanstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 6
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Arwed",
-        "weiblich": false
+        "vorname": "Griseldis",
+        "weiblich": true
     }
 }

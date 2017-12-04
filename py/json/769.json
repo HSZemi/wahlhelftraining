@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1727801,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2100414,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.01.1989",
-        "matrikelnummer": 3146280,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "20.03.1994",
+        "matrikelnummer": 2543818,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Clau\u00dfen",
-        "plzort": "98617 Leutersdorf",
+        "nachname": "Heinrich",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Weistropper Weg 4",
+        "strasse": "Andreas-Hofer-Stra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Dolores",
+        "vorname": "Natalie",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2337708,
+    "nummer": 2229323,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.09.1987",
-        "matrikelnummer": 133255,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "08.04.1990",
+        "matrikelnummer": 2332698,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Trapp",
-        "plzort": "53172 Bonn",
+        "nachname": "Freitag",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Rudolf-Bergander-Ring 3",
+        "strasse": "Thorwaldsenstra\u00dfe 6",
         "studienfaecher": [
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 11
+            },
             {
                 "abschluss": "Master of Science",
                 "fach": "Economics",
-                "fsem": 8
+                "fsem": 13
             }
         ],
-        "vorname": "Josephina",
+        "vorname": "Irmtraut",
         "weiblich": true
     }
 }

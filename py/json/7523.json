@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1215706,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1731184,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "19.04.1996",
-        "matrikelnummer": 2510992,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "03.06.1991",
+        "matrikelnummer": 146273,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Teichert",
-        "plzort": "53197 Bonn",
+        "nachname": "Ge\u00dfner",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Panoramaweg 8",
+        "strasse": "Rosentalweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Hartfried",
-        "weiblich": false
+        "vorname": "Sarah",
+        "weiblich": true
     }
 }

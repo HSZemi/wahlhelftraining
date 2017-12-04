@@ -1,33 +1,28 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2612626,
+    "nummer": 1446721,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "11.09.1992",
-        "matrikelnummer": 17900,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "17.12.1984",
+        "matrikelnummer": 2211769,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "63512 Hainburg",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Hocksteinstra\u00dfe 25",
+        "strasse": "Neul\u00e4nder Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 13
             }
         ],
         "vorname": "Marcel",

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2688032,
+    "nummer": 1572322,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.01.1989",
-        "matrikelnummer": 2497832,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "08.07.1992",
+        "matrikelnummer": 2833045,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ilg",
-        "plzort": "53192 Bonn",
+        "nachname": "Herbst",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Bleiche 26",
+        "strasse": "Laubengrundweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "\u00c4lt.u.Neu.Germanistik",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Willma",
-        "weiblich": true
+        "vorname": "Roderich",
+        "weiblich": false
     }
 }

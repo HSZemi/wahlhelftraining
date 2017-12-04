@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2739249,
+    "nummer": 2351541,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.09.1995",
-        "matrikelnummer": 182208,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "23.12.1988",
+        "matrikelnummer": 2487501,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stolze",
-        "plzort": "53122 Bonn",
+        "nachname": "Kirst",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Geschwister-Scholl-Platz 13",
+        "strasse": "Hanssensweg 8d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 4
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
             }
         ],
-        "vorname": "Diemut",
-        "weiblich": true
+        "vorname": "Reinold",
+        "weiblich": false
     }
 }

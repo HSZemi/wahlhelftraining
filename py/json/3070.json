@@ -4,38 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2718676,
+    "nummer": 1776360,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.10.1992",
-        "matrikelnummer": 2030810,
+        "fakultaet": 9,
+        "geburtsdatum": "04.03.1993",
+        "matrikelnummer": 14638,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Baumbach",
-        "plzort": "53120 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kirschner",
+        "plzort": "17194 Lupendorf",
         "sternchen": 0,
-        "strasse": "B\u00e4rensteiner Stra\u00dfe 29",
+        "strasse": "Gr\u00fcndenseestra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 6
             },
             {
                 "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 1
+                "fach": "Sozialwissenschaften",
+                "fsem": 6
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 1
+                "fsem": 6
             }
         ],
-        "vorname": "Apollonia",
-        "weiblich": true
+        "vorname": "Dietz",
+        "weiblich": false
     }
 }

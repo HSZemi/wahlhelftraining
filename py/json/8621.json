@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2396009,
+    "nummer": 1949405,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "23.11.1999",
-        "matrikelnummer": 3176160,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "06.07.1995",
+        "matrikelnummer": 2721258,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meinke",
-        "plzort": "53187 Bonn",
+        "nachname": "Hinzmann",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Handelsstra\u00dfe 20b",
+        "strasse": "Siegener Stra\u00dfe 38a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Immunobiology: from molecules to integrative systems",
-                "fsem": 6
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Abraham",
-        "weiblich": false
+        "vorname": "Gunda",
+        "weiblich": true
     }
 }

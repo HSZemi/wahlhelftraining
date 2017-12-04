@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2739598,
+    "nummer": 2326411,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "17.02.1999",
-        "matrikelnummer": 3122256,
+        "fakultaet": 0,
+        "geburtsdatum": "05.11.1984",
+        "matrikelnummer": 2688852,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nehls",
-        "plzort": "53214 Bonn",
+        "nachname": "G\u00e4rtner",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Hittenkoferweg 20",
+        "strasse": "Freystra\u00dfe 2c",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 6
+                "fach": "Life Science Informatics",
+                "fsem": 3
             }
         ],
-        "vorname": "Magarete",
-        "weiblich": true
+        "vorname": "Theophilus",
+        "weiblich": false
     }
 }

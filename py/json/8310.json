@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2500066,
+    "nummer": 1213373,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.06.1999",
-        "matrikelnummer": 2780130,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "08.12.1988",
+        "matrikelnummer": 158721,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Galle",
-        "plzort": "53123 Bonn",
+        "nachname": "Muth",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Osakabr\u00fccke 5",
+        "strasse": "Niddagaustra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Otti",
-        "weiblich": true
+        "vorname": "Konstantin",
+        "weiblich": false
     }
 }

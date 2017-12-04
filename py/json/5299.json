@@ -1,46 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1993249,
+    "nummer": 1690436,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "10.03.1981",
-        "matrikelnummer": 3084129,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "28.04.1997",
+        "matrikelnummer": 19577,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hertwig",
-        "plzort": "53123 Bonn",
+        "nachname": "Dippel",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Normannenweg 6",
+        "strasse": "Honsellbr\u00fccke 24e",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             },
             {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 13
             }
         ],
-        "vorname": "Bruno",
-        "weiblich": false
+        "vorname": "Tilli",
+        "weiblich": true
     }
 }

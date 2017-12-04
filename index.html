@@ -177,14 +177,12 @@
 		<th>Name</th>
 		<th>Senat</th>
 		<th>Fakultätsrat</th>
-		<th>Wahlgremium</th>
 		<th>SP</th>
 		<th>Mehrfachausweis /<br>Briefwahl</th>
 	</tr>
 	</thead>
 	<tbody id="tablebody">
 	<tr>
-		<td>…</td>
 		<td>…</td>
 		<td>…</td>
 		<td>…</td>
@@ -198,11 +196,9 @@
 		<td>Hans Vielhuber</td>
 		<td>Nein</td>
 		<td></td>
-		<td></td>
 		<td>Briefwahl Gremien</td>
 	</tr>
 	<tr>
-		<td>…</td>
 		<td>…</td>
 		<td>…</td>
 		<td>…</td>
@@ -449,6 +445,9 @@
 			if(current_data['stud']['ausweistyp'] == "zweithoerer"){
 				s += "Ausweistyp beachten\n";
 			}
+			if(current_data['stud']['ausweistyp'] == "weiterbildung"){
+				s += "Geschlechtshinweis auf der Rückseite beachten\n";
+			}
 			if(current_data['semester'] != "Wintersemester 2017/2018"){
 				s += "Semester beachten\n";
 			}
@@ -499,25 +498,25 @@
 		
 			nl = get_negativliste();
 			
-			if((nl == null && current_data['ausfertigung'] == 1) || nl != null && nl[8] == schriften[current_data['ausfertigung']]){
+			if((nl == null && current_data['ausfertigung'] == 1) || nl != null && nl[7] == schriften[current_data['ausfertigung']]){
 		
 				if(!current_data['loecher']['sp']){
-					if(nl == null || (nl[7] == "" && nl[9] != "Briefwahl" && nl[9] != "Briefwahl SP")){
+					if(nl == null || (nl[6] == "" && nl[8] != "Briefwahl" && nl[8] != "Briefwahl SP")){
 						target_set.add("sp");
 					}
 				}
 				
 				if(!current_data['loecher']['gremien']){
-					if(nl == null || (nl[4] == ""  && nl[9] != "Briefwahl" && nl[9] != "Briefwahl G")){
+					if(nl == null || (nl[4] == ""  && nl[8] != "Briefwahl" && nl[8] != "Briefwahl G")){
 						target_set.add("senat");
 					}
 					
-					if( ( current_data['stud']['fakultaet'] > 0 )  && ( nl == null || (nl[5] == ""  && nl[4] == "" && nl[9] != "Briefwahl" && nl[9] != "Briefwahl G"))){
+					if( ( current_data['stud']['fakultaet'] > 0 )  && ( nl == null || (nl[5] == ""  && nl[4] == "" && nl[8] != "Briefwahl" && nl[8] != "Briefwahl G"))){
 						target_set.add(fakrats[current_data['stud']['fakultaet']])
 						target_set.add(shks[current_data['stud']['fakultaet']])
 					}
 					
-					if(current_data['stud']['weiblich'] && ( nl == null || (nl[6] == "" && nl[4] == "" && nl[9] != "Briefwahl" && nl[9] != "Briefwahl G" ) ) ){
+					if(current_data['stud']['weiblich'] && ( nl == null || (nl[4] == "" && nl[8] != "Briefwahl" && nl[8] != "Briefwahl G" ) ) ){
 						target_set.add("gb");
 					}
 				}
@@ -581,6 +580,8 @@
 	function loadRandomStud(){
 		
 		var id = Math.floor(Math.random() * 10000);
+
+		//id = 5140;
 		
 		$('#ausweisbild').hide(200);
 		
@@ -614,6 +615,13 @@
 			}
 			if(data['stud']['ausweistyp'] == "weiterbildung"){
 				$('#ausweistyp tspan').text("Weiterbildungs-");
+				if(data['stud']['weiblich']){
+					$('#wbgeschlecht tspan').text('w');
+				} else {
+					$('#wbgeschlecht tspan').text('m');
+				}
+			} else {
+					$('#wbgeschlecht tspan').text('');
 			}
 			
 			if(data['stud']['beurlaubt']){
@@ -712,7 +720,6 @@
 				<td>…</td>\
 				<td>…</td>\
 				<td>…</td>\
-				<td>…</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -722,8 +729,7 @@
 				<td>"+p0[4]+"</td>\
 				<td>"+p0[5]+"</td>\
 				<td>"+p0[6]+"</td>\
-				<td>"+p0[7]+"</td>\
-				<td>"+p0[8]+" "+p0[9]+"</td>\
+				<td>"+p0[7]+" "+p0[8]+"</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -733,8 +739,7 @@
 				<td>"+p1[4]+"</td>\
 				<td>"+p1[5]+"</td>\
 				<td>"+p1[6]+"</td>\
-				<td>"+p1[7]+"</td>\
-				<td>"+p1[8]+" "+p1[9]+"</td>\
+				<td>"+p1[7]+" "+p1[8]+"</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -744,8 +749,7 @@
 				<td>"+p2[4]+"</td>\
 				<td>"+p2[5]+"</td>\
 				<td>"+p2[6]+"</td>\
-				<td>"+p2[7]+"</td>\
-				<td>"+p2[8]+" "+p2[9]+"</td>\
+				<td>"+p2[7]+" "+p2[8]+"</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -755,8 +759,7 @@
 				<td>"+p3[4]+"</td>\
 				<td>"+p3[5]+"</td>\
 				<td>"+p3[6]+"</td>\
-				<td>"+p3[7]+"</td>\
-				<td>"+p3[8]+" "+p3[9]+"</td>\
+				<td>"+p3[7]+" "+p3[8]+"</td>\
 			</tr>");
 			
 			$('#tablebody').append("<tr>\
@@ -766,14 +769,12 @@
 				<td>"+p4[4]+"</td>\
 				<td>"+p4[5]+"</td>\
 				<td>"+p4[6]+"</td>\
-				<td>"+p4[7]+"</td>\
-				<td>"+p4[8]+" "+p4[9]+"</td>\
+				<td>"+p4[7]+" "+p4[8]+"</td>\
 			</tr>");
 			
 			
 			
 			$('#tablebody').append("<tr>\
-				<td>…</td>\
 				<td>…</td>\
 				<td>…</td>\
 				<td>…</td>\

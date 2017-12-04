@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1951325,
-    "semester": "Sommersemester 2017",
+    "nummer": 1667545,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.08.1993",
-        "matrikelnummer": 2752770,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Stich",
-        "plzort": "53155 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "16.12.1996",
+        "matrikelnummer": 3116078,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Metz",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Gnaschwitzer Stra\u00dfe 13",
+        "strasse": "Kaemmererufer 44",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 9
             }
         ],
-        "vorname": "Resi",
-        "weiblich": true
+        "vorname": "Hellfried",
+        "weiblich": false
     }
 }

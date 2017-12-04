@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2345868,
+    "nummer": 2519503,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "24.09.1999",
-        "matrikelnummer": 2238109,
+        "geburtsdatum": "18.08.1993",
+        "matrikelnummer": 2890407,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Figge",
-        "plzort": "53142 Bonn",
+        "nachname": "Weinmann",
+        "plzort": "65391 Lorch",
         "sternchen": 0,
-        "strasse": "Dessauerstra\u00dfe 18",
+        "strasse": "Ro\u00dfm\u00e4\u00dflerstra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 3
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Viviane",
+        "vorname": "Lysann",
         "weiblich": true
     }
 }

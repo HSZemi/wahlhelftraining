@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1989591,
+    "nummer": 2259668,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "10.01.1987",
-        "matrikelnummer": 12411,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "13.01.1989",
+        "matrikelnummer": 3150849,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spiegel",
-        "plzort": "53114 Bonn",
+        "nachname": "Kruse",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Burgkstra\u00dfe 6",
+        "strasse": "Hertha-Feiner-Asmus-Stieg 8",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
             }
         ],
-        "vorname": "Roslinda",
-        "weiblich": true
+        "vorname": "Nunzius",
+        "weiblich": false
     }
 }

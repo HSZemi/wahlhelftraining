@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2239738,
+    "nummer": 1460677,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "20.06.1985",
-        "matrikelnummer": 126998,
+        "fakultaet": 7,
+        "geburtsdatum": "12.12.1994",
+        "matrikelnummer": 3154662,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kreutz",
-        "plzort": "53137 Bonn",
+        "nachname": "Kappes",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Kastanienstra\u00dfe 6",
+        "strasse": "Scheubelstr. 22",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechisch",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
                 "fsem": 8
             }
         ],
-        "vorname": "Belina",
-        "weiblich": true
+        "vorname": "Edelfried",
+        "weiblich": false
     }
 }

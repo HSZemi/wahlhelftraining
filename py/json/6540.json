@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2465207,
+    "nummer": 2651757,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "07.10.1983",
-        "matrikelnummer": 2426756,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "02.01.1995",
+        "matrikelnummer": 2838610,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thoms",
-        "plzort": "53115 Bonn",
+        "nachname": "Borrmann",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Florianisiedlung 2",
+        "strasse": "Saalfelder Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
                 "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geophysik",
+                "fsem": 1
             }
         ],
-        "vorname": "Ira",
-        "weiblich": true
+        "vorname": "Nicki",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1016131,
+    "nummer": 2393903,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "12.11.1990",
-        "matrikelnummer": 114317,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "10.11.1995",
+        "matrikelnummer": 2395264,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "J\u00e4ger",
-        "plzort": "53145 Bonn",
+        "nachname": "Sander",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Bleichstra\u00dfe 2",
+        "strasse": "Tr\u00e4nkgasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch-Italienische Studien",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "English Studies",
+                "fsem": 13
             }
         ],
-        "vorname": "Hannelotte",
-        "weiblich": true
+        "vorname": "Walbert",
+        "weiblich": false
     }
 }

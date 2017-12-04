@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2805096,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2376796,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "17.05.1989",
-        "matrikelnummer": 1906250,
+        "fakultaet": 6,
+        "geburtsdatum": "09.03.1993",
+        "matrikelnummer": 2587058,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Clasen",
-        "plzort": "53130 Bonn",
+        "nachname": "Bieber",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Windbergstra\u00dfe 7",
+        "strasse": "K\u00f6pckestra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 11
+                "fach": "Arzneimittelforschung (Drug Research)",
+                "fsem": 1
             }
         ],
-        "vorname": "Leonhard",
-        "weiblich": false
+        "vorname": "Hiltrun",
+        "weiblich": true
     }
 }

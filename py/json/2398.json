@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2751588,
+    "nummer": 2921836,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.10.1991",
-        "matrikelnummer": 2986983,
+        "fakultaet": 6,
+        "geburtsdatum": "13.03.1997",
+        "matrikelnummer": 2117232,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rautenberg",
-        "plzort": "53205 Bonn",
+        "nachname": "Ihle",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Uhlandstra\u00dfe 4e",
+        "strasse": "Dr. Ludwig Leser-Gasse 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Computer Science",
+                "fsem": 8
             }
         ],
-        "vorname": "Treuhart",
+        "vorname": "Sonnhardt",
         "weiblich": false
     }
 }

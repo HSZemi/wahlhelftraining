@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1430947,
+    "nummer": 2487602,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.01.1996",
-        "matrikelnummer": 2630994,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "11.06.1989",
+        "matrikelnummer": 2312392,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53155 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Schottweg 9",
+        "strasse": "H\u00f6lderlinstra\u00dfe 3e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 10
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

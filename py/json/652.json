@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2620876,
+    "nummer": 1548761,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.06.1991",
-        "matrikelnummer": 2071961,
+        "fakultaet": 4,
+        "geburtsdatum": "13.06.1992",
+        "matrikelnummer": 2200205,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4nsel",
-        "plzort": "06667 Burgwerben",
+        "nachname": "May",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Pfahlpl\u00e4tzchen 6",
+        "strasse": "Tischerstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "fach": "Zahnmedizin",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
                 "fsem": 10
             }
         ],
-        "vorname": "Helmtraut",
-        "weiblich": true
+        "vorname": "Klaus",
+        "weiblich": false
     }
 }

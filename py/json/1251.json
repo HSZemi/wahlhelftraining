@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1833081,
+    "nummer": 1904980,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.07.1994",
-        "matrikelnummer": 3110608,
+        "fakultaet": 8,
+        "geburtsdatum": "17.06.1994",
+        "matrikelnummer": 2807741,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fey",
-        "plzort": "53200 Bonn",
+        "nachname": "P\u00fcschel",
+        "plzort": "58456 Witten",
         "sternchen": 0,
-        "strasse": "Robert-Bunsen-Stra\u00dfe 5",
+        "strasse": "Norderstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
             },
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Edda",
-        "weiblich": true
+        "vorname": "Thiemo",
+        "weiblich": false
     }
 }

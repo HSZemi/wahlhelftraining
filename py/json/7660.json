@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1681701,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1200168,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.02.1990",
-        "matrikelnummer": 13603,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "08.11.1993",
+        "matrikelnummer": 186122,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hartl",
-        "plzort": "53205 Bonn",
+        "nachname": "Bauer",
+        "plzort": "18314 Kenz-K\u00fcstrow",
         "sternchen": 0,
-        "strasse": "Klosterteichplatz 24",
+        "strasse": "Vierh\u00e4usergasse 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Economics",
+                "fach": "Psychologie",
                 "fsem": 12
             }
         ],
-        "vorname": "Bernulf",
-        "weiblich": false
+        "vorname": "Waldtraut",
+        "weiblich": true
     }
 }

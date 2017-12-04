@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1162402,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1956265,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.03.1999",
-        "matrikelnummer": 2015785,
+        "fakultaet": 3,
+        "geburtsdatum": "03.10.1996",
+        "matrikelnummer": 1975799,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Andresen",
-        "plzort": "53198 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sieber",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Postweg 11a",
+        "strasse": "Hoherodskopfstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 11
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             }
         ],
-        "vorname": "Detmar",
-        "weiblich": false
+        "vorname": "Wiebke",
+        "weiblich": true
     }
 }

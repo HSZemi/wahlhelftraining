@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1039995,
+    "nummer": 1896577,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.06.1997",
-        "matrikelnummer": 3104720,
+        "fakultaet": 4,
+        "geburtsdatum": "20.04.1989",
+        "matrikelnummer": 2800817,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kusch",
-        "plzort": "53182 Bonn",
+        "nachname": "Grube",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Im Vogelsgesang 9",
+        "strasse": "Spaldingstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Chemie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
-            },
-            {
                 "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 5
+                "fach": "Public Health",
+                "fsem": 12
             }
         ],
-        "vorname": "Lia",
-        "weiblich": true
+        "vorname": "Hoimar",
+        "weiblich": false
     }
 }

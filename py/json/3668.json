@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2099981,
+    "nummer": 1544270,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "19.10.1997",
-        "matrikelnummer": 12630,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "25.12.1997",
+        "matrikelnummer": 3108733,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6ttler",
-        "plzort": "53173 Bonn",
+        "nachname": "Holzer",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-May-Platz 6",
+        "strasse": "Pillnitzer Landstra\u00dfe 0",
         "studienfaecher": [
             {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 6
+                "fach": "Medienwissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Constance",
-        "weiblich": true
+        "vorname": "Ehrenreich",
+        "weiblich": false
     }
 }

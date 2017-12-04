@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2862888,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2195965,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "02.12.1990",
-        "matrikelnummer": 2707862,
+        "fakultaet": 7,
+        "geburtsdatum": "19.12.1990",
+        "matrikelnummer": 2101135,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stumpe",
-        "plzort": "53221 Bonn",
+        "nachname": "Apel",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Im S\u00fccklein 2",
+        "strasse": "Hanauer Landstra\u00dfe 0c",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 9
             }
         ],
-        "vorname": "Franz",
+        "vorname": "Wladislaus",
         "weiblich": false
     }
 }

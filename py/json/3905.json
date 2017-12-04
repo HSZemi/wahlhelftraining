@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2158667,
+    "nummer": 1126204,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.05.1996",
-        "matrikelnummer": 2493629,
+        "fakultaet": 1,
+        "geburtsdatum": "18.09.1996",
+        "matrikelnummer": 2790346,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Forstner",
-        "plzort": "53217 Bonn",
+        "nachname": "Bacher",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Thymianweg 36e",
+        "strasse": "Koppelweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
                 "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Gerrit",
-        "weiblich": false
+        "vorname": "Josefa",
+        "weiblich": true
     }
 }

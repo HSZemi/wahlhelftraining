@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1325139,
+    "nummer": 2775712,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.04.1990",
-        "matrikelnummer": 2201725,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "13.12.1997",
+        "matrikelnummer": 2800457,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Messerschmidt",
-        "plzort": "38368 Rennau",
+        "nachname": "Buschmann",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Kannengie\u00dfergasse 3",
+        "strasse": "Chattenweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
                 "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Irmhild",
-        "weiblich": true
+        "vorname": "Danny",
+        "weiblich": false
     }
 }

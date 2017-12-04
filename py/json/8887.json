@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": true
     },
-    "nummer": 1394928,
+    "nummer": 1174578,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.06.1994",
-        "matrikelnummer": 2451060,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "11.02.1995",
+        "matrikelnummer": 19695,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wollny",
-        "plzort": "23701 Eutin",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Jaeger",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Hermann-Prell-Stra\u00dfe 1",
+        "strasse": "Heigenbr\u00fccker Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Immunobiology: from molecules to integrative systems",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Meikel",
-        "weiblich": false
+        "vorname": "Genia",
+        "weiblich": true
     }
 }

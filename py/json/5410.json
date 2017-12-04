@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1096362,
+    "nummer": 1234868,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "11.01.1997",
-        "matrikelnummer": 2777101,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "19.01.1995",
+        "matrikelnummer": 1912370,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nordmann",
-        "plzort": "53148 Bonn",
+        "nachname": "Jakobs",
+        "plzort": "97294 Unterpleichfeld",
         "sternchen": 0,
-        "strasse": "Lerchenbergweg 2d",
+        "strasse": "Favoritenstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
+                "abschluss": "Bachelor of Science",
+                "fach": "Chemie",
+                "fsem": 13
             }
         ],
-        "vorname": "Kathrinchen",
-        "weiblich": true
+        "vorname": "Torsten",
+        "weiblich": false
     }
 }

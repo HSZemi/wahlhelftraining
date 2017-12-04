@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2238847,
+    "nummer": 1205336,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.07.1996",
-        "matrikelnummer": 2442842,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "26.02.1997",
+        "matrikelnummer": 2376996,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Burkhard",
-        "plzort": "53150 Bonn",
+        "nachname": "Kayser",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Singerstra\u00dfe 0",
+        "strasse": "Kentzlerdamm 8e",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 5
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Friedgard",
-        "weiblich": true
+        "vorname": "Klausdieter",
+        "weiblich": false
     }
 }

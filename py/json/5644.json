@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1619968,
-    "semester": "Sommersemester 2017",
+    "nummer": 2882214,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "08.12.1993",
-        "matrikelnummer": 2461802,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "26.03.1990",
+        "matrikelnummer": 2732005,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gabler",
-        "plzort": "53179 Bonn",
+        "nachname": "Buck",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Kirschensteg 31",
+        "strasse": "Am Talkenberg 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 7
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Balthasar",
-        "weiblich": false
+        "vorname": "Bernhilde",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2107119,
+    "nummer": 2058626,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "22.03.1997",
-        "matrikelnummer": 2396909,
+        "fakultaet": 6,
+        "geburtsdatum": "24.09.1991",
+        "matrikelnummer": 2119677,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Borchert",
-        "plzort": "53159 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Probst",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bundesbahnhof 28",
+        "strasse": "Pillnitzer Landstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Danica",
-        "weiblich": true
+        "vorname": "Burghard",
+        "weiblich": false
     }
 }

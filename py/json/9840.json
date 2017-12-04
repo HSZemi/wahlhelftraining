@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2334075,
+    "nummer": 2759583,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.06.1991",
-        "matrikelnummer": 2806389,
+        "fakultaet": 2,
+        "geburtsdatum": "09.08.1996",
+        "matrikelnummer": 2317819,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Bethge",
-        "plzort": "53210 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pfitzner",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00e4lberweideweg 1",
+        "strasse": "Heussleinstra\u00dfe 28",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Birgid",
+        "vorname": "Melissa",
         "weiblich": true
     }
 }

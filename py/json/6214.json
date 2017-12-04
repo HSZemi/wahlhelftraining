@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1003974,
+    "nummer": 1418759,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.12.1998",
-        "matrikelnummer": 2270120,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "02.11.1997",
+        "matrikelnummer": 2601702,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Marschner",
-        "plzort": "53229 Bonn",
+        "nachname": "Weidinger",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Am Weinberg 11",
+        "strasse": "Hezilostr. 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
-                "fsem": 10
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Eckhold",
+        "vorname": "Wingolf",
         "weiblich": false
     }
 }

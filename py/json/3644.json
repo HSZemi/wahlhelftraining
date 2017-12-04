@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1935359,
+    "nummer": 2879260,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.01.1990",
-        "matrikelnummer": 2056256,
+        "fakultaet": 6,
+        "geburtsdatum": "05.07.1993",
+        "matrikelnummer": 2184014,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hertel",
-        "plzort": "53211 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Feldmann",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Hinter dem Zwinger 8",
+        "strasse": "Baruch-Baschwitz-Platz 23",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
                 "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Arch\u00e4ologien",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Romanistik",
+                "fsem": 3
             }
         ],
-        "vorname": "Rudolf",
-        "weiblich": false
+        "vorname": "Gretl",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1304905,
+    "nummer": 1115328,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.05.1988",
-        "matrikelnummer": 11874,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "15.03.1992",
+        "matrikelnummer": 19432,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hilgers",
-        "plzort": "53195 Bonn",
+        "nachname": "Habermann",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "S\u00fcderstra\u00dfe 16",
+        "strasse": "Bierkrugweg 8",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Arwed",
-        "weiblich": false
+        "vorname": "Gila",
+        "weiblich": true
     }
 }

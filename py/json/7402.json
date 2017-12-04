@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2466266,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2461301,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.09.1989",
-        "matrikelnummer": 2934992,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "16.12.1996",
+        "matrikelnummer": 2197311,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dittmer",
-        "plzort": "24376 Hasselberg",
+        "nachname": "Welz",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Dorfmeistergasse 3",
+        "strasse": "Louise-Seidler-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 4
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Hanfried",
+        "vorname": "Timmo",
         "weiblich": false
     }
 }

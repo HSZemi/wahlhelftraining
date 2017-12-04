@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1758077,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1294083,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "17.02.1988",
-        "matrikelnummer": 2625661,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "19.06.1993",
+        "matrikelnummer": 2392320,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mai",
-        "plzort": "53193 Bonn",
+        "nachname": "Heyne",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfzschachwitzer Stra\u00dfe 2",
+        "strasse": "Die Bergner 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 8
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Felizia",
+        "vorname": "Ilse",
         "weiblich": true
     }
 }

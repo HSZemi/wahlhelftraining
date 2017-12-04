@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2429890,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2587218,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.04.1989",
-        "matrikelnummer": 2265899,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "01.07.1999",
+        "matrikelnummer": 2994986,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hoyer",
-        "plzort": "53201 Bonn",
+        "nachname": "Reich",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Gartenstra\u00dfe 9",
+        "strasse": "Axerweg 14",
         "studienfaecher": [
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 1
+            },
             {
                 "abschluss": "Bachelor of Science",
                 "fach": "Psychologie",
-                "fsem": 11
+                "fsem": 8
             }
         ],
-        "vorname": "Helmtraut",
+        "vorname": "Liesel",
         "weiblich": true
     }
 }

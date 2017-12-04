@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2396405,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2134077,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "21.07.1996",
-        "matrikelnummer": 14470,
+        "geburtsdatum": "24.04.1995",
+        "matrikelnummer": 16525,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wulff",
-        "plzort": "53132 Bonn",
+        "nachname": "J\u00fcnger",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Zwergenstieg 0",
+        "strasse": "Maria-Cebotari-Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
                 "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Hermfried",
-        "weiblich": false
+        "vorname": "Gertraude",
+        "weiblich": true
     }
 }

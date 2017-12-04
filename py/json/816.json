@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2393026,
+    "nummer": 1683992,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "19.06.1998",
-        "matrikelnummer": 2831534,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "10.05.1992",
+        "matrikelnummer": 1950828,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfennig",
-        "plzort": "53184 Bonn",
+        "nachname": "Grenz",
+        "plzort": "46359 Heiden",
         "sternchen": 0,
-        "strasse": "Cunostra\u00dfe 10",
+        "strasse": "Am Birkenbuckel 1",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             }
         ],
-        "vorname": "Urban",
-        "weiblich": false
+        "vorname": "Dietlinde",
+        "weiblich": true
     }
 }

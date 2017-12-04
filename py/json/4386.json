@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2704433,
+    "nummer": 2298985,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.07.1997",
-        "matrikelnummer": 2057437,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "08.04.1994",
+        "matrikelnummer": 2188666,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6ft",
-        "plzort": "53121 Bonn",
+        "nachname": "Schlenker",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Zille-Stra\u00dfe 0",
+        "strasse": "Rosengasse 32",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Molekulare Biomedizin",
-                "fsem": 2
+                "fach": "Psychologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Indologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Ottilia",
-        "weiblich": true
+        "vorname": "Knuth",
+        "weiblich": false
     }
 }

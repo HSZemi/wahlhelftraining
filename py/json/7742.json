@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2908233,
+    "nummer": 1101037,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "20.05.1986",
-        "matrikelnummer": 2189779,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "03.02.1987",
+        "matrikelnummer": 1928558,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Marschner",
-        "plzort": "53120 Bonn",
+        "nachname": "Greulich",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Im Pr\u00fcfling 51",
+        "strasse": "Volkmanns Weg 4",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 3
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Helen",
-        "weiblich": true
+        "vorname": "Helmfried",
+        "weiblich": false
     }
 }

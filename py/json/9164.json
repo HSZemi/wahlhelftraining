@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2681441,
+    "nummer": 2768970,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.04.1999",
-        "matrikelnummer": 2384014,
+        "fakultaet": 5,
+        "geburtsdatum": "21.03.1999",
+        "matrikelnummer": 2539174,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nitz",
-        "plzort": "27729 L\u00fcbberstedt",
+        "nachname": "Meurer",
+        "plzort": "09131 Chemnitz",
         "sternchen": 0,
-        "strasse": "Wilhelminenstra\u00dfe 3",
+        "strasse": "Steeger Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Neurowissenschaften",
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 7
             }
         ],
-        "vorname": "Gesa",
-        "weiblich": true
+        "vorname": "Torben",
+        "weiblich": false
     }
 }

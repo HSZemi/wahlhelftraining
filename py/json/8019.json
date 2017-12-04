@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2824483,
+    "nummer": 1380635,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.06.1994",
-        "matrikelnummer": 2427432,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "28.09.1996",
+        "matrikelnummer": 2769386,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wessels",
-        "plzort": "53141 Bonn",
+        "nachname": "Kind",
+        "plzort": "33311 G\u00fctersloh",
         "sternchen": 0,
-        "strasse": "Br\u00e4uergasse 5",
+        "strasse": "Moosstr. 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 1
             }
         ],
-        "vorname": "Juliana",
+        "vorname": "Christine",
         "weiblich": true
     }
 }

@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1319925,
+    "nummer": 2557210,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "10.09.1991",
-        "matrikelnummer": 2682855,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "02.01.1995",
+        "matrikelnummer": 15359,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kirschner",
-        "plzort": "53132 Bonn",
+        "nachname": "Kessel",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Schwarmweg 5b",
+        "strasse": "Landwehr 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Carmine",
+        "vorname": "Rathgunde",
         "weiblich": true
     }
 }

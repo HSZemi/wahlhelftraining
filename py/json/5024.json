@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1196147,
+    "nummer": 2567223,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "07.07.1994",
-        "matrikelnummer": 2232843,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "14.11.1999",
+        "matrikelnummer": 2699416,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wenk",
-        "plzort": "53212 Bonn",
+        "nachname": "Knoll",
+        "plzort": "83483 Bischofswiesen",
         "sternchen": 0,
-        "strasse": "Espenstra\u00dfe 7",
+        "strasse": "Am Waldrand 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Unette",
-        "weiblich": true
+        "vorname": "Germar",
+        "weiblich": false
     }
 }

@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1091663,
+    "nummer": 1083982,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.11.1997",
-        "matrikelnummer": 15038,
+        "fakultaet": 5,
+        "geburtsdatum": "23.05.1988",
+        "matrikelnummer": 2416399,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haug",
-        "plzort": "53195 Bonn",
+        "nachname": "Fl\u00fcgel",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Borsigallee 0",
+        "strasse": "Ludwig-Gehm-Weg 16",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
             },
             {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
                 "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
             }
         ],
-        "vorname": "Ignatia",
-        "weiblich": true
+        "vorname": "Rupert",
+        "weiblich": false
     }
 }

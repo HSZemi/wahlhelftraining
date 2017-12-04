@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2482513,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1696444,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.05.1999",
-        "matrikelnummer": 1971734,
+        "fakultaet": 5,
+        "geburtsdatum": "12.02.1994",
+        "matrikelnummer": 2051697,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Rabe",
-        "plzort": "53116 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Krau\u00dfe",
+        "plzort": "19089 Ruthenbeck",
         "sternchen": 0,
-        "strasse": "Rehgartenweg 11c",
+        "strasse": "Am Haidenberg 6",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "fach": "Islamwissenschaft/Nahostsprachen",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Hispanistik",
                 "fsem": 12
             }
         ],
-        "vorname": "Helmut",
+        "vorname": "Alhard",
         "weiblich": false
     }
 }

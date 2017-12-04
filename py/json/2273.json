@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1397775,
+    "nummer": 1827044,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.01.1990",
-        "matrikelnummer": 2649392,
+        "fakultaet": 6,
+        "geburtsdatum": "07.06.1997",
+        "matrikelnummer": 15473,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Haupt",
-        "plzort": "79733 G\u00f6rwihl",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Heidemann",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Bebraer Stra\u00dfe 7",
+        "strasse": "Moreauweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
             }
         ],
-        "vorname": "Margret",
+        "vorname": "Daniela",
         "weiblich": true
     }
 }

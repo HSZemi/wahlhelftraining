@@ -4,38 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2258050,
+    "nummer": 2387466,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "24.09.1999",
-        "matrikelnummer": 2565259,
+        "geburtsdatum": "15.06.1994",
+        "matrikelnummer": 12514,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langenbach",
-        "plzort": "90403 N\u00fcrnberg",
+        "nachname": "Kirschbaum",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Philipp-Schnell-Stra\u00dfe 13d",
+        "strasse": "In der Warth 10",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Philosophie",
-                "fsem": 5
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 7
             },
             {
                 "abschluss": "",
-                "fach": "Informatik",
-                "fsem": 5
+                "fach": "Griechisch",
+                "fsem": 7
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "fsem": 7
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Hildegardt",
-        "weiblich": true
+        "vorname": "Volkhard",
+        "weiblich": false
     }
 }

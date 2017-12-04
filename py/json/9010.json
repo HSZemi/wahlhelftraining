@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1549001,
+    "nummer": 2884660,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "03.06.1999",
-        "matrikelnummer": 2962619,
+        "fakultaet": 5,
+        "geburtsdatum": "01.06.1999",
+        "matrikelnummer": 3128251,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schuhmann",
-        "plzort": "39624 Kakerbeck",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hillebrand",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Dahlienweg 12",
+        "strasse": "Martin-Luther-Stra\u00dfe 9",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
+                "fach": "Tibetologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Medienkommunikation",
                 "fsem": 5
             }
         ],
-        "vorname": "Undine",
-        "weiblich": true
+        "vorname": "Benedikt",
+        "weiblich": false
     }
 }

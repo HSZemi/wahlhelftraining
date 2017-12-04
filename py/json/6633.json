@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2923589,
+    "nummer": 2278015,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "22.01.1997",
-        "matrikelnummer": 2800873,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "27.10.1995",
+        "matrikelnummer": 2256074,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nolden",
-        "plzort": "53220 Bonn",
+        "nachname": "Thiede",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Arno-Schellenberg-Stra\u00dfe 2",
+        "strasse": "Langenauer Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Krimhild",
-        "weiblich": true
+        "vorname": "Cersten",
+        "weiblich": false
     }
 }

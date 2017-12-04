@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1042411,
+    "nummer": 1197585,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "02.09.1993",
-        "matrikelnummer": 3161408,
+        "fakultaet": 3,
+        "geburtsdatum": "22.04.1997",
+        "matrikelnummer": 130966,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "W\u00f6lk",
-        "plzort": "53165 Bonn",
+        "nachname": "Schoch",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Weckmarkt 9",
+        "strasse": "L\u00fcneburger Schanze 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
                 "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 12
             }
         ],
-        "vorname": "Ehrenreich",
+        "vorname": "Sven",
         "weiblich": false
     }
 }

@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1325886,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2401092,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.03.1992",
-        "matrikelnummer": 2127405,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 9,
+        "geburtsdatum": "08.12.1990",
+        "matrikelnummer": 2151593,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eilers",
-        "plzort": "73547 Lorch",
+        "nachname": "Fleischer",
+        "plzort": "35614 A\u00dflar",
         "sternchen": 0,
-        "strasse": "Zur Eiche 8",
+        "strasse": "Tzschimmerstra\u00dfe 29",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 7
             }
         ],
-        "vorname": "Brigitta",
+        "vorname": "Carolina",
         "weiblich": true
     }
 }

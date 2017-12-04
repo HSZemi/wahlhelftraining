@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1420540,
+    "nummer": 1165640,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "21.12.1994",
-        "matrikelnummer": 2794055,
+        "fakultaet": 2,
+        "geburtsdatum": "17.10.1991",
+        "matrikelnummer": 3065205,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schramm",
-        "plzort": "53199 Bonn",
+        "nachname": "Sacher",
+        "plzort": "29352 Adelheidsdorf",
         "sternchen": 0,
-        "strasse": "Ewaldsweg 2",
+        "strasse": "Bessemerstra\u00dfe 28",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Katholische Religionslehre",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Anneluise",
-        "weiblich": true
+        "vorname": "Karlgeorg",
+        "weiblich": false
     }
 }

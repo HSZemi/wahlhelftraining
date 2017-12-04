@@ -4,25 +4,30 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2445982,
+    "nummer": 1855022,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.02.1992",
-        "matrikelnummer": 2949128,
+        "fakultaet": 5,
+        "geburtsdatum": "20.12.1997",
+        "matrikelnummer": 136989,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
+        "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "03053 Cottbus",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Binsenweg 5",
+        "strasse": "Weilbrunnstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 8
             }
         ],
         "vorname": "Sven",

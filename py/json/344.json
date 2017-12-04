@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1652954,
+    "nummer": 1689896,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.05.1994",
-        "matrikelnummer": 3166159,
+        "fakultaet": 3,
+        "geburtsdatum": "18.12.1988",
+        "matrikelnummer": 3157183,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53124 Bonn",
+        "nachname": "Heinen",
+        "plzort": "73450 Neresheim",
         "sternchen": 0,
-        "strasse": "Dreik\u00f6nigstra\u00dfe 7",
+        "strasse": "Hofackerstra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 2
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 6
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2798417,
+    "nummer": 2127920,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "04.01.1998",
-        "matrikelnummer": 2705555,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "26.06.1996",
+        "matrikelnummer": 2734557,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stoll",
-        "plzort": "53221 Bonn",
+        "nachname": "Kelm",
+        "plzort": "72459 Albstadt",
         "sternchen": 0,
-        "strasse": "Barteldesplatz 27",
+        "strasse": "Fischadlerstieg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Edmar",
+        "vorname": "Guntram",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1512940,
+    "nummer": 1855068,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.04.1996",
-        "matrikelnummer": 138532,
+        "fakultaet": 4,
+        "geburtsdatum": "11.12.1991",
+        "matrikelnummer": 2569787,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fellner",
-        "plzort": "53227 Bonn",
+        "nachname": "Ostermeier",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Brau\u00dfpark 8",
+        "strasse": "Beethovenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 6
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 9
             }
         ],
-        "vorname": "Chris",
+        "vorname": "Frank",
         "weiblich": false
     }
 }

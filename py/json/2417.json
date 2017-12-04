@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2240147,
+    "nummer": 2473653,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.07.1999",
-        "matrikelnummer": 2891775,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "10.06.1991",
+        "matrikelnummer": 2317076,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hofbauer",
-        "plzort": "03238 Eichholz-Dr\u00f6\u00dfig",
+        "nachname": "Berner",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfr\u00f6hrsdorfer Stra\u00dfe 19",
+        "strasse": "Theodor-Fontane-Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Angelique",
+        "vorname": "Hildegund",
         "weiblich": true
     }
 }

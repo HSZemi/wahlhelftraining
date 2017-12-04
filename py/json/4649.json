@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2390086,
+    "nummer": 1652706,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "05.01.1987",
-        "matrikelnummer": 2575814,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "01.02.1994",
+        "matrikelnummer": 2189931,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schiefer",
-        "plzort": "97514 Oberaurach",
+        "nachname": "Groh",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Maille-Bahn 1",
+        "strasse": "Bendergasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Klassische Arch\u00e4ologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Theodor",
+        "vorname": "Volkart",
         "weiblich": false
     }
 }

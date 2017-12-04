@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1913366,
+    "nummer": 1827482,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "07.04.1992",
-        "matrikelnummer": 3000681,
+        "fakultaet": 4,
+        "geburtsdatum": "14.07.1999",
+        "matrikelnummer": 3105571,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Escher",
+        "nachname": "Kupka",
         "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Schmilkaer Stra\u00dfe 0",
+        "strasse": "Porgesring 6",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 10
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
+                "fach": "Katholische Theologie",
                 "fsem": 2
             }
         ],
-        "vorname": "Heidemarie",
-        "weiblich": true
+        "vorname": "Diethard",
+        "weiblich": false
     }
 }

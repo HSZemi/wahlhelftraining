@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1554121,
+    "nummer": 2641457,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "22.09.1997",
-        "matrikelnummer": 2925923,
+        "fakultaet": 4,
+        "geburtsdatum": "19.05.1993",
+        "matrikelnummer": 13770,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ziemann",
-        "plzort": "53125 Bonn",
+        "nachname": "Reitz",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "G\u00e4rtnerstra\u00dfe 0",
+        "strasse": "Lamboystra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Stella",
-        "weiblich": true
+        "vorname": "Mathias",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2935516,
+    "nummer": 1385376,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "03.04.1997",
-        "matrikelnummer": 3047789,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 6,
+        "geburtsdatum": "02.07.1995",
+        "matrikelnummer": 2814945,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinle",
-        "plzort": "53218 Bonn",
+        "nachname": "F\u00fchrer",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Ferdinand-Kramer-Stra\u00dfe 13",
+        "strasse": "Minenstra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Annelies",
-        "weiblich": true
+        "vorname": "Dierk",
+        "weiblich": false
     }
 }

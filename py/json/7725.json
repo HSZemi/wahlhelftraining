@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2818033,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1634094,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "18.04.1999",
-        "matrikelnummer": 2865383,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "12.02.1999",
+        "matrikelnummer": 2942907,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bamberger",
-        "plzort": "53221 Bonn",
+        "nachname": "Dittmer",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Edelstr. 3",
+        "strasse": "Georg-Wolff-Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 8
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Elgard",
+        "vorname": "Berit",
         "weiblich": true
     }
 }

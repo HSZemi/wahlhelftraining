@@ -4,43 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2178908,
+    "nummer": 2030306,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "17.09.1995",
-        "matrikelnummer": 2928933,
+        "fakultaet": 1,
+        "geburtsdatum": "13.12.1996",
+        "matrikelnummer": 1929244,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gaiser",
-        "plzort": "53147 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hermanns",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Reichsforststra\u00dfe 41",
+        "strasse": "Mitterteicher Str. 13",
         "studienfaecher": [
             {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 10
+            },
+            {
                 "abschluss": "LA MA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 12
+                "fach": "Sozialwissenschaften",
+                "fsem": 7
             },
             {
                 "abschluss": "",
-                "fach": "Mathematik",
-                "fsem": 12
+                "fach": "Griechisch",
+                "fsem": 7
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 11
+                "fsem": 7
             }
         ],
-        "vorname": "Rainmund",
-        "weiblich": false
+        "vorname": "Rauthgundis",
+        "weiblich": true
     }
 }

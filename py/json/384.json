@@ -4,24 +4,34 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2879236,
+    "nummer": 2502001,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "21.09.1990",
-        "matrikelnummer": 2317535,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "21.10.1999",
+        "matrikelnummer": 2440213,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
+        "mitglied_studierendenschaft": false,
         "nachname": "Heinen",
-        "plzort": "53125 Bonn",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Dunantstr. 12",
+        "strasse": "Kasinostra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 3
             }
         ],

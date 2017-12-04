@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1905708,
+    "nummer": 1874298,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.06.1987",
-        "matrikelnummer": 2078203,
+        "fakultaet": 6,
+        "geburtsdatum": "22.05.1992",
+        "matrikelnummer": 2284038,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heyne",
-        "plzort": "24887 Silberstedt",
+        "nachname": "Mager",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Katzenpforte 13",
+        "strasse": "Wellengasse 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Wladislaus",
+        "vorname": "Heimbert",
         "weiblich": false
     }
 }

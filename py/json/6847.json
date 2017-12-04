@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2991276,
+    "nummer": 2611182,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "04.06.1990",
-        "matrikelnummer": 2209741,
+        "fakultaet": 9,
+        "geburtsdatum": "22.06.1992",
+        "matrikelnummer": 151559,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fischbach",
-        "plzort": "23730 Schashagen",
+        "nachname": "Richter",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "W\u00fcllnerstra\u00dfe 28",
+        "strasse": "Kamelienweg 17",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Reinwald",
-        "weiblich": false
+        "vorname": "Goldine",
+        "weiblich": true
     }
 }

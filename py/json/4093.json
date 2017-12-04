@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1714278,
+    "nummer": 2222059,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.04.1991",
-        "matrikelnummer": 2857389,
+        "fakultaet": 8,
+        "geburtsdatum": "04.05.1995",
+        "matrikelnummer": 187414,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Joseph",
-        "plzort": "53152 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sch\u00fcrer",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Karcherallee 8",
+        "strasse": "Eisgrube 17",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 4
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Birgid",
+        "vorname": "Sinaida",
         "weiblich": true
     }
 }

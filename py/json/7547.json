@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2421498,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1316758,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "22.07.1994",
-        "matrikelnummer": 126903,
+        "fakultaet": 4,
+        "geburtsdatum": "13.08.1992",
+        "matrikelnummer": 14649,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fchner",
-        "plzort": "53187 Bonn",
+        "nachname": "Hecker",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Stauffenbergallee 0",
+        "strasse": "Offenbacher Landstra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 12
             }
         ],
-        "vorname": "Constantin",
-        "weiblich": false
+        "vorname": "Friderika",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2535547,
-    "semester": "Sommersemester 2017",
+    "nummer": 1682418,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.01.1989",
-        "matrikelnummer": 175565,
+        "fakultaet": 2,
+        "geburtsdatum": "20.07.1999",
+        "matrikelnummer": 2802798,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brugger",
-        "plzort": "53186 Bonn",
+        "nachname": "Westhoff",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Berger Marktplatz 13",
+        "strasse": "Im Trierischen Hof 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Dorith",
-        "weiblich": true
+        "vorname": "Sigurd",
+        "weiblich": false
     }
 }

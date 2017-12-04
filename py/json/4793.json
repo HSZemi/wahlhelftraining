@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2347358,
+    "nummer": 2747732,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.08.1993",
-        "matrikelnummer": 2294167,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "27.03.1998",
+        "matrikelnummer": 2354770,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sperling",
-        "plzort": "53203 Bonn",
+        "nachname": "Schr\u00f6der",
+        "plzort": "53572 Unkel",
         "sternchen": 0,
-        "strasse": "Abtsg\u00e4\u00dfchen 3",
+        "strasse": "Am Gr\u00fcng\u00fcrtel 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Gerdhilde",
+        "vorname": "Lena",
         "weiblich": true
     }
 }

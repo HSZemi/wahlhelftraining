@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1776596,
+    "nummer": 2155779,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.01.1995",
-        "matrikelnummer": 2032699,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "09.01.1989",
+        "matrikelnummer": 2238265,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Emmert",
-        "plzort": "53179 Bonn",
+        "nachname": "Harms",
+        "plzort": "89441 Medlingen",
         "sternchen": 0,
-        "strasse": "Klotzscher Berglehne 1",
+        "strasse": "Audorfring 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Danny",
+        "vorname": "Friedmar",
         "weiblich": false
     }
 }

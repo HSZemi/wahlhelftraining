@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1186409,
+    "nummer": 1925505,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "12.12.1989",
-        "matrikelnummer": 143899,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "22.11.1992",
+        "matrikelnummer": 180604,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Janssen",
-        "plzort": "53224 Bonn",
+        "nachname": "Thimm",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Adilostr. 3",
+        "strasse": "J\u00fcngststra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
                 "fsem": 12
             }
         ],
-        "vorname": "Irina",
-        "weiblich": true
+        "vorname": "Wilmut",
+        "weiblich": false
     }
 }

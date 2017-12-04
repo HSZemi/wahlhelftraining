@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2220125,
+    "nummer": 1353644,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "02.06.1988",
-        "matrikelnummer": 2775911,
+        "geburtsdatum": "08.03.1989",
+        "matrikelnummer": 2204706,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Weirich",
-        "plzort": "53141 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Brunke",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Heckenstra\u00dfe 3d",
+        "strasse": "Am Hellerhof 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Molekulare Biomedizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
             }
         ],
-        "vorname": "G\u00f6n\u00fcl",
-        "weiblich": true
+        "vorname": "Meinrad",
+        "weiblich": false
     }
 }

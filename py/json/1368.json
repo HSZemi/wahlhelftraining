@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2987287,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1548868,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.02.1996",
-        "matrikelnummer": 2094650,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "26.04.1994",
+        "matrikelnummer": 2830235,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kraft",
-        "plzort": "53205 Bonn",
+        "nachname": "Birkholz",
+        "plzort": "79215 Biederbach",
         "sternchen": 0,
-        "strasse": "Matisseweg 2",
+        "strasse": "Hantzschstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Fatma",
+        "vorname": "Marion",
         "weiblich": true
     }
 }

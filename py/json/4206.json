@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2286109,
+    "nummer": 1460345,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "09.05.1998",
-        "matrikelnummer": 2316238,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "17.12.1989",
+        "matrikelnummer": 2799056,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lipp",
-        "plzort": "53222 Bonn",
+        "nachname": "Flohr",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Kaspar-Siemers-Weg 6",
+        "strasse": "Br\u00fchlsche Gasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Hermi",
-        "weiblich": true
+        "vorname": "Medardus",
+        "weiblich": false
     }
 }

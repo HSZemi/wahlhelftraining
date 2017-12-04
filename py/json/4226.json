@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1324904,
+    "nummer": 2824964,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "16.07.1990",
-        "matrikelnummer": 2135014,
+        "fakultaet": 5,
+        "geburtsdatum": "02.10.1990",
+        "matrikelnummer": 3097198,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Piontek",
-        "plzort": "53131 Bonn",
+        "nachname": "Jeschke",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Altenburger Weg 1",
+        "strasse": "Ferdinand-Schrey-Weg 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Malve",
-        "weiblich": true
+        "vorname": "Heintje",
+        "weiblich": false
     }
 }

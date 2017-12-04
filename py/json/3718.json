@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2214768,
+    "nummer": 2997320,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.03.1992",
-        "matrikelnummer": 18842,
+        "fakultaet": 6,
+        "geburtsdatum": "10.11.1990",
+        "matrikelnummer": 2435176,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stingl",
-        "plzort": "53178 Bonn",
+        "nachname": "Kothe",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Dillenburger Stra\u00dfe 33",
+        "strasse": "D\u00e4umlingtwiete 0",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Philosophie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Katholische Religionslehre",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Geography of Environmental Risks and Human Security",
                 "fsem": 8
             }
         ],
-        "vorname": "Brandolf",
+        "vorname": "Albert",
         "weiblich": false
     }
 }

@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2872394,
+    "nummer": 2802376,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.10.1995",
-        "matrikelnummer": 2559532,
+        "fakultaet": 4,
+        "geburtsdatum": "05.10.1999",
+        "matrikelnummer": 2002233,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Orth",
-        "plzort": "53203 Bonn",
+        "nachname": "Knabe",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Sterl-Stra\u00dfe 17",
+        "strasse": "Heimgarten 0",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 1
+                "fach": "Klinische Medizintechnik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 13
             }
         ],
-        "vorname": "Kaspar",
-        "weiblich": false
+        "vorname": "Resel",
+        "weiblich": true
     }
 }

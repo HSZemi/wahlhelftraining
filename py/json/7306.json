@@ -1,41 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2503505,
+    "nummer": 1939826,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "16.06.1994",
-        "matrikelnummer": 14388,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 9,
+        "geburtsdatum": "16.08.1989",
+        "matrikelnummer": 2756886,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfeifer",
-        "plzort": "53225 Bonn",
+        "nachname": "Henkel",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Steinbeker Markt 23",
+        "strasse": "Schl\u00fcsselblumenweg 9",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 10
             },
             {
                 "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 13
+                "fach": "Informatik",
+                "fsem": 10
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "fsem": 10
             }
         ],
-        "vorname": "Laura",
+        "vorname": "Jolante",
         "weiblich": true
     }
 }

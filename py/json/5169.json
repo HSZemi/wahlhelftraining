@@ -1,46 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1631187,
+    "nummer": 1642632,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.05.1993",
-        "matrikelnummer": 197263,
+        "fakultaet": 5,
+        "geburtsdatum": "27.06.1992",
+        "matrikelnummer": 16105,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brucker",
-        "plzort": "53160 Bonn",
+        "nachname": "Mundt",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Hardenbergstra\u00dfe 11",
+        "strasse": "Gret-Palucca-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             },
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Englisch",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Biologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Marc",
+        "vorname": "Herko",
         "weiblich": false
     }
 }

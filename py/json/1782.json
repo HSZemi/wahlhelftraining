@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1843316,
+    "nummer": 2088984,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "14.02.1995",
-        "matrikelnummer": 2755999,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "21.09.1990",
+        "matrikelnummer": 2245267,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Plum",
-        "plzort": "53226 Bonn",
+        "nachname": "Jobst",
+        "plzort": "69437 Neckargerach",
         "sternchen": 0,
-        "strasse": "Neubaugasse 6e",
+        "strasse": "Theaterstra\u00dfe 7c",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Geophysik",
+                "fsem": 1
             }
         ],
-        "vorname": "Jobst",
+        "vorname": "Mayk",
         "weiblich": false
     }
 }

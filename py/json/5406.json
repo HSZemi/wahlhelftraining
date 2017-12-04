@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1158654,
+    "nummer": 1916129,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.11.1991",
-        "matrikelnummer": 2608326,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "17.11.1987",
+        "matrikelnummer": 3152677,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Boy",
-        "plzort": "53133 Bonn",
+        "nachname": "Eckert",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Schwanenwik 1b",
+        "strasse": "K\u00f6lner Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Tibetologie",
-                "fsem": 4
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
-                "fsem": 5
+                "fach": "Life Science Informatics",
+                "fsem": 8
             }
         ],
-        "vorname": "Franzi",
+        "vorname": "Inna",
         "weiblich": true
     }
 }

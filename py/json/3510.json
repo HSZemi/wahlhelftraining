@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2484564,
+    "nummer": 1908347,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.11.1994",
-        "matrikelnummer": 2295792,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "11.05.1992",
+        "matrikelnummer": 14136,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Erler",
-        "plzort": "53161 Bonn",
+        "nachname": "Marschall",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Adolph-von-Holzhausen-Park 6",
+        "strasse": "Gottfried Kumpfgasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Mathematik",
-                "fsem": 4
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 2
             }
         ],
-        "vorname": "Ortmund",
+        "vorname": "Wendelin",
         "weiblich": false
     }
 }

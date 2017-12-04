@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2433772,
+    "nummer": 1418837,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "02.12.1988",
-        "matrikelnummer": 11372,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "15.11.1987",
+        "matrikelnummer": 18061,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00e4tzle",
-        "plzort": "53207 Bonn",
+        "nachname": "B\u00f6cker",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Planstra\u00dfe 4",
+        "strasse": "Lugbergblick 5",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 1
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Helena",
-        "weiblich": true
+        "vorname": "Reinold",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2645840,
+    "nummer": 2485617,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "26.08.1993",
-        "matrikelnummer": 137378,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "15.10.1990",
+        "matrikelnummer": 1902097,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stumpe",
-        "plzort": "53142 Bonn",
+        "nachname": "Siegert",
+        "plzort": "67166 Otterstadt",
         "sternchen": 0,
-        "strasse": "Mastenweg 14",
+        "strasse": "Br\u00fcckhofstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Magister Theologiae (kath.)",
                 "fach": "Katholische Theologie",
-                "fsem": 8
+                "fsem": 1
             }
         ],
-        "vorname": "Helwig",
-        "weiblich": false
+        "vorname": "Resi",
+        "weiblich": true
     }
 }

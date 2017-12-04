@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1595697,
+    "nummer": 1121010,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "03.03.1995",
-        "matrikelnummer": 3013424,
+        "fakultaet": 8,
+        "geburtsdatum": "02.01.1996",
+        "matrikelnummer": 2689261,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Pl\u00f6tz",
-        "plzort": "53228 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Strunk",
+        "plzort": "76829 Ranschbach",
         "sternchen": 0,
-        "strasse": "An der B\u00f6schung 8",
+        "strasse": "Robert-Koch-Stra\u00dfe 26e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Latein",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Heinzkarl",
+        "vorname": "Humbert",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1875367,
+    "nummer": 1577795,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "09.02.1991",
-        "matrikelnummer": 2350139,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "26.02.1998",
+        "matrikelnummer": 2621865,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bohl",
-        "plzort": "53158 Bonn",
+        "nachname": "Bertsch",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Uhlenhorster Weg 13",
+        "strasse": "Br\u00fcckhofstra\u00dfe 40",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Sieghart",
-        "weiblich": false
+        "vorname": "Meta",
+        "weiblich": true
     }
 }

@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1598359,
+    "nummer": 1412063,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.09.1999",
-        "matrikelnummer": 3040942,
+        "fakultaet": 0,
+        "geburtsdatum": "01.07.1993",
+        "matrikelnummer": 2348380,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bieber",
-        "plzort": "53192 Bonn",
+        "nachname": "Langenbach",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Klubenspiesweg 8",
+        "strasse": "Hofwiesenstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 3
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 5
             },
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 13
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Valeria",
-        "weiblich": true
+        "vorname": "Otthard",
+        "weiblich": false
     }
 }

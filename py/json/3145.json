@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1668476,
+    "nummer": 2105914,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "02.02.1988",
-        "matrikelnummer": 2986820,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Leis",
-        "plzort": "53123 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "07.12.1999",
+        "matrikelnummer": 14642,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Riehl",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Deutschherrnufer 7",
+        "strasse": "Neuerbstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Hispanistik",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Kunstgeschichte",
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
                 "fsem": 7
             }
         ],
-        "vorname": "Vincenz",
+        "vorname": "Irmfried",
         "weiblich": false
     }
 }

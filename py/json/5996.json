@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1013054,
+    "nummer": 1976371,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.07.1993",
-        "matrikelnummer": 14761,
+        "fakultaet": 2,
+        "geburtsdatum": "04.10.1996",
+        "matrikelnummer": 2730843,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Meusel",
-        "plzort": "53175 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Scheidt",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Stadtblick 10",
+        "strasse": "K\u00f6nigsdamm 1",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Gernod",
+        "vorname": "Siegbert",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2337498,
+    "nummer": 1036756,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "08.07.1999",
-        "matrikelnummer": 126192,
+        "fakultaet": 6,
+        "geburtsdatum": "27.03.1988",
+        "matrikelnummer": 18639,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seemann",
-        "plzort": "53214 Bonn",
+        "nachname": "Rasch",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Weide 6",
+        "strasse": "K\u00f6hlerstr. 16",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 9
+                "fach": "Computational Life Sciences",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Nathalie",
-        "weiblich": true
+        "vorname": "Erdfried",
+        "weiblich": false
     }
 }

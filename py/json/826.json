@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2849858,
+    "nummer": 1076552,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "09.08.1999",
-        "matrikelnummer": 2961447,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "19.02.1991",
+        "matrikelnummer": 1941509,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Claus",
-        "plzort": "53134 Bonn",
+        "nachname": "Busch",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Beim Berliner Tor 0c",
+        "strasse": "S\u00fcdring 19",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Reimo",
-        "weiblich": false
+        "vorname": "Gundemarie",
+        "weiblich": true
     }
 }

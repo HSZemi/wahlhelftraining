@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1628005,
+    "nummer": 1711069,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "24.10.1994",
-        "matrikelnummer": 2169769,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "11.10.1994",
+        "matrikelnummer": 1930958,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwarzer",
-        "plzort": "53206 Bonn",
+        "nachname": "Stehr",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Jahnstra\u00dfe 6",
+        "strasse": "Hermann-Brill-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Albine",
-        "weiblich": true
+        "vorname": "Hansjochen",
+        "weiblich": false
     }
 }

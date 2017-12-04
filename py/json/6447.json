@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1985031,
+    "nummer": 1160473,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.10.1990",
-        "matrikelnummer": 2058136,
+        "fakultaet": 4,
+        "geburtsdatum": "23.10.1990",
+        "matrikelnummer": 123659,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Danner",
-        "plzort": "98673 Eisfeld",
+        "nachname": "Pfl\u00fcger",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Lattenkampstieg 7a",
+        "strasse": "An der Stadtmauer 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
-                "fsem": 2
+                "fach": "Neurosciences",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Agricultural and Food Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Hartmund",
-        "weiblich": false
+        "vorname": "Lenore",
+        "weiblich": true
     }
 }

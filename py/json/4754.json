@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1996950,
+    "nummer": 2792589,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "07.04.1993",
-        "matrikelnummer": 2750548,
+        "geburtsdatum": "26.05.1997",
+        "matrikelnummer": 2442736,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schiefer",
-        "plzort": "53209 Bonn",
+        "nachname": "Borchardt",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Josef-Eicher-Stra\u00dfe 1",
+        "strasse": "Anzengruberstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 8
+                "fach": "Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Trudi",
-        "weiblich": true
+        "vorname": "Sigwart",
+        "weiblich": false
     }
 }

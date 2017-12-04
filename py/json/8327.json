@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2552917,
+    "nummer": 2337667,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "18.07.1985",
-        "matrikelnummer": 2513703,
+        "fakultaet": 1,
+        "geburtsdatum": "23.03.1995",
+        "matrikelnummer": 2232539,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kohn",
-        "plzort": "53200 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Lotz",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Lucaestra\u00dfe 8",
+        "strasse": "Rayskistra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Brigitte",
+        "vorname": "Marisa",
         "weiblich": true
     }
 }

@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1137841,
+    "nummer": 2818380,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.10.1995",
-        "matrikelnummer": 2339636,
+        "fakultaet": 9,
+        "geburtsdatum": "20.03.1999",
+        "matrikelnummer": 3132810,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klingbeil",
-        "plzort": "53148 Bonn",
+        "nachname": "Schnurr",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Franziska-Kessel-Stra\u00dfe 4",
+        "strasse": "Zehntgasse 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 5
             }
         ],
-        "vorname": "Adriana",
-        "weiblich": true
+        "vorname": "Hilmar",
+        "weiblich": false
     }
 }

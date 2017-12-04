@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1503069,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2261714,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "11.03.1994",
-        "matrikelnummer": 2090186,
+        "fakultaet": 1,
+        "geburtsdatum": "09.01.1999",
+        "matrikelnummer": 2556752,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfeifer",
-        "plzort": "53134 Bonn",
+        "nachname": "K\u00fchnert",
+        "plzort": "06193 K\u00fctten",
         "sternchen": 0,
-        "strasse": "Matisseweg 1",
+        "strasse": "Theodorstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "T\u00fclay",
-        "weiblich": true
+        "vorname": "Freimund",
+        "weiblich": false
     }
 }

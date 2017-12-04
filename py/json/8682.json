@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2150260,
+    "nummer": 2191993,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 1,
-        "geburtsdatum": "09.06.1990",
-        "matrikelnummer": 2375119,
+        "geburtsdatum": "20.08.1985",
+        "matrikelnummer": 2217603,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Unger",
-        "plzort": "53218 Bonn",
+        "nachname": "Stotz",
+        "plzort": "24635 Daldorf",
         "sternchen": 0,
-        "strasse": "Leutewitzer Ring 5",
+        "strasse": "Trimbergstr. 0",
         "studienfaecher": [
             {
                 "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 10
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 11
             }
         ],
-        "vorname": "Britta",
-        "weiblich": true
+        "vorname": "Swen",
+        "weiblich": false
     }
 }

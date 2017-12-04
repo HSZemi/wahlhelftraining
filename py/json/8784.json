@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2529438,
+    "nummer": 1499910,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "17.12.1999",
-        "matrikelnummer": 16664,
+        "fakultaet": 0,
+        "geburtsdatum": "03.05.1992",
+        "matrikelnummer": 3131244,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lang",
-        "plzort": "53198 Bonn",
+        "nachname": "Wahl",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Kreuzerhohl 3",
+        "strasse": "An der Staufenmauer 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 5
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Margitte",
-        "weiblich": true
+        "vorname": "Fidelius",
+        "weiblich": false
     }
 }

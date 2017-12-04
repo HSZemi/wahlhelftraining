@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1115142,
+    "nummer": 1917668,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.09.1999",
-        "matrikelnummer": 2857953,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "02.01.1990",
+        "matrikelnummer": 2091603,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Born",
-        "plzort": "53132 Bonn",
+        "nachname": "Kahle",
+        "plzort": "04932 Gro\u00dfthiemig",
         "sternchen": 0,
-        "strasse": "Lichtenbergweg 11",
+        "strasse": "Kastanienstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Soziologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Alfhard",
-        "weiblich": false
+        "vorname": "Amrei",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1231306,
+    "nummer": 2421538,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.05.1990",
-        "matrikelnummer": 2512453,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "09.12.1986",
+        "matrikelnummer": 2909308,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmidl",
-        "plzort": "53115 Bonn",
+        "nachname": "Klos",
+        "plzort": "54317 Riveris",
         "sternchen": 0,
-        "strasse": "Hildesheimer Stra\u00dfe 10",
+        "strasse": "Schweizstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Geophysik",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 2
+                "fach": "Allgemeine Sprachwissenschaft",
+                "fsem": 13
             }
         ],
-        "vorname": "Hardo",
-        "weiblich": false
+        "vorname": "Valentine",
+        "weiblich": true
     }
 }

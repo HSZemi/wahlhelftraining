@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2344446,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2608594,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.05.1997",
-        "matrikelnummer": 2444688,
+        "fakultaet": 3,
+        "geburtsdatum": "05.10.1994",
+        "matrikelnummer": 13889,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fuchs",
-        "plzort": "72417 Jungingen",
+        "nachname": "Hackbarth",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-Bethe-Stra\u00dfe 6",
+        "strasse": "Am Stausee 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Arndt",
+        "vorname": "Gertmund",
         "weiblich": false
     }
 }

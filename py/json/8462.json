@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1075067,
+    "nummer": 1833375,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "18.03.1997",
-        "matrikelnummer": 2994673,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "23.11.1995",
+        "matrikelnummer": 112606,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heyer",
-        "plzort": "53124 Bonn",
+        "nachname": "Klier",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Wolfsgasse 6",
+        "strasse": "Hellersiedlung Weg B 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
                 "fsem": 6
             }
         ],
-        "vorname": "Philipine",
+        "vorname": "Janine",
         "weiblich": true
     }
 }

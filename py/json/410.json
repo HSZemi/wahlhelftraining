@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2886101,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2957311,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.11.1999",
-        "matrikelnummer": 2333196,
+        "fakultaet": 5,
+        "geburtsdatum": "19.09.1989",
+        "matrikelnummer": 16769,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53115 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Im Ziegelfeld 5",
+        "strasse": "Hertelstieg 8",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Zahnmedizin",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
                 "fsem": 11
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

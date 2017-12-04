@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1505262,
+    "nummer": 2460051,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.11.1993",
-        "matrikelnummer": 3059101,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "14.04.1993",
+        "matrikelnummer": 2086125,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hipp",
-        "plzort": "53120 Bonn",
+        "nachname": "Weigel",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Danziger Weg 2",
+        "strasse": "Geisingstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 11
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Ula",
-        "weiblich": true
+        "vorname": "Nicolas",
+        "weiblich": false
     }
 }

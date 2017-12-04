@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1134686,
+    "nummer": 1527637,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.08.1998",
-        "matrikelnummer": 2014878,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "11.04.1999",
+        "matrikelnummer": 2346434,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wendt",
-        "plzort": "53156 Bonn",
+        "nachname": "Gehlen",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Barchfeldstra\u00dfe 0",
+        "strasse": "Kronengasse 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Reinold",
-        "weiblich": false
+        "vorname": "Marliese",
+        "weiblich": true
     }
 }

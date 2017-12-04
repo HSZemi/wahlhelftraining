@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2473348,
+    "nummer": 1749522,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.06.1997",
-        "matrikelnummer": 3177447,
+        "fakultaet": 8,
+        "geburtsdatum": "27.02.1987",
+        "matrikelnummer": 2642594,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6lzer",
-        "plzort": "08062 Zwickau",
+        "nachname": "Mewes",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlsteinstra\u00dfe 12",
+        "strasse": "Bruckergasse 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 13
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Ingrid",
-        "weiblich": true
+        "vorname": "Lutz",
+        "weiblich": false
     }
 }

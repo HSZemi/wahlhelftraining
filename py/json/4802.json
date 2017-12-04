@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2750899,
+    "nummer": 2422567,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.04.1989",
-        "matrikelnummer": 2464014,
+        "fakultaet": 8,
+        "geburtsdatum": "24.01.1995",
+        "matrikelnummer": 2455754,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6hl",
-        "plzort": "53208 Bonn",
+        "nachname": "Ge\u00dfner",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Eberhardstra\u00dfe 6",
+        "strasse": "Bleicherstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Sonja",
+        "vorname": "Brit",
         "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2427388,
+    "nummer": 2764396,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.08.1993",
-        "matrikelnummer": 2251020,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "18.05.1999",
+        "matrikelnummer": 2465714,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Prell",
-        "plzort": "53217 Bonn",
+        "nachname": "Riemer",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Langenhainer Stra\u00dfe 16c",
+        "strasse": "Stader Stra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Wedig",
+        "vorname": "Lars",
         "weiblich": false
     }
 }

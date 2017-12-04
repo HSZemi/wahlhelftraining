@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2794929,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1998169,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.11.1993",
-        "matrikelnummer": 3092987,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "09.09.1991",
+        "matrikelnummer": 2860553,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Salzmann",
-        "plzort": "75447 Sternenfels",
+        "nachname": "B\u00e4uerle",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Puechbergerstr. 6",
+        "strasse": "Andreas-Schubert-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Vor- u. fr\u00fchgeschichtliche Arch\u00e4ologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 11
             }
         ],
-        "vorname": "Willy",
-        "weiblich": false
+        "vorname": "Gertrudis",
+        "weiblich": true
     }
 }

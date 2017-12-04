@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1362876,
+    "nummer": 2553636,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.11.1999",
-        "matrikelnummer": 3027551,
+        "fakultaet": 1,
+        "geburtsdatum": "26.07.1997",
+        "matrikelnummer": 2971406,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niebuhr",
-        "plzort": "02736 Oppach",
+        "nachname": "Gebauer",
+        "plzort": "27367 Hellwege",
         "sternchen": 0,
-        "strasse": "Altmickten 13",
+        "strasse": "Launitzstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Janette",
+        "vorname": "Gretchen",
         "weiblich": true
     }
 }

@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1656777,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2266226,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.02.1991",
-        "matrikelnummer": 3177513,
+        "fakultaet": 8,
+        "geburtsdatum": "09.10.1991",
+        "matrikelnummer": 2849413,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klaas",
-        "plzort": "53222 Bonn",
+        "nachname": "Kunde",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Bendergasse 11",
+        "strasse": "Buchrainplatz 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Benedicta",
-        "weiblich": true
+        "vorname": "Ulli",
+        "weiblich": false
     }
 }

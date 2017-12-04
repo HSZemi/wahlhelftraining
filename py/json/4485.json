@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1432677,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2203713,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.11.1996",
-        "matrikelnummer": 2937875,
+        "fakultaet": 4,
+        "geburtsdatum": "21.06.1990",
+        "matrikelnummer": 174835,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Knoblauch",
-        "plzort": "53156 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "K\u00f6hne",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Glauchauer Stra\u00dfe 38e",
+        "strasse": "Adlerstra\u00dfe 7",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 10
+            },
+            {
                 "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Herma",
-        "weiblich": true
+        "vorname": "Karsten",
+        "weiblich": false
     }
 }

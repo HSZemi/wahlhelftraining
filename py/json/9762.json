@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2497709,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1471146,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "27.05.1991",
-        "matrikelnummer": 2139642,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "18.02.1989",
+        "matrikelnummer": 1978598,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kastl",
-        "plzort": "53178 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Rentsch",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Meusegaster Stra\u00dfe 4",
+        "strasse": "Plessengasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Germanistik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Hansjochen",
+        "vorname": "Alfinus",
         "weiblich": false
     }
 }

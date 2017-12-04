@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1950280,
+    "nummer": 1398838,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "03.01.1997",
-        "matrikelnummer": 1929076,
+        "geburtsdatum": "28.03.1999",
+        "matrikelnummer": 2226446,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6hl",
-        "plzort": "53162 Bonn",
+        "nachname": "Freudenberg",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Bleichanger 5",
+        "strasse": "Lattenstieg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
+                "abschluss": "Promotion",
+                "fach": "Allgemeine Sprachwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
                 "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Edelwald",
-        "weiblich": false
+        "vorname": "Mechtilde",
+        "weiblich": true
     }
 }

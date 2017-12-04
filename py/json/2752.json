@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1330574,
+    "nummer": 1680759,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "13.11.1998",
-        "matrikelnummer": 2932731,
+        "fakultaet": 5,
+        "geburtsdatum": "20.06.1998",
+        "matrikelnummer": 1938431,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "E\u00dfer",
-        "plzort": "53147 Bonn",
+        "nachname": "Jung",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Kellerskopfweg 3",
+        "strasse": "Wolfsbachweg 4c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
+                "abschluss": "Master of Arts",
+                "fach": "Komparatistik",
                 "fsem": 7
             }
         ],
-        "vorname": "Rosemaria",
+        "vorname": "Ria",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1558791,
+    "nummer": 2773045,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "20.02.1992",
-        "matrikelnummer": 2032090,
+        "geburtsdatum": "25.10.1986",
+        "matrikelnummer": 2119767,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6ll",
-        "plzort": "53218 Bonn",
+        "nachname": "Nowak",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Spitzeberg 6",
+        "strasse": "Herkulesallee 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geographie",
-                "fsem": 5
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 8
             }
         ],
-        "vorname": "Marika",
+        "vorname": "Mariegret",
         "weiblich": true
     }
 }

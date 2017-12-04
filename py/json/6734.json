@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1456788,
+    "nummer": 2173716,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.03.1993",
-        "matrikelnummer": 2374186,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "08.07.1994",
+        "matrikelnummer": 3131508,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thomsen",
-        "plzort": "53154 Bonn",
+        "nachname": "Ehlers",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Dora-Stock-Stra\u00dfe 0",
+        "strasse": "Weiherstr. 29",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Gerald",
+        "vorname": "Reinhardt",
         "weiblich": false
     }
 }

@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2824191,
+    "nummer": 1958790,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "16.02.1993",
-        "matrikelnummer": 2880586,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "23.08.1991",
+        "matrikelnummer": 2189353,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Barz",
-        "plzort": "45357 Essen",
+        "nachname": "Focke",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Ohlwurt 31d",
+        "strasse": "Zschierbachweg 10",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Informatik",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 4
             }
         ],
-        "vorname": "Helbert",
+        "vorname": "Burghardt",
         "weiblich": false
     }
 }

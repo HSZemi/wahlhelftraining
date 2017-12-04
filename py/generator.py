@@ -225,7 +225,7 @@ for i in range(10000):
 	
 	bw = twobools[randomvalue(briefwahl)]
 	
-	if(bw['sp'] or bw['gremien'] or mehrfachausfertigung > 1 or (ausweistyp == "weiterbildung" and not weiblich) or not mitglied_studierendenschaft):
+	if(bw['sp'] or bw['gremien'] or mehrfachausfertigung > 1 or not mitglied_studierendenschaft):
 		if(ausweistyp != "zweithoerer"):
 			negativliste.append((studi, bw))
 	
@@ -244,7 +244,6 @@ for entry in sorted(negativliste, key=lambda x: "{}{}{}".format(x[0].nachname, x
 		bw = ""
 		wbgs = ""
 		wbgf = ""
-		wbggb = ""
 		wbsp = ""
 		if(entry[1]['sp'] and entry[1]['gremien']):
 			bw = "Briefwahl"
@@ -257,8 +256,6 @@ for entry in sorted(negativliste, key=lambda x: "{}{}{}".format(x[0].nachname, x
 			bw = "Briefwahl G"
 			wbgs = "Nein"
 		
-		if(entry[0].ausweistyp == "weiterbildung" and not entry[0].weiblich):
-			wbggb = "Nein"
 		if(not entry[0].mitglied_studierendenschaft):
 			wbsp = "Nein"
 		
@@ -267,7 +264,7 @@ for entry in sorted(negativliste, key=lambda x: "{}{}{}".format(x[0].nachname, x
 				wbgs = "Nein"
 				wbsp = "Nein"
 		
-		negativliste_s.append([i, entry[0].matrikelnummer, entry[0].nachname, entry[0].vorname, wbgs, wbgf, wbggb, wbsp, ma, bw])
+		negativliste_s.append([i, entry[0].matrikelnummer, entry[0].nachname, entry[0].vorname, wbgs, wbgf, wbsp, ma, bw])
 		i+= 1
 with open("json/negativliste.json", "w") as f:
 	json.dump(negativliste_s, f)

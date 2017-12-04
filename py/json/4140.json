@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2121989,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1514120,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.09.1997",
-        "matrikelnummer": 3092292,
+        "fakultaet": 2,
+        "geburtsdatum": "12.06.1992",
+        "matrikelnummer": 2039263,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kohler",
-        "plzort": "53219 Bonn",
+        "nachname": "Neumann",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Marktweg 3",
+        "strasse": "Am Rethteich 5",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Sonnhilde",
-        "weiblich": true
+        "vorname": "Reinhard",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": true,
         "sp": true
     },
-    "nummer": 1769966,
+    "nummer": 1544042,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "21.11.1992",
-        "matrikelnummer": 2435127,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "21.07.1987",
+        "matrikelnummer": 2496857,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bade",
-        "plzort": "53130 Bonn",
+        "nachname": "Gaus",
+        "plzort": "68804 Altlu\u00dfheim",
         "sternchen": 0,
-        "strasse": "Schreyerstra\u00dfe 13",
+        "strasse": "Hegelstra\u00dfe 13d",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 8
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 13
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Ivonne",
-        "weiblich": true
+        "vorname": "Burkhardt",
+        "weiblich": false
     }
 }

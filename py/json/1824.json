@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2857933,
+    "nummer": 2203767,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.04.1988",
-        "matrikelnummer": 3147595,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "08.08.1985",
+        "matrikelnummer": 12121,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buchholz",
-        "plzort": "53179 Bonn",
+        "nachname": "Schopf",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Pillnitzer Landstra\u00dfe 21",
+        "strasse": "Dornmattstra\u00dfe 2d",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Geschichte",
-                "fsem": 1
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Physik",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "fach": "Geographie",
+                "fsem": 5
             }
         ],
-        "vorname": "Romanus",
-        "weiblich": false
+        "vorname": "Doraline",
+        "weiblich": true
     }
 }

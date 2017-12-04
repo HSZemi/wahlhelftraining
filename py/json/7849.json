@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2345230,
+    "nummer": 2920391,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.12.1991",
-        "matrikelnummer": 3098621,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Nikolaus",
-        "plzort": "53192 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "04.10.1993",
+        "matrikelnummer": 14540,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Eilers",
+        "plzort": "98593 Floh-Seligenthal",
         "sternchen": 0,
-        "strasse": "Lange Reihe 1",
+        "strasse": "Rudolfstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Rosita",
-        "weiblich": true
+        "vorname": "Michael",
+        "weiblich": false
     }
 }

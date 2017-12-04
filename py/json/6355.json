@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1555246,
-    "semester": "Sommersemester 2017",
+    "nummer": 2542745,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.08.1993",
-        "matrikelnummer": 2637717,
+        "fakultaet": 9,
+        "geburtsdatum": "12.04.1993",
+        "matrikelnummer": 2712662,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Matthies",
-        "plzort": "53200 Bonn",
+        "nachname": "Decker",
+        "plzort": "04769 M\u00fcgeln",
         "sternchen": 0,
-        "strasse": "Hohenschwangaustr. 20",
+        "strasse": "Frankfurter Str. 3b",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
-                "fsem": 10
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             }
         ],
-        "vorname": "Ursus",
+        "vorname": "Ivo",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1298986,
+    "nummer": 1318091,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "15.06.1997",
-        "matrikelnummer": 2786120,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "06.10.1991",
+        "matrikelnummer": 17773,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcpper",
-        "plzort": "53129 Bonn",
+        "nachname": "Grube",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Radilostra\u00dfe 16",
+        "strasse": "Emil-Ueberall-Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Marielene",
-        "weiblich": true
+        "vorname": "Reinulf",
+        "weiblich": false
     }
 }

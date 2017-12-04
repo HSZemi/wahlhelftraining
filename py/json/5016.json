@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2711644,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2692430,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.02.1999",
-        "matrikelnummer": 2581421,
+        "fakultaet": 5,
+        "geburtsdatum": "14.02.1989",
+        "matrikelnummer": 2951340,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mahler",
-        "plzort": "53118 Bonn",
+        "nachname": "Landgraf",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00fcfnerweg 5",
+        "strasse": "Dobritzer Weg 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Skandinavistik",
+                "fsem": 8
             }
         ],
-        "vorname": "Marianna",
-        "weiblich": true
+        "vorname": "Nicolaus",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2512636,
+    "nummer": 2091925,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.07.1992",
-        "matrikelnummer": 18748,
+        "fakultaet": 4,
+        "geburtsdatum": "03.07.1993",
+        "matrikelnummer": 118633,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schreier",
-        "plzort": "53124 Bonn",
+        "nachname": "Seeliger",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Gr\u00fcner Weg 8",
+        "strasse": "Friedrich-Kahl-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 5
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Patrizia",
+        "vorname": "Katerina",
         "weiblich": true
     }
 }

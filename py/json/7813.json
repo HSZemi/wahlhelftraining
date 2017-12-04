@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": true
+        "gremien": true,
+        "sp": false
     },
-    "nummer": 2651302,
+    "nummer": 1535033,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.08.1995",
-        "matrikelnummer": 2212998,
+        "fakultaet": 6,
+        "geburtsdatum": "07.05.1994",
+        "matrikelnummer": 2088074,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dietzel",
-        "plzort": "53193 Bonn",
+        "nachname": "Frings",
+        "plzort": "44795 Bochum",
         "sternchen": 0,
-        "strasse": "Hongkongkehre 6",
+        "strasse": "Peschelstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Mikrobiologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Sebastian",
+        "vorname": "Franziskus",
         "weiblich": false
     }
 }

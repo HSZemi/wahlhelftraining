@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2752252,
+    "nummer": 2934474,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.02.1994",
-        "matrikelnummer": 2166939,
+        "fakultaet": 6,
+        "geburtsdatum": "12.10.1990",
+        "matrikelnummer": 3108228,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weichert",
-        "plzort": "53115 Bonn",
+        "nachname": "Pawlik",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Wei\u00dfe Marter Str. 7",
+        "strasse": "Lange Felder 0",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 12
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Rheinische Landesgeschichte",
-                "fsem": 7
+                "fach": "Geophysik",
+                "fsem": 10
             }
         ],
-        "vorname": "Waldburgis",
+        "vorname": "Evelore",
         "weiblich": true
     }
 }

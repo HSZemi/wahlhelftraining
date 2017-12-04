@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2887647,
+    "nummer": 1191801,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "10.10.1992",
-        "matrikelnummer": 13127,
+        "fakultaet": 2,
+        "geburtsdatum": "27.01.1991",
+        "matrikelnummer": 3086830,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwarze",
-        "plzort": "53199 Bonn",
+        "nachname": "Hinkel",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Villaweg 2",
+        "strasse": "Georg-Mehrtens-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
             }
         ],
-        "vorname": "Helwart",
-        "weiblich": false
+        "vorname": "Scholastika",
+        "weiblich": true
     }
 }

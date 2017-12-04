@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1459764,
+    "nummer": 1047678,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.11.1995",
-        "matrikelnummer": 3198012,
+        "fakultaet": 2,
+        "geburtsdatum": "04.06.1998",
+        "matrikelnummer": 11159,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schl\u00fcter",
-        "plzort": "53166 Bonn",
+        "nachname": "Kliem",
+        "plzort": "15757 Freidorf",
         "sternchen": 0,
-        "strasse": "Grazer Weg 0",
+        "strasse": "Marienstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Herlind",
-        "weiblich": true
+        "vorname": "Sigmund",
+        "weiblich": false
     }
 }

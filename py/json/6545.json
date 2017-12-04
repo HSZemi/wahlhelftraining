@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": true,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2440740,
+    "nummer": 2403761,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "19.08.1996",
-        "matrikelnummer": 1966674,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "07.04.1991",
+        "matrikelnummer": 2934034,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Senger",
-        "plzort": "53143 Bonn",
+        "nachname": "Lorenzen",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Br\u00fchlsche Terrasse 2",
+        "strasse": "Gro\u00dfe Seestra\u00dfe 30",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Informatik",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Chris",
+        "vorname": "Emmeram",
         "weiblich": false
     }
 }

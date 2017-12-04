@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2996397,
+    "nummer": 1779969,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.05.1988",
-        "matrikelnummer": 2331518,
+        "fakultaet": 3,
+        "geburtsdatum": "05.12.1992",
+        "matrikelnummer": 2751483,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weichert",
-        "plzort": "53152 Bonn",
+        "nachname": "Rinke",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Reineckeweg 1",
+        "strasse": "Ludwigsstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 3
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 10
             },
             {
-                "abschluss": "",
-                "fach": "Latein",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 8
             }
         ],
-        "vorname": "Lothar",
-        "weiblich": false
+        "vorname": "Susan",
+        "weiblich": true
     }
 }

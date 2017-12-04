@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1371066,
+    "nummer": 1951343,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "06.12.1993",
-        "matrikelnummer": 187236,
+        "fakultaet": 8,
+        "geburtsdatum": "09.11.1993",
+        "matrikelnummer": 2737985,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neumeier",
-        "plzort": "53158 Bonn",
+        "nachname": "Alex",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Daheimweg 0",
+        "strasse": "Kroatengasse 6",
         "studienfaecher": [
             {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
+                "fach": "Geod\u00e4sie und Geoinformation",
                 "fsem": 8
             }
         ],
-        "vorname": "Bernadine",
+        "vorname": "Olinde",
         "weiblich": true
     }
 }

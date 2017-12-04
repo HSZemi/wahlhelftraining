@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1268249,
+    "nummer": 1773957,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.03.1999",
-        "matrikelnummer": 2554346,
+        "fakultaet": 3,
+        "geburtsdatum": "07.07.1994",
+        "matrikelnummer": 2946386,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kleinschmidt",
-        "plzort": "53207 Bonn",
+        "nachname": "B\u00f6hringer",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Ehrlichstra\u00dfe 3",
+        "strasse": "Postgang 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 12
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Guido",
+        "vorname": "Volkward",
         "weiblich": false
     }
 }

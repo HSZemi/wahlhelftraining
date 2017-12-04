@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1913045,
+    "nummer": 2376861,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "12.11.1987",
-        "matrikelnummer": 2608508,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "22.08.1994",
+        "matrikelnummer": 2442788,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stach",
-        "plzort": "53178 Bonn",
+        "nachname": "Hempel",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Grohmannstra\u00dfe 4",
+        "strasse": "Hans-J\u00fcchser-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Mathematik",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Germut",
-        "weiblich": false
+        "vorname": "Evamaria",
+        "weiblich": true
     }
 }

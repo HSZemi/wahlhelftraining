@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2270770,
+    "nummer": 1522531,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "18.11.1994",
-        "matrikelnummer": 2679738,
+        "fakultaet": 7,
+        "geburtsdatum": "10.07.1992",
+        "matrikelnummer": 2250902,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Merkle",
-        "plzort": "53160 Bonn",
+        "nachname": "Kimmel",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Am Weiher 10",
+        "strasse": "Kernausteig 0e",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 7
             }
         ],
-        "vorname": "Melissa",
-        "weiblich": true
+        "vorname": "Florenz",
+        "weiblich": false
     }
 }

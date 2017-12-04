@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1372407,
-    "semester": "Sommersemester 2017",
+    "nummer": 2668518,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "09.01.1995",
-        "matrikelnummer": 2826256,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "11.01.1990",
+        "matrikelnummer": 1908215,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Flaig",
-        "plzort": "53175 Bonn",
+        "nachname": "Neff",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Eisenstuckstra\u00dfe 2",
+        "strasse": "Coburger Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Politische Wissenschaft",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Kulturanthropologie/Volkskunde",
+                "fsem": 3
             }
         ],
-        "vorname": "Gritt",
-        "weiblich": true
+        "vorname": "Herwart",
+        "weiblich": false
     }
 }

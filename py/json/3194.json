@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1523422,
+    "nummer": 1555261,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.09.1999",
-        "matrikelnummer": 2105433,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "26.03.1995",
+        "matrikelnummer": 2851464,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wolfram",
-        "plzort": "53195 Bonn",
+        "nachname": "Eckhoff",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Frankenbergstra\u00dfe 13",
+        "strasse": "Zimmerpforte 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
             }
         ],
-        "vorname": "Karlheinz",
-        "weiblich": false
+        "vorname": "Lilia",
+        "weiblich": true
     }
 }

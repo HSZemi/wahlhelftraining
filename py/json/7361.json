@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1638197,
+    "nummer": 1080805,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.07.1994",
-        "matrikelnummer": 2742052,
+        "fakultaet": 1,
+        "geburtsdatum": "28.01.1995",
+        "matrikelnummer": 2121212,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brink",
-        "plzort": "53132 Bonn",
+        "nachname": "Jacobi",
+        "plzort": "04626 Mehna",
         "sternchen": 0,
-        "strasse": "K\u00f6nigsbr\u00fccker Platz 4",
+        "strasse": "Gertraudenstr. 28",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Physik",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Adam",
+        "vorname": "Johann",
         "weiblich": false
     }
 }

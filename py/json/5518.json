@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2878022,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2829050,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "06.04.1993",
-        "matrikelnummer": 2557467,
+        "fakultaet": 8,
+        "geburtsdatum": "01.09.1988",
+        "matrikelnummer": 13323,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bell",
-        "plzort": "53159 Bonn",
+        "nachname": "Hoff",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Genfer Stra\u00dfe 20",
+        "strasse": "Aschebachstra\u00dfe 26",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 12
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Ansgard",
+        "vorname": "Burgis",
         "weiblich": true
     }
 }

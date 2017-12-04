@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2914922,
+    "nummer": 2687693,
     "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.10.1997",
-        "matrikelnummer": 147300,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "09.12.1995",
+        "matrikelnummer": 2880798,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Welsch",
-        "plzort": "38170 Winnigstedt",
+        "nachname": "Strecker",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Schellenbergerstr. 8",
+        "strasse": "Richard-Biringer-Weg 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ethnologie unter besond.Ber\u00fccks.d.Altamerikanistik",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 8
             }
         ],
-        "vorname": "Aysel",
+        "vorname": "Valeska",
         "weiblich": true
     }
 }

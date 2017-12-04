@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2105945,
+    "nummer": 2464083,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.01.1996",
-        "matrikelnummer": 2021854,
+        "geburtsdatum": "10.09.1998",
+        "matrikelnummer": 3126048,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stein",
-        "plzort": "53181 Bonn",
+        "nachname": "Evers",
+        "plzort": "91080 Spardorf",
         "sternchen": 0,
-        "strasse": "An der Berglehne 8",
+        "strasse": "Dunckerstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 2
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Lia",
+        "vorname": "Juliana",
         "weiblich": true
     }
 }

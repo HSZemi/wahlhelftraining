@@ -2,30 +2,45 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2390157,
+    "nummer": 2017138,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.10.1994",
-        "matrikelnummer": 2330053,
+        "fakultaet": 8,
+        "geburtsdatum": "07.08.1988",
+        "matrikelnummer": 2524273,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schumacher",
-        "plzort": "94518 Spiegelau",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Unger",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Elfride-Tr\u00f6tschel-Stra\u00dfe 4",
+        "strasse": "Zwergenstieg 0a",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
                 "fsem": 4
             }
         ],
-        "vorname": "August",
+        "vorname": "Pascal",
         "weiblich": false
     }
 }

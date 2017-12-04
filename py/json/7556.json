@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2690936,
+    "nummer": 2784419,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "08.03.1987",
-        "matrikelnummer": 2760389,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "23.06.1985",
+        "matrikelnummer": 2479461,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6ft",
-        "plzort": "53178 Bonn",
+        "nachname": "Veit",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Lotzestra\u00dfe 5",
+        "strasse": "Oberhafenbr\u00fccke 7c",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
                 "fsem": 3
             }
         ],
-        "vorname": "Cordian",
-        "weiblich": false
+        "vorname": "Walda",
+        "weiblich": true
     }
 }

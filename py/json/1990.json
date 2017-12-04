@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1831775,
+    "nummer": 1404951,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "04.05.1987",
-        "matrikelnummer": 2641049,
+        "fakultaet": 1,
+        "geburtsdatum": "25.08.1989",
+        "matrikelnummer": 2374417,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tacke",
-        "plzort": "53161 Bonn",
+        "nachname": "Melchior",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Lutherallee 21",
+        "strasse": "R\u00f6merwall 13",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Kathrein",
-        "weiblich": true
+        "vorname": "Desiderius",
+        "weiblich": false
     }
 }

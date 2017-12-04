@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1826049,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2158399,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "03.09.1995",
-        "matrikelnummer": 2852454,
+        "fakultaet": 5,
+        "geburtsdatum": "28.01.1999",
+        "matrikelnummer": 3095022,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Heyer",
-        "plzort": "53158 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Dillmann",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Bruno-B\u00fcrgel-Stra\u00dfe 1",
+        "strasse": "Ingeborg-Bachmann-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Koreanisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Skandinavistik",
+                "fsem": 8
             }
         ],
-        "vorname": "Emeram",
-        "weiblich": false
+        "vorname": "Sighilde",
+        "weiblich": true
     }
 }

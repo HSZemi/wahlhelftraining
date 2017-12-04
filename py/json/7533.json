@@ -4,28 +4,33 @@
         "gremien": true,
         "sp": true
     },
-    "nummer": 2844518,
+    "nummer": 1825057,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.02.1994",
-        "matrikelnummer": 2042293,
+        "fakultaet": 9,
+        "geburtsdatum": "23.08.1981",
+        "matrikelnummer": 1924925,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Brennecke",
-        "plzort": "53125 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Demmer",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Johann Nepomuk Hummel-Weg 81",
+        "strasse": "Dore-Hoyer-Stra\u00dfe 10e",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 7
             }
         ],
-        "vorname": "Valentine",
-        "weiblich": true
+        "vorname": "Steve",
+        "weiblich": false
     }
 }

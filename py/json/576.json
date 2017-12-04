@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2125368,
+    "nummer": 2334356,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "02.04.1996",
-        "matrikelnummer": 142447,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "01.01.1998",
+        "matrikelnummer": 1916362,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bender",
-        "plzort": "53186 Bonn",
+        "nachname": "Breier",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Erlenkamp 1",
+        "strasse": "Zitzschewiger Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 2
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 10
             }
         ],
-        "vorname": "Gisa",
+        "vorname": "Anneruth",
         "weiblich": true
     }
 }

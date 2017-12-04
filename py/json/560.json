@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1520184,
+    "nummer": 1801086,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "03.06.1992",
-        "matrikelnummer": 2504819,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "05.08.1999",
+        "matrikelnummer": 3037807,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ge\u00dfner",
-        "plzort": "91364 Unterleinleiter",
+        "nachname": "Sell",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Sutte 14",
+        "strasse": "Erste Grevenbr\u00fccke 30",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Wera",
+        "vorname": "Marietta",
         "weiblich": true
     }
 }

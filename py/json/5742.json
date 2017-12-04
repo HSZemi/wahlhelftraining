@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2915209,
+    "nummer": 2950661,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.12.1990",
-        "matrikelnummer": 1956901,
+        "fakultaet": 9,
+        "geburtsdatum": "09.11.1990",
+        "matrikelnummer": 2829336,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Steiger",
-        "plzort": "53215 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kastl",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Sterl-Stra\u00dfe 4",
+        "strasse": "Hummelweg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Gesellschaften, Globalisierung und Entwicklung",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Liebhardt",
-        "weiblich": false
+        "vorname": "G\u00fclsen",
+        "weiblich": true
     }
 }

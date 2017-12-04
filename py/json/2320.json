@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2816750,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1667404,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.07.1996",
-        "matrikelnummer": 2337767,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "03.06.1996",
+        "matrikelnummer": 145679,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holzmann",
-        "plzort": "53157 Bonn",
+        "nachname": "H\u00e4cker",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00f6llner Landstra\u00dfe 6",
+        "strasse": "Rebst\u00f6cker Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Bartho",
+        "vorname": "Arnhart",
         "weiblich": false
     }
 }

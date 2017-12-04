@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2067623,
+    "nummer": 1330824,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.04.1989",
-        "matrikelnummer": 2890120,
+        "fakultaet": 9,
+        "geburtsdatum": "24.12.1998",
+        "matrikelnummer": 123828,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00e4rz",
-        "plzort": "87784 Westerheim",
+        "nachname": "D\u00fcck",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00f6fener Weg 8",
+        "strasse": "Paul-Bode-Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Theofried",
-        "weiblich": false
+        "vorname": "Sybilla",
+        "weiblich": true
     }
 }

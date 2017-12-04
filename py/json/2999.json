@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1519681,
+    "nummer": 2706633,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "25.08.1991",
-        "matrikelnummer": 2751489,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "07.04.1999",
+        "matrikelnummer": 1955950,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00e4r",
-        "plzort": "03205 Werchow",
+        "nachname": "Schweigert",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "W\u00f6lfnitzstra\u00dfe 1",
+        "strasse": "Kaiserplatz 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Neurowissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Aribert",
+        "vorname": "Innozenz",
         "weiblich": false
     }
 }

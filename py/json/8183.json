@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1096972,
+    "nummer": 2115597,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.03.1994",
-        "matrikelnummer": 2214172,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "20.08.1991",
+        "matrikelnummer": 2405779,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mertes",
-        "plzort": "53130 Bonn",
+        "nachname": "Holzapfel",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Am Kurhaus B\u00fchlau 3",
+        "strasse": "Nach dem Brand 25",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 5
             }
         ],
-        "vorname": "Runhild",
-        "weiblich": true
+        "vorname": "Freimut",
+        "weiblich": false
     }
 }

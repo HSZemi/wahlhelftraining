@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1487348,
+    "nummer": 1351390,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "28.08.1995",
-        "matrikelnummer": 2732776,
-        "mehrfachausfertigung": 5,
+        "geburtsdatum": "05.04.1994",
+        "matrikelnummer": 2665455,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Funke",
-        "plzort": "53199 Bonn",
+        "nachname": "Roch",
+        "plzort": "88279 Amtzell",
         "sternchen": 0,
-        "strasse": "An der Este 5",
+        "strasse": "Fischbacher Stra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
+                "fach": "Versorgungsforschung",
                 "fsem": 1
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Life and Medical Sciences",
-                "fsem": 8
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Selina",
+        "vorname": "Wendelin",
         "weiblich": true
     }
 }

@@ -2,30 +2,45 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2834672,
+    "nummer": 2447718,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.06.1998",
-        "matrikelnummer": 184528,
+        "fakultaet": 8,
+        "geburtsdatum": "25.04.1990",
+        "matrikelnummer": 3101959,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fctt",
-        "plzort": "53177 Bonn",
+        "nachname": "Bartel",
+        "plzort": "38165 Lehre",
         "sternchen": 0,
-        "strasse": "Zirkusstra\u00dfe 11",
+        "strasse": "Ifflandstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 1
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Madlen",
+        "vorname": "Siegfriede",
         "weiblich": true
     }
 }

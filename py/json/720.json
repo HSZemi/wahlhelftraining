@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": true,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2088234,
+    "nummer": 2981455,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.04.1997",
-        "matrikelnummer": 2412986,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "14.08.1996",
+        "matrikelnummer": 2679319,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Demuth",
-        "plzort": "53126 Bonn",
+        "nachname": "Majewski",
+        "plzort": "49497 Mettingen",
         "sternchen": 0,
-        "strasse": "Wilmsdorfer Stra\u00dfe 12a",
+        "strasse": "B\u00f6hlepark 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Deutsch-Franz\u00f6sische Studien",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Lateinamerika- und Altamerikastudien",
-                "fsem": 9
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 3
             }
         ],
-        "vorname": "Josephina",
-        "weiblich": true
+        "vorname": "Ottheinz",
+        "weiblich": false
     }
 }

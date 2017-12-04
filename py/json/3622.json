@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": false
+        "gremien": false,
+        "sp": true
     },
-    "nummer": 1376950,
+    "nummer": 1917886,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.05.1994",
-        "matrikelnummer": 1909051,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "25.04.1986",
+        "matrikelnummer": 2911915,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Graupner",
-        "plzort": "94330 Aiterhofen",
+        "nachname": "Wiechmann",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Seidelbaststra\u00dfe 7e",
+        "strasse": "Rauenthaler Weg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Trautlind",
+        "vorname": "Susan",
         "weiblich": true
     }
 }

@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2674931,
+    "nummer": 1158751,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "19.01.1992",
-        "matrikelnummer": 3143400,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "06.02.1991",
+        "matrikelnummer": 3183728,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weisser",
-        "plzort": "53178 Bonn",
+        "nachname": "Wurster",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz-Arndt-Platz 2",
+        "strasse": "Looshornweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             },
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Hartwald",
+        "vorname": "Timotheus",
         "weiblich": false
     }
 }

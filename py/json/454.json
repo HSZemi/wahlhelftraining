@@ -1,28 +1,28 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2614239,
+    "nummer": 2030502,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "23.02.1995",
-        "matrikelnummer": 2541841,
+        "geburtsdatum": "20.12.1988",
+        "matrikelnummer": 3130666,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
+        "mitglied_studierendenschaft": false,
         "nachname": "Zemantek",
-        "plzort": "53150 Bonn",
+        "plzort": "84332 Hebertsfelden",
         "sternchen": 0,
-        "strasse": "An der Eisenbahn 0a",
+        "strasse": "Walpurgisstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 1
             }
         ],
         "vorname": "Sven",

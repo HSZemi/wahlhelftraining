@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1199453,
+    "nummer": 2352002,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "02.04.1999",
-        "matrikelnummer": 13888,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "06.12.1998",
+        "matrikelnummer": 2311011,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tamm",
-        "plzort": "53145 Bonn",
+        "nachname": "Kirsch",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Am Kanal 19",
+        "strasse": "Sch\u00e4fergasse 19b",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 4
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Annagret",
+        "vorname": "Lottemaria",
         "weiblich": true
     }
 }

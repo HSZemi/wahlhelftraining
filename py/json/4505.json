@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2284848,
+    "nummer": 1302822,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.08.1997",
-        "matrikelnummer": 3171771,
+        "fakultaet": 5,
+        "geburtsdatum": "14.09.1996",
+        "matrikelnummer": 193817,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Matthies",
-        "plzort": "53127 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "K\u00f6hn",
+        "plzort": "06667 Reichardtswerben",
         "sternchen": 0,
-        "strasse": "Stangenweg 9",
+        "strasse": "Melibocusstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Altamerikanistik und Ethnologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "S\u00fcdostasienwissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Annette",
-        "weiblich": true
+        "vorname": "Otto",
+        "weiblich": false
     }
 }

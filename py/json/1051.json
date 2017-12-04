@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1431436,
+    "nummer": 2219368,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.09.1989",
-        "matrikelnummer": 2044059,
+        "fakultaet": 3,
+        "geburtsdatum": "13.07.1995",
+        "matrikelnummer": 114239,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Arendt",
-        "plzort": "53205 Bonn",
+        "nachname": "Schie\u00dfl",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Berthelsdorfer Weg 0",
+        "strasse": "Gagernstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
                 "fsem": 13
             }
         ],
-        "vorname": "Wilbrand",
-        "weiblich": false
+        "vorname": "Ermenhild",
+        "weiblich": true
     }
 }

@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2098151,
+    "nummer": 2004523,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "18.07.1999",
-        "matrikelnummer": 169193,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "03.06.1990",
+        "matrikelnummer": 2227280,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Moog",
-        "plzort": "98639 Metzels",
+        "nachname": "Sch\u00fclke",
+        "plzort": "04105 Leipzig",
         "sternchen": 0,
-        "strasse": "Schmidbauerstr. 9",
+        "strasse": "Quettigstra\u00dfe 0c",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Gaby",
+        "vorname": "Aurelia",
         "weiblich": true
     }
 }

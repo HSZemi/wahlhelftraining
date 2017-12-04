@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1262927,
+    "nummer": 1416427,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "09.04.1992",
-        "matrikelnummer": 2611441,
-        "mehrfachausfertigung": 4,
+        "geburtsdatum": "28.01.1990",
+        "matrikelnummer": 2747829,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hopp",
-        "plzort": "53168 Bonn",
+        "nachname": "Bl\u00fcmel",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Oybiner Stra\u00dfe 1",
+        "strasse": "Ernst-Schwendler-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Physik der Erde und Atmosph\u00e4re",
+                "fsem": 1
             }
         ],
-        "vorname": "Hubertina",
+        "vorname": "Marilene",
         "weiblich": true
     }
 }

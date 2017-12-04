@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1750529,
+    "nummer": 2317289,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "13.08.1993",
-        "matrikelnummer": 2893218,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "19.04.1986",
+        "matrikelnummer": 2164749,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wulf",
-        "plzort": "53156 Bonn",
+        "nachname": "Blankenburg",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Agnesstr. 2",
+        "strasse": "Erlichstr. 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Computer Science",
-                "fsem": 3
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Sieghelm",
-        "weiblich": false
+        "vorname": "Annett",
+        "weiblich": true
     }
 }

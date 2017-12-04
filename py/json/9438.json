@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1941235,
+    "nummer": 2685241,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "10.02.1995",
-        "matrikelnummer": 1926861,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "24.09.1990",
+        "matrikelnummer": 2071447,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Raith",
-        "plzort": "53155 Bonn",
+        "nachname": "Schick",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Soester Stra\u00dfe 2",
+        "strasse": "M\u00fchlwehrstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 9
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Augustin",
-        "weiblich": false
+        "vorname": "Ellinor",
+        "weiblich": true
     }
 }

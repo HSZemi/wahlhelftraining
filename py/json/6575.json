@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2080112,
+    "nummer": 1355120,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.09.1993",
-        "matrikelnummer": 2400385,
+        "fakultaet": 5,
+        "geburtsdatum": "22.12.1990",
+        "matrikelnummer": 2880359,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meister",
-        "plzort": "53127 Bonn",
+        "nachname": "Kraft",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Johannesallee 11",
+        "strasse": "Mannheimer Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Degenhardt",
+        "vorname": "Diethart",
         "weiblich": false
     }
 }

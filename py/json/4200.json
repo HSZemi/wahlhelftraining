@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2691217,
+    "nummer": 2347353,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "19.09.1994",
-        "matrikelnummer": 2817524,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "08.07.1996",
+        "matrikelnummer": 2836032,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lambertz",
-        "plzort": "53203 Bonn",
+        "nachname": "Czech",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Invaris-Center 71",
+        "strasse": "Brunnengasse 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 3
+                "fach": "Life Science Informatics",
+                "fsem": 7
             }
         ],
-        "vorname": "\u00c4nne",
-        "weiblich": true
+        "vorname": "Wichard",
+        "weiblich": false
     }
 }

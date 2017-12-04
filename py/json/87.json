@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1261178,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1913886,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "23.01.1993",
-        "matrikelnummer": 2991725,
+        "geburtsdatum": "03.08.1995",
+        "matrikelnummer": 2482616,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "39606 Kossebau",
+        "nachname": "Zemantek",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Hugo-Junkers-Stra\u00dfe 8",
+        "strasse": "Corinthstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 12
+                "fach": "Zahnmedizin",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 3
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

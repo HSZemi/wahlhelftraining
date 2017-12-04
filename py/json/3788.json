@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2797284,
-    "semester": "Sommersemester 2017",
+    "nummer": 1484545,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.03.1989",
-        "matrikelnummer": 2729729,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "19.05.1995",
+        "matrikelnummer": 2593243,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rose",
-        "plzort": "56237 Caan",
+        "nachname": "Dierkes",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Abtissensee 3",
+        "strasse": "An der Schule 2",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Katholische Religionslehre",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Hulda",
-        "weiblich": true
+        "vorname": "Bernhardt",
+        "weiblich": false
     }
 }

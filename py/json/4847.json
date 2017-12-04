@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2234301,
+    "nummer": 1419094,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.05.1988",
-        "matrikelnummer": 3171912,
+        "fakultaet": 0,
+        "geburtsdatum": "04.05.1990",
+        "matrikelnummer": 3061255,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6hr",
-        "plzort": "53183 Bonn",
+        "nachname": "Manz",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Liebezeitstra\u00dfe 6",
+        "strasse": "Grenzwinkel 11",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Hilma",
-        "weiblich": true
+        "vorname": "Siggi",
+        "weiblich": false
     }
 }

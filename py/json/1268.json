@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1367208,
+    "nummer": 2735331,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "04.08.1991",
-        "matrikelnummer": 199742,
+        "fakultaet": 6,
+        "geburtsdatum": "25.04.1988",
+        "matrikelnummer": 166232,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Unger",
-        "plzort": "25868 Norderstapel",
+        "nachname": "Scherer",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Auf den Bl\u00f6cken 0",
+        "strasse": "An der Schanze 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 7
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Gunnar",
-        "weiblich": false
+        "vorname": "Hilma",
+        "weiblich": true
     }
 }

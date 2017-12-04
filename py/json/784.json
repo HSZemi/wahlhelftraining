@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2017044,
+    "nummer": 2353541,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.02.1986",
-        "matrikelnummer": 2604378,
+        "fakultaet": 4,
+        "geburtsdatum": "12.08.1990",
+        "matrikelnummer": 165983,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weigand",
-        "plzort": "53142 Bonn",
+        "nachname": "Sattler",
+        "plzort": "72461 Albstadt",
         "sternchen": 0,
-        "strasse": "Rosenschulweg 10",
+        "strasse": "Kriegkstra\u00dfe 51",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Nicolaus",
-        "weiblich": false
+        "vorname": "Alice",
+        "weiblich": true
     }
 }

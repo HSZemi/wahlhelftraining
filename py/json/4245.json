@@ -1,46 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2036283,
+    "nummer": 2037196,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "07.10.1998",
-        "matrikelnummer": 2656384,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "11.07.1998",
+        "matrikelnummer": 3020754,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Duwe",
-        "plzort": "53158 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hoch",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Washingtonring 22",
+        "strasse": "Hirtenweg 15",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 3
             },
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 5
             }
         ],
-        "vorname": "Irmengild",
+        "vorname": "Erlwine",
         "weiblich": true
     }
 }

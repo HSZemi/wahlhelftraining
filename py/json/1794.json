@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1127978,
+    "nummer": 2706059,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "13.05.1992",
-        "matrikelnummer": 3079000,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "01.12.1990",
+        "matrikelnummer": 2228399,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grau",
-        "plzort": "39606 Behrendorf",
+        "nachname": "R\u00fcdiger",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Hansastra\u00dfe 14",
+        "strasse": "Bruderwaldstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
             }
         ],
-        "vorname": "Daniel",
-        "weiblich": false
+        "vorname": "Pascale",
+        "weiblich": true
     }
 }

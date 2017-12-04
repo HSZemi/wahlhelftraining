@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2183297,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1138421,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "24.02.1994",
-        "matrikelnummer": 3112499,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "08.09.1993",
+        "matrikelnummer": 177612,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kollmann",
-        "plzort": "53218 Bonn",
+        "nachname": "Fix",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Bahnstra\u00dfe 24",
+        "strasse": "Deglerstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 5
             }
         ],
-        "vorname": "Friedhold",
-        "weiblich": false
+        "vorname": "Giseltraud",
+        "weiblich": true
     }
 }

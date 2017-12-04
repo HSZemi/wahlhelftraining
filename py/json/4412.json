@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1140702,
+    "nummer": 2405581,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "20.01.1988",
-        "matrikelnummer": 2402393,
+        "fakultaet": 5,
+        "geburtsdatum": "15.11.1992",
+        "matrikelnummer": 1933475,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Pl\u00f6tz",
-        "plzort": "53160 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fleischmann",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Fuchsbergweg 8",
+        "strasse": "Heidelberger Stra\u00dfe 2d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Politik und Gesellschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Germanistik",
+                "fsem": 7
             }
         ],
-        "vorname": "Cuno",
-        "weiblich": false
+        "vorname": "Gudula",
+        "weiblich": true
     }
 }

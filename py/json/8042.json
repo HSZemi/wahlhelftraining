@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1695074,
+    "nummer": 2742936,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.11.1993",
-        "matrikelnummer": 2920396,
+        "fakultaet": 1,
+        "geburtsdatum": "09.01.1995",
+        "matrikelnummer": 2188696,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Unger",
-        "plzort": "53161 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Tamm",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Bei der Papierfabrik 9",
+        "strasse": "Am Alten Elbarm 0",
         "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
             {
                 "abschluss": "Promotion",
                 "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "fsem": 1
             }
         ],
-        "vorname": "Freddy",
-        "weiblich": false
+        "vorname": "Alwine",
+        "weiblich": true
     }
 }

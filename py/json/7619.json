@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2750679,
+    "nummer": 2168908,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "01.02.1994",
-        "matrikelnummer": 2306747,
+        "geburtsdatum": "10.03.1996",
+        "matrikelnummer": 2537435,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bier",
-        "plzort": "67737 Frankelbach",
+        "nachname": "Erbe",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Am Mittelt\u00e4nnicht 39",
+        "strasse": "Am Schulfeld 21",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Rosemarie",
-        "weiblich": true
+        "vorname": "Sieghard",
+        "weiblich": false
     }
 }

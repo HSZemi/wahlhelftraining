@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2398336,
+    "nummer": 1523875,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "04.08.1997",
-        "matrikelnummer": 183521,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "17.05.1993",
+        "matrikelnummer": 2524765,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gebel",
-        "plzort": "53216 Bonn",
+        "nachname": "Kalisch",
+        "plzort": "27721 Ritterhude",
         "sternchen": 0,
-        "strasse": "Parkstra\u00dfe 0",
+        "strasse": "Heroldstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Erkmar",
-        "weiblich": false
+        "vorname": "Klementine",
+        "weiblich": true
     }
 }

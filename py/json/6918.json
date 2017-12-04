@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1241106,
+    "nummer": 1217883,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "04.05.1999",
-        "matrikelnummer": 2475196,
+        "geburtsdatum": "05.04.1999",
+        "matrikelnummer": 111739,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eichhorn",
-        "plzort": "53158 Bonn",
+        "nachname": "Ehrenberg",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Margarete-Susman-Weg 1",
+        "strasse": "Aufse\u00dfstr. 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Arzneimittelforschung (Drug Research)",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Physik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Siggi",
-        "weiblich": true
+        "vorname": "Ekhardt",
+        "weiblich": false
     }
 }

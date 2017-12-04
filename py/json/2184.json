@@ -2,30 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1582426,
+    "nummer": 1518408,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "19.05.1996",
-        "matrikelnummer": 2852215,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "07.02.1995",
+        "matrikelnummer": 2835282,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Utz",
-        "plzort": "39638 Zichtau",
+        "nachname": "Wacker",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Am H\u00fcnenstein 12",
+        "strasse": "Pferdskopfweg 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Immunobiology: from molecules to integrative systems",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Reinhardine",
+        "vorname": "Isabelle",
         "weiblich": true
     }
 }

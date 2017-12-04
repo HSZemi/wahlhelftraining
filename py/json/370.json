@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1697437,
+    "nummer": 1504564,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "19.04.1989",
-        "matrikelnummer": 2941655,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "16.01.1992",
+        "matrikelnummer": 15992,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53197 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Eitzensweg 0",
+        "strasse": "Kuhwaldstra\u00dfe, Bockenheim 33",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 10
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

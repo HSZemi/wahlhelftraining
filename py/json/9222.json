@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1306481,
+    "nummer": 2633168,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "14.01.1990",
-        "matrikelnummer": 15429,
+        "fakultaet": 4,
+        "geburtsdatum": "05.01.1991",
+        "matrikelnummer": 2252338,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Demuth",
-        "plzort": "53146 Bonn",
+        "nachname": "Hirschfeld",
+        "plzort": "21365 Adendorf",
         "sternchen": 0,
-        "strasse": "Am Kronenh\u00fcgel 17",
+        "strasse": "Gro\u00dfe Seestra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Lenz",
-        "weiblich": false
+        "vorname": "Dorchen",
+        "weiblich": true
     }
 }

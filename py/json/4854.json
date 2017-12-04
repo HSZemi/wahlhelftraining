@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2171334,
+    "nummer": 2075743,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "09.03.1996",
-        "matrikelnummer": 2479500,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "17.10.1994",
+        "matrikelnummer": 2630661,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schober",
-        "plzort": "53209 Bonn",
+        "nachname": "Keck",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Aubr\u00fccke 3",
+        "strasse": "Mozartplatz 7",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 4
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 11
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Adalbert",
-        "weiblich": false
+        "vorname": "Anneli",
+        "weiblich": true
     }
 }

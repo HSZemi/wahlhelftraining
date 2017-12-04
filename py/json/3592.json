@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2647436,
+    "nummer": 2655497,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.06.1991",
-        "matrikelnummer": 2074144,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "28.01.1988",
+        "matrikelnummer": 156817,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Roloff",
-        "plzort": "53162 Bonn",
+        "nachname": "Donath",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Sperlingsweg 1",
+        "strasse": "Ludwig-Erhard-Anlage 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
                 "fsem": 7
             }
         ],
-        "vorname": "Constantin",
-        "weiblich": false
+        "vorname": "Rose",
+        "weiblich": true
     }
 }

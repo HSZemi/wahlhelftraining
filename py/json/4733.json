@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2147852,
+    "nummer": 2469545,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.02.1994",
-        "matrikelnummer": 12870,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "23.03.1993",
+        "matrikelnummer": 2729405,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Volkmann",
-        "plzort": "53170 Bonn",
+        "nachname": "Jungmann",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Erkmannsdorfer Stra\u00dfe 11",
+        "strasse": "Rudolf-Presber-Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
                 "fsem": 3
             }
         ],
-        "vorname": "Liesgret",
+        "vorname": "Zeynep",
         "weiblich": true
     }
 }

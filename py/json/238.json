@@ -1,33 +1,38 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2699729,
-    "semester": "Sommersemester 2017",
+    "nummer": 2617729,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "11.11.1991",
-        "matrikelnummer": 2413748,
+        "fakultaet": 8,
+        "geburtsdatum": "05.09.1992",
+        "matrikelnummer": 2521048,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53202 Bonn",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Georg-Meisenbach-Str. 5",
+        "strasse": "Gewerbestra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 2
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 5
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
         "vorname": "Marcel",

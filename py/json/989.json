@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2751362,
+    "nummer": 1936800,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "24.05.1993",
-        "matrikelnummer": 3043318,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "11.08.1993",
+        "matrikelnummer": 2645051,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wein",
-        "plzort": "53229 Bonn",
+        "nachname": "Niermann",
+        "plzort": "06618 G\u00f6rschen",
         "sternchen": 0,
-        "strasse": "Rudolfstra\u00dfe 5",
+        "strasse": "Ebermannstadterstr. 0b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Susen",
+        "vorname": "Ingried",
         "weiblich": true
     }
 }

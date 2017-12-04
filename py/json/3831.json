@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2619713,
+    "nummer": 1705046,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "07.03.1993",
-        "matrikelnummer": 2487411,
-        "mehrfachausfertigung": 4,
+        "geburtsdatum": "15.02.1992",
+        "matrikelnummer": 2376763,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Milz",
-        "plzort": "53175 Bonn",
+        "nachname": "Ullmann",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fcnzteichweg 26",
+        "strasse": "Staudingerstr. 20",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 4
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 1
             }
         ],
-        "vorname": "Olav",
-        "weiblich": true
+        "vorname": "Wolfram",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1214860,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2944790,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "19.01.1998",
-        "matrikelnummer": 3135574,
+        "fakultaet": 4,
+        "geburtsdatum": "01.09.1999",
+        "matrikelnummer": 180842,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fromm",
-        "plzort": "53162 Bonn",
+        "nachname": "Teufel",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Andreas-Hofer-Stra\u00dfe 7",
+        "strasse": "Collenbuschstra\u00dfe 47",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 9
+                "fach": "Neurosciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Brandolf",
-        "weiblich": false
+        "vorname": "Marika",
+        "weiblich": true
     }
 }

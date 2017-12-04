@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2258296,
+    "nummer": 2777158,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "15.12.1992",
-        "matrikelnummer": 2335711,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "27.11.1992",
+        "matrikelnummer": 2443725,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00f6sch",
-        "plzort": "53118 Bonn",
+        "nachname": "Carl",
+        "plzort": "70563 Stuttgart",
         "sternchen": 0,
-        "strasse": "Bodemerweg 28",
+        "strasse": "Besenbinderhof 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 12
             }
         ],
-        "vorname": "Freya",
-        "weiblich": true
+        "vorname": "Burghardt",
+        "weiblich": false
     }
 }

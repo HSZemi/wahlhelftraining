@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2620032,
+    "nummer": 1536783,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "15.07.1990",
-        "matrikelnummer": 2152673,
+        "fakultaet": 4,
+        "geburtsdatum": "27.06.1990",
+        "matrikelnummer": 2487842,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "K\u00f6nig",
-        "plzort": "53211 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pongratz",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Faulbrunnenweg 1",
+        "strasse": "Dippelsdorfer Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Englische Philologie",
+                "fsem": 13
             }
         ],
-        "vorname": "T\u00fcrkan",
-        "weiblich": true
+        "vorname": "Rainhardt",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1658885,
+    "nummer": 2153668,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.06.1988",
-        "matrikelnummer": 2479759,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "22.11.1990",
+        "matrikelnummer": 114207,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lex",
-        "plzort": "17153 Ivenack",
+        "nachname": "Lind",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Wachtelweg 24",
+        "strasse": "L\u00fcbeckertordamm 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 2
             }
         ],
-        "vorname": "H\u00fclya",
-        "weiblich": true
+        "vorname": "Alphonsus",
+        "weiblich": false
     }
 }

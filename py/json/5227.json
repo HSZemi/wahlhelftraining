@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2004056,
+    "nummer": 1925330,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "06.07.1994",
-        "matrikelnummer": 3150761,
+        "fakultaet": 5,
+        "geburtsdatum": "01.10.1991",
+        "matrikelnummer": 2943491,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baer",
-        "plzort": "15838 Kummersdorf-Gut",
+        "nachname": "Hartl",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Kunigundendamm 1",
+        "strasse": "In der Fuchskaut 7",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Promotion",
+                "fach": "Kommunikationsforschung und Phonetik",
                 "fsem": 7
             }
         ],
-        "vorname": "Gisela",
-        "weiblich": true
+        "vorname": "Hardo",
+        "weiblich": false
     }
 }

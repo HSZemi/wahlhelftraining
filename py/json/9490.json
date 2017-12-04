@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2645487,
+    "nummer": 2037339,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "20.03.1993",
-        "matrikelnummer": 2483773,
+        "fakultaet": 5,
+        "geburtsdatum": "21.07.1992",
+        "matrikelnummer": 3157555,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siemers",
-        "plzort": "53154 Bonn",
+        "nachname": "Temme",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Me\u00dfweg 3",
+        "strasse": "Landgraf-Philipp-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
                 "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Ottheinz",
-        "weiblich": false
+        "vorname": "Madita",
+        "weiblich": true
     }
 }

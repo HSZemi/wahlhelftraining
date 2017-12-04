@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1236712,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1782387,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.12.1999",
-        "matrikelnummer": 2058615,
+        "fakultaet": 6,
+        "geburtsdatum": "27.08.1999",
+        "matrikelnummer": 1945635,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hille",
-        "plzort": "39596 Bertkow",
+        "nachname": "Hertwig",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Leonhard-Frank-Stra\u00dfe 7",
+        "strasse": "Am Kriegerdenkmal 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Applied Linguistics",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Meteorologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 1
             }
         ],
-        "vorname": "Othmar",
+        "vorname": "Horstmar",
         "weiblich": false
     }
 }

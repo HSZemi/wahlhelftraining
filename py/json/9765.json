@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2821445,
+    "nummer": 2095291,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "27.08.1993",
-        "matrikelnummer": 2507785,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "24.01.1988",
+        "matrikelnummer": 2837685,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niehoff",
-        "plzort": "53135 Bonn",
+        "nachname": "Hein",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Ornsweg 7",
+        "strasse": "Troppauer Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
             }
         ],
-        "vorname": "Daphne",
-        "weiblich": true
+        "vorname": "Eckehard",
+        "weiblich": false
     }
 }

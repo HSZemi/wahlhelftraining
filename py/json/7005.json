@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2544395,
+    "nummer": 2842479,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "19.03.1993",
-        "matrikelnummer": 2137889,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "25.10.1994",
+        "matrikelnummer": 2444729,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gei\u00df",
-        "plzort": "53145 Bonn",
+        "nachname": "Emmert",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Giselastr. 2",
+        "strasse": "Kuckucksweg 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Marietraud",
-        "weiblich": true
+        "vorname": "Guntram",
+        "weiblich": false
     }
 }

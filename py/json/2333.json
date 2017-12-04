@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1892936,
+    "nummer": 1972902,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.05.1993",
-        "matrikelnummer": 1916346,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "21.10.1995",
+        "matrikelnummer": 2252078,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Herdt",
-        "plzort": "53173 Bonn",
+        "nachname": "P\u00e4tzold",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Leo-Gans-Stra\u00dfe 7",
+        "strasse": "Humperdinckstra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Amanda",
+        "vorname": "Harriet",
         "weiblich": true
     }
 }

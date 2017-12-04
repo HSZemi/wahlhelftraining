@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2419122,
+    "nummer": 2399257,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.08.1999",
-        "matrikelnummer": 3002865,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "13.06.1986",
+        "matrikelnummer": 2821927,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6nherr",
-        "plzort": "53126 Bonn",
+        "nachname": "Neumeier",
+        "plzort": "37345 Bockelnhagen",
         "sternchen": 0,
-        "strasse": "R\u00e4cknitzstra\u00dfe 16",
+        "strasse": "Eulenweg 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Sofia",
-        "weiblich": true
+        "vorname": "Emmeran",
+        "weiblich": false
     }
 }

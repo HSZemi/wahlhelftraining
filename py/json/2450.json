@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1547087,
+    "nummer": 2410163,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "04.11.1996",
-        "matrikelnummer": 2742653,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "04.12.1990",
+        "matrikelnummer": 19990,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bausch",
-        "plzort": "53185 Bonn",
+        "nachname": "Wei\u00dfe",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Kollwitzstra\u00dfe 8",
+        "strasse": "Feyerleinstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Sprachliche Kommunikation",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Christoph",
+        "vorname": "Reinmar",
         "weiblich": false
     }
 }

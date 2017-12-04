@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1456782,
+    "nummer": 2448962,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.08.1989",
-        "matrikelnummer": 11947,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 2,
+        "geburtsdatum": "15.05.1998",
+        "matrikelnummer": 18575,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Engl",
-        "plzort": "53145 Bonn",
+        "nachname": "May",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Gregor Josef Werner-Stra\u00dfe 9e",
+        "strasse": "Simsonstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Skandinavistik",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Romanistik",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Caspar",
-        "weiblich": false
+        "vorname": "Mariola",
+        "weiblich": true
     }
 }

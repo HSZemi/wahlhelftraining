@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1987516,
+    "nummer": 1258515,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.07.1996",
-        "matrikelnummer": 17702,
+        "fakultaet": 8,
+        "geburtsdatum": "26.04.1990",
+        "matrikelnummer": 2867159,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schaar",
-        "plzort": "21698 Harsefeld",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Raschke",
+        "plzort": "23746 Kellenhusen",
         "sternchen": 0,
-        "strasse": "Max-Hirsch-Stra\u00dfe 2",
+        "strasse": "Hilligengasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Elly",
+        "vorname": "Sonia",
         "weiblich": true
     }
 }

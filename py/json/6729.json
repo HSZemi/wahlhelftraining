@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1604729,
+    "nummer": 1091798,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.11.1997",
-        "matrikelnummer": 2208432,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wenig",
-        "plzort": "24896 Treia",
+        "fakultaet": 0,
+        "geburtsdatum": "06.04.1991",
+        "matrikelnummer": 2600796,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schimmel",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Vatterstra\u00dfe 7",
+        "strasse": "Chamissostra\u00dfe 29",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 13
             }
         ],
-        "vorname": "Friedemann",
+        "vorname": "Armin",
         "weiblich": false
     }
 }

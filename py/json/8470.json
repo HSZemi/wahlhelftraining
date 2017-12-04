@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2287636,
+    "nummer": 1935788,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.08.1999",
-        "matrikelnummer": 2978615,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "18.12.1994",
+        "matrikelnummer": 2954165,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bretschneider",
-        "plzort": "57638 Obernau",
+        "nachname": "Meise",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00f6rnchenweg 0",
+        "strasse": "Manitiusstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Ernaehrungswiss.",
-                "fsem": 13
+                "fach": "Katholische Theologie",
+                "fsem": 1
             },
             {
                 "abschluss": "Master of Science",
                 "fach": "Economics",
-                "fsem": 5
+                "fsem": 10
             }
         ],
-        "vorname": "Susi",
-        "weiblich": true
+        "vorname": "Ludolf",
+        "weiblich": false
     }
 }

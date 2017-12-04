@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1823651,
+    "nummer": 1443063,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.07.1999",
-        "matrikelnummer": 3121681,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "03.10.1998",
+        "matrikelnummer": 13601,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thei\u00df",
-        "plzort": "53218 Bonn",
+        "nachname": "Schultes",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Dorfelder Stra\u00dfe 16",
+        "strasse": "Greifswalder Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Nutzpflanzenwissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Ferdinand",
-        "weiblich": false
+        "vorname": "Alheid",
+        "weiblich": true
     }
 }

@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2392844,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1400636,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "15.07.1996",
-        "matrikelnummer": 3011072,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "21.02.1990",
+        "matrikelnummer": 150104,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "F\u00fchrer",
-        "plzort": "99869 G\u00fcnthersleben",
+        "nachname": "Jan\u00dfen",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Tessenow-Weg 1",
+        "strasse": "Ahornstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Politische Wissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Nikolaus",
+        "vorname": "Karlfrieder",
         "weiblich": false
     }
 }

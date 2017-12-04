@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1071206,
+    "nummer": 2830731,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "07.10.1989",
-        "matrikelnummer": 2848678,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "18.04.1994",
+        "matrikelnummer": 3147455,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diener",
-        "plzort": "53148 Bonn",
+        "nachname": "Edelmann",
+        "plzort": "88512 Mengen",
         "sternchen": 0,
-        "strasse": "Dr.-Martinet-Str. 0",
+        "strasse": "Sagarder Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 11
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
             }
         ],
-        "vorname": "Remigius",
+        "vorname": "Heinzfried",
         "weiblich": false
     }
 }

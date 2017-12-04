@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1127236,
+    "nummer": 1508380,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.05.1988",
-        "matrikelnummer": 2327317,
+        "fakultaet": 3,
+        "geburtsdatum": "27.04.1999",
+        "matrikelnummer": 2454694,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neuhaus",
-        "plzort": "53182 Bonn",
+        "nachname": "Seitz",
+        "plzort": "01877 Schm\u00f6lln-Putzkau",
         "sternchen": 0,
-        "strasse": "Barckhausstra\u00dfe 11",
+        "strasse": "Rahnstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 12
             }
         ],
-        "vorname": "Babette",
-        "weiblich": true
+        "vorname": "Jonny",
+        "weiblich": false
     }
 }

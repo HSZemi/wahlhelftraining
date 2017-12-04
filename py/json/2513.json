@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1120720,
+    "nummer": 2283450,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "15.10.1999",
-        "matrikelnummer": 2995869,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "12.10.1995",
+        "matrikelnummer": 2860290,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hengst",
-        "plzort": "53187 Bonn",
+        "nachname": "Kienzle",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Hohe Leite 6a",
+        "strasse": "V\u00f6lklinger Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Molecular Biology and Biotechnology",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Willibald",
+        "vorname": "Erdfried",
         "weiblich": false
     }
 }

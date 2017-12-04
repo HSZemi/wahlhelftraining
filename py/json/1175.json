@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2809256,
+    "nummer": 2876954,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.11.1992",
-        "matrikelnummer": 3185543,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "08.05.1995",
+        "matrikelnummer": 2542805,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schweigert",
-        "plzort": "53206 Bonn",
+        "nachname": "Schaub",
+        "plzort": "54441 Kastel-Staadt",
         "sternchen": 0,
-        "strasse": "Ferdinand-Scholling-Ring 1",
+        "strasse": "Oberkiesweg 5",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 13
+                "fach": "Japanisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Musikwissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Rezzo",
-        "weiblich": false
+        "vorname": "Liesl",
+        "weiblich": true
     }
 }

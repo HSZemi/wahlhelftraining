@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2300638,
+    "nummer": 1040641,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "03.12.1998",
-        "matrikelnummer": 131838,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "18.01.1994",
+        "matrikelnummer": 2776863,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Speidel",
-        "plzort": "53186 Bonn",
+        "nachname": "Busche",
+        "plzort": "31515 Wunstorf",
         "sternchen": 0,
-        "strasse": "Justinianstra\u00dfe 54e",
+        "strasse": "Geystra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
                 "fsem": 13
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 2
             }
         ],
-        "vorname": "Gerdfried",
+        "vorname": "Ingbert",
         "weiblich": false
     }
 }

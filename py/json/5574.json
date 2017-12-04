@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2803279,
+    "nummer": 2801411,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.04.1992",
-        "matrikelnummer": 2945313,
+        "fakultaet": 3,
+        "geburtsdatum": "08.05.1992",
+        "matrikelnummer": 2264983,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiesner",
-        "plzort": "53143 Bonn",
+        "nachname": "Winter",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Schreberstra\u00dfe 31",
+        "strasse": "Singerstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 5
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 12
             }
         ],
-        "vorname": "Dietwald",
+        "vorname": "Germut",
         "weiblich": false
     }
 }

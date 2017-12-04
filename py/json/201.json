@@ -1,28 +1,38 @@
 {
     "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1846494,
+    "nummer": 2938230,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "26.07.1996",
-        "matrikelnummer": 2460834,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 8,
+        "geburtsdatum": "25.10.1977",
+        "matrikelnummer": 2858961,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "53218 Bonn",
+        "plzort": "54426 Merschbach",
         "sternchen": 0,
-        "strasse": "Dornmattstra\u00dfe 13",
+        "strasse": "Rei\u00dfigerstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 8
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
         "vorname": "Sven",

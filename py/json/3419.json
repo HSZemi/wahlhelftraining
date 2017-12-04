@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1585795,
+    "nummer": 2766996,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.07.1998",
-        "matrikelnummer": 16923,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 6,
+        "geburtsdatum": "23.03.1988",
+        "matrikelnummer": 14317,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klein",
-        "plzort": "55566 Daubach",
+        "nachname": "Moll",
+        "plzort": "06507 Siptenfelde",
         "sternchen": 0,
-        "strasse": "Johann-Georg-Fahr-Anlage 14",
+        "strasse": "Carl Moreau-Stra\u00dfe 7",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 9
+                "fach": "Geologie/Pal\u00e4ontologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Schwanhild",
-        "weiblich": true
+        "vorname": "Harribert",
+        "weiblich": false
     }
 }

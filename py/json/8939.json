@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1984582,
+    "nummer": 2002414,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.09.1993",
-        "matrikelnummer": 2816659,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "13.10.1996",
+        "matrikelnummer": 3015240,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Karger",
-        "plzort": "91720 Absberg",
+        "nachname": "Kaiser",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Eberstadtstra\u00dfe 28",
+        "strasse": "Am Wald 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienkommunikation",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Nunzius",
-        "weiblich": false
+        "vorname": "Fridegund",
+        "weiblich": true
     }
 }

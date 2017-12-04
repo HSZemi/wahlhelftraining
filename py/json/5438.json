@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1671573,
+    "nummer": 1602807,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.02.1999",
-        "matrikelnummer": 18624,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "24.11.1991",
+        "matrikelnummer": 2933501,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pl\u00f6ger",
-        "plzort": "53187 Bonn",
+        "nachname": "Patzer",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00f6ttewitzer Weg 0",
+        "strasse": "Am Seifzerbach 32",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 9
+                "abschluss": "Bachelor of Arts",
+                "fach": "Franz\u00f6sistik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Koreanisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Sinologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Carsta",
+        "vorname": "Biggy",
         "weiblich": true
     }
 }

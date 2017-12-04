@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2331451,
+    "nummer": 1699363,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.02.1996",
-        "matrikelnummer": 2669904,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kohlmann",
-        "plzort": "53124 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "24.06.1990",
+        "matrikelnummer": 2312317,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rein",
+        "plzort": "01156 Dresden",
         "sternchen": 0,
-        "strasse": "Hans-Morper-Str. 3",
+        "strasse": "Klausenburger Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "English Literatures and Cultures",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
                 "fsem": 1
             }
         ],
-        "vorname": "Elke",
-        "weiblich": true
+        "vorname": "Nils",
+        "weiblich": false
     }
 }

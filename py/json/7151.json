@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1663079,
+    "nummer": 2341543,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.09.1994",
-        "matrikelnummer": 2665432,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "20.01.1995",
+        "matrikelnummer": 12955,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fcller",
-        "plzort": "54574 Birresborn",
+        "nachname": "Berberich",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Rodezstr. 5",
+        "strasse": "Mittelkanalbr\u00fccke 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 5
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Marc",
+        "vorname": "Steph",
         "weiblich": false
     }
 }

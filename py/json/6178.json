@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1431272,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2933710,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.08.1996",
-        "matrikelnummer": 2534206,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "26.02.1996",
+        "matrikelnummer": 2121140,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Barthel",
-        "plzort": "86879 Wiedergeltingen",
+        "nachname": "Dietz",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Galgenstra\u00dfe 1",
+        "strasse": "Rubinsteinstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
                 "fsem": 9
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 1
             }
         ],
-        "vorname": "Kristiane",
-        "weiblich": true
+        "vorname": "Amadeus",
+        "weiblich": false
     }
 }

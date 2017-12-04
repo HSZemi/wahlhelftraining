@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1952400,
+    "nummer": 1988873,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.12.1987",
-        "matrikelnummer": 2652358,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "03.02.1987",
+        "matrikelnummer": 18632,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steger",
-        "plzort": "53184 Bonn",
+        "nachname": "Schmitz",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "bearbeiten 13",
+        "strasse": "An der Schleife 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Tommy",
+        "vorname": "Ottheinrich",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1728155,
+    "nummer": 1702034,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "10.04.1996",
-        "matrikelnummer": 2698891,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "16.10.1990",
+        "matrikelnummer": 2974266,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Abel",
-        "plzort": "53189 Bonn",
+        "nachname": "Nickl",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Schweinfurter Str. 1",
+        "strasse": "Ludwig-Fulda-Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 8
             }
         ],
-        "vorname": "Milica",
-        "weiblich": true
+        "vorname": "Burghard",
+        "weiblich": false
     }
 }

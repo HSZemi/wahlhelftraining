@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2171932,
+    "nummer": 2940362,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.04.1993",
-        "matrikelnummer": 2899728,
+        "fakultaet": 1,
+        "geburtsdatum": "02.02.1994",
+        "matrikelnummer": 2625830,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6fling",
-        "plzort": "53155 Bonn",
+        "nachname": "Friese",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Marburger Stra\u00dfe 10",
+        "strasse": "Florianstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 1
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Sofie",
+        "vorname": "Urszula",
         "weiblich": true
     }
 }

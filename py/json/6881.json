@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2792897,
+    "nummer": 2306529,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.02.1990",
-        "matrikelnummer": 1929312,
+        "fakultaet": 7,
+        "geburtsdatum": "12.01.1993",
+        "matrikelnummer": 3180673,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "H\u00f6rmann",
-        "plzort": "53121 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "St\u00f6ver",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Oberen Waldteich 1",
+        "strasse": "Ernst-Merck-Br\u00fccke 4",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Linde",
+        "vorname": "Inge",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1735524,
+    "nummer": 2257145,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.02.1992",
-        "matrikelnummer": 2537138,
+        "fakultaet": 0,
+        "geburtsdatum": "18.08.1998",
+        "matrikelnummer": 158037,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Storz",
-        "plzort": "53143 Bonn",
+        "nachname": "Reischl",
+        "plzort": "17179 Behren-L\u00fcbchin",
         "sternchen": 0,
-        "strasse": "H\u00fchnerposten 3",
+        "strasse": "Am Leinritt 18a",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Halina",
-        "weiblich": true
+        "vorname": "Walbert",
+        "weiblich": false
     }
 }

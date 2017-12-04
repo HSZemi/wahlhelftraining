@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2765187,
+    "nummer": 2624153,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "14.07.1994",
-        "matrikelnummer": 2841835,
+        "fakultaet": 1,
+        "geburtsdatum": "28.12.1993",
+        "matrikelnummer": 13961,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kolbeck",
-        "plzort": "53118 Bonn",
+        "nachname": "Hartwich",
+        "plzort": "84175 Gerzen",
         "sternchen": 0,
-        "strasse": "An der Rysselkuppe 12c",
+        "strasse": "Waldhofweg 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 12
             }
         ],
-        "vorname": "Hellmuth",
-        "weiblich": false
+        "vorname": "Gunda",
+        "weiblich": true
     }
 }

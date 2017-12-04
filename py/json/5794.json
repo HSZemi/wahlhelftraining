@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2984811,
+    "nummer": 2910499,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "02.11.1993",
-        "matrikelnummer": 3143143,
+        "geburtsdatum": "08.03.1999",
+        "matrikelnummer": 3098107,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Koopmann",
-        "plzort": "53166 Bonn",
+        "nachname": "Dohmen",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Auf der Scholle 0",
+        "strasse": "Leonhard-Hei\u00dfwolf-Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Arts",
-                "fach": "Politikwissenschaft",
-                "fsem": 13
+                "fach": "English Literatures and Cultures",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Gerlach",
+        "vorname": "Sigfried",
         "weiblich": false
     }
 }

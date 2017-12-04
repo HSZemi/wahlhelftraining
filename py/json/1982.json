@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2107156,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2676166,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "09.07.1999",
-        "matrikelnummer": 2032860,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "14.07.1993",
+        "matrikelnummer": 3047012,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hagemann",
-        "plzort": "53148 Bonn",
+        "nachname": "Schauer",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Niederschelder Weg 10",
+        "strasse": "Alfred-Delp-Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Ortrun",
-        "weiblich": true
+        "vorname": "Ferdinandus",
+        "weiblich": false
     }
 }

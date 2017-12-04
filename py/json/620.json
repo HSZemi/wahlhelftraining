@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2886719,
+    "nummer": 1563652,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "01.07.1992",
-        "matrikelnummer": 2277218,
+        "fakultaet": 5,
+        "geburtsdatum": "28.09.1989",
+        "matrikelnummer": 2126078,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holzapfel",
-        "plzort": "53128 Bonn",
+        "nachname": "Krieg",
+        "plzort": "25852 Bordelum",
         "sternchen": 0,
-        "strasse": "Lausitzer Stra\u00dfe 4",
+        "strasse": "Gerberstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Klassische Arch\u00e4ologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Monica",
+        "vorname": "Francoise",
         "weiblich": true
     }
 }

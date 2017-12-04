@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2521036,
+    "nummer": 1658799,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.12.1989",
-        "matrikelnummer": 2457512,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "23.04.1997",
+        "matrikelnummer": 123738,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lauer",
-        "plzort": "53151 Bonn",
+        "nachname": "Reineke",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Schmiede 18",
+        "strasse": "Promenadestr. 8a",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Biochemistry",
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 2
             }
         ],
-        "vorname": "Hannspeter",
+        "vorname": "Jacob",
         "weiblich": false
     }
 }

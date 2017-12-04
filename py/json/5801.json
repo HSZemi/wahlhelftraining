@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1122567,
+    "nummer": 1379935,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "03.09.1999",
-        "matrikelnummer": 2254039,
+        "fakultaet": 4,
+        "geburtsdatum": "18.06.1994",
+        "matrikelnummer": 144574,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stickel",
-        "plzort": "44623 Herne",
+        "nachname": "Falke",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Moosstr. 2b",
+        "strasse": "Kohlgraben 5",
         "studienfaecher": [
             {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 10
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 4
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
             }
         ],
-        "vorname": "Edelgard",
-        "weiblich": true
+        "vorname": "Arwed",
+        "weiblich": false
     }
 }

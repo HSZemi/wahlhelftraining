@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1463314,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1805663,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.04.1992",
-        "matrikelnummer": 2861999,
+        "fakultaet": 7,
+        "geburtsdatum": "05.04.1999",
+        "matrikelnummer": 2893400,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53141 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Am Stiegelschlag 5b",
+        "strasse": "Heideplatz 9",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

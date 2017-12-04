@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1284180,
+    "nummer": 1022787,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.02.1993",
-        "matrikelnummer": 2039493,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 3,
+        "geburtsdatum": "23.08.1995",
+        "matrikelnummer": 3111237,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niehues",
-        "plzort": "25746 Norderw\u00f6hrden",
+        "nachname": "Gerstner",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Darnieweg 2",
+        "strasse": "Beuthener Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Arnhart",
+        "vorname": "Hasko",
         "weiblich": false
     }
 }

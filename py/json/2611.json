@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2381494,
+    "nummer": 2471672,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "04.01.1993",
-        "matrikelnummer": 1912557,
+        "fakultaet": 4,
+        "geburtsdatum": "20.05.1997",
+        "matrikelnummer": 141892,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pitz",
-        "plzort": "53208 Bonn",
+        "nachname": "Greiner",
+        "plzort": "24799 Friedrichsholm",
         "sternchen": 0,
-        "strasse": "Fliederstra\u00dfe 0",
+        "strasse": "An der Schwarzbachm\u00fchle 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
             }
         ],
-        "vorname": "Korinna",
-        "weiblich": true
+        "vorname": "Wido",
+        "weiblich": false
     }
 }

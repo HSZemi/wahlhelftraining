@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2154559,
+    "nummer": 1442508,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.04.1999",
-        "matrikelnummer": 2972376,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "08.02.1995",
+        "matrikelnummer": 2932742,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6der",
-        "plzort": "21514 G\u00f6ttin",
+        "nachname": "Dorsch",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Taubenweg 15e",
+        "strasse": "Nebingerhof 6",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 5
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Trudi",
-        "weiblich": true
+        "vorname": "Meinhard",
+        "weiblich": false
     }
 }

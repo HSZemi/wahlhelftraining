@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1293233,
+    "nummer": 2447758,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.11.1993",
-        "matrikelnummer": 1998710,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "13.09.1990",
+        "matrikelnummer": 2854463,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bendel",
-        "plzort": "24582 Bissee",
+        "nachname": "Krug",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Burgenlandweg 16",
+        "strasse": "Gerlachweg 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Welfhard",
+        "vorname": "Timotheus",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2087458,
+    "nummer": 1065970,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.12.1991",
-        "matrikelnummer": 3055206,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "08.11.1994",
+        "matrikelnummer": 16463,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baltes",
-        "plzort": "99947 Neunheilingen",
+        "nachname": "Germann",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Siget 19",
+        "strasse": "Otto-Ernst-Weg 45",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 10
+                "fach": "Kulturwissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Nordrun",
+        "vorname": "Franziska",
         "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2033870,
+    "nummer": 2828664,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "24.04.1986",
-        "matrikelnummer": 139256,
-        "mehrfachausfertigung": 4,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Goerke",
-        "plzort": "53184 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "13.07.1995",
+        "matrikelnummer": 12080,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Klassen",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Johanna-Spyri-Weg 2",
+        "strasse": "Welschgrabenstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Nordfried",
+        "vorname": "Karli",
         "weiblich": false
     }
 }

@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2466343,
+    "nummer": 2144240,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.05.1990",
-        "matrikelnummer": 3111222,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "28.08.1992",
+        "matrikelnummer": 2971801,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feige",
-        "plzort": "55776 Frauenberg",
+        "nachname": "Liese",
+        "plzort": "55483 Krummenau",
         "sternchen": 0,
-        "strasse": "Joseph-Keilberth-Stra\u00dfe 7",
+        "strasse": "Friedrich-Adolph-Sorge-Stra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             },
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 5
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Ferdinandus",
-        "weiblich": false
+        "vorname": "Anka",
+        "weiblich": true
     }
 }

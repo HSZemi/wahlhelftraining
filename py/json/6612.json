@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1909866,
+    "nummer": 1229969,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "09.11.1993",
-        "matrikelnummer": 14662,
+        "fakultaet": 6,
+        "geburtsdatum": "22.03.1991",
+        "matrikelnummer": 150637,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schnelle",
-        "plzort": "25767 Wennb\u00fcttel",
+        "nachname": "Matern",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Wollgrasweg 3",
+        "strasse": "Am Anfang 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Bertl",
+        "vorname": "Treuhart",
         "weiblich": false
     }
 }

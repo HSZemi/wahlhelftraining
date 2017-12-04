@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2642636,
+    "nummer": 2654199,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "07.12.1998",
-        "matrikelnummer": 2438152,
+        "fakultaet": 4,
+        "geburtsdatum": "09.07.1994",
+        "matrikelnummer": 3141461,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Speer",
-        "plzort": "53170 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rauch",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Werkstra\u00dfe 3",
+        "strasse": "H\u00e4ssige Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
             }
         ],
-        "vorname": "Ehrenfried",
+        "vorname": "Arist",
         "weiblich": false
     }
 }

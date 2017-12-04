@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2635401,
+    "nummer": 1870211,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "22.07.1994",
-        "matrikelnummer": 2748563,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "05.10.1997",
+        "matrikelnummer": 2226252,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Puls",
-        "plzort": "53139 Bonn",
+        "nachname": "Glatz",
+        "plzort": "92268 Etzelwang",
         "sternchen": 0,
-        "strasse": "Steinigtwiesenweg 1",
+        "strasse": "An der Berglehne 4",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 8
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 5
             }
         ],
-        "vorname": "Agnieszka",
+        "vorname": "Francoise",
         "weiblich": true
     }
 }

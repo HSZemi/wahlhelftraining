@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2407507,
-    "semester": "Sommersemester 2017",
+    "nummer": 2605799,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.02.1995",
-        "matrikelnummer": 1924570,
+        "fakultaet": 0,
+        "geburtsdatum": "14.02.1993",
+        "matrikelnummer": 2259386,
         "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wolters",
-        "plzort": "67308 Niefernheim-Zellertal",
+        "nachname": "Wolf",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Terrassengasse 5",
+        "strasse": "Bachstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Physik",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 3
             }
         ],
-        "vorname": "David",
+        "vorname": "Jost",
         "weiblich": false
     }
 }

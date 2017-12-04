@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2311832,
+    "nummer": 2223346,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "17.08.1991",
-        "matrikelnummer": 2160353,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "08.03.1987",
+        "matrikelnummer": 2067765,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bader",
-        "plzort": "53179 Bonn",
+        "nachname": "Harrer",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Rathenaustra\u00dfe 9",
+        "strasse": "Stettenstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Zahnmedizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 1
             }
         ],
-        "vorname": "Friedhard",
-        "weiblich": false
+        "vorname": "Lisl",
+        "weiblich": true
     }
 }

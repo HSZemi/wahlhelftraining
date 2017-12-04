@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1063424,
+    "nummer": 1117461,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.08.1992",
-        "matrikelnummer": 2991293,
+        "fakultaet": 9,
+        "geburtsdatum": "01.10.1995",
+        "matrikelnummer": 1922817,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tillmann",
-        "plzort": "53212 Bonn",
+        "nachname": "J\u00fcrgens",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "In den Biegen 13",
+        "strasse": "Hosaeusweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 1
             }
         ],
-        "vorname": "Arnfred",
+        "vorname": "Hansgeorg",
         "weiblich": false
     }
 }

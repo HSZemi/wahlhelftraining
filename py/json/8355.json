@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1065028,
+    "nummer": 2389284,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "08.03.1997",
-        "matrikelnummer": 2137647,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "22.04.1990",
+        "matrikelnummer": 134255,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hille",
-        "plzort": "53191 Bonn",
+        "nachname": "Linde",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Schanzenstra\u00dfe 1",
+        "strasse": "Robinienstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 5
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 12
             }
         ],
-        "vorname": "Josephina",
-        "weiblich": true
+        "vorname": "Jonas",
+        "weiblich": false
     }
 }

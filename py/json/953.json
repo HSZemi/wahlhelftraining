@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1853884,
+    "nummer": 1910187,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "25.12.1990",
-        "matrikelnummer": 2217360,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "08.02.1993",
+        "matrikelnummer": 13795,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ewers",
-        "plzort": "53202 Bonn",
+        "nachname": "Senger",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Renn-Allee 3b",
+        "strasse": "Mousonstra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 10
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 8
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 6
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Marie-Therese",
-        "weiblich": true
+        "vorname": "Detrich",
+        "weiblich": false
     }
 }

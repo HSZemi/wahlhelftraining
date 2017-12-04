@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1467596,
+    "nummer": 1601375,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.12.1999",
-        "matrikelnummer": 3077083,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "11.12.1996",
+        "matrikelnummer": 2975863,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ochs",
-        "plzort": "53209 Bonn",
+        "nachname": "Hellwig",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Eberhardtstr. 3",
+        "strasse": "Gillestra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kunstgeschichte",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Karlfried",
+        "vorname": "Wunnibald",
         "weiblich": false
     }
 }

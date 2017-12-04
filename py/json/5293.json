@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1636712,
+    "nummer": 2836067,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.06.1999",
-        "matrikelnummer": 3090177,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "03.10.1988",
+        "matrikelnummer": 2874014,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gl\u00f6ckner",
-        "plzort": "53142 Bonn",
+        "nachname": "Kalisch",
+        "plzort": "79291 Merdingen",
         "sternchen": 0,
-        "strasse": "An der Rennbahn 18",
+        "strasse": "Rudolf-Renner-Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Agricultural and Food Economics",
+                "fsem": 7
             }
         ],
-        "vorname": "Elrike",
-        "weiblich": true
+        "vorname": "Sascha",
+        "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1046231,
+    "nummer": 1353424,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "20.04.1996",
-        "matrikelnummer": 2824683,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "14.02.1999",
+        "matrikelnummer": 2662042,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6tter",
-        "plzort": "53213 Bonn",
+        "nachname": "B\u00e4umer",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fcmlingstra\u00dfe 2",
+        "strasse": "Meinhardtstr. 5b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Kunstgeschichte",
-                "fsem": 1
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Ruppert",
+        "vorname": "Erich",
         "weiblich": false
     }
 }

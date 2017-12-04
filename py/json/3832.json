@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1878440,
+    "nummer": 2086175,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "15.07.1997",
-        "matrikelnummer": 2083029,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "28.01.1993",
+        "matrikelnummer": 12630,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kast",
-        "plzort": "53156 Bonn",
+        "nachname": "Klumpp",
+        "plzort": "54655 Orsfeld",
         "sternchen": 0,
-        "strasse": "Mousonstra\u00dfe 11",
+        "strasse": "Hirterberggasse 32",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Heidegret",
+        "vorname": "Jo",
         "weiblich": true
     }
 }

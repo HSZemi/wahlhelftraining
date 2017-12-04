@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1561414,
+    "nummer": 2501041,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.12.1993",
-        "matrikelnummer": 2798618,
+        "fakultaet": 8,
+        "geburtsdatum": "10.02.1995",
+        "matrikelnummer": 11235,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hake",
-        "plzort": "53202 Bonn",
+        "nachname": "Kupfer",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Mosczinskystra\u00dfe 16",
+        "strasse": "Mundsburger Damm 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 13
             }
         ],
-        "vorname": "Theo",
+        "vorname": "Kay",
         "weiblich": false
     }
 }

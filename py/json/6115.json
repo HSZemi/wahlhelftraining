@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1266812,
+    "nummer": 1804793,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "04.01.1987",
-        "matrikelnummer": 17712,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "17.06.1994",
+        "matrikelnummer": 2350547,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kolodziej",
+        "nachname": "K\u00fchner",
         "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Sauerstra\u00dfe 3",
+        "strasse": "Feldkirchner Weg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Biologie",
-                "fsem": 1
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Heide",
-        "weiblich": true
+        "vorname": "Horstmar",
+        "weiblich": false
     }
 }

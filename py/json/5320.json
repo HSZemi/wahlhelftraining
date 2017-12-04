@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2830539,
+    "nummer": 1191911,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "16.10.1999",
-        "matrikelnummer": 2769467,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "12.01.1995",
+        "matrikelnummer": 193663,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kreutz",
-        "plzort": "25764 Reinsb\u00fcttel",
+        "nachname": "Epple",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Georg-Estler-Stra\u00dfe 19",
+        "strasse": "Van-Eyck-Str. 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
+                "abschluss": "Promotion",
                 "fach": "Katholische Theologie",
-                "fsem": 9
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Titus",
+        "vorname": "Germut",
         "weiblich": false
     }
 }

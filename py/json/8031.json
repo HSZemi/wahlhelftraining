@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2782678,
-    "semester": "Sommersemester 2017",
+    "nummer": 1944449,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "16.02.1987",
-        "matrikelnummer": 149395,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "27.04.1995",
+        "matrikelnummer": 3179811,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seibel",
-        "plzort": "04567 Kitzscher",
+        "nachname": "Lau",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Ingolst\u00e4dter Stra\u00dfe 0",
+        "strasse": "Klein\u2026 13",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             },
             {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Applied Linguistics",
+                "fsem": 13
             }
         ],
-        "vorname": "Jasmin",
-        "weiblich": true
+        "vorname": "Diethmar",
+        "weiblich": false
     }
 }

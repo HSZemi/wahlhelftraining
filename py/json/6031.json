@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1402426,
-    "semester": "Sommersemester 2017",
+    "nummer": 1542807,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "11.11.1985",
-        "matrikelnummer": 2674743,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "08.10.1999",
+        "matrikelnummer": 3045309,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weigand",
-        "plzort": "53173 Bonn",
+        "nachname": "Deutsch",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Guttenweg 21",
+        "strasse": "Hockeyweg 13b",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 3
             },
             {
                 "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "fach": "Keltologie",
                 "fsem": 4
             }
         ],
-        "vorname": "Madeleine",
-        "weiblich": true
+        "vorname": "Heimar",
+        "weiblich": false
     }
 }

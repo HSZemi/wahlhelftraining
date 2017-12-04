@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1658849,
+    "nummer": 2038769,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "02.09.1995",
-        "matrikelnummer": 2330111,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "07.07.1993",
+        "matrikelnummer": 2277599,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuhnert",
-        "plzort": "53209 Bonn",
+        "nachname": "Mahr",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Hinrichsenstra\u00dfe 10",
+        "strasse": "Im Uhrig 19",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Alexa",
-        "weiblich": true
+        "vorname": "Bernhardt",
+        "weiblich": false
     }
 }

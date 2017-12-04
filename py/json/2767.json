@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1705030,
+    "nummer": 2653529,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "15.05.1988",
-        "matrikelnummer": 2597040,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "07.10.1985",
+        "matrikelnummer": 140043,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Veith",
-        "plzort": "58509 L\u00fcdenscheid",
+        "nachname": "Utz",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00f6tzschenbroder Stra\u00dfe 15a",
+        "strasse": "Auersreihe 8b",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 5
             }
         ],
-        "vorname": "Bertolt",
-        "weiblich": false
+        "vorname": "Dorit",
+        "weiblich": true
     }
 }

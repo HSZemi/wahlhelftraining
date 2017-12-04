@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2108675,
+    "nummer": 2405918,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "03.02.1988",
-        "matrikelnummer": 2548363,
+        "geburtsdatum": "28.12.1988",
+        "matrikelnummer": 2840851,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Rahn",
-        "plzort": "53222 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Specht",
+        "plzort": "54340 Leiwen",
         "sternchen": 0,
-        "strasse": "Bibrachstra\u00dfe 4",
+        "strasse": "Auerswaldstra\u00dfe 12e",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
                 "fach": "Molekulare Biomedizin",
                 "fsem": 3
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Adolph",
-        "weiblich": false
+        "vorname": "Silke",
+        "weiblich": true
     }
 }

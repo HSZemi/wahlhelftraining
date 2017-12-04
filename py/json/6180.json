@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1084239,
+    "nummer": 1203818,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "10.06.1995",
-        "matrikelnummer": 2268006,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "12.08.1991",
+        "matrikelnummer": 2346325,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hardt",
-        "plzort": "53216 Bonn",
+        "nachname": "Ortner",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Erlenkamp 4",
+        "strasse": "Herchenhainer Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Edeltraudt",
+        "vorname": "Thilde",
         "weiblich": true
     }
 }

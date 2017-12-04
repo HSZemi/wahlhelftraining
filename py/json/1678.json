@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1552006,
+    "nummer": 1936788,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "16.07.1991",
-        "matrikelnummer": 2750072,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "12.06.1998",
+        "matrikelnummer": 13715,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neufeld",
-        "plzort": "53172 Bonn",
+        "nachname": "Rick",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Kannengie\u00dfergasse 14",
+        "strasse": "Obstmarkt 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Gisela",
-        "weiblich": true
+        "vorname": "Hartwald",
+        "weiblich": false
     }
 }

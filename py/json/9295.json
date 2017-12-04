@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2285523,
+    "nummer": 2647577,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.06.1993",
-        "matrikelnummer": 2526023,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "04.01.1998",
+        "matrikelnummer": 2312246,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heisig",
-        "plzort": "35216 Biedenkopf",
+        "nachname": "Born",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Bernburger Weg 1",
+        "strasse": "Porzellanhofstra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Ignazia",
-        "weiblich": true
+        "vorname": "Nicolas",
+        "weiblich": false
     }
 }

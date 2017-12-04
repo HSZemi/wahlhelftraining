@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2433877,
+    "nummer": 1910810,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.01.1998",
-        "matrikelnummer": 2746647,
+        "fakultaet": 5,
+        "geburtsdatum": "04.01.1999",
+        "matrikelnummer": 2359274,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brinker",
-        "plzort": "53224 Bonn",
+        "nachname": "Clemens",
+        "plzort": "80939 M\u00fcnchen",
         "sternchen": 0,
-        "strasse": "Dorfplatz 3",
+        "strasse": "Joseph Haydn-Gasse 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Master of Arts",
+                "fach": "Altamerikanistik/Ethnologie",
                 "fsem": 12
             }
         ],
-        "vorname": "Natali",
-        "weiblich": true
+        "vorname": "Rezzo",
+        "weiblich": false
     }
 }

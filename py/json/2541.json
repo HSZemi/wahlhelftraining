@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2544518,
+    "nummer": 2371909,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.01.1995",
-        "matrikelnummer": 2514132,
+        "fakultaet": 4,
+        "geburtsdatum": "04.10.1992",
+        "matrikelnummer": 115011,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gericke",
-        "plzort": "53222 Bonn",
+        "nachname": "Welsch",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Hakenweg 1",
+        "strasse": "Teubnerweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 1
             }
         ],
-        "vorname": "Gundel",
-        "weiblich": true
+        "vorname": "Englbert",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1068960,
+    "nummer": 1373130,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.09.1996",
-        "matrikelnummer": 12767,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "27.11.1994",
+        "matrikelnummer": 3150752,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Erler",
-        "plzort": "53163 Bonn",
+        "nachname": "Kromer",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Eberhardtstr. 6",
+        "strasse": "Kampener Stieg 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geologie/Pal\u00e4ontologie",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 12
             }
         ],
-        "vorname": "Heidegard",
-        "weiblich": true
+        "vorname": "Bertolt",
+        "weiblich": false
     }
 }

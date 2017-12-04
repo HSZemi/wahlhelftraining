@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2615444,
+    "nummer": 2853941,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "14.12.1990",
-        "matrikelnummer": 3122182,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "06.10.1997",
+        "matrikelnummer": 2292324,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kleinhans",
-        "plzort": "53175 Bonn",
+        "nachname": "Friedrich",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Ullersdorfer Platz 11",
+        "strasse": "Robert-Koch-Allee 1",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 2
             }
         ],
-        "vorname": "Gundemarie",
-        "weiblich": true
+        "vorname": "Otthart",
+        "weiblich": false
     }
 }

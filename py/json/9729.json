@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2599431,
+    "nummer": 1988178,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "18.04.1996",
-        "matrikelnummer": 2185851,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "04.12.1998",
+        "matrikelnummer": 2018365,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Andersen",
-        "plzort": "53134 Bonn",
+        "nachname": "Sauter",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Am Melbersee 2a",
+        "strasse": "Gr\u00e4fstra\u00dfe 12",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 9
             }
         ],
-        "vorname": "Edelfried",
+        "vorname": "Reinar",
         "weiblich": false
     }
 }

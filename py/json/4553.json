@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2747872,
-    "semester": "Sommersemester 2017",
+    "nummer": 2584649,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "02.10.1994",
-        "matrikelnummer": 2267825,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "23.06.1999",
+        "matrikelnummer": 2928913,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Unruh",
-        "plzort": "53148 Bonn",
+        "nachname": "Kilian",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Vorwerk 7",
+        "strasse": "Martin-Andersen-Nex\u00f6-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 13
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Deutsch",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Informatik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Holle",
-        "weiblich": true
+        "vorname": "Gisbert",
+        "weiblich": false
     }
 }

@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1047976,
+    "nummer": 2004469,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "02.02.1999",
-        "matrikelnummer": 1920483,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "20.05.1999",
+        "matrikelnummer": 2599884,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ruoff",
-        "plzort": "53117 Bonn",
+        "nachname": "Freiberg",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Benkertstr. 1",
+        "strasse": "Corvinusweg 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Chemie",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 9
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Gertmund",
-        "weiblich": false
+        "vorname": "Leonore",
+        "weiblich": true
     }
 }

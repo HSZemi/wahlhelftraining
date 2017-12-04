@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1174737,
-    "semester": "Sommersemester 2017",
+    "nummer": 1630708,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.04.1995",
-        "matrikelnummer": 2226126,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "26.12.1991",
+        "matrikelnummer": 1966794,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schiebel",
-        "plzort": "25581 Hennstedt",
+        "nachname": "Fr\u00fchauf",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Lauensteinstr. 3",
+        "strasse": "Wilhelm-Beer-Weg 21",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Mathematik",
-                "fsem": 4
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Klotilde",
+        "vorname": "Friedeburg",
         "weiblich": true
     }
 }

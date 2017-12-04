@@ -1,46 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2900503,
+    "nummer": 2766802,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "09.04.1987",
-        "matrikelnummer": 2012873,
-        "mehrfachausfertigung": 4,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "14.12.1993",
+        "matrikelnummer": 11478,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frech",
-        "plzort": "53192 Bonn",
+        "nachname": "Prell",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Heimchenweg 2",
+        "strasse": "Kurt-Beyer-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "English Literatures and Cultures",
+                "fsem": 5
             },
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Italienisch",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Margarethe",
-        "weiblich": true
+        "vorname": "Heilmuth",
+        "weiblich": false
     }
 }

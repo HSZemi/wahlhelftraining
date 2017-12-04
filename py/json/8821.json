@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1313168,
+    "nummer": 1873067,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.03.1992",
-        "matrikelnummer": 2737099,
+        "fakultaet": 6,
+        "geburtsdatum": "06.11.1989",
+        "matrikelnummer": 2440010,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4ring",
-        "plzort": "53213 Bonn",
+        "nachname": "Gl\u00e4ser",
+        "plzort": "06632 Gr\u00f6\u00dfnitz",
         "sternchen": 0,
-        "strasse": "Am Feldweg 16",
+        "strasse": "Gommernsche Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 10
+                "fach": "Pharmazie",
+                "fsem": 8
             }
         ],
-        "vorname": "Nico",
-        "weiblich": false
+        "vorname": "Hannah",
+        "weiblich": true
     }
 }

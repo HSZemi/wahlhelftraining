@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2592676,
+    "nummer": 2139111,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.04.1999",
-        "matrikelnummer": 2448589,
+        "fakultaet": 3,
+        "geburtsdatum": "09.10.1987",
+        "matrikelnummer": 2172249,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Grenz",
-        "plzort": "53173 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Prause",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Uferstra\u00dfe 26",
+        "strasse": "Ammelburgstra\u00dfe 30",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 5
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 6
             }
         ],
-        "vorname": "Wolfmar",
+        "vorname": "Jonas",
         "weiblich": false
     }
 }

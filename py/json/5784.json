@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1682207,
+    "nummer": 1747906,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "18.02.1999",
-        "matrikelnummer": 3068416,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "22.05.1990",
+        "matrikelnummer": 3041936,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rauh",
-        "plzort": "26847 Detern",
+        "nachname": "Peschke",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlenkampbr\u00fccke 7",
+        "strasse": "Erlenstieg 8d",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Arabistik",
+                "fsem": 6
             }
         ],
-        "vorname": "Ilsabe",
+        "vorname": "Erna",
         "weiblich": true
     }
 }

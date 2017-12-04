@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2185246,
-    "semester": "Sommersemester 2017",
+    "nummer": 2049213,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.04.1990",
-        "matrikelnummer": 2019660,
+        "fakultaet": 5,
+        "geburtsdatum": "18.04.1992",
+        "matrikelnummer": 13442,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Keitel",
-        "plzort": "53211 Bonn",
+        "nachname": "Gundlach",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Pr\u00e4chterstra\u00dfe 1",
+        "strasse": "Amelia-Mary-Earhart-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 5
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 8
             }
         ],
-        "vorname": "Folko",
-        "weiblich": false
+        "vorname": "Reni",
+        "weiblich": true
     }
 }

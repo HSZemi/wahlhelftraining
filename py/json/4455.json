@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1385955,
+    "nummer": 1794889,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "12.06.1999",
-        "matrikelnummer": 2357355,
+        "fakultaet": 2,
+        "geburtsdatum": "25.12.1994",
+        "matrikelnummer": 2532396,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Blankenburg",
-        "plzort": "53191 Bonn",
+        "nachname": "Eggers",
+        "plzort": "06420 Rothenburg",
         "sternchen": 0,
-        "strasse": "Sachsenplatz 4",
+        "strasse": "Schneckengasse 28",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Christiana",
-        "weiblich": true
+        "vorname": "Utz",
+        "weiblich": false
     }
 }

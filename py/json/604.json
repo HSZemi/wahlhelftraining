@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2281417,
+    "nummer": 1381706,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.07.1996",
-        "matrikelnummer": 2142624,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "21.08.1994",
+        "matrikelnummer": 2138377,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sachs",
-        "plzort": "53141 Bonn",
+        "nachname": "Reiner",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Lilienweg 9",
+        "strasse": "Dr. Ernst Franz-Stra\u00dfe 3",
         "studienfaecher": [
             {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 9
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 7
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Tilman",
-        "weiblich": false
+        "vorname": "Hiltraud",
+        "weiblich": true
     }
 }

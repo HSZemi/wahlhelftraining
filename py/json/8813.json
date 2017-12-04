@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1725539,
+    "nummer": 2356700,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.11.1992",
-        "matrikelnummer": 2568506,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "18.02.1989",
+        "matrikelnummer": 163881,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kerscher",
-        "plzort": "53209 Bonn",
+        "nachname": "Merkel",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Wesselyring 10",
+        "strasse": "L\u00e4rchenweg 5",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
             }
         ],
-        "vorname": "Liane",
-        "weiblich": true
+        "vorname": "Folkhard",
+        "weiblich": false
     }
 }

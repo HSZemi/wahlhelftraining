@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2277397,
+    "nummer": 1674990,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "08.06.1991",
-        "matrikelnummer": 2972019,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "05.05.1996",
+        "matrikelnummer": 2582625,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stegmann",
-        "plzort": "53210 Bonn",
+        "nachname": "Buchwald",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Rotteckstra\u00dfe 8",
+        "strasse": "Alpenstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Hilda",
-        "weiblich": true
+        "vorname": "Mirco",
+        "weiblich": false
     }
 }

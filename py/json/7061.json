@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1553157,
+    "nummer": 1638398,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "21.08.1987",
-        "matrikelnummer": 3069351,
+        "geburtsdatum": "10.04.1997",
+        "matrikelnummer": 12380,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Falke",
-        "plzort": "53207 Bonn",
+        "nachname": "Pietschmann",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Adlhochplatz 9",
+        "strasse": "Hofackerstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Komparatistik",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Lienhardt",
-        "weiblich": false
+        "vorname": "Giovanna",
+        "weiblich": true
     }
 }

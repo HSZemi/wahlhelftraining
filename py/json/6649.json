@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2852439,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1426321,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.04.1993",
-        "matrikelnummer": 3184268,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "11.01.1989",
+        "matrikelnummer": 2366088,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Herb",
-        "plzort": "53121 Bonn",
+        "nachname": "B\u00f6se",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Kleyerstra\u00dfe 24",
+        "strasse": "Pissarroweg 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Abraham",
-        "weiblich": false
+        "vorname": "Brita",
+        "weiblich": true
     }
 }

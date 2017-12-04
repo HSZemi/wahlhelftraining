@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2460158,
+    "nummer": 2094068,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.09.1997",
-        "matrikelnummer": 2341795,
+        "fakultaet": 7,
+        "geburtsdatum": "01.02.1997",
+        "matrikelnummer": 2706171,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauptmann",
-        "plzort": "53223 Bonn",
+        "nachname": "Bongartz",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Radilostra\u00dfe 6",
+        "strasse": "Zum Fruchthof 17",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Wulf",
-        "weiblich": false
+        "vorname": "Annegret",
+        "weiblich": true
     }
 }

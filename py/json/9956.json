@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2564932,
+    "nummer": 1949227,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.11.1987",
-        "matrikelnummer": 2712517,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "08.06.1993",
+        "matrikelnummer": 2516476,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Voigt",
-        "plzort": "54636 Idesheim",
+        "nachname": "Schurr",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Lietbargredder 5",
+        "strasse": "B\u00e4renklauser Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Erdwin",
-        "weiblich": false
+        "vorname": "Sofia",
+        "weiblich": true
     }
 }

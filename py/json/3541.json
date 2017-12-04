@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1687347,
+    "nummer": 1389921,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "20.06.1997",
-        "matrikelnummer": 1913678,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "09.08.1990",
+        "matrikelnummer": 181437,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Vaupel",
-        "plzort": "53122 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Roller",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Gustav-Behringer-Stra\u00dfe 8",
+        "strasse": "Gro\u00dfsedlitzer Weg 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 13
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 8
             }
         ],
-        "vorname": "Ella",
-        "weiblich": true
+        "vorname": "Bartosch",
+        "weiblich": false
     }
 }

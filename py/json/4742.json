@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1571371,
+    "nummer": 2534286,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "03.04.1991",
-        "matrikelnummer": 12815,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "20.02.1995",
+        "matrikelnummer": 2613893,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Obermaier",
-        "plzort": "53154 Bonn",
+        "nachname": "Ziegler",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Mittelstra\u00dfe 10",
+        "strasse": "An der Praunheimer M\u00fchle 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 4
             }
         ],
-        "vorname": "Sigismund",
+        "vorname": "Bernfried",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1880636,
+    "nummer": 2277547,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "24.03.1999",
-        "matrikelnummer": 2843617,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "26.02.1989",
+        "matrikelnummer": 178587,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lindenberg",
-        "plzort": "53192 Bonn",
+        "nachname": "Kalinowski",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Am T\u00e4lchen 5",
+        "strasse": "Buchenweg 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Lebensmitteltechnologie",
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
                 "fsem": 11
             }
         ],
-        "vorname": "Oliver",
+        "vorname": "Ronald",
         "weiblich": false
     }
 }

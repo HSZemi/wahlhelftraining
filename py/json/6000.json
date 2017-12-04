@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2563455,
+    "nummer": 1154739,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.07.1999",
-        "matrikelnummer": 2003893,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "22.06.1991",
+        "matrikelnummer": 1940995,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thies",
-        "plzort": "53205 Bonn",
+        "nachname": "Grafe",
+        "plzort": "06686 Gro\u00dfg\u00f6rschen",
         "sternchen": 0,
-        "strasse": "Ma\u00dfholderpfad 11",
+        "strasse": "Hirschbacher Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Emeram",
-        "weiblich": false
+        "vorname": "Oxana",
+        "weiblich": true
     }
 }

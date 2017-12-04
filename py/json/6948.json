@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2046594,
+    "nummer": 1106122,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.09.1998",
-        "matrikelnummer": 143168,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "28.10.1999",
+        "matrikelnummer": 2800920,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kettler",
-        "plzort": "53145 Bonn",
+        "nachname": "Rabe",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Magdeburger Stra\u00dfe 16",
+        "strasse": "Otto-Fleck-Schneise 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 2
+                "fsem": 10
             }
         ],
-        "vorname": "Burkard",
-        "weiblich": false
+        "vorname": "Elsbeth",
+        "weiblich": true
     }
 }

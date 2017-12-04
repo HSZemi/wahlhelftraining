@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2931872,
+    "nummer": 1221707,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.12.1996",
-        "matrikelnummer": 3095561,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "03.07.1996",
+        "matrikelnummer": 2376330,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kampe",
-        "plzort": "53221 Bonn",
+        "nachname": "Voigt",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Toller-Stra\u00dfe 0",
+        "strasse": "Heinrich-Weber-Platz 41",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 2
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 7
             }
         ],
-        "vorname": "Anja",
+        "vorname": "Betti",
         "weiblich": true
     }
 }

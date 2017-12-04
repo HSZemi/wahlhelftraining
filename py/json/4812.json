@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1204340,
+    "nummer": 2446349,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.12.1992",
-        "matrikelnummer": 2088402,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "05.07.1999",
+        "matrikelnummer": 3174562,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rie\u00df",
-        "plzort": "53136 Bonn",
+        "nachname": "Gerth",
+        "plzort": "86650 Wemding",
         "sternchen": 0,
-        "strasse": "Conrad-Weil-Gasse 6",
+        "strasse": "Ernst-Heinkel-Stra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
             }
         ],
-        "vorname": "Thilde",
-        "weiblich": true
+        "vorname": "Loisl",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1174043,
+    "nummer": 1878661,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "20.08.1999",
-        "matrikelnummer": 2647983,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "08.05.1994",
+        "matrikelnummer": 1971430,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53178 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Dittersdorfer Stra\u00dfe 19",
+        "strasse": "Sachsenbergstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 8
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

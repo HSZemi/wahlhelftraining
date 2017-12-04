@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2921014,
+    "nummer": 2371888,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.11.1989",
-        "matrikelnummer": 2210194,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "21.10.1990",
+        "matrikelnummer": 2874037,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Riemann",
-        "plzort": "53168 Bonn",
+        "nachname": "Wiener",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Mozartstra\u00dfe 5",
+        "strasse": "D\u00f6braer Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Chinesisch",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Asienwissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Edda",
-        "weiblich": true
+        "vorname": "Urban",
+        "weiblich": false
     }
 }

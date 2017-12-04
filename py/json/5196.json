@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2741315,
+    "nummer": 2200489,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.10.1996",
-        "matrikelnummer": 15228,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "20.12.1987",
+        "matrikelnummer": 3164966,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Enke",
-        "plzort": "37127 Scheden",
+        "nachname": "R\u00f6ssler",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Cossebauder Stra\u00dfe 8",
+        "strasse": "Angerstra\u00dfe 5",
         "studienfaecher": [
             {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 10
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 13
             }
         ],
-        "vorname": "Dietram",
+        "vorname": "Gelbert",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2936484,
+    "nummer": 1278969,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "27.03.1996",
-        "matrikelnummer": 2457098,
+        "fakultaet": 4,
+        "geburtsdatum": "18.04.1999",
+        "matrikelnummer": 2908364,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53195 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zemantek",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Sportplatz 0",
+        "strasse": "Oberfeldstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

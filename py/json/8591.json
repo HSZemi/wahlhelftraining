@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1092248,
+    "nummer": 1151620,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "28.01.1992",
-        "matrikelnummer": 2453045,
+        "geburtsdatum": "25.07.1996",
+        "matrikelnummer": 11321,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hansen",
-        "plzort": "66798 Wallerfangen",
+        "nachname": "Kraft",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Am Werk 15",
+        "strasse": "Scheidswaldstra\u00dfe 14a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "fach": "Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Birgitta",
-        "weiblich": true
+        "vorname": "Eckehart",
+        "weiblich": false
     }
 }

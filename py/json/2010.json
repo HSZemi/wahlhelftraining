@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2460904,
+    "nummer": 1071552,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "07.08.1998",
-        "matrikelnummer": 2808568,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "07.11.1992",
+        "matrikelnummer": 2875189,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Falk",
-        "plzort": "55483 Heinzenbach",
+        "nachname": "Orlowski",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Bl\u00fccherweg 5",
+        "strasse": "Neuburgst\u00e4dtel 13",
         "studienfaecher": [
             {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "fach": "Entwicklungsforschung",
+                "fsem": 4
             }
         ],
-        "vorname": "Hansjakob",
+        "vorname": "Heinzpeter",
         "weiblich": false
     }
 }

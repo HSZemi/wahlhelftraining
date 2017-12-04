@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1120407,
+    "nummer": 2424404,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "24.08.1993",
-        "matrikelnummer": 2374039,
+        "fakultaet": 4,
+        "geburtsdatum": "22.06.1992",
+        "matrikelnummer": 2499593,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "17268 Mittenwalde",
+        "nachname": "Zemantek",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Matternstra\u00dfe 2",
+        "strasse": "Brauereiweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

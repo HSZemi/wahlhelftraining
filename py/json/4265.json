@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1912938,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2412258,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.05.1992",
-        "matrikelnummer": 2994001,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "05.07.1999",
+        "matrikelnummer": 2593506,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ley",
-        "plzort": "26939 Ovelg\u00f6nne",
+        "nachname": "St\u00f6ckel",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Ketzendorfer Grund 6",
+        "strasse": "Katzensprung 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie",
+                "fsem": 13
             }
         ],
-        "vorname": "Klotilde",
+        "vorname": "Bozena",
         "weiblich": true
     }
 }

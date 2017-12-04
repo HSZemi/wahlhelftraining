@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2158352,
+    "nummer": 2855995,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "07.01.1996",
-        "matrikelnummer": 14290,
+        "fakultaet": 5,
+        "geburtsdatum": "09.01.1998",
+        "matrikelnummer": 2189259,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Freytag",
-        "plzort": "53132 Bonn",
+        "nachname": "Pawlik",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Singapurweg 1",
+        "strasse": "An den Dorfwiesen 0",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 8
+                "abschluss": "Master of Arts",
+                "fach": "Applied Linguistics",
+                "fsem": 2
             },
             {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Holdina",
-        "weiblich": true
+        "vorname": "Gregor",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1297539,
+    "nummer": 1283598,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.10.1999",
-        "matrikelnummer": 2272808,
+        "fakultaet": 0,
+        "geburtsdatum": "06.07.1994",
+        "matrikelnummer": 2749606,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kleinhans",
-        "plzort": "53165 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Haider",
+        "plzort": "55585 Niederhausen",
         "sternchen": 0,
-        "strasse": "Kiekmoor 3",
+        "strasse": "Berbisdorfer Stra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Mathematics",
-                "fsem": 13
+                "fach": "Life Science Informatics",
+                "fsem": 10
             }
         ],
-        "vorname": "Gustl",
+        "vorname": "Hanswilhelm",
         "weiblich": false
     }
 }

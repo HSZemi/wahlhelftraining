@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1364075,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2898751,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.04.1999",
-        "matrikelnummer": 2865294,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Stemmler",
-        "plzort": "61137 Sch\u00f6neck",
+        "fakultaet": 2,
+        "geburtsdatum": "26.01.1999",
+        "matrikelnummer": 1971266,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kunst",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Conrad-Felixm\u00fcller-Stra\u00dfe 38",
+        "strasse": "Von-He\u00df-Weg 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Raik",
+        "vorname": "Edgar",
         "weiblich": false
     }
 }

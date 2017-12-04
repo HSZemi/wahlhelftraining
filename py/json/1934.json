@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2417457,
+    "nummer": 1723568,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "28.06.1994",
-        "matrikelnummer": 2199882,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gebel",
-        "plzort": "53126 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "24.10.1986",
+        "matrikelnummer": 2061756,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "St\u00f6ckel",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Sterl-Stra\u00dfe 0a",
+        "strasse": "Arthur-Schlo\u00dfmann-Weg 12",
         "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 9
+            },
             {
                 "abschluss": "Kirchl.Ex.",
                 "fach": "Evangelische Theologie",
                 "fsem": 1
             }
         ],
-        "vorname": "Daphne",
-        "weiblich": true
+        "vorname": "Hilmar",
+        "weiblich": false
     }
 }

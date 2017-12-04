@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1743104,
+    "nummer": 1990127,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "06.01.1991",
-        "matrikelnummer": 2366529,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "24.09.1990",
+        "matrikelnummer": 2914538,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rump",
-        "plzort": "93356 Teugn",
+        "nachname": "Backes",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Dreik\u00f6nigstra\u00dfe 9",
+        "strasse": "Martin-Weber-Platz 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
                 "fsem": 4
             }
         ],
-        "vorname": "Hanife",
+        "vorname": "Lieselene",
         "weiblich": true
     }
 }

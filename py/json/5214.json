@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2163311,
+    "nummer": 1827733,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.05.1996",
-        "matrikelnummer": 179899,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Fix",
-        "plzort": "38479 Tappenbeck",
+        "fakultaet": 7,
+        "geburtsdatum": "25.06.1992",
+        "matrikelnummer": 2323413,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Muth",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Unkersdorfer Weg 10b",
+        "strasse": "Sechslingspforte 9",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Latein",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Biologie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 7
             }
         ],
-        "vorname": "Catherine",
-        "weiblich": true
+        "vorname": "Heinzfried",
+        "weiblich": false
     }
 }

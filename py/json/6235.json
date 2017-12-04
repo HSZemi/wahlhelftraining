@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1426406,
+    "nummer": 1279682,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "16.01.1998",
-        "matrikelnummer": 2499008,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "13.08.1996",
+        "matrikelnummer": 3147573,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hintze",
-        "plzort": "13353 Berlin",
+        "nachname": "Maschke",
+        "plzort": "16866 Kolrep",
         "sternchen": 0,
-        "strasse": "Sebastian-Rinz-Stra\u00dfe 0",
+        "strasse": "Schellenbergstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 1
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 5
             }
         ],
-        "vorname": "Oskar",
-        "weiblich": false
+        "vorname": "Hildegart",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1195594,
+    "nummer": 1860891,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.09.1999",
-        "matrikelnummer": 2635253,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "15.08.1999",
+        "matrikelnummer": 3010259,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schaub",
-        "plzort": "53124 Bonn",
+        "nachname": "Weinrich",
+        "plzort": "99628 Olbersleben",
         "sternchen": 0,
-        "strasse": "Pfisterstr. 7",
+        "strasse": "Marienallee 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Soziologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Liselotte",
+        "vorname": "Liesegret",
         "weiblich": true
     }
 }

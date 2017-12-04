@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2213027,
+    "nummer": 2093434,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.11.1993",
-        "matrikelnummer": 3193326,
+        "fakultaet": 4,
+        "geburtsdatum": "15.01.1989",
+        "matrikelnummer": 2972874,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Altmeyer",
-        "plzort": "66359 Bous",
+        "nachname": "Behn",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Im Wickengarten 17e",
+        "strasse": "Stammannstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Isidor",
-        "weiblich": false
+        "vorname": "Gabriela",
+        "weiblich": true
     }
 }

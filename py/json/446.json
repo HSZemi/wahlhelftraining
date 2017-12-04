@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1002649,
+    "nummer": 1827509,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "13.04.1997",
-        "matrikelnummer": 1997254,
+        "fakultaet": 7,
+        "geburtsdatum": "17.05.1990",
+        "matrikelnummer": 12773,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53189 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Bert-Brecht-Stra\u00dfe 3",
+        "strasse": "Maukestieg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

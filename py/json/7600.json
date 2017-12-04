@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1701505,
+    "nummer": 2001604,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.03.1993",
-        "matrikelnummer": 2175178,
+        "fakultaet": 1,
+        "geburtsdatum": "17.08.1985",
+        "matrikelnummer": 2766856,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schacht",
-        "plzort": "53158 Bonn",
+        "nachname": "Majewski",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Stormsweg 25",
+        "strasse": "\u00d6sterreicher Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Fred",
-        "weiblich": false
+        "vorname": "Ingemarie",
+        "weiblich": true
     }
 }

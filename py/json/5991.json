@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1598572,
+    "nummer": 1676285,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.04.1996",
-        "matrikelnummer": 2337491,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "01.07.1999",
+        "matrikelnummer": 2884091,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weniger",
-        "plzort": "53112 Bonn",
+        "nachname": "Niklas",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Georg-Thielen-Gasse 9",
+        "strasse": "Spohrstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 5
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 11
             }
         ],
-        "vorname": "Ignatia",
-        "weiblich": true
+        "vorname": "Ottheinrich",
+        "weiblich": false
     }
 }

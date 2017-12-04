@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1701545,
+    "nummer": 1944610,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.01.1998",
-        "matrikelnummer": 2352482,
+        "fakultaet": 2,
+        "geburtsdatum": "22.12.1991",
+        "matrikelnummer": 2565224,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gabel",
-        "plzort": "56659 Burgbrohl",
+        "nachname": "Jung",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Graf-de-Thoranc-Passage 5",
+        "strasse": "Ullersdorf-Langebr\u00fccker Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Otger",
+        "vorname": "Detlef",
         "weiblich": false
     }
 }

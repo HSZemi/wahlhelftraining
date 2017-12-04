@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2359999,
+    "nummer": 2351816,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "21.10.1997",
-        "matrikelnummer": 2594342,
+        "fakultaet": 7,
+        "geburtsdatum": "14.11.1990",
+        "matrikelnummer": 2405580,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Abraham",
-        "plzort": "53128 Bonn",
+        "nachname": "Worm",
+        "plzort": "84389 Postm\u00fcnster",
         "sternchen": 0,
-        "strasse": "Staffelbergweg 4",
+        "strasse": "Zaubernu\u00dfallee 3c",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 13
+                "fach": "Ernaehrungswiss.",
+                "fsem": 4
             }
         ],
-        "vorname": "Hetty",
+        "vorname": "Ingolde",
         "weiblich": true
     }
 }

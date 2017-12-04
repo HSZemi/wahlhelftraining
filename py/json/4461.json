@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1253271,
+    "nummer": 2470074,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "23.04.1992",
-        "matrikelnummer": 2317068,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "26.03.1992",
+        "matrikelnummer": 2667225,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stutz",
-        "plzort": "53203 Bonn",
+        "nachname": "Eberle",
+        "plzort": "98530 Rohr",
         "sternchen": 0,
-        "strasse": "Lohmener Stra\u00dfe 0",
+        "strasse": "Bauernweg 30",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
             }
         ],
-        "vorname": "Heidegret",
-        "weiblich": true
+        "vorname": "Edmund",
+        "weiblich": false
     }
 }

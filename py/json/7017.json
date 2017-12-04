@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1092387,
+    "nummer": 1569761,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "27.04.1991",
-        "matrikelnummer": 2988698,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "22.06.1989",
+        "matrikelnummer": 17437,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bormann",
-        "plzort": "53165 Bonn",
+        "nachname": "Scherf",
+        "plzort": "33330 G\u00fctersloh",
         "sternchen": 0,
-        "strasse": "Ullersdorfer Landstra\u00dfe 1",
+        "strasse": "Am Wasserwerk 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Nikolas",
-        "weiblich": false
+        "vorname": "Runhild",
+        "weiblich": true
     }
 }

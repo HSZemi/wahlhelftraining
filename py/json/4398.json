@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2019579,
+    "nummer": 1589477,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.08.1997",
-        "matrikelnummer": 2137858,
+        "fakultaet": 8,
+        "geburtsdatum": "13.04.1993",
+        "matrikelnummer": 2953424,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Weil",
-        "plzort": "53189 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Langhammer",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Krantzstra\u00dfe 1",
+        "strasse": "Herrnstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Poldi",
-        "weiblich": true
+        "vorname": "Florentius",
+        "weiblich": false
     }
 }

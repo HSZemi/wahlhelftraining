@@ -1,46 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2153917,
+    "nummer": 2217469,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.07.1991",
-        "matrikelnummer": 2137447,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 9,
+        "geburtsdatum": "07.05.1999",
+        "matrikelnummer": 2935373,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dickmann",
-        "plzort": "53189 Bonn",
+        "nachname": "Tremmel",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Im Langenacker 7",
+        "strasse": "B\u00f6schenweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
             },
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 4
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 12
             },
             {
                 "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 4
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 12
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "fsem": 12
             }
         ],
-        "vorname": "Helmward",
+        "vorname": "Diemo",
         "weiblich": false
     }
 }

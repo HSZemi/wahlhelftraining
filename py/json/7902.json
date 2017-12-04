@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1829972,
+    "nummer": 2036419,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "15.05.1996",
-        "matrikelnummer": 169133,
+        "fakultaet": 5,
+        "geburtsdatum": "11.09.1989",
+        "matrikelnummer": 2139862,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Karsten",
-        "plzort": "53203 Bonn",
+        "nachname": "Sauter",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Arnst\u00e4dter Weg 1",
+        "strasse": "Muckermannstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Cathrin",
+        "vorname": "Raisa",
         "weiblich": true
     }
 }

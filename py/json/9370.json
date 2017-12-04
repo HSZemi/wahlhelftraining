@@ -2,40 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2306291,
+    "nummer": 2111253,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "10.08.1994",
-        "matrikelnummer": 2946578,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "26.04.1986",
+        "matrikelnummer": 19316,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jacobs",
-        "plzort": "53113 Bonn",
+        "nachname": "Fast",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Washingtonstra\u00dfe 2",
+        "strasse": "Gnaschwitzer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Italienisch",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Biologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Helfried",
-        "weiblich": false
+        "vorname": "Trixi",
+        "weiblich": true
     }
 }

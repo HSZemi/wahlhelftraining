@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2364871,
+    "nummer": 1128525,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "03.02.1996",
-        "matrikelnummer": 2931418,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "24.06.1996",
+        "matrikelnummer": 14885,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lutter",
-        "plzort": "39629 Holzhausen",
+        "nachname": "H\u00f6pfner",
+        "plzort": "25554 Kleve",
         "sternchen": 0,
-        "strasse": "Salomon-Petri-Ring 29",
+        "strasse": "Ludwig-Ermold-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Marianne",
-        "weiblich": true
+        "vorname": "Hagen",
+        "weiblich": false
     }
 }

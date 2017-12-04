@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2983034,
-    "semester": "Sommersemester 2017",
+    "nummer": 2080043,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.04.1993",
-        "matrikelnummer": 2097246,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 6,
+        "geburtsdatum": "06.07.1996",
+        "matrikelnummer": 1917331,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6tter",
-        "plzort": "53115 Bonn",
+        "nachname": "Dengler",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Stephan-Heise-Stra\u00dfe 0",
+        "strasse": "Wilsdruffer Ring 5e",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Nutzpflanzenwissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Engelhard",
+        "vorname": "Dietbald",
         "weiblich": false
     }
 }

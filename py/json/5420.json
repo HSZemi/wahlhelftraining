@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1619424,
+    "nummer": 1637987,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "25.07.1996",
-        "matrikelnummer": 1932088,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "25.05.1998",
+        "matrikelnummer": 2098354,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Elsner",
-        "plzort": "53147 Bonn",
+        "nachname": "Gruhn",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Bleidenstra\u00dfe 0",
+        "strasse": "Pirnaer Landstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Gundula",
-        "weiblich": true
+        "vorname": "Welf",
+        "weiblich": false
     }
 }

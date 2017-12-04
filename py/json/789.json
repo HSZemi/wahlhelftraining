@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1110240,
+    "nummer": 1704925,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "03.01.1998",
-        "matrikelnummer": 2544484,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "19.07.1994",
+        "matrikelnummer": 2588393,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6ttcher",
-        "plzort": "53151 Bonn",
+        "nachname": "Buschmann",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Graf-Stauffenberg-Platz 0",
+        "strasse": "Gederner Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
                 "fsem": 10
             }
         ],
-        "vorname": "Friedhart",
+        "vorname": "Thilo",
         "weiblich": false
     }
 }

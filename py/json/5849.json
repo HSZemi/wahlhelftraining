@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2511751,
+    "nummer": 1868425,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "16.12.1990",
-        "matrikelnummer": 3105481,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "07.10.1993",
+        "matrikelnummer": 2025417,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lucht",
-        "plzort": "39638 Estedt",
+        "nachname": "Fels",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Adenauerufer 4",
+        "strasse": "Lochm\u00fchlenweg 0c",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 5
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Lina",
-        "weiblich": true
+        "vorname": "Hanno",
+        "weiblich": false
     }
 }

@@ -1,41 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2694991,
+    "nummer": 2789251,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "11.02.1993",
-        "matrikelnummer": 1931208,
+        "geburtsdatum": "25.12.1995",
+        "matrikelnummer": 1983273,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckert",
-        "plzort": "53211 Bonn",
+        "nachname": "Klaas",
+        "plzort": "39606 K\u00f6nigsmark",
         "sternchen": 0,
-        "strasse": "Johann-Sittig-Stra\u00dfe 0",
+        "strasse": "Bertolt-Brecht-Allee 3",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 7
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 10
             },
             {
                 "abschluss": "",
                 "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 13
+                "fsem": 10
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 12
             }
         ],
-        "vorname": "Meinolf",
-        "weiblich": false
+        "vorname": "Inga",
+        "weiblich": true
     }
 }

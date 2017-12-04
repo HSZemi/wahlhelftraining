@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1925612,
+    "nummer": 1038512,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.05.1992",
-        "matrikelnummer": 2581816,
+        "fakultaet": 5,
+        "geburtsdatum": "05.08.1995",
+        "matrikelnummer": 2713414,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hopp",
-        "plzort": "53113 Bonn",
+        "nachname": "Metzler",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Karl-Sch\u00fcler-Weg 6",
+        "strasse": "Finkenweg 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Neuere deutsche Literatur",
+                "fsem": 2
             }
         ],
-        "vorname": "Susana",
-        "weiblich": true
+        "vorname": "Wilbrand",
+        "weiblich": false
     }
 }

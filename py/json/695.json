@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1506486,
+    "nummer": 1138299,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.05.1997",
-        "matrikelnummer": 1951289,
+        "fakultaet": 8,
+        "geburtsdatum": "14.06.1997",
+        "matrikelnummer": 2288809,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weide",
-        "plzort": "17322 Grambow",
+        "nachname": "Hotz",
+        "plzort": "56368 Roth",
         "sternchen": 0,
-        "strasse": "Poggenpohl 13",
+        "strasse": "Ewald-Kluge-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
                 "fsem": 3
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Andrea",
+        "vorname": "Betty",
         "weiblich": true
     }
 }

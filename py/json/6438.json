@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2273558,
+    "nummer": 1410496,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.07.1994",
-        "matrikelnummer": 2267652,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 7,
+        "geburtsdatum": "06.05.1997",
+        "matrikelnummer": 2251137,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heller",
-        "plzort": "53180 Bonn",
+        "nachname": "Heumann",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Silesiusstra\u00dfe 14",
+        "strasse": "Ettlingerstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 12
             }
         ],
-        "vorname": "Uwe",
-        "weiblich": false
+        "vorname": "Annelies",
+        "weiblich": true
     }
 }

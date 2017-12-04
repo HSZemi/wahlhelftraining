@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2793651,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2317600,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.04.1996",
-        "matrikelnummer": 2053810,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "27.10.1989",
+        "matrikelnummer": 2992174,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rank",
-        "plzort": "53229 Bonn",
+        "nachname": "Maschke",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Feldkirchner Weg 8",
+        "strasse": "Rahnstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Josua",
+        "vorname": "Hannes",
         "weiblich": false
     }
 }

@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2031970,
+    "nummer": 1813312,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "20.02.1999",
-        "matrikelnummer": 127566,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "18.03.1997",
+        "matrikelnummer": 144925,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Welter",
-        "plzort": "67705 Stelzenberg",
+        "nachname": "Fehrenbach",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Trib\u00fcnenweg 3",
+        "strasse": "Baumackerstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "abschluss": "Promotion",
+                "fach": "Computational Life Sciences",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 5
             }
         ],
-        "vorname": "Joschka",
+        "vorname": "Marius",
         "weiblich": false
     }
 }

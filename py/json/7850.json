@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2294831,
+    "nummer": 2226762,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "12.04.1993",
-        "matrikelnummer": 2322590,
+        "fakultaet": 9,
+        "geburtsdatum": "11.10.1990",
+        "matrikelnummer": 136858,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Achenbach",
-        "plzort": "53132 Bonn",
+        "nachname": "Bahr",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Neuburgst\u00e4dtel 21",
+        "strasse": "M\u00f6nchsholz 18",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 4
             }
         ],
-        "vorname": "Ansbert",
+        "vorname": "Helgomar",
         "weiblich": false
     }
 }

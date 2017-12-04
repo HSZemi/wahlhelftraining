@@ -1,41 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1167142,
+    "nummer": 2215023,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.09.1996",
-        "matrikelnummer": 18327,
+        "fakultaet": 6,
+        "geburtsdatum": "14.08.1997",
+        "matrikelnummer": 2822106,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53147 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Marbachweg 7",
+        "strasse": "Eisentaler Weg 32",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Physik",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 13
             },
             {
                 "abschluss": "",
-                "fach": "Englisch",
-                "fsem": 2
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "fsem": 13
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

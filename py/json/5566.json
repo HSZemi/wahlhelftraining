@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1555837,
+    "nummer": 2149581,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "05.04.1997",
-        "matrikelnummer": 18225,
+        "fakultaet": 9,
+        "geburtsdatum": "09.03.1992",
+        "matrikelnummer": 2575696,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Posselt",
-        "plzort": "53220 Bonn",
+        "nachname": "Klaus",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Aronstr. 12",
+        "strasse": "Sachsenkamp 20",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Margarete",
-        "weiblich": true
+        "vorname": "Bertl",
+        "weiblich": false
     }
 }

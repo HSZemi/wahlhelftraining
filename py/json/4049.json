@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": true
     },
-    "nummer": 1758593,
+    "nummer": 2825491,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "23.10.1997",
-        "matrikelnummer": 2241963,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "25.08.1992",
+        "matrikelnummer": 3171184,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sacher",
-        "plzort": "77880 Sasbach",
+        "nachname": "K\u00e4mpf",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Sontraer Stra\u00dfe 1",
+        "strasse": "Steigerweg 0",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "\u00c4gyptologie",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "fach": "Economics",
+                "fsem": 7
             }
         ],
-        "vorname": "Theresa",
-        "weiblich": true
+        "vorname": "Tommy",
+        "weiblich": false
     }
 }

@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2273467,
+    "nummer": 2466635,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.03.1999",
-        "matrikelnummer": 2480260,
+        "fakultaet": 6,
+        "geburtsdatum": "03.12.1990",
+        "matrikelnummer": 18211,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scholz",
-        "plzort": "91729 Haundorf",
+        "nachname": "Stender",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Ahornstra\u00dfe 0",
+        "strasse": "Briesnitzer H\u00f6he 12",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Connie",
-        "weiblich": true
+        "vorname": "Edgar",
+        "weiblich": false
     }
 }

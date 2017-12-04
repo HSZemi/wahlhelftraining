@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2655882,
+    "nummer": 2196667,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "25.08.1983",
-        "matrikelnummer": 2987748,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "17.07.1994",
+        "matrikelnummer": 17227,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kania",
-        "plzort": "65375 Oestrich-Winkel",
+        "nachname": "Meier",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Im Wichheimer Feld 7",
+        "strasse": "Windm\u00fchlstra\u00dfe 28",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 13
             }
         ],
-        "vorname": "Bernd",
-        "weiblich": false
+        "vorname": "Gerlind",
+        "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1873424,
+    "nummer": 2279901,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "27.08.1990",
-        "matrikelnummer": 2734749,
+        "geburtsdatum": "02.12.1996",
+        "matrikelnummer": 2104684,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brinker",
-        "plzort": "69123 Heidelberg",
+        "nachname": "Schl\u00f6mer",
+        "plzort": "42899 Remscheid",
         "sternchen": 0,
-        "strasse": "Heinrich-Seliger-Stra\u00dfe 31",
+        "strasse": "Letzter Heller 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Deutsche Sprache u.\u00e4ltere deutsche Literatur",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 11
             }
         ],
-        "vorname": "Lukas",
-        "weiblich": false
+        "vorname": "Britt",
+        "weiblich": true
     }
 }

@@ -1,41 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2824693,
+    "nummer": 2210274,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "22.09.1993",
-        "matrikelnummer": 2836019,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kleber",
-        "plzort": "53138 Bonn",
+        "geburtsdatum": "10.03.1995",
+        "matrikelnummer": 2051485,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klapper",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Trompeterstra\u00dfe 23c",
+        "strasse": "Daseweg 9",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 1
             },
             {
                 "abschluss": "",
-                "fach": "Italienisch",
-                "fsem": 10
+                "fach": "Griechisch",
+                "fsem": 1
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "fsem": 2
             }
         ],
-        "vorname": "Evamarie",
-        "weiblich": true
+        "vorname": "Sieghart",
+        "weiblich": false
     }
 }

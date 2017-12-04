@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1597107,
+    "nummer": 2645182,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.01.1986",
-        "matrikelnummer": 2149432,
+        "fakultaet": 8,
+        "geburtsdatum": "01.02.1992",
+        "matrikelnummer": 2910495,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Abel",
-        "plzort": "53178 Bonn",
+        "nachname": "Wiechert",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Faulborngasse 12",
+        "strasse": "Johann-Meyer-Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
-                "fsem": 7
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Sascha",
+        "vorname": "Markus",
         "weiblich": false
     }
 }

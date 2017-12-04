@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1717921,
+    "nummer": 2802904,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.06.1988",
-        "matrikelnummer": 2222584,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "19.01.1989",
+        "matrikelnummer": 2981939,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rottmann",
-        "plzort": "53156 Bonn",
+        "nachname": "Reichmann",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Im Vogelsgesang 7e",
+        "strasse": "Saarplatz 11",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 12
             },
             {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 13
             }
         ],
-        "vorname": "Franziska",
-        "weiblich": true
+        "vorname": "Maurus",
+        "weiblich": false
     }
 }

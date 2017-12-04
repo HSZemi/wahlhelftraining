@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2319650,
+    "nummer": 2075682,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.11.1996",
-        "matrikelnummer": 2790679,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Sommerfeld",
-        "plzort": "53173 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "01.05.1988",
+        "matrikelnummer": 2244563,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Spiegel",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fcnchberger Str. 25",
+        "strasse": "Grubenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
+                "fsem": 1
             }
         ],
-        "vorname": "Doraline",
+        "vorname": "Sofia",
         "weiblich": true
     }
 }

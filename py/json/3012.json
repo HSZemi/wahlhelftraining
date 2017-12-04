@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2667046,
+    "nummer": 1013010,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.02.1996",
-        "matrikelnummer": 3173176,
+        "fakultaet": 2,
+        "geburtsdatum": "11.09.1986",
+        "matrikelnummer": 191668,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Busse",
-        "plzort": "53193 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Paul",
+        "plzort": "25927 Neukirchen",
         "sternchen": 0,
-        "strasse": "Ingolst\u00e4dter Stra\u00dfe 3",
+        "strasse": "Heiligkreuzgasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Solveig",
-        "weiblich": true
+        "vorname": "Jannick",
+        "weiblich": false
     }
 }

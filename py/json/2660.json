@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1534190,
+    "nummer": 2696420,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "21.11.1992",
-        "matrikelnummer": 2882204,
+        "fakultaet": 5,
+        "geburtsdatum": "05.07.1996",
+        "matrikelnummer": 2864138,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weihrauch",
-        "plzort": "53168 Bonn",
+        "nachname": "Birke",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Stufenweg 7",
+        "strasse": "Am Kirschfeld 2e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Keltologie",
                 "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Meinhard",
-        "weiblich": false
+        "vorname": "Inken",
+        "weiblich": true
     }
 }

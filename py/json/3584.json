@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2021707,
+    "nummer": 2167193,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "08.07.1995",
-        "matrikelnummer": 16225,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "28.05.1998",
+        "matrikelnummer": 2896390,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Graupner",
-        "plzort": "53193 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "V\u00f6lkl",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Spitalgasse 3",
+        "strasse": "Friedberger Tor 41",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 6
             }
         ],
-        "vorname": "Nicole",
+        "vorname": "Magret",
         "weiblich": true
     }
 }

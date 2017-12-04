@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1754672,
+    "nummer": 2368172,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.07.1989",
-        "matrikelnummer": 3192647,
+        "fakultaet": 7,
+        "geburtsdatum": "16.04.1991",
+        "matrikelnummer": 2080529,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Clasen",
-        "plzort": "53147 Bonn",
+        "nachname": "Thomsen",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Ostmoorweg 28",
+        "strasse": "Bei der Vogelstange 30",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 3
             }
         ],
-        "vorname": "Christhardt",
-        "weiblich": false
+        "vorname": "Annie",
+        "weiblich": true
     }
 }

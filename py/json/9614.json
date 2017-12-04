@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1267892,
+    "nummer": 1876059,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.06.1997",
-        "matrikelnummer": 2572030,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "23.12.1992",
+        "matrikelnummer": 11746,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6nisch",
-        "plzort": "53123 Bonn",
+        "nachname": "Freyer",
+        "plzort": "53489 Sinzig",
         "sternchen": 0,
-        "strasse": "Adam-Riese-Platz 2",
+        "strasse": "Gr\u00fcndelsteig 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
                 "fsem": 12
             }
         ],
-        "vorname": "Kilian",
-        "weiblich": false
+        "vorname": "Sybill",
+        "weiblich": true
     }
 }

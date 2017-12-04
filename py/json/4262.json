@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2630767,
+    "nummer": 1741557,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.08.1995",
-        "matrikelnummer": 13268,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "16.03.1994",
+        "matrikelnummer": 2680704,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kelm",
-        "plzort": "14513 Teltow",
+        "nachname": "Schwind",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "J\u00fcrgen-Ponto-Platz 8",
+        "strasse": "Frauenhofstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
                 "fsem": 5
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 9
             }
         ],
-        "vorname": "Dorothe",
-        "weiblich": true
+        "vorname": "Friedmut",
+        "weiblich": false
     }
 }

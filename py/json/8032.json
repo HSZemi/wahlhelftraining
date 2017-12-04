@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2069364,
+    "nummer": 2688312,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.05.1997",
-        "matrikelnummer": 2449434,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 9,
+        "geburtsdatum": "17.06.1995",
+        "matrikelnummer": 3023756,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Quandt",
-        "plzort": "53158 Bonn",
+        "nachname": "Fehr",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Baxmannweg 9",
+        "strasse": "Opitzstra\u00dfe 37",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geographie",
+                "fsem": 3
             }
         ],
-        "vorname": "Rainhardt",
+        "vorname": "Renatus",
         "weiblich": false
     }
 }

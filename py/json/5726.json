@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2054958,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2390568,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 9,
-        "geburtsdatum": "03.10.1992",
-        "matrikelnummer": 2655930,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "04.05.1992",
+        "matrikelnummer": 2664668,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fries",
-        "plzort": "06779 Schierau",
+        "nachname": "Keitel",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "F\u00fcrstenwalder Stra\u00dfe 1",
+        "strasse": "Baeyerstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Heilmuth",
-        "weiblich": false
+        "vorname": "Heidelore",
+        "weiblich": true
     }
 }

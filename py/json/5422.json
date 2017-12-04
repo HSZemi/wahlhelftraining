@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1788332,
+    "nummer": 2955355,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "05.12.1991",
-        "matrikelnummer": 2180515,
+        "fakultaet": 5,
+        "geburtsdatum": "10.01.1985",
+        "matrikelnummer": 2718235,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Raschke",
-        "plzort": "68163 Mannheim",
+        "nachname": "Schubert",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Heideweg 23",
+        "strasse": "Dampfschiffstra\u00dfe 6c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Skandinavistik",
+                "fsem": 4
             }
         ],
-        "vorname": "Knuth",
-        "weiblich": false
+        "vorname": "Sunhild",
+        "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2005113,
+    "nummer": 1621434,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.02.1994",
-        "matrikelnummer": 2591593,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "28.08.1990",
+        "matrikelnummer": 2804732,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4gele",
-        "plzort": "55767 Abentheuer",
+        "nachname": "Kummer",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Corvinusweg 12",
+        "strasse": "Stierst\u00e4dter Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Svea",
-        "weiblich": true
+        "vorname": "Bodomar",
+        "weiblich": false
     }
 }

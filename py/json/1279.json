@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1362223,
+    "nummer": 1969311,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "06.11.1996",
-        "matrikelnummer": 11868,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "28.03.1990",
+        "matrikelnummer": 3017900,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weirich",
-        "plzort": "53220 Bonn",
+        "nachname": "Meisel",
+        "plzort": "91054 Buckenhof",
         "sternchen": 0,
-        "strasse": "Am Gleise 3c",
+        "strasse": "Waldhofstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Geschichte",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Mathematik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Mittelalterstudien",
+                "fsem": 4
             }
         ],
-        "vorname": "Hiltraud",
-        "weiblich": true
+        "vorname": "Ottokar",
+        "weiblich": false
     }
 }

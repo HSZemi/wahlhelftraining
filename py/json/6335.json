@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2881501,
+    "nummer": 2765749,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "12.11.1991",
-        "matrikelnummer": 1982689,
+        "fakultaet": 7,
+        "geburtsdatum": "06.11.1994",
+        "matrikelnummer": 3150772,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wehr",
-        "plzort": "53185 Bonn",
+        "nachname": "Nu\u00dfbaum",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "D\u00fcrerstra\u00dfe 13",
+        "strasse": "Andreas-Hofer-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 8
             }
         ],
-        "vorname": "Irmelinde",
-        "weiblich": true
+        "vorname": "Baptist",
+        "weiblich": false
     }
 }

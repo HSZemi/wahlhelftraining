@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1960755,
+    "nummer": 2741050,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "14.02.1990",
-        "matrikelnummer": 2164032,
+        "fakultaet": 2,
+        "geburtsdatum": "20.12.1991",
+        "matrikelnummer": 2469321,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hans",
-        "plzort": "53137 Bonn",
+        "nachname": "Teuber",
+        "plzort": "16866 Dannenwalde",
         "sternchen": 0,
-        "strasse": "Gustav-Schwab-Stra\u00dfe 5",
+        "strasse": "Sievekingdamm 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             }
         ],
-        "vorname": "Gerwin",
+        "vorname": "Heinzwerner",
         "weiblich": false
     }
 }

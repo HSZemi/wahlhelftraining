@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1001133,
+    "nummer": 1575980,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "08.06.1992",
-        "matrikelnummer": 2450945,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 0,
+        "geburtsdatum": "10.05.1999",
+        "matrikelnummer": 3093646,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6gler",
-        "plzort": "53129 Bonn",
+        "nachname": "Berg",
+        "plzort": "24943 Flensburg",
         "sternchen": 0,
-        "strasse": "Rennplatzstra\u00dfe 0",
+        "strasse": "Wilhelm-Lachnit-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Benedikta",
-        "weiblich": true
+        "vorname": "Thiemo",
+        "weiblich": false
     }
 }

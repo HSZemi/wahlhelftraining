@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2374227,
+    "nummer": 2756453,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.08.1994",
-        "matrikelnummer": 2617114,
+        "fakultaet": 8,
+        "geburtsdatum": "22.11.1990",
+        "matrikelnummer": 2746371,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiedemann",
-        "plzort": "53117 Bonn",
+        "nachname": "Saller",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Borsigstra\u00dfe 23",
+        "strasse": "Bussardweg 32",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "North American Studies",
-                "fsem": 13
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Ingemarie",
+        "vorname": "Milka",
         "weiblich": true
     }
 }

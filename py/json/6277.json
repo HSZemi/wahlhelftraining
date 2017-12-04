@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2286495,
+    "nummer": 1877901,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "22.05.1997",
-        "matrikelnummer": 2266555,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "07.12.1999",
+        "matrikelnummer": 2892785,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scholze",
-        "plzort": "53126 Bonn",
+        "nachname": "M\u00fchlbauer",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Untermainkai 5",
+        "strasse": "Zum Seeblick 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 10
             }
         ],
-        "vorname": "Annegrete",
-        "weiblich": true
+        "vorname": "Quintus",
+        "weiblich": false
     }
 }

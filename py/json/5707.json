@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1022403,
+    "nummer": 1732149,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.06.1996",
-        "matrikelnummer": 174087,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "25.05.1994",
+        "matrikelnummer": 3111448,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6rtz",
-        "plzort": "53214 Bonn",
+        "nachname": "Barz",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Wuppertaler Stra\u00dfe 8",
+        "strasse": "Altvaterstra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Medienwissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Hansgeorg",
+        "vorname": "Arnolf",
         "weiblich": false
     }
 }

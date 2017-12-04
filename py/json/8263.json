@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1631227,
+    "nummer": 1327783,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.02.1996",
-        "matrikelnummer": 136493,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "25.02.1986",
+        "matrikelnummer": 1921471,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Menz",
-        "plzort": "53150 Bonn",
+        "nachname": "Brucker",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Amsinckstra\u00dfe 4",
+        "strasse": "Am Rasen 12a",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Chemie",
-                "fsem": 3
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Evangelia",
+        "vorname": "Martina",
         "weiblich": true
     }
 }

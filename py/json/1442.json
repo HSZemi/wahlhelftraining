@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1704032,
+    "nummer": 1181441,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.04.1995",
-        "matrikelnummer": 188563,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kruse",
-        "plzort": "53133 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "18.09.1996",
+        "matrikelnummer": 2153452,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zeiler",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "D\u00f6hlener Stra\u00dfe 17",
+        "strasse": "Friedrich-Adolph-Sorge-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
                 "fsem": 6
             }
         ],
-        "vorname": "Friedhard",
+        "vorname": "Treufried",
         "weiblich": false
     }
 }

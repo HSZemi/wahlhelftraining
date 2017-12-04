@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1705325,
+    "nummer": 2515206,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.01.1998",
-        "matrikelnummer": 2431668,
+        "fakultaet": 0,
+        "geburtsdatum": "16.12.1989",
+        "matrikelnummer": 2239745,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bangert",
-        "plzort": "53118 Bonn",
+        "nachname": "Mucha",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Cauerstra\u00dfe 11d",
+        "strasse": "Weegmannufer 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 3
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 7
             }
         ],
-        "vorname": "Louis",
-        "weiblich": false
+        "vorname": "Marie-Louise",
+        "weiblich": true
     }
 }

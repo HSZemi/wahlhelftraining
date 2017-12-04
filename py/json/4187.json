@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2425968,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1123120,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.07.1991",
-        "matrikelnummer": 133024,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "26.08.1995",
+        "matrikelnummer": 2324491,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mair",
-        "plzort": "53163 Bonn",
+        "nachname": "Schober",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Baumeisterstra\u00dfe 10d",
+        "strasse": "Stormsweg 2c",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Gerta",
+        "vorname": "Ilsefriede",
         "weiblich": true
     }
 }

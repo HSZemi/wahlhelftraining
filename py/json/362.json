@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1013196,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2284504,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "11.03.1986",
-        "matrikelnummer": 2723651,
+        "geburtsdatum": "07.12.1995",
+        "matrikelnummer": 2672394,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Zemantek",
-        "plzort": "53173 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinen",
+        "plzort": "55743 Kirschweiler",
         "sternchen": 0,
-        "strasse": "Josephinenstra\u00dfe 0",
+        "strasse": "Rudolf-Hilferding-Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Life Science Informatics",
-                "fsem": 11
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

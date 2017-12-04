@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1240576,
+    "nummer": 1229372,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.03.1993",
-        "matrikelnummer": 2940534,
+        "fakultaet": 1,
+        "geburtsdatum": "03.03.1998",
+        "matrikelnummer": 2893233,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Biedermann",
-        "plzort": "24806 Hohn",
+        "nachname": "Geyer",
+        "plzort": "06449 Schadeleben",
         "sternchen": 0,
-        "strasse": "Oldenburger Stra\u00dfe 11d",
+        "strasse": "Kleincarsdorfer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Raphael",
+        "vorname": "Tobias",
         "weiblich": false
     }
 }

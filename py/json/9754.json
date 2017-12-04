@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1161662,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1893230,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.02.1996",
-        "matrikelnummer": 13595,
+        "fakultaet": 4,
+        "geburtsdatum": "07.03.1991",
+        "matrikelnummer": 2848635,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schiefer",
-        "plzort": "56254 M\u00fcden",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bacher",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Utrillostra\u00dfe 5",
+        "strasse": "Vilbeler Stra\u00dfe 18",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "fach": "Neurosciences",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Irmingard",
-        "weiblich": true
+        "vorname": "Bartosch",
+        "weiblich": false
     }
 }

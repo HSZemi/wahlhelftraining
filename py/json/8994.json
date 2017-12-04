@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1051360,
+    "nummer": 2447412,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "07.05.1995",
-        "matrikelnummer": 1909127,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 3,
+        "geburtsdatum": "18.09.1999",
+        "matrikelnummer": 2368132,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siemers",
-        "plzort": "34590 Wabern",
+        "nachname": "Birk",
+        "plzort": "19249 G\u00f6\u00dflow",
         "sternchen": 0,
-        "strasse": "Meriandamm 5",
+        "strasse": "Am Selzerbrunnen 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 5
             },
             {
                 "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 1
+                "fach": "Lebensmittelchemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Siegfriede",
+        "vorname": "Annetraude",
         "weiblich": true
     }
 }

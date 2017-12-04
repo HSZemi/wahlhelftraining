@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1369701,
+    "nummer": 1560342,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "04.01.1996",
-        "matrikelnummer": 2757377,
+        "fakultaet": 6,
+        "geburtsdatum": "20.09.1991",
+        "matrikelnummer": 3088771,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fenske",
-        "plzort": "53114 Bonn",
+        "nachname": "Rother",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Mahlbergstra\u00dfe 2",
+        "strasse": "Gasanstaltstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Naturschutz und Landschafts\u00f6kologie",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Josefine",
+        "vorname": "Helgard",
         "weiblich": true
     }
 }

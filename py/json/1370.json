@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2341432,
+    "nummer": 2006976,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "06.01.1992",
-        "matrikelnummer": 3141240,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "05.08.1993",
+        "matrikelnummer": 3037995,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kempe",
-        "plzort": "53159 Bonn",
+        "nachname": "Hofstetter",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Micktner Stra\u00dfe 11",
+        "strasse": "Risselsteinweg 9",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
                 "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
             }
         ],
-        "vorname": "Suzanne",
-        "weiblich": true
+        "vorname": "Theo",
+        "weiblich": false
     }
 }

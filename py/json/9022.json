@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1302528,
+    "nummer": 1745810,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.01.1989",
-        "matrikelnummer": 3033133,
+        "fakultaet": 1,
+        "geburtsdatum": "23.02.1999",
+        "matrikelnummer": 2401968,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6hr",
-        "plzort": "53121 Bonn",
+        "nachname": "Plath",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Mayfarthstra\u00dfe 4",
+        "strasse": "Tannenweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Biochemistry",
-                "fsem": 1
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 5
             }
         ],
-        "vorname": "Trudi",
-        "weiblich": true
+        "vorname": "Helfrid",
+        "weiblich": false
     }
 }

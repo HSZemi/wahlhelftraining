@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2478709,
+    "nummer": 1708565,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "17.12.1991",
-        "matrikelnummer": 2220155,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "04.08.1993",
+        "matrikelnummer": 13014,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wortmann",
-        "plzort": "53142 Bonn",
+        "nachname": "Boldt",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Porthstra\u00dfe 54",
+        "strasse": "Wolfszug 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
                 "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Sybil",
+        "vorname": "Saskia",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2076517,
+    "nummer": 1227806,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.04.1995",
-        "matrikelnummer": 170517,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "27.12.1994",
+        "matrikelnummer": 16367,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gruner",
-        "plzort": "23898 Sirksfelde",
+        "nachname": "Hinzmann",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Kohlenstra\u00dfe 5",
+        "strasse": "H\u00f6henstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Asienwissenschaften",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Betty",
+        "vorname": "Dela",
         "weiblich": true
     }
 }

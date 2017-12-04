@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1217797,
+    "nummer": 1840430,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.05.1993",
-        "matrikelnummer": 13114,
+        "fakultaet": 3,
+        "geburtsdatum": "07.08.1992",
+        "matrikelnummer": 2731029,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Spieker",
-        "plzort": "53173 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schl\u00f6mer",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Demblerstr. 12",
+        "strasse": "Lochnerstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 3
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 6
             }
         ],
-        "vorname": "Sandra",
-        "weiblich": true
+        "vorname": "Pirmin",
+        "weiblich": false
     }
 }

@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1881766,
-    "semester": "Sommersemester 2017",
+    "nummer": 2945460,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "20.02.1992",
-        "matrikelnummer": 2587791,
+        "fakultaet": 6,
+        "geburtsdatum": "17.07.1989",
+        "matrikelnummer": 16595,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Theis",
-        "plzort": "14641 M\u00fchlenberge",
+        "nachname": "Buhl",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Winterbachstra\u00dfe 3",
+        "strasse": "Allendorfer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Ferdinand",
+        "vorname": "Stefan",
         "weiblich": false
     }
 }

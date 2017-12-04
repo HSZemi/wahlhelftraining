@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2076453,
+    "nummer": 2379969,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "08.05.1999",
-        "matrikelnummer": 2391439,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "01.06.1989",
+        "matrikelnummer": 2159063,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Denecke",
-        "plzort": "53121 Bonn",
+        "nachname": "Wachter",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Hauff-Stra\u00dfe 1",
+        "strasse": "Waldstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 5
             }
         ],
-        "vorname": "Ulrich",
+        "vorname": "Cai",
         "weiblich": false
     }
 }

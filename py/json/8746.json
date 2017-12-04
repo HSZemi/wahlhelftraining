@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2451930,
+    "nummer": 1017606,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.02.1999",
-        "matrikelnummer": 2837972,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "08.04.1995",
+        "matrikelnummer": 2187236,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diederichs",
-        "plzort": "53169 Bonn",
+        "nachname": "R\u00f6hrig",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Plattleite 2",
+        "strasse": "Schie\u00dfgasse 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Molecular Biology and Biotechnology",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
                 "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Berno",
-        "weiblich": false
+        "vorname": "Jasmin",
+        "weiblich": true
     }
 }

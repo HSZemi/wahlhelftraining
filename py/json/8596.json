@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1330453,
+    "nummer": 1270811,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.09.1996",
-        "matrikelnummer": 2181449,
+        "fakultaet": 8,
+        "geburtsdatum": "27.11.1989",
+        "matrikelnummer": 2828818,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Linde",
-        "plzort": "54413 Grimburg",
+        "nachname": "Althoff",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00fchndorfer Stra\u00dfe 1",
+        "strasse": "Nibelungenallee 0",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 13
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Freimund",
-        "weiblich": false
+        "vorname": "Burgunde",
+        "weiblich": true
     }
 }

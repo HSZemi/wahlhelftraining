@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2650563,
+    "nummer": 2029885,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "05.06.1988",
-        "matrikelnummer": 12587,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "20.07.1991",
+        "matrikelnummer": 11172,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuntze",
-        "plzort": "41238 M\u00f6nchengladbach",
+        "nachname": "H\u00f6hn",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Waldsportpfad 2",
+        "strasse": "W\u00fcllnerstra\u00dfe 1d",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 8
             }
         ],
-        "vorname": "Kordelia",
-        "weiblich": true
+        "vorname": "Darius",
+        "weiblich": false
     }
 }

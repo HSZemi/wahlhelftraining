@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2687244,
+    "nummer": 1211350,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.05.1986",
-        "matrikelnummer": 119871,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "14.12.1993",
+        "matrikelnummer": 2317211,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mehl",
-        "plzort": "53200 Bonn",
+        "nachname": "Mathes",
+        "plzort": "73527 T\u00e4ferrot",
         "sternchen": 0,
-        "strasse": "Prohliser Stra\u00dfe 10",
+        "strasse": "Morseweg 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 4
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 3
             }
         ],
-        "vorname": "Franzi",
-        "weiblich": true
+        "vorname": "Curd",
+        "weiblich": false
     }
 }

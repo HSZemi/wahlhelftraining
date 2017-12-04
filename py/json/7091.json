@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1943081,
+    "nummer": 1663377,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.10.1994",
-        "matrikelnummer": 2809807,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 0,
+        "geburtsdatum": "02.10.1991",
+        "matrikelnummer": 2399819,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kilic",
-        "plzort": "53112 Bonn",
+        "nachname": "Bamberger",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Toni-Sender-Stra\u00dfe 3e",
+        "strasse": "Tarvisstr. 18",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Franz",
-        "weiblich": false
+        "vorname": "Slavica",
+        "weiblich": true
     }
 }

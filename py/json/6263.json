@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1359803,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2848296,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.11.1995",
-        "matrikelnummer": 2321757,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "08.08.1992",
+        "matrikelnummer": 2650458,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Treiber",
-        "plzort": "46284 Dorsten",
+        "nachname": "Steinberger",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Christian-S\u00fcltze-Stra\u00dfe 3",
+        "strasse": "L\u00fcbeckertordamm 5",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Griechisch",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Mathematik",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Eckehardt",
-        "weiblich": false
+        "vorname": "Rosemarie",
+        "weiblich": true
     }
 }

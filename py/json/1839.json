@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2371591,
+    "nummer": 1400712,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.07.1993",
-        "matrikelnummer": 2131720,
+        "fakultaet": 4,
+        "geburtsdatum": "21.03.1993",
+        "matrikelnummer": 3154167,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schumacher",
-        "plzort": "53210 Bonn",
+        "nachname": "Benecke",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Immenhof 6",
+        "strasse": "Philipp-Schnell-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
             }
         ],
-        "vorname": "Thilde",
+        "vorname": "Janin",
         "weiblich": true
     }
 }

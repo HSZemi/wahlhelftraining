@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2228287,
+    "nummer": 1444957,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "02.12.1998",
-        "matrikelnummer": 2177448,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "06.10.1994",
+        "matrikelnummer": 2901016,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pl\u00f6tz",
-        "plzort": "53176 Bonn",
+        "nachname": "He\u00dfler",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Burgunderweg 21",
+        "strasse": "Annette-Kolb-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Mathematik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Benita",
+        "vorname": "Polina",
         "weiblich": true
     }
 }

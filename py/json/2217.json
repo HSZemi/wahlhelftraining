@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1889030,
+    "nummer": 2038105,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.04.1998",
-        "matrikelnummer": 1983059,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "17.10.1991",
+        "matrikelnummer": 153605,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Andresen",
-        "plzort": "53189 Bonn",
+        "nachname": "Matthias",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Severusstra\u00dfe 5",
+        "strasse": "Karl-Gerold-Platz 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 3
             }
         ],
-        "vorname": "Roderich",
+        "vorname": "Mark",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2334920,
-    "semester": "Sommersemester 2017",
+    "nummer": 1402741,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.01.1999",
-        "matrikelnummer": 17888,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "T\u00f6pfer",
-        "plzort": "53187 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "16.07.1999",
+        "matrikelnummer": 2945027,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Stange",
+        "plzort": "06317 Amsdorf",
         "sternchen": 0,
-        "strasse": "Gervinusstra\u00dfe 12",
+        "strasse": "Nickerner Stra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
                 "fsem": 9
             }
         ],
-        "vorname": "Hertraud",
+        "vorname": "Frohmut",
         "weiblich": true
     }
 }

@@ -4,38 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1368568,
+    "nummer": 2154794,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "07.06.1985",
-        "matrikelnummer": 3187830,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "11.03.1991",
+        "matrikelnummer": 3116815,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Finger",
-        "plzort": "58256 Ennepetal",
+        "nachname": "Bochmann",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-Sch\u00e4fer-Weg 4",
+        "strasse": "Kuhnsweg 29",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 5
+            },
+            {
                 "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 13
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
             },
             {
                 "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 12
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "fsem": 3
             }
         ],
-        "vorname": "Jo",
-        "weiblich": false
+        "vorname": "Leyla",
+        "weiblich": true
     }
 }

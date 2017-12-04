@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1195390,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1850552,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.03.1992",
-        "matrikelnummer": 162137,
+        "fakultaet": 0,
+        "geburtsdatum": "21.11.1989",
+        "matrikelnummer": 3099948,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klaiber",
-        "plzort": "53202 Bonn",
+        "nachname": "D\u00f6ring",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Alsterdorfer Stra\u00dfe 20",
+        "strasse": "Bodemerweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
             }
         ],
-        "vorname": "Lidija",
+        "vorname": "Janine",
         "weiblich": true
     }
 }

@@ -2,30 +2,55 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2388026,
+    "nummer": 1019183,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.01.1990",
-        "matrikelnummer": 3134397,
+        "fakultaet": 8,
+        "geburtsdatum": "12.09.1990",
+        "matrikelnummer": 2571560,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Renz",
-        "plzort": "53170 Bonn",
+        "nachname": "Gerstner",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz-Tarnow-Stra\u00dfe 7",
+        "strasse": "Oskar-Zwintscher-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 13
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Utho",
+        "vorname": "Karlfrieder",
         "weiblich": false
     }
 }

@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1407206,
-    "semester": "Sommersemester 2017",
+    "nummer": 1223072,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "12.12.1990",
-        "matrikelnummer": 3069472,
+        "fakultaet": 2,
+        "geburtsdatum": "01.07.1995",
+        "matrikelnummer": 1991159,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lutz",
-        "plzort": "89134 Blaustein",
+        "nachname": "Krenz",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Ischler Stra\u00dfe 15",
+        "strasse": "Neulu\u00dfheimer Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Heidelind",
-        "weiblich": true
+        "vorname": "Tommy",
+        "weiblich": false
     }
 }

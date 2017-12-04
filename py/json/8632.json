@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2487609,
+    "nummer": 2712004,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "04.11.1988",
-        "matrikelnummer": 18067,
+        "fakultaet": 4,
+        "geburtsdatum": "01.08.1994",
+        "matrikelnummer": 2340335,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sacher",
-        "plzort": "53152 Bonn",
+        "nachname": "Raasch",
+        "plzort": "18107 Rostock",
         "sternchen": 0,
-        "strasse": "Burgunderweg 0",
+        "strasse": "Kurparkstra\u00dfe 27a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 4
+                "fsem": 13
             }
         ],
-        "vorname": "Inga",
+        "vorname": "\u00c4nne",
         "weiblich": true
     }
 }

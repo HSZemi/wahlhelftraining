@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1787920,
+    "nummer": 1681358,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.10.1991",
-        "matrikelnummer": 1932785,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "17.04.1990",
+        "matrikelnummer": 2553777,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brauner",
-        "plzort": "53186 Bonn",
+        "nachname": "Reichl",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Zschierener Elbweg 5",
+        "strasse": "Augsburger Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Biologie",
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
                 "fsem": 3
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 11
             }
         ],
-        "vorname": "Ullrich",
-        "weiblich": false
+        "vorname": "Krista",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2320574,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1057567,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "24.05.1994",
-        "matrikelnummer": 3042783,
+        "fakultaet": 5,
+        "geburtsdatum": "06.10.1994",
+        "matrikelnummer": 183593,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wunderlich",
-        "plzort": "53175 Bonn",
+        "nachname": "Oehler",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Lortzingstra\u00dfe 1",
+        "strasse": "Joseph Haydn-Gasse 15",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 9
+                "abschluss": "Master of Arts",
+                "fach": "Asienwissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             }
         ],
-        "vorname": "Herger",
-        "weiblich": false
+        "vorname": "Roselotte",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1754496,
+    "nummer": 1657538,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 2,
-        "geburtsdatum": "11.08.1991",
-        "matrikelnummer": 184883,
+        "geburtsdatum": "07.08.1993",
+        "matrikelnummer": 2024345,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brandt",
-        "plzort": "17398 L\u00f6witz",
+        "nachname": "Lange",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Brekelbaums Park 4a",
+        "strasse": "Lugbergblick 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 12
             }
         ],
-        "vorname": "Winfriede",
-        "weiblich": true
+        "vorname": "Reinbert",
+        "weiblich": false
     }
 }

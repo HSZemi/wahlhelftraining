@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1363180,
+    "nummer": 1952623,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.03.1993",
-        "matrikelnummer": 2885948,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "21.01.1994",
+        "matrikelnummer": 2089938,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wicke",
-        "plzort": "53127 Bonn",
+        "nachname": "J\u00e4ger",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Am Weidenufer 2",
+        "strasse": "Bremer Platz 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Germanistik, Vergleichende Literatur- und Kulturwissenschaft",
-                "fsem": 11
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 12
             },
             {
                 "abschluss": "",
-                "fach": "Japanisch",
-                "fsem": 11
+                "fach": "Philosophie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Heidfried",
-        "weiblich": false
+        "vorname": "Wilhelma",
+        "weiblich": true
     }
 }

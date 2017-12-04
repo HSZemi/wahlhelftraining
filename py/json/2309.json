@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1537893,
+    "nummer": 2627408,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "17.10.1996",
-        "matrikelnummer": 1934285,
+        "fakultaet": 4,
+        "geburtsdatum": "08.03.1997",
+        "matrikelnummer": 2515294,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Faller",
-        "plzort": "06188 Spickendorf",
+        "nachname": "Rupp",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Mittelstra\u00dfe 26",
+        "strasse": "Borgfelder Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Germanistik, Vergleichende Literatur- und Kulturwissenschaft",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
-                "fsem": 8
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 5
             }
         ],
-        "vorname": "Marfriede",
+        "vorname": "Fabienne",
         "weiblich": true
     }
 }

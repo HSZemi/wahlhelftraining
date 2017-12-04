@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2787436,
+    "nummer": 1334735,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.01.1998",
-        "matrikelnummer": 2614422,
+        "fakultaet": 7,
+        "geburtsdatum": "06.07.1995",
+        "matrikelnummer": 2402700,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Salzmann",
-        "plzort": "52385 Nideggen",
+        "nachname": "Schaefer",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Mariannenstra\u00dfe 11c",
+        "strasse": "Wuppertaler Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Mathematik",
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
                 "fsem": 3
             }
         ],
-        "vorname": "Thorsten",
-        "weiblich": false
+        "vorname": "Wiltrud",
+        "weiblich": true
     }
 }

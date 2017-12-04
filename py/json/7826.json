@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1095360,
+    "nummer": 2556302,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.11.1992",
-        "matrikelnummer": 13898,
+        "fakultaet": 4,
+        "geburtsdatum": "20.03.1994",
+        "matrikelnummer": 12996,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krupp",
-        "plzort": "53214 Bonn",
+        "nachname": "Stumpe",
+        "plzort": "24398 Brodersby",
         "sternchen": 0,
-        "strasse": "Curt-Querner-Stra\u00dfe 1",
+        "strasse": "Kohlbergstra\u00dfe 8a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Mercedes",
-        "weiblich": true
+        "vorname": "Abraham",
+        "weiblich": false
     }
 }

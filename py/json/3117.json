@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1704717,
+    "nummer": 1886622,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.08.1996",
-        "matrikelnummer": 2583805,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "12.07.1994",
+        "matrikelnummer": 2538585,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6hner",
-        "plzort": "53199 Bonn",
+        "nachname": "Bohr",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Zwergstra\u00dfe 21",
+        "strasse": "Wohnweg 42",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 3
             }
         ],
-        "vorname": "Wilfriede",
-        "weiblich": true
+        "vorname": "Mark",
+        "weiblich": false
     }
 }

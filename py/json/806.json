@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2433497,
+    "nummer": 1849154,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "24.05.1987",
-        "matrikelnummer": 3172030,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "16.11.1999",
+        "matrikelnummer": 2192603,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfeuffer",
-        "plzort": "54597 Reuth",
+        "nachname": "Gr\u00fcner",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Strietkoppel 43",
+        "strasse": "Ulanenplatz 4",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Birgitt",
-        "weiblich": true
+        "vorname": "Ingmar",
+        "weiblich": false
     }
 }

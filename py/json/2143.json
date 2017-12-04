@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2731427,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2986368,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.09.1993",
-        "matrikelnummer": 2698142,
+        "fakultaet": 1,
+        "geburtsdatum": "06.01.1986",
+        "matrikelnummer": 12995,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Henning",
-        "plzort": "23936 Roggenstorf",
+        "nachname": "Tolksdorf",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Johann-Klotz-Stra\u00dfe 8",
+        "strasse": "Metzlerstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Burghart",
-        "weiblich": false
+        "vorname": "Bertina",
+        "weiblich": true
     }
 }

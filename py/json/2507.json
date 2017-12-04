@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1583464,
+    "nummer": 2535747,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.08.1993",
-        "matrikelnummer": 2045028,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "02.05.1989",
+        "matrikelnummer": 2282976,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holm",
-        "plzort": "53209 Bonn",
+        "nachname": "Wanke",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Thiemestra\u00dfe 13",
+        "strasse": "Tauernstra\u00dfe 12",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 2
             }
         ],
-        "vorname": "Anje",
-        "weiblich": true
+        "vorname": "Tankred",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2109805,
-    "semester": "Sommersemester 2017",
+    "nummer": 2921254,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "21.02.1993",
-        "matrikelnummer": 2186108,
+        "fakultaet": 6,
+        "geburtsdatum": "24.03.1999",
+        "matrikelnummer": 3096139,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lorenzen",
-        "plzort": "53178 Bonn",
+        "nachname": "Preu\u00df",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Saarstra\u00dfe 25",
+        "strasse": "Cimbernweg 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Biochemistry",
+                "fsem": 6
             }
         ],
-        "vorname": "Birga",
+        "vorname": "Ruthilde",
         "weiblich": true
     }
 }

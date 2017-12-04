@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1266225,
+    "nummer": 2564389,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "13.05.1992",
-        "matrikelnummer": 2823131,
+        "fakultaet": 6,
+        "geburtsdatum": "27.04.1993",
+        "matrikelnummer": 2065365,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hecht",
-        "plzort": "53113 Bonn",
+        "nachname": "Eich",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Bismarckplatz 37",
+        "strasse": "Theodor-W.-Adorno-Platz 6",
         "studienfaecher": [
+            {
+                "abschluss": "Master of Science",
+                "fach": "Chemistry",
+                "fsem": 5
+            },
             {
                 "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "fsem": 1
             }
         ],
-        "vorname": "Holger",
+        "vorname": "Hansjoachim",
         "weiblich": false
     }
 }

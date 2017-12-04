@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2412371,
+    "nummer": 1576028,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "15.03.1998",
-        "matrikelnummer": 3078516,
+        "geburtsdatum": "25.06.1993",
+        "matrikelnummer": 2544605,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bott",
-        "plzort": "53148 Bonn",
+        "nachname": "Roloff",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Klettestra\u00dfe 25",
+        "strasse": "Leddinstra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Arch\u00e4ologien",
-                "fsem": 10
+                "fach": "Lateinamerika- und Altamerikastudien",
+                "fsem": 4
             },
             {
                 "abschluss": "",
-                "fach": "Kunstgeschichte",
-                "fsem": 10
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 11
             }
         ],
-        "vorname": "Edwine",
-        "weiblich": true
+        "vorname": "Hanns",
+        "weiblich": false
     }
 }

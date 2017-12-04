@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2273546,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2483008,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.06.1993",
-        "matrikelnummer": 2794179,
+        "fakultaet": 7,
+        "geburtsdatum": "17.09.1999",
+        "matrikelnummer": 2477769,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Golz",
-        "plzort": "39596 Arneburg",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schurig",
+        "plzort": "99955 Kutzleben",
         "sternchen": 0,
-        "strasse": "Palleskestra\u00dfe 14",
+        "strasse": "Kleiner Pulverteich 7",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
                 "fach": "Geographie",
-                "fsem": 12
+                "fsem": 2
             }
         ],
-        "vorname": "Hanspeter",
-        "weiblich": false
+        "vorname": "Hildegard",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2897280,
+    "nummer": 2192932,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "28.07.1988",
-        "matrikelnummer": 2858519,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "17.08.1995",
+        "matrikelnummer": 3056927,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jahnke",
-        "plzort": "66978 Merzalben",
+        "nachname": "Mester",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "An der Rysselkuppe 4",
+        "strasse": "Bonhoefferstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "Master of Science",
                 "fach": "Psychologie",
-                "fsem": 4
+                "fsem": 9
             }
         ],
-        "vorname": "Leopold",
-        "weiblich": false
+        "vorname": "Lara",
+        "weiblich": true
     }
 }

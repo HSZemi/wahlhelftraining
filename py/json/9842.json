@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2130475,
+    "nummer": 2538602,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "20.09.1993",
-        "matrikelnummer": 2461861,
+        "fakultaet": 5,
+        "geburtsdatum": "16.10.1995",
+        "matrikelnummer": 3052062,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "St\u00fcber",
-        "plzort": "53227 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Roder",
+        "plzort": "91587 Adelshofen",
         "sternchen": 0,
-        "strasse": "Zinnowitzer Stra\u00dfe 1",
+        "strasse": "Boveristr. 23",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
-            },
-            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 3
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Lieselotte",
+        "vorname": "Roselotte",
         "weiblich": true
     }
 }

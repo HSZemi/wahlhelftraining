@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2092554,
+    "nummer": 1464821,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "28.05.1997",
-        "matrikelnummer": 2145426,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "22.09.1993",
+        "matrikelnummer": 1915242,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Junge",
-        "plzort": "53204 Bonn",
+        "nachname": "Prell",
+        "plzort": "09120 Chemnitz",
         "sternchen": 0,
-        "strasse": "Hennigsweg 0",
+        "strasse": "Ernst-Zinner-Str. 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 3
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Bernhilde",
-        "weiblich": true
+        "vorname": "Balthasar",
+        "weiblich": false
     }
 }

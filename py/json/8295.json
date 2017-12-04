@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2558813,
+    "nummer": 2524864,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "20.01.1996",
-        "matrikelnummer": 2223060,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "01.06.1991",
+        "matrikelnummer": 2379506,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "P\u00f6schl",
-        "plzort": "53122 Bonn",
+        "nachname": "Hellmich",
+        "plzort": "96187 Stadelhofen",
         "sternchen": 0,
-        "strasse": "Leubnitzer Stra\u00dfe 40",
+        "strasse": "Wolkensteiner Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Tell",
+        "vorname": "Ernst",
         "weiblich": false
     }
 }

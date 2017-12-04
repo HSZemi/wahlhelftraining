@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1806568,
+    "nummer": 2370165,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.02.1994",
-        "matrikelnummer": 2807443,
+        "fakultaet": 4,
+        "geburtsdatum": "03.06.1989",
+        "matrikelnummer": 14258,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kunath",
-        "plzort": "53213 Bonn",
+        "nachname": "Hock",
+        "plzort": "38889 Altenbrak",
         "sternchen": 0,
-        "strasse": "H\u00f6blinggasse 1",
+        "strasse": "Willy-Lessing-Str. 2",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Deutsch",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Latein",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
                 "fsem": 7
             }
         ],
-        "vorname": "Urte",
+        "vorname": "Josephina",
         "weiblich": true
     }
 }

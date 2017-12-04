@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2386919,
+    "nummer": 1462390,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "11.03.1997",
-        "matrikelnummer": 2511954,
+        "fakultaet": 8,
+        "geburtsdatum": "20.02.1990",
+        "matrikelnummer": 149450,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kienzle",
-        "plzort": "53203 Bonn",
+        "nachname": "Lemke",
+        "plzort": "03249 Bahren",
         "sternchen": 0,
-        "strasse": "Kloster-Banz-Str. 14",
+        "strasse": "Zum Fruchthof 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 9
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 8
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
                 "fsem": 4
             }
         ],
-        "vorname": "Gregor",
-        "weiblich": false
+        "vorname": "Jennifer",
+        "weiblich": true
     }
 }

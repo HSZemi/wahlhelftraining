@@ -4,28 +4,43 @@
         "gremien": true,
         "sp": true
     },
-    "nummer": 2194754,
+    "nummer": 1516756,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "19.12.1992",
-        "matrikelnummer": 2766612,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "11.01.1986",
+        "matrikelnummer": 3057127,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zeh",
-        "plzort": "53192 Bonn",
+        "nachname": "Erhardt",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Tituscorso 3e",
+        "strasse": "Petrinistr. 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Josef",
-        "weiblich": false
+        "vorname": "Margareta",
+        "weiblich": true
     }
 }

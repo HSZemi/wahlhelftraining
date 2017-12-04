@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2469945,
+    "nummer": 2546314,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "28.04.1999",
-        "matrikelnummer": 2528734,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "27.05.1993",
+        "matrikelnummer": 2113650,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Finkbeiner",
-        "plzort": "53224 Bonn",
+        "nachname": "Scheffler",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Domplatz 17",
+        "strasse": "Adam-Heinstadt-Stra\u00dfe 4d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 11
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Marei",
+        "vorname": "Bettina",
         "weiblich": true
     }
 }

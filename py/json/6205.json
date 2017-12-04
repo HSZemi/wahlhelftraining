@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1635998,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1829422,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "16.06.1989",
-        "matrikelnummer": 119745,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "21.08.1990",
+        "matrikelnummer": 2780863,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mucha",
-        "plzort": "39393 Wackersleben",
+        "nachname": "Volkmann",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Wachwitzer Weinberg 11",
+        "strasse": "D\u00f6hnerstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 5
             }
         ],
-        "vorname": "Marie",
-        "weiblich": true
+        "vorname": "Manfred",
+        "weiblich": false
     }
 }

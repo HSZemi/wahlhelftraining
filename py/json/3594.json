@@ -4,38 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1000991,
+    "nummer": 2696313,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "07.10.1996",
-        "matrikelnummer": 11309,
+        "geburtsdatum": "07.01.1995",
+        "matrikelnummer": 2451368,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Birke",
-        "plzort": "67294 Morschheim",
+        "nachname": "Nitsch",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Cornwallisstra\u00dfe 2",
+        "strasse": "Meisenweg 14",
         "studienfaecher": [
             {
                 "abschluss": "LA BA Berufskolleg",
                 "fach": "Markt und Konsum",
-                "fsem": 11
+                "fsem": 10
             },
             {
                 "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 11
+                "fach": "Agrarwissenschaft",
+                "fsem": 10
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             }
         ],
-        "vorname": "Marfriede",
-        "weiblich": true
+        "vorname": "Erdfried",
+        "weiblich": false
     }
 }

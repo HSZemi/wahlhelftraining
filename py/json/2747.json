@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1720185,
+    "nummer": 1954427,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.10.1999",
-        "matrikelnummer": 13257,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "19.04.1994",
+        "matrikelnummer": 18138,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Drechsler",
-        "plzort": "53227 Bonn",
+        "nachname": "Angermann",
+        "plzort": "99625 Beichlingen",
         "sternchen": 0,
-        "strasse": "Buchwaldstra\u00dfe 0",
+        "strasse": "Hohenfelder Allee 29",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 3
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 11
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Karola",
-        "weiblich": true
+        "vorname": "Godo",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2740939,
+    "nummer": 2253301,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.01.1990",
-        "matrikelnummer": 2749230,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "07.03.1988",
+        "matrikelnummer": 3127360,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schiller",
-        "plzort": "88356 Ostrach",
+        "nachname": "Pietsch",
+        "plzort": "74930 Ittlingen",
         "sternchen": 0,
-        "strasse": "Im Kirschenst\u00fcck 1",
+        "strasse": "Borchardsheide 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Physik",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 9
             }
         ],
-        "vorname": "Karlgeorg",
-        "weiblich": false
+        "vorname": "Florine",
+        "weiblich": true
     }
 }

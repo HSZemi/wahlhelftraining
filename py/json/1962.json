@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2672269,
+    "nummer": 1626185,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "02.08.1998",
-        "matrikelnummer": 1951562,
+        "geburtsdatum": "24.09.1995",
+        "matrikelnummer": 2285056,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kratzer",
-        "plzort": "53114 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Liebich",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Rehgartenweg 1",
+        "strasse": "K\u00e4the-Hamann-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
+                "abschluss": "Bachelor of Science",
                 "fach": "Psychologie",
-                "fsem": 13
+                "fsem": 8
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Lucia",
+        "vorname": "Mariedore",
         "weiblich": true
     }
 }

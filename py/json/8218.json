@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1718965,
+    "nummer": 2409998,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.12.1991",
-        "matrikelnummer": 3159516,
-        "mehrfachausfertigung": 5,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Ulrich",
-        "plzort": "53132 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "07.11.1990",
+        "matrikelnummer": 2898362,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kliem",
+        "plzort": "13591 Berlin",
         "sternchen": 0,
-        "strasse": "Parsevalstra\u00dfe 6",
+        "strasse": "Ohkamp 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Sprachlernforschung",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "English Studies",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 5
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 11
             }
         ],
-        "vorname": "Justina",
-        "weiblich": true
+        "vorname": "Veit",
+        "weiblich": false
     }
 }

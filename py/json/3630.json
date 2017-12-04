@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2602746,
+    "nummer": 2935272,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "16.03.1996",
-        "matrikelnummer": 2641476,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "14.05.1998",
+        "matrikelnummer": 2603104,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baumgarten",
-        "plzort": "53219 Bonn",
+        "nachname": "Stumpf",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Hilbertstra\u00dfe 7",
+        "strasse": "Kaspar-Zeu\u00df-Weg 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Geographie",
-                "fsem": 6
+                "fach": "Neurosciences",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Mike",
-        "weiblich": false
+        "vorname": "Irmhild",
+        "weiblich": true
     }
 }

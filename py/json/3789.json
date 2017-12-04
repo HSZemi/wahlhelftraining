@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1936151,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2011648,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.01.1997",
-        "matrikelnummer": 18552,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "01.02.1993",
+        "matrikelnummer": 3042238,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dittrich",
-        "plzort": "53128 Bonn",
+        "nachname": "Wecker",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Billstieg 1",
+        "strasse": "Am Leonhardsbrunn 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Anglistik/Amerikanische Sprache u. Literatur",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 11
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Damaris",
-        "weiblich": true
+        "vorname": "Ulrich",
+        "weiblich": false
     }
 }

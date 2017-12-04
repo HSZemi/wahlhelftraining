@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1323045,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2783211,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.03.1994",
-        "matrikelnummer": 3124497,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "14.01.1984",
+        "matrikelnummer": 2635171,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grabowski",
-        "plzort": "53170 Bonn",
+        "nachname": "Goldmann",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Dobritzer Stra\u00dfe 10",
+        "strasse": "Hahnebergstra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 12
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Godo",
+        "vorname": "Rutger",
         "weiblich": false
     }
 }

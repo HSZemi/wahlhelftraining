@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1472992,
+    "nummer": 1738646,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.10.1991",
-        "matrikelnummer": 2343879,
+        "fakultaet": 2,
+        "geburtsdatum": "25.07.1997",
+        "matrikelnummer": 2935023,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Probst",
-        "plzort": "53150 Bonn",
+        "nachname": "Eck",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Dinkelkamp 4",
+        "strasse": "Barbarossastra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Geschichte",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Spanisch",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Holk",
-        "weiblich": false
+        "vorname": "Ana",
+        "weiblich": true
     }
 }

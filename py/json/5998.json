@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1021837,
+    "nummer": 1963989,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.05.1995",
-        "matrikelnummer": 2958427,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "01.10.1993",
+        "matrikelnummer": 15041,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00f6ffler",
-        "plzort": "74343 Sachsenheim",
+        "nachname": "D\u00f6hring",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Hellersiedlung Weg A 1",
+        "strasse": "Z\u00e4nglweg 19",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
                 "fsem": 11
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Englische Philologie",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Feli",
+        "vorname": "Melinda",
         "weiblich": true
     }
 }

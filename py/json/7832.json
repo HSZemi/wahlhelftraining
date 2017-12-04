@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2469884,
-    "semester": "Sommersemester 2017",
+    "nummer": 2890559,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "17.08.1995",
-        "matrikelnummer": 192330,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "07.01.1995",
+        "matrikelnummer": 2177274,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reichenbach",
-        "plzort": "64711 Erbach",
+        "nachname": "Biermann",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Rilkestra\u00dfe 14",
+        "strasse": "Plattengasse 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Physik",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie",
+                "fsem": 1
             },
             {
-                "abschluss": "",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Irene",
+        "vorname": "Burgel",
         "weiblich": true
     }
 }

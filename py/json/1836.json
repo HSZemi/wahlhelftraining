@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1209417,
+    "nummer": 1191561,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.12.1995",
-        "matrikelnummer": 2902735,
+        "fakultaet": 5,
+        "geburtsdatum": "18.12.1995",
+        "matrikelnummer": 2629372,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Preis",
-        "plzort": "25582 Hohenaspe",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Klemm",
+        "plzort": "17392 Neuenkirchen",
         "sternchen": 0,
-        "strasse": "Am Bahnhof Ottensen 0c",
+        "strasse": "Eichengasse 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geowissenschaften",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 10
             }
         ],
-        "vorname": "Stanislaus",
+        "vorname": "Franzl",
         "weiblich": false
     }
 }

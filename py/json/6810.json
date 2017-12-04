@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2512470,
+    "nummer": 1520894,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "02.05.1998",
-        "matrikelnummer": 2770428,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "15.11.1999",
+        "matrikelnummer": 1971614,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Berndt",
-        "plzort": "86987 Schwabsoien",
+        "nachname": "Benning",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Stammannstra\u00dfe 0",
+        "strasse": "Urbanstr. 1a",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Mary",
-        "weiblich": true
+        "vorname": "Rolf",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2989658,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2838923,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "24.07.1990",
-        "matrikelnummer": 2891411,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hauser",
-        "plzort": "53195 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "08.10.1995",
+        "matrikelnummer": 2552601,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sahin",
+        "plzort": "30167 Hannover",
         "sternchen": 0,
-        "strasse": "Gundhofstra\u00dfe 16",
+        "strasse": "Einsiedlerstra\u00dfe 47",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 3
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Sprach- u. Kulturwissenschaft Zentralasiens",
-                "fsem": 2
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Ronny",
+        "vorname": "Sighelm",
         "weiblich": false
     }
 }

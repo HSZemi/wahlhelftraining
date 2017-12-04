@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1185221,
+    "nummer": 1878599,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "12.12.1999",
-        "matrikelnummer": 2926243,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "03.07.1992",
+        "matrikelnummer": 2048687,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Resch",
-        "plzort": "53170 Bonn",
+        "nachname": "Pilz",
+        "plzort": "17375 Vogelsang-Warsin",
         "sternchen": 0,
-        "strasse": "Zollnerstr. 17",
+        "strasse": "Riemschneiderstr. 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Naturschutz und Landschafts\u00f6kologie",
-                "fsem": 13
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 8
             }
         ],
-        "vorname": "Wolfdietrich",
+        "vorname": "Rainhard",
         "weiblich": false
     }
 }

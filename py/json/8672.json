@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1816822,
+    "nummer": 2214147,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "19.03.1998",
-        "matrikelnummer": 3153096,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "22.12.1998",
+        "matrikelnummer": 3051118,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauk",
-        "plzort": "53205 Bonn",
+        "nachname": "Drechsler",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Eitzensweg 4",
+        "strasse": "Mor\u00e4nenende 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Romanische Philologie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Gernod",
+        "vorname": "Ottmar",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1764914,
+    "nummer": 2901105,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.04.1995",
-        "matrikelnummer": 19654,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "15.12.1993",
+        "matrikelnummer": 18364,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wrobel",
-        "plzort": "53152 Bonn",
+        "nachname": "Bunge",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Wikingerweg 10",
+        "strasse": "Schwabstra\u00dfe 7e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Reimund",
+        "vorname": "Volkbert",
         "weiblich": false
     }
 }

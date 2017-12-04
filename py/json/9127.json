@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2232827,
+    "nummer": 2858118,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "10.04.1993",
-        "matrikelnummer": 2349440,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "04.01.1996",
+        "matrikelnummer": 2195338,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bremer",
-        "plzort": "53128 Bonn",
+        "nachname": "Sch\u00fcrmann",
+        "plzort": "24161 Altenholz",
         "sternchen": 0,
-        "strasse": "Gustavsallee 17",
+        "strasse": "M\u00fcnzstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
+                "abschluss": "Promotion",
                 "fach": "Katholische Theologie",
-                "fsem": 3
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Werner",
-        "weiblich": false
+        "vorname": "Ursl",
+        "weiblich": true
     }
 }

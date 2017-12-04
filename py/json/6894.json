@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2261432,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1901470,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "17.09.1996",
-        "matrikelnummer": 2409495,
+        "fakultaet": 1,
+        "geburtsdatum": "04.11.1992",
+        "matrikelnummer": 1995474,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4usler",
-        "plzort": "53200 Bonn",
+        "nachname": "Ferstl",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Duisbergstra\u00dfe 0",
+        "strasse": "Teichplatz 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 10
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Irmo",
-        "weiblich": false
+        "vorname": "Relindis",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1290151,
+    "nummer": 1552918,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.09.1996",
-        "matrikelnummer": 2361108,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "20.01.1982",
+        "matrikelnummer": 2166854,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schweikert",
-        "plzort": "22115 Hamburg",
+        "nachname": "Mertes",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Kurzer Weg 1",
+        "strasse": "Friebelstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
                 "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Felizitas",
+        "vorname": "Cordula",
         "weiblich": true
     }
 }

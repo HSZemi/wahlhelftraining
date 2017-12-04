@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1164710,
+    "nummer": 2684600,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.07.1989",
-        "matrikelnummer": 2193941,
+        "fakultaet": 2,
+        "geburtsdatum": "08.10.1992",
+        "matrikelnummer": 2481759,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "J\u00e4kel",
-        "plzort": "53207 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Boden",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Brunnenweg 28",
+        "strasse": "Eisenst\u00e4dter Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Raik",
+        "vorname": "Reinald",
         "weiblich": false
     }
 }

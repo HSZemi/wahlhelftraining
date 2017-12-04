@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2432002,
+    "nummer": 1196330,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.10.1997",
-        "matrikelnummer": 2351377,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "07.04.1996",
+        "matrikelnummer": 2976985,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neubert",
-        "plzort": "53215 Bonn",
+        "nachname": "K\u00f6ppel",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "An St. Theresia 0c",
+        "strasse": "Scheidstra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
                 "fsem": 2
             }
         ],
-        "vorname": "Gerdt",
+        "vorname": "Heidebert",
         "weiblich": false
     }
 }

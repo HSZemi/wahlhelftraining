@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2717623,
+    "nummer": 1867975,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.06.1987",
-        "matrikelnummer": 13558,
+        "fakultaet": 7,
+        "geburtsdatum": "18.08.1998",
+        "matrikelnummer": 2902231,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siekmann",
-        "plzort": "53209 Bonn",
+        "nachname": "Bartmann",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Georginenweg 3",
+        "strasse": "Mockst\u00e4dter Stra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 10
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 2
             },
             {
                 "abschluss": "Master of Science",
                 "fach": "Naturschutz und Landschafts\u00f6kologie",
-                "fsem": 11
+                "fsem": 2
             }
         ],
-        "vorname": "Regelinde",
-        "weiblich": true
+        "vorname": "Winnimar",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2989132,
-    "semester": "Sommersemester 2017",
+    "nummer": 1987627,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "09.09.1995",
-        "matrikelnummer": 2492331,
+        "fakultaet": 7,
+        "geburtsdatum": "23.01.1990",
+        "matrikelnummer": 16094,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Fey",
-        "plzort": "87487 Wiggensbach",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stephan",
+        "plzort": "55234 Freimersheim",
         "sternchen": 0,
-        "strasse": "Kasinostra\u00dfe 24",
+        "strasse": "Bernhard-Wensch-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 3
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Dagobert",
-        "weiblich": false
+        "vorname": "Wencke",
+        "weiblich": true
     }
 }

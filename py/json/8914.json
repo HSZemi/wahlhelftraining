@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1881119,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1035118,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "25.12.1994",
-        "matrikelnummer": 2929376,
+        "fakultaet": 4,
+        "geburtsdatum": "25.11.1993",
+        "matrikelnummer": 2770492,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zenker",
-        "plzort": "53131 Bonn",
+        "nachname": "Israel",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Gr\u00e4fendeichstra\u00dfe 12",
+        "strasse": "Waldhofweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 10
             },
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Arzneimittelforschung (Drug Research)",
+                "fsem": 9
             }
         ],
-        "vorname": "Hiltrun",
-        "weiblich": true
+        "vorname": "Eddi",
+        "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1660126,
+    "nummer": 2206723,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.04.1998",
-        "matrikelnummer": 16429,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "20.03.1990",
+        "matrikelnummer": 146667,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerken",
-        "plzort": "53207 Bonn",
+        "nachname": "Lehmkuhl",
+        "plzort": "37589 Kalefeld",
         "sternchen": 0,
-        "strasse": "Am Horner Moor 15",
+        "strasse": "Am Hohen Stein 25",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Jo",
-        "weiblich": true
+        "vorname": "Gernot",
+        "weiblich": false
     }
 }

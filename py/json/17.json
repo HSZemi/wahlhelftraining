@@ -1,28 +1,33 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1532215,
+    "nummer": 1172565,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.02.1999",
-        "matrikelnummer": 2241341,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "13.03.1990",
+        "matrikelnummer": 3038997,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "21218 Seevetal",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Fliederberg 3",
+        "strasse": "Urnenstra\u00dfe 20",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 3
+                "fach": "Klinische Medizintechnik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 12
             }
         ],
         "vorname": "Sven",

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2680033,
+    "nummer": 2981389,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.06.1996",
-        "matrikelnummer": 118248,
+        "fakultaet": 5,
+        "geburtsdatum": "11.10.1992",
+        "matrikelnummer": 2661844,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Haase",
-        "plzort": "53157 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Feldhaus",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Kantatenweg 4b",
+        "strasse": "Steinbeker Marktstra\u00dfe 10",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "fach": "Vor- u. fr\u00fchgeschichtliche Arch\u00e4ologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Verena",
+        "vorname": "Georgine",
         "weiblich": true
     }
 }

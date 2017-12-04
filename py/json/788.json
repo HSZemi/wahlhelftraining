@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2668472,
+    "nummer": 1277961,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.12.1997",
-        "matrikelnummer": 2047879,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "14.03.1989",
+        "matrikelnummer": 3028343,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kircher",
-        "plzort": "53157 Bonn",
+        "nachname": "Friese",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Rungestra\u00dfe 7",
+        "strasse": "Urseler Weg 28",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
             }
         ],
-        "vorname": "Reinbert",
-        "weiblich": false
+        "vorname": "Natalija",
+        "weiblich": true
     }
 }

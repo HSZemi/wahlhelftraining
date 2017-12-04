@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1937849,
+    "nummer": 1835621,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "02.10.1990",
-        "matrikelnummer": 3072956,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "28.02.1996",
+        "matrikelnummer": 3136640,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kusch",
-        "plzort": "25980 Sylt-Ost",
+        "nachname": "Rabe",
+        "plzort": "56290 L\u00fctz",
         "sternchen": 0,
-        "strasse": "Alfred-Schmieder-Stra\u00dfe 19",
+        "strasse": "Stephanstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Medienwissenschaft",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Roseline",
-        "weiblich": true
+        "vorname": "Ludwig",
+        "weiblich": false
     }
 }

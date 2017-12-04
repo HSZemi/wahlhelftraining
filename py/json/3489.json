@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1202719,
+    "nummer": 2358635,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "14.03.1997",
-        "matrikelnummer": 2031440,
+        "geburtsdatum": "23.01.1994",
+        "matrikelnummer": 2227262,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Henseler",
-        "plzort": "53172 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Fleischhauer",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Wolfshagen 20b",
+        "strasse": "Rembrandtstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
                 "fsem": 8
             }
         ],
-        "vorname": "Imke",
-        "weiblich": true
+        "vorname": "Stanislaus",
+        "weiblich": false
     }
 }

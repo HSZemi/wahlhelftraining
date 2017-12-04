@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1226645,
+    "nummer": 2312883,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "27.04.1990",
-        "matrikelnummer": 2222181,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "27.03.1999",
+        "matrikelnummer": 2956183,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neumann",
-        "plzort": "53177 Bonn",
+        "nachname": "Hei\u00df",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-Schmoll-Stra\u00dfe 27",
+        "strasse": "Josef-May-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 6
             }
         ],
-        "vorname": "Tiberius",
+        "vorname": "Janfried",
         "weiblich": false
     }
 }

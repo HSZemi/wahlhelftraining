@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2662760,
+    "nummer": 1180002,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.09.1986",
-        "matrikelnummer": 12056,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "02.07.1988",
+        "matrikelnummer": 2207822,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bruckner",
-        "plzort": "53197 Bonn",
+        "nachname": "Wilhelm",
+        "plzort": "17207 Ludorf",
         "sternchen": 0,
-        "strasse": "Pergamentweg 1",
+        "strasse": "Keppgrundweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Meteorologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Arno",
+        "vorname": "Wilhardt",
         "weiblich": false
     }
 }

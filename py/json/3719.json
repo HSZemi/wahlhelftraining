@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2251779,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1327689,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "25.03.1999",
-        "matrikelnummer": 3056709,
+        "fakultaet": 6,
+        "geburtsdatum": "19.02.1999",
+        "matrikelnummer": 1942366,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hampel",
+        "nachname": "Carstensen",
         "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Genslerweg 1",
+        "strasse": "Immermannstra\u00dfe 6",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "fach": "Medizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Sabinchen",
-        "weiblich": true
+        "vorname": "Arend",
+        "weiblich": false
     }
 }

@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1113972,
+    "nummer": 2463714,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "19.11.1996",
-        "matrikelnummer": 2620569,
+        "fakultaet": 8,
+        "geburtsdatum": "26.09.1996",
+        "matrikelnummer": 2277547,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6hnke",
-        "plzort": "53143 Bonn",
+        "nachname": "Heyne",
+        "plzort": "85354 Freising",
         "sternchen": 0,
-        "strasse": "Kleiststra\u00dfe 2",
+        "strasse": "L\u00fcbeckertordamm 11",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 8
             },
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 12
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Isabel",
-        "weiblich": true
+        "vorname": "Frohmund",
+        "weiblich": false
     }
 }

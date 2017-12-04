@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2365228,
+    "nummer": 2827113,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "21.04.1999",
-        "matrikelnummer": 2108401,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "20.02.1995",
+        "matrikelnummer": 2604428,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hamm",
-        "plzort": "53192 Bonn",
+        "nachname": "Will",
+        "plzort": "24589 Nortorf",
         "sternchen": 0,
-        "strasse": "Baxmannweg 12",
+        "strasse": "Frauenhoferstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 8
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Jobst",
-        "weiblich": false
+        "vorname": "Jasmina",
+        "weiblich": true
     }
 }

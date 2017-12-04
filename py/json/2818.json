@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1340417,
+    "nummer": 1430497,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "08.01.1997",
-        "matrikelnummer": 2036012,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "26.03.1999",
+        "matrikelnummer": 2514193,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wichmann",
-        "plzort": "66957 Hilst",
+        "nachname": "Hentschel",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "August-Siebert-Stra\u00dfe 8",
+        "strasse": "Gelnh\u00e4user Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Tilo",
+        "vorname": "Egidius",
         "weiblich": false
     }
 }

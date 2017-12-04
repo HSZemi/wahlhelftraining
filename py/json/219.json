@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1980949,
+    "nummer": 1543504,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.01.1999",
-        "matrikelnummer": 19771,
+        "fakultaet": 1,
+        "geburtsdatum": "08.03.1992",
+        "matrikelnummer": 166827,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53116 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Reuterweg 0c",
+        "strasse": "Sachsdorfer Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

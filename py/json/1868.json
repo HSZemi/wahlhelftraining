@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2443765,
+    "nummer": 2983292,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.04.1993",
-        "matrikelnummer": 2057378,
+        "fakultaet": 4,
+        "geburtsdatum": "17.11.1987",
+        "matrikelnummer": 2265936,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fabian",
-        "plzort": "56651 Niederd\u00fcrenbach",
+        "nachname": "Sauermann",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Ekhofstra\u00dfe 9",
+        "strasse": "Karl-Strutz-Weg 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 5
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Frieda",
+        "vorname": "Hedi",
         "weiblich": true
     }
 }

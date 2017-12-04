@@ -1,28 +1,38 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1987064,
+    "nummer": 1235265,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.07.1996",
-        "matrikelnummer": 2660436,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "18.09.1997",
+        "matrikelnummer": 1990990,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "53170 Bonn",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Bachmannstra\u00dfe 1",
+        "strasse": "Florianigasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 9
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
         "vorname": "Sven",

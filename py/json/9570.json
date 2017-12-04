@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2368475,
+    "nummer": 2078283,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "11.08.1992",
-        "matrikelnummer": 2335829,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 8,
+        "geburtsdatum": "04.12.1995",
+        "matrikelnummer": 2325111,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Engel",
-        "plzort": "53131 Bonn",
+        "nachname": "Endres",
+        "plzort": "26897 Esterwegen",
         "sternchen": 0,
-        "strasse": "Freigut Eschdorf 11",
+        "strasse": "Zeilweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 12
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 2
             },
             {
-                "abschluss": "Bachelor of Arts",
+                "abschluss": "",
                 "fach": "Geographie",
-                "fsem": 1
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Ivette",
-        "weiblich": true
+        "vorname": "Trutz",
+        "weiblich": false
     }
 }

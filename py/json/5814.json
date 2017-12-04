@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2205674,
-    "semester": "Sommersemester 2017",
+    "nummer": 1298267,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "19.02.1995",
-        "matrikelnummer": 198973,
+        "fakultaet": 8,
+        "geburtsdatum": "27.12.1999",
+        "matrikelnummer": 158611,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Paulsen",
-        "plzort": "55469 Bergenhausen",
+        "nachname": "B\u00fcsing",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Gommernsche Stra\u00dfe 9c",
+        "strasse": "An den Hufen 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Hubert",
-        "weiblich": false
+        "vorname": "Roseline",
+        "weiblich": true
     }
 }

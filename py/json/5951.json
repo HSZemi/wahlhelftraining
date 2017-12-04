@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2507059,
+    "nummer": 1053118,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.10.1991",
-        "matrikelnummer": 2660202,
+        "fakultaet": 4,
+        "geburtsdatum": "01.07.1986",
+        "matrikelnummer": 3143817,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Erben",
-        "plzort": "53167 Bonn",
+        "nachname": "Kauer",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Auenstra\u00dfe 4",
+        "strasse": "Rose-Schloesinger-Anlage 12",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 1
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Jens",
-        "weiblich": false
+        "vorname": "Jane",
+        "weiblich": true
     }
 }

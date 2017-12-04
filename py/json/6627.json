@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2984157,
+    "nummer": 2615468,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.12.1985",
-        "matrikelnummer": 168931,
+        "fakultaet": 2,
+        "geburtsdatum": "10.02.1999",
+        "matrikelnummer": 2013459,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baron",
-        "plzort": "56244 Sessenhausen",
+        "nachname": "Alber",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Meierhofgasse 6d",
+        "strasse": "Horner Br\u00fcckenweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Treufried",
+        "vorname": "Helm",
         "weiblich": false
     }
 }

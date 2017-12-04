@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2587686,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1079444,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "09.01.1999",
-        "matrikelnummer": 2271187,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 0,
+        "geburtsdatum": "11.10.1993",
+        "matrikelnummer": 2284741,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53199 Bonn",
+        "nachname": "Heinen",
+        "plzort": "25917 Leck",
         "sternchen": 0,
-        "strasse": "Wachsbleichstra\u00dfe 3",
+        "strasse": "Gebergrundweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 11
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

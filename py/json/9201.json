@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2206137,
+    "nummer": 1555588,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "28.05.1994",
-        "matrikelnummer": 3026212,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "27.09.1999",
+        "matrikelnummer": 2428866,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spies",
-        "plzort": "54646 Brimingen",
+        "nachname": "Schrage",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Marie-Juchacz-Stra\u00dfe 4",
+        "strasse": "Deuil-La-Barre-Stra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 2
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Cuno",
+        "vorname": "Ruppert",
         "weiblich": false
     }
 }

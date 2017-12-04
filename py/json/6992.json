@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1142683,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2641998,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "05.02.1994",
-        "matrikelnummer": 2915235,
+        "fakultaet": 0,
+        "geburtsdatum": "26.04.1993",
+        "matrikelnummer": 2350492,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinborn",
-        "plzort": "53121 Bonn",
+        "nachname": "Herr",
+        "plzort": "76891 Bundenthal",
         "sternchen": 0,
-        "strasse": "Klotzscher Hauptstra\u00dfe 1",
+        "strasse": "Ludwig-Jahn-Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
+                "fach": "Entwicklungsforschung",
                 "fsem": 13
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Julie",
+        "vorname": "Manuela",
         "weiblich": true
     }
 }

@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1652807,
+    "nummer": 2228997,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.08.1996",
-        "matrikelnummer": 2152235,
+        "fakultaet": 6,
+        "geburtsdatum": "21.10.1988",
+        "matrikelnummer": 3124211,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pagel",
-        "plzort": "53204 Bonn",
+        "nachname": "Drescher",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Im Dunster 1",
+        "strasse": "Konrad-Adenauer-Allee 2",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Arzneimittelforschung (Drug Research)",
                 "fsem": 2
             }
         ],
-        "vorname": "Ekhardt",
-        "weiblich": false
+        "vorname": "Antonia",
+        "weiblich": true
     }
 }

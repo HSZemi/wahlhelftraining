@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2897276,
+    "nummer": 2398150,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.09.1991",
-        "matrikelnummer": 2824036,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "05.02.1994",
+        "matrikelnummer": 2340882,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pietsch",
-        "plzort": "53116 Bonn",
+        "nachname": "Osterloh",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Von-Elm-Weg 3",
+        "strasse": "Felix-Dahn-Weg 12",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 9
+                "fach": "Zahnmedizin",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
             }
         ],
-        "vorname": "Isgard",
-        "weiblich": true
+        "vorname": "Thoralf",
+        "weiblich": false
     }
 }

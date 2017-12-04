@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2975296,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2757210,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "13.04.1987",
-        "matrikelnummer": 2326432,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "25.08.1999",
+        "matrikelnummer": 2929726,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53121 Bonn",
+        "nachname": "Heinen",
+        "plzort": "49757 Vrees",
         "sternchen": 0,
-        "strasse": "Papyrusweg 17",
+        "strasse": "Wilhelm-Beckel-Stra\u00dfe 37",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 8
+            },
+            {
                 "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 2
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 1
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

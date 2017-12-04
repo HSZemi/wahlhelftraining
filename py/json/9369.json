@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2010550,
+    "nummer": 1868931,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.10.1994",
-        "matrikelnummer": 2181388,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "03.03.1992",
+        "matrikelnummer": 3129580,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reimer",
-        "plzort": "53159 Bonn",
+        "nachname": "Bickel",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fcllerstra\u00dfe 11",
+        "strasse": "Stettiner Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Magarete",
-        "weiblich": true
+        "vorname": "Ulf",
+        "weiblich": false
     }
 }

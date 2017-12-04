@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2049574,
+    "nummer": 1936883,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "15.06.1993",
-        "matrikelnummer": 163892,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "11.12.1991",
+        "matrikelnummer": 2407860,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sauter",
-        "plzort": "53190 Bonn",
+        "nachname": "Strecker",
+        "plzort": "59269 Beckum",
         "sternchen": 0,
-        "strasse": "Obere Hafnerstra\u00dfe 22",
+        "strasse": "Strehlener Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Staatsex.",
                 "fach": "Medizin",
-                "fsem": 4
+                "fsem": 10
             }
         ],
-        "vorname": "Ingelore",
-        "weiblich": true
+        "vorname": "Enrico",
+        "weiblich": false
     }
 }

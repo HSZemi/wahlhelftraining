@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1319174,
+    "nummer": 2056240,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "02.12.1996",
-        "matrikelnummer": 3116691,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "25.02.1993",
+        "matrikelnummer": 155668,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neuhaus",
-        "plzort": "53124 Bonn",
+        "nachname": "Boos",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Hedwigstra\u00dfe 0",
+        "strasse": "Emil-Claar-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Physik",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Latein",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Diethelm",
+        "vorname": "Hansi",
         "weiblich": false
     }
 }

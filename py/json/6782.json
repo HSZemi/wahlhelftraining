@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2501971,
+    "nummer": 2152091,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.02.1987",
-        "matrikelnummer": 3100368,
+        "fakultaet": 8,
+        "geburtsdatum": "11.08.1993",
+        "matrikelnummer": 2793418,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00fcttler",
-        "plzort": "53204 Bonn",
+        "nachname": "Heise",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Bruckertshofer Str. 1",
+        "strasse": "An der Kreuzkirche 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Naturschutz und Landschafts\u00f6kologie",
-                "fsem": 2
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Vitus",
-        "weiblich": false
+        "vorname": "Anna",
+        "weiblich": true
     }
 }

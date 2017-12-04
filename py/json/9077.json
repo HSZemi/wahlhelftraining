@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2245272,
+    "nummer": 1207551,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "14.11.1992",
-        "matrikelnummer": 2524274,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "24.12.1991",
+        "matrikelnummer": 1948474,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stock",
-        "plzort": "53154 Bonn",
+        "nachname": "Kamps",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Clara-Viebig-Stra\u00dfe 6",
+        "strasse": "Hirschleite 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Hispanistik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Lateinamerika- und Altamerikastudien",
+                "fsem": 11
             }
         ],
-        "vorname": "Zita",
+        "vorname": "Sabrina",
         "weiblich": true
     }
 }

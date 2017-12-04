@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2753934,
+    "nummer": 1632791,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.01.1996",
-        "matrikelnummer": 3193291,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "06.01.1993",
+        "matrikelnummer": 2559852,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schnieders",
-        "plzort": "53166 Bonn",
+        "nachname": "F\u00f6rtsch",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Kastanienweg 0",
+        "strasse": "Kleiner Pulverteich 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             }
         ],
-        "vorname": "Winnimar",
+        "vorname": "Hieronymus",
         "weiblich": false
     }
 }

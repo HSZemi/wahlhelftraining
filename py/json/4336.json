@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2110637,
+    "nummer": 2653112,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "26.06.1991",
-        "matrikelnummer": 2328657,
+        "fakultaet": 9,
+        "geburtsdatum": "02.07.1994",
+        "matrikelnummer": 2028818,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kowalewski",
-        "plzort": "53148 Bonn",
+        "nachname": "Blau",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00f6tzener Stra\u00dfe 14",
+        "strasse": "Hohenstaufenstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 2
+                "fach": "Economics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Wiltraud",
-        "weiblich": true
+        "vorname": "Meik",
+        "weiblich": false
     }
 }

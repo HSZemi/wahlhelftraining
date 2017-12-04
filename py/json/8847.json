@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2306542,
+    "nummer": 1070162,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.05.1990",
-        "matrikelnummer": 1950079,
+        "fakultaet": 2,
+        "geburtsdatum": "20.01.1991",
+        "matrikelnummer": 2131392,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Donath",
-        "plzort": "53211 Bonn",
+        "nachname": "Wehrle",
+        "plzort": "99885 Ohrdruf",
         "sternchen": 0,
-        "strasse": "Albert-Blank-Stra\u00dfe 20",
+        "strasse": "Tannenweg 19",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 10
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Torben",
+        "vorname": "Till",
         "weiblich": false
     }
 }

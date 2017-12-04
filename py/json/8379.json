@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1534862,
+    "nummer": 2234233,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "25.05.1986",
-        "matrikelnummer": 2503105,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 6,
+        "geburtsdatum": "12.07.1989",
+        "matrikelnummer": 3114881,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dallmann",
-        "plzort": "53165 Bonn",
+        "nachname": "Kellermann",
+        "plzort": "50672 K\u00f6ln",
         "sternchen": 0,
-        "strasse": "Zum Moorkrug 0",
+        "strasse": "Mauritiusstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 2
             }
         ],
-        "vorname": "Utz",
+        "vorname": "Ingowart",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1233538,
+    "nummer": 2839042,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "13.06.1989",
-        "matrikelnummer": 2681056,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "27.10.1993",
+        "matrikelnummer": 2854821,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Potthoff",
-        "plzort": "53114 Bonn",
+        "nachname": "Strehl",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Rispenweg 37",
+        "strasse": "Dorotheenstr. 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft/Sound Studies",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "English Studies",
+                "fsem": 5
             }
         ],
-        "vorname": "Dominikus",
-        "weiblich": false
+        "vorname": "Hiltrude",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1056306,
+    "nummer": 2651435,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.09.1991",
-        "matrikelnummer": 2511539,
+        "fakultaet": 5,
+        "geburtsdatum": "07.06.1994",
+        "matrikelnummer": 3027693,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Griese",
-        "plzort": "06847 Dessau",
+        "nachname": "Ernst",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Barfu\u00dfweg 39",
+        "strasse": "K\u00e4thchen-Paulus-Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Physik",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Japanisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikation in der globalisierten Mediengesellschaft",
+                "fsem": 11
             }
         ],
-        "vorname": "Ishild",
+        "vorname": "Friedlies",
         "weiblich": true
     }
 }

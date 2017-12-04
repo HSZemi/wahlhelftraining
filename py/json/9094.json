@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2639396,
+    "nummer": 2317394,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.09.1990",
-        "matrikelnummer": 2929028,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "02.09.1991",
+        "matrikelnummer": 2100832,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bier",
-        "plzort": "55606 Meckenbach",
+        "nachname": "R\u00fcther",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Geisfelder Str. 1",
+        "strasse": "Artteilried 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Rupertus",
-        "weiblich": false
+        "vorname": "Siegberta",
+        "weiblich": true
     }
 }

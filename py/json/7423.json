@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1510298,
+    "nummer": 1656090,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "01.04.1999",
-        "matrikelnummer": 2709018,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "10.03.1990",
+        "matrikelnummer": 2182713,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hein",
-        "plzort": "53202 Bonn",
+        "nachname": "Wilczek",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00fctzenhofstra\u00dfe 22e",
+        "strasse": "Ewald-Kluge-Stra\u00dfe 3b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 8
             }
         ],
-        "vorname": "Ottkar",
+        "vorname": "Emanuel",
         "weiblich": false
     }
 }

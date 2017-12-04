@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1546271,
+    "nummer": 2981587,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.04.1993",
-        "matrikelnummer": 2966303,
+        "fakultaet": 4,
+        "geburtsdatum": "28.06.1994",
+        "matrikelnummer": 3182619,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauser",
-        "plzort": "53202 Bonn",
+        "nachname": "Bergen",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Haydngasse 7",
+        "strasse": "Steirische Stra\u00dfe 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Agricultural and Food Economics",
-                "fsem": 3
+                "fach": "Neurosciences",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
             }
         ],
-        "vorname": "Manfred",
-        "weiblich": false
+        "vorname": "Britta",
+        "weiblich": true
     }
 }

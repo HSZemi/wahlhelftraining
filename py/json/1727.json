@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1747534,
+    "nummer": 1466490,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.09.1990",
-        "matrikelnummer": 2915949,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "21.07.1992",
+        "matrikelnummer": 2608042,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Henn",
-        "plzort": "53216 Bonn",
+        "nachname": "Strauss",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Kahn-Stra\u00dfe 2",
+        "strasse": "Salm\u00fcnsterer Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 5
             }
         ],
-        "vorname": "Elbert",
+        "vorname": "Gottlob",
         "weiblich": false
     }
 }

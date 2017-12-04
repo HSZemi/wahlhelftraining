@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1292120,
-    "semester": "Sommersemester 2017",
+    "nummer": 1421710,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.12.1994",
-        "matrikelnummer": 2996364,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "28.11.1989",
+        "matrikelnummer": 2305406,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zander",
-        "plzort": "53228 Bonn",
+        "nachname": "Probst",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Louis-K\u00f6hler-Weg 23",
+        "strasse": "Philipp-Puth-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 9
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 12
             }
         ],
-        "vorname": "Markolf",
+        "vorname": "Rigbert",
         "weiblich": false
     }
 }

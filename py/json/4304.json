@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2261071,
+    "nummer": 1941254,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.06.1999",
-        "matrikelnummer": 17993,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "05.06.1987",
+        "matrikelnummer": 2096565,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Junghans",
-        "plzort": "53196 Bonn",
+        "nachname": "Gebhardt",
+        "plzort": "16278 G\u00fcnterberg",
         "sternchen": 0,
-        "strasse": "Paul-Wicke-Stra\u00dfe 7",
+        "strasse": "Lassallestra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Engelhard",
-        "weiblich": false
+        "vorname": "Lilibeth",
+        "weiblich": true
     }
 }

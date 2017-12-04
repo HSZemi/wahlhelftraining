@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2581434,
+    "nummer": 2638079,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "28.07.1998",
-        "matrikelnummer": 14523,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "21.05.1992",
+        "matrikelnummer": 2856635,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kalisch",
-        "plzort": "53158 Bonn",
+        "nachname": "Lochner",
+        "plzort": "45133 Essen",
         "sternchen": 0,
-        "strasse": "Angelsteg 8",
+        "strasse": "Bachforellenweg 8",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 13
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Siegbritta",
-        "weiblich": true
+        "vorname": "Bert",
+        "weiblich": false
     }
 }

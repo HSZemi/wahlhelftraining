@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1563100,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2305813,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "02.12.1994",
-        "matrikelnummer": 2103356,
+        "fakultaet": 4,
+        "geburtsdatum": "27.02.1997",
+        "matrikelnummer": 2179615,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "T\u00f6lle",
-        "plzort": "87490 Haldenwang",
+        "nachname": "Mahnke",
+        "plzort": "48329 Havixbeck",
         "sternchen": 0,
-        "strasse": "Nelkenweg 10",
+        "strasse": "Inselblick 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
                 "fsem": 13
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 7
             }
         ],
-        "vorname": "Hildegart",
-        "weiblich": true
+        "vorname": "Danny",
+        "weiblich": false
     }
 }

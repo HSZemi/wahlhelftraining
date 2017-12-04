@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1853676,
+    "nummer": 1127770,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "02.03.1993",
-        "matrikelnummer": 2822272,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "09.06.1997",
+        "matrikelnummer": 186327,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinartz",
-        "plzort": "53216 Bonn",
+        "nachname": "K\u00f6rner",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Omsewitzer Ring 29",
+        "strasse": "Luginsland 30",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Arnfred",
-        "weiblich": false
+        "vorname": "Melisande",
+        "weiblich": true
     }
 }

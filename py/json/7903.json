@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1364168,
+    "nummer": 1584188,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.02.1997",
-        "matrikelnummer": 2060625,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "18.07.1993",
+        "matrikelnummer": 187734,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grill",
-        "plzort": "53122 Bonn",
+        "nachname": "Heymann",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Arnoldstra\u00dfe 0",
+        "strasse": "Walter-Nernst-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Madita",
-        "weiblich": true
+        "vorname": "Andreas",
+        "weiblich": false
     }
 }

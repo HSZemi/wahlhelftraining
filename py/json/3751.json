@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1145865,
+    "nummer": 1768763,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
+        "fakultaet": 4,
         "geburtsdatum": "19.08.1996",
-        "matrikelnummer": 2577418,
+        "matrikelnummer": 2156451,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Helbing",
-        "plzort": "63500 Seligenstadt",
+        "nachname": "L\u00fcbke",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Kirchlinden 46d",
+        "strasse": "Ostpreu\u00dfenstra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Geschichte",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Arnhild",
-        "weiblich": true
+        "vorname": "Norman",
+        "weiblich": false
     }
 }

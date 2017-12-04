@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1851159,
+    "nummer": 2314582,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.08.1997",
-        "matrikelnummer": 167515,
+        "fakultaet": 7,
+        "geburtsdatum": "16.07.1991",
+        "matrikelnummer": 2827057,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lieske",
-        "plzort": "23911 Harmsdorf",
+        "nachname": "M\u00f6llers",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Gagernstra\u00dfe 1",
+        "strasse": "Roter Grabenweg 4",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 7
+                "fach": "Lebensmittelchemie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Helfrid",
+        "vorname": "Haimo",
         "weiblich": false
     }
 }

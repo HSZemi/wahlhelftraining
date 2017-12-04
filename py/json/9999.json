@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2002089,
+    "nummer": 1847173,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.09.1995",
-        "matrikelnummer": 2520783,
+        "fakultaet": 6,
+        "geburtsdatum": "19.07.1988",
+        "matrikelnummer": 2163070,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaul",
-        "plzort": "53125 Bonn",
+        "nachname": "Giesen",
+        "plzort": "56237 Sessenbach",
         "sternchen": 0,
-        "strasse": "Denzerstra\u00dfe 29",
+        "strasse": "Herler Stra\u00dfe 17a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "English Literatures and Cultures",
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
                 "fsem": 13
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Applied Linguistics",
-                "fsem": 11
             }
         ],
-        "vorname": "Maximilian",
+        "vorname": "Theobald",
         "weiblich": false
     }
 }

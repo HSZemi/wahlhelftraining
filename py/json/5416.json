@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1543560,
+    "nummer": 2240195,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "25.06.1994",
-        "matrikelnummer": 2961710,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Grabowski",
-        "plzort": "54595 Watzerath",
+        "fakultaet": 3,
+        "geburtsdatum": "26.02.1992",
+        "matrikelnummer": 3048392,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gro\u00df",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Pottendorfer Stra\u00dfe 1a",
+        "strasse": "Scheteligsweg 14",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Jadwiga",
-        "weiblich": true
+        "vorname": "Ingomar",
+        "weiblich": false
     }
 }

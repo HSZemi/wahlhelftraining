@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2407072,
+    "nummer": 2065695,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.06.1993",
-        "matrikelnummer": 3171442,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "19.07.1989",
+        "matrikelnummer": 2413657,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00fcmmer",
-        "plzort": "53145 Bonn",
+        "nachname": "Langner",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Striesener Stra\u00dfe 7",
+        "strasse": "Rothh\u00e4userstra\u00dfe 28",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch-Italienische Studien",
+                "fsem": 11
             }
         ],
-        "vorname": "Herrmann",
-        "weiblich": false
+        "vorname": "Melanie",
+        "weiblich": true
     }
 }

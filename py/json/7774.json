@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1005649,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2633419,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.11.1991",
-        "matrikelnummer": 2824108,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "02.07.1991",
+        "matrikelnummer": 2607907,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schenk",
-        "plzort": "53226 Bonn",
+        "nachname": "Moser",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Altk\u00f6nigstra\u00dfe 4d",
+        "strasse": "Nidacorso 12d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 1
             }
         ],
-        "vorname": "Hannah",
-        "weiblich": true
+        "vorname": "Thorsten",
+        "weiblich": false
     }
 }

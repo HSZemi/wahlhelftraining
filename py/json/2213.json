@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1877748,
+    "nummer": 2217740,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "02.09.1988",
-        "matrikelnummer": 1948470,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "08.04.1989",
+        "matrikelnummer": 2865563,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reber",
-        "plzort": "53203 Bonn",
+        "nachname": "Tesch",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Norderhof 34",
+        "strasse": "Am Br\u00fcchigt 6",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Immunobiology: from molecules to integrative systems",
+                "fsem": 4
             }
         ],
-        "vorname": "Meike",
-        "weiblich": true
+        "vorname": "Torge",
+        "weiblich": false
     }
 }

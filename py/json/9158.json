@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1245322,
+    "nummer": 1103621,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.02.1999",
-        "matrikelnummer": 14756,
+        "fakultaet": 5,
+        "geburtsdatum": "21.01.1993",
+        "matrikelnummer": 2223375,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schrade",
-        "plzort": "53206 Bonn",
+        "nachname": "Hanisch",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Zweite Grevenbr\u00fccke 7",
+        "strasse": "Dornr\u00f6schenweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Anglistik II",
+                "fsem": 6
             }
         ],
-        "vorname": "Hoimar",
+        "vorname": "Gotthart",
         "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2274021,
+    "nummer": 1661717,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.06.1996",
-        "matrikelnummer": 3149045,
+        "fakultaet": 8,
+        "geburtsdatum": "23.04.1993",
+        "matrikelnummer": 2473477,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "de",
-        "plzort": "53187 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Bergner",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Am Leisrain 3c",
+        "strasse": "M\u00fcnchberger Str. 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Thomas",
+        "vorname": "Wilmhard",
         "weiblich": false
     }
 }

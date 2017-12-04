@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1214901,
+    "nummer": 2254466,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.06.1994",
-        "matrikelnummer": 2518070,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "04.07.1999",
+        "matrikelnummer": 2791381,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wollny",
-        "plzort": "53177 Bonn",
+        "nachname": "Blaschke",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Nordweg 0a",
+        "strasse": "Thiotmannstra\u00dfe 31",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 7
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Ortrun",
-        "weiblich": true
+        "vorname": "Berti",
+        "weiblich": false
     }
 }

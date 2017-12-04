@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1259372,
+    "nummer": 2644612,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.07.1995",
-        "matrikelnummer": 2088042,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "27.05.1995",
+        "matrikelnummer": 2315329,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Andreas",
-        "plzort": "73114 Schlat",
+        "nachname": "Gericke",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Genfer Stra\u00dfe 17",
+        "strasse": "Altenberger Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Indologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 10
             }
         ],
-        "vorname": "Grimbert",
+        "vorname": "Meinrad",
         "weiblich": false
     }
 }

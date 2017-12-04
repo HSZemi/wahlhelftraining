@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1540045,
+    "nummer": 1294194,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "28.11.1989",
-        "matrikelnummer": 2674331,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "24.08.1989",
+        "matrikelnummer": 2397779,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pausch",
-        "plzort": "53201 Bonn",
+        "nachname": "Niemann",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Zeppelinallee 1e",
+        "strasse": "Matthias-P\u00f6ltl-Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
                 "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Irmi",
+        "vorname": "Hanne",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1269428,
+    "nummer": 1855510,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.03.1991",
-        "matrikelnummer": 2142684,
+        "fakultaet": 6,
+        "geburtsdatum": "22.10.1997",
+        "matrikelnummer": 14020,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bade",
-        "plzort": "53142 Bonn",
+        "nachname": "Schnoor",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Flurstra\u00dfe 15",
+        "strasse": "Sudelfeldstr. 15",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
                 "fsem": 3
             }
         ],
-        "vorname": "Sigmar",
-        "weiblich": false
+        "vorname": "Lindemarie",
+        "weiblich": true
     }
 }

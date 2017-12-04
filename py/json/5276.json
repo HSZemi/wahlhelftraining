@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2515850,
+    "nummer": 2833657,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "20.04.1995",
-        "matrikelnummer": 144595,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "04.12.1995",
+        "matrikelnummer": 2187135,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bender",
-        "plzort": "53163 Bonn",
+        "nachname": "K\u00e4ser",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Stegauracher Str. 11",
+        "strasse": "Ringelnatzg\u00e4sschen 22",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Wolfhart",
-        "weiblich": false
+        "vorname": "Hiltrud",
+        "weiblich": true
     }
 }

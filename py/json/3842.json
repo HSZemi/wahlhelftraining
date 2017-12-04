@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1483433,
-    "semester": "Sommersemester 2017",
+    "nummer": 1028224,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "23.06.1996",
-        "matrikelnummer": 135910,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "08.04.1996",
+        "matrikelnummer": 2478918,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grams",
-        "plzort": "07751 L\u00f6bersch\u00fctz",
+        "nachname": "Linke",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Frauenlobstra\u00dfe 22",
+        "strasse": "Dr.-Robert-Pfleger-Str. 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 1
             }
         ],
-        "vorname": "Trinchen",
+        "vorname": "Roselotte",
         "weiblich": true
     }
 }

@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1426755,
+    "nummer": 1250427,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.02.1995",
-        "matrikelnummer": 17764,
+        "fakultaet": 4,
+        "geburtsdatum": "06.10.1999",
+        "matrikelnummer": 2358191,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Flaig",
-        "plzort": "56412 Nomborn",
+        "nachname": "Baumg\u00e4rtner",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Looshornweg 18",
+        "strasse": "Adam-Riese-Platz 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Kulturstudien zu Lateinamerika/Estudios culturales de America Latina",
-                "fsem": 7
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 8
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Quintus",
-        "weiblich": false
+        "vorname": "Lottemaria",
+        "weiblich": true
     }
 }

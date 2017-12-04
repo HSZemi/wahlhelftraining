@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2502810,
+    "nummer": 2122565,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.02.1996",
-        "matrikelnummer": 2737947,
+        "fakultaet": 7,
+        "geburtsdatum": "28.07.1990",
+        "matrikelnummer": 2386053,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wilde",
-        "plzort": "53128 Bonn",
+        "nachname": "Kratzer",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Elbeweg 4",
+        "strasse": "Mobilheimplatz 12",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 9
             }
         ],
-        "vorname": "Oda",
-        "weiblich": true
+        "vorname": "Wilmhard",
+        "weiblich": false
     }
 }

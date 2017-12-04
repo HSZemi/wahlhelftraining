@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2235356,
+    "nummer": 2241579,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "10.05.1999",
-        "matrikelnummer": 184049,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "19.07.1992",
+        "matrikelnummer": 2405842,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Biehl",
-        "plzort": "17219 M\u00f6llenhagen",
+        "nachname": "Aschenbrenner",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz-Boehle-Stra\u00dfe 4",
+        "strasse": "Mariannenstra\u00dfe 4",
         "studienfaecher": [
             {
+                "abschluss": "Master of Arts",
+                "fach": "Interreligi\u00f6se Studien - Philosophie der Religionen",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "fach": "Mathematics",
+                "fsem": 9
             }
         ],
-        "vorname": "Dietwolf",
-        "weiblich": false
+        "vorname": "Friedeborg",
+        "weiblich": true
     }
 }

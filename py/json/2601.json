@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1206253,
+    "nummer": 1806919,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "24.07.1988",
-        "matrikelnummer": 3030652,
+        "geburtsdatum": "07.04.1990",
+        "matrikelnummer": 2806596,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Rahm",
-        "plzort": "53178 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schiemann",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Drosselbartweg 10",
+        "strasse": "Droysenstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Staatsex.",
                 "fach": "Zahnmedizin",
-                "fsem": 6
+                "fsem": 11
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Rosina",
+        "vorname": "Helrike",
         "weiblich": true
     }
 }

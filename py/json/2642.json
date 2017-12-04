@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1081770,
+    "nummer": 2301894,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "15.06.1987",
-        "matrikelnummer": 2485837,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "16.12.1995",
+        "matrikelnummer": 1984085,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strohmeier",
-        "plzort": "53196 Bonn",
+        "nachname": "Hertwig",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Lauterbacher Stra\u00dfe 18",
+        "strasse": "Birkenhain 0",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "fach": "Rechtswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Hansmartin",
+        "vorname": "Herrmann",
         "weiblich": false
     }
 }

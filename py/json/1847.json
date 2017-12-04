@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2203100,
+    "nummer": 2790243,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "18.01.1990",
-        "matrikelnummer": 1960256,
+        "fakultaet": 5,
+        "geburtsdatum": "17.12.1989",
+        "matrikelnummer": 2937558,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hinrichsen",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Cordes",
         "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Billbrookkanalbr\u00fccke 0",
+        "strasse": "Barckhausstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Koreanisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 10
             }
         ],
-        "vorname": "Mischel",
+        "vorname": "Carl",
         "weiblich": false
     }
 }

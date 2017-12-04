@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1052605,
+    "nummer": 1558765,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "05.04.1990",
-        "matrikelnummer": 2960936,
+        "fakultaet": 8,
+        "geburtsdatum": "05.11.1992",
+        "matrikelnummer": 3017078,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6stler",
-        "plzort": "53180 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Arlt",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00fcbenkamp 5",
+        "strasse": "Diezer Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Koreanisch",
-                "fsem": 6
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
             },
             {
                 "abschluss": "",
-                "fach": "Skandinavistik",
-                "fsem": 6
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Hardo",
-        "weiblich": false
+        "vorname": "Heidegret",
+        "weiblich": true
     }
 }

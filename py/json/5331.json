@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2973747,
+    "nummer": 2292803,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "22.01.1990",
-        "matrikelnummer": 3083989,
-        "mehrfachausfertigung": 5,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Eichhorn",
-        "plzort": "53155 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "04.04.1988",
+        "matrikelnummer": 2646566,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "W\u00f6lfle",
+        "plzort": "27580 Bremerhaven",
         "sternchen": 0,
-        "strasse": "Heidem\u00fchlweg 3",
+        "strasse": "Mitterweg 17",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Griechisch",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Englisch",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 1
             }
         ],
-        "vorname": "Immanuel",
-        "weiblich": false
+        "vorname": "Helene",
+        "weiblich": true
     }
 }

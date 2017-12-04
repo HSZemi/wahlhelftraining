@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1296478,
+    "nummer": 2292839,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "01.07.1989",
-        "matrikelnummer": 1974784,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "06.04.1993",
+        "matrikelnummer": 3084230,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heider",
-        "plzort": "23827 Travenhorst",
+        "nachname": "Schier",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Klitscherstra\u00dfe 2",
+        "strasse": "Archimedesstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Gustel",
-        "weiblich": true
+        "vorname": "Warnfried",
+        "weiblich": false
     }
 }

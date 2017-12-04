@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1192762,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1081837,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.02.1989",
-        "matrikelnummer": 2431682,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "09.02.1995",
+        "matrikelnummer": 2407550,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hellmuth",
-        "plzort": "67821 Oberndorf",
+        "nachname": "H\u00f6rl",
+        "plzort": "04683 Belgershain",
         "sternchen": 0,
-        "strasse": "Palleskestra\u00dfe 18d",
+        "strasse": "Sachsenbergstra\u00dfe 44",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 1
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Dora",
+        "vorname": "Gila",
         "weiblich": true
     }
 }

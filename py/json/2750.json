@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1400798,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2902140,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.05.1988",
-        "matrikelnummer": 2175248,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "03.12.1986",
+        "matrikelnummer": 2794281,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fuhrmann",
-        "plzort": "53150 Bonn",
+        "nachname": "Reimer",
+        "plzort": "06779 Thurland",
         "sternchen": 0,
-        "strasse": "Wiesenteich 30",
+        "strasse": "Stegerwaldring 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 9
             }
         ],
-        "vorname": "Rudolfina",
-        "weiblich": true
+        "vorname": "Rudolph",
+        "weiblich": false
     }
 }

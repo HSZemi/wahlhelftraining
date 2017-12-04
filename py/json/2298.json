@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2885795,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2870091,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "11.12.1999",
-        "matrikelnummer": 1928711,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "04.12.1990",
+        "matrikelnummer": 187503,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00fcnberg",
-        "plzort": "66806 Ensdorf",
+        "nachname": "Kolbe",
+        "plzort": "24146 Kiel",
         "sternchen": 0,
-        "strasse": "Hubertusplatz 7",
+        "strasse": "Grie\u00dfmattenstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Bodmar",
-        "weiblich": false
+        "vorname": "Magarete",
+        "weiblich": true
     }
 }

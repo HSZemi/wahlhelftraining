@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1459104,
+    "nummer": 2240180,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.07.1992",
-        "matrikelnummer": 181610,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "10.04.1997",
+        "matrikelnummer": 2667487,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53182 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Erna-Pinner-Stra\u00dfe 7",
+        "strasse": "Konrad-Duden-Weg 19",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

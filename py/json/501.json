@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1835940,
+    "nummer": 1208252,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.08.1996",
-        "matrikelnummer": 2588714,
+        "fakultaet": 8,
+        "geburtsdatum": "07.12.1993",
+        "matrikelnummer": 2238078,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jakob",
-        "plzort": "53115 Bonn",
+        "nachname": "F\u00e4rber",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Bei den Tennispl\u00e4tzen 6",
+        "strasse": "Waldm\u00fcnchner Str. 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Meteorologie",
-                "fsem": 1
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 5
             }
         ],
-        "vorname": "Hagen",
+        "vorname": "Hermann",
         "weiblich": false
     }
 }

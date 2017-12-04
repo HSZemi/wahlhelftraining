@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2848296,
+    "nummer": 1219054,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.10.1999",
-        "matrikelnummer": 2124790,
+        "fakultaet": 0,
+        "geburtsdatum": "28.07.1994",
+        "matrikelnummer": 2457753,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Reimer",
-        "plzort": "55578 Wolfsheim",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Majewski",
+        "plzort": "17034 Neubrandenburg",
         "sternchen": 0,
-        "strasse": "Rochwitzer Stra\u00dfe 5",
+        "strasse": "Arnst\u00e4dter Weg 30",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 5
             }
         ],
-        "vorname": "Follrich",
-        "weiblich": false
+        "vorname": "Wilhelmine",
+        "weiblich": true
     }
 }

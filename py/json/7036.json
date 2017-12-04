@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2266470,
+    "nummer": 1200295,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "24.10.1995",
-        "matrikelnummer": 190241,
+        "fakultaet": 1,
+        "geburtsdatum": "10.12.1999",
+        "matrikelnummer": 2438563,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schillinger",
-        "plzort": "53180 Bonn",
+        "nachname": "Gradl",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Tauchnitzweg 3",
+        "strasse": "Kr\u00f6gerstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Liebgard",
-        "weiblich": true
+        "vorname": "Heimwald",
+        "weiblich": false
     }
 }

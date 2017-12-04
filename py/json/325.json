@@ -1,28 +1,33 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1335104,
+    "nummer": 2051035,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "05.07.1991",
-        "matrikelnummer": 2605714,
+        "fakultaet": 9,
+        "geburtsdatum": "16.06.1990",
+        "matrikelnummer": 2164745,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "53163 Bonn",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Anton-Graff-Stra\u00dfe 24",
+        "strasse": "Schweizstra\u00dfe 4d",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 1
             }
         ],
         "vorname": "Sven",

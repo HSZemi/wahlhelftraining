@@ -4,43 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1983529,
+    "nummer": 1324370,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.09.1990",
-        "matrikelnummer": 3114243,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "10.02.1993",
+        "matrikelnummer": 1969094,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Friedrich",
-        "plzort": "75056 Sulzfeld",
+        "nachname": "Rauch",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Dittersbacher Stra\u00dfe 5",
+        "strasse": "T\u00e4nnichtweg 0",
         "studienfaecher": [
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Arch\u00e4ologien",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Japanisch",
+                "fsem": 1
+            },
             {
                 "abschluss": "Promotion",
                 "fach": "Entwicklungsforschung",
-                "fsem": 11
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 1
+                "fsem": 8
             }
         ],
-        "vorname": "Erlgard",
+        "vorname": "Annegreth",
         "weiblich": true
     }
 }

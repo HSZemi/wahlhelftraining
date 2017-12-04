@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1814075,
+    "nummer": 2520285,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "10.11.1995",
-        "matrikelnummer": 2393425,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "25.07.1996",
+        "matrikelnummer": 2940688,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fctze",
-        "plzort": "06682 Deuben",
+        "nachname": "Henseler",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Josef-Kindshofen-Str. 15",
+        "strasse": "Lohoffstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Sprach- u. Kulturwissenschaft Zentralasiens",
+                "fsem": 2
             }
         ],
-        "vorname": "Blasius",
-        "weiblich": false
+        "vorname": "Undine",
+        "weiblich": true
     }
 }

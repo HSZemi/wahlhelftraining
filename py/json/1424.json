@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1566561,
+    "nummer": 2737313,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.02.1999",
-        "matrikelnummer": 18605,
+        "fakultaet": 9,
+        "geburtsdatum": "01.06.1989",
+        "matrikelnummer": 1938886,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hennecke",
-        "plzort": "53148 Bonn",
+        "nachname": "Nitsche",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Wartenau 15",
+        "strasse": "Altstrehlen 23",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 2
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Leonhard",
+        "vorname": "Gottwald",
         "weiblich": false
     }
 }

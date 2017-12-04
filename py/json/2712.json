@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1155803,
+    "nummer": 1398268,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.12.1997",
-        "matrikelnummer": 15772,
+        "fakultaet": 1,
+        "geburtsdatum": "17.02.1996",
+        "matrikelnummer": 2058565,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Krapf",
-        "plzort": "74579 Fichtenau",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Ahlers",
+        "plzort": "98631 Behrungen",
         "sternchen": 0,
-        "strasse": "Albert-Venus-Weg 3",
+        "strasse": "Unterer Kreutberg 27",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Bertina",
-        "weiblich": true
+        "vorname": "Helmrich",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2191480,
+    "nummer": 1255876,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "19.04.1999",
-        "matrikelnummer": 3170621,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "24.02.1994",
+        "matrikelnummer": 190961,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Philipps",
-        "plzort": "53505 Altenahr",
+        "nachname": "Ramm",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Bad Kissingen-Platz 30",
+        "strasse": "Ackermannstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Philosophie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Koreanisch",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Christof",
-        "weiblich": false
+        "vorname": "Elisa",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1112418,
+    "nummer": 1316897,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "06.10.1993",
-        "matrikelnummer": 1982533,
+        "fakultaet": 4,
+        "geburtsdatum": "21.10.1989",
+        "matrikelnummer": 2316692,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ross",
-        "plzort": "53127 Bonn",
+        "nachname": "Helmke",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Reinskamp 6",
+        "strasse": "New-York-Br\u00fccke 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 5
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Guido",
-        "weiblich": false
+        "vorname": "Stephanie",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2363132,
+    "nummer": 2832773,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.04.1987",
-        "matrikelnummer": 2800427,
+        "fakultaet": 9,
+        "geburtsdatum": "22.06.1995",
+        "matrikelnummer": 2104812,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krahn",
-        "plzort": "53136 Bonn",
+        "nachname": "Wei\u00dfe",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Grunaer Weg 28",
+        "strasse": "Laurenzistr. 10",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 9
             }
         ],
-        "vorname": "Annie",
-        "weiblich": true
+        "vorname": "Innozenz",
+        "weiblich": false
     }
 }

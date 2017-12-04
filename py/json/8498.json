@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2506023,
+    "nummer": 1853226,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.01.1996",
-        "matrikelnummer": 12658,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 7,
+        "geburtsdatum": "17.04.1988",
+        "matrikelnummer": 15157,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heizmann",
-        "plzort": "53197 Bonn",
+        "nachname": "B\u00f6hm",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Beckmann-Stra\u00dfe 6",
+        "strasse": "Alexander Wolf-Gasse 13d",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 8
             }
         ],
-        "vorname": "Anemone",
-        "weiblich": true
+        "vorname": "Winrich",
+        "weiblich": false
     }
 }

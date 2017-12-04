@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2042266,
+    "nummer": 2293386,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.01.1988",
-        "matrikelnummer": 3190135,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "18.02.1998",
+        "matrikelnummer": 2530468,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Oestreich",
-        "plzort": "53214 Bonn",
+        "nachname": "Zeh",
+        "plzort": "06724 Br\u00f6ckau",
         "sternchen": 0,
-        "strasse": "Altrochwitz 7",
+        "strasse": "Thea-Rasche-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Christfriede",
-        "weiblich": true
+        "vorname": "Dominikus",
+        "weiblich": false
     }
 }

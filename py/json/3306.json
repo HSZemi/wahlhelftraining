@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1941390,
+    "nummer": 1358782,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.12.1993",
-        "matrikelnummer": 2857260,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Steinmann",
-        "plzort": "56244 Weidenhahn",
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "11.04.1994",
+        "matrikelnummer": 2094933,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schrage",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Laurentiusstra\u00dfe 42",
+        "strasse": "Brooksdamm 11",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 6
+                "fach": "Computational Life Sciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Catherina",
+        "vorname": "Monja",
         "weiblich": true
     }
 }

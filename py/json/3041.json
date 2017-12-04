@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1553257,
+    "nummer": 2191471,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "25.09.1993",
-        "matrikelnummer": 3031988,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "16.01.1999",
+        "matrikelnummer": 2213448,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00e4rz",
-        "plzort": "53154 Bonn",
+        "nachname": "Teichert",
+        "plzort": "39638 Dorst",
         "sternchen": 0,
-        "strasse": "Markt 7",
+        "strasse": "W\u00f6hlerbr\u00fccke 22",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 4
             }
         ],
-        "vorname": "Eckardt",
-        "weiblich": false
+        "vorname": "Rosalie",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2561854,
+    "nummer": 2430963,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.02.1996",
-        "matrikelnummer": 2450163,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "24.09.1993",
+        "matrikelnummer": 2604056,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zeitler",
-        "plzort": "53146 Bonn",
+        "nachname": "Schroer",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Bahnstra\u00dfe 10",
+        "strasse": "Fritz-Meinhardt-Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 2
             }
         ],
-        "vorname": "Karlotto",
-        "weiblich": false
+        "vorname": "Aloysia",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2577191,
+    "nummer": 2045348,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.08.1989",
-        "matrikelnummer": 1964921,
+        "fakultaet": 0,
+        "geburtsdatum": "20.11.1991",
+        "matrikelnummer": 12441,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gross",
-        "plzort": "53164 Bonn",
+        "nachname": "Mock",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Beer-Weg 2",
+        "strasse": "R\u00e4hnitzer Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 11
             }
         ],
-        "vorname": "Aleksandra",
+        "vorname": "Christsolde",
         "weiblich": true
     }
 }

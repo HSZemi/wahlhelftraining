@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2913238,
+    "nummer": 2966960,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "09.02.1992",
-        "matrikelnummer": 3185635,
+        "fakultaet": 5,
+        "geburtsdatum": "17.11.1994",
+        "matrikelnummer": 3165229,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Staudinger",
-        "plzort": "53168 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Beil",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Draesekestra\u00dfe 15",
+        "strasse": "Oberer Kaulberg 1",
         "studienfaecher": [
+            {
+                "abschluss": "Master of Arts",
+                "fach": "North American Studies",
+                "fsem": 4
+            },
             {
                 "abschluss": "Magister Theologiae (kath.)",
                 "fach": "Katholische Theologie",
-                "fsem": 13
+                "fsem": 11
             }
         ],
-        "vorname": "Semra",
+        "vorname": "Urszula",
         "weiblich": true
     }
 }

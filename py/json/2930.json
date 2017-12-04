@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1798300,
+    "nummer": 1089812,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "15.07.1997",
-        "matrikelnummer": 2625962,
+        "fakultaet": 1,
+        "geburtsdatum": "15.02.1993",
+        "matrikelnummer": 12808,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lampert",
-        "plzort": "53124 Bonn",
+        "nachname": "Dold",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Chamissostra\u00dfe 4c",
+        "strasse": "Sebastian-Bach-Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Johannes",
-        "weiblich": false
+        "vorname": "Emilie",
+        "weiblich": true
     }
 }

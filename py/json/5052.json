@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1357723,
+    "nummer": 2194352,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.09.1992",
-        "matrikelnummer": 2912615,
+        "fakultaet": 4,
+        "geburtsdatum": "22.01.1985",
+        "matrikelnummer": 3137603,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6hner",
-        "plzort": "53208 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schorn",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Posteltsweg 2",
+        "strasse": "Steigerwaldstr. 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 11
             }
         ],
-        "vorname": "Hella",
-        "weiblich": true
+        "vorname": "Marc",
+        "weiblich": false
     }
 }

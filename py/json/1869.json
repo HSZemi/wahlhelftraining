@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2072226,
+    "nummer": 2821685,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "21.02.1993",
-        "matrikelnummer": 157578,
+        "geburtsdatum": "13.05.1995",
+        "matrikelnummer": 2495940,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Petry",
-        "plzort": "53219 Bonn",
+        "nachname": "Wolter",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Rudolf-Presber-Stra\u00dfe 2",
+        "strasse": "Anton-Schl\u00fcter-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Computer Science",
-                "fsem": 13
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 9
             }
         ],
-        "vorname": "Eduard",
-        "weiblich": false
+        "vorname": "Alheide",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1567318,
+    "nummer": 2653228,
     "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.06.1994",
-        "matrikelnummer": 15946,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "11.08.1995",
+        "matrikelnummer": 168800,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00f6w",
-        "plzort": "53124 Bonn",
+        "nachname": "Moser",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Josbacher Stra\u00dfe 23",
+        "strasse": "Josef Hyrtlgasse 9",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 5
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Rommy",
-        "weiblich": true
+        "vorname": "Pankratius",
+        "weiblich": false
     }
 }

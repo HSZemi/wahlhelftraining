@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2290065,
+    "nummer": 2330695,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "05.01.1994",
-        "matrikelnummer": 3029671,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "27.08.1993",
+        "matrikelnummer": 2647097,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mittelst\u00e4dt",
-        "plzort": "53211 Bonn",
+        "nachname": "Ferber",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Pommernweg 11",
+        "strasse": "Reuningstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Jakob",
+        "vorname": "Meinfried",
         "weiblich": false
     }
 }

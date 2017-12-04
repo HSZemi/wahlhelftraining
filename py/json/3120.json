@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2083371,
+    "nummer": 1710848,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "26.03.1990",
-        "matrikelnummer": 1954516,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "05.11.1993",
+        "matrikelnummer": 3108451,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fuhrmann",
-        "plzort": "53216 Bonn",
+        "nachname": "Dunker",
+        "plzort": "07349 Lehesten",
         "sternchen": 0,
-        "strasse": "Wilhelmsplatz 1",
+        "strasse": "Snitgerstieg 5",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 4
             }
         ],
-        "vorname": "Boto",
-        "weiblich": false
+        "vorname": "Eva",
+        "weiblich": true
     }
 }

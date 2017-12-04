@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2982462,
+    "nummer": 2357437,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.03.1999",
-        "matrikelnummer": 2254145,
+        "fakultaet": 9,
+        "geburtsdatum": "13.06.1992",
+        "matrikelnummer": 3101262,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hellmich",
-        "plzort": "53114 Bonn",
+        "nachname": "B\u00f6sch",
+        "plzort": "17322 Lebehn",
         "sternchen": 0,
-        "strasse": "Basaltstra\u00dfe 9e",
+        "strasse": "F\u00f6hrenstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Politik und Gesellschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Sprachliche Kommunikation",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
             }
         ],
-        "vorname": "Rudolf",
-        "weiblich": false
+        "vorname": "Friedoline",
+        "weiblich": true
     }
 }

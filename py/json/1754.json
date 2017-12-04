@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2481287,
+    "nummer": 1185592,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.04.1994",
-        "matrikelnummer": 2092990,
+        "fakultaet": 8,
+        "geburtsdatum": "22.10.1995",
+        "matrikelnummer": 12116,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Taubert",
-        "plzort": "99713 Helbed\u00fcndorf",
+        "nachname": "Adrian",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Ferdinand-Schrey-Weg 3",
+        "strasse": "Paracelsusstr. 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 1
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Arndt",
+        "vorname": "Nick",
         "weiblich": false
     }
 }

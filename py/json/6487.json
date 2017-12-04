@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2862676,
+    "nummer": 1327394,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "17.03.1995",
-        "matrikelnummer": 2811143,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "03.03.1987",
+        "matrikelnummer": 17248,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hendricks",
-        "plzort": "53172 Bonn",
+        "nachname": "Wisniewski",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Glei\u00dfnerstr. 3",
+        "strasse": "Hammer Landstra\u00dfe 14",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 8
             }
         ],
-        "vorname": "Brit",
-        "weiblich": true
+        "vorname": "Knuth",
+        "weiblich": false
     }
 }

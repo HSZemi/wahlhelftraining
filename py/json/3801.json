@@ -1,41 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2211062,
+    "nummer": 2045348,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 8,
-        "geburtsdatum": "22.07.1988",
-        "matrikelnummer": 1915266,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "26.03.1988",
+        "matrikelnummer": 177606,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Martini",
-        "plzort": "88697 Bermatingen",
+        "nachname": "Muth",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Waschstattgasse 9",
+        "strasse": "Klaus-Groth-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 2
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
             },
             {
                 "abschluss": "",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 2
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Dorota",
+        "vorname": "Maja",
         "weiblich": true
     }
 }

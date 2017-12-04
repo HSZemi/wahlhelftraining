@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2756561,
+    "nummer": 2337065,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.06.1991",
-        "matrikelnummer": 2882776,
+        "fakultaet": 8,
+        "geburtsdatum": "26.04.1998",
+        "matrikelnummer": 2276899,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Bienert",
-        "plzort": "56761 Brachtendorf",
+        "mitglied_studierendenschaft": false,
+        "nachname": "W\u00f6rner",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Obernzeller Str. 8",
+        "strasse": "Dorfelder Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Gustel",
-        "weiblich": false
+        "vorname": "Diemut",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2287529,
-    "semester": "Sommersemester 2017",
+    "nummer": 1100211,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "19.05.1996",
-        "matrikelnummer": 2158163,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "14.07.1992",
+        "matrikelnummer": 2428559,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kopp",
-        "plzort": "53227 Bonn",
+        "nachname": "Hackmann",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-B\u00f6lsche-Stra\u00dfe 2",
+        "strasse": "Rubinsteinstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 1
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Einhardt",
-        "weiblich": false
+        "vorname": "Aslind",
+        "weiblich": true
     }
 }

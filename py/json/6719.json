@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2647850,
+    "nummer": 2115532,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "07.11.1999",
-        "matrikelnummer": 2395178,
+        "fakultaet": 8,
+        "geburtsdatum": "13.07.1991",
+        "matrikelnummer": 2750728,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Fick",
-        "plzort": "99974 M\u00fchlhausen",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Reichle",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Langenzugbr\u00fccke 18",
+        "strasse": "Zur Schule 23",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Margret",
-        "weiblich": true
+        "vorname": "Winfrid",
+        "weiblich": false
     }
 }

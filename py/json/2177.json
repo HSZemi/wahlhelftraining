@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2280887,
+    "nummer": 2927775,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "12.04.1990",
-        "matrikelnummer": 2307928,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "13.12.1993",
+        "matrikelnummer": 185858,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lotz",
-        "plzort": "53134 Bonn",
+        "nachname": "R\u00f6\u00dfler",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Wuttkestra\u00dfe 2",
+        "strasse": "Lorenzenweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 11
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Sofie",
+        "vorname": "Kirsten",
         "weiblich": true
     }
 }

@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2201322,
+    "nummer": 2788914,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.10.1997",
-        "matrikelnummer": 2692588,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "08.01.1997",
+        "matrikelnummer": 115919,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Widmann",
-        "plzort": "53127 Bonn",
+        "nachname": "Feldmeier",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Leubener Stra\u00dfe 2",
+        "strasse": "Lange Reihe 31",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 4
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Musikwissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Norbert",
+        "vorname": "Cornelius",
         "weiblich": false
     }
 }

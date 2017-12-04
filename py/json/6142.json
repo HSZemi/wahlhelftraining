@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2389997,
+    "nummer": 2834792,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "20.01.1990",
-        "matrikelnummer": 2482974,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "17.12.1989",
+        "matrikelnummer": 12632,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tr\u00f6ster",
-        "plzort": "53125 Bonn",
+        "nachname": "Steinke",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Alte Landstra\u00dfe 1",
+        "strasse": "Moosstr. 25",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 11
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Inna",
+        "vorname": "Sibylle",
         "weiblich": true
     }
 }

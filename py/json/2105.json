@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2999655,
+    "nummer": 1722304,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.01.1987",
-        "matrikelnummer": 2595549,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "25.10.1995",
+        "matrikelnummer": 11190,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Menges",
-        "plzort": "53111 Bonn",
+        "nachname": "Thamm",
+        "plzort": "39264 Grimme",
         "sternchen": 0,
-        "strasse": "Hauboldstra\u00dfe 0",
+        "strasse": "Hermann-Kunz-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
-                "fsem": 5
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 11
             }
         ],
-        "vorname": "Annkatrin",
-        "weiblich": true
+        "vorname": "Wiegand",
+        "weiblich": false
     }
 }

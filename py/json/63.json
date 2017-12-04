@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2109883,
+    "nummer": 2620489,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "03.01.1987",
-        "matrikelnummer": 2920474,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "16.02.1997",
+        "matrikelnummer": 2227747,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53122 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Niedersedlitzer Stra\u00dfe 12",
+        "strasse": "Badstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Ernaehrungswiss.",
-                "fsem": 10
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 8
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

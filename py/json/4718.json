@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1838240,
+    "nummer": 1068978,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "07.06.1998",
-        "matrikelnummer": 19722,
+        "fakultaet": 5,
+        "geburtsdatum": "25.01.1992",
+        "matrikelnummer": 2152836,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Borowski",
-        "plzort": "53213 Bonn",
+        "nachname": "Weinhold",
+        "plzort": "66126 Saarbr\u00fccken",
         "sternchen": 0,
-        "strasse": "Krumme Gasse 3",
+        "strasse": "Prieststra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
-            },
-            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
+                "fach": "Psychologie",
                 "fsem": 11
             }
         ],
-        "vorname": "Iselore",
+        "vorname": "Ingried",
         "weiblich": true
     }
 }

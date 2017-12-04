@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2719907,
+    "nummer": 2177199,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.11.1994",
-        "matrikelnummer": 2442825,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "12.02.1999",
+        "matrikelnummer": 1919679,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Prinz",
-        "plzort": "53143 Bonn",
+        "nachname": "Ha\u00df",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Tidekanalbr\u00fccke 10",
+        "strasse": "Berger Marktplatz 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 10
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 13
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Roslinda",
+        "vorname": "Judith",
         "weiblich": true
     }
 }

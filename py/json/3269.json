@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1842951,
+    "nummer": 1360223,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.08.1997",
-        "matrikelnummer": 14549,
+        "fakultaet": 2,
+        "geburtsdatum": "13.08.1995",
+        "matrikelnummer": 2169546,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6hring",
-        "plzort": "53171 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Gutzeit",
+        "plzort": "24361 Holzbunge",
         "sternchen": 0,
-        "strasse": "M\u00fcnzgasse 6",
+        "strasse": "Am Waldschl\u00f6\u00dfchen 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 11
             }
         ],
-        "vorname": "Manfried",
-        "weiblich": false
+        "vorname": "Corinne",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1377676,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1235286,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.02.1996",
-        "matrikelnummer": 3106385,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 3,
+        "geburtsdatum": "21.07.1994",
+        "matrikelnummer": 2522181,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jehle",
-        "plzort": "53218 Bonn",
+        "nachname": "K\u00f6ller",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Musikantenweg 0",
+        "strasse": "Friedrich-Ebert-Anlage 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 9
             }
         ],
-        "vorname": "Steffen",
+        "vorname": "Hanswalter",
         "weiblich": false
     }
 }

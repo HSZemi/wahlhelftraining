@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2134580,
+    "nummer": 1996518,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "05.06.1986",
-        "matrikelnummer": 2362213,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 9,
+        "geburtsdatum": "07.04.1988",
+        "matrikelnummer": 3023622,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dorsch",
-        "plzort": "53181 Bonn",
+        "nachname": "Bochmann",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Heidelberger Stra\u00dfe 1",
+        "strasse": "Heinrich-Lange-Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
             }
         ],
-        "vorname": "Hanny",
+        "vorname": "Heimgard",
         "weiblich": true
     }
 }

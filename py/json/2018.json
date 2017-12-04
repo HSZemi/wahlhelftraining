@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1138063,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1641171,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "26.01.1997",
-        "matrikelnummer": 2160217,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "26.04.1993",
+        "matrikelnummer": 3141288,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hildebrandt",
-        "plzort": "53155 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Redlriedweg 17",
+        "strasse": "Zum Nixenteich 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Felix",
-        "weiblich": false
+        "vorname": "Danielle",
+        "weiblich": true
     }
 }

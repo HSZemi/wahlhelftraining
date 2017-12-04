@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2855854,
+    "nummer": 2787460,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.04.1999",
-        "matrikelnummer": 153020,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "18.08.1991",
+        "matrikelnummer": 18430,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mahnke",
-        "plzort": "53212 Bonn",
+        "nachname": "Knittel",
+        "plzort": "56340 Dachsenhausen",
         "sternchen": 0,
-        "strasse": "Gravensteiner-Platz 1",
+        "strasse": "Alter Rossendorfer Weg 11",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Psychologie",
+                "fsem": 7
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 12
+                "abschluss": "",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Skandinavistik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Japanisch",
+                "fsem": 7
             }
         ],
-        "vorname": "Hadburg",
-        "weiblich": true
+        "vorname": "Reinold",
+        "weiblich": false
     }
 }

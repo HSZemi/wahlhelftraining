@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2074656,
+    "nummer": 2614086,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "14.06.1989",
-        "matrikelnummer": 15310,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "15.03.1996",
+        "matrikelnummer": 2019345,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "S\u00f6llner",
-        "plzort": "53191 Bonn",
+        "nachname": "V\u00f6lkl",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Steinweg 26",
+        "strasse": "Vicedom 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 1
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Nutzpflanzenwissenschaften",
-                "fsem": 10
+                "fach": "Neurosciences",
+                "fsem": 4
             }
         ],
-        "vorname": "Erdfried",
-        "weiblich": false
+        "vorname": "Babsi",
+        "weiblich": true
     }
 }

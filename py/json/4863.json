@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1529734,
+    "nummer": 1495302,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "16.04.1993",
-        "matrikelnummer": 2042929,
+        "fakultaet": 4,
+        "geburtsdatum": "21.08.1993",
+        "matrikelnummer": 2280404,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Moor",
-        "plzort": "53188 Bonn",
+        "nachname": "Forstner",
+        "plzort": "49424 Goldenstedt",
         "sternchen": 0,
-        "strasse": "Yachtclub 6",
+        "strasse": "Salingtwiete 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Heilwig",
-        "weiblich": false
+        "vorname": "Gordana",
+        "weiblich": true
     }
 }

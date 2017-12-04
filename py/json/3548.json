@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1023298,
+    "nummer": 2183757,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "04.06.1995",
-        "matrikelnummer": 2380029,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "04.12.1994",
+        "matrikelnummer": 3183451,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaufhold",
-        "plzort": "18059 P\u00f6lchow",
+        "nachname": "Rosin",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Lindensteg 17",
+        "strasse": "Simon-Bolivar-Anlage 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Italienisch",
+                "fsem": 2
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
+                "abschluss": "",
+                "fach": "Philosophie",
                 "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Adelina",
-        "weiblich": true
+        "vorname": "Oswald",
+        "weiblich": false
     }
 }

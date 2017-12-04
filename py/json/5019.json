@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1956249,
+    "nummer": 1124395,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.08.1997",
-        "matrikelnummer": 1911837,
+        "fakultaet": 8,
+        "geburtsdatum": "09.08.1998",
+        "matrikelnummer": 2248349,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Runkel",
-        "plzort": "53193 Bonn",
+        "nachname": "Russ",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "An der Rennbahn 10",
+        "strasse": "Nickerner Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "English Literatures and Cultures",
-                "fsem": 3
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 1
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 5
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Christiana",
-        "weiblich": true
+        "vorname": "Markus",
+        "weiblich": false
     }
 }

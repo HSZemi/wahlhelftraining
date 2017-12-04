@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1687146,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1117287,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "14.08.1992",
-        "matrikelnummer": 2569013,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "07.03.1992",
+        "matrikelnummer": 2728195,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dahm",
-        "plzort": "53129 Bonn",
+        "nachname": "S\u00f6llner",
+        "plzort": "79677 Fr\u00f6hnd",
         "sternchen": 0,
-        "strasse": "Steinbeker Weg 0",
+        "strasse": "Holzhofstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 1
             }
         ],
-        "vorname": "Elkmar",
-        "weiblich": false
+        "vorname": "Hatice",
+        "weiblich": true
     }
 }

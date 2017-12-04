@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1704986,
+    "nummer": 2733311,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.11.1998",
-        "matrikelnummer": 2284158,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "18.01.1998",
+        "matrikelnummer": 175275,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Osterloh",
-        "plzort": "53211 Bonn",
+        "nachname": "Bohlmann",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Altsporbitz 11a",
+        "strasse": "Emsdorfer Stra\u00dfe 4d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Klassische Philologie/Griechisch",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
             }
         ],
-        "vorname": "Patrick",
-        "weiblich": false
+        "vorname": "Yvette",
+        "weiblich": true
     }
 }

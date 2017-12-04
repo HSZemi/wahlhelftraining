@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2040581,
+    "nummer": 1504977,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "25.10.1995",
-        "matrikelnummer": 2594196,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "16.04.1999",
+        "matrikelnummer": 2130159,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hildenbrand",
-        "plzort": "53132 Bonn",
+        "nachname": "Ertl",
+        "plzort": "91469 Hagenb\u00fcchach",
         "sternchen": 0,
-        "strasse": "Albert-Schweitzer-Stra\u00dfe 4",
+        "strasse": "Liliensteinstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Heimtraud",
-        "weiblich": true
+        "vorname": "Wolfhart",
+        "weiblich": false
     }
 }

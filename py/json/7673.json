@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1274104,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1480901,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "13.01.1992",
-        "matrikelnummer": 17416,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "27.07.1984",
+        "matrikelnummer": 126637,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gille",
-        "plzort": "53219 Bonn",
+        "nachname": "Freese",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Baub\u00fcrgerweg 5",
+        "strasse": "Oestricher Weg 8",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
                 "fach": "Geographie",
-                "fsem": 5
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Rouven",
+        "vorname": "Christward",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2094522,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2445855,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "26.01.1989",
-        "matrikelnummer": 12162,
+        "fakultaet": 9,
+        "geburtsdatum": "24.05.1992",
+        "matrikelnummer": 188974,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fitz",
-        "plzort": "53173 Bonn",
+        "nachname": "Wittmann",
+        "plzort": "55278 Uelversheim",
         "sternchen": 0,
-        "strasse": "Lauschestra\u00dfe 31",
+        "strasse": "Br\u00fcckenstr. 38",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 10
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 9
             }
         ],
-        "vorname": "Reinholdt",
+        "vorname": "Raphael",
         "weiblich": false
     }
 }

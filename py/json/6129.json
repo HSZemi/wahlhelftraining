@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1505145,
+    "nummer": 2830042,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.02.1991",
-        "matrikelnummer": 2121903,
+        "fakultaet": 6,
+        "geburtsdatum": "16.05.1994",
+        "matrikelnummer": 2703512,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wedel",
-        "plzort": "53168 Bonn",
+        "nachname": "Henrich",
+        "plzort": "33739 Bielefeld",
         "sternchen": 0,
-        "strasse": "Gutschmidstra\u00dfe 3",
+        "strasse": "Speckgasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 3
+                "abschluss": "Bachelor of Science",
+                "fach": "Biologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Friedhard",
-        "weiblich": false
+        "vorname": "Gretchen",
+        "weiblich": true
     }
 }

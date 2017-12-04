@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2807901,
+    "nummer": 2573377,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "28.05.1999",
-        "matrikelnummer": 2204339,
+        "fakultaet": 6,
+        "geburtsdatum": "22.07.1993",
+        "matrikelnummer": 1955117,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holzapfel",
-        "plzort": "53177 Bonn",
+        "nachname": "Busche",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Rambatzweg 10",
+        "strasse": "M\u00fchlbacher Stra\u00dfe 16d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 13
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
                 "fsem": 7
             }
         ],
-        "vorname": "Giselbert",
+        "vorname": "Hansdieter",
         "weiblich": false
     }
 }

@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2160906,
+    "nummer": 1434100,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.03.1990",
-        "matrikelnummer": 2271967,
+        "fakultaet": 5,
+        "geburtsdatum": "23.12.1993",
+        "matrikelnummer": 2641150,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mattern",
-        "plzort": "53164 Bonn",
+        "nachname": "Conrad",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Buschkamp 8e",
+        "strasse": "Klosterstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 3
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Rose-Marie",
+        "vorname": "Gerburg",
         "weiblich": true
     }
 }

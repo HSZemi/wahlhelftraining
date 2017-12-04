@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1645918,
+    "nummer": 2551850,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.12.1991",
-        "matrikelnummer": 179978,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "28.04.1995",
+        "matrikelnummer": 2597139,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kalb",
-        "plzort": "53176 Bonn",
+        "nachname": "Schmiedel",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Freiheit 4",
+        "strasse": "Gutschmidstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
                 "fach": "Chemie",
-                "fsem": 13
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Lisa",
-        "weiblich": true
+        "vorname": "Engelbert",
+        "weiblich": false
     }
 }

@@ -2,35 +2,45 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2896951,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1965016,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "24.04.1989",
-        "matrikelnummer": 2970688,
+        "fakultaet": 2,
+        "geburtsdatum": "14.12.1988",
+        "matrikelnummer": 2029143,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Keller",
-        "plzort": "06724 Kayna",
+        "nachname": "Sperl",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "An der Winkelwiese 5",
+        "strasse": "An den Ellerwiesen 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 6
             },
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 11
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Mona",
-        "weiblich": true
+        "vorname": "Diethmar",
+        "weiblich": false
     }
 }

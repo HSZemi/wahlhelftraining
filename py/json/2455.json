@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1492328,
+    "nummer": 1789469,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "13.04.1999",
-        "matrikelnummer": 16373,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Olbrich",
-        "plzort": "53144 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "11.04.1996",
+        "matrikelnummer": 2553032,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wenk",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Am Steinbruch 5",
+        "strasse": "Poelsweg 19",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 12
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
             }
         ],
-        "vorname": "Marieluise",
+        "vorname": "Gesine",
         "weiblich": true
     }
 }

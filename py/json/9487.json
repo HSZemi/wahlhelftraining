@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1689634,
-    "semester": "Sommersemester 2017",
+    "nummer": 1910001,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.12.1994",
-        "matrikelnummer": 17008,
+        "fakultaet": 4,
+        "geburtsdatum": "07.06.1994",
+        "matrikelnummer": 3172877,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "J\u00fcnger",
-        "plzort": "53164 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bruns",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Urbanstr. 7",
+        "strasse": "Kurparkstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Hansjochen",
+        "vorname": "Helbert",
         "weiblich": false
     }
 }

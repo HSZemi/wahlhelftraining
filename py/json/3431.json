@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": true
     },
-    "nummer": 1534385,
+    "nummer": 2680565,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "07.09.1986",
-        "matrikelnummer": 3041807,
+        "fakultaet": 0,
+        "geburtsdatum": "26.05.1996",
+        "matrikelnummer": 1945813,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kaiser",
-        "plzort": "53228 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Ahrens",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Fasangartenstr. 7",
+        "strasse": "Am Lugaer Graben 20",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 9
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "fach": "Physik",
+                "fsem": 7
             }
         ],
-        "vorname": "Karlfried",
+        "vorname": "Helfried",
         "weiblich": false
     }
 }

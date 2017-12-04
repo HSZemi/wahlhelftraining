@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1601940,
+    "nummer": 2238092,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "20.05.1995",
-        "matrikelnummer": 3021921,
+        "fakultaet": 8,
+        "geburtsdatum": "12.02.1989",
+        "matrikelnummer": 187384,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klo\u00df",
-        "plzort": "97792 Riedenberg",
+        "nachname": "Heilig",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Hohensteiner Stra\u00dfe 17d",
+        "strasse": "Herbert-von-Meister-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Gabi",
-        "weiblich": true
+        "vorname": "Heidebert",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2011485,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1565516,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "02.08.1999",
-        "matrikelnummer": 3105925,
-        "mehrfachausfertigung": 4,
+        "geburtsdatum": "28.04.1987",
+        "matrikelnummer": 180098,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holst",
-        "plzort": "53160 Bonn",
+        "nachname": "Trost",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Helga-Wex-Platz 47",
+        "strasse": "Kirchenallee 15",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Germanistik",
+                "fsem": 6
             }
         ],
-        "vorname": "Bert",
-        "weiblich": false
+        "vorname": "Fanny",
+        "weiblich": true
     }
 }

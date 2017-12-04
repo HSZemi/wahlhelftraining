@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1218744,
+    "nummer": 1958997,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.08.1997",
-        "matrikelnummer": 2354459,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "22.01.1989",
+        "matrikelnummer": 15477,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Martens",
-        "plzort": "53180 Bonn",
+        "nachname": "Schepers",
+        "plzort": "08223 Gr\u00fcnbach",
         "sternchen": 0,
-        "strasse": "Sierichstra\u00dfe 0",
+        "strasse": "B\u00fcrgeler Stra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Arnold",
-        "weiblich": false
+        "vorname": "Christin",
+        "weiblich": true
     }
 }

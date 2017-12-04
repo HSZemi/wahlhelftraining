@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1614968,
+    "nummer": 2475560,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.06.1987",
-        "matrikelnummer": 2413698,
+        "fakultaet": 5,
+        "geburtsdatum": "25.07.1990",
+        "matrikelnummer": 14070,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behringer",
-        "plzort": "53151 Bonn",
+        "nachname": "Kunzmann",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Bonner Stra\u00dfe 4",
+        "strasse": "Albert-Schweitzer-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Ullrich",
-        "weiblich": false
+        "vorname": "Alina",
+        "weiblich": true
     }
 }

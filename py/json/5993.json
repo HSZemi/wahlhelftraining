@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1838542,
+    "nummer": 2411179,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "12.05.1992",
-        "matrikelnummer": 2130058,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "14.12.1988",
+        "matrikelnummer": 2175444,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schindler",
-        "plzort": "53149 Bonn",
+        "nachname": "Jahnke",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Kohlsdorfer Stra\u00dfe 22",
+        "strasse": "Hans-Thoma-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 6
             }
         ],
-        "vorname": "Elma",
-        "weiblich": true
+        "vorname": "Tilmann",
+        "weiblich": false
     }
 }

@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1125397,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1514139,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "27.10.1993",
-        "matrikelnummer": 180192,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Stutz",
-        "plzort": "53181 Bonn",
+        "geburtsdatum": "04.03.1996",
+        "matrikelnummer": 11840,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Bamberger",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Am Burgwall 1",
+        "strasse": "Vogelbeerenweg 16",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
+                "abschluss": "Promotion",
                 "fach": "Katholische Theologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Vergleichende Religionswissenschaft",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Lateinamerika- und Altamerikastudien",
-                "fsem": 11
+                "fsem": 9
             }
         ],
-        "vorname": "Alicia",
-        "weiblich": true
+        "vorname": "Gunnar",
+        "weiblich": false
     }
 }

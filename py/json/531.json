@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1618630,
+    "nummer": 2381576,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "20.08.1993",
-        "matrikelnummer": 121413,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "05.07.1996",
+        "matrikelnummer": 2690962,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ertel",
-        "plzort": "17209 Massow",
+        "nachname": "Kamp",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Seeblick 58",
+        "strasse": "Ferdinand-Kramer-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 8
             }
         ],
-        "vorname": "Andy",
-        "weiblich": false
+        "vorname": "Marilene",
+        "weiblich": true
     }
 }

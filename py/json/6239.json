@@ -1,41 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2001675,
+    "nummer": 1678199,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.11.1990",
-        "matrikelnummer": 2437856,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "25.08.1990",
+        "matrikelnummer": 2737531,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00fcchner",
-        "plzort": "53186 Bonn",
+        "nachname": "K\u00f6rner",
+        "plzort": "15345 Petershagen-Eggersdorf",
         "sternchen": 0,
-        "strasse": "Hinrich-Wichern-Str. 48",
+        "strasse": "Manitiusstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Sprachlernforschung",
-                "fsem": 1
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
             },
             {
                 "abschluss": "",
-                "fach": "Deutsch-Franz\u00f6sische Studien",
-                "fsem": 7
+                "fach": "Markt und Konsum",
+                "fsem": 8
             },
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
-                "fsem": 11
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Germo",
-        "weiblich": false
+        "vorname": "Resi",
+        "weiblich": true
     }
 }

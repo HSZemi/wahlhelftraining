@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2391830,
+    "nummer": 2892418,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "07.06.1990",
-        "matrikelnummer": 2064297,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "07.10.1997",
+        "matrikelnummer": 3112698,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "N\u00e4gele",
-        "plzort": "16866 Vehlow",
+        "nachname": "Haag",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Herzog-Max-Str. 13",
+        "strasse": "Bischof-Benno-Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 11
             }
         ],
-        "vorname": "Siska",
-        "weiblich": true
+        "vorname": "Gottreich",
+        "weiblich": false
     }
 }

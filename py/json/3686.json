@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2150787,
+    "nummer": 1215610,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.11.1990",
-        "matrikelnummer": 2901832,
+        "fakultaet": 5,
+        "geburtsdatum": "07.05.1992",
+        "matrikelnummer": 2719856,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reiners",
-        "plzort": "55129 Mainz",
+        "nachname": "Feldmeier",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Schunckstra\u00dfe 0e",
+        "strasse": "Postgang 19",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 9
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 4
             }
         ],
-        "vorname": "Erhard",
-        "weiblich": false
+        "vorname": "Ewa",
+        "weiblich": true
     }
 }

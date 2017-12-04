@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2646152,
+    "nummer": 2110855,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.07.1990",
-        "matrikelnummer": 12874,
+        "fakultaet": 8,
+        "geburtsdatum": "03.05.1995",
+        "matrikelnummer": 2510595,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jobst",
-        "plzort": "53192 Bonn",
+        "nachname": "Gerth",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Trienter Stra\u00dfe 8",
+        "strasse": "Ginsterstieg 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
                 "fsem": 11
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Chemistry",
-                "fsem": 11
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Marie-Luise",
-        "weiblich": true
+        "vorname": "Ralf",
+        "weiblich": false
     }
 }

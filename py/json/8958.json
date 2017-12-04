@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1079460,
+    "nummer": 1343405,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "25.03.1990",
-        "matrikelnummer": 2512434,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "18.10.1995",
+        "matrikelnummer": 2879367,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Uhlemann",
-        "plzort": "53161 Bonn",
+        "nachname": "Willms",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Ringelnatzg\u00e4sschen 0",
+        "strasse": "Licher Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Maren",
-        "weiblich": true
+        "vorname": "Ekkardt",
+        "weiblich": false
     }
 }

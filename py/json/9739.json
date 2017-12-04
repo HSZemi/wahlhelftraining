@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1856161,
+    "nummer": 2025839,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.09.1991",
-        "matrikelnummer": 2037974,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "14.05.1994",
+        "matrikelnummer": 2357773,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diener",
-        "plzort": "53201 Bonn",
+        "nachname": "Luther",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Asbrookdamm 3e",
+        "strasse": "Kastanienstra\u00dfe 24",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Marilen",
-        "weiblich": true
+        "vorname": "Raimer",
+        "weiblich": false
     }
 }

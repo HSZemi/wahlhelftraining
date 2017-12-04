@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2841039,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2357134,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "04.06.1989",
-        "matrikelnummer": 2643754,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "25.12.1990",
+        "matrikelnummer": 2020488,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Z\u00fchlke",
-        "plzort": "53150 Bonn",
+        "nachname": "Bacher",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Altnickern 27",
+        "strasse": "Sutte 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 7
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Pascale",
+        "vorname": "Birthe",
         "weiblich": true
     }
 }

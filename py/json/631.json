@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1848320,
+    "nummer": 1638643,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "14.04.1990",
-        "matrikelnummer": 2267751,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "14.02.1995",
+        "matrikelnummer": 186240,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Naumann",
-        "plzort": "82386 Oberhausen",
+        "nachname": "Keller",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Boderitzer Stra\u00dfe 6",
+        "strasse": "Hohensteiner Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 8
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Erdmuthe",
+        "vorname": "Effi",
         "weiblich": true
     }
 }

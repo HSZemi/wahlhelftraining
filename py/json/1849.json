@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1844908,
+    "nummer": 1435176,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.10.1989",
-        "matrikelnummer": 2548378,
+        "fakultaet": 1,
+        "geburtsdatum": "17.07.1992",
+        "matrikelnummer": 2316698,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hanke",
-        "plzort": "53140 Bonn",
+        "nachname": "L\u00fcdtke",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Sternweg 10",
+        "strasse": "Johannes-Stumpf-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
                 "fsem": 4
             }
         ],
-        "vorname": "Crescentia",
-        "weiblich": true
+        "vorname": "Albrecht",
+        "weiblich": false
     }
 }

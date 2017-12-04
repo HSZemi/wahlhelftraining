@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1068179,
+    "nummer": 1765678,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.09.1992",
-        "matrikelnummer": 2127487,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "08.01.1991",
+        "matrikelnummer": 2980758,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kiel",
-        "plzort": "76477 Elchesheim-Illingen",
+        "nachname": "Engelhard",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Gustinus Ambrosi-Weg 0",
+        "strasse": "Kanizsaiweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Peter",
-        "weiblich": false
+        "vorname": "Ellinor",
+        "weiblich": true
     }
 }

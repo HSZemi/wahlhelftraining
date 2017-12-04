@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1722302,
+    "nummer": 2704691,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.12.1996",
-        "matrikelnummer": 2161947,
+        "fakultaet": 4,
+        "geburtsdatum": "22.01.1992",
+        "matrikelnummer": 2153570,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Blessing",
-        "plzort": "53155 Bonn",
+        "nachname": "Althoff",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Blankenburger Weg 13a",
+        "strasse": "Paul-Wiegler-Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 10
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Heidemarie",
+        "vorname": "Serafine",
         "weiblich": true
     }
 }

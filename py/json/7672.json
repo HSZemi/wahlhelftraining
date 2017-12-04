@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1446473,
+    "nummer": 1513317,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.05.1994",
-        "matrikelnummer": 2169949,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "18.06.1997",
+        "matrikelnummer": 2294516,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kerber",
-        "plzort": "53197 Bonn",
+        "nachname": "Reinhardt",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Hammanstra\u00dfe 31",
+        "strasse": "Max-Born-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Kunstgeschichte und Arch\u00e4ologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Marielies",
-        "weiblich": true
+        "vorname": "Klaudius",
+        "weiblich": false
     }
 }

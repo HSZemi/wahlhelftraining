@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1877362,
+    "nummer": 1055868,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.05.1995",
-        "matrikelnummer": 2768282,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "24.06.1995",
+        "matrikelnummer": 2239527,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Speck",
-        "plzort": "53122 Bonn",
+        "nachname": "Drechsel",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Am Lucknerpark 9",
+        "strasse": "Hohensteiner Stra\u00dfe 7b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Franz\u00f6sistik",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Skandinavistik",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Thankmar",
+        "vorname": "Valentin",
         "weiblich": false
     }
 }

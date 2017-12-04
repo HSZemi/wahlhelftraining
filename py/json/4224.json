@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1901696,
+    "nummer": 2884955,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "21.11.1991",
-        "matrikelnummer": 2759111,
-        "mehrfachausfertigung": 4,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "24.11.1991",
+        "matrikelnummer": 2918977,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jankowski",
-        "plzort": "53174 Bonn",
+        "nachname": "Rebmann",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Stegwiese 3",
+        "strasse": "Westmoor 26",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
                 "fsem": 13
             }
         ],
-        "vorname": "Antonina",
-        "weiblich": true
+        "vorname": "Tilo",
+        "weiblich": false
     }
 }

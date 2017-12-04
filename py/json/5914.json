@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1553134,
+    "nummer": 2949368,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.09.1999",
-        "matrikelnummer": 2506077,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "04.03.1986",
+        "matrikelnummer": 2204443,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jesse",
-        "plzort": "53171 Bonn",
+        "nachname": "Kania",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Tittmannstra\u00dfe 1",
+        "strasse": "Ausschl\u00e4ger Allee 17",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
+                "abschluss": "Master of Arts",
+                "fach": "Renaissance-Studien",
                 "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Hansmartin",
-        "weiblich": false
+        "vorname": "Sibille",
+        "weiblich": true
     }
 }

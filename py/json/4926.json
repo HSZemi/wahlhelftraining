@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1579271,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2183934,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "14.03.1992",
-        "matrikelnummer": 186187,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "04.12.1993",
+        "matrikelnummer": 2432950,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kemmer",
-        "plzort": "76534 Baden-Baden",
+        "nachname": "Scheidt",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Landsberger Stra\u00dfe 21",
+        "strasse": "Ruhesteg 6",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
+                "abschluss": "Master of Arts",
+                "fach": "Kulturstudien zu Lateinamerika/Estudios culturales de America Latina",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 7
             }
         ],
-        "vorname": "Alicja",
-        "weiblich": true
+        "vorname": "Sigurd",
+        "weiblich": false
     }
 }

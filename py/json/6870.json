@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1987634,
+    "nummer": 2667027,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "23.06.1996",
-        "matrikelnummer": 2909301,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "21.06.1991",
+        "matrikelnummer": 1936155,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wedel",
-        "plzort": "53132 Bonn",
+        "nachname": "Schmelz",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Strickerstr. 3",
+        "strasse": "Lenbachstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 5
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Mia",
-        "weiblich": true
+        "vorname": "Wilmar",
+        "weiblich": false
     }
 }

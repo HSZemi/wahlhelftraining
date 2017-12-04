@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2609668,
+    "nummer": 1071149,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.12.1994",
-        "matrikelnummer": 2385567,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "26.07.1993",
+        "matrikelnummer": 3009305,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tischer",
-        "plzort": "53115 Bonn",
+        "nachname": "Storz",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-B\u00f6hm-Stra\u00dfe 2",
+        "strasse": "Sesamweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Liesel",
+        "vorname": "Bianka",
         "weiblich": true
     }
 }

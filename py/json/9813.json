@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1517373,
+    "nummer": 2052736,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.08.1999",
-        "matrikelnummer": 117922,
+        "fakultaet": 6,
+        "geburtsdatum": "01.09.1997",
+        "matrikelnummer": 3093276,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niemann",
-        "plzort": "53134 Bonn",
+        "nachname": "Fr\u00f6hlich",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Neuer Wall 10",
+        "strasse": "Hennigsweg 26",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 2
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 11
             }
         ],
-        "vorname": "Knuth",
-        "weiblich": false
+        "vorname": "Freia",
+        "weiblich": true
     }
 }

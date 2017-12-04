@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2352343,
+    "nummer": 1504463,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.01.1995",
-        "matrikelnummer": 2461513,
+        "fakultaet": 2,
+        "geburtsdatum": "02.11.1989",
+        "matrikelnummer": 2240418,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hei\u00df",
-        "plzort": "03246 Gahro",
+        "nachname": "L\u00fcth",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Felix-Dahn-Weg 13",
+        "strasse": "Martin-Weber-Platz 16",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Biggy",
-        "weiblich": true
+        "vorname": "Christhard",
+        "weiblich": false
     }
 }

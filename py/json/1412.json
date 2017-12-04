@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1460073,
+    "nummer": 1520408,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "26.07.1995",
-        "matrikelnummer": 144307,
+        "fakultaet": 0,
+        "geburtsdatum": "25.12.1993",
+        "matrikelnummer": 141815,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwanke",
-        "plzort": "53137 Bonn",
+        "nachname": "Schimmel",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Haubentaucherweg 4",
+        "strasse": "Pfanzeltplatz 16",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Zeno",
-        "weiblich": false
+        "vorname": "Klotilde",
+        "weiblich": true
     }
 }

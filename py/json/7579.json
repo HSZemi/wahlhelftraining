@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1245665,
+    "nummer": 1287375,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.08.1993",
-        "matrikelnummer": 2881687,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "07.07.1994",
+        "matrikelnummer": 2307981,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schuchardt",
-        "plzort": "98743 Gr\u00e4fenthal",
+        "nachname": "Birner",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Moorfleeter Br\u00fccke 5",
+        "strasse": "Oswaltstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Indologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "English Studies",
                 "fsem": 7
             }
         ],
-        "vorname": "Ingetrud",
-        "weiblich": true
+        "vorname": "Sighard",
+        "weiblich": false
     }
 }

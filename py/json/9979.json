@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2656468,
+    "nummer": 1606518,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "17.11.1990",
-        "matrikelnummer": 2189730,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "19.12.1995",
+        "matrikelnummer": 2127750,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00e4hr",
-        "plzort": "53225 Bonn",
+        "nachname": "Frenzel",
+        "plzort": "37345 Bischofferode",
         "sternchen": 0,
-        "strasse": "Werrastra\u00dfe 3",
+        "strasse": "Maiersbachweg 21",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Altamerikanistik und Ethnologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Christa-Maria",
-        "weiblich": true
+        "vorname": "Maik",
+        "weiblich": false
     }
 }

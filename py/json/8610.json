@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1933077,
+    "nummer": 1701229,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.02.1994",
-        "matrikelnummer": 2133651,
+        "fakultaet": 4,
+        "geburtsdatum": "08.11.1994",
+        "matrikelnummer": 2745467,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reichle",
-        "plzort": "53217 Bonn",
+        "nachname": "Kunkel",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Erna-Sack-Stra\u00dfe 20",
+        "strasse": "Fritz-Ehlers-Weg 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 2
             }
         ],
-        "vorname": "Nortrud",
-        "weiblich": true
+        "vorname": "Eckehart",
+        "weiblich": false
     }
 }

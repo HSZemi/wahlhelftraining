@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2898654,
+    "nummer": 1834350,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.05.1999",
-        "matrikelnummer": 2479756,
+        "fakultaet": 1,
+        "geburtsdatum": "23.07.1990",
+        "matrikelnummer": 172684,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ro\u00dfbach",
-        "plzort": "53173 Bonn",
+        "nachname": "Tr\u00e4ger",
+        "plzort": "40470 D\u00fcsseldorf",
         "sternchen": 0,
-        "strasse": "Ravensteinstra\u00dfe 14",
+        "strasse": "Groothoffgasse 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 11
             }
         ],
-        "vorname": "Ingobert",
-        "weiblich": false
+        "vorname": "Birgitt",
+        "weiblich": true
     }
 }

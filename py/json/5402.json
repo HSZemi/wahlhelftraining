@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1540035,
+    "nummer": 2631340,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.10.1991",
-        "matrikelnummer": 2701148,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "03.09.1990",
+        "matrikelnummer": 2228958,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bergen",
-        "plzort": "53113 Bonn",
+        "nachname": "Bu\u00dfmann",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Grotefendstra\u00dfe 40",
+        "strasse": "Richterstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Geschichte",
+                "fsem": 6
             }
         ],
-        "vorname": "Herzlinde",
-        "weiblich": true
+        "vorname": "Benediktus",
+        "weiblich": false
     }
 }

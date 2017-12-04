@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1544653,
+    "nummer": 1048988,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "26.10.1997",
-        "matrikelnummer": 2376026,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "18.08.1994",
+        "matrikelnummer": 2830598,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiese",
-        "plzort": "55442 Roth",
+        "nachname": "Nitschke",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Windm\u00fchlberggasse 5d",
+        "strasse": "Milkeler Stra\u00dfe 11d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Evangelia",
+        "vorname": "Dorlies",
         "weiblich": true
     }
 }

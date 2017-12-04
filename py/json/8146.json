@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1944962,
+    "nummer": 2075201,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.07.1999",
-        "matrikelnummer": 2685917,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "08.06.1994",
+        "matrikelnummer": 179774,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langbein",
-        "plzort": "53212 Bonn",
+        "nachname": "H\u00fcls",
+        "plzort": "85411 Hohenkammer",
         "sternchen": 0,
-        "strasse": "Gudehusstra\u00dfe 3",
+        "strasse": "Spitzhausstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 1
             }
         ],
-        "vorname": "Erkhild",
-        "weiblich": true
+        "vorname": "Ingomar",
+        "weiblich": false
     }
 }

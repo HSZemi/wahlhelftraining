@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1703629,
+    "nummer": 2553342,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.06.1988",
-        "matrikelnummer": 2369430,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "05.09.1994",
+        "matrikelnummer": 2427113,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "W\u00fcnsch",
-        "plzort": "53133 Bonn",
+        "nachname": "Janzen",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Altgompitz 10",
+        "strasse": "Heynahtsstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Reinmar",
-        "weiblich": false
+        "vorname": "Sibilla",
+        "weiblich": true
     }
 }

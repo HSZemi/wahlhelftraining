@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1250520,
+    "nummer": 1152636,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "07.10.1995",
-        "matrikelnummer": 2255835,
+        "geburtsdatum": "18.10.1999",
+        "matrikelnummer": 19007,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "May",
-        "plzort": "53212 Bonn",
+        "nachname": "Heidt",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Hohle R\u00f6nne 3",
+        "strasse": "Bischofswerder Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 2
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Othmar",
+        "vorname": "Reinhard",
         "weiblich": false
     }
 }

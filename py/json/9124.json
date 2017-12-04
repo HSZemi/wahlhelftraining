@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2512029,
-    "semester": "Sommersemester 2017",
+    "nummer": 2809790,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "06.12.1989",
-        "matrikelnummer": 2783005,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "13.10.1993",
+        "matrikelnummer": 2613247,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Walter",
-        "plzort": "30159 Hannover",
+        "nachname": "Krieg",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Pappritzm\u00fchle 10",
+        "strasse": "Hasenmoor 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Ingelinde",
+        "vorname": "Marlies",
         "weiblich": true
     }
 }

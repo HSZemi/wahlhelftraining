@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2237455,
-    "semester": "Sommersemester 2017",
+    "nummer": 1315925,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.12.1992",
-        "matrikelnummer": 2260128,
+        "fakultaet": 4,
+        "geburtsdatum": "20.11.1996",
+        "matrikelnummer": 16989,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wendt",
-        "plzort": "53204 Bonn",
+        "nachname": "Valentin",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Halankweg 9",
+        "strasse": "Roitzscher Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Lene",
+        "vorname": "Gisela",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2254615,
+    "nummer": 2441194,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.06.1995",
-        "matrikelnummer": 3048292,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "04.08.1993",
+        "matrikelnummer": 2641132,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmid",
-        "plzort": "53224 Bonn",
+        "nachname": "K\u00fcnzel",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Spitzwegstra\u00dfe 3",
+        "strasse": "Canalettostra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 13
+                "abschluss": "Master of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 6
             }
         ],
-        "vorname": "Cuno",
-        "weiblich": false
+        "vorname": "Siegtraud",
+        "weiblich": true
     }
 }

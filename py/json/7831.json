@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1254961,
+    "nummer": 1862009,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "01.11.1996",
-        "matrikelnummer": 3018034,
+        "geburtsdatum": "21.10.1997",
+        "matrikelnummer": 2218995,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sperlich",
-        "plzort": "53165 Bonn",
+        "nachname": "Hauschild",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Am Feldweg 3",
+        "strasse": "Brentanostra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Musikwissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 11
             }
         ],
-        "vorname": "Stanislaus",
+        "vorname": "Neithard",
         "weiblich": false
     }
 }

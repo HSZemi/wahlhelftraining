@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2695881,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2383123,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.07.1996",
-        "matrikelnummer": 2296711,
+        "fakultaet": 8,
+        "geburtsdatum": "20.07.1992",
+        "matrikelnummer": 3072523,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ruhland",
-        "plzort": "53221 Bonn",
+        "nachname": "Bartsch",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Albert-Wolf-Platz 3d",
+        "strasse": "Felix-Wankel-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 5
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Birke",
-        "weiblich": true
+        "vorname": "Ludwig",
+        "weiblich": false
     }
 }

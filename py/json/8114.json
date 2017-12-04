@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2711291,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2950639,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "08.03.1987",
-        "matrikelnummer": 16723,
+        "fakultaet": 9,
+        "geburtsdatum": "14.06.1993",
+        "matrikelnummer": 2599444,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Brill",
-        "plzort": "53220 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pichler",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Torontobr\u00fccke 8",
+        "strasse": "Lommatzscher Platz 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Musikwissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Hispanistik",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 12
             }
         ],
-        "vorname": "Holm",
-        "weiblich": false
+        "vorname": "Friedlind",
+        "weiblich": true
     }
 }

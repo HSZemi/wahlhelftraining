@@ -2,30 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1939181,
+    "nummer": 2034761,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.05.1997",
-        "matrikelnummer": 2461255,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "05.02.1996",
+        "matrikelnummer": 2928157,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bischoff",
-        "plzort": "53205 Bonn",
+        "nachname": "Wanke",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-Zenger-Stra\u00dfe 11",
+        "strasse": "Kaiserallee 16",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 6
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Burgel",
-        "weiblich": true
+        "vorname": "Reinold",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2744574,
-    "semester": "Sommersemester 2017",
+    "nummer": 1222362,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "23.03.1989",
-        "matrikelnummer": 2375907,
+        "geburtsdatum": "15.11.1992",
+        "matrikelnummer": 2276131,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nagy",
-        "plzort": "53177 Bonn",
+        "nachname": "Carl",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "W\u00f6llst\u00e4dter Stra\u00dfe 5",
+        "strasse": "Am Tiergarten 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             }
         ],
-        "vorname": "Ingunde",
-        "weiblich": true
+        "vorname": "Woldemar",
+        "weiblich": false
     }
 }

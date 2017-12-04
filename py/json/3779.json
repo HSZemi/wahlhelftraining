@@ -4,33 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2243181,
+    "nummer": 2456240,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "28.04.1998",
-        "matrikelnummer": 3134947,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "18.01.1993",
+        "matrikelnummer": 2505382,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heider",
-        "plzort": "39264 Walternienburg",
+        "nachname": "Irrgang",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Hertelstra\u00dfe 3",
+        "strasse": "Ginsterstieg 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 3
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Friedhardt",
-        "weiblich": false
+        "vorname": "Jeannine",
+        "weiblich": true
     }
 }

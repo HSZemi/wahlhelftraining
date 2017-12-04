@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2872557,
+    "nummer": 2619220,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "19.10.1994",
-        "matrikelnummer": 2372461,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "20.05.1999",
+        "matrikelnummer": 2979700,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reimer",
-        "plzort": "53120 Bonn",
+        "nachname": "Stotz",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Besenbinderhof 5",
+        "strasse": "Rungestra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 8
             }
         ],
-        "vorname": "Goldina",
+        "vorname": "Scholastika",
         "weiblich": true
     }
 }

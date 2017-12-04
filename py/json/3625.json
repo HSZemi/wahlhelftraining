@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2847107,
+    "nummer": 1204216,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.05.1989",
-        "matrikelnummer": 146692,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "12.10.1989",
+        "matrikelnummer": 2859282,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Borowski",
-        "plzort": "53139 Bonn",
+        "nachname": "Moosmann",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Perthesweg 37",
+        "strasse": "Walther-von-Cronberg-Platz 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Biologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Physik",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
             }
         ],
-        "vorname": "Clotilde",
+        "vorname": "Lisette",
         "weiblich": true
     }
 }

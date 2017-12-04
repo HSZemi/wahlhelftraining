@@ -1,31 +1,46 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2731383,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2824170,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "04.07.1995",
-        "matrikelnummer": 2920283,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "05.02.1995",
+        "matrikelnummer": 2096568,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Geis",
-        "plzort": "53111 Bonn",
+        "nachname": "Matthiesen",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Billbrookkanalbr\u00fccke 0",
+        "strasse": "Weidegasse 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 10
             }
         ],
-        "vorname": "Katrein",
-        "weiblich": true
+        "vorname": "Lutz",
+        "weiblich": false
     }
 }

@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1075864,
+    "nummer": 1070209,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "28.06.1990",
-        "matrikelnummer": 2130542,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Sch\u00e4tzle",
-        "plzort": "53203 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "25.11.1997",
+        "matrikelnummer": 1970490,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Langguth",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Hynspergstra\u00dfe 21",
+        "strasse": "Freigut Eschdorf 3b",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Psychologie",
-                "fsem": 2
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Italianistik",
+                "fsem": 3
             },
             {
                 "abschluss": "",
-                "fach": "Kunstgeschichte",
-                "fsem": 2
+                "fach": "Geschichte",
+                "fsem": 3
             }
         ],
-        "vorname": "Adelgund",
+        "vorname": "Christella",
         "weiblich": true
     }
 }

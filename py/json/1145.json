@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1974810,
+    "nummer": 2008388,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "05.06.1988",
-        "matrikelnummer": 2899169,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "08.05.1995",
+        "matrikelnummer": 11800,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hanke",
-        "plzort": "06679 Muschwitz",
+        "nachname": "Hillebrand",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Dr. Karl Renner-Stra\u00dfe 3",
+        "strasse": "Comeniusstra\u00dfe 14",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Skandinavistik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Arzneimittelwissenschaften",
-                "fsem": 7
+                "fach": "Entwicklungsforschung",
+                "fsem": 1
             }
         ],
-        "vorname": "Meinold",
+        "vorname": "Kuno",
         "weiblich": false
     }
 }

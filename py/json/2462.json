@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2851114,
+    "nummer": 1715618,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.01.1995",
-        "matrikelnummer": 2021222,
+        "fakultaet": 6,
+        "geburtsdatum": "13.01.1993",
+        "matrikelnummer": 3089943,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buchholz",
-        "plzort": "19258 Nostorf",
+        "nachname": "Schlegel",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Volkfeldstr. 4",
+        "strasse": "L\u00f6bauer Stra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "fach": "Historische Geographie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Anouschka",
-        "weiblich": true
+        "vorname": "Marko",
+        "weiblich": false
     }
 }

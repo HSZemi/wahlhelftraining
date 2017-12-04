@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2412200,
+    "nummer": 2892473,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "18.02.1996",
-        "matrikelnummer": 3064858,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "22.07.1991",
+        "matrikelnummer": 15880,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hartig",
-        "plzort": "53126 Bonn",
+        "nachname": "Hau\u00dfmann",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Pergamentweg 2",
+        "strasse": "Ludolfusstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Germanistik",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Kunstgeschichte",
-                "fsem": 5
+                "fach": "Geographie",
+                "fsem": 7
             }
         ],
-        "vorname": "Dierk",
-        "weiblich": false
+        "vorname": "Hannchen",
+        "weiblich": true
     }
 }

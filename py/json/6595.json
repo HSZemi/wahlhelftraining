@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2581273,
+    "nummer": 1163377,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "19.12.1995",
-        "matrikelnummer": 3077546,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "22.11.1999",
+        "matrikelnummer": 19328,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Keil",
-        "plzort": "53175 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Horst",
+        "plzort": "06577 Gorsleben",
         "sternchen": 0,
-        "strasse": "Ried Krautgarten 2",
+        "strasse": "Karl-Marx-Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 11
             }
         ],
-        "vorname": "Anneros",
-        "weiblich": true
+        "vorname": "Desiderius",
+        "weiblich": false
     }
 }

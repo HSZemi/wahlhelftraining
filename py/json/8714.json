@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1388973,
+    "nummer": 2028085,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "03.12.1991",
-        "matrikelnummer": 2061622,
+        "fakultaet": 9,
+        "geburtsdatum": "15.03.1995",
+        "matrikelnummer": 17574,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weiler",
-        "plzort": "53123 Bonn",
+        "nachname": "Gronau",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Pflugstra\u00dfe 5",
+        "strasse": "Foockenstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Hansjakob",
+        "vorname": "Benno",
         "weiblich": false
     }
 }

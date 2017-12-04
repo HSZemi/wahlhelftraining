@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1331423,
+    "nummer": 2455332,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 7,
-        "geburtsdatum": "17.10.1993",
-        "matrikelnummer": 162145,
+        "geburtsdatum": "16.09.1985",
+        "matrikelnummer": 2894400,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lauber",
-        "plzort": "39356 Seggerde",
+        "nachname": "Eckl",
+        "plzort": "98660 Beinerstadt",
         "sternchen": 0,
-        "strasse": "Fritzschweg 28",
+        "strasse": "Eigenheimstra\u00dfe 26",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
+                "fsem": 1
             }
         ],
-        "vorname": "Paulina",
+        "vorname": "Liselotte",
         "weiblich": true
     }
 }

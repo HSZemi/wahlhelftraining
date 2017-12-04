@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1456444,
+    "nummer": 2315466,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "07.06.1995",
-        "matrikelnummer": 2124974,
+        "geburtsdatum": "22.06.1982",
+        "matrikelnummer": 2430942,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hoch",
-        "plzort": "94374 Schwarzach",
+        "nachname": "Kiel",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Wagner-Stra\u00dfe 30",
+        "strasse": "M\u00fcnzweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Historische Geographie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Hansdieter",
+        "vorname": "Holmer",
         "weiblich": false
     }
 }

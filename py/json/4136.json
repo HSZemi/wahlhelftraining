@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1935770,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1577111,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.10.1993",
-        "matrikelnummer": 161783,
+        "fakultaet": 4,
+        "geburtsdatum": "13.07.1991",
+        "matrikelnummer": 3017722,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bernhardt",
-        "plzort": "53183 Bonn",
+        "nachname": "Butz",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Johann-Halske-Allee 11",
+        "strasse": "K\u00f6rberstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
-                "fsem": 8
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 3
             }
         ],
-        "vorname": "Ignazia",
-        "weiblich": true
+        "vorname": "Welf",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": false
+        "gremien": false,
+        "sp": true
     },
-    "nummer": 2179690,
+    "nummer": 1408230,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.05.1987",
-        "matrikelnummer": 185905,
+        "fakultaet": 3,
+        "geburtsdatum": "03.03.1992",
+        "matrikelnummer": 2353818,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kortmann",
-        "plzort": "53147 Bonn",
+        "nachname": "Tiede",
+        "plzort": "34621 Frielendorf",
         "sternchen": 0,
-        "strasse": "Sch\u00f6nbornstr. 1",
+        "strasse": "Am Rotgraben 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Nicola",
+        "vorname": "Dorota",
         "weiblich": true
     }
 }

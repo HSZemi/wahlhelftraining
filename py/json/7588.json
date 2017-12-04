@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1902207,
+    "nummer": 2629997,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.01.1989",
-        "matrikelnummer": 2829791,
+        "fakultaet": 3,
+        "geburtsdatum": "23.09.1990",
+        "matrikelnummer": 2620383,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heitz",
-        "plzort": "53228 Bonn",
+        "nachname": "Haufe",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Laibacher Stra\u00dfe 6",
+        "strasse": "Meistergasse 0d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Aysel",
+        "vorname": "Leopoldine",
         "weiblich": true
     }
 }

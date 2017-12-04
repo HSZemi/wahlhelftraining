@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1066026,
+    "nummer": 1403563,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.02.1992",
-        "matrikelnummer": 16945,
+        "fakultaet": 8,
+        "geburtsdatum": "13.02.1995",
+        "matrikelnummer": 1918852,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Beckert",
-        "plzort": "54470 Graach",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Michler",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Pettenkoferstra\u00dfe 3",
+        "strasse": "Oberkiesweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 5
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Irmentraut",
-        "weiblich": true
+        "vorname": "Edmund",
+        "weiblich": false
     }
 }

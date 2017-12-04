@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1656910,
+    "nummer": 2592457,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.12.1997",
-        "matrikelnummer": 3035459,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "17.07.1991",
+        "matrikelnummer": 2758562,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frerichs",
-        "plzort": "53199 Bonn",
+        "nachname": "Rosenberg",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Lerchenweg 32e",
+        "strasse": "Melkerstieg 2d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Politik und Gesellschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
                 "fsem": 2
             }
         ],
-        "vorname": "Burglinde",
+        "vorname": "Heike",
         "weiblich": true
     }
 }

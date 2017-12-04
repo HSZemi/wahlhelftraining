@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1540155,
+    "nummer": 2057075,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "27.12.1991",
-        "matrikelnummer": 2989208,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "01.05.1991",
+        "matrikelnummer": 3004243,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Richert",
-        "plzort": "53195 Bonn",
+        "nachname": "Strube",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Am Eichenloh 16",
+        "strasse": "F\u00e4rbergasse 0",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
+                "fach": "Psychologie",
                 "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Adelgunde",
-        "weiblich": true
+        "vorname": "Ansbert",
+        "weiblich": false
     }
 }

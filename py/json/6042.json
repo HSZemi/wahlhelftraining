@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2032752,
+    "nummer": 2727409,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "15.08.1994",
-        "matrikelnummer": 3151935,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "04.12.1990",
+        "matrikelnummer": 160944,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfaff",
-        "plzort": "53211 Bonn",
+        "nachname": "J\u00f6rg",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Am Klosterberg 7",
+        "strasse": "Friedensplatz 2e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Philomena",
+        "vorname": "Edelburg",
         "weiblich": true
     }
 }

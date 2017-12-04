@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2079529,
-    "semester": "Sommersemester 2017",
+    "nummer": 1562032,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.01.1994",
-        "matrikelnummer": 2691907,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Bier",
-        "plzort": "39291 Rietzel",
+        "fakultaet": 4,
+        "geburtsdatum": "27.09.1990",
+        "matrikelnummer": 2386632,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kehrer",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Birkengraben 9",
+        "strasse": "Montgolfier-Allee 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 9
             }
         ],
-        "vorname": "Frank",
-        "weiblich": false
+        "vorname": "T\u00fclay",
+        "weiblich": true
     }
 }

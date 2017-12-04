@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1092933,
+    "nummer": 1639848,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.10.1994",
-        "matrikelnummer": 2881896,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "16.09.1993",
+        "matrikelnummer": 2151837,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiebe",
-        "plzort": "53135 Bonn",
+        "nachname": "Specht",
+        "plzort": "56357 Obertiefenbach",
         "sternchen": 0,
-        "strasse": "Willemineallee 1",
+        "strasse": "Neumattring 21",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 12
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Anna-Maria",
-        "weiblich": true
+        "vorname": "Gottfried",
+        "weiblich": false
     }
 }

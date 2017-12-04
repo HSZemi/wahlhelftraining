@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2569952,
+    "nummer": 2095860,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.06.1998",
-        "matrikelnummer": 2604442,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "20.08.1999",
+        "matrikelnummer": 2890014,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Staiger",
-        "plzort": "53157 Bonn",
+        "nachname": "Haller",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Krugtwiete 18",
+        "strasse": "Silcherstra\u00dfe 7e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 11
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Helgomar",
+        "vorname": "Dittmar",
         "weiblich": false
     }
 }

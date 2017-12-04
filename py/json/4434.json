@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2254361,
+    "nummer": 1267134,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.07.1993",
-        "matrikelnummer": 2848476,
+        "fakultaet": 8,
+        "geburtsdatum": "04.06.1997",
+        "matrikelnummer": 1951060,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Siegert",
-        "plzort": "53166 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rosenberger",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Heidelbachstra\u00dfe 6",
+        "strasse": "Fleckenb\u00fchlstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Plant Sciences",
-                "fsem": 11
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Folko",
-        "weiblich": false
+        "vorname": "Irmelin",
+        "weiblich": true
     }
 }

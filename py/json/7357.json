@@ -1,31 +1,56 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1480191,
+    "nummer": 2260458,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "23.07.1990",
-        "matrikelnummer": 14039,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "09.06.1996",
+        "matrikelnummer": 2275682,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weigert",
-        "plzort": "53112 Bonn",
+        "nachname": "Lauterbach",
+        "plzort": "99885 W\u00f6lfis",
         "sternchen": 0,
-        "strasse": "Storchsgasse 0",
+        "strasse": "An der Rennbahn 40",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Margitta",
-        "weiblich": true
+        "vorname": "Bodo",
+        "weiblich": false
     }
 }

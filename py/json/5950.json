@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2043647,
+    "nummer": 1657383,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "07.05.1992",
-        "matrikelnummer": 2306927,
+        "fakultaet": 6,
+        "geburtsdatum": "14.04.1991",
+        "matrikelnummer": 2948650,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niermann",
-        "plzort": "53187 Bonn",
+        "nachname": "Budde",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Katharinenpforte 3",
+        "strasse": "Sontraer Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Biologie",
                 "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
-        "vorname": "Lilli",
-        "weiblich": true
+        "vorname": "Arnim",
+        "weiblich": false
     }
 }

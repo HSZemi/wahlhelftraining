@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1944431,
+    "nummer": 2761496,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.12.1991",
-        "matrikelnummer": 3024941,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "28.07.1999",
+        "matrikelnummer": 2222863,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00f6ker",
-        "plzort": "53212 Bonn",
+        "nachname": "Schott",
+        "plzort": "23823 Seedorf",
         "sternchen": 0,
-        "strasse": "Schultzweg 19e",
+        "strasse": "Hammer Deich 12",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Slavistik",
+                "fsem": 2
             }
         ],
-        "vorname": "Marianna",
-        "weiblich": true
+        "vorname": "Ursus",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2613045,
+    "nummer": 1461118,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "26.04.1995",
-        "matrikelnummer": 159533,
+        "fakultaet": 1,
+        "geburtsdatum": "07.11.1993",
+        "matrikelnummer": 2673497,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Scheidt",
-        "plzort": "76835 Hainfeld",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Vogler",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Brendelstra\u00dfe 7",
+        "strasse": "Konkordienplatz 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Janine",
+        "vorname": "Jacqueline",
         "weiblich": true
     }
 }

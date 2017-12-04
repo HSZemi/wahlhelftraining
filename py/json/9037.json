@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1134648,
+    "nummer": 2925647,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "07.11.1997",
-        "matrikelnummer": 138869,
+        "geburtsdatum": "12.08.1998",
+        "matrikelnummer": 141875,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hecker",
-        "plzort": "53151 Bonn",
+        "nachname": "Lieb",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Am Martiniweg 1",
+        "strasse": "Schiffbeker Schanze 3",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 9
             }
         ],
-        "vorname": "Rainmund",
-        "weiblich": false
+        "vorname": "Resel",
+        "weiblich": true
     }
 }

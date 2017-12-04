@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2536850,
+    "nummer": 1304589,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "18.08.1988",
-        "matrikelnummer": 14663,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "02.02.1989",
+        "matrikelnummer": 3070738,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Budde",
-        "plzort": "93053 Regensburg",
+        "nachname": "Schirmer",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Elisabeth-Boer-Stra\u00dfe 33e",
+        "strasse": "Am G\u00fcckelsberg 19",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
+                "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
-                "fsem": 8
+                "fsem": 12
             }
         ],
-        "vorname": "Pascale",
-        "weiblich": true
+        "vorname": "Ferdinandus",
+        "weiblich": false
     }
 }

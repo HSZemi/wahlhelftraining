@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2490818,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1172966,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "03.12.1987",
-        "matrikelnummer": 2984772,
+        "fakultaet": 8,
+        "geburtsdatum": "23.03.1989",
+        "matrikelnummer": 16211,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sternberg",
-        "plzort": "53198 Bonn",
+        "nachname": "Steinhauser",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Deutschherrnufer 4",
+        "strasse": "Geiselsteinweg 21",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 12
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 13
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Marzellus",
+        "vorname": "Max",
         "weiblich": false
     }
 }

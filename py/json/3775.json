@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2391723,
+    "nummer": 2130317,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.07.1993",
-        "matrikelnummer": 2311531,
+        "fakultaet": 3,
+        "geburtsdatum": "14.09.1989",
+        "matrikelnummer": 2172270,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nies",
-        "plzort": "06188 Queis",
+        "nachname": "Dill",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Hammersbacher Weg 16",
+        "strasse": "Ibellstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Chemie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 11
             }
         ],
-        "vorname": "Erik",
-        "weiblich": false
+        "vorname": "Rose",
+        "weiblich": true
     }
 }

@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1798140,
+    "nummer": 2149937,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "07.10.1994",
-        "matrikelnummer": 2271018,
+        "fakultaet": 8,
+        "geburtsdatum": "08.11.1993",
+        "matrikelnummer": 14753,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kusch",
-        "plzort": "53176 Bonn",
+        "nachname": "Liese",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Untere Seelgasse 14",
+        "strasse": "Meu\u00dflitzer Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 1
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 3
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
-                "fsem": 12
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Lebrecht",
-        "weiblich": false
+        "vorname": "Erdmute",
+        "weiblich": true
     }
 }

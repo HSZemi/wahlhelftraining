@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2895100,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2556154,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "03.12.1997",
-        "matrikelnummer": 2913895,
+        "geburtsdatum": "19.05.1997",
+        "matrikelnummer": 1963316,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pott",
-        "plzort": "53170 Bonn",
+        "nachname": "Fetzer",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Genslerweg 1",
+        "strasse": "Meuronstieg 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 9
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Grit",
-        "weiblich": true
+        "vorname": "Ferdinand",
+        "weiblich": false
     }
 }

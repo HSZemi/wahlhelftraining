@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2060393,
+    "nummer": 1414678,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.03.1984",
-        "matrikelnummer": 12746,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "24.09.1990",
+        "matrikelnummer": 2785577,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Alles",
-        "plzort": "53152 Bonn",
+        "nachname": "Hoyer",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00f6blinggasse 1",
+        "strasse": "Kantapfelstra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 1
             }
         ],
-        "vorname": "Heintje",
-        "weiblich": false
+        "vorname": "Eva-Marie",
+        "weiblich": true
     }
 }

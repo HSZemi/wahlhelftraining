@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2684591,
+    "nummer": 1865481,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "25.11.1999",
-        "matrikelnummer": 2091468,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "25.11.1987",
+        "matrikelnummer": 2702034,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meinel",
-        "plzort": "53111 Bonn",
+        "nachname": "Diedrich",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Similiberg 28c",
+        "strasse": "Josef-Benner-Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Spanische Kultur und europ\u00e4ische Identit\u00e4t",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 2
             }
         ],
-        "vorname": "Berit",
+        "vorname": "Katarina",
         "weiblich": true
     }
 }

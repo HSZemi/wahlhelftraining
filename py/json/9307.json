@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1965770,
+    "nummer": 2853200,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.05.1999",
-        "matrikelnummer": 3081961,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "16.12.1996",
+        "matrikelnummer": 2552502,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Golz",
-        "plzort": "53178 Bonn",
+        "nachname": "Hager",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "An der Flutrinne 5",
+        "strasse": "Laibacher Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 12
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
+                "fsem": 9
             }
         ],
-        "vorname": "Ignaz",
+        "vorname": "Damian",
         "weiblich": false
     }
 }

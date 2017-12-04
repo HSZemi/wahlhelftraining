@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1002285,
+    "nummer": 2172803,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.07.1995",
-        "matrikelnummer": 15976,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "02.06.1996",
+        "matrikelnummer": 2104976,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wahl",
-        "plzort": "53187 Bonn",
+        "nachname": "Thome",
+        "plzort": "14641 Lietzow",
         "sternchen": 0,
-        "strasse": "Vatterstra\u00dfe 5",
+        "strasse": "Zur Bauernbr\u00fccke 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 7
             }
         ],
-        "vorname": "Wenzel",
+        "vorname": "Nikolaus",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2385369,
+    "nummer": 2569790,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "20.08.1995",
-        "matrikelnummer": 3129015,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "05.01.1990",
+        "matrikelnummer": 3105473,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hedrich",
-        "plzort": "49637 Menslage",
+        "nachname": "K\u00f6ster",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Siedlerweg 6",
+        "strasse": "Ronneburgstra\u00dfe 18",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Naturschutz und Landschafts\u00f6kologie",
-                "fsem": 2
+                "fach": "Psychologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 8
             }
         ],
-        "vorname": "Geraldine",
+        "vorname": "Elisabeth",
         "weiblich": true
     }
 }

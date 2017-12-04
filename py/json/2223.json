@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1537849,
+    "nummer": 2346882,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "26.12.1998",
-        "matrikelnummer": 2020736,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "06.04.1986",
+        "matrikelnummer": 136281,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dieterle",
-        "plzort": "53218 Bonn",
+        "nachname": "Rieder",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Ooser Luisenstra\u00dfe 29",
+        "strasse": "Schwertfegergasse 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
+                "abschluss": "Bachelor of Science",
                 "fach": "Psychologie",
-                "fsem": 3
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Romanistik/Iberoromanische Philologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Christophorus",
+        "vorname": "Folko",
         "weiblich": false
     }
 }

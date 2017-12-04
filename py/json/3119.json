@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1429294,
+    "nummer": 2502258,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "05.02.1990",
-        "matrikelnummer": 2369551,
+        "fakultaet": 5,
+        "geburtsdatum": "24.07.1997",
+        "matrikelnummer": 191852,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "J\u00f6rg",
-        "plzort": "21698 Harsefeld",
+        "nachname": "Weigl",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Josefstr. 3",
+        "strasse": "Am F\u00f6llig 17",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Englisch",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Geographie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
-            },
-            {
                 "abschluss": "Master of Arts",
-                "fach": "Skandinavistik",
-                "fsem": 6
+                "fach": "Asienwissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Marilene",
+        "vorname": "Doritta",
         "weiblich": true
     }
 }

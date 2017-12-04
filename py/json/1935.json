@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1395390,
+    "nummer": 1736805,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "12.04.1995",
-        "matrikelnummer": 1999757,
+        "fakultaet": 7,
+        "geburtsdatum": "01.06.1994",
+        "matrikelnummer": 2110127,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schier",
-        "plzort": "53204 Bonn",
+        "nachname": "Hirschmann",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Geschwister-Scholl-Stra\u00dfe 0",
+        "strasse": "Niedersedlitzer Platz 18",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Griechisch",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Katholische Religionslehre",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 5
             }
         ],
-        "vorname": "Birghild",
+        "vorname": "Romy",
         "weiblich": true
     }
 }

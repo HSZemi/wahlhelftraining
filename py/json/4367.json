@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2343659,
+    "nummer": 2346347,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "14.04.1995",
-        "matrikelnummer": 2074892,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "20.10.1991",
+        "matrikelnummer": 2545464,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rink",
-        "plzort": "39606 Sanne-Kerkuhn",
+        "nachname": "Martini",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Schmidtstra\u00dfe 28",
+        "strasse": "Sch\u00fctzenstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
                 "fsem": 5
             }
         ],
-        "vorname": "Lilly",
+        "vorname": "Franzi",
         "weiblich": true
     }
 }

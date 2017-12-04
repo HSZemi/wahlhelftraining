@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1860531,
+    "nummer": 2008253,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.01.1992",
-        "matrikelnummer": 119327,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "20.09.1990",
+        "matrikelnummer": 3010206,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Helm",
-        "plzort": "53118 Bonn",
+        "nachname": "Dressler",
+        "plzort": "80539 M\u00fcnchen",
         "sternchen": 0,
-        "strasse": "An der Bartlake 4",
+        "strasse": "Regensburger Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geschichte",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Cersten",
+        "vorname": "Alrik",
         "weiblich": false
     }
 }

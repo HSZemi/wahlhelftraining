@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2539750,
+    "nummer": 1821675,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "24.06.1994",
-        "matrikelnummer": 1944938,
+        "fakultaet": 0,
+        "geburtsdatum": "14.11.1999",
+        "matrikelnummer": 2925753,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6nfelder",
-        "plzort": "53185 Bonn",
+        "nachname": "Friedmann",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Mockst\u00e4dter Stra\u00dfe 7c",
+        "strasse": "Barbarossastra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Ellen",
+        "vorname": "Janina",
         "weiblich": true
     }
 }

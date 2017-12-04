@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2766582,
+    "nummer": 1652770,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.11.1999",
-        "matrikelnummer": 16734,
+        "fakultaet": 6,
+        "geburtsdatum": "20.08.1998",
+        "matrikelnummer": 169347,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Breidenbach",
-        "plzort": "53208 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Weishaupt",
+        "plzort": "63856 Bessenbach",
         "sternchen": 0,
-        "strasse": "Hasselhorstweg 2",
+        "strasse": "Wiesendammbr\u00fccke 8",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 5
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 2
             }
         ],
-        "vorname": "Elfgard",
-        "weiblich": true
+        "vorname": "Jonny",
+        "weiblich": false
     }
 }

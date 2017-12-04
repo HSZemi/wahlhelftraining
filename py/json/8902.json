@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2111029,
+    "nummer": 2195924,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.10.1991",
-        "matrikelnummer": 2805516,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "10.11.1997",
+        "matrikelnummer": 2362881,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Voigtl\u00e4nder",
-        "plzort": "53152 Bonn",
+        "nachname": "Reinert",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Buzzistra\u00dfe 3",
+        "strasse": "Hallgartenstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "North American Studies",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Ortrun",
-        "weiblich": true
+        "vorname": "Ottokar",
+        "weiblich": false
     }
 }

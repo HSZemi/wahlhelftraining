@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2593946,
+    "nummer": 2943287,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.04.1989",
-        "matrikelnummer": 2043822,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 0,
+        "geburtsdatum": "28.02.1991",
+        "matrikelnummer": 2896890,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schneck",
-        "plzort": "53144 Bonn",
+        "nachname": "Mei\u00dfner",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Moritzburg-Pillnitzer Weg 3",
+        "strasse": "H\u00f6rselbergstra\u00dfe 0",
         "studienfaecher": [
             {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Ingunde",
-        "weiblich": true
+        "vorname": "Horstmar",
+        "weiblich": false
     }
 }

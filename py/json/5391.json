@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1657972,
+    "nummer": 2945234,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.07.1993",
-        "matrikelnummer": 2410355,
+        "fakultaet": 8,
+        "geburtsdatum": "14.12.1998",
+        "matrikelnummer": 2507690,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Repp",
-        "plzort": "53139 Bonn",
+        "nachname": "Wollmann",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Ulanenplatz 3",
+        "strasse": "Me\u00dfweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 9
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Frank",
+        "vorname": "Ehrmut",
         "weiblich": false
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2546616,
+    "nummer": 2978476,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "02.04.1994",
-        "matrikelnummer": 2161517,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "25.08.1990",
+        "matrikelnummer": 136707,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Laskowski",
-        "plzort": "42653 Solingen",
+        "nachname": "Morgenstern",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Barmbeker Stra\u00dfenbr\u00fccke 6",
+        "strasse": "Satzlweg 0d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 5
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Dorothee",
-        "weiblich": true
+        "vorname": "Utto",
+        "weiblich": false
     }
 }

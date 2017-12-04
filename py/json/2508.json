@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1291462,
+    "nummer": 1611462,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "02.03.1999",
-        "matrikelnummer": 1959398,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "27.07.1998",
+        "matrikelnummer": 2928935,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spiller",
-        "plzort": "53136 Bonn",
+        "nachname": "Hellmann",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Erlichstr. 5",
+        "strasse": "Freyunger Str. 28",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 11
+                "fach": "Zahnmedizin",
+                "fsem": 8
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Germanistik",
+                "fsem": 7
             }
         ],
-        "vorname": "Henriette",
+        "vorname": "Jacqueline",
         "weiblich": true
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1551596,
+    "nummer": 1192726,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.01.1995",
-        "matrikelnummer": 19693,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "01.03.1983",
+        "matrikelnummer": 15163,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lechner",
-        "plzort": "53167 Bonn",
+        "nachname": "Kratz",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Elbeweg 1",
+        "strasse": "R\u00fcsterstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 12
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Renold",
+        "vorname": "Dietolf",
         "weiblich": false
     }
 }

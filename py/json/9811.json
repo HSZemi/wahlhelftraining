@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2607574,
+    "nummer": 1431132,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "27.01.1994",
-        "matrikelnummer": 19085,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "17.04.1995",
+        "matrikelnummer": 1992116,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reichmann",
-        "plzort": "53128 Bonn",
+        "nachname": "Rau",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Christoph-Knips-Stra\u00dfe, Eckenheim 2",
+        "strasse": "Koppenhofgasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Chemie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
             }
         ],
-        "vorname": "Mercedes",
-        "weiblich": true
+        "vorname": "Phillippus",
+        "weiblich": false
     }
 }

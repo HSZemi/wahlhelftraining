@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2271775,
+    "nummer": 1317501,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.11.1996",
-        "matrikelnummer": 2642350,
+        "fakultaet": 7,
+        "geburtsdatum": "26.06.1995",
+        "matrikelnummer": 2546024,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kremser",
-        "plzort": "53143 Bonn",
+        "nachname": "Schiele",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Landsberger Stra\u00dfe 4",
+        "strasse": "Gondelweg 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life and Medical Sciences",
-                "fsem": 10
+                "fach": "Tierwissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Dennis",
+        "vorname": "Cordt",
         "weiblich": false
     }
 }

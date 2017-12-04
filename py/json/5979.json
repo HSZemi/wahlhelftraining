@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1273956,
+    "nummer": 2105126,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.08.1993",
-        "matrikelnummer": 3004599,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "09.02.1990",
+        "matrikelnummer": 12766,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00e4rz",
-        "plzort": "53149 Bonn",
+        "nachname": "Stolle",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Dunantring 6",
+        "strasse": "Reu\u00dfstr. 6",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
                 "fsem": 12
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 7
             }
         ],
-        "vorname": "Trudi",
-        "weiblich": true
+        "vorname": "Thassilo",
+        "weiblich": false
     }
 }

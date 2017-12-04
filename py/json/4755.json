@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1659073,
+    "nummer": 1820990,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.07.1988",
-        "matrikelnummer": 1935087,
+        "fakultaet": 8,
+        "geburtsdatum": "16.10.1999",
+        "matrikelnummer": 3160000,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Andres",
-        "plzort": "53153 Bonn",
+        "nachname": "Kriegel",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Theobald-Christ-Stra\u00dfe 8c",
+        "strasse": "Ginnheimer M\u00fchlgasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 11
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Frank",
+        "vorname": "Romanus",
         "weiblich": false
     }
 }

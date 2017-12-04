@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2833196,
+    "nummer": 1069371,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "12.07.1993",
-        "matrikelnummer": 14293,
+        "geburtsdatum": "06.12.1988",
+        "matrikelnummer": 2828248,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wall",
-        "plzort": "53189 Bonn",
+        "nachname": "Roscher",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Zschierbachstra\u00dfe 0",
+        "strasse": "Karl Varits-Gasse 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Heinzwerner",
+        "vorname": "Heinfried",
         "weiblich": false
     }
 }

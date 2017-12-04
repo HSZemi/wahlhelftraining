@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2756996,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2631814,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.03.1990",
-        "matrikelnummer": 12536,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "11.11.1991",
+        "matrikelnummer": 2277111,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Platz",
-        "plzort": "71522 Backnang",
+        "nachname": "Maiwald",
+        "plzort": "83112 Frasdorf",
         "sternchen": 0,
-        "strasse": "Gomlitzer H\u00f6he 9",
+        "strasse": "Orchideenstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 11
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Friedeborg",
-        "weiblich": true
+        "vorname": "Freimut",
+        "weiblich": false
     }
 }

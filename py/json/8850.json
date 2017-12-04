@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1301924,
+    "nummer": 1728581,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.07.1997",
-        "matrikelnummer": 3089381,
+        "fakultaet": 0,
+        "geburtsdatum": "20.11.1997",
+        "matrikelnummer": 2234975,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ehlert",
-        "plzort": "53158 Bonn",
+        "nachname": "Reich",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Am Heidelsteig 24",
+        "strasse": "Waldhofweg 9e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Politikwissenschaft",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Evamarie",
-        "weiblich": true
+        "vorname": "Reimo",
+        "weiblich": false
     }
 }

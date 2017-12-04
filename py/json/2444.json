@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1398255,
+    "nummer": 1377382,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "26.07.1990",
-        "matrikelnummer": 3001030,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "14.09.1993",
+        "matrikelnummer": 2805599,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mittag",
-        "plzort": "53170 Bonn",
+        "nachname": "Krammer",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Weixdorfer Stra\u00dfe 0a",
+        "strasse": "Pforzheimer Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Melita",
+        "vorname": "Ines",
         "weiblich": true
     }
 }

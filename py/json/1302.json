@@ -1,31 +1,56 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1303305,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2527821,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.09.1989",
-        "matrikelnummer": 3057394,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "07.11.1990",
+        "matrikelnummer": 2602486,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mei\u00dfner",
-        "plzort": "53217 Bonn",
+        "nachname": "Holstein",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Marschnerstra\u00dfe 5",
+        "strasse": "Felsenweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 4
             }
         ],
-        "vorname": "Sibylle",
+        "vorname": "Uta",
         "weiblich": true
     }
 }

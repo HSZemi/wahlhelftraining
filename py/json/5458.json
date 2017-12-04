@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1160619,
+    "nummer": 1775641,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.03.1992",
-        "matrikelnummer": 2840063,
+        "fakultaet": 4,
+        "geburtsdatum": "04.07.1993",
+        "matrikelnummer": 3029717,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kress",
-        "plzort": "53188 Bonn",
+        "nachname": "Buchner",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz-Schulze-Stra\u00dfe 9",
+        "strasse": "Peuntstr. 11",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
             }
         ],
-        "vorname": "Rosamarie",
-        "weiblich": true
+        "vorname": "Wolff",
+        "weiblich": false
     }
 }

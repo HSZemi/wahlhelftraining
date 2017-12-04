@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1765570,
+    "nummer": 1969322,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.09.1993",
-        "matrikelnummer": 192097,
+        "fakultaet": 6,
+        "geburtsdatum": "28.05.1995",
+        "matrikelnummer": 2519409,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gottfried",
-        "plzort": "56729 Anschau",
+        "nachname": "Balzer",
+        "plzort": "96352 Wilhelmsthal",
         "sternchen": 0,
-        "strasse": "Bleichergraben 0",
+        "strasse": "Kirchlinden 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Biochemistry",
+                "fsem": 5
             }
         ],
-        "vorname": "Hansl",
-        "weiblich": false
+        "vorname": "Dorle",
+        "weiblich": true
     }
 }

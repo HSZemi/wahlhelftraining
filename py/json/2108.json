@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": true,
         "sp": true
     },
-    "nummer": 2816548,
+    "nummer": 2104682,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.10.1995",
-        "matrikelnummer": 113211,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "11.10.1991",
+        "matrikelnummer": 2438055,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Voss",
-        "plzort": "53147 Bonn",
+        "nachname": "Reichel",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Walter-Abschlag-Weg 4",
+        "strasse": "Knappestra\u00dfe 12a",
         "studienfaecher": [
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Sound Studies",
-                "fsem": 5
-            },
             {
                 "abschluss": "Promotion",
                 "fach": "Katholische Theologie",
-                "fsem": 6
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 9
             }
         ],
-        "vorname": "Valeri",
-        "weiblich": true
+        "vorname": "Volkhard",
+        "weiblich": false
     }
 }

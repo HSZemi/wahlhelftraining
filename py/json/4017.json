@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1409581,
+    "nummer": 2964121,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "23.01.1990",
-        "matrikelnummer": 2927841,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "13.01.1994",
+        "matrikelnummer": 12119,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wollny",
-        "plzort": "53224 Bonn",
+        "nachname": "Lautenschl\u00e4ger",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Engelthaler Stra\u00dfe 29a",
+        "strasse": "Kirschensteg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Siska",
+        "vorname": "Christa-Maria",
         "weiblich": true
     }
 }

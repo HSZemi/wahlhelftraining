@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1450919,
+    "nummer": 1643398,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.04.1990",
-        "matrikelnummer": 164024,
+        "fakultaet": 1,
+        "geburtsdatum": "02.11.1996",
+        "matrikelnummer": 2126664,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lucas",
-        "plzort": "39264 Zernitz",
+        "nachname": "Schiebel",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Marburger Stra\u00dfe 10",
+        "strasse": "Petrikirchstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Englisch",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
                 "fsem": 13
             }
         ],
-        "vorname": "Wulfhard",
+        "vorname": "Ansbert",
         "weiblich": false
     }
 }

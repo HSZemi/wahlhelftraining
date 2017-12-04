@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1866712,
+    "nummer": 2774791,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "21.04.1991",
-        "matrikelnummer": 2825942,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 0,
+        "geburtsdatum": "18.09.1994",
+        "matrikelnummer": 2537726,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kissel",
-        "plzort": "53166 Bonn",
+        "nachname": "Gro\u00dfmann",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Geiselsteinweg 26",
+        "strasse": "Schaumburger Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 8
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "K\u00e4the",
+        "vorname": "Sigi",
         "weiblich": true
     }
 }

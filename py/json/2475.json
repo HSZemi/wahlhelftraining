@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2346295,
+    "nummer": 2006289,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "21.08.1999",
-        "matrikelnummer": 2019755,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "07.01.1993",
+        "matrikelnummer": 1901834,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wolf",
-        "plzort": "53117 Bonn",
+        "nachname": "Prei\u00df",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Kajetan-Gasse 11",
+        "strasse": "Ockerwitzer Dorfstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 7
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Runald",
+        "vorname": "Diethard",
         "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2825260,
+    "nummer": 2297468,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "17.08.1995",
-        "matrikelnummer": 1989501,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "26.12.1996",
+        "matrikelnummer": 2370299,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiegmann",
-        "plzort": "53194 Bonn",
+        "nachname": "Herwig",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Esterhazystra\u00dfe 5",
+        "strasse": "Rose-Schloesinger-Anlage 18",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 9
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 1
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
             }
         ],
-        "vorname": "Wolff",
-        "weiblich": false
+        "vorname": "Heide",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1659169,
+    "nummer": 2945418,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "11.12.1992",
-        "matrikelnummer": 125115,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "25.02.1991",
+        "matrikelnummer": 2223334,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kleinhans",
-        "plzort": "53132 Bonn",
+        "nachname": "Michl",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Im Mellsig 1",
+        "strasse": "Strehlener Platz 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 12
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Muthild",
-        "weiblich": true
+        "vorname": "Markward",
+        "weiblich": false
     }
 }

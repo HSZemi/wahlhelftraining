@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2749999,
+    "nummer": 1724452,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "12.01.1992",
-        "matrikelnummer": 2552513,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "01.03.1998",
+        "matrikelnummer": 12805,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Emmert",
-        "plzort": "54331 Oberbillig",
+        "nachname": "Berens",
+        "plzort": "83549 Eiselfing",
         "sternchen": 0,
-        "strasse": "Albert-Fromme-Weg 2",
+        "strasse": "Satzgasse 8",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Sigtraud",
+        "vorname": "Annelie",
         "weiblich": true
     }
 }

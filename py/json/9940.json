@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2139360,
+    "nummer": 1580559,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "17.11.1999",
-        "matrikelnummer": 3190760,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "11.06.1994",
+        "matrikelnummer": 2106840,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hecker",
-        "plzort": "35614 A\u00dflar",
+        "nachname": "Mai",
+        "plzort": "47137 Duisburg",
         "sternchen": 0,
-        "strasse": "Hermannstal 0",
+        "strasse": "Auf dem Sand 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Physik der Erde und Atmosph\u00e4re",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Molekulare Biomedizin",
-                "fsem": 5
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Aline",
-        "weiblich": true
+        "vorname": "Germar",
+        "weiblich": false
     }
 }

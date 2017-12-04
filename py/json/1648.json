@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2410315,
+    "nummer": 1297486,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "21.08.1989",
-        "matrikelnummer": 2668989,
+        "fakultaet": 6,
+        "geburtsdatum": "20.05.1998",
+        "matrikelnummer": 148584,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "B\u00f6hm",
-        "plzort": "53115 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kunz",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Marktweg 10",
+        "strasse": "K\u00f6nigsberger Stra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Pharmazie",
+                "fsem": 10
             }
         ],
-        "vorname": "Remigius",
-        "weiblich": false
+        "vorname": "Giovanna",
+        "weiblich": true
     }
 }

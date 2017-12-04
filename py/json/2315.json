@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1020915,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2479785,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.02.1982",
-        "matrikelnummer": 15112,
+        "fakultaet": 8,
+        "geburtsdatum": "13.07.1995",
+        "matrikelnummer": 2593213,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Goldschmidt",
-        "plzort": "53178 Bonn",
+        "nachname": "Weyer",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Schl\u00fcsselblumenweg 14",
+        "strasse": "M\u00fchlengrundweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Julia",
-        "weiblich": true
+        "vorname": "Eitelbert",
+        "weiblich": false
     }
 }

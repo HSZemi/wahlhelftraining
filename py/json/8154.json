@@ -1,46 +1,31 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2805171,
+    "nummer": 1059430,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "04.05.1996",
-        "matrikelnummer": 2415724,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "16.04.1992",
+        "matrikelnummer": 163902,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Taube",
-        "plzort": "53165 Bonn",
+        "nachname": "Eichhorn",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Am Krankenhaus 7",
+        "strasse": "Altenzeller Stra\u00dfe 1a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 5
             }
         ],
-        "vorname": "Johann",
+        "vorname": "Benediktus",
         "weiblich": false
     }
 }

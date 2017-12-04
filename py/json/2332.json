@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2888527,
+    "nummer": 1906289,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "05.06.1997",
-        "matrikelnummer": 3002594,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "01.03.1990",
+        "matrikelnummer": 2888068,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Erbe",
-        "plzort": "53139 Bonn",
+        "nachname": "D\u00fcring",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Wachwitzer Weinberg 10",
+        "strasse": "Deutschherrnufer 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 11
             }
         ],
-        "vorname": "Hildegunde",
-        "weiblich": true
+        "vorname": "Reinfried",
+        "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1412593,
+    "nummer": 2829962,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "26.12.1992",
-        "matrikelnummer": 2686656,
+        "fakultaet": 8,
+        "geburtsdatum": "03.02.1995",
+        "matrikelnummer": 2745819,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerth",
-        "plzort": "74595 Langenburg",
+        "nachname": "Linde",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Ottostr. 3",
+        "strasse": "Alfred-G\u00f6bel-Weg 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Gertrude",
+        "vorname": "Rabea",
         "weiblich": true
     }
 }

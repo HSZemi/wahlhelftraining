@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2456662,
+    "nummer": 1871984,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "12.12.1994",
-        "matrikelnummer": 2343293,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "20.12.1998",
+        "matrikelnummer": 3141636,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schiefer",
-        "plzort": "53171 Bonn",
+        "nachname": "Sell",
+        "plzort": "21394 Heiligenthal",
         "sternchen": 0,
-        "strasse": "Am Sonnenhang 28",
+        "strasse": "Am Stiegelschlag 11",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Schwanhild",
+        "vorname": "Britt",
         "weiblich": true
     }
 }

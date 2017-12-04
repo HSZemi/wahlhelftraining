@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2235531,
+    "nummer": 2711174,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "05.11.1993",
-        "matrikelnummer": 122225,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "15.03.1990",
+        "matrikelnummer": 2828643,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schaller",
-        "plzort": "66879 Niederstaufenbach",
+        "nachname": "Hammes",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Hofweg 24",
+        "strasse": "Danziger Weg 38",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
             }
         ],
-        "vorname": "Ingowart",
-        "weiblich": false
+        "vorname": "Birgit",
+        "weiblich": true
     }
 }

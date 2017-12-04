@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2523550,
+    "nummer": 2676572,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "28.01.1991",
-        "matrikelnummer": 2927366,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "27.05.1993",
+        "matrikelnummer": 1908654,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Metz",
-        "plzort": "53211 Bonn",
+        "nachname": "Zuber",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Winterhuder Kai 2",
+        "strasse": "Braunschweiger Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 1
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 2
             }
         ],
-        "vorname": "Vitalis",
+        "vorname": "Sieghelm",
         "weiblich": false
     }
 }

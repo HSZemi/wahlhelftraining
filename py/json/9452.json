@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1982428,
+    "nummer": 1563920,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "26.12.1997",
-        "matrikelnummer": 2147293,
+        "fakultaet": 8,
+        "geburtsdatum": "14.04.1991",
+        "matrikelnummer": 3060970,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hamm",
-        "plzort": "53133 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "He\u00dfler",
+        "plzort": "67361 Freisbach",
         "sternchen": 0,
-        "strasse": "Meininger Weg 0",
+        "strasse": "Winzerstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Roderich",
-        "weiblich": false
+        "vorname": "Swantje",
+        "weiblich": true
     }
 }

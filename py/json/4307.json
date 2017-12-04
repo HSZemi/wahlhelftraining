@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2533679,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2132920,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.11.1995",
-        "matrikelnummer": 148748,
+        "fakultaet": 5,
+        "geburtsdatum": "11.12.1996",
+        "matrikelnummer": 1927024,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sahm",
-        "plzort": "53198 Bonn",
+        "nachname": "Wacker",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Hasengasse 4",
+        "strasse": "Gompitzer Hang 5",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 6
+                "fach": "Altamerikanistik und Ethnologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 12
             }
         ],
-        "vorname": "Burga",
-        "weiblich": true
+        "vorname": "Ottobert",
+        "weiblich": false
     }
 }

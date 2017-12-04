@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1054138,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1188007,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.07.1999",
-        "matrikelnummer": 2229841,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "19.04.1993",
+        "matrikelnummer": 122002,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Metz",
-        "plzort": "53165 Bonn",
+        "nachname": "Groh",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Schwerin-Stra\u00dfe 0",
+        "strasse": "Hertelstra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
             }
         ],
-        "vorname": "Dahlia",
-        "weiblich": true
+        "vorname": "Kuno",
+        "weiblich": false
     }
 }

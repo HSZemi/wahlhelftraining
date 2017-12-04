@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1801763,
+    "nummer": 2510200,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "24.11.1998",
-        "matrikelnummer": 2873432,
+        "fakultaet": 4,
+        "geburtsdatum": "25.04.1993",
+        "matrikelnummer": 1986886,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heine",
-        "plzort": "53188 Bonn",
+        "nachname": "Klinge",
+        "plzort": "66484 Schmitshausen",
         "sternchen": 0,
-        "strasse": "Bamberger Str. 10",
+        "strasse": "Pleinserhof 42",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 13
             }
         ],
-        "vorname": "Christophorus",
+        "vorname": "Otger",
         "weiblich": false
     }
 }

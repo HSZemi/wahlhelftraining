@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2381894,
+    "nummer": 1535302,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "11.12.1993",
-        "matrikelnummer": 183443,
+        "fakultaet": 2,
+        "geburtsdatum": "12.04.1990",
+        "matrikelnummer": 2022872,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bothe",
-        "plzort": "53113 Bonn",
+        "nachname": "Sch\u00fc\u00dfler",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Brillenburgsweg 1",
+        "strasse": "Braunsdorfer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Griechisch",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Italienisch",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
                 "fsem": 1
             }
         ],
-        "vorname": "Gislinde",
+        "vorname": "Ehrentrud",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1787724,
+    "nummer": 1005671,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.08.1989",
-        "matrikelnummer": 2781516,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "11.10.1990",
+        "matrikelnummer": 2492858,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spengler",
-        "plzort": "53142 Bonn",
+        "nachname": "F\u00fchrer",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Herrrenstr. 1",
+        "strasse": "Snitgerstieg 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Astrophysik",
-                "fsem": 9
+                "fach": "Life Science Informatics",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 8
             }
         ],
-        "vorname": "Berno",
-        "weiblich": false
+        "vorname": "Ariane",
+        "weiblich": true
     }
 }

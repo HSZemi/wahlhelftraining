@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2179935,
+    "nummer": 1083226,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.02.1988",
-        "matrikelnummer": 138088,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "02.01.1994",
+        "matrikelnummer": 134686,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcgler",
-        "plzort": "53206 Bonn",
+        "nachname": "Sch\u00f6ner",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "Beim Gr\u00e4bchen 48",
+        "strasse": "Altl\u00f6btau 2",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Meteorologie",
-                "fsem": 5
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Matthias",
-        "weiblich": false
+        "vorname": "Rosamarie",
+        "weiblich": true
     }
 }

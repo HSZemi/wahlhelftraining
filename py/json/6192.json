@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2235193,
+    "nummer": 2457110,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "07.06.1996",
-        "matrikelnummer": 17526,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "05.08.1996",
+        "matrikelnummer": 3133172,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "E\u00dfer",
-        "plzort": "53116 Bonn",
+        "nachname": "Junge",
+        "plzort": "12307 Berlin",
         "sternchen": 0,
-        "strasse": "Buchenrodestra\u00dfe 3",
+        "strasse": "Rayskistra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Neurowissenschaften",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Gerda",
-        "weiblich": true
+        "vorname": "Gregor",
+        "weiblich": false
     }
 }

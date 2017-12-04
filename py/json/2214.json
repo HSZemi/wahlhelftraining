@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1695229,
+    "nummer": 2001527,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "07.11.1999",
-        "matrikelnummer": 2182079,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "15.08.1988",
+        "matrikelnummer": 153749,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sperling",
-        "plzort": "53143 Bonn",
+        "nachname": "Maack",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Hogenbarg 31",
+        "strasse": "Sagekuhle 3",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
                 "fach": "Versorgungsforschung",
-                "fsem": 2
+                "fsem": 5
             }
         ],
-        "vorname": "Richard",
+        "vorname": "Hildmar",
         "weiblich": false
     }
 }

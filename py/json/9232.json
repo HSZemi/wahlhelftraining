@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1537722,
+    "nummer": 1684634,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "22.10.1988",
-        "matrikelnummer": 124861,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "03.09.1995",
+        "matrikelnummer": 2888115,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfaff",
-        "plzort": "53188 Bonn",
+        "nachname": "Krebs",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "N\u00fcrnberger Str. 1",
+        "strasse": "Mahlbergstra\u00dfe 30",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 1
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 5
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Anny",
+        "vorname": "Hertraud",
         "weiblich": true
     }
 }

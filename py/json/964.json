@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1298122,
+    "nummer": 1266425,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "03.11.1993",
-        "matrikelnummer": 2094017,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 9,
+        "geburtsdatum": "05.06.1988",
+        "matrikelnummer": 143308,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grosse",
-        "plzort": "53166 Bonn",
+        "nachname": "Liebert",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Pleinserhof 16b",
+        "strasse": "Lausaer Weg 4",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 13
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Leopoldina",
-        "weiblich": true
+        "vorname": "Raimar",
+        "weiblich": false
     }
 }

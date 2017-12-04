@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2000012,
-    "semester": "Sommersemester 2017",
+    "nummer": 2085302,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "17.12.1997",
-        "matrikelnummer": 2110370,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "24.03.1994",
+        "matrikelnummer": 2319610,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tetzlaff",
-        "plzort": "53150 Bonn",
+        "nachname": "Langbein",
+        "plzort": "21481 Schnakenbek",
         "sternchen": 0,
-        "strasse": "Dakarbr\u00fccke 9",
+        "strasse": "Runkeler Stra\u00dfe 8b",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienkommunikation",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "S\u00fcdostasienwissenschaft",
                 "fsem": 9
             }
         ],
-        "vorname": "Kristine",
+        "vorname": "Annaliese",
         "weiblich": true
     }
 }

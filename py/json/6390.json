@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1285172,
+    "nummer": 2010101,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "19.10.1987",
-        "matrikelnummer": 118484,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "17.06.1991",
+        "matrikelnummer": 2816867,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nehring",
-        "plzort": "53156 Bonn",
+        "nachname": "Gabriel",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Woferlstr. 1",
+        "strasse": "Calvinstra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "fach": "Psychologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Mary",
-        "weiblich": true
+        "vorname": "Marzel",
+        "weiblich": false
     }
 }

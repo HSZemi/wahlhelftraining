@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2924641,
+    "nummer": 1784508,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "06.07.1990",
-        "matrikelnummer": 14192,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "03.04.1992",
+        "matrikelnummer": 2472943,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6ll",
-        "plzort": "53147 Bonn",
+        "nachname": "Englert",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Mary-Krebs-Stra\u00dfe 10",
+        "strasse": "R\u00f6merweg 15",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "fach": "Arzneimittelwissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Otthard",
-        "weiblich": false
+        "vorname": "Malve",
+        "weiblich": true
     }
 }

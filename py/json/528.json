@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2163705,
+    "nummer": 2128945,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.12.1994",
-        "matrikelnummer": 1963297,
+        "fakultaet": 3,
+        "geburtsdatum": "03.05.1997",
+        "matrikelnummer": 2186201,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niedermeier",
-        "plzort": "16949 Triglitz",
+        "nachname": "Speidel",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Rotteckstra\u00dfe 14",
+        "strasse": "Alsenstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Hartger",
-        "weiblich": false
+        "vorname": "Adelgund",
+        "weiblich": true
     }
 }

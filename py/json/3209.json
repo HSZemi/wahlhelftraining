@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2762244,
+    "nummer": 2971829,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "15.10.1991",
-        "matrikelnummer": 18851,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "08.03.1999",
+        "matrikelnummer": 2259808,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heisig",
-        "plzort": "53191 Bonn",
+        "nachname": "Dillmann",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Manilaweg 1",
+        "strasse": "Friedrich Wilhelm Raiffeisen-Stra\u00dfe 44d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Annalena",
-        "weiblich": true
+        "vorname": "Wolrad",
+        "weiblich": false
     }
 }

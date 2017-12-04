@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2605105,
+    "nummer": 2058670,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "03.02.1995",
-        "matrikelnummer": 2245757,
+        "geburtsdatum": "11.07.1991",
+        "matrikelnummer": 1973184,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Freund",
-        "plzort": "55437 Nieder-Hilbersheim",
+        "nachname": "Loos",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Am Kaditzer T\u00e4nnicht 17c",
+        "strasse": "Grazer Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 5
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 3
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Viktor",
+        "vorname": "Reinhardt",
         "weiblich": false
     }
 }

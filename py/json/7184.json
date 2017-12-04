@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1030729,
+    "nummer": 1469171,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "23.10.1998",
-        "matrikelnummer": 2464279,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "03.04.1992",
+        "matrikelnummer": 2379607,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hillenbrand",
-        "plzort": "01896 Pulsnitz",
+        "nachname": "D\u00fcring",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Heimatring 14",
+        "strasse": "Bachmannstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
                 "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
             }
         ],
-        "vorname": "Anouschka",
-        "weiblich": true
+        "vorname": "Ottheinrich",
+        "weiblich": false
     }
 }

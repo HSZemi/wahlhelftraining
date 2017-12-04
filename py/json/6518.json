@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2375196,
+    "nummer": 1474766,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "12.11.1995",
-        "matrikelnummer": 3147237,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "01.01.1990",
+        "matrikelnummer": 3149085,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwenke",
-        "plzort": "25572 Landscheide",
+        "nachname": "Herdt",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Herbert-von-Meister-Stra\u00dfe 21",
+        "strasse": "Gewerbestra\u00dfe 21c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 11
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Jana",
-        "weiblich": true
+        "vorname": "Gotthardt",
+        "weiblich": false
     }
 }

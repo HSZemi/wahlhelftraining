@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1196539,
+    "nummer": 1317107,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.10.1999",
-        "matrikelnummer": 2584770,
+        "fakultaet": 2,
+        "geburtsdatum": "26.04.1987",
+        "matrikelnummer": 2273403,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meiser",
-        "plzort": "67746 Langweiler",
+        "nachname": "Angerer",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Maxie-Wander-Stra\u00dfe 1",
+        "strasse": "Kammermeisterweg 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Magdalene",
-        "weiblich": true
+        "vorname": "Helm",
+        "weiblich": false
     }
 }

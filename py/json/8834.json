@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1164572,
+    "nummer": 1891351,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "16.03.1991",
-        "matrikelnummer": 2098045,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "18.04.1994",
+        "matrikelnummer": 2451655,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wei\u00dfe",
-        "plzort": "64807 Dieburg",
+        "nachname": "Tolksdorf",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Roquettestra\u00dfe 0",
+        "strasse": "S\u00e4ugrundweg 20",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Gundemarie",
+        "vorname": "Ehrentraud",
         "weiblich": true
     }
 }

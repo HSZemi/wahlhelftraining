@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2553286,
+    "nummer": 1215042,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.01.1999",
-        "matrikelnummer": 3148360,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "04.08.1999",
+        "matrikelnummer": 2881081,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53127 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "37339 Haynrode",
         "sternchen": 0,
-        "strasse": "Grenzstr. 17",
+        "strasse": "Carolaplatz 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 9
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 11
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

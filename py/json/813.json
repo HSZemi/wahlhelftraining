@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1637617,
+    "nummer": 2081410,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "03.08.1981",
-        "matrikelnummer": 2133750,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "11.01.1993",
+        "matrikelnummer": 15483,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Swoboda",
-        "plzort": "06543 Wieserode",
+        "nachname": "Zeh",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Holsteiner Stra\u00dfe 5",
+        "strasse": "Ketzendorf 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Eitelbert",
+        "vorname": "Renold",
         "weiblich": false
     }
 }

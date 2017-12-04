@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2886407,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2023037,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.02.1995",
-        "matrikelnummer": 14251,
+        "fakultaet": 9,
+        "geburtsdatum": "09.04.1992",
+        "matrikelnummer": 3102235,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Denk",
-        "plzort": "98701 Herschdorf",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Achenbach",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Stralsunder Stra\u00dfe 10",
+        "strasse": "L\u00fcdenstorfer Feld 1d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Anglistik/Amerikanistik: Sprachwissenschaft",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Annelinde",
+        "vorname": "Luitgard",
         "weiblich": true
     }
 }

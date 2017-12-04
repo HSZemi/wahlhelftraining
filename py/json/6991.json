@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2827015,
+    "nummer": 2262469,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "26.04.1994",
-        "matrikelnummer": 2674503,
+        "geburtsdatum": "22.10.1998",
+        "matrikelnummer": 15950,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "O\u00dfwald",
-        "plzort": "53113 Bonn",
+        "nachname": "Nitsch",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Kr\u00fcmmling 16d",
+        "strasse": "Arnswalder Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 9
+                "abschluss": "Bachelor of Science",
+                "fach": "Chemie",
+                "fsem": 1
             }
         ],
-        "vorname": "Uta",
+        "vorname": "Emmi",
         "weiblich": true
     }
 }

@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2560531,
+    "nummer": 2821038,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.08.1999",
-        "matrikelnummer": 2571247,
+        "fakultaet": 7,
+        "geburtsdatum": "26.09.1998",
+        "matrikelnummer": 3126900,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kremer",
-        "plzort": "53129 Bonn",
+        "nachname": "Reimers",
+        "plzort": "67591 Hohen-S\u00fclzen",
         "sternchen": 0,
-        "strasse": "M\u00fcnchner Platz 0",
+        "strasse": "Buzzistra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 8
             },
             {
                 "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 4
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 1
             }
         ],
-        "vorname": "Wernher",
-        "weiblich": false
+        "vorname": "Reinhilde",
+        "weiblich": true
     }
 }

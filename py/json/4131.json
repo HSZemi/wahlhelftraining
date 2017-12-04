@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1774998,
+    "nummer": 2322247,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.12.1989",
-        "matrikelnummer": 177966,
+        "fakultaet": 6,
+        "geburtsdatum": "20.01.1997",
+        "matrikelnummer": 2819717,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Leopold",
-        "plzort": "53162 Bonn",
+        "nachname": "Seger",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Zeil 1",
+        "strasse": "Altr\u00e4cknitz 14",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Frieda",
-        "weiblich": true
+        "vorname": "Ascan",
+        "weiblich": false
     }
 }

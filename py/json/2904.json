@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2624427,
+    "nummer": 2113497,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.06.1999",
-        "matrikelnummer": 15927,
+        "fakultaet": 7,
+        "geburtsdatum": "19.11.1999",
+        "matrikelnummer": 2672685,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haberkorn",
-        "plzort": "53206 Bonn",
+        "nachname": "Suhr",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Waldfriedstra\u00dfe 37",
+        "strasse": "Heroldstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 6
             },
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Mary",
-        "weiblich": true
+        "vorname": "Dietger",
+        "weiblich": false
     }
 }

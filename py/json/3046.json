@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1307118,
+    "nummer": 1394245,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "20.04.1992",
-        "matrikelnummer": 2860898,
+        "fakultaet": 5,
+        "geburtsdatum": "06.01.1994",
+        "matrikelnummer": 2534840,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knobloch",
-        "plzort": "53130 Bonn",
+        "nachname": "Sikora",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Lattenkamp 30",
+        "strasse": "Aschmattstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "fach": "Orientalische Kunstgeschichte",
+                "fsem": 2
             },
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Amadeus",
+        "vorname": "Arne",
         "weiblich": false
     }
 }

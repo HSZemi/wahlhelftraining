@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2342350,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1768965,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.06.1998",
-        "matrikelnummer": 2952338,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "12.12.1996",
+        "matrikelnummer": 2020854,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haarmann",
-        "plzort": "53133 Bonn",
+        "nachname": "Schubert",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Gutschmidstra\u00dfe 4",
+        "strasse": "Hamburger Chaussee 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Walther",
-        "weiblich": false
+        "vorname": "Ramona",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2817757,
+    "nummer": 2915018,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.01.1998",
-        "matrikelnummer": 19945,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "27.10.1991",
+        "matrikelnummer": 3194878,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ewert",
-        "plzort": "53181 Bonn",
+        "nachname": "Hettich",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Schirmhofweg 14",
+        "strasse": "Sultanstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 7
             }
         ],
-        "vorname": "Dunja",
+        "vorname": "Simona",
         "weiblich": true
     }
 }

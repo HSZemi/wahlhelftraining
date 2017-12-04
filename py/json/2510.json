@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1602432,
+    "nummer": 2904071,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.05.1990",
-        "matrikelnummer": 2826411,
+        "fakultaet": 4,
+        "geburtsdatum": "17.09.1995",
+        "matrikelnummer": 2178316,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Puschmann",
-        "plzort": "53134 Bonn",
+        "nachname": "Gra\u00df",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Fritzschweg 19",
+        "strasse": "Peter-Link-Str. 27",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Didaktik der Geschichte",
+                "fach": "Slavistik",
                 "fsem": 8
             }
         ],
-        "vorname": "Theophilus",
-        "weiblich": false
+        "vorname": "Michelle",
+        "weiblich": true
     }
 }

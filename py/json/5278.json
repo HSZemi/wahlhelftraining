@@ -2,40 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2615282,
+    "nummer": 1450989,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.12.1995",
-        "matrikelnummer": 2955334,
+        "fakultaet": 0,
+        "geburtsdatum": "26.01.1990",
+        "matrikelnummer": 145172,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "P\u00e4tzold",
-        "plzort": "07980 Neugernsdorf",
+        "nachname": "Jahn",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Pirnaer Stra\u00dfe 11",
+        "strasse": "Guaitastra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Liesbeth",
-        "weiblich": true
+        "vorname": "Ruppert",
+        "weiblich": false
     }
 }

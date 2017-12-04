@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1631265,
+    "nummer": 1668853,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.09.1999",
-        "matrikelnummer": 13381,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "19.07.1999",
+        "matrikelnummer": 2762243,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Peters",
-        "plzort": "53218 Bonn",
+        "nachname": "Pflug",
+        "plzort": "67742 Lauterecken",
         "sternchen": 0,
-        "strasse": "Terrassenwohnpark 3",
+        "strasse": "Gr\u00fcntalstr. 2",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 5
             }
         ],
-        "vorname": "Adele",
-        "weiblich": true
+        "vorname": "Holger",
+        "weiblich": false
     }
 }

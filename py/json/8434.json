@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1469431,
-    "semester": "Sommersemester 2017",
+    "nummer": 1478385,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.04.1997",
-        "matrikelnummer": 2408990,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "13.07.1993",
+        "matrikelnummer": 2025179,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fchnel",
-        "plzort": "53137 Bonn",
+        "nachname": "Ehrich",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Binsenweg 20",
+        "strasse": "Gasse 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Arzneimittelforschung (Drug Research)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Klaus",
-        "weiblich": false
+        "vorname": "Heltrud",
+        "weiblich": true
     }
 }

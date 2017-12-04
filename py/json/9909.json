@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2081889,
+    "nummer": 2102742,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.11.1997",
-        "matrikelnummer": 2032783,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "07.12.1998",
+        "matrikelnummer": 160699,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rank",
-        "plzort": "53177 Bonn",
+        "nachname": "Noack",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Wunderburg 2",
+        "strasse": "Weidegasse 8d",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 8
+                "abschluss": "Master of Arts",
+                "fach": "English Literatures and Cultures",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Birthe",
+        "vorname": "Natalija",
         "weiblich": true
     }
 }

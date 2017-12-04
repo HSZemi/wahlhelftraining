@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2202606,
+    "nummer": 1424299,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "20.01.1994",
-        "matrikelnummer": 18827,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Limbach",
-        "plzort": "53176 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "24.05.1997",
+        "matrikelnummer": 3177885,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Gra\u00dfl",
+        "plzort": "39175 K\u00f6nigsborn",
         "sternchen": 0,
-        "strasse": "Hauskoppelstieg 0",
+        "strasse": "Karl-Laux-Stra\u00dfe 3e",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Rutger",
+        "vorname": "Cornelius",
         "weiblich": false
     }
 }

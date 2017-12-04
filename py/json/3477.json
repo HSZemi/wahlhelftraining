@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2112967,
+    "nummer": 1091315,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "12.06.1996",
-        "matrikelnummer": 1968784,
+        "geburtsdatum": "20.06.1991",
+        "matrikelnummer": 1966380,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steininger",
-        "plzort": "53135 Bonn",
+        "nachname": "Husmann",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Waschstattgasse 8",
+        "strasse": "Gellertstra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Medienwissenschaft",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Politik und Gesellschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Vergleichende Religionswissenschaft",
                 "fsem": 2
             }
         ],
-        "vorname": "Wiegand",
+        "vorname": "Hilarius",
         "weiblich": false
     }
 }

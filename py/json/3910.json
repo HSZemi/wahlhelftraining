@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2091125,
+    "nummer": 1862634,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.07.1996",
-        "matrikelnummer": 2654461,
+        "fakultaet": 8,
+        "geburtsdatum": "15.01.1991",
+        "matrikelnummer": 198548,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Zinn",
-        "plzort": "53187 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Menke",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Th\u00f6melstra\u00dfe 9",
+        "strasse": "Rauschenbachstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 2
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Marli",
-        "weiblich": true
+        "vorname": "Sigurd",
+        "weiblich": false
     }
 }

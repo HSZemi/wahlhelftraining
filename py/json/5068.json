@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2600101,
+    "nummer": 1889424,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.07.1998",
-        "matrikelnummer": 3015311,
+        "fakultaet": 8,
+        "geburtsdatum": "23.01.1995",
+        "matrikelnummer": 2332899,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siepmann",
-        "plzort": "06869 M\u00f6llensdorf",
+        "nachname": "K\u00e4ser",
+        "plzort": "85092 K\u00f6sching",
         "sternchen": 0,
-        "strasse": "Hohles Tor 10",
+        "strasse": "Sonninstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Epidemiologie",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
                 "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Frigga",
-        "weiblich": true
+        "vorname": "Elbert",
+        "weiblich": false
     }
 }

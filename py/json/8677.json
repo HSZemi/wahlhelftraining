@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2581334,
-    "semester": "Sommersemester 2017",
+    "nummer": 2514151,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "16.10.1990",
-        "matrikelnummer": 2139134,
+        "fakultaet": 4,
+        "geburtsdatum": "07.05.1999",
+        "matrikelnummer": 2119199,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauser",
-        "plzort": "53163 Bonn",
+        "nachname": "Schoch",
+        "plzort": "14913 J\u00fcterbog",
         "sternchen": 0,
-        "strasse": "Kirsch\u00e4ckerstr. 7",
+        "strasse": "Feiningerstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 12
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Ann-Kathrin",
-        "weiblich": true
+        "vorname": "Ursus",
+        "weiblich": false
     }
 }

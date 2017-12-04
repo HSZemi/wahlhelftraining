@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1890547,
+    "nummer": 1141390,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.02.1999",
-        "matrikelnummer": 2400860,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "18.11.1993",
+        "matrikelnummer": 2414971,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Amend",
-        "plzort": "56479 Seck",
+        "nachname": "Grothe",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Nerlichsweg 30",
+        "strasse": "Messerschmittstr. 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
             }
         ],
-        "vorname": "Blanka",
+        "vorname": "Katy",
         "weiblich": true
     }
 }

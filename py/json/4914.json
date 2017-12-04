@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2894759,
+    "nummer": 2253742,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.08.1996",
-        "matrikelnummer": 191270,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "06.10.1992",
+        "matrikelnummer": 2237461,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stumpe",
-        "plzort": "53194 Bonn",
+        "nachname": "Wagenknecht",
+        "plzort": "38531 R\u00f6tgesb\u00fcttel",
         "sternchen": 0,
-        "strasse": "Peter-Schmoll-Stra\u00dfe 6",
+        "strasse": "Lorettostra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Geschichte",
-                "fsem": 7
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Willy",
+        "vorname": "Otfried",
         "weiblich": false
     }
 }

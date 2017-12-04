@@ -1,41 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1211764,
+    "nummer": 1488772,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.11.1993",
-        "matrikelnummer": 2634027,
+        "fakultaet": 6,
+        "geburtsdatum": "18.03.1998",
+        "matrikelnummer": 124813,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuck",
-        "plzort": "53165 Bonn",
+        "nachname": "Berlin",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Stemmanns Weg 9",
+        "strasse": "R\u00fcckersbr\u00fccke 5",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 13
             },
             {
                 "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "fach": "Keltologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Rose",
-        "weiblich": true
+        "vorname": "Aloisius",
+        "weiblich": false
     }
 }

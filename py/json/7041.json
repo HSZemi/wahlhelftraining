@@ -4,28 +4,53 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1129599,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2482954,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "04.11.1995",
-        "matrikelnummer": 2866823,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "11.02.1995",
+        "matrikelnummer": 1954253,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wanner",
-        "plzort": "53180 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Raschke",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Altheimstra\u00dfe 4",
+        "strasse": "S\u00fcderstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Reinfried",
+        "vorname": "Delf",
         "weiblich": false
     }
 }

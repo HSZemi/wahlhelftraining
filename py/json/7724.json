@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2423290,
+    "nummer": 1998243,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.08.1997",
-        "matrikelnummer": 2677662,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "12.04.1990",
+        "matrikelnummer": 11378,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lanz",
-        "plzort": "09236 Clau\u00dfnitz",
+        "nachname": "Vollmer",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00f6rsenplatz 14",
+        "strasse": "K\u00f6rnerstra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 1
             }
         ],
-        "vorname": "Gretl",
-        "weiblich": true
+        "vorname": "Volker",
+        "weiblich": false
     }
 }

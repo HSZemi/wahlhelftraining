@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1807505,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2611747,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "23.12.1993",
-        "matrikelnummer": 3081602,
+        "fakultaet": 1,
+        "geburtsdatum": "21.08.1996",
+        "matrikelnummer": 2832669,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Birkholz",
-        "plzort": "53211 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Mangold",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Marktweg 6",
+        "strasse": "Vogelsteinstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Raingardis",
-        "weiblich": true
+        "vorname": "Richard",
+        "weiblich": false
     }
 }

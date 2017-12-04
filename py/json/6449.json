@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2134700,
+    "nummer": 2182120,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.06.1989",
-        "matrikelnummer": 14227,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "11.06.1994",
+        "matrikelnummer": 12588,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zuber",
-        "plzort": "53163 Bonn",
+        "nachname": "H\u00f6hne",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Tevesstra\u00dfe 5",
+        "strasse": "Im Ried 23",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 4
             }
         ],
-        "vorname": "Christin",
-        "weiblich": true
+        "vorname": "Falko",
+        "weiblich": false
     }
 }

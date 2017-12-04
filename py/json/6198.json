@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2309109,
+    "nummer": 1567194,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.06.1998",
-        "matrikelnummer": 3194855,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 8,
+        "geburtsdatum": "07.11.1990",
+        "matrikelnummer": 2473178,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kemper",
-        "plzort": "53155 Bonn",
+        "nachname": "Weis",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Tanneberger Weg 13",
+        "strasse": "Langfurchweg 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Vesna",
+        "vorname": "Reingard",
         "weiblich": true
     }
 }

@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1159035,
+    "nummer": 1069198,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.04.1989",
-        "matrikelnummer": 3024909,
+        "fakultaet": 4,
+        "geburtsdatum": "02.10.1991",
+        "matrikelnummer": 2277079,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerlach",
-        "plzort": "53176 Bonn",
+        "nachname": "Poth",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "An der Schmiede 2d",
+        "strasse": "Holzmarkt 3",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
                 "fsem": 3
             }
         ],
-        "vorname": "Ottomar",
-        "weiblich": false
+        "vorname": "Brigitte",
+        "weiblich": true
     }
 }

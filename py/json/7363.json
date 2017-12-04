@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1599132,
+    "nummer": 1112104,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.11.1993",
-        "matrikelnummer": 16655,
+        "fakultaet": 4,
+        "geburtsdatum": "02.09.1996",
+        "matrikelnummer": 2082067,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strube",
-        "plzort": "53130 Bonn",
+        "nachname": "Gro\u00dfe",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Am Langenzug 10",
+        "strasse": "Wilhelm-Schickard-Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 5
             }
         ],
-        "vorname": "Regelinde",
-        "weiblich": true
+        "vorname": "Golo",
+        "weiblich": false
     }
 }

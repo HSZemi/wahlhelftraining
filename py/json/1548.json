@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1036662,
+    "nummer": 1363526,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "27.10.1991",
-        "matrikelnummer": 2170799,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schaible",
-        "plzort": "53208 Bonn",
+        "geburtsdatum": "06.03.1999",
+        "matrikelnummer": 2007293,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "M\u00f6ller",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Rietschelweg 6a",
+        "strasse": "Keppgrundweg 11",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 2
+                "fsem": 9
             }
         ],
-        "vorname": "Friedericke",
+        "vorname": "Mirjana",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1367477,
+    "nummer": 1137467,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.11.1992",
-        "matrikelnummer": 158956,
+        "fakultaet": 6,
+        "geburtsdatum": "12.04.1999",
+        "matrikelnummer": 2453333,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fcnemann",
-        "plzort": "75210 Keltern",
+        "nachname": "Eichhorn",
+        "plzort": "39624 Berkau",
         "sternchen": 0,
-        "strasse": "Materniweg 18b",
+        "strasse": "Buger Hauptstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 4
             }
         ],
-        "vorname": "Micha",
+        "vorname": "Trutz",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1646266,
+    "nummer": 2161687,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "12.11.1999",
-        "matrikelnummer": 1961948,
+        "geburtsdatum": "14.11.1994",
+        "matrikelnummer": 2196422,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bechtel",
-        "plzort": "98530 Marisfeld",
+        "nachname": "G\u00f6decke",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Vierlinden 51",
+        "strasse": "Antonin-Dvorak-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "Master of Science",
                 "fach": "Psychologie",
-                "fsem": 9
+                "fsem": 3
             }
         ],
-        "vorname": "Baptist",
+        "vorname": "Gerthold",
         "weiblich": false
     }
 }

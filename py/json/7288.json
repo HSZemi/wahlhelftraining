@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2275537,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2427407,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "26.10.1990",
-        "matrikelnummer": 111374,
+        "geburtsdatum": "02.08.1987",
+        "matrikelnummer": 2815678,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00fcrtler",
-        "plzort": "53142 Bonn",
+        "nachname": "Hellmuth",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Gorknitzer Stra\u00dfe 1",
+        "strasse": "Tokajer Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Heimbert",
-        "weiblich": false
+        "vorname": "Edelfriede",
+        "weiblich": true
     }
 }

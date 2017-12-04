@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1817507,
+    "nummer": 1603014,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "19.06.1996",
-        "matrikelnummer": 2136858,
+        "fakultaet": 5,
+        "geburtsdatum": "26.02.1991",
+        "matrikelnummer": 2161104,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Fromm",
-        "plzort": "53140 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Freund",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Am Mieschenhang 0",
+        "strasse": "Am Steinknock 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Egon",
-        "weiblich": false
+        "vorname": "Grit",
+        "weiblich": true
     }
 }

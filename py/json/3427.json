@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1782869,
+    "nummer": 2645450,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.07.1997",
-        "matrikelnummer": 2926311,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Jentsch",
-        "plzort": "65366 Geisenheim",
+        "fakultaet": 9,
+        "geburtsdatum": "14.09.1990",
+        "matrikelnummer": 199292,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Feist",
+        "plzort": "17111 Quitzerow",
         "sternchen": 0,
-        "strasse": "Steinadlerweg 38",
+        "strasse": "Regensburger Stra\u00dfe 67",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 3
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Gotelind",
+        "vorname": "Rudolfina",
         "weiblich": true
     }
 }

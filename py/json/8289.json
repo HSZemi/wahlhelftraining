@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1728920,
+    "nummer": 1082060,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.04.1999",
-        "matrikelnummer": 2879125,
+        "fakultaet": 6,
+        "geburtsdatum": "02.03.1995",
+        "matrikelnummer": 2939057,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Peetz",
-        "plzort": "53153 Bonn",
+        "nachname": "Brehmer",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Wiesenstieg 12",
+        "strasse": "St.-Wendelinusstra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kunstgeschichte",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Vergleichende Religionswissenschaft",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 9
             }
         ],
-        "vorname": "Lisanne",
-        "weiblich": true
+        "vorname": "Arnolf",
+        "weiblich": false
     }
 }

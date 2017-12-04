@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2053138,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2664469,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.10.1999",
-        "matrikelnummer": 3186353,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 2,
+        "geburtsdatum": "14.04.1994",
+        "matrikelnummer": 2220883,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Deckert",
-        "plzort": "53213 Bonn",
+        "nachname": "Schlag",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Steinh\u00f6he 3",
+        "strasse": "Lange Allee 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "S\u00fcdostasienwissenschaft",
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
                 "fsem": 1
             }
         ],
-        "vorname": "Cordt",
+        "vorname": "Schorsch",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1649078,
+    "nummer": 1969015,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "23.06.1995",
-        "matrikelnummer": 2785093,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "14.02.1996",
+        "matrikelnummer": 19543,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haas",
-        "plzort": "53143 Bonn",
+        "nachname": "Ganter",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Otzbergstra\u00dfe 11",
+        "strasse": "Liegauer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 9
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 8
             }
         ],
-        "vorname": "Hermelinde",
+        "vorname": "Gundula",
         "weiblich": true
     }
 }

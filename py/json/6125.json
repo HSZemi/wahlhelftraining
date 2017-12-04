@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2497216,
+    "nummer": 2522945,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "27.07.1998",
-        "matrikelnummer": 2345373,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "25.07.1995",
+        "matrikelnummer": 1997319,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Franzen",
-        "plzort": "53157 Bonn",
+        "nachname": "Schlichting",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Susanna-Haunsch\u00fctz-Stra\u00dfe 3",
+        "strasse": "R\u00f6ntgenstr. 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "fsem": 4
             }
         ],
-        "vorname": "Ute",
-        "weiblich": true
+        "vorname": "Rico",
+        "weiblich": false
     }
 }

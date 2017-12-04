@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2803765,
+    "nummer": 1295752,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "12.04.1998",
-        "matrikelnummer": 2399907,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "22.01.1995",
+        "matrikelnummer": 2218870,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kopp",
-        "plzort": "14612 Falkensee",
+        "nachname": "Tauber",
+        "plzort": "89441 Medlingen",
         "sternchen": 0,
-        "strasse": "Schunckstra\u00dfe 61",
+        "strasse": "Sudetenstr. 32",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 3
+                "fach": "Zahnmedizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Astrid",
+        "vorname": "Jaqueline",
         "weiblich": true
     }
 }

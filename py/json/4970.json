@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1525285,
+    "nummer": 1756398,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.08.1993",
-        "matrikelnummer": 159513,
+        "fakultaet": 4,
+        "geburtsdatum": "09.06.1991",
+        "matrikelnummer": 15792,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pusch",
-        "plzort": "53197 Bonn",
+        "nachname": "Schacht",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Benkertstr. 12",
+        "strasse": "Braune Br\u00fccke 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Sindy",
-        "weiblich": true
+        "vorname": "Hansjoachim",
+        "weiblich": false
     }
 }

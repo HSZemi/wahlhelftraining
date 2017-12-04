@@ -1,28 +1,43 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2760900,
+    "nummer": 2362386,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "25.07.1988",
-        "matrikelnummer": 2012913,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "27.08.1989",
+        "matrikelnummer": 3103313,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53223 Bonn",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Im Teller 5",
+        "strasse": "Gustav-Voigt-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
-                "fsem": 2
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Latein",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Asienwissenschaften",
+                "fsem": 13
             }
         ],
         "vorname": "Marcel",

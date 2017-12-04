@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2562799,
+    "nummer": 1759398,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "22.07.1992",
-        "matrikelnummer": 12808,
+        "geburtsdatum": "25.12.1997",
+        "matrikelnummer": 2097018,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sanders",
-        "plzort": "77855 Achern",
+        "nachname": "Wiens",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Peter-Henlein-Stra\u00dfe 29",
+        "strasse": "Wehrsdorfer Stra\u00dfe 1d",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "English Literatures and Cultures",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Chinesisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch als Zweit- und Fremdsprache",
+                "fsem": 9
             }
         ],
-        "vorname": "Melchior",
+        "vorname": "Thankmar",
         "weiblich": false
     }
 }

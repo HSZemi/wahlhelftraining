@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2771965,
+    "nummer": 2919093,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.07.1992",
-        "matrikelnummer": 2734259,
+        "fakultaet": 4,
+        "geburtsdatum": "20.05.1988",
+        "matrikelnummer": 2038369,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfau",
-        "plzort": "53174 Bonn",
+        "nachname": "H\u00f6hn",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Hohenfelder Stra\u00dfe 2",
+        "strasse": "Mulanskystra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 10
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
+                "abschluss": "Master of Arts",
+                "fach": "Spanische Kultur und europ\u00e4ische Identit\u00e4t",
                 "fsem": 8
             }
         ],
-        "vorname": "Bringfried",
-        "weiblich": false
+        "vorname": "Giseltraud",
+        "weiblich": true
     }
 }

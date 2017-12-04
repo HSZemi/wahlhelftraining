@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2255140,
+    "nummer": 2556652,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "04.11.1989",
-        "matrikelnummer": 2681129,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "05.02.1989",
+        "matrikelnummer": 2634971,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Burkard",
-        "plzort": "55499 Riesweiler",
+        "nachname": "Munz",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Geiselsteinweg 27",
+        "strasse": "Kalk-M\u00fclheimer-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Deutsche Sprache u.\u00e4ltere deutsche Literatur",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Marielouise",
+        "vorname": "Geza",
         "weiblich": true
     }
 }

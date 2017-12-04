@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2959055,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1039852,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.02.1996",
-        "matrikelnummer": 2715555,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "05.10.1997",
+        "matrikelnummer": 18064,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schaal",
-        "plzort": "94137 Bayerbach",
+        "nachname": "Gro\u00dfer",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Karl-Marx-Stra\u00dfe 18",
+        "strasse": "Schwandorfer Str. 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Astrophysik",
+                "fsem": 3
             }
         ],
-        "vorname": "Daniele",
+        "vorname": "Frieda",
         "weiblich": true
     }
 }

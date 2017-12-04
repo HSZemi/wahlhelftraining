@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1154945,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1917485,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.07.1994",
-        "matrikelnummer": 2972402,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "28.07.1993",
+        "matrikelnummer": 2578817,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gundlach",
-        "plzort": "53144 Bonn",
+        "nachname": "Ruck",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00f6nighofgasse 1",
+        "strasse": "M\u00fchlw\u00f6rth 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Anke",
-        "weiblich": true
+        "vorname": "Winfrid",
+        "weiblich": false
     }
 }

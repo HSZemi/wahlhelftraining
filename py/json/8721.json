@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1938816,
+    "nummer": 2741367,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "16.06.1992",
-        "matrikelnummer": 1961129,
+        "geburtsdatum": "06.05.1994",
+        "matrikelnummer": 2927190,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pollmann",
-        "plzort": "55592 Jeckenbach",
+        "nachname": "Jeschke",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Hopfengartenstr. 6",
+        "strasse": "Sch\u00e4destra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Mittelalterliche und neuere Geschichte",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Mittelalterstudien",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Vroni",
-        "weiblich": true
+        "vorname": "Dietwalt",
+        "weiblich": false
     }
 }

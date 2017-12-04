@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2677536,
+    "nummer": 1473153,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.01.1985",
-        "matrikelnummer": 2297937,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "27.04.1989",
+        "matrikelnummer": 2983701,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kohn",
-        "plzort": "53167 Bonn",
+        "nachname": "Ender",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Lisztgasse 5",
+        "strasse": "Schl\u00fcsselstr. 0",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 12
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Luitwin",
-        "weiblich": false
+        "vorname": "Elfriede",
+        "weiblich": true
     }
 }

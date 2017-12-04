@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2751497,
+    "nummer": 2318256,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.10.1999",
-        "matrikelnummer": 2867996,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 0,
+        "geburtsdatum": "27.12.1996",
+        "matrikelnummer": 2992792,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bender",
-        "plzort": "49610 Quakenbr\u00fcck",
+        "nachname": "K\u00fchner",
+        "plzort": "88138 Sigmarszell",
         "sternchen": 0,
-        "strasse": "Vogelbeerenstra\u00dfe 14",
+        "strasse": "Mittelweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 10
             },
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "Master of Science",
                 "fach": "Psychologie",
-                "fsem": 7
+                "fsem": 11
             }
         ],
-        "vorname": "Klothilde",
-        "weiblich": true
+        "vorname": "Burkhardt",
+        "weiblich": false
     }
 }

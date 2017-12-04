@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2366778,
+    "nummer": 2083758,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "02.11.1989",
-        "matrikelnummer": 2323119,
+        "fakultaet": 4,
+        "geburtsdatum": "27.11.1990",
+        "matrikelnummer": 2170392,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Basler",
-        "plzort": "53138 Bonn",
+        "nachname": "Kunde",
+        "plzort": "39291 Tryppehna",
         "sternchen": 0,
-        "strasse": "Bahnstra\u00dfe 2",
+        "strasse": "Meierhof 2",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Physik",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Italienisch",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Paola",
-        "weiblich": true
+        "vorname": "Daniel",
+        "weiblich": false
     }
 }

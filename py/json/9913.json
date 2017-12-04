@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2668010,
+    "nummer": 1912437,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.06.1998",
-        "matrikelnummer": 2788158,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "04.05.1996",
+        "matrikelnummer": 2660520,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Helmer",
-        "plzort": "53123 Bonn",
+        "nachname": "Imhof",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Gersdorfer Weg 3",
+        "strasse": "Am Schlehenbusch 43",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Burghardt",
-        "weiblich": false
+        "vorname": "Diana",
+        "weiblich": true
     }
 }

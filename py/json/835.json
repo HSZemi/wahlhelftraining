@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1532414,
-    "semester": "Sommersemester 2017",
+    "nummer": 1864354,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "08.11.1987",
-        "matrikelnummer": 16310,
+        "fakultaet": 0,
+        "geburtsdatum": "03.06.1986",
+        "matrikelnummer": 2113202,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Jakobs",
-        "plzort": "53180 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gerhards",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Nossener Br\u00fccke 7c",
+        "strasse": "Wassermannstr. 15",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Bertin",
+        "vorname": "Rudolph",
         "weiblich": false
     }
 }

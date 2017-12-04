@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1627283,
+    "nummer": 1720392,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "18.11.1999",
-        "matrikelnummer": 3181173,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "26.12.1991",
+        "matrikelnummer": 2360096,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scheu",
-        "plzort": "53160 Bonn",
+        "nachname": "Moog",
+        "plzort": "39435 Borne",
         "sternchen": 0,
-        "strasse": "M\u00fcnzmeisterstr. 27",
+        "strasse": "Staufenstra\u00dfe 2d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 1
             }
         ],
-        "vorname": "Gerthold",
-        "weiblich": false
+        "vorname": "Liesel",
+        "weiblich": true
     }
 }

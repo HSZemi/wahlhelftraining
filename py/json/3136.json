@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2340336,
+    "nummer": 2872205,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.03.1995",
-        "matrikelnummer": 2871277,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "13.03.1990",
+        "matrikelnummer": 3015455,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fath",
-        "plzort": "53161 Bonn",
+        "nachname": "Kloss",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Meier-Seligmann-Weg 38",
+        "strasse": "Karlstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             }
         ],
-        "vorname": "Siegert",
+        "vorname": "Gottwald",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2219680,
+    "nummer": 2111242,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "16.03.1996",
-        "matrikelnummer": 1991514,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "02.08.1992",
+        "matrikelnummer": 1982762,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rist",
-        "plzort": "53160 Bonn",
+        "nachname": "Grebe",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Wormser Platz 0",
+        "strasse": "Fritz-Tarnow-Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 13
             }
         ],
-        "vorname": "Rotraud",
-        "weiblich": true
+        "vorname": "Johannes",
+        "weiblich": false
     }
 }

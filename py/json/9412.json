@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2195409,
+    "nummer": 2932081,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "21.08.1995",
-        "matrikelnummer": 3150901,
+        "fakultaet": 8,
+        "geburtsdatum": "07.10.1992",
+        "matrikelnummer": 1940250,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wilkens",
-        "plzort": "53112 Bonn",
+        "nachname": "Schulten",
+        "plzort": "29472 Damnatz",
         "sternchen": 0,
-        "strasse": "H\u00f6lderlinsallee 2",
+        "strasse": "Wasserweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
                 "fsem": 3
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Reingard",
-        "weiblich": true
+        "vorname": "Erno",
+        "weiblich": false
     }
 }

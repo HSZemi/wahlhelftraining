@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2081947,
+    "nummer": 2597521,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.12.1996",
-        "matrikelnummer": 2057892,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "04.03.1999",
+        "matrikelnummer": 2201821,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckardt",
-        "plzort": "53159 Bonn",
+        "nachname": "Meissner",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Nikolaus-Brum-Stra\u00dfe 1b",
+        "strasse": "Rayskistra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "German and Comparative Literature",
+                "fsem": 2
             }
         ],
-        "vorname": "Ursula",
-        "weiblich": true
+        "vorname": "Klaudius",
+        "weiblich": false
     }
 }

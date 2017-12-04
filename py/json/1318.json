@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2996992,
+    "nummer": 2402750,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.03.1999",
-        "matrikelnummer": 2756759,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "02.12.1996",
+        "matrikelnummer": 2405938,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wischnewski",
-        "plzort": "53140 Bonn",
+        "nachname": "Hein",
+        "plzort": "12203 Berlin",
         "sternchen": 0,
-        "strasse": "Cronstettenstra\u00dfe 17",
+        "strasse": "Maacksgasse 27",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life and Medical Sciences",
-                "fsem": 1
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Monique",
+        "vorname": "Lidija",
         "weiblich": true
     }
 }

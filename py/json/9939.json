@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2604575,
+    "nummer": 2867837,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.08.1994",
-        "matrikelnummer": 2407151,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "14.07.1996",
+        "matrikelnummer": 2352881,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gebel",
-        "plzort": "79312 Emmendingen",
+        "nachname": "Bittner",
+        "plzort": "08539 Mehltheuer",
         "sternchen": 0,
-        "strasse": "K\u00e4ndlerstra\u00dfe 4",
+        "strasse": "H\u00f6lderlinsallee 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Keltologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Betti",
-        "weiblich": true
+        "vorname": "Karlheinz",
+        "weiblich": false
     }
 }

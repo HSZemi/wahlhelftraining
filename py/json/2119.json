@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1430621,
+    "nummer": 2524796,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "28.04.1993",
-        "matrikelnummer": 16109,
+        "fakultaet": 8,
+        "geburtsdatum": "18.03.1993",
+        "matrikelnummer": 15292,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Karsten",
-        "plzort": "53186 Bonn",
+        "nachname": "Scheffel",
+        "plzort": "08427 Fraureuth",
         "sternchen": 0,
-        "strasse": "Altburgst\u00e4dtel 12",
+        "strasse": "Meistergasse 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 4
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "",
+                "fach": "Englisch",
                 "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Leuthold",
-        "weiblich": false
+        "vorname": "Agnieszka",
+        "weiblich": true
     }
 }

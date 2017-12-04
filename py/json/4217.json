@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2716545,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2705565,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "22.06.1992",
-        "matrikelnummer": 2449280,
+        "fakultaet": 8,
+        "geburtsdatum": "28.07.1984",
+        "matrikelnummer": 2968165,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6pf",
-        "plzort": "53210 Bonn",
+        "nachname": "Merz",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Kupferhammer 7",
+        "strasse": "Im Trierischen Hof 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 11
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Doritta",
-        "weiblich": true
+        "vorname": "Freddy",
+        "weiblich": false
     }
 }

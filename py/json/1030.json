@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2768492,
+    "nummer": 1231655,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.07.1989",
-        "matrikelnummer": 3118677,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "06.12.1991",
+        "matrikelnummer": 2823869,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Manke",
-        "plzort": "53161 Bonn",
+        "nachname": "Bielefeld",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Kapersburgstra\u00dfe 0",
+        "strasse": "Buchrainplatz 6",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Geowissenschaften",
+                "fach": "Ethnologie",
                 "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Desiree",
-        "weiblich": true
+        "vorname": "Edelbert",
+        "weiblich": false
     }
 }

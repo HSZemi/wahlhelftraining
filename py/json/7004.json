@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": true
     },
-    "nummer": 1761058,
+    "nummer": 2913507,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.02.1994",
-        "matrikelnummer": 2675054,
+        "fakultaet": 4,
+        "geburtsdatum": "23.08.1999",
+        "matrikelnummer": 2267802,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Galle",
-        "plzort": "53120 Bonn",
+        "nachname": "Enderle",
+        "plzort": "12683 Berlin",
         "sternchen": 0,
-        "strasse": "Hilbertstra\u00dfe 0",
+        "strasse": "Grotefendstra\u00dfe 3",
         "studienfaecher": [
             {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 13
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "fach": "Life Science Informatics",
+                "fsem": 5
             }
         ],
-        "vorname": "Manhold",
-        "weiblich": false
+        "vorname": "Theresia",
+        "weiblich": true
     }
 }

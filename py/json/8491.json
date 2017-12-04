@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2571929,
+    "nummer": 1850839,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "12.07.1996",
-        "matrikelnummer": 2883999,
+        "geburtsdatum": "05.06.1993",
+        "matrikelnummer": 116112,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heidemann",
-        "plzort": "53196 Bonn",
+        "nachname": "Casper",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Martin-Opitz-Stra\u00dfe 12d",
+        "strasse": "Alter Jagdweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 11
             }
         ],
-        "vorname": "Manhard",
+        "vorname": "Henrik",
         "weiblich": false
     }
 }

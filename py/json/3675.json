@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1398074,
+    "nummer": 2398198,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "22.06.1993",
-        "matrikelnummer": 2081056,
+        "geburtsdatum": "26.03.1999",
+        "matrikelnummer": 157242,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neumaier",
-        "plzort": "18510 Behnkendorf",
+        "nachname": "Angermann",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Bosch-Stra\u00dfe 13",
+        "strasse": "Am Klostersee 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Deutsch-Italienische Studien",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Larissa",
+        "vorname": "Irmtrude",
         "weiblich": true
     }
 }

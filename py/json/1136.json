@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1980703,
+    "nummer": 1059490,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.06.1994",
-        "matrikelnummer": 2308864,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "09.01.1996",
+        "matrikelnummer": 1999900,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Prell",
-        "plzort": "53137 Bonn",
+        "nachname": "Weiner",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Radegundisgasse 4",
+        "strasse": "Biedenkopfer Weg 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Wolfdietrich",
+        "vorname": "Volkmar",
         "weiblich": false
     }
 }

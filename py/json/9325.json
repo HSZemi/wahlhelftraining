@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2546187,
+    "nummer": 1042859,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "20.03.1987",
-        "matrikelnummer": 3105907,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "26.09.1999",
+        "matrikelnummer": 2336766,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fricke",
-        "plzort": "53205 Bonn",
+        "nachname": "Gr\u00e4tz",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Rantumer Weg 35",
+        "strasse": "Lurgiallee 1",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 8
+                "fach": "Agrarwissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Axel",
-        "weiblich": false
+        "vorname": "Fini",
+        "weiblich": true
     }
 }

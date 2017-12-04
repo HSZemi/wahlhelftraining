@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2147561,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2516746,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.05.1999",
-        "matrikelnummer": 2227215,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "24.09.1998",
+        "matrikelnummer": 2785256,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kn\u00fcppel",
-        "plzort": "53225 Bonn",
+        "nachname": "Zellner",
+        "plzort": "56459 Bellingen",
         "sternchen": 0,
-        "strasse": "Rohrkolbenstieg 12",
+        "strasse": "Verdener Weg 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 12
             }
         ],
-        "vorname": "D\u00f6rte",
-        "weiblich": true
+        "vorname": "Neidhard",
+        "weiblich": false
     }
 }

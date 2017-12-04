@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2465512,
+    "nummer": 2195925,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 1,
-        "geburtsdatum": "15.04.1994",
-        "matrikelnummer": 2785895,
+        "geburtsdatum": "27.11.1995",
+        "matrikelnummer": 3082199,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tacke",
-        "plzort": "53130 Bonn",
+        "nachname": "Fetzer",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Nach dem Brand 11",
+        "strasse": "Rappstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 9
+                "fsem": 1
             }
         ],
-        "vorname": "Babett",
-        "weiblich": true
+        "vorname": "Germar",
+        "weiblich": false
     }
 }

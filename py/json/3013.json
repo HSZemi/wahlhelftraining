@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1523227,
+    "nummer": 2885722,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "06.05.1999",
-        "matrikelnummer": 2592291,
+        "fakultaet": 1,
+        "geburtsdatum": "10.08.1990",
+        "matrikelnummer": 2022543,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wein",
-        "plzort": "53115 Bonn",
+        "nachname": "Stumm",
+        "plzort": "09350 Lichtenstein/Sachsen",
         "sternchen": 0,
-        "strasse": "Hagedornplatz 0",
+        "strasse": "Schleswiger Stra\u00dfe 26",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 9
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Annedore",
+        "vorname": "Mary",
         "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2784119,
+    "nummer": 1282986,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.02.1995",
-        "matrikelnummer": 2970969,
+        "fakultaet": 5,
+        "geburtsdatum": "14.04.1999",
+        "matrikelnummer": 2582943,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Neef",
-        "plzort": "53205 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Warnecke",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-K\u00fcntzelmann-Platz 3",
+        "strasse": "L\u00e4rchenstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienkommunikation",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Islamwissenschaft/Nahostsprachen",
+                "fsem": 11
             }
         ],
-        "vorname": "Uli",
-        "weiblich": false
+        "vorname": "Heltrud",
+        "weiblich": true
     }
 }

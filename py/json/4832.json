@@ -2,35 +2,45 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1655518,
+    "nummer": 2647762,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.08.1998",
-        "matrikelnummer": 2057856,
+        "fakultaet": 8,
+        "geburtsdatum": "21.05.1999",
+        "matrikelnummer": 2649383,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hartwig",
-        "plzort": "13585 Berlin",
+        "nachname": "Haberland",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Altl\u00f6btau 5",
+        "strasse": "Ligusterweg 3d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 9
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 5
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 12
             }
         ],
-        "vorname": "Helmtraut",
+        "vorname": "Hertha",
         "weiblich": true
     }
 }

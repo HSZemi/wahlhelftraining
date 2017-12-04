@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2207202,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1467273,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "05.03.1987",
-        "matrikelnummer": 3051851,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "25.07.1990",
+        "matrikelnummer": 177690,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kirchhof",
-        "plzort": "53149 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00f6cker",
+        "plzort": "47475 Kamp-Lintfort",
         "sternchen": 0,
-        "strasse": "Stemmanns Weg 1",
+        "strasse": "Hammarskj\u00f6ldring 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Germanistik",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Tibetologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Keltologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Felizitas",
-        "weiblich": true
+        "vorname": "Sylvius",
+        "weiblich": false
     }
 }

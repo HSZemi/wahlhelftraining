@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2526733,
+    "nummer": 1916450,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.11.1987",
-        "matrikelnummer": 3146881,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "13.02.1994",
+        "matrikelnummer": 2193265,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gro\u00dfmann",
-        "plzort": "53129 Bonn",
+        "nachname": "Schillinger",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Berggut 14",
+        "strasse": "Langenselbolder Stra\u00dfe 50",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Italienisch",
                 "fsem": 9
             },
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 2
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Heinrich",
-        "weiblich": false
+        "vorname": "Annaliese",
+        "weiblich": true
     }
 }

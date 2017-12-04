@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1762671,
+    "nummer": 1280360,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "04.02.1999",
-        "matrikelnummer": 179602,
+        "fakultaet": 6,
+        "geburtsdatum": "08.07.1994",
+        "matrikelnummer": 3142044,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaczmarek",
-        "plzort": "78048 Villingen-Schwenningen",
+        "nachname": "Wagener",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Hutbergblick 0",
+        "strasse": "Kernausteig 11",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Physik der Erde und Atmosph\u00e4re",
+                "fsem": 3
             }
         ],
-        "vorname": "Siegrid",
+        "vorname": "Ella",
         "weiblich": true
     }
 }

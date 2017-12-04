@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1720578,
+    "nummer": 1441263,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.06.1993",
-        "matrikelnummer": 2770026,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Egger",
-        "plzort": "53131 Bonn",
+        "fakultaet": 4,
+        "geburtsdatum": "18.02.1997",
+        "matrikelnummer": 1942135,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Gaul",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Oskar-Sommer-Stra\u00dfe 4",
+        "strasse": "Heugasse 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
-                "fsem": 10
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Lara",
-        "weiblich": true
+        "vorname": "Nicolaus",
+        "weiblich": false
     }
 }

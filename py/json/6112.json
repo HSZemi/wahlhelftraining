@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1217751,
+    "nummer": 2340290,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "10.03.1993",
-        "matrikelnummer": 3013243,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "05.01.1999",
+        "matrikelnummer": 2541488,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Radloff",
-        "plzort": "53152 Bonn",
+        "nachname": "Baldauf",
+        "plzort": "92724 Trabitz",
         "sternchen": 0,
-        "strasse": "Kirchberggasse 9",
+        "strasse": "Terscheckstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 9
             }
         ],
-        "vorname": "Maike",
-        "weiblich": true
+        "vorname": "Harro",
+        "weiblich": false
     }
 }

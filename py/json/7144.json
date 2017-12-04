@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2602724,
+    "nummer": 2719404,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.04.1989",
-        "matrikelnummer": 2435714,
+        "fakultaet": 4,
+        "geburtsdatum": "05.09.1991",
+        "matrikelnummer": 2237493,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rudloff",
-        "plzort": "53156 Bonn",
+        "nachname": "Stolte",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Ing. Julius Raab-Stra\u00dfe 34",
+        "strasse": "Blumenweg 12",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Romy",
-        "weiblich": true
+        "vorname": "Karlhorst",
+        "weiblich": false
     }
 }

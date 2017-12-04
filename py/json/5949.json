@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2307532,
+    "nummer": 2635355,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "23.12.1991",
-        "matrikelnummer": 2769873,
+        "fakultaet": 2,
+        "geburtsdatum": "08.04.1985",
+        "matrikelnummer": 2097268,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "P\u00e4tzold",
-        "plzort": "53505 Altenahr",
+        "nachname": "Siepmann",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Hemmerichsweg 3",
+        "strasse": "Am T\u00e4nnig 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 6
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 13
             }
         ],
-        "vorname": "Friedl",
-        "weiblich": true
+        "vorname": "Erkmar",
+        "weiblich": false
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1192495,
-    "semester": "Sommersemester 2017",
+    "nummer": 1423193,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "27.05.1989",
-        "matrikelnummer": 18100,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "23.07.1994",
+        "matrikelnummer": 1958654,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Demmer",
-        "plzort": "53114 Bonn",
+        "nachname": "M\u00fchle",
+        "plzort": "19243 Wittenburg",
         "sternchen": 0,
-        "strasse": "Langenzugbr\u00fccke 12",
+        "strasse": "Stockheimer Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Astrophysik",
-                "fsem": 2
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Elly",
-        "weiblich": true
+        "vorname": "Giesbert",
+        "weiblich": false
     }
 }

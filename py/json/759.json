@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2864870,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1111797,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "25.01.1999",
-        "matrikelnummer": 152650,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "21.05.1993",
+        "matrikelnummer": 3141241,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Roller",
-        "plzort": "53158 Bonn",
+        "nachname": "Herwig",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Oskar-Zwintscher-Stra\u00dfe 3",
+        "strasse": "Theobald-Ziegler-Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 2
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             }
         ],
-        "vorname": "Gertraut",
-        "weiblich": true
+        "vorname": "Ulwin",
+        "weiblich": false
     }
 }

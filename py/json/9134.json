@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2752998,
+    "nummer": 2789137,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "14.03.1998",
-        "matrikelnummer": 2630064,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "08.12.1988",
+        "matrikelnummer": 2681367,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
         "nachname": "Wiemer",
-        "plzort": "53195 Bonn",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Langgartenstr. 0",
+        "strasse": "J\u00e4gerstra\u00dfe 6c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             }
         ],
-        "vorname": "Othmar",
+        "vorname": "Lambert",
         "weiblich": false
     }
 }

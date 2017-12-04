@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1983385,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2809750,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "18.06.1997",
-        "matrikelnummer": 1952557,
+        "fakultaet": 7,
+        "geburtsdatum": "17.02.1996",
+        "matrikelnummer": 19455,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Roscher",
-        "plzort": "53142 Bonn",
+        "nachname": "Damm",
+        "plzort": "88167 Gr\u00fcnenbach",
         "sternchen": 0,
-        "strasse": "Christophorusweg 68",
+        "strasse": "Ardestorfer Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 3
             }
         ],
-        "vorname": "Arabella",
-        "weiblich": true
+        "vorname": "Oskar",
+        "weiblich": false
     }
 }

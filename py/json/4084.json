@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2045075,
+    "nummer": 1832722,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "23.05.1993",
-        "matrikelnummer": 140122,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "10.06.1995",
+        "matrikelnummer": 166270,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rauch",
-        "plzort": "76437 Rastatt",
+        "nachname": "Scherer",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Schulweg 9",
+        "strasse": "Waizendorfer Str. 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 9
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Kunstgeschichte",
+                "fsem": 10
             }
         ],
-        "vorname": "Dorit",
+        "vorname": "Francesca",
         "weiblich": true
     }
 }

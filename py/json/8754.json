@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2836314,
+    "nummer": 2930854,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "24.09.1983",
-        "matrikelnummer": 2789784,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "28.09.1991",
+        "matrikelnummer": 115745,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinicke",
-        "plzort": "53190 Bonn",
+        "nachname": "R\u00f6\u00dfler",
+        "plzort": "66265 Heusweiler",
         "sternchen": 0,
-        "strasse": "Erna-Pinner-Stra\u00dfe 22",
+        "strasse": "Baumertstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Hermann",
-        "weiblich": false
+        "vorname": "Hildelind",
+        "weiblich": true
     }
 }

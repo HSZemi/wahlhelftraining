@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2876202,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1323147,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "22.01.1984",
-        "matrikelnummer": 145900,
+        "fakultaet": 6,
+        "geburtsdatum": "25.11.1989",
+        "matrikelnummer": 2110259,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tietjen",
-        "plzort": "53172 Bonn",
+        "nachname": "Enderle",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Grundweg 5",
+        "strasse": "Kleinfeldstr. 40",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Katholische Religionslehre",
+                "abschluss": "Promotion",
+                "fach": "Informatik",
                 "fsem": 4
             },
             {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 9
             }
         ],
-        "vorname": "Arndt",
-        "weiblich": false
+        "vorname": "Waltraut",
+        "weiblich": true
     }
 }

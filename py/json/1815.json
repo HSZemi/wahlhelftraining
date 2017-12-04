@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1754338,
+    "nummer": 2941318,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "01.09.1993",
-        "matrikelnummer": 2258051,
+        "fakultaet": 1,
+        "geburtsdatum": "01.10.1994",
+        "matrikelnummer": 2110683,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Winkelmann",
-        "plzort": "65558 Holzheim",
+        "nachname": "Neufeld",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Sanatoriumsweg 4",
+        "strasse": "Meraner Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Barbli",
+        "vorname": "Erika",
         "weiblich": true
     }
 }

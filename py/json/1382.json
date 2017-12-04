@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1635107,
+    "nummer": 1541168,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 5,
-        "geburtsdatum": "01.04.1993",
-        "matrikelnummer": 2329285,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Falke",
-        "plzort": "25474 B\u00f6nningstedt",
+        "geburtsdatum": "03.01.1989",
+        "matrikelnummer": 15472,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Welker",
+        "plzort": "76597 Loffenau",
         "sternchen": 0,
-        "strasse": "Caumannsstra\u00dfe 12",
+        "strasse": "Grethenweg 18",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Soziologie",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 9
             }
         ],
-        "vorname": "Agata",
-        "weiblich": true
+        "vorname": "Berni",
+        "weiblich": false
     }
 }

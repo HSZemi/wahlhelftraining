@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2880105,
+    "nummer": 2949272,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.03.1999",
-        "matrikelnummer": 2506807,
+        "fakultaet": 5,
+        "geburtsdatum": "25.08.1991",
+        "matrikelnummer": 2985362,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rausch",
-        "plzort": "53131 Bonn",
+        "nachname": "Blankenburg",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Franz Josefs-Platz 0",
+        "strasse": "Wurgwitzer Stra\u00dfe 24",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Margitta",
-        "weiblich": true
+        "vorname": "Heyko",
+        "weiblich": false
     }
 }

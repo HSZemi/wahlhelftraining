@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2982508,
+    "nummer": 2167865,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.04.1988",
-        "matrikelnummer": 2927846,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "24.05.1994",
+        "matrikelnummer": 2625060,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00fcchel",
-        "plzort": "53213 Bonn",
+        "nachname": "Luft",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Rantumer Weg 6",
+        "strasse": "Horner Wegbr\u00fccke 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
                 "fsem": 1
             }
         ],
-        "vorname": "Josefa",
+        "vorname": "Elselotte",
         "weiblich": true
     }
 }

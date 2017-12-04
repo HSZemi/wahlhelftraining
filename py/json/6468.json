@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2822178,
+    "nummer": 2238300,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.03.1994",
-        "matrikelnummer": 2459938,
+        "fakultaet": 5,
+        "geburtsdatum": "24.04.1996",
+        "matrikelnummer": 2653967,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baumgart",
-        "plzort": "53162 Bonn",
+        "nachname": "Grosser",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Amselweg 14",
+        "strasse": "Borngraben 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Rosita",
+        "vorname": "Ingried",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1500015,
-    "semester": "Sommersemester 2017",
+    "nummer": 1810275,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "04.06.1998",
-        "matrikelnummer": 3146943,
+        "fakultaet": 5,
+        "geburtsdatum": "23.07.1993",
+        "matrikelnummer": 2439124,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Gottschalk",
-        "plzort": "53218 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Blanke",
+        "plzort": "91247 Vorra",
         "sternchen": 0,
-        "strasse": "Schinkelstra\u00dfe 0",
+        "strasse": "K\u00f6pperner Stra\u00dfe 12",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Economics",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
                 "fsem": 8
             }
         ],
-        "vorname": "Anna-Luise",
+        "vorname": "Sybilla",
         "weiblich": true
     }
 }

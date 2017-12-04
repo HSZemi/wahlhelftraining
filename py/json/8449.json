@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2215503,
+    "nummer": 2231256,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "10.07.1998",
-        "matrikelnummer": 182092,
+        "fakultaet": 0,
+        "geburtsdatum": "24.11.1991",
+        "matrikelnummer": 2313684,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weishaupt",
-        "plzort": "16278 Schmargendorf",
+        "nachname": "Holzinger",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Zinnowitzer Stra\u00dfe 3",
+        "strasse": "Greifswalder Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Achaz",
+        "vorname": "Hilfried",
         "weiblich": false
     }
 }

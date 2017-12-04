@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2455448,
-    "semester": "Sommersemester 2017",
+    "nummer": 2526005,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "19.02.1993",
-        "matrikelnummer": 2456287,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wisniewski",
-        "plzort": "53145 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "27.06.1983",
+        "matrikelnummer": 2026429,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Meder",
+        "plzort": "06618 Naumburg",
         "sternchen": 0,
-        "strasse": "Alfred-Brehm-Platz 1",
+        "strasse": "Halskebr\u00fccke 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 10
             }
         ],
-        "vorname": "Friedlieb",
-        "weiblich": false
+        "vorname": "Siegried",
+        "weiblich": true
     }
 }

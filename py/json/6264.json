@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1459854,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1386703,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "26.06.1989",
-        "matrikelnummer": 2935343,
+        "geburtsdatum": "25.03.1999",
+        "matrikelnummer": 15314,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frese",
-        "plzort": "88422 Moosburg",
+        "nachname": "Temme",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Morsumer Weg 11",
+        "strasse": "Prinzenweg 4",
         "studienfaecher": [
             {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 12
+                "fach": "Zahnmedizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Catherine",
+        "vorname": "Henny",
         "weiblich": true
     }
 }

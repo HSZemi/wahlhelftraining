@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2465737,
+    "nummer": 2170311,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "13.01.1999",
-        "matrikelnummer": 2024228,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "25.12.1986",
+        "matrikelnummer": 2180022,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nitsche",
-        "plzort": "55234 Bechtolsheim",
+        "nachname": "Freudenberg",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Wachwitzer Bergstra\u00dfe 4",
+        "strasse": "Bei den Tennispl\u00e4tzen 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Wastl",
-        "weiblich": false
+        "vorname": "Philine",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1235811,
+    "nummer": 2937247,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.02.1996",
-        "matrikelnummer": 2009385,
+        "fakultaet": 6,
+        "geburtsdatum": "28.03.1994",
+        "matrikelnummer": 188614,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rosenbaum",
-        "plzort": "53169 Bonn",
+        "nachname": "Wolff",
+        "plzort": "01847 Lohmen",
         "sternchen": 0,
-        "strasse": "Burgstra\u00dfe 8",
+        "strasse": "Hunnenweg 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Geophysik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Reintraut",
-        "weiblich": true
+        "vorname": "Alois",
+        "weiblich": false
     }
 }

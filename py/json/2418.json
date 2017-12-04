@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1446856,
+    "nummer": 2079521,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "17.05.1992",
-        "matrikelnummer": 115289,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "27.12.1991",
+        "matrikelnummer": 2605334,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00e4fe",
-        "plzort": "53212 Bonn",
+        "nachname": "Maa\u00df",
+        "plzort": "14662 Vietznitz",
         "sternchen": 0,
-        "strasse": "Holbeinstra\u00dfe 8b",
+        "strasse": "Thiemanns Weg 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Indologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 9
             }
         ],
-        "vorname": "Monika",
+        "vorname": "Madlen",
         "weiblich": true
     }
 }

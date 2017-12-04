@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2523776,
+    "nummer": 1825573,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "04.03.1997",
-        "matrikelnummer": 3051313,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "28.05.1993",
+        "matrikelnummer": 2941053,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hohl",
-        "plzort": "53156 Bonn",
+        "nachname": "Hamann",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Heiderandweg 13",
+        "strasse": "Daheimweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geschichte",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Keltologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Wiltrude",
-        "weiblich": true
+        "vorname": "Traugott",
+        "weiblich": false
     }
 }

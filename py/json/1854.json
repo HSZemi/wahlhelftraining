@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2516877,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1484389,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.09.1995",
-        "matrikelnummer": 2083906,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "13.06.1994",
+        "matrikelnummer": 3048545,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jan\u00dfen",
-        "plzort": "58553 Halver",
+        "nachname": "Strack",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Am Seekanal 9",
+        "strasse": "\u00d6tv\u00f6sgarten 2",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 8
+                "fach": "Evangelische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 9
             }
         ],
-        "vorname": "Diethilde",
-        "weiblich": true
+        "vorname": "Liebhardt",
+        "weiblich": false
     }
 }

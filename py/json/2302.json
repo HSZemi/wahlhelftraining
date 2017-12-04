@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2366736,
+    "nummer": 1357779,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "18.02.1990",
-        "matrikelnummer": 2285239,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "13.02.1994",
+        "matrikelnummer": 2502511,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stevens",
-        "plzort": "57489 Drolshagen",
+        "nachname": "R\u00f6sner",
+        "plzort": "56288 Hollnich",
         "sternchen": 0,
-        "strasse": "Ahorngasse 6",
+        "strasse": "Ottendorfer Stra\u00dfe 65",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 1
+                "fach": "Geographie",
+                "fsem": 10
             }
         ],
-        "vorname": "Gero",
-        "weiblich": false
+        "vorname": "Holle",
+        "weiblich": true
     }
 }

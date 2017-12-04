@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2048073,
-    "semester": "Sommersemester 2017",
+    "nummer": 1105139,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "17.05.1986",
-        "matrikelnummer": 2895021,
+        "fakultaet": 5,
+        "geburtsdatum": "22.01.1999",
+        "matrikelnummer": 2240621,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eberhard",
-        "plzort": "53207 Bonn",
+        "nachname": "Altmeyer",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Rauenthaler Weg 0",
+        "strasse": "Thielaustra\u00dfe 30",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
+                "abschluss": "Master of Arts",
+                "fach": "\u00c4gyptologie",
                 "fsem": 2
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Mina",
-        "weiblich": true
+        "vorname": "Dominik",
+        "weiblich": false
     }
 }

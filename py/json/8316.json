@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1910922,
+    "nummer": 2796363,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "03.10.1994",
-        "matrikelnummer": 2216369,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "26.04.1992",
+        "matrikelnummer": 3039340,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dobler",
-        "plzort": "95444 Bayreuth",
+        "nachname": "Lauer",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Thormeyerstra\u00dfe 14",
+        "strasse": "Estewiesen 10",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Willy",
-        "weiblich": false
+        "vorname": "Silvia",
+        "weiblich": true
     }
 }

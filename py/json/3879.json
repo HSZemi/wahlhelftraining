@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2088141,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1967651,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.05.1993",
-        "matrikelnummer": 12567,
+        "fakultaet": 1,
+        "geburtsdatum": "17.10.1991",
+        "matrikelnummer": 2358571,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eichholz",
-        "plzort": "53142 Bonn",
+        "nachname": "Seifert",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Pelzm\u00fchlweg 7",
+        "strasse": "M\u00f6llner Landstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Chemie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Friedlieb",
-        "weiblich": false
+        "vorname": "Marlen",
+        "weiblich": true
     }
 }

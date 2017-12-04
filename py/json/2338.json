@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2380529,
+    "nummer": 2137577,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "05.11.1991",
-        "matrikelnummer": 2488187,
+        "fakultaet": 4,
+        "geburtsdatum": "07.03.1994",
+        "matrikelnummer": 2456843,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fcrer",
-        "plzort": "53215 Bonn",
+        "nachname": "Schulze",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Emser Stra\u00dfe 11",
+        "strasse": "Paul Koller-Gasse 9",
         "studienfaecher": [
             {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 9
+                "fach": "Rechtspsychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Hartlieb",
+        "vorname": "Reinfried",
         "weiblich": false
     }
 }

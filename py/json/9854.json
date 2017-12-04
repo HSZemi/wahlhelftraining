@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2719195,
+    "nummer": 2479291,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.11.1994",
-        "matrikelnummer": 2534631,
+        "fakultaet": 5,
+        "geburtsdatum": "15.04.1996",
+        "matrikelnummer": 3130908,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hellwig",
-        "plzort": "53185 Bonn",
+        "nachname": "Kusch",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Neuer Me\u00dfweg 7",
+        "strasse": "Felix-Wankel-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 9
+                "abschluss": "Master of Arts",
+                "fach": "Kulturanthropologie/Volkskunde",
+                "fsem": 6
             }
         ],
-        "vorname": "Hadburg",
+        "vorname": "Ruthild",
         "weiblich": true
     }
 }

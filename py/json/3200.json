@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2268174,
+    "nummer": 1506746,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "16.04.1993",
-        "matrikelnummer": 2142957,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "03.04.1995",
+        "matrikelnummer": 19371,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Michel",
-        "plzort": "53222 Bonn",
+        "nachname": "Grebe",
+        "plzort": "47443 Moers",
         "sternchen": 0,
-        "strasse": "Dunantstr. 14",
+        "strasse": "Krugtwiete 13a",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 7
             }
         ],
-        "vorname": "Jonas",
+        "vorname": "Ralph",
         "weiblich": false
     }
 }

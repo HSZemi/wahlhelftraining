@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2054633,
+    "nummer": 1655666,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "12.07.1994",
-        "matrikelnummer": 2739273,
+        "geburtsdatum": "05.02.1989",
+        "matrikelnummer": 172710,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holz",
-        "plzort": "26556 Nenndorf",
+        "nachname": "Kutz",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-List-Stra\u00dfe 1",
+        "strasse": "Richard-Wagner-Stra\u00dfe 2c",
         "studienfaecher": [
             {
                 "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
+                "fach": "Medizinische Biometrie",
                 "fsem": 6
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Cordian",
-        "weiblich": false
+        "vorname": "Margarete",
+        "weiblich": true
     }
 }

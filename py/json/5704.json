@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2001849,
+    "nummer": 2526481,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "12.08.1990",
-        "matrikelnummer": 2568564,
+        "fakultaet": 2,
+        "geburtsdatum": "13.06.1999",
+        "matrikelnummer": 1961336,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fabian",
-        "plzort": "53123 Bonn",
+        "nachname": "Dengler",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Gustav-Schwab-Stra\u00dfe 18",
+        "strasse": "Sporergasse 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
                 "fsem": 1
             }
         ],
-        "vorname": "Martine",
+        "vorname": "Filiz",
         "weiblich": true
     }
 }

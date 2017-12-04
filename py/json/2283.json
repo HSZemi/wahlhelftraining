@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2854988,
+    "nummer": 2428954,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.01.1997",
-        "matrikelnummer": 2381161,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "04.08.1991",
+        "matrikelnummer": 2934191,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schl\u00f6mer",
-        "plzort": "53181 Bonn",
+        "nachname": "Scheuer",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Frankenstra\u00dfe 7",
+        "strasse": "Andersenweg 10",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Italianistik",
+                "fsem": 7
             },
             {
                 "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Magrit",
+        "vorname": "Jenny",
         "weiblich": true
     }
 }

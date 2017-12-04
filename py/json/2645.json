@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2158372,
+    "nummer": 1053520,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.02.1995",
-        "matrikelnummer": 16096,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "06.04.1990",
+        "matrikelnummer": 2957145,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hille",
-        "plzort": "88361 Altshausen",
+        "nachname": "Fath",
+        "plzort": "87448 Waltenhofen",
         "sternchen": 0,
-        "strasse": "Schneidweg 2",
+        "strasse": "Roritzerstr. 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Wolff",
-        "weiblich": false
+        "vorname": "Stilla",
+        "weiblich": true
     }
 }

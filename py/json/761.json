@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1642387,
+    "nummer": 1176803,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.08.1986",
-        "matrikelnummer": 2961505,
+        "fakultaet": 7,
+        "geburtsdatum": "16.05.1990",
+        "matrikelnummer": 2660804,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dressler",
-        "plzort": "53122 Bonn",
+        "nachname": "Mutschler",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Wingertstra\u00dfe 3c",
+        "strasse": "Ullersdorfer Landstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Informatik",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Melita",
-        "weiblich": true
+        "vorname": "Ambros",
+        "weiblich": false
     }
 }

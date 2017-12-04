@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2337010,
+    "nummer": 2632752,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "06.02.1995",
-        "matrikelnummer": 2276778,
+        "fakultaet": 5,
+        "geburtsdatum": "09.09.1991",
+        "matrikelnummer": 2242932,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schardt",
-        "plzort": "88356 Ostrach",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Fleischhauer",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Magdeburger Stra\u00dfe 3",
+        "strasse": "Sch\u00fcrbeker Bogen 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Romanistik/Iberoromanische Philologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Elgard",
-        "weiblich": true
+        "vorname": "Giesbert",
+        "weiblich": false
     }
 }

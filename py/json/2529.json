@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2728487,
+    "nummer": 2411194,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "10.01.1995",
-        "matrikelnummer": 3164678,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kindler",
-        "plzort": "55432 Niederburg",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "01.03.1999",
+        "matrikelnummer": 1956119,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wei\u00dfer",
+        "plzort": "40597 D\u00fcsseldorf",
         "sternchen": 0,
-        "strasse": "Leo-Tolstoj-Stra\u00dfe 6",
+        "strasse": "Ziegelgasse 6a",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Marena",
-        "weiblich": true
+        "vorname": "Hansgerd",
+        "weiblich": false
     }
 }

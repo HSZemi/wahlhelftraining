@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2954265,
+    "nummer": 2882864,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.06.1999",
-        "matrikelnummer": 2133201,
+        "fakultaet": 5,
+        "geburtsdatum": "19.07.1996",
+        "matrikelnummer": 2881720,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Busch",
-        "plzort": "53171 Bonn",
+        "nachname": "Sch\u00f6nberg",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Kolberger Weg 15",
+        "strasse": "Rudolf-Sch\u00e4fer-Anlage 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Sieglinde",
-        "weiblich": true
+        "vorname": "Axel",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2527447,
+    "nummer": 1432985,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.06.1996",
-        "matrikelnummer": 14359,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "12.08.1999",
+        "matrikelnummer": 3125144,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Birner",
-        "plzort": "53227 Bonn",
+        "nachname": "Lenzen",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Quarck-Stra\u00dfe 13",
+        "strasse": "Schwansburg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geographie",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Evi",
-        "weiblich": true
+        "vorname": "Reinwald",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1479585,
+    "nummer": 1615131,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "23.03.1994",
-        "matrikelnummer": 1908341,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "17.02.1987",
+        "matrikelnummer": 3117714,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lau",
-        "plzort": "53141 Bonn",
+        "nachname": "Dietrich",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Wernerplatz 3",
+        "strasse": "Vogesenweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 2
             }
         ],
-        "vorname": "Hagen",
+        "vorname": "Oliver",
         "weiblich": false
     }
 }

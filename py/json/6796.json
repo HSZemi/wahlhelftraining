@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2639588,
+    "nummer": 2069442,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.05.1999",
-        "matrikelnummer": 13871,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "04.11.1992",
+        "matrikelnummer": 3179752,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Markert",
-        "plzort": "53215 Bonn",
+        "nachname": "Lentz",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Josef Lentsch-Stra\u00dfe 6",
+        "strasse": "Gompitzer H\u00f6he 17",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 1
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Diether",
-        "weiblich": false
+        "vorname": "Meike",
+        "weiblich": true
     }
 }

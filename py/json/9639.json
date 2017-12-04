@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1913676,
+    "nummer": 1136838,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.08.1982",
-        "matrikelnummer": 2353334,
+        "fakultaet": 8,
+        "geburtsdatum": "01.10.1990",
+        "matrikelnummer": 1977680,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Brehmer",
-        "plzort": "53211 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Wagenknecht",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Hertz-Stra\u00dfe 4",
+        "strasse": "Hohenstaufenstra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Mikrobiologie",
-                "fsem": 4
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Maya",
-        "weiblich": true
+        "vorname": "Sylvester",
+        "weiblich": false
     }
 }

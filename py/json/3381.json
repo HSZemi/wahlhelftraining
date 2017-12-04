@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1630505,
+    "nummer": 1902057,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "21.04.1999",
-        "matrikelnummer": 3086631,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "05.09.1993",
+        "matrikelnummer": 2713304,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "W\u00fcrfel",
-        "plzort": "68305 Mannheim",
+        "nachname": "Brink",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Rothschildallee 11",
+        "strasse": "Ernst-Wiss-Stra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Jonathan",
+        "vorname": "Sibrand",
         "weiblich": false
     }
 }

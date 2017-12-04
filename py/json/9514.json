@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1976348,
+    "nummer": 1190363,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.09.1986",
-        "matrikelnummer": 18726,
+        "fakultaet": 8,
+        "geburtsdatum": "26.03.1995",
+        "matrikelnummer": 2628539,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fl\u00fcgel",
-        "plzort": "53123 Bonn",
+        "nachname": "Risch",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Bodenschneidstr. 0",
+        "strasse": "Stargarder Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Falko",
+        "vorname": "Burkardt",
         "weiblich": false
     }
 }

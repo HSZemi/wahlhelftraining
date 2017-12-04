@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1267853,
+    "nummer": 1202725,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "25.08.1996",
-        "matrikelnummer": 2166979,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "07.12.1993",
+        "matrikelnummer": 3165703,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Binder",
-        "plzort": "53195 Bonn",
+        "nachname": "Felber",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Uhlfelderstra\u00dfe 5",
+        "strasse": "Am Horner Moor 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 2
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Ireneus",
+        "vorname": "Winand",
         "weiblich": false
     }
 }

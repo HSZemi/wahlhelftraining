@@ -4,25 +4,30 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1243204,
+    "nummer": 2665880,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "17.07.1999",
-        "matrikelnummer": 3194540,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "25.07.1998",
+        "matrikelnummer": 2709733,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53216 Bonn",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Carolaplatz 3",
+        "strasse": "Rehmstra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 13
             }
         ],
         "vorname": "Marcel",

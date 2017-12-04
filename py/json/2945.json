@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2622880,
+    "nummer": 1803557,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.11.1987",
-        "matrikelnummer": 178731,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "04.05.1989",
+        "matrikelnummer": 2110873,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bickel",
-        "plzort": "53118 Bonn",
+        "nachname": "Erhardt",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Michelsberger Str. 0",
+        "strasse": "Laubengrundweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Martin",
+        "vorname": "Titus",
         "weiblich": false
     }
 }

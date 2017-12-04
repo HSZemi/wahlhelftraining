@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1219253,
+    "nummer": 1973764,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.04.1992",
-        "matrikelnummer": 3156767,
+        "fakultaet": 5,
+        "geburtsdatum": "23.11.1996",
+        "matrikelnummer": 195759,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knoll",
-        "plzort": "53204 Bonn",
+        "nachname": "Seelig",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Billstedter M\u00fchlenweg 4",
+        "strasse": "Am Werk 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 5
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Molecular Biology and Biotechnology",
-                "fsem": 8
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Frohlinde",
-        "weiblich": true
+        "vorname": "Hilar",
+        "weiblich": false
     }
 }

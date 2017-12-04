@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1416492,
+    "nummer": 1098019,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.02.1990",
-        "matrikelnummer": 2033474,
+        "fakultaet": 5,
+        "geburtsdatum": "23.07.1991",
+        "matrikelnummer": 2845062,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Theisen",
-        "plzort": "53136 Bonn",
+        "nachname": "Schmitt",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Rembrandtstra\u00dfe 5",
+        "strasse": "Pfeuffergasse 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Gotthilf",
+        "vorname": "Adam",
         "weiblich": false
     }
 }

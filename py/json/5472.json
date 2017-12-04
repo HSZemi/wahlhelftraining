@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2571904,
+    "nummer": 2256237,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.11.1996",
-        "matrikelnummer": 2657668,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "05.10.1996",
+        "matrikelnummer": 2685740,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bitter",
-        "plzort": "97078 W\u00fcrzburg",
+        "nachname": "P\u00fctz",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Siget 4",
+        "strasse": "Am Alten Elbarm 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Chemistry",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Thea",
+        "vorname": "Sonnhild",
         "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1631766,
+    "nummer": 2372485,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.07.1986",
-        "matrikelnummer": 17162,
-        "mehrfachausfertigung": 4,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Alex",
-        "plzort": "53165 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "15.05.1994",
+        "matrikelnummer": 3156195,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Gebhardt",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Ketzendorfer Grund 4",
+        "strasse": "Helma-Steinbach-Weg 48",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Psychologie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Sprachlernforschung",
+                "abschluss": "Master of Science",
+                "fach": "Computer Science",
                 "fsem": 12
             }
         ],
-        "vorname": "Dorina",
-        "weiblich": true
+        "vorname": "Sighard",
+        "weiblich": false
     }
 }

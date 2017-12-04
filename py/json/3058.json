@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1325003,
+    "nummer": 2254880,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.02.1993",
-        "matrikelnummer": 2343365,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "14.06.1992",
+        "matrikelnummer": 1900049,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00e4uer",
-        "plzort": "91580 Petersaurach",
+        "nachname": "Werth",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Bonnewitzer Weg 3",
+        "strasse": "Rossittener Stra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Skandinavistik",
-                "fsem": 11
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Willmar",
+        "vorname": "Diethard",
         "weiblich": false
     }
 }

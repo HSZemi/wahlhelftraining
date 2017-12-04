@@ -4,43 +4,28 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1091234,
+    "nummer": 2025403,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "05.05.1992",
-        "matrikelnummer": 2735427,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "26.12.1991",
+        "matrikelnummer": 2743599,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hoyer",
-        "plzort": "17424 Heringsdorf",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Brix",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Rilkestra\u00dfe 4",
+        "strasse": "Elbestra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
                 "fsem": 12
             }
         ],
-        "vorname": "Birge",
+        "vorname": "Roselotte",
         "weiblich": true
     }
 }

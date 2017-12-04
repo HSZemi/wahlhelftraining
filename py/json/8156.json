@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1518714,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2000872,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.01.1993",
-        "matrikelnummer": 3142781,
+        "fakultaet": 1,
+        "geburtsdatum": "05.08.1990",
+        "matrikelnummer": 2683428,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Freyer",
-        "plzort": "33161 H\u00f6velhof",
+        "nachname": "K\u00fcppers",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Grabengasse 6",
+        "strasse": "Julius-Scholtz-Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Mikrobiologie",
-                "fsem": 12
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 13
             }
         ],
-        "vorname": "Rebecka",
+        "vorname": "Antja",
         "weiblich": true
     }
 }

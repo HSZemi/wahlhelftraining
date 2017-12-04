@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1208891,
+    "nummer": 1004770,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.04.1995",
-        "matrikelnummer": 2292079,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "04.08.1991",
+        "matrikelnummer": 3179409,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Radke",
-        "plzort": "53163 Bonn",
+        "nachname": "Merkel",
+        "plzort": "83661 Lenggries",
         "sternchen": 0,
-        "strasse": "Ellerstra\u00dfe 2",
+        "strasse": "Dorfmeistergasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Klassische Arch\u00e4ologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Gerald",
-        "weiblich": false
+        "vorname": "Mirjana",
+        "weiblich": true
     }
 }

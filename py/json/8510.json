@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1165754,
+    "nummer": 2133493,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.06.1998",
-        "matrikelnummer": 2921710,
+        "fakultaet": 4,
+        "geburtsdatum": "27.06.1985",
+        "matrikelnummer": 1985870,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Ga\u00dfner",
-        "plzort": "41334 Nettetal",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Dombrowski",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Rotdornstra\u00dfe 10",
+        "strasse": "Ferdinand-Braun-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 8
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Ignaz",
+        "vorname": "Jost",
         "weiblich": false
     }
 }

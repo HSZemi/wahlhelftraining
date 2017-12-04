@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1758234,
+    "nummer": 1305228,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "27.04.1999",
-        "matrikelnummer": 2454602,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "05.04.1993",
+        "matrikelnummer": 2031160,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wurm",
-        "plzort": "53225 Bonn",
+        "nachname": "Breidenbach",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Am Horner Moor 2",
+        "strasse": "Seefelder Weg 24",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Irmtraud",
-        "weiblich": true
+        "vorname": "Jacob",
+        "weiblich": false
     }
 }

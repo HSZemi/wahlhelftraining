@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1587785,
+    "nummer": 1548888,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.04.1994",
-        "matrikelnummer": 2088248,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "05.03.1997",
+        "matrikelnummer": 3007346,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Geppert",
-        "plzort": "53155 Bonn",
+        "nachname": "Blumenthal",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Steinauer Stra\u00dfe 10",
+        "strasse": "Urseler Weg 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 5
             }
         ],
-        "vorname": "Boto",
-        "weiblich": false
+        "vorname": "Patricia",
+        "weiblich": true
     }
 }

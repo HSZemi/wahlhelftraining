@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2798375,
+    "nummer": 1787540,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.10.1993",
-        "matrikelnummer": 19449,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "28.02.1995",
+        "matrikelnummer": 3107518,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Henseler",
-        "plzort": "53228 Bonn",
+        "nachname": "Schuchardt",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Windm\u00fchlenweg 18",
+        "strasse": "Am Dorfende 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Biologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Friedel",
-        "weiblich": false
+        "vorname": "Liliane",
+        "weiblich": true
     }
 }

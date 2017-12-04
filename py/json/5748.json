@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2893426,
+    "nummer": 2309182,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "15.05.1999",
-        "matrikelnummer": 2368223,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "23.11.1997",
+        "matrikelnummer": 117853,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lamprecht",
-        "plzort": "53146 Bonn",
+        "nachname": "Stelter",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Berg.-Gladbacher-Str. 7",
+        "strasse": "Rose-Schloesinger-Anlage 35",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Christella",
+        "vorname": "Ingelinde",
         "weiblich": true
     }
 }

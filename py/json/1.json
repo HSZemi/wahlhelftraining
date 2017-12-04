@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1402723,
+    "nummer": 1939493,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.09.1998",
-        "matrikelnummer": 11464,
+        "fakultaet": 3,
+        "geburtsdatum": "15.01.1998",
+        "matrikelnummer": 2040781,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53123 Bonn",
+        "nachname": "Heinen",
+        "plzort": "72505 Krauchenwies",
         "sternchen": 0,
-        "strasse": "Galvanistra\u00dfe 8",
+        "strasse": "K\u00f6nigsufer 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 11
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 4
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

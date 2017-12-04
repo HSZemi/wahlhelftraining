@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1596089,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1874673,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "21.05.1992",
-        "matrikelnummer": 2853517,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "05.03.1993",
+        "matrikelnummer": 2192509,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steck",
-        "plzort": "53196 Bonn",
+        "nachname": "Landwehr",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Pastor-Dubbels-Weg 10",
+        "strasse": "Zur Bockm\u00fchle 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Sigmund",
-        "weiblich": false
+        "vorname": "Adeltraut",
+        "weiblich": true
     }
 }

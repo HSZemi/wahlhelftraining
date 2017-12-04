@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2328198,
+    "nummer": 1452381,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "18.06.1997",
-        "matrikelnummer": 2518034,
+        "geburtsdatum": "19.06.1994",
+        "matrikelnummer": 3033583,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Starke",
-        "plzort": "53209 Bonn",
+        "nachname": "Ertl",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "\u00dcberlinger Weg 6b",
+        "strasse": "Poggenpohl 5c",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Neurosciences",
-                "fsem": 5
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Susanna",
+        "vorname": "Anneruth",
         "weiblich": true
     }
 }

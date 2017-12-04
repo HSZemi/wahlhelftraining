@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2665656,
-    "semester": "Sommersemester 2017",
+    "nummer": 1418230,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "20.12.1988",
-        "matrikelnummer": 3117070,
+        "fakultaet": 5,
+        "geburtsdatum": "23.03.1996",
+        "matrikelnummer": 131050,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steininger",
-        "plzort": "15326 Podelzig",
+        "nachname": "Meiser",
+        "plzort": "74925 Epfenbach",
         "sternchen": 0,
-        "strasse": "Altklosterbergstra\u00dfe 5",
+        "strasse": "An der Winkelwiese 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Anglistik/Neuere Englische Literatur",
+                "fsem": 11
             }
         ],
-        "vorname": "Inkmar",
-        "weiblich": false
+        "vorname": "Janette",
+        "weiblich": true
     }
 }

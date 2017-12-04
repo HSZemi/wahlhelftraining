@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1587908,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1288668,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "27.09.1999",
-        "matrikelnummer": 2088325,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "22.01.1983",
+        "matrikelnummer": 2133371,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kraus",
-        "plzort": "53216 Bonn",
+        "nachname": "Weimer",
+        "plzort": "54675 Hommerdingen",
         "sternchen": 0,
-        "strasse": "Storchgasse 7",
+        "strasse": "Am Viverdamm 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Anette",
+        "vorname": "Herlinde",
         "weiblich": true
     }
 }

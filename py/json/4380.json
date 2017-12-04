@@ -4,28 +4,38 @@
         "gremien": true,
         "sp": true
     },
-    "nummer": 1802632,
+    "nummer": 1379721,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.11.1994",
-        "matrikelnummer": 12329,
+        "fakultaet": 8,
+        "geburtsdatum": "01.06.1987",
+        "matrikelnummer": 2385252,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Faust",
-        "plzort": "53153 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Neubert",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Braunstieg 4",
+        "strasse": "Sankt-Antoni-Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Informatik",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 2
             }
         ],
-        "vorname": "Mischel",
-        "weiblich": false
+        "vorname": "Tanja",
+        "weiblich": true
     }
 }

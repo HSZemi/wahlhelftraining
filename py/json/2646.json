@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2224949,
+    "nummer": 1364400,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "24.07.1995",
-        "matrikelnummer": 124551,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Stemmer",
-        "plzort": "18246 Zepelin",
+        "fakultaet": 0,
+        "geburtsdatum": "17.10.1991",
+        "matrikelnummer": 2322670,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Rath",
+        "plzort": "63457 Hanau",
         "sternchen": 0,
-        "strasse": "Westende 6",
+        "strasse": "Sandkoppelweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Kulturstudien zu Lateinamerika/Estudios culturales de America Latina",
+                "fsem": 2
             }
         ],
-        "vorname": "Konstantin",
-        "weiblich": false
+        "vorname": "Janina",
+        "weiblich": true
     }
 }

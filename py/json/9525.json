@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2842863,
+    "nummer": 1168734,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "17.12.1992",
-        "matrikelnummer": 128864,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "17.03.1993",
+        "matrikelnummer": 2076689,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ehrhardt",
-        "plzort": "53118 Bonn",
+        "nachname": "Lehnen",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Karpatenstra\u00dfe 5",
+        "strasse": "Glasbergstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Rudolph",
-        "weiblich": false
+        "vorname": "Annetrude",
+        "weiblich": true
     }
 }

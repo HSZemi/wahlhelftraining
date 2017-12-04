@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2693919,
+    "nummer": 1997851,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "27.10.1989",
-        "matrikelnummer": 2351296,
+        "fakultaet": 9,
+        "geburtsdatum": "06.08.1998",
+        "matrikelnummer": 13392,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heilig",
-        "plzort": "53111 Bonn",
+        "nachname": "Hassel",
+        "plzort": "63303 Dreieich",
         "sternchen": 0,
-        "strasse": "Melanchthonplatz 19",
+        "strasse": "Anton-Weck-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Biologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Englisch",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Haymo",
+        "vorname": "Reinwald",
         "weiblich": false
     }
 }

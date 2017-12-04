@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1205215,
+    "nummer": 2958649,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.05.1990",
-        "matrikelnummer": 3163451,
+        "fakultaet": 8,
+        "geburtsdatum": "03.03.1999",
+        "matrikelnummer": 2630452,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Pfennig",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Specht",
         "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Am Goldenen Stiefel 15",
+        "strasse": "Winkelweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Effi",
-        "weiblich": true
+        "vorname": "Degenhardt",
+        "weiblich": false
     }
 }

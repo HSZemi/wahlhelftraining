@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2062654,
+    "nummer": 2496025,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "09.10.1999",
-        "matrikelnummer": 2556584,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "10.05.1988",
+        "matrikelnummer": 2987354,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rosenberg",
-        "plzort": "55546 Biebelsheim",
+        "nachname": "Dahl",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Dreik\u00f6nigstra\u00dfe 0",
+        "strasse": "An der Schule 15",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Hanskarl",
-        "weiblich": false
+        "vorname": "Celia",
+        "weiblich": true
     }
 }

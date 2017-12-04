@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2910385,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1278068,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.01.1987",
-        "matrikelnummer": 1999363,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "12.06.1991",
+        "matrikelnummer": 2691995,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schatz",
-        "plzort": "53144 Bonn",
+        "nachname": "Beller",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Fl\u00f6rsheimer Stra\u00dfe 5",
+        "strasse": "Buhnenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Sebald",
-        "weiblich": false
+        "vorname": "Annamaria",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1340251,
+    "nummer": 1977055,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.06.1991",
-        "matrikelnummer": 3107023,
+        "fakultaet": 4,
+        "geburtsdatum": "25.01.1998",
+        "matrikelnummer": 2643342,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thimm",
-        "plzort": "06369 Zabitz",
+        "nachname": "Utz",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Wei\u00dffrauenstra\u00dfe 6",
+        "strasse": "Berlinertordamm 23b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 4
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 1
             }
         ],
-        "vorname": "Friedhart",
+        "vorname": "Sigismund",
         "weiblich": false
     }
 }

@@ -1,28 +1,38 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2189087,
+    "nummer": 2591436,
     "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.10.1993",
-        "matrikelnummer": 2463974,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
+        "fakultaet": 8,
+        "geburtsdatum": "14.09.1991",
+        "matrikelnummer": 2617681,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "53181 Bonn",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Lina-Meyer-Stra\u00dfe 21",
+        "strasse": "Hauptplatz 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 13
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
         "vorname": "Sven",

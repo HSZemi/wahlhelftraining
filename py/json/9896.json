@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2821413,
+    "nummer": 1993563,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "01.05.1997",
-        "matrikelnummer": 2901395,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "09.03.1989",
+        "matrikelnummer": 2879731,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kuhl",
-        "plzort": "53122 Bonn",
+        "nachname": "B\u00e4hr",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Johann-Georg-Elser-Stra\u00dfe 0",
+        "strasse": "Unterer Kreutberg 18",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Mathematik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Biologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Lebrecht",
-        "weiblich": false
+        "vorname": "Anny",
+        "weiblich": true
     }
 }

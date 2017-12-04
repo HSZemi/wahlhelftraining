@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1500461,
+    "nummer": 1158657,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "25.10.1997",
-        "matrikelnummer": 3114565,
+        "fakultaet": 1,
+        "geburtsdatum": "08.11.1997",
+        "matrikelnummer": 2083327,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Drexler",
-        "plzort": "53113 Bonn",
+        "nachname": "Klug",
+        "plzort": "07429 Sitzendorf",
         "sternchen": 0,
-        "strasse": "Saxoniastra\u00dfe 27",
+        "strasse": "Kinzigstra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Ingelinde",
-        "weiblich": true
+        "vorname": "Gerhart",
+        "weiblich": false
     }
 }

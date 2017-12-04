@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2371899,
-    "semester": "Sommersemester 2017",
+    "nummer": 1890823,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.05.1994",
-        "matrikelnummer": 14967,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "03.08.1996",
+        "matrikelnummer": 2321044,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rosenthal",
-        "plzort": "53186 Bonn",
+        "nachname": "Probst",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Collenbuschstra\u00dfe 11",
+        "strasse": "Lauensteiner Stra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 7
+                "fach": "Physik der Erde und Atmosph\u00e4re",
+                "fsem": 2
             }
         ],
-        "vorname": "Nikola",
+        "vorname": "Jacqueline",
         "weiblich": true
     }
 }

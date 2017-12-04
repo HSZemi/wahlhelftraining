@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1127329,
+    "nummer": 2384934,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "11.08.1992",
-        "matrikelnummer": 187298,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "16.07.1988",
+        "matrikelnummer": 3021507,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Selle",
-        "plzort": "53117 Bonn",
+        "nachname": "Vogt",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Jollassestieg 1e",
+        "strasse": "Hanssensweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 13
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 2
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Torge",
-        "weiblich": false
+        "vorname": "Susanne",
+        "weiblich": true
     }
 }

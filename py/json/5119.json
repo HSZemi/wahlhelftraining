@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1505316,
+    "nummer": 1437708,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "11.09.1997",
-        "matrikelnummer": 1963534,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "12.09.1986",
+        "matrikelnummer": 2872660,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ertl",
-        "plzort": "53126 Bonn",
+        "nachname": "Daum",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Am Friedhof 6",
+        "strasse": "Raugasse 10c",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Ewald",
+        "vorname": "Ortwin",
         "weiblich": false
     }
 }

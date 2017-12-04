@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2085922,
+    "nummer": 1106995,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "08.06.1992",
-        "matrikelnummer": 3107197,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "28.11.1998",
+        "matrikelnummer": 17075,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Messer",
-        "plzort": "53226 Bonn",
+        "nachname": "Mielke",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Bode-Stra\u00dfe 0",
+        "strasse": "Renkfeldweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 11
             }
         ],
-        "vorname": "Isabelle",
+        "vorname": "Anne",
         "weiblich": true
     }
 }

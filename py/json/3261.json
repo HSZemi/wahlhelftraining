@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2862452,
+    "nummer": 1873169,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.10.1992",
-        "matrikelnummer": 2522452,
+        "fakultaet": 5,
+        "geburtsdatum": "16.01.1988",
+        "matrikelnummer": 2992553,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Rohr",
-        "plzort": "84333 Malgersdorf",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kloos",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Degelestra\u00dfe 18",
+        "strasse": "Pulverteich 25",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Philosophie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 3
             }
         ],
-        "vorname": "Philipp",
-        "weiblich": false
+        "vorname": "Rosie",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2277204,
+    "nummer": 1606117,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.05.1995",
-        "matrikelnummer": 2301403,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "08.06.1999",
+        "matrikelnummer": 183059,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Forster",
-        "plzort": "55234 Framersheim",
+        "nachname": "Ebeling",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Berggie\u00dfh\u00fcbler Stra\u00dfe 9",
+        "strasse": "Kerbt\u00e4lchen 16b",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Arch\u00e4ologien",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch als Zweit- und Fremdsprache",
+                "fsem": 2
             }
         ],
-        "vorname": "Bernhardt",
+        "vorname": "Karleugen",
         "weiblich": false
     }
 }

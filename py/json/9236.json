@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1650079,
+    "nummer": 1810329,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.07.1996",
-        "matrikelnummer": 142186,
+        "fakultaet": 8,
+        "geburtsdatum": "09.12.1994",
+        "matrikelnummer": 2063552,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nadler",
-        "plzort": "53226 Bonn",
+        "nachname": "Mann",
+        "plzort": "47443 Moers",
         "sternchen": 0,
-        "strasse": "Friedberger Tor 4c",
+        "strasse": "K\u00f6hlerstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Withold",
+        "vorname": "Siegenot",
         "weiblich": false
     }
 }

@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2478084,
+    "nummer": 1576445,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "16.11.1997",
-        "matrikelnummer": 2379683,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "26.03.1997",
+        "matrikelnummer": 3020252,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00fcmmer",
-        "plzort": "53155 Bonn",
+        "nachname": "Dyck",
+        "plzort": "23968 Zierow",
         "sternchen": 0,
-        "strasse": "Hainsberger Stra\u00dfe 2",
+        "strasse": "Hultschiner Stra\u00dfe 35",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Geschichte",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Englisch",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 12
             }
         ],
-        "vorname": "Timon",
-        "weiblich": false
+        "vorname": "Sabine",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1894466,
+    "nummer": 1299727,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "21.12.1983",
-        "matrikelnummer": 2789664,
+        "fakultaet": 6,
+        "geburtsdatum": "16.10.1997",
+        "matrikelnummer": 2749001,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53158 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "39279 Rosian",
         "sternchen": 0,
-        "strasse": "Am Burghof 6",
+        "strasse": "Rauschenberger Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Computer Science",
+                "fsem": 2
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

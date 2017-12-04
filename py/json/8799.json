@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1631207,
+    "nummer": 2245380,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "19.03.1995",
-        "matrikelnummer": 124898,
+        "fakultaet": 4,
+        "geburtsdatum": "04.06.1988",
+        "matrikelnummer": 2148062,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Walker",
-        "plzort": "53165 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "B\u00f6hnke",
+        "plzort": "06727 Thei\u00dfen",
         "sternchen": 0,
-        "strasse": "Krebser Stra\u00dfe 5",
+        "strasse": "Am Bahnhof Ottensen 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 4
             }
         ],
-        "vorname": "Dorlinde",
+        "vorname": "Adelinde",
         "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1125846,
+    "nummer": 2716591,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "26.04.1997",
-        "matrikelnummer": 177729,
+        "fakultaet": 9,
+        "geburtsdatum": "15.03.1998",
+        "matrikelnummer": 17666,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Radloff",
-        "plzort": "53174 Bonn",
+        "nachname": "Joos",
+        "plzort": "39638 Seethen",
         "sternchen": 0,
-        "strasse": "Schlinkenweg 3",
+        "strasse": "Rudolf-Bergander-Ring 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 11
             }
         ],
-        "vorname": "Wiltrudis",
+        "vorname": "Elfie",
         "weiblich": true
     }
 }

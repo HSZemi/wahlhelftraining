@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2713022,
+    "nummer": 2991030,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "16.05.1999",
-        "matrikelnummer": 2321304,
+        "fakultaet": 3,
+        "geburtsdatum": "14.02.1986",
+        "matrikelnummer": 2448565,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ladwig",
-        "plzort": "53138 Bonn",
+        "nachname": "Herber",
+        "plzort": "96178 Pommersfelden",
         "sternchen": 0,
-        "strasse": "Draesekestra\u00dfe 18",
+        "strasse": "D\u00f6hlener Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
                 "fsem": 13
             }
         ],
-        "vorname": "Linda",
+        "vorname": "Arite",
         "weiblich": true
     }
 }

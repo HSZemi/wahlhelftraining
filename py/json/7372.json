@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1995350,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2304564,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "24.03.1994",
-        "matrikelnummer": 2774651,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "17.12.1996",
+        "matrikelnummer": 2782754,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gaus",
-        "plzort": "53141 Bonn",
+        "nachname": "Sturm",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Devrientstra\u00dfe 7a",
+        "strasse": "Immenlach 1",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             },
             {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Hartfried",
+        "vorname": "Antonius",
         "weiblich": false
     }
 }

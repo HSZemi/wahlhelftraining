@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1967000,
+    "nummer": 2638759,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.05.1990",
-        "matrikelnummer": 2411618,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "21.01.1987",
+        "matrikelnummer": 3020523,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schneller",
-        "plzort": "06308 H\u00fcbitz",
+        "nachname": "Hutter",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Sachsenstra\u00dfe 0",
+        "strasse": "M\u00f6rikestra\u00dfe 12",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 7
+                "fach": "Klinische Medizintechnik",
+                "fsem": 2
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Dietram",
+        "vorname": "Wolfried",
         "weiblich": false
     }
 }

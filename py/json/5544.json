@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1113094,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2632803,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.02.1992",
-        "matrikelnummer": 2262785,
+        "fakultaet": 0,
+        "geburtsdatum": "19.01.1990",
+        "matrikelnummer": 2227128,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heiser",
-        "plzort": "54340 P\u00f6lich",
+        "nachname": "John",
+        "plzort": "67374 Hanhofen",
         "sternchen": 0,
-        "strasse": "Horner Stieg 27",
+        "strasse": "Birkenweg 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Irmtraut",
+        "vorname": "Romy",
         "weiblich": true
     }
 }

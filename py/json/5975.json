@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2808678,
+    "nummer": 1598652,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.06.1991",
-        "matrikelnummer": 3073820,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "01.01.1995",
+        "matrikelnummer": 11481,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiedmann",
-        "plzort": "53113 Bonn",
+        "nachname": "Sailer",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Heunischstr. 0",
+        "strasse": "Leanderweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Egidius",
+        "vorname": "Ottomar",
         "weiblich": false
     }
 }

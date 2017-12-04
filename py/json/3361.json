@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2430268,
+    "nummer": 1195462,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.05.1996",
-        "matrikelnummer": 116056,
+        "fakultaet": 7,
+        "geburtsdatum": "23.06.1990",
+        "matrikelnummer": 2722236,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Witzke",
-        "plzort": "53158 Bonn",
+        "nachname": "Thoma",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Esperantostra\u00dfe 19c",
+        "strasse": "Esztergomstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Veit",
-        "weiblich": false
+        "vorname": "Sindy",
+        "weiblich": true
     }
 }

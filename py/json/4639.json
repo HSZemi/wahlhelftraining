@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1604687,
+    "nummer": 1425018,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "23.01.1990",
-        "matrikelnummer": 2829414,
+        "fakultaet": 4,
+        "geburtsdatum": "08.06.1996",
+        "matrikelnummer": 3007351,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jakob",
-        "plzort": "97618 R\u00f6delmaier",
+        "nachname": "Knoblauch",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Gr\u00e4fendeichstra\u00dfe 14",
+        "strasse": "An der K\u00fcmmelschenke 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 3
             }
         ],
-        "vorname": "Theodora",
+        "vorname": "Janette",
         "weiblich": true
     }
 }

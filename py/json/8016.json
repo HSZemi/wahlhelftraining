@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2952544,
+    "nummer": 1498212,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "07.05.1992",
-        "matrikelnummer": 3069726,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "12.08.1997",
+        "matrikelnummer": 2045789,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Marschall",
-        "plzort": "53144 Bonn",
+        "nachname": "P\u00fcschel",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00e4renwaldstr. 4",
+        "strasse": "F\u00f6rsterlingstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
             },
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 4
             }
         ],
-        "vorname": "Otmar",
+        "vorname": "Reinbert",
         "weiblich": false
     }
 }

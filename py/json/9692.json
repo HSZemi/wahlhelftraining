@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1726651,
+    "nummer": 2998451,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.10.1991",
-        "matrikelnummer": 1999025,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "10.07.1983",
+        "matrikelnummer": 2588385,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6lzl",
-        "plzort": "53203 Bonn",
+        "nachname": "K\u00fcster",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Pfarrer-Perabo-Platz 1",
+        "strasse": "An der Turnhalle 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Tibetologie",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Kommunikationswissenschaften",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Annehild",
+        "vorname": "Hetty",
         "weiblich": true
     }
 }

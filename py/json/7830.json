@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1179493,
+    "nummer": 2377514,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "14.11.1995",
-        "matrikelnummer": 175380,
+        "fakultaet": 4,
+        "geburtsdatum": "06.08.1995",
+        "matrikelnummer": 143726,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bornemann",
-        "plzort": "53226 Bonn",
+        "nachname": "Schade",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Heiligkreuzgasse 2",
+        "strasse": "Stralsunder Weg 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Ronald",
+        "vorname": "Hansi",
         "weiblich": false
     }
 }

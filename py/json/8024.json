@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": true
     },
-    "nummer": 2294105,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1191325,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.11.1986",
-        "matrikelnummer": 2822520,
+        "fakultaet": 0,
+        "geburtsdatum": "20.11.1996",
+        "matrikelnummer": 2281291,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Simons",
-        "plzort": "07546 Gera",
+        "nachname": "Kirch",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Gr\u00fcnland-Donnerskirchen 16",
+        "strasse": "Leonhardistra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Katholische Religionslehre",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 2
             }
         ],
-        "vorname": "Traugott",
+        "vorname": "Treufried",
         "weiblich": false
     }
 }

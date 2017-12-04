@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2296200,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2010193,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.07.1991",
-        "matrikelnummer": 2000106,
+        "fakultaet": 0,
+        "geburtsdatum": "15.07.1995",
+        "matrikelnummer": 19661,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6lzer",
-        "plzort": "53186 Bonn",
+        "nachname": "Schaefer",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Simon-Ochs-Stra\u00dfe 2",
+        "strasse": "Lorenzenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Eunike",
-        "weiblich": true
+        "vorname": "Klaus",
+        "weiblich": false
     }
 }

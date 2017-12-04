@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1559104,
+    "nummer": 2866239,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "13.02.1995",
-        "matrikelnummer": 1936693,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "04.11.1990",
+        "matrikelnummer": 3051288,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Assmann",
-        "plzort": "53173 Bonn",
+        "nachname": "Liebscher",
+        "plzort": "32425 Minden",
         "sternchen": 0,
-        "strasse": "Ernst-Heinkel-Stra\u00dfe 9",
+        "strasse": "An den Kiefern 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 12
             }
         ],
-        "vorname": "Janette",
+        "vorname": "Alwina",
         "weiblich": true
     }
 }

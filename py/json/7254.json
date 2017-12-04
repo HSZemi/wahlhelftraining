@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2895539,
+    "nummer": 1566941,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.08.1993",
-        "matrikelnummer": 2783535,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "01.07.1992",
+        "matrikelnummer": 18164,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tesch",
-        "plzort": "53158 Bonn",
+        "nachname": "Gehlen",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Pfingstbrunnenstra\u00dfe 12",
+        "strasse": "Zehntgasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 4
             }
         ],
-        "vorname": "Florian",
+        "vorname": "Otthein",
         "weiblich": false
     }
 }

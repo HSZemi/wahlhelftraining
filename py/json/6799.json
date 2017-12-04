@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1741701,
+    "nummer": 2717268,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.11.1994",
-        "matrikelnummer": 3166439,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "28.08.1990",
+        "matrikelnummer": 2679765,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siewert",
-        "plzort": "53187 Bonn",
+        "nachname": "Kremer",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Carl-Heicke-Weg 0",
+        "strasse": "Ahornweg 1",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Wiethold",
-        "weiblich": false
+        "vorname": "Engelberta",
+        "weiblich": true
     }
 }

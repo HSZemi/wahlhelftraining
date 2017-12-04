@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1553304,
+    "nummer": 1782936,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "19.01.1988",
-        "matrikelnummer": 2631197,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "16.03.1999",
+        "matrikelnummer": 2226711,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dettmer",
-        "plzort": "53137 Bonn",
+        "nachname": "Weirich",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Terrassengasse 5a",
+        "strasse": "Max-Leichter-Weg 12",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 8
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "fach": "Entwicklungsforschung",
+                "fsem": 12
             }
         ],
-        "vorname": "Nadia",
+        "vorname": "Ewa",
         "weiblich": true
     }
 }

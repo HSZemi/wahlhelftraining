@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1740425,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1796710,
+    "semester": "Sommersemester 2017",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.04.1999",
-        "matrikelnummer": 2800005,
+        "fakultaet": 4,
+        "geburtsdatum": "28.07.1985",
+        "matrikelnummer": 2336855,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diehl",
-        "plzort": "86872 Scherstetten",
+        "nachname": "Rasche",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Martin-Henrich-Anlage 8",
+        "strasse": "Hans-Kobald-Weg 7b",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "S\u00fcdostasienwissenschaft",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
             }
         ],
-        "vorname": "Lieselene",
+        "vorname": "Christiana",
         "weiblich": true
     }
 }

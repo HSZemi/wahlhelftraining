@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2862700,
+    "nummer": 2156628,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.12.1986",
-        "matrikelnummer": 3131704,
+        "fakultaet": 7,
+        "geburtsdatum": "20.06.1992",
+        "matrikelnummer": 15491,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schrage",
-        "plzort": "53200 Bonn",
+        "nachname": "Hermes",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "An der Schule 0",
+        "strasse": "Schl\u00fcterstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Klothilde",
-        "weiblich": true
+        "vorname": "Uwe",
+        "weiblich": false
     }
 }

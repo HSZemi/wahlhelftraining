@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2619705,
-    "semester": "Sommersemester 2017",
+    "nummer": 1059257,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.07.1987",
-        "matrikelnummer": 3039107,
+        "fakultaet": 2,
+        "geburtsdatum": "05.01.1995",
+        "matrikelnummer": 2714985,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53125 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Heinen",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Dora-Stock-Stra\u00dfe 1",
+        "strasse": "Josef-Dey-Weg 5",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 5
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

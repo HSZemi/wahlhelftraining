@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1202460,
+    "nummer": 1551262,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "10.08.1988",
-        "matrikelnummer": 3059695,
+        "fakultaet": 5,
+        "geburtsdatum": "23.05.1987",
+        "matrikelnummer": 2905391,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wehr",
-        "plzort": "53159 Bonn",
+        "nachname": "Busche",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Herltstra\u00dfe 4",
+        "strasse": "Margarete-Susman-Weg 16",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
+                "fach": "Chinesisch",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Vergleichende Religionswissenschaft",
                 "fsem": 3
             }
         ],
-        "vorname": "Benediktus",
-        "weiblich": false
+        "vorname": "Leila",
+        "weiblich": true
     }
 }

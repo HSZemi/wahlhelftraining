@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2605847,
+    "nummer": 2929956,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "18.07.1993",
-        "matrikelnummer": 2176528,
+        "fakultaet": 4,
+        "geburtsdatum": "22.12.1990",
+        "matrikelnummer": 141602,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tiemann",
-        "plzort": "53132 Bonn",
+        "nachname": "Grill",
+        "plzort": "65201 Wiesbaden",
         "sternchen": 0,
-        "strasse": "Beunestra\u00dfe 5",
+        "strasse": "Wilhelm-Roser-Weg 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Almtrud",
-        "weiblich": true
+        "vorname": "Engelhardt",
+        "weiblich": false
     }
 }

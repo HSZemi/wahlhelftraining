@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1157731,
+    "nummer": 2767856,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "03.06.1998",
-        "matrikelnummer": 3022742,
+        "geburtsdatum": "14.07.1991",
+        "matrikelnummer": 2553011,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bonn",
-        "plzort": "53147 Bonn",
+        "nachname": "Baumgart",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "An den Kuhbergen 4",
+        "strasse": "Heidebl\u00f6ck 20",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
+                "abschluss": "Magister Theologiae (ev.)",
                 "fach": "Evangelische Theologie",
-                "fsem": 10
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Elselore",
+        "vorname": "Mareike",
         "weiblich": true
     }
 }

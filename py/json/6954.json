@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1828474,
-    "semester": "Sommersemester 2017",
+    "nummer": 1584592,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.09.1992",
-        "matrikelnummer": 2105631,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "06.05.1991",
+        "matrikelnummer": 2849870,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fricke",
-        "plzort": "53125 Bonn",
+        "nachname": "Metzler",
+        "plzort": "25724 Neufelderkoog",
         "sternchen": 0,
-        "strasse": "Sch\u00fctzenstr. 1",
+        "strasse": "Stiller Winkel 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
                 "fsem": 10
             },
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Zahnmedizin",
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
                 "fsem": 6
             }
         ],
-        "vorname": "Siegfriede",
-        "weiblich": true
+        "vorname": "Sascha",
+        "weiblich": false
     }
 }

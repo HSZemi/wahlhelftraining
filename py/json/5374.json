@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1731848,
+    "nummer": 2839832,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.02.1990",
-        "matrikelnummer": 2451977,
+        "fakultaet": 8,
+        "geburtsdatum": "06.11.1992",
+        "matrikelnummer": 176101,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "F\u00f6rtsch",
-        "plzort": "53167 Bonn",
+        "nachname": "Puschmann",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Neumannstra\u00dfe 10",
+        "strasse": "Heinz-Herbert-Karry-Stra\u00dfe 0d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Haymo",
+        "vorname": "Ortfried",
         "weiblich": false
     }
 }

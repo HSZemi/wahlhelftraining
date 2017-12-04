@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1476197,
+    "nummer": 1992998,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "22.10.1997",
-        "matrikelnummer": 2610392,
+        "fakultaet": 5,
+        "geburtsdatum": "17.03.1992",
+        "matrikelnummer": 14201,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6rner",
-        "plzort": "09496 Pobershau",
+        "nachname": "Preuss",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Albrecht-D\u00fcrer-Str. 11",
+        "strasse": "Baumstra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Sozialwissenschaften",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Englische Philologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Medard",
-        "weiblich": false
+        "vorname": "Rosemaria",
+        "weiblich": true
     }
 }

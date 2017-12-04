@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1766400,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2532326,
+    "semester": "Sommersemester 2017",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.08.1984",
-        "matrikelnummer": 2086688,
+        "fakultaet": 1,
+        "geburtsdatum": "10.07.1993",
+        "matrikelnummer": 2130808,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wuttke",
-        "plzort": "53194 Bonn",
+        "nachname": "Pfeuffer",
+        "plzort": "34270 Schauenburg",
         "sternchen": 0,
-        "strasse": "Strahlenberger Hof 10d",
+        "strasse": "Eptingweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Roland",
-        "weiblich": false
+        "vorname": "Resilotte",
+        "weiblich": true
     }
 }

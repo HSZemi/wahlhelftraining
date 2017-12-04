@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1460162,
+    "nummer": 2583366,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.02.1992",
-        "matrikelnummer": 2668551,
+        "fakultaet": 2,
+        "geburtsdatum": "07.01.1997",
+        "matrikelnummer": 2918413,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hasse",
-        "plzort": "53122 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Arendt",
+        "plzort": "17337 Sch\u00f6nhausen",
         "sternchen": 0,
-        "strasse": "An den Ellerwiesen 0",
+        "strasse": "Von-Rothenhan-Str. 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Hansheinz",
-        "weiblich": false
+        "vorname": "Kathrin",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1853720,
+    "nummer": 2223910,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.11.1996",
-        "matrikelnummer": 16537,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "24.02.1994",
+        "matrikelnummer": 2097767,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wieland",
-        "plzort": "53129 Bonn",
+        "nachname": "Menne",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Dessauerstra\u00dfe 5",
+        "strasse": "Steintorweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Friedewald",
+        "vorname": "Florian",
         "weiblich": false
     }
 }

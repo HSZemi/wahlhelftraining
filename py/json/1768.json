@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1180542,
+    "nummer": 2882618,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.09.1999",
-        "matrikelnummer": 2765764,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "07.07.1999",
+        "matrikelnummer": 2802169,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Will",
-        "plzort": "53176 Bonn",
+        "nachname": "Kick",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Zwanzigerstra\u00dfe 18",
+        "strasse": "Ammelburgstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Artur",
-        "weiblich": false
+        "vorname": "Siegrun",
+        "weiblich": true
     }
 }

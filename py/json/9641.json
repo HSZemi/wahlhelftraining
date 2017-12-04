@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2933396,
+    "nummer": 1953932,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.10.1987",
-        "matrikelnummer": 3162745,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "23.07.1993",
+        "matrikelnummer": 181577,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baumbach",
-        "plzort": "53132 Bonn",
+        "nachname": "Ackermann",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Ermold-Stra\u00dfe 1b",
+        "strasse": "Moorfleeter Br\u00fccke 5",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Dietolf",
-        "weiblich": false
+        "vorname": "Hubertine",
+        "weiblich": true
     }
 }

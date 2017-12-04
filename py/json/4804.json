@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": true,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2544689,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2329373,
+    "semester": "Wintersemester 2016/2017",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "14.04.1996",
-        "matrikelnummer": 2014399,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "16.01.1998",
+        "matrikelnummer": 2317584,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6bel",
-        "plzort": "53146 Bonn",
+        "nachname": "Donner",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Robinienstra\u00dfe 18",
+        "strasse": "Karlsruher Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 1
+                "fach": "Evangelische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Olga",
-        "weiblich": true
+        "vorname": "Gustav",
+        "weiblich": false
     }
 }
