@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2028085,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1146828,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.03.1995",
-        "matrikelnummer": 17574,
+        "fakultaet": 5,
+        "geburtsdatum": "18.11.1994",
+        "matrikelnummer": 2854911,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gronau",
-        "plzort": "53145 Bonn",
+        "nachname": "Amend",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Foockenstra\u00dfe 17",
+        "strasse": "Seckbacher Bitzweg 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Alt-Amerikanistik",
+                "fsem": 10
             }
         ],
-        "vorname": "Benno",
-        "weiblich": false
+        "vorname": "Marisa",
+        "weiblich": true
     }
 }

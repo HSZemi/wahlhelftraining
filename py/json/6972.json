@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1197585,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2354049,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "22.04.1997",
-        "matrikelnummer": 130966,
+        "fakultaet": 4,
+        "geburtsdatum": "10.05.1998",
+        "matrikelnummer": 2103095,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schoch",
-        "plzort": "53146 Bonn",
+        "nachname": "Rommel",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00fcneburger Schanze 8",
+        "strasse": "Hallwachsstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
                 "fsem": 13
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 12
             }
         ],
-        "vorname": "Sven",
-        "weiblich": false
+        "vorname": "Ilseruth",
+        "weiblich": true
     }
 }

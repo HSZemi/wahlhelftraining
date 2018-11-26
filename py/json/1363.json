@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2452551,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2449030,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.03.1989",
-        "matrikelnummer": 3132602,
+        "fakultaet": 8,
+        "geburtsdatum": "03.01.1986",
+        "matrikelnummer": 2790435,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Oestreich",
-        "plzort": "53111 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Reil",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Julius-Campe-Weg 4",
+        "strasse": "Im Kirschenst\u00fcck 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Neurowissenschaften",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Ekkart",
-        "weiblich": false
+        "vorname": "Ilseruth",
+        "weiblich": true
     }
 }

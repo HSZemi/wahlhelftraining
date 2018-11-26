@@ -1,33 +1,28 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2757210,
-    "semester": "Sommersemester 2017",
+    "nummer": 1746448,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.08.1999",
-        "matrikelnummer": 2929726,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "14.11.1994",
+        "matrikelnummer": 2046107,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
+        "mitglied_studierendenschaft": false,
         "nachname": "Heinen",
-        "plzort": "49757 Vrees",
+        "plzort": "50677 K\u00f6ln",
         "sternchen": 0,
-        "strasse": "Wilhelm-Beckel-Stra\u00dfe 37",
+        "strasse": "Robert-Bosch-Str. 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Computational Life Sciences",
+                "fsem": 2
             }
         ],
         "vorname": "Marcel",

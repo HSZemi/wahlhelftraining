@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2002692,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2309354,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.05.1997",
-        "matrikelnummer": 2626346,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 7,
+        "geburtsdatum": "13.10.1989",
+        "matrikelnummer": 2039940,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rausch",
-        "plzort": "53206 Bonn",
+        "nachname": "Bongartz",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Marie-Luise-Kaschnitz-Stra\u00dfe 1",
+        "strasse": "Hydronstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 5
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Helwig",
-        "weiblich": false
+        "vorname": "Alheid",
+        "weiblich": true
     }
 }

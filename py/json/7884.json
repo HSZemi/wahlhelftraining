@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1101260,
-    "semester": "Sommersemester 2017",
+    "nummer": 1154005,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.09.1993",
-        "matrikelnummer": 2690677,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 2,
+        "geburtsdatum": "26.02.1990",
+        "matrikelnummer": 153983,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiegmann",
-        "plzort": "53193 Bonn",
+        "nachname": "Greiner",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Oliverstra\u00dfe 1",
+        "strasse": "Silbermannstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Molecular Biology and Biotechnology",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Sandra",
-        "weiblich": true
+        "vorname": "Maic",
+        "weiblich": false
     }
 }

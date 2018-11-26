@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1605584,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2872334,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "23.08.1999",
-        "matrikelnummer": 2090846,
+        "fakultaet": 5,
+        "geburtsdatum": "03.05.1988",
+        "matrikelnummer": 3092341,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6rtz",
-        "plzort": "53152 Bonn",
+        "nachname": "Wollny",
+        "plzort": "54539 \u00dcrzig",
         "sternchen": 0,
-        "strasse": "Alois Tomasini-Gasse 2",
+        "strasse": "Heinzstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 3
             },
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 6
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Gerthold",
-        "weiblich": false
+        "vorname": "Galina",
+        "weiblich": true
     }
 }

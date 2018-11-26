@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1145906,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1761736,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.12.1994",
-        "matrikelnummer": 2671850,
+        "fakultaet": 4,
+        "geburtsdatum": "17.12.1996",
+        "matrikelnummer": 17845,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nielsen",
-        "plzort": "53167 Bonn",
+        "nachname": "Edel",
+        "plzort": "22946 Brunsbek",
         "sternchen": 0,
-        "strasse": "Altweixdorf 0",
+        "strasse": "Weixdorfer Weg 3a",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "fach": "Medizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Irmgarda",
-        "weiblich": true
+        "vorname": "Robby",
+        "weiblich": false
     }
 }

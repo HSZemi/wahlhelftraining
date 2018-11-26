@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1335113,
-    "semester": "Sommersemester 2017",
+    "nummer": 1240627,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "10.09.1997",
-        "matrikelnummer": 2458225,
+        "fakultaet": 8,
+        "geburtsdatum": "08.09.1996",
+        "matrikelnummer": 2507240,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seemann",
-        "plzort": "53117 Bonn",
+        "nachname": "Egner",
+        "plzort": "82496 Oberau",
         "sternchen": 0,
-        "strasse": "Konstablerwache 2",
+        "strasse": "N\u00fcrnberger Str. 1",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 2
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Janine",
-        "weiblich": true
+        "vorname": "Wulf",
+        "weiblich": false
     }
 }

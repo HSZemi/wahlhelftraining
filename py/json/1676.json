@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1876060,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2004736,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "23.07.1996",
-        "matrikelnummer": 126023,
+        "geburtsdatum": "03.01.1989",
+        "matrikelnummer": 1959968,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gebauer",
-        "plzort": "53149 Bonn",
+        "nachname": "Popp",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Glitzaweg 4",
+        "strasse": "Gro\u00dfmannstra\u00dfe 19",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life and Medical Sciences",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 8
             }
         ],
-        "vorname": "Ruthilde",
-        "weiblich": true
+        "vorname": "Adalbert",
+        "weiblich": false
     }
 }

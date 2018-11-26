@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2861847,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2710986,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "13.10.1998",
-        "matrikelnummer": 2967294,
+        "geburtsdatum": "21.08.1989",
+        "matrikelnummer": 2210987,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Utz",
-        "plzort": "53212 Bonn",
+        "nachname": "Reindl",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-B\u00fcttner-Stra\u00dfe 13",
+        "strasse": "Hochlandstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 2
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             }
         ],
-        "vorname": "Ulvi",
-        "weiblich": false
+        "vorname": "Margareth",
+        "weiblich": true
     }
 }

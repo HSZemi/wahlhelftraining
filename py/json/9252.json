@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2324630,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1396140,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.07.1990",
-        "matrikelnummer": 1993930,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "02.01.1992",
+        "matrikelnummer": 2698118,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": false,
-        "nachname": "Wehner",
-        "plzort": "54533 Schwarzenborn",
+        "nachname": "Sturm",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Pfarrer-Schneider-Stra\u00dfe 24",
+        "strasse": "Wohnweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 12
             }
         ],
-        "vorname": "Gerda",
+        "vorname": "Ermenhild",
         "weiblich": true
     }
 }

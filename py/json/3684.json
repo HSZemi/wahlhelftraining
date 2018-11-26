@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1021478,
-    "semester": "Sommersemester 2017",
+    "nummer": 1262915,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.02.1987",
-        "matrikelnummer": 3001734,
+        "fakultaet": 8,
+        "geburtsdatum": "10.10.1992",
+        "matrikelnummer": 147707,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fiebig",
-        "plzort": "53113 Bonn",
+        "nachname": "Eberhardt",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Spohrstra\u00dfe 30",
+        "strasse": "Kleinseeweg 40",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 1
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Dagmar",
-        "weiblich": true
+        "vorname": "Konrad",
+        "weiblich": false
     }
 }

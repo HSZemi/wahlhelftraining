@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1534766,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2448206,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "26.10.1990",
-        "matrikelnummer": 2606878,
+        "fakultaet": 8,
+        "geburtsdatum": "16.09.1987",
+        "matrikelnummer": 2822744,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Busch",
-        "plzort": "53164 Bonn",
+        "nachname": "Dehn",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Rennersdorfer Stra\u00dfe 4c",
+        "strasse": "Schilfteichstra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Wilhard",
-        "weiblich": false
+        "vorname": "Harriet",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1510476,
-    "semester": "Sommersemester 2017",
+    "nummer": 2565406,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.10.1998",
-        "matrikelnummer": 2955622,
+        "fakultaet": 0,
+        "geburtsdatum": "23.02.1995",
+        "matrikelnummer": 1913251,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Heinen",
-        "plzort": "53223 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zemantek",
+        "plzort": "82491 Grainau",
         "sternchen": 0,
-        "strasse": "\u00dcberlinger Weg 0",
+        "strasse": "Am Seifzerbach 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 1
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

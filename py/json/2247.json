@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2260932,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2264840,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "08.12.1995",
-        "matrikelnummer": 2547122,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "09.02.1990",
+        "matrikelnummer": 2754795,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Clemens",
-        "plzort": "53121 Bonn",
+        "nachname": "R\u00f6ser",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Klagenfurter Stra\u00dfe 3",
+        "strasse": "An der Heide 6b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Geographie",
+                "fsem": 1
             }
         ],
-        "vorname": "Andrea",
-        "weiblich": true
+        "vorname": "Einhard",
+        "weiblich": false
     }
 }

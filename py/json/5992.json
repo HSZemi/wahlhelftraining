@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2479580,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1929105,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "13.11.1990",
-        "matrikelnummer": 2060119,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "04.07.1987",
+        "matrikelnummer": 2195373,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kratz",
-        "plzort": "06721 Goldschau",
+        "nachname": "Scheler",
+        "plzort": "38170 Kneitlingen",
         "sternchen": 0,
-        "strasse": "Motzstra\u00dfe 0",
+        "strasse": "Palleskestra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Theolinde",
+        "vorname": "Sofia",
         "weiblich": true
     }
 }

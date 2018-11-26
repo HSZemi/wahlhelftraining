@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2142023,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2476598,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.02.1994",
-        "matrikelnummer": 3177816,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "16.04.1995",
+        "matrikelnummer": 152714,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hoch",
-        "plzort": "53150 Bonn",
+        "nachname": "Frick",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Dessauer-Stra\u00dfe 14",
+        "strasse": "Josef-Fenzl-Stra\u00dfe 3",
         "studienfaecher": [
             {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 11
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Cornelia",
+        "vorname": "Haralda",
         "weiblich": true
     }
 }

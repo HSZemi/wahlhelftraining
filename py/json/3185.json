@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2825187,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2275562,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.12.1999",
-        "matrikelnummer": 117721,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "19.03.1994",
+        "matrikelnummer": 19074,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcgler",
-        "plzort": "53199 Bonn",
+        "nachname": "Kleiner",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Dachsgang 6",
+        "strasse": "Crottendorfer Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Isabella",
-        "weiblich": true
+        "vorname": "Horstfried",
+        "weiblich": false
     }
 }

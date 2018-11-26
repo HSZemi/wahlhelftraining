@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1930806,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2533476,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "22.07.1992",
-        "matrikelnummer": 2544637,
+        "fakultaet": 5,
+        "geburtsdatum": "11.10.1999",
+        "matrikelnummer": 2280128,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Friedel",
-        "plzort": "53196 Bonn",
+        "nachname": "Lieb",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Dreisesselbergstr. 11",
+        "strasse": "Bienenbusch 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Ottmar",
-        "weiblich": false
+        "vorname": "Zofia",
+        "weiblich": true
     }
 }

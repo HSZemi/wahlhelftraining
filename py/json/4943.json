@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2889423,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1114630,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 9,
-        "geburtsdatum": "19.03.1992",
-        "matrikelnummer": 2971609,
+        "geburtsdatum": "12.03.1992",
+        "matrikelnummer": 19343,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thom",
-        "plzort": "53132 Bonn",
+        "nachname": "Weck",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Simon Gruber-Weg 2",
+        "strasse": "Alts\u00f6brigen 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Economics",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Physik der Erde und Atmosph\u00e4re",
-                "fsem": 11
+                "fsem": 13
             }
         ],
-        "vorname": "Theohold",
+        "vorname": "Wendel",
         "weiblich": false
     }
 }

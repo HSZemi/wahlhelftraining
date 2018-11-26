@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2317934,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1623119,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.03.1999",
-        "matrikelnummer": 2390945,
+        "fakultaet": 0,
+        "geburtsdatum": "24.07.1994",
+        "matrikelnummer": 2930683,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Krebs",
-        "plzort": "53128 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Mayr",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Katersteinstra\u00dfe 8",
+        "strasse": "Kernbek 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Florine",
-        "weiblich": true
+        "vorname": "Willibert",
+        "weiblich": false
     }
 }

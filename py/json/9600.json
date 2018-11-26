@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2813873,
-    "semester": "Sommersemester 2017",
+    "nummer": 1632497,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "03.10.1997",
-        "matrikelnummer": 3096131,
+        "fakultaet": 4,
+        "geburtsdatum": "13.04.1988",
+        "matrikelnummer": 1928794,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Vollmer",
-        "plzort": "53211 Bonn",
+        "nachname": "Kie\u00dfling",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Giselbertstra\u00dfe 1",
+        "strasse": "Bollweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Mathematik",
-                "fsem": 6
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 2
             }
         ],
-        "vorname": "Hartmann",
-        "weiblich": false
+        "vorname": "Ingeburg",
+        "weiblich": true
     }
 }

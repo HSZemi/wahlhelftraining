@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2329029,
-    "semester": "Sommersemester 2017",
+    "nummer": 2610989,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "15.04.1979",
-        "matrikelnummer": 3019908,
+        "fakultaet": 1,
+        "geburtsdatum": "13.03.1986",
+        "matrikelnummer": 2012307,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00fcning",
-        "plzort": "53201 Bonn",
+        "nachname": "Scheu",
+        "plzort": "99330 Liebenstein",
         "sternchen": 0,
-        "strasse": "Kolbenbergstra\u00dfe 2",
+        "strasse": "Justinianstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 4
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 8
             }
         ],
-        "vorname": "Marit",
-        "weiblich": true
+        "vorname": "Wernfried",
+        "weiblich": false
     }
 }

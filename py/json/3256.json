@@ -2,30 +2,45 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1090513,
+    "nummer": 1333610,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "21.02.1992",
-        "matrikelnummer": 1949005,
+        "fakultaet": 8,
+        "geburtsdatum": "03.04.1993",
+        "matrikelnummer": 2379973,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grebe",
-        "plzort": "53200 Bonn",
+        "nachname": "Rost",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Prof.-Ricker-Stra\u00dfe 17c",
+        "strasse": "Dessauerstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Anglistik II",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 9
             }
         ],
-        "vorname": "Friedericke",
+        "vorname": "Susette",
         "weiblich": true
     }
 }

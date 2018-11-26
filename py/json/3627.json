@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1902946,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2137165,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "15.06.1990",
-        "matrikelnummer": 2532481,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "20.01.1990",
+        "matrikelnummer": 3134133,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "St\u00f6ber",
-        "plzort": "53217 Bonn",
+        "nachname": "K\u00f6ller",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Zellescher Weg 34",
+        "strasse": "Eichengasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 10
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
             }
         ],
-        "vorname": "Rainer",
-        "weiblich": false
+        "vorname": "Maritta",
+        "weiblich": true
     }
 }

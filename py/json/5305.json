@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2206429,
-    "semester": "Sommersemester 2017",
+    "nummer": 1771638,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "01.03.1993",
-        "matrikelnummer": 2708378,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "12.08.1992",
+        "matrikelnummer": 2079675,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfennig",
-        "plzort": "19205 Veelb\u00f6ken",
+        "nachname": "Berlin",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Louise-Seidler-Stra\u00dfe 15b",
+        "strasse": "Andreas-Lang-Steig 35",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Chemistry",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
             }
         ],
-        "vorname": "Eileen",
+        "vorname": "Anika",
         "weiblich": true
     }
 }

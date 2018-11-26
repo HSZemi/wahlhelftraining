@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2009398,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1562266,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.02.1990",
-        "matrikelnummer": 2660362,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "26.07.1998",
+        "matrikelnummer": 3160482,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gl\u00fcck",
-        "plzort": "53150 Bonn",
+        "nachname": "Dietze",
+        "plzort": "21710 Engelschoff",
         "sternchen": 0,
-        "strasse": "Sauerackerweg 7",
+        "strasse": "Repsoldstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 7
             }
         ],
-        "vorname": "Sofie",
-        "weiblich": true
+        "vorname": "Bodo",
+        "weiblich": false
     }
 }

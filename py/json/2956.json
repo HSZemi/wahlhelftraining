@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2579334,
-    "semester": "Sommersemester 2017",
+    "nummer": 2419199,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "19.12.1994",
-        "matrikelnummer": 2435013,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Stuber",
-        "plzort": "35789 Weilm\u00fcnster",
+        "fakultaet": 5,
+        "geburtsdatum": "18.09.1991",
+        "matrikelnummer": 1972613,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Oestreich",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Dakarweg 3",
+        "strasse": "Tolkewitzer Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Germanistik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Tibetologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Albertine",
-        "weiblich": true
+        "vorname": "Friedhold",
+        "weiblich": false
     }
 }

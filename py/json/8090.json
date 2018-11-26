@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2210274,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1978500,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "10.03.1995",
-        "matrikelnummer": 2051485,
+        "fakultaet": 7,
+        "geburtsdatum": "01.01.1994",
+        "matrikelnummer": 3160600,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klapper",
-        "plzort": "53175 Bonn",
+        "nachname": "Struck",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Daseweg 9",
+        "strasse": "Strietkoppel 30",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Geschichte",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechisch",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
             }
         ],
-        "vorname": "Sieghart",
-        "weiblich": false
+        "vorname": "Isolde",
+        "weiblich": true
     }
 }

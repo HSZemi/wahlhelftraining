@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2490322,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2984413,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "05.09.1999",
-        "matrikelnummer": 3194296,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "15.03.1994",
+        "matrikelnummer": 188455,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Laube",
-        "plzort": "53200 Bonn",
+        "nachname": "Schrage",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Im D\u00f6rner 1",
+        "strasse": "Saalgasse 18",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 8
             }
         ],
-        "vorname": "Ivonne",
-        "weiblich": true
+        "vorname": "Markward",
+        "weiblich": false
     }
 }

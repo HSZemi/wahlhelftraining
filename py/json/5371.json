@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1228000,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2006088,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "20.01.1988",
-        "matrikelnummer": 2824498,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "21.05.1993",
+        "matrikelnummer": 1903317,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Helms",
-        "plzort": "82541 M\u00fcnsing",
+        "nachname": "Kluge",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Moritzburger Platz 50",
+        "strasse": "Drey\u00dfigplatz 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 5
             }
         ],
-        "vorname": "Erkmar",
-        "weiblich": false
+        "vorname": "Magarete",
+        "weiblich": true
     }
 }

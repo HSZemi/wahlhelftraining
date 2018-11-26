@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2735331,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2974124,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.04.1988",
-        "matrikelnummer": 166232,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "01.10.1995",
+        "matrikelnummer": 2338727,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scherer",
-        "plzort": "53224 Bonn",
+        "nachname": "Schnelle",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "An der Schanze 4",
+        "strasse": "Hultschiner Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 9
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 8
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Hilma",
+        "vorname": "Friedgard",
         "weiblich": true
     }
 }

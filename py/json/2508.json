@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1611462,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2083435,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "27.07.1998",
-        "matrikelnummer": 2928935,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "04.10.1990",
+        "matrikelnummer": 2692193,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hellmann",
-        "plzort": "53144 Bonn",
+        "nachname": "Janssen",
+        "plzort": "06536 Breitungen",
         "sternchen": 0,
-        "strasse": "Freyunger Str. 28",
+        "strasse": "Wandalenweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Germanistik",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
             }
         ],
-        "vorname": "Jacqueline",
+        "vorname": "Liesa",
         "weiblich": true
     }
 }

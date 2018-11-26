@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1917002,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2546194,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.02.1995",
-        "matrikelnummer": 2808428,
+        "fakultaet": 4,
+        "geburtsdatum": "27.11.1990",
+        "matrikelnummer": 145935,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heller",
-        "plzort": "53223 Bonn",
+        "nachname": "Lux",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Goethestr. 1b",
+        "strasse": "Manilabr\u00fccke 15e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 2
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 4
             }
         ],
-        "vorname": "Lisel",
-        "weiblich": true
+        "vorname": "Sidonius",
+        "weiblich": false
     }
 }

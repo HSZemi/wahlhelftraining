@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2788914,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2762890,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.01.1997",
-        "matrikelnummer": 115919,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "02.08.1998",
+        "matrikelnummer": 2144216,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feldmeier",
-        "plzort": "53222 Bonn",
+        "nachname": "Habermann",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Lange Reihe 31",
+        "strasse": "Kl\u00e4rchenbr\u00fccke 4d",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Musikwissenschaft",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Cornelius",
+        "vorname": "Tiburtius",
         "weiblich": false
     }
 }

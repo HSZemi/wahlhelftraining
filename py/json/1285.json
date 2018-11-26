@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1842151,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1397111,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.06.1999",
-        "matrikelnummer": 15119,
-        "mehrfachausfertigung": 3,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "26.02.1996",
+        "matrikelnummer": 2925757,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kimmel",
-        "plzort": "53182 Bonn",
+        "nachname": "Pilz",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Albatrosweg 12",
+        "strasse": "Am Dornbusch 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 12
             }
         ],
-        "vorname": "Simona",
-        "weiblich": true
+        "vorname": "Cornelius",
+        "weiblich": false
     }
 }

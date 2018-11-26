@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1032966,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2562899,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.04.1996",
-        "matrikelnummer": 3112205,
+        "fakultaet": 5,
+        "geburtsdatum": "01.07.1997",
+        "matrikelnummer": 2515300,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Johannsen",
-        "plzort": "53199 Bonn",
+        "nachname": "Hellmich",
+        "plzort": "19395 Plauerhagen",
         "sternchen": 0,
-        "strasse": "Erste Luisenbr\u00fccke 2",
+        "strasse": "Hellersiedlung Weg B 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Anglistik/Amerikanistik: Literatur- und Kulturwissenschaft",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Raik",
-        "weiblich": false
+        "vorname": "Nevenka",
+        "weiblich": true
     }
 }

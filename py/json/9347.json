@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1917485,
-    "semester": "Sommersemester 2017",
+    "nummer": 2612731,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "28.07.1993",
-        "matrikelnummer": 2578817,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 8,
+        "geburtsdatum": "06.02.1989",
+        "matrikelnummer": 2289674,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ruck",
-        "plzort": "53146 Bonn",
+        "nachname": "Preuss",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlw\u00f6rth 0",
+        "strasse": "Schulberg 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 9
             }
         ],
-        "vorname": "Winfrid",
+        "vorname": "Jost",
         "weiblich": false
     }
 }

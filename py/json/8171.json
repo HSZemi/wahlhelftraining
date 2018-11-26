@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2579039,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1889515,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "23.07.1991",
-        "matrikelnummer": 2883990,
+        "fakultaet": 2,
+        "geburtsdatum": "08.02.1991",
+        "matrikelnummer": 2044316,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Renken",
-        "plzort": "53190 Bonn",
+        "nachname": "Streit",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Wachwitzer Bergstra\u00dfe 8",
+        "strasse": "Tieckstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 13
             }
         ],
-        "vorname": "Valentine",
-        "weiblich": true
+        "vorname": "Dietwulf",
+        "weiblich": false
     }
 }

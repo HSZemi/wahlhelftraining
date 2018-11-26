@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1113295,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1853290,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.08.1999",
-        "matrikelnummer": 2627926,
+        "fakultaet": 8,
+        "geburtsdatum": "28.04.1989",
+        "matrikelnummer": 2583746,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kuntz",
-        "plzort": "23568 L\u00fcbeck",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Melcher",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Aubachweg 0",
+        "strasse": "Timmermannstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 2
             }
         ],
-        "vorname": "Fritzi",
-        "weiblich": true
+        "vorname": "Frithjof",
+        "weiblich": false
     }
 }

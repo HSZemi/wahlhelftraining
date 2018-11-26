@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2901105,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2847997,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "15.12.1993",
-        "matrikelnummer": 18364,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "21.05.1987",
+        "matrikelnummer": 2786145,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Bunge",
-        "plzort": "53134 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kolb",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Schwabstra\u00dfe 7e",
+        "strasse": "H\u00fchnerposten 28",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Volkbert",
-        "weiblich": false
+        "vorname": "Ilseruth",
+        "weiblich": true
     }
 }

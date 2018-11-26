@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2238735,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1686392,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "17.05.1997",
-        "matrikelnummer": 2377381,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 2,
+        "geburtsdatum": "25.01.1991",
+        "matrikelnummer": 2743243,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6cher",
-        "plzort": "66578 Schiffweiler",
+        "nachname": "Schneiders",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Landvogtstra\u00dfe 10",
+        "strasse": "Fahrgasse 11",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
                 "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
+                "fsem": 3
             }
         ],
-        "vorname": "Sieghilde",
+        "vorname": "Frieda",
         "weiblich": true
     }
 }

@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1943960,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1814420,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.05.1984",
-        "matrikelnummer": 2692512,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "21.07.1995",
+        "matrikelnummer": 12876,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wende",
-        "plzort": "53221 Bonn",
+        "nachname": "Volz",
+        "plzort": "97215 Simmershofen",
         "sternchen": 0,
-        "strasse": "Lattenkampstieg 9",
+        "strasse": "Hassestra\u00dfe 1a",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 4
+                "fach": "Klinische Medizintechnik",
+                "fsem": 1
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Burchard",
-        "weiblich": false
+        "vorname": "Friedliese",
+        "weiblich": true
     }
 }

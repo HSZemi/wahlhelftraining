@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2712004,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1646987,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "01.08.1994",
-        "matrikelnummer": 2340335,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "27.02.1993",
+        "matrikelnummer": 1994506,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Raasch",
-        "plzort": "18107 Rostock",
+        "nachname": "Helbig",
+        "plzort": "16775 Zabelsdorf",
         "sternchen": 0,
-        "strasse": "Kurparkstra\u00dfe 27a",
+        "strasse": "Blauenstra\u00dfe 19d",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 2
             }
         ],
-        "vorname": "\u00c4nne",
-        "weiblich": true
+        "vorname": "Maximillian",
+        "weiblich": false
     }
 }

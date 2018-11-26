@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1349949,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1090785,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.12.1999",
-        "matrikelnummer": 2350509,
+        "fakultaet": 5,
+        "geburtsdatum": "17.02.1999",
+        "matrikelnummer": 2137997,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlicht",
-        "plzort": "53150 Bonn",
+        "nachname": "Hauschild",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Gebauerstra\u00dfe 4a",
+        "strasse": "B\u00f6rsenplatz 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Indologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
+                "fsem": 10
             }
         ],
-        "vorname": "Irmlind",
+        "vorname": "Sonia",
         "weiblich": true
     }
 }

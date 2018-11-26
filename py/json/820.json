@@ -1,41 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2463714,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2656479,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "26.09.1996",
-        "matrikelnummer": 2277547,
+        "geburtsdatum": "11.03.1990",
+        "matrikelnummer": 183693,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heyne",
-        "plzort": "85354 Freising",
+        "nachname": "Sch\u00f6ler",
+        "plzort": "01920 Elstra",
         "sternchen": 0,
-        "strasse": "L\u00fcbeckertordamm 11",
+        "strasse": "Brennerstr. 11",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 8
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Spanisch",
+                "fsem": 5
             },
             {
                 "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 8
+                "fach": "Latein",
+                "fsem": 5
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "fsem": 5
             }
         ],
-        "vorname": "Frohmund",
-        "weiblich": false
+        "vorname": "Liesgret",
+        "weiblich": true
     }
 }

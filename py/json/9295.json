@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2647577,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2831915,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 3,
-        "geburtsdatum": "04.01.1998",
-        "matrikelnummer": 2312246,
-        "mehrfachausfertigung": 4,
+        "geburtsdatum": "10.10.1993",
+        "matrikelnummer": 2169777,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Born",
-        "plzort": "53209 Bonn",
+        "nachname": "Fechner",
+        "plzort": "14913 Ihlow",
         "sternchen": 0,
-        "strasse": "Porzellanhofstra\u00dfe 14",
+        "strasse": "De-Ridder-Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Katholische Religionslehre",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Physik",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Nicolas",
-        "weiblich": false
+        "vorname": "Margaret",
+        "weiblich": true
     }
 }

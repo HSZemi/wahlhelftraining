@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1002089,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2312413,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "04.11.1996",
-        "matrikelnummer": 3137020,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "26.06.1995",
+        "matrikelnummer": 180433,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "84439 Steinkirchen",
+        "nachname": "Heinen",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Halbkreisstra\u00dfe 7",
+        "strasse": "Obeliskgasse 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 7
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

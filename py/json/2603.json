@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2954658,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2690099,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.01.1990",
-        "matrikelnummer": 2936649,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "21.09.1996",
+        "matrikelnummer": 174124,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fisch",
-        "plzort": "53153 Bonn",
+        "nachname": "W\u00f6rle",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Hannah-Arendt-Stra\u00dfe 0",
+        "strasse": "Hainichener Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 1
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 12
             }
         ],
-        "vorname": "Christina",
+        "vorname": "Barbi",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1156304,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2580784,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.07.1992",
-        "matrikelnummer": 3080241,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "22.11.1988",
+        "matrikelnummer": 2482665,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weinert",
-        "plzort": "53206 Bonn",
+        "nachname": "Brunke",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Colsmannstra\u00dfe 1",
+        "strasse": "Albrechtsh\u00f6he 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Jessica",
-        "weiblich": true
+        "vorname": "Utto",
+        "weiblich": false
     }
 }

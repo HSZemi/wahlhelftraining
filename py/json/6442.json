@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2846219,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2321457,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.07.1987",
-        "matrikelnummer": 161604,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "11.09.1991",
+        "matrikelnummer": 1944973,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kratzer",
-        "plzort": "53198 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Martini",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Am Gorbitzbach 1",
+        "strasse": "Landgraf-Wilhelm-Stra\u00dfe 39a",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 5
             }
         ],
-        "vorname": "Clivia",
+        "vorname": "Olga",
         "weiblich": true
     }
 }

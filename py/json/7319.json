@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1787540,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2125229,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "28.02.1995",
-        "matrikelnummer": 3107518,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "28.07.1992",
+        "matrikelnummer": 2423280,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schuchardt",
-        "plzort": "53199 Bonn",
+        "nachname": "Klapper",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Am Dorfende 3",
+        "strasse": "Kurf\u00fcrstenplatz 19",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Biologie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Biochemistry",
+                "fsem": 11
             }
         ],
-        "vorname": "Liliane",
+        "vorname": "Augusta",
         "weiblich": true
     }
 }

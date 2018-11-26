@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1001482,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2589857,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.12.1999",
-        "matrikelnummer": 3112166,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "14.11.1999",
+        "matrikelnummer": 2512208,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zobel",
-        "plzort": "53197 Bonn",
+        "nachname": "Acker",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Jurastr. 2",
+        "strasse": "Lubminer Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Astrophysik",
                 "fsem": 3
             }
         ],
-        "vorname": "Haug",
-        "weiblich": false
+        "vorname": "Frida",
+        "weiblich": true
     }
 }

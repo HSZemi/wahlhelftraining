@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1511664,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2277538,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.06.1990",
-        "matrikelnummer": 3151003,
+        "fakultaet": 2,
+        "geburtsdatum": "17.08.1993",
+        "matrikelnummer": 2647436,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Mitschke",
-        "plzort": "53224 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Nickl",
+        "plzort": "94104 Witzmannsberg",
         "sternchen": 0,
-        "strasse": "Heinrich-Kaufmann-Ring 7",
+        "strasse": "Am Wei\u00dfen Adler 2",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Physik",
-                "fsem": 4
+                "fach": "Evangelische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Heilwig",
-        "weiblich": false
+        "vorname": "Luzie",
+        "weiblich": true
     }
 }

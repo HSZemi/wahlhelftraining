@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1888734,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2779124,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "01.06.1991",
-        "matrikelnummer": 115912,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "02.02.1994",
+        "matrikelnummer": 121594,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klose",
-        "plzort": "53165 Bonn",
+        "nachname": "Rickert",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz-Boehle-Stra\u00dfe 5",
+        "strasse": "S\u00fcdweg 18",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 7
             }
         ],
-        "vorname": "Leonore",
-        "weiblich": true
+        "vorname": "Herbert",
+        "weiblich": false
     }
 }

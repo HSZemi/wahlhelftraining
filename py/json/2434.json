@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2987478,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2754104,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.03.1994",
-        "matrikelnummer": 3097794,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "09.06.1992",
+        "matrikelnummer": 3037361,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tr\u00f6ger",
-        "plzort": "53200 Bonn",
+        "nachname": "Moser",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Am Kirschfeld 5",
+        "strasse": "An der Wildhube 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Runhild",
+        "vorname": "Marietraud",
         "weiblich": true
     }
 }

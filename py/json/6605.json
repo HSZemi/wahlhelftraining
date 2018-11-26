@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": true
     },
-    "nummer": 1413853,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1758246,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "05.08.1995",
-        "matrikelnummer": 2743036,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "23.12.1989",
+        "matrikelnummer": 3184270,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mutschler",
-        "plzort": "49509 Recke",
+        "nachname": "Sch\u00fctz",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Moreauweg 7c",
+        "strasse": "J\u00e4gerstra\u00dfe 0d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Radegundis",
+        "vorname": "Rositta",
         "weiblich": true
     }
 }

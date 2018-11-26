@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1766583,
+    "nummer": 1307247,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.06.1999",
-        "matrikelnummer": 13470,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schuhmacher",
-        "plzort": "53156 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "13.10.1995",
+        "matrikelnummer": 2678272,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Brehmer",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00fctzengasse 22",
+        "strasse": "Smidtstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 6
             },
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "",
+                "fach": "Franz\u00f6sistik",
+                "fsem": 10
             }
         ],
-        "vorname": "Ana",
-        "weiblich": true
+        "vorname": "Adam",
+        "weiblich": false
     }
 }

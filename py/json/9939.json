@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2867837,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1441830,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.07.1996",
-        "matrikelnummer": 2352881,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "08.10.1994",
+        "matrikelnummer": 2570205,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bittner",
-        "plzort": "08539 Mehltheuer",
+        "nachname": "Deutschmann",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00f6lderlinsallee 17",
+        "strasse": "An den Schie\u00dfh\u00fctten 6a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 1
             },
             {
-                "abschluss": "",
-                "fach": "Keltologie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Geographie",
+                "fsem": 10
             }
         ],
-        "vorname": "Karlheinz",
-        "weiblich": false
+        "vorname": "Heideline",
+        "weiblich": true
     }
 }

@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2202195,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2992762,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "25.05.1995",
-        "matrikelnummer": 2522107,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "10.05.1993",
+        "matrikelnummer": 2405620,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Scheuermann",
-        "plzort": "22159 Hamburg",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zuber",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Eschenweg 12",
+        "strasse": "Masurenweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Master of Arts",
+                "fach": "Applied Linguistics",
+                "fsem": 7
             }
         ],
-        "vorname": "Susanna",
+        "vorname": "Josephina",
         "weiblich": true
     }
 }

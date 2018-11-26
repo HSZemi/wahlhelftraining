@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2113111,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2993133,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "14.04.1986",
-        "matrikelnummer": 2238740,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Englert",
-        "plzort": "53137 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "10.12.1993",
+        "matrikelnummer": 145830,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schiller",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Trautmannstr. 1",
+        "strasse": "Zeppelinstra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 13
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Ulrike",
+        "vorname": "Kareen",
         "weiblich": true
     }
 }

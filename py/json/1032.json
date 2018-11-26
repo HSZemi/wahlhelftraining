@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2171555,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2977087,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "13.05.1998",
-        "matrikelnummer": 3186143,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "22.07.1989",
+        "matrikelnummer": 2625876,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neumeister",
-        "plzort": "53131 Bonn",
+        "nachname": "Kissel",
+        "plzort": "79597 Schallbach",
         "sternchen": 0,
-        "strasse": "Ibachweg 16",
+        "strasse": "Moorender Stra\u00dfe 0d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Informatik",
+                "fsem": 13
             }
         ],
-        "vorname": "Helbert",
-        "weiblich": false
+        "vorname": "Svenja",
+        "weiblich": true
     }
 }

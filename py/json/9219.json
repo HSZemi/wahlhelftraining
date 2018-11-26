@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1524443,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1630979,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "20.12.1992",
-        "matrikelnummer": 2694086,
+        "fakultaet": 3,
+        "geburtsdatum": "19.03.1988",
+        "matrikelnummer": 2343989,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Unruh",
-        "plzort": "53157 Bonn",
+        "nachname": "Wetzel",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Oderstra\u00dfe 12",
+        "strasse": "Ferdinand-Beit-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 13
+                "fsem": 3
             }
         ],
-        "vorname": "Wilbrandt",
-        "weiblich": false
+        "vorname": "Margit",
+        "weiblich": true
     }
 }

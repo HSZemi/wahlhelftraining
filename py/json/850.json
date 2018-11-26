@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2586493,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2372147,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.11.1992",
-        "matrikelnummer": 2225579,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "19.08.1995",
+        "matrikelnummer": 19929,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kirst",
-        "plzort": "37269 Eschwege",
+        "nachname": "Becht",
+        "plzort": "10779 Berlin",
         "sternchen": 0,
-        "strasse": "Zschertnitzer Stra\u00dfe 14",
+        "strasse": "D\u00fcckergasse 25",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             }
         ],
-        "vorname": "Uve",
+        "vorname": "Walti",
         "weiblich": false
     }
 }

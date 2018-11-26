@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2224454,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2504206,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "14.08.1989",
-        "matrikelnummer": 2852188,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "18.01.1999",
+        "matrikelnummer": 1954277,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Obermaier",
-        "plzort": "53131 Bonn",
+        "nachname": "M\u00e4der",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Riedhofweg 17",
+        "strasse": "F\u00fcrstenallee 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Sebastian",
-        "weiblich": false
+        "vorname": "Greta",
+        "weiblich": true
     }
 }

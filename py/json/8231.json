@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2675662,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2475627,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.06.1999",
-        "matrikelnummer": 1903213,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "28.02.1995",
+        "matrikelnummer": 17096,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spahn",
-        "plzort": "82377 Penzberg",
+        "nachname": "Reinhardt",
+        "plzort": "15320 Sietzing",
         "sternchen": 0,
-        "strasse": "Bismarckplatz 2",
+        "strasse": "Innere Schneidmatten 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Sound Studies",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Informatik",
+                "fsem": 10
             }
         ],
-        "vorname": "Wieghart",
-        "weiblich": false
+        "vorname": "Ferdinande",
+        "weiblich": true
     }
 }

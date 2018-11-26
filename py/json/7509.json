@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2687866,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2374536,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "11.11.1994",
-        "matrikelnummer": 2846480,
+        "fakultaet": 5,
+        "geburtsdatum": "25.04.1991",
+        "matrikelnummer": 1909705,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mandel",
-        "plzort": "53158 Bonn",
+        "nachname": "Bruns",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Asbrookdamm 12",
+        "strasse": "Keltenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 11
             },
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Hermine",
+        "vorname": "Ella",
         "weiblich": true
     }
 }

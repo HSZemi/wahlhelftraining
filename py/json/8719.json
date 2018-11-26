@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2595684,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2519186,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "22.09.1991",
-        "matrikelnummer": 2722860,
+        "geburtsdatum": "12.01.1996",
+        "matrikelnummer": 2379257,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Aschenbrenner",
-        "plzort": "64839 M\u00fcnster",
+        "nachname": "Prei\u00df",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-Pfitzner-Stra\u00dfe 5",
+        "strasse": "Christoph-Knips-Stra\u00dfe, Eckenheim 5",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Roselotte",
+        "vorname": "Sara",
         "weiblich": true
     }
 }

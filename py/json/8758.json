@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2540139,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2768010,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "09.12.1986",
-        "matrikelnummer": 16433,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "15.08.1990",
+        "matrikelnummer": 16610,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kremser",
-        "plzort": "56769 Retterath",
+        "nachname": "Brenner",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Sonnenbergstra\u00dfe 5",
+        "strasse": "Ruth-Moufang-Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 12
             }
         ],
-        "vorname": "Hieronymus",
+        "vorname": "Curt",
         "weiblich": false
     }
 }

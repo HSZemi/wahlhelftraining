@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1093357,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1901788,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.04.1994",
-        "matrikelnummer": 2240987,
+        "fakultaet": 8,
+        "geburtsdatum": "19.08.1992",
+        "matrikelnummer": 2062901,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gottschlich",
-        "plzort": "86759 Wechingen",
+        "nachname": "Dewald",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Geyersw\u00f6rthstr. 30",
+        "strasse": "Silberfund 14",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Roswitha",
-        "weiblich": true
+        "vorname": "Rochus",
+        "weiblich": false
     }
 }

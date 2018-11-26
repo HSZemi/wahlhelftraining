@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1678375,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1522829,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.12.1987",
-        "matrikelnummer": 15576,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "25.06.1988",
+        "matrikelnummer": 2610487,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiemer",
-        "plzort": "53156 Bonn",
+        "nachname": "Guth",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Kurhausstra\u00dfe 17",
+        "strasse": "Silberberg 36",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Volkart",
-        "weiblich": false
+        "vorname": "Sibilla",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1585609,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2701755,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.12.1995",
-        "matrikelnummer": 2384648,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "26.03.1996",
+        "matrikelnummer": 1924360,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53154 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Barchfeldstra\u00dfe 1",
+        "strasse": "Anna-Maria-Junius-Str. 8c",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 7
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

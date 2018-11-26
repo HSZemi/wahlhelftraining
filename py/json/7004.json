@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2913507,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2119354,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.08.1999",
-        "matrikelnummer": 2267802,
+        "fakultaet": 9,
+        "geburtsdatum": "19.09.1993",
+        "matrikelnummer": 2842689,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Enderle",
-        "plzort": "12683 Berlin",
+        "nachname": "Maurer",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Grotefendstra\u00dfe 3",
+        "strasse": "Aronstr. 7c",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 13
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 5
             }
         ],
-        "vorname": "Theresia",
+        "vorname": "Theresa",
         "weiblich": true
     }
 }

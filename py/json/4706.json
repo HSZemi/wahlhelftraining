@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2305813,
-    "semester": "Sommersemester 2017",
+    "nummer": 2708206,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.02.1997",
-        "matrikelnummer": 2179615,
+        "fakultaet": 6,
+        "geburtsdatum": "08.05.1994",
+        "matrikelnummer": 2950977,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mahnke",
-        "plzort": "48329 Havixbeck",
+        "nachname": "Kress",
+        "plzort": "66887 Welchweiler",
         "sternchen": 0,
-        "strasse": "Inselblick 1",
+        "strasse": "Am Rathaus 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 13
+                "fach": "Biochemistry",
+                "fsem": 12
             }
         ],
-        "vorname": "Danny",
-        "weiblich": false
+        "vorname": "Almute",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1229969,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2767506,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "22.03.1991",
-        "matrikelnummer": 150637,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "14.09.1996",
+        "matrikelnummer": 2837269,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Matern",
-        "plzort": "53123 Bonn",
+        "nachname": "Werth",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Am Anfang 0",
+        "strasse": "Thorwaldsenstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 10
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
+                "fsem": 5
             }
         ],
-        "vorname": "Treuhart",
-        "weiblich": false
+        "vorname": "Karina",
+        "weiblich": true
     }
 }

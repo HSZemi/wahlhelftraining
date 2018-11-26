@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2184245,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2790856,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.01.1991",
-        "matrikelnummer": 2176562,
+        "fakultaet": 7,
+        "geburtsdatum": "08.07.1998",
+        "matrikelnummer": 3164867,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schwabe",
-        "plzort": "53158 Bonn",
+        "nachname": "Volz",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Zamenhofstra\u00dfe 1",
+        "strasse": "Eschenstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "Master of Science",
+                "fach": "Nutzpflanzenwissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 13
             }
         ],
-        "vorname": "Hedwig",
-        "weiblich": true
+        "vorname": "Walfried",
+        "weiblich": false
     }
 }

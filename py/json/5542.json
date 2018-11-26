@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1366787,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1308954,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.04.1997",
-        "matrikelnummer": 199688,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "04.10.1992",
+        "matrikelnummer": 2678060,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thiemann",
-        "plzort": "53173 Bonn",
+        "nachname": "Busche",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Strullendorfer Str. 1",
+        "strasse": "Jungestra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Henning",
-        "weiblich": false
+        "vorname": "Priska",
+        "weiblich": true
     }
 }

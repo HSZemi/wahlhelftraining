@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1477415,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2214563,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.11.1995",
-        "matrikelnummer": 2302559,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "12.04.1994",
+        "matrikelnummer": 3087062,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53186 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Torfweg 11d",
+        "strasse": "Gollwitzerstr. 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 1
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

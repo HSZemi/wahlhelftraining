@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2098207,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2467092,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.04.1985",
-        "matrikelnummer": 2697808,
+        "fakultaet": 3,
+        "geburtsdatum": "27.11.1999",
+        "matrikelnummer": 160268,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4gele",
-        "plzort": "53148 Bonn",
+        "nachname": "Butz",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Im Trutz Frankfurt 1",
+        "strasse": "Anton-G\u00fcnther-Weg 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Anette",
+        "vorname": "Philine",
         "weiblich": true
     }
 }

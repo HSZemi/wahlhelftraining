@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2744521,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1652709,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.06.1999",
-        "matrikelnummer": 2151826,
+        "fakultaet": 5,
+        "geburtsdatum": "11.05.1987",
+        "matrikelnummer": 2710848,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hertel",
-        "plzort": "53112 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Ha\u00df",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Bei der Hauptfeuerwache 3",
+        "strasse": "Schwanseestr. 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 9
+                "abschluss": "Bachelor of Arts",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikation in der globalisierten Mediengesellschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Benno",
-        "weiblich": false
+        "vorname": "Hedwig",
+        "weiblich": true
     }
 }

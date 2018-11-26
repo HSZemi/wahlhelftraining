@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1059745,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2582169,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "14.07.1994",
-        "matrikelnummer": 2938834,
+        "fakultaet": 5,
+        "geburtsdatum": "03.02.1994",
+        "matrikelnummer": 2917551,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sonntag",
-        "plzort": "53187 Bonn",
+        "nachname": "Matthes",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Nhil-Stra\u00dfe 21",
+        "strasse": "Canalettostra\u00dfe 17d",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Biologie",
-                "fsem": 8
+                "fach": "Regionalwissenschaft S\u00fcdostasien",
+                "fsem": 10
             }
         ],
-        "vorname": "Hulda",
+        "vorname": "Xenia",
         "weiblich": true
     }
 }

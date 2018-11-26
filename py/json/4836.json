@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1974045,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1917783,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "08.06.1996",
-        "matrikelnummer": 2140219,
+        "fakultaet": 6,
+        "geburtsdatum": "07.07.1985",
+        "matrikelnummer": 11609,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bast",
-        "plzort": "53200 Bonn",
+        "nachname": "Wirtz",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Mayfarthstra\u00dfe 13b",
+        "strasse": "Verdener Weg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Geography of Environmental Risks and Human Security",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geophysik",
+                "fsem": 11
             }
         ],
-        "vorname": "Otbert",
-        "weiblich": false
+        "vorname": "Reinhildis",
+        "weiblich": true
     }
 }

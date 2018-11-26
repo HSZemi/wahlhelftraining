@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2910493,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1231971,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.06.1991",
-        "matrikelnummer": 2807163,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "13.10.1994",
+        "matrikelnummer": 3139391,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brock",
-        "plzort": "53123 Bonn",
+        "nachname": "Schweigert",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Gutbrod-Stra\u00dfe 12",
+        "strasse": "Paul-Apel-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 13
             }
         ],
-        "vorname": "Haug",
-        "weiblich": false
+        "vorname": "Helma",
+        "weiblich": true
     }
 }

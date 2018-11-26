@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1105139,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1838639,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.01.1999",
-        "matrikelnummer": 2240621,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Altmeyer",
-        "plzort": "53183 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "23.01.1997",
+        "matrikelnummer": 2932360,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Bischoff",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Thielaustra\u00dfe 30",
+        "strasse": "M\u00fcnsterer Weg 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "\u00c4gyptologie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Dominik",
-        "weiblich": false
+        "vorname": "Joanna",
+        "weiblich": true
     }
 }

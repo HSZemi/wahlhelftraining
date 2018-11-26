@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1630708,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2030300,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "26.12.1991",
-        "matrikelnummer": 1966794,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "09.12.1991",
+        "matrikelnummer": 127143,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fr\u00fchauf",
-        "plzort": "53201 Bonn",
+        "nachname": "Schwarzer",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Beer-Weg 21",
+        "strasse": "Jean-Monnet-Stra\u00dfe 64",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 9
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Friedeburg",
-        "weiblich": true
+        "vorname": "Dieter",
+        "weiblich": false
     }
 }

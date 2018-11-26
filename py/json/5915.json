@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1764440,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2483907,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.05.1990",
-        "matrikelnummer": 3150341,
+        "fakultaet": 4,
+        "geburtsdatum": "26.03.1998",
+        "matrikelnummer": 177601,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weinhold",
-        "plzort": "53175 Bonn",
+        "nachname": "Manke",
+        "plzort": "79244 M\u00fcnstertal",
         "sternchen": 0,
-        "strasse": "L\u00fcneburger Schanze 17",
+        "strasse": "Hildegard-von-Bingen-Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 6
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Adelfried",
+        "vorname": "Micha",
         "weiblich": false
     }
 }

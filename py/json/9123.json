@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2962134,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1850333,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "18.12.1991",
-        "matrikelnummer": 2606600,
+        "fakultaet": 8,
+        "geburtsdatum": "26.01.1992",
+        "matrikelnummer": 2373338,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hellwig",
-        "plzort": "53158 Bonn",
+        "nachname": "Peukert",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Residenzstr. 12",
+        "strasse": "Wacholderweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 7
             }
         ],
-        "vorname": "Irmelinde",
-        "weiblich": true
+        "vorname": "Hanswalter",
+        "weiblich": false
     }
 }

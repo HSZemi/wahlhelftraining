@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1091798,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2135394,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "06.04.1991",
-        "matrikelnummer": 2600796,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "10.08.1993",
+        "matrikelnummer": 3186530,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schimmel",
-        "plzort": "53218 Bonn",
+        "nachname": "Grund",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Chamissostra\u00dfe 29",
+        "strasse": "Lewickistra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
                 "fsem": 13
             }
         ],
-        "vorname": "Armin",
+        "vorname": "Wolfeckart",
         "weiblich": false
     }
 }

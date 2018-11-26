@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1380635,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2815103,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "28.09.1996",
-        "matrikelnummer": 2769386,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "17.04.1992",
+        "matrikelnummer": 122126,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kind",
-        "plzort": "33311 G\u00fctersloh",
+        "nachname": "Schiffer",
+        "plzort": "73572 Heuchlingen",
         "sternchen": 0,
-        "strasse": "Moosstr. 2",
+        "strasse": "Horner Redder 7",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 1
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Christine",
-        "weiblich": true
+        "vorname": "Martin",
+        "weiblich": false
     }
 }

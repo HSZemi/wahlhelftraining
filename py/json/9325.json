@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1042859,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2752478,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "26.09.1999",
-        "matrikelnummer": 2336766,
+        "fakultaet": 1,
+        "geburtsdatum": "12.07.1992",
+        "matrikelnummer": 2928362,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00e4tz",
-        "plzort": "53190 Bonn",
+        "nachname": "Otten",
+        "plzort": "29225 Celle",
         "sternchen": 0,
-        "strasse": "Lurgiallee 1",
+        "strasse": "Kuckuckssteig 4",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 13
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Fini",
-        "weiblich": true
+        "vorname": "Roger",
+        "weiblich": false
     }
 }

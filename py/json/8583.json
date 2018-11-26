@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2169579,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1401038,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.12.1999",
-        "matrikelnummer": 2797866,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "24.04.1999",
+        "matrikelnummer": 127557,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Beer",
-        "plzort": "53152 Bonn",
+        "nachname": "Bartel",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Am H\u00fcnenstein 15",
+        "strasse": "Ferdinandplatz 16",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Physik",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Friedburg",
-        "weiblich": true
+        "vorname": "Friedl",
+        "weiblich": false
     }
 }

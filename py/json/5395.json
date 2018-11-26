@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1507176,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1243431,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.12.1993",
-        "matrikelnummer": 3093835,
+        "fakultaet": 4,
+        "geburtsdatum": "19.04.1990",
+        "matrikelnummer": 3047047,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6lling",
-        "plzort": "53180 Bonn",
+        "nachname": "Stingl",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Georg-Marwitz-Stra\u00dfe 1",
+        "strasse": "Dieselstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 13
+                "fsem": 1
             }
         ],
-        "vorname": "Quintus",
+        "vorname": "Alois",
         "weiblich": false
     }
 }

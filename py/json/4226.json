@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2824964,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2486997,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.10.1990",
-        "matrikelnummer": 3097198,
+        "fakultaet": 4,
+        "geburtsdatum": "18.09.1999",
+        "matrikelnummer": 2504410,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jeschke",
-        "plzort": "53112 Bonn",
+        "nachname": "Schumann",
+        "plzort": "96274 Itzgrund",
         "sternchen": 0,
-        "strasse": "Ferdinand-Schrey-Weg 12",
+        "strasse": "Konkordienstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Heintje",
-        "weiblich": false
+        "vorname": "Conny",
+        "weiblich": true
     }
 }

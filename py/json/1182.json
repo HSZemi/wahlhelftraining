@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1903704,
+    "nummer": 1346279,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "23.02.1996",
-        "matrikelnummer": 2473011,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "24.03.1992",
+        "matrikelnummer": 2211983,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steidle",
-        "plzort": "53146 Bonn",
+        "nachname": "Pongratz",
+        "plzort": "06193 Krosigk",
         "sternchen": 0,
-        "strasse": "Im Leimfeld 6",
+        "strasse": "Friedrich-Adolph-Sorge-Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch als Zweit- und Fremdsprache",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch-Italienische Studien",
+                "fsem": 10
             }
         ],
-        "vorname": "Elzbieta",
+        "vorname": "Ruthilde",
         "weiblich": true
     }
 }

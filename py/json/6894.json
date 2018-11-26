@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1901470,
-    "semester": "Sommersemester 2017",
+    "nummer": 1681985,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "04.11.1992",
-        "matrikelnummer": 1995474,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "16.05.1991",
+        "matrikelnummer": 2972583,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ferstl",
-        "plzort": "53153 Bonn",
+        "nachname": "K\u00fcrschner",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Teichplatz 2",
+        "strasse": "Eigenhufe 56",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Mathematik",
+                "fsem": 3
             }
         ],
-        "vorname": "Relindis",
+        "vorname": "Irmela",
         "weiblich": true
     }
 }

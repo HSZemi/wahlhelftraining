@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2513417,
+    "nummer": 2168974,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "05.08.1999",
-        "matrikelnummer": 2496341,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "09.04.1987",
+        "matrikelnummer": 3046956,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mainka",
-        "plzort": "53152 Bonn",
+        "nachname": "Greve",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Im Bauernfeld 8",
+        "strasse": "Richard-Wagner-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 4
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 8
             }
         ],
-        "vorname": "Dankfried",
+        "vorname": "Ortwin",
         "weiblich": false
     }
 }

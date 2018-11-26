@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1723568,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1049602,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "24.10.1986",
-        "matrikelnummer": 2061756,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "St\u00f6ckel",
-        "plzort": "53157 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "15.09.1993",
+        "matrikelnummer": 2001950,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Engelhard",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Arthur-Schlo\u00dfmann-Weg 12",
+        "strasse": "Gohliser Weg 0b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Physik der Erde und Atmosph\u00e4re",
+                "fsem": 5
             }
         ],
-        "vorname": "Hilmar",
+        "vorname": "Helmbrecht",
         "weiblich": false
     }
 }

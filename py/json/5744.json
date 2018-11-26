@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2242871,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1259831,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "07.04.1994",
-        "matrikelnummer": 18276,
+        "fakultaet": 6,
+        "geburtsdatum": "22.04.1993",
+        "matrikelnummer": 162509,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Topp",
-        "plzort": "53113 Bonn",
+        "nachname": "Will",
+        "plzort": "18510 Zarrendorf",
         "sternchen": 0,
-        "strasse": "Hoher Rand 0",
+        "strasse": "H\u00f6gerdamm 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Mikrobiologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 4
             }
         ],
-        "vorname": "Mirjana",
-        "weiblich": true
+        "vorname": "Hansfried",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2520285,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2290779,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.07.1996",
-        "matrikelnummer": 2940688,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "16.02.1994",
+        "matrikelnummer": 2575958,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Henseler",
-        "plzort": "53128 Bonn",
+        "nachname": "Hellwig",
+        "plzort": "23867 S\u00fclfeld",
         "sternchen": 0,
-        "strasse": "Lohoffstra\u00dfe 12",
+        "strasse": "Monetweg 13",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Sprach- u. Kulturwissenschaft Zentralasiens",
+                "fach": "Entwicklungsforschung",
                 "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Undine",
+        "vorname": "Gundela",
         "weiblich": true
     }
 }

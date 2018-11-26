@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1968415,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1097697,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.10.1992",
-        "matrikelnummer": 2267839,
+        "fakultaet": 4,
+        "geburtsdatum": "09.03.1991",
+        "matrikelnummer": 3027194,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hassel",
-        "plzort": "82335 Berg",
+        "nachname": "Tesch",
+        "plzort": "37318 W\u00fcstheuterode",
         "sternchen": 0,
-        "strasse": "Goosh\u00f6ren 4",
+        "strasse": "Lingnerallee 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Neuere deutsche Literatur",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
                 "fsem": 8
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 5
             }
         ],
-        "vorname": "Gretchen",
+        "vorname": "Felizitas",
         "weiblich": true
     }
 }

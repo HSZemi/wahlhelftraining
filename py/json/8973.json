@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2535912,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1820335,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "25.04.1991",
-        "matrikelnummer": 2330252,
+        "fakultaet": 3,
+        "geburtsdatum": "21.05.1997",
+        "matrikelnummer": 178898,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Altmeyer",
-        "plzort": "53167 Bonn",
+        "nachname": "Eger",
+        "plzort": "31655 Stadthagen",
         "sternchen": 0,
-        "strasse": "Conertplatz 47",
+        "strasse": "Altlaubegast 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Diemut",
-        "weiblich": true
+        "vorname": "Ekkehard",
+        "weiblich": false
     }
 }

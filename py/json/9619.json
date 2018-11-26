@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1238267,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1471593,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "28.11.1988",
-        "matrikelnummer": 2284316,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "10.12.1994",
+        "matrikelnummer": 2025988,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zinn",
-        "plzort": "53192 Bonn",
+        "nachname": "Huhn",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "An der Prie\u00dfnitz 2",
+        "strasse": "Haufes Berg 8d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Altamerikanistik/Ethnologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Titus",
-        "weiblich": false
+        "vorname": "Lorelies",
+        "weiblich": true
     }
 }

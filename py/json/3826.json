@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2700207,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2672268,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "13.05.1990",
-        "matrikelnummer": 3042147,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "06.12.1995",
+        "matrikelnummer": 170575,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Just",
-        "plzort": "53176 Bonn",
+        "nachname": "Dreyer",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Seilerbahn 18",
+        "strasse": "Steinlestra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Romanistik",
+                "fsem": 11
             }
         ],
-        "vorname": "Heintje",
+        "vorname": "Cay",
         "weiblich": false
     }
 }

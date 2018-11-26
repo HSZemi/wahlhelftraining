@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2106938,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1498341,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "02.10.1992",
-        "matrikelnummer": 2197511,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "27.06.1992",
+        "matrikelnummer": 2574967,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Harter",
-        "plzort": "38557 Oslo\u00df",
+        "nachname": "Rump",
+        "plzort": "24977 Ringsberg",
         "sternchen": 0,
-        "strasse": "An der Festeburg 2",
+        "strasse": "Luisenplatz 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kommunikationswissenschaften",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Romanistik",
-                "fsem": 8
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Gitti",
-        "weiblich": true
+        "vorname": "Dietmund",
+        "weiblich": false
     }
 }

@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2073710,
+    "nummer": 2880781,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "21.08.1997",
-        "matrikelnummer": 2053167,
+        "fakultaet": 6,
+        "geburtsdatum": "03.11.1999",
+        "matrikelnummer": 16578,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weller",
-        "plzort": "24118 Kiel",
+        "nachname": "Dyck",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Gebr\u00fcder-Hommel-Anlage 14",
+        "strasse": "Fr\u00fchlingstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Brunhild",
-        "weiblich": true
+        "vorname": "Bartosch",
+        "weiblich": false
     }
 }

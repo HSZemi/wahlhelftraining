@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2155428,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1411864,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.10.1996",
-        "matrikelnummer": 14794,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "20.05.1985",
+        "matrikelnummer": 2840815,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Merten",
-        "plzort": "53193 Bonn",
+        "nachname": "Kuch",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Kleyerstra\u00dfe 12",
+        "strasse": "Gackensteinweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 13
             }
         ],
-        "vorname": "Mechthild",
+        "vorname": "Reny",
         "weiblich": true
     }
 }

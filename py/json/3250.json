@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1232536,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2261515,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "13.07.1991",
-        "matrikelnummer": 3058956,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "03.02.1988",
+        "matrikelnummer": 167744,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rogge",
-        "plzort": "06548 Rottleberode",
+        "nachname": "Danner",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Bauernbr\u00fccke 4b",
+        "strasse": "Renneroder Stra\u00dfe 9e",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 6
+                "fach": "Franz\u00f6sistik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Italianistik",
+                "fsem": 8
             }
         ],
-        "vorname": "Tassilo",
-        "weiblich": false
+        "vorname": "Philomena",
+        "weiblich": true
     }
 }

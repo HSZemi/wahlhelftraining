@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1788074,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2582441,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.08.1994",
-        "matrikelnummer": 2446940,
+        "fakultaet": 9,
+        "geburtsdatum": "12.02.1998",
+        "matrikelnummer": 149183,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fl\u00fcgge",
-        "plzort": "53136 Bonn",
+        "nachname": "Schellenberg",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00e4rtleinstr. 5",
+        "strasse": "An den Hufen 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             }
         ],
-        "vorname": "Jutta",
-        "weiblich": true
+        "vorname": "Runald",
+        "weiblich": false
     }
 }

@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1667253,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2178704,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.04.1991",
-        "matrikelnummer": 117992,
+        "fakultaet": 3,
+        "geburtsdatum": "20.02.1999",
+        "matrikelnummer": 2889638,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Otto",
-        "plzort": "53121 Bonn",
+        "nachname": "Matthies",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "G\u00f6rzer Str. 26",
+        "strasse": "Winterhuder Marktplatz 0",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Griechisch",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Englisch",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 1
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 5
             }
         ],
-        "vorname": "Willibert",
+        "vorname": "Ekkard",
         "weiblich": false
     }
 }

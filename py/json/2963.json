@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2550487,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2187654,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.07.1992",
-        "matrikelnummer": 2690790,
+        "fakultaet": 9,
+        "geburtsdatum": "13.05.1990",
+        "matrikelnummer": 2955430,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Edel",
-        "plzort": "53227 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Sahin",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Semmelweg 27",
+        "strasse": "Jahnbr\u00fccke 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Meik",
-        "weiblich": false
+        "vorname": "Almute",
+        "weiblich": true
     }
 }

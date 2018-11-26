@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1490851,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2651289,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.04.1999",
-        "matrikelnummer": 2839838,
+        "fakultaet": 6,
+        "geburtsdatum": "12.02.1993",
+        "matrikelnummer": 3108806,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53187 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Kleinsiedlerweg 7",
+        "strasse": "Jacob Rauschenfels-Gasse 11d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
+                "abschluss": "Master of Science",
+                "fach": "Geowissenschaften",
                 "fsem": 9
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

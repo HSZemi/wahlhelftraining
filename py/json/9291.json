@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2593219,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1193627,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "24.10.1993",
-        "matrikelnummer": 2307603,
+        "fakultaet": 6,
+        "geburtsdatum": "26.07.1995",
+        "matrikelnummer": 2215941,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6ner",
-        "plzort": "53187 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Springer",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Ottobrunner Str. 2",
+        "strasse": "D\u00fclferstra\u00dfe 6c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Physik",
+                "fsem": 4
             }
         ],
-        "vorname": "Reinar",
-        "weiblich": false
+        "vorname": "Veronica",
+        "weiblich": true
     }
 }

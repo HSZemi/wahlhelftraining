@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1516096,
-    "semester": "Sommersemester 2017",
+    "nummer": 1430970,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "23.01.1988",
-        "matrikelnummer": 2342788,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "01.10.1996",
+        "matrikelnummer": 2476314,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kre\u00df",
-        "plzort": "53184 Bonn",
+        "nachname": "Ahrens",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Traubelstra\u00dfe 1",
+        "strasse": "Krieschendorfer Stra\u00dfe 50a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Ingerose",
-        "weiblich": true
+        "vorname": "Cuno",
+        "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2477676,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2173843,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.12.1995",
-        "matrikelnummer": 2788540,
+        "fakultaet": 8,
+        "geburtsdatum": "22.11.1999",
+        "matrikelnummer": 1912048,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eggers",
-        "plzort": "53145 Bonn",
+        "nachname": "Burkart",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "An den G\u00e4rten 9",
+        "strasse": "Alfred-Darre-Weg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 10
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Violetta",
-        "weiblich": true
+        "vorname": "Dankhard",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2369294,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1283456,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.01.1994",
-        "matrikelnummer": 3159641,
+        "fakultaet": 6,
+        "geburtsdatum": "22.03.1999",
+        "matrikelnummer": 12690,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Cordes",
-        "plzort": "53214 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Till",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Goldgrubenstra\u00dfe 2",
+        "strasse": "Am Wei\u00dfen Stein 6",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 4
             }
         ],
-        "vorname": "Hildemar",
+        "vorname": "Heinolf",
         "weiblich": false
     }
 }

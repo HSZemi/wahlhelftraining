@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2092848,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1701688,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.10.1993",
-        "matrikelnummer": 2060313,
+        "fakultaet": 5,
+        "geburtsdatum": "27.02.1995",
+        "matrikelnummer": 2951647,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reinhart",
-        "plzort": "53225 Bonn",
+        "nachname": "Klinge",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Klein Herl 6",
+        "strasse": "Wachwitzblick 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 2
             }
         ],
-        "vorname": "Elgard",
-        "weiblich": true
+        "vorname": "Steven",
+        "weiblich": false
     }
 }

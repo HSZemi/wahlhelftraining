@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2725538,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2271026,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.05.1998",
-        "matrikelnummer": 135311,
+        "fakultaet": 4,
+        "geburtsdatum": "25.01.1997",
+        "matrikelnummer": 2691181,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53196 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Stangestra\u00dfe 8",
+        "strasse": "Rasselweg 35",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 8
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

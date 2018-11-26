@@ -1,28 +1,28 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2030502,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2023574,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "20.12.1988",
-        "matrikelnummer": 3130666,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "12.06.1996",
+        "matrikelnummer": 2743810,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "84332 Hebertsfelden",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Walpurgisstra\u00dfe 5",
+        "strasse": "Margaretenstra\u00dfe 9b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 1
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 13
             }
         ],
         "vorname": "Sven",

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1381016,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2241536,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "02.10.1994",
-        "matrikelnummer": 11831,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "24.10.1989",
+        "matrikelnummer": 2110175,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Werner",
-        "plzort": "49577 Kettenkamp",
+        "nachname": "Mehlhorn",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Collenbuschstra\u00dfe 15",
+        "strasse": "Katharinenpforte 10c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 9
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Vinzent",
-        "weiblich": false
+        "vorname": "Kathi",
+        "weiblich": true
     }
 }

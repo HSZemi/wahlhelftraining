@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2064137,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2345230,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.03.1992",
-        "matrikelnummer": 2510445,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "15.03.1997",
+        "matrikelnummer": 140898,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Abraham",
-        "plzort": "53219 Bonn",
+        "nachname": "Kusch",
+        "plzort": "01665 K\u00e4bsch\u00fctztal",
         "sternchen": 0,
-        "strasse": "Alpenroder Stra\u00dfe 5e",
+        "strasse": "B\u00e4ckergasse 10e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Ambrosius",
+        "vorname": "Herwarth",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1181783,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2964356,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "05.11.1993",
-        "matrikelnummer": 2092309,
+        "fakultaet": 6,
+        "geburtsdatum": "13.06.1994",
+        "matrikelnummer": 2697318,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Henschel",
-        "plzort": "53211 Bonn",
+        "nachname": "Adolf",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Rochwitzer Weg 9",
+        "strasse": "Adolf-Miersch-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Italianistik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "S\u00fcdostasienwissenschaft",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Ottomar",
-        "weiblich": false
+        "vorname": "Krimhilde",
+        "weiblich": true
     }
 }

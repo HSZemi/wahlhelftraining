@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1435176,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2452073,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.07.1992",
-        "matrikelnummer": 2316698,
+        "fakultaet": 9,
+        "geburtsdatum": "13.09.1995",
+        "matrikelnummer": 2824443,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00fcdtke",
-        "plzort": "53112 Bonn",
+        "nachname": "Schunk",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Johannes-Stumpf-Stra\u00dfe 1",
+        "strasse": "Dornmattstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
             }
         ],
-        "vorname": "Albrecht",
+        "vorname": "Engelmar",
         "weiblich": false
     }
 }

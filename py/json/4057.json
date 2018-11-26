@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2037603,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2463414,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "26.11.1996",
-        "matrikelnummer": 199628,
+        "fakultaet": 4,
+        "geburtsdatum": "15.05.1989",
+        "matrikelnummer": 17360,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hartl",
-        "plzort": "53127 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Steinmetz",
+        "plzort": "25884 Vi\u00f6l",
         "sternchen": 0,
-        "strasse": "Nibelungenallee 4e",
+        "strasse": "Zinzendorfweg 12",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
             }
         ],
-        "vorname": "Agilbert",
-        "weiblich": false
+        "vorname": "Sunhild",
+        "weiblich": true
     }
 }

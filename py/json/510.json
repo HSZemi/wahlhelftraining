@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1745322,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1599546,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.08.1996",
-        "matrikelnummer": 2865442,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Brunke",
-        "plzort": "54689 Jucken",
+        "fakultaet": 2,
+        "geburtsdatum": "20.03.1990",
+        "matrikelnummer": 2502778,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Achatz",
+        "plzort": "16775 Bredereiche",
         "sternchen": 0,
-        "strasse": "Bergesgrundweg 7",
+        "strasse": "Albert-Venus-Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Sonja",
-        "weiblich": true
+        "vorname": "Arnfred",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1370884,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2188551,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.03.1988",
-        "matrikelnummer": 3099817,
+        "fakultaet": 9,
+        "geburtsdatum": "03.07.1995",
+        "matrikelnummer": 2067187,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Valentin",
-        "plzort": "53138 Bonn",
+        "nachname": "Naumann",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "An der Kettenstr. 8",
+        "strasse": "Dufourstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
             }
         ],
-        "vorname": "Mona",
-        "weiblich": true
+        "vorname": "Sibrand",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1535233,
-    "semester": "Sommersemester 2017",
+    "nummer": 2442917,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.07.1991",
-        "matrikelnummer": 14356,
+        "fakultaet": 9,
+        "geburtsdatum": "10.05.1991",
+        "matrikelnummer": 2743859,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hildebrand",
-        "plzort": "54570 Hinterweiler",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stolte",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Ruster Bucht 0e",
+        "strasse": "Kaspar-Siemers-Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Agrarwissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Cordt",
-        "weiblich": false
+        "vorname": "Fritzi",
+        "weiblich": true
     }
 }

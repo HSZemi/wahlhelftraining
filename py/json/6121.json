@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2684600,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2823713,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "08.10.1992",
-        "matrikelnummer": 2481759,
+        "fakultaet": 0,
+        "geburtsdatum": "25.11.1993",
+        "matrikelnummer": 2820069,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Boden",
-        "plzort": "53188 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schulthei\u00df",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Eisenst\u00e4dter Stra\u00dfe 0",
+        "strasse": "An den Geiselwiesen 10",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
                 "fsem": 9
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Reinald",
+        "vorname": "Timmo",
         "weiblich": false
     }
 }

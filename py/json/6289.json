@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1307293,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2632944,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "02.12.1993",
-        "matrikelnummer": 181327,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "01.09.1999",
+        "matrikelnummer": 2831238,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Roch",
-        "plzort": "53207 Bonn",
+        "nachname": "Piller",
+        "plzort": "77933 Lahr/Schwarzwald",
         "sternchen": 0,
-        "strasse": "Neuegasse 13",
+        "strasse": "Ludwig-Quidde-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Marga",
+        "vorname": "Alin",
         "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1702034,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1674794,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.10.1990",
-        "matrikelnummer": 2974266,
+        "fakultaet": 8,
+        "geburtsdatum": "02.12.1997",
+        "matrikelnummer": 2739077,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nickl",
-        "plzort": "53123 Bonn",
+        "nachname": "Hammerschmidt",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Fulda-Weg 3",
+        "strasse": "Ludwig-Ermold-Stra\u00dfe 37",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Burghard",
-        "weiblich": false
+        "vorname": "Ariane",
+        "weiblich": true
     }
 }

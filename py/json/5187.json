@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1665369,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1071333,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "04.07.1994",
-        "matrikelnummer": 2236129,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "09.02.1999",
+        "matrikelnummer": 2519923,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kappes",
-        "plzort": "53121 Bonn",
+        "nachname": "Bucher",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Osterbrook 3",
+        "strasse": "Deidesheimer Stra\u00dfe 20",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 13
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             }
         ],
-        "vorname": "Harald",
-        "weiblich": false
+        "vorname": "Jeanett",
+        "weiblich": true
     }
 }

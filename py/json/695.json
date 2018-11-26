@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1138299,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2849801,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "14.06.1997",
-        "matrikelnummer": 2288809,
+        "fakultaet": 4,
+        "geburtsdatum": "24.06.1993",
+        "matrikelnummer": 1943796,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hotz",
-        "plzort": "56368 Roth",
+        "nachname": "Knop",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Ewald-Kluge-Stra\u00dfe 17",
+        "strasse": "Sch\u00e4fers G\u00e4rten 7",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
             }
         ],
-        "vorname": "Betty",
+        "vorname": "Bringfriede",
         "weiblich": true
     }
 }

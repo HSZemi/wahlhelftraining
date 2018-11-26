@@ -1,41 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1621434,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2575694,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.08.1990",
-        "matrikelnummer": 2804732,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "15.03.1993",
+        "matrikelnummer": 2243102,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kummer",
-        "plzort": "53223 Bonn",
+        "nachname": "Thomas",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Stierst\u00e4dter Stra\u00dfe 7",
+        "strasse": "Moosleitenweg 12d",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
             },
             {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie",
+                "fsem": 9
             }
         ],
-        "vorname": "Bodomar",
-        "weiblich": false
+        "vorname": "Agatha",
+        "weiblich": true
     }
 }

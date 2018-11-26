@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2712509,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2026026,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.10.1993",
-        "matrikelnummer": 2993288,
+        "fakultaet": 8,
+        "geburtsdatum": "04.05.1995",
+        "matrikelnummer": 2533727,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kleinhans",
-        "plzort": "53215 Bonn",
+        "nachname": "Lorenzen",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Poelchaukampbr\u00fccke 5",
+        "strasse": "Am Viertelacker 24",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Ivana",
-        "weiblich": true
+        "vorname": "Helgomar",
+        "weiblich": false
     }
 }

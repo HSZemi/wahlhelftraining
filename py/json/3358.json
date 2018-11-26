@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1237528,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2431632,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.10.1999",
-        "matrikelnummer": 2076790,
+        "fakultaet": 8,
+        "geburtsdatum": "09.03.1997",
+        "matrikelnummer": 179032,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Dill",
-        "plzort": "97355 Kleinlangheim",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zettl",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "An den B\u00e4chen 10",
+        "strasse": "Jakobsberg 19",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 6
             }
         ],
-        "vorname": "Kordula",
-        "weiblich": true
+        "vorname": "Stephan",
+        "weiblich": false
     }
 }

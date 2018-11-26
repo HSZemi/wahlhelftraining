@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2510200,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2442641,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.04.1993",
-        "matrikelnummer": 1986886,
+        "fakultaet": 7,
+        "geburtsdatum": "21.05.1999",
+        "matrikelnummer": 3150409,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klinge",
-        "plzort": "66484 Schmitshausen",
+        "nachname": "Hoffmeister",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Pleinserhof 42",
+        "strasse": "Am Zollhaus 22b",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 13
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Otger",
-        "weiblich": false
+        "vorname": "Elwine",
+        "weiblich": true
     }
 }

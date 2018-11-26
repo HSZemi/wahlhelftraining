@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1176480,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1850518,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.12.1989",
-        "matrikelnummer": 1938604,
+        "fakultaet": 8,
+        "geburtsdatum": "01.12.1995",
+        "matrikelnummer": 2893206,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fleischhauer",
-        "plzort": "53178 Bonn",
+        "nachname": "Hellmuth",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "An der F\u00f6rsterei 1",
+        "strasse": "Ludwig-Richter-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 9
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Marietraud",
-        "weiblich": true
+        "vorname": "Kuno",
+        "weiblich": false
     }
 }

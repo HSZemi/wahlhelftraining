@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2541464,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1329741,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "25.02.1994",
-        "matrikelnummer": 2914859,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "04.02.1998",
+        "matrikelnummer": 2350906,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strehl",
-        "plzort": "53176 Bonn",
+        "nachname": "H\u00e4u\u00dfler",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Reisstra\u00dfe 3",
+        "strasse": "Theresienstr. 23",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 3
+                "fach": "Lebensmittelchemie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Sinologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Lidija",
+        "vorname": "Annkathrin",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2159497,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2510620,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.10.1995",
-        "matrikelnummer": 2543034,
+        "fakultaet": 1,
+        "geburtsdatum": "19.06.1994",
+        "matrikelnummer": 2446082,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schaal",
-        "plzort": "01099 Dresden",
+        "nachname": "Pl\u00f6tz",
+        "plzort": "19372 Herzfeld",
         "sternchen": 0,
-        "strasse": "Laubegaster Stra\u00dfe 3",
+        "strasse": "Hallwachsstra\u00dfe 28",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
                 "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 12
             }
         ],
-        "vorname": "Yasemin",
-        "weiblich": true
+        "vorname": "Kaspar",
+        "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2530877,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2356734,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "24.02.1990",
-        "matrikelnummer": 3183394,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "11.04.1994",
+        "matrikelnummer": 1957417,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Senf",
-        "plzort": "53138 Bonn",
+        "nachname": "Gebhard",
+        "plzort": "84166 Adlkofen",
         "sternchen": 0,
-        "strasse": "An der Mainkur 17",
+        "strasse": "Jurastr. 17",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Tiburtius",
+        "vorname": "Rainald",
         "weiblich": false
     }
 }

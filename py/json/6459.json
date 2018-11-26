@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2673818,
+    "nummer": 2439356,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.04.1994",
-        "matrikelnummer": 2395153,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "11.09.1992",
+        "matrikelnummer": 2067840,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6tter",
-        "plzort": "53173 Bonn",
+        "nachname": "Krammer",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Rhein-Main-Donau-Damm 9",
+        "strasse": "Reineckeweg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Medardus",
-        "weiblich": false
+        "vorname": "Lotte",
+        "weiblich": true
     }
 }

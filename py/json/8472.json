@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2898751,
-    "semester": "Sommersemester 2017",
+    "nummer": 1076419,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "26.01.1999",
-        "matrikelnummer": 1971266,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kunst",
-        "plzort": "53167 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "19.10.1994",
+        "matrikelnummer": 2972112,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "L\u00f6ffler",
+        "plzort": "01159 Dresden",
         "sternchen": 0,
-        "strasse": "Von-He\u00df-Weg 5",
+        "strasse": "Zur Wetterwarte 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Edgar",
+        "vorname": "Reinulf",
         "weiblich": false
     }
 }

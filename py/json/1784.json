@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2605956,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2114259,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
         "fakultaet": 7,
-        "geburtsdatum": "12.12.1994",
-        "matrikelnummer": 2515354,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "27.09.1998",
+        "matrikelnummer": 158573,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pauly",
-        "plzort": "58849 Herscheid",
+        "nachname": "Steger",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Paulistra\u00dfe 1",
+        "strasse": "Kirschauer Stra\u00dfe 16d",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
-                "fsem": 6
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Anneruth",
+        "vorname": "Friedlind",
         "weiblich": true
     }
 }

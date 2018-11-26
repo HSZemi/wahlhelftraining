@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2243688,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2459570,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.08.1990",
-        "matrikelnummer": 2141124,
+        "fakultaet": 3,
+        "geburtsdatum": "03.08.1988",
+        "matrikelnummer": 2564216,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hempel",
-        "plzort": "49770 Dohren",
+        "nachname": "Maas",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Spartenweg 13",
+        "strasse": "Lauensteinstr. 19",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Elfgund",
+        "vorname": "Nadja",
         "weiblich": true
     }
 }

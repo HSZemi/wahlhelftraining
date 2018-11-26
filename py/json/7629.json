@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2381296,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1536909,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "01.01.1991",
-        "matrikelnummer": 14536,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "03.08.1994",
+        "matrikelnummer": 112263,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reiff",
-        "plzort": "53170 Bonn",
+        "nachname": "Wurster",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Siedlung in der Aue 10",
+        "strasse": "Urnenstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Tilo",
+        "vorname": "Bertram",
         "weiblich": false
     }
 }

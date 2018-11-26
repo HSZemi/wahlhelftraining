@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1850860,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1399346,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "04.03.1999",
-        "matrikelnummer": 2311108,
+        "fakultaet": 2,
+        "geburtsdatum": "15.09.1998",
+        "matrikelnummer": 12371,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Engelhard",
-        "plzort": "53175 Bonn",
+        "nachname": "Goebel",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Ausschl\u00e4ger Allee 4",
+        "strasse": "Goldpeppingstra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             }
         ],
-        "vorname": "Willma",
-        "weiblich": true
+        "vorname": "Jean",
+        "weiblich": false
     }
 }

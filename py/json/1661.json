@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2730529,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2817893,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.11.1994",
-        "matrikelnummer": 2313151,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "21.10.1992",
+        "matrikelnummer": 2915564,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nagy",
-        "plzort": "53137 Bonn",
+        "nachname": "Friese",
+        "plzort": "67744 Seelen",
         "sternchen": 0,
-        "strasse": "Danziger Stra\u00dfe 13",
+        "strasse": "Windeckstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Winrich",
+        "vorname": "Runfried",
         "weiblich": false
     }
 }

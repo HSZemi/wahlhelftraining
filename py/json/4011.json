@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2592953,
-    "semester": "Sommersemester 2017",
+    "nummer": 2587935,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "18.09.1988",
-        "matrikelnummer": 134775,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "20.03.1993",
+        "matrikelnummer": 2894666,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rusch",
-        "plzort": "53164 Bonn",
+        "nachname": "May",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Kleebergstra\u00dfe 15c",
+        "strasse": "Erste Diagonalbr\u00fccke 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Asienwissenschaften",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Indologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Brunhildis",
-        "weiblich": true
+        "vorname": "Reinhard",
+        "weiblich": false
     }
 }

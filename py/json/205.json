@@ -1,28 +1,33 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2173776,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1736942,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.11.1993",
-        "matrikelnummer": 2887249,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "13.11.1994",
+        "matrikelnummer": 2964790,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53128 Bonn",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Knappsdorfer Stra\u00dfe 8",
+        "strasse": "Taufsteinweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
         "vorname": "Marcel",

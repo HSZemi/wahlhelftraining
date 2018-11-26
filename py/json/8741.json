@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2927038,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1611192,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "14.03.1986",
-        "matrikelnummer": 2506717,
+        "fakultaet": 5,
+        "geburtsdatum": "20.04.1996",
+        "matrikelnummer": 2503813,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Euler",
-        "plzort": "53185 Bonn",
+        "nachname": "Ammann",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Lange Stra\u00dfe 10",
+        "strasse": "Langweidenstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 13
             }
         ],
-        "vorname": "Hulda",
-        "weiblich": true
+        "vorname": "Odilo",
+        "weiblich": false
     }
 }

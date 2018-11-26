@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1969657,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2953715,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "05.06.1992",
-        "matrikelnummer": 2872511,
+        "fakultaet": 2,
+        "geburtsdatum": "12.01.1994",
+        "matrikelnummer": 3058304,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zettl",
-        "plzort": "53219 Bonn",
+        "nachname": "Dyck",
+        "plzort": "53195 Bonn",
         "sternchen": 0,
-        "strasse": "Am Klosterhof 6",
+        "strasse": "Klaus-Groth-Stra\u00dfe 27",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie",
+                "fsem": 7
             }
         ],
-        "vorname": "Gudula",
-        "weiblich": true
+        "vorname": "Christward",
+        "weiblich": false
     }
 }

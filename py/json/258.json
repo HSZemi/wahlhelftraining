@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1041572,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1870618,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.07.1996",
-        "matrikelnummer": 2324487,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "16.07.1984",
+        "matrikelnummer": 3188637,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Heinen",
-        "plzort": "74936 Siegelsbach",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zemantek",
+        "plzort": "21368 Boitze",
         "sternchen": 0,
-        "strasse": "Isenburger Schneise 3",
+        "strasse": "Joseph-Keilberth-Stra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

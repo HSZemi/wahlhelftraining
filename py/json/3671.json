@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1766754,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1659170,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.08.1999",
-        "matrikelnummer": 2692127,
+        "fakultaet": 0,
+        "geburtsdatum": "07.02.1995",
+        "matrikelnummer": 2993030,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Paulsen",
-        "plzort": "53143 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Brummer",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "S\u00fcderstra\u00dfe 23c",
+        "strasse": "Siebenlehner Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
             }
         ],
-        "vorname": "Kay",
-        "weiblich": false
+        "vorname": "Berta",
+        "weiblich": true
     }
 }

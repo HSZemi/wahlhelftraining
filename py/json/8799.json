@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2245380,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2426580,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "04.06.1988",
-        "matrikelnummer": 2148062,
+        "geburtsdatum": "20.04.1994",
+        "matrikelnummer": 16790,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "B\u00f6hnke",
-        "plzort": "06727 Thei\u00dfen",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schaper",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bahnhof Ottensen 3",
+        "strasse": "Hans-Eick-Weg 6",
         "studienfaecher": [
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 11
+            },
             {
                 "abschluss": "Master",
                 "fach": "Klinische Medizintechnik",
-                "fsem": 4
+                "fsem": 11
             }
         ],
-        "vorname": "Adelinde",
-        "weiblich": true
+        "vorname": "Gert",
+        "weiblich": false
     }
 }

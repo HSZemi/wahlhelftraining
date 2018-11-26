@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1028449,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2437099,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "16.10.1990",
-        "matrikelnummer": 3084111,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "25.02.1994",
+        "matrikelnummer": 2495076,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Roscher",
-        "plzort": "53217 Bonn",
+        "nachname": "Steinmann",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Schlachtbr\u00fcckengasse 5",
+        "strasse": "Kramergasse 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Arzneimittelwissenschaften",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Luitgart",
+        "vorname": "Anette",
         "weiblich": true
     }
 }

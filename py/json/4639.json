@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1425018,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1017430,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.06.1996",
-        "matrikelnummer": 3007351,
+        "fakultaet": 5,
+        "geburtsdatum": "13.07.1993",
+        "matrikelnummer": 2315195,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Knoblauch",
-        "plzort": "53212 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schultes",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "An der K\u00fcmmelschenke 2",
+        "strasse": "Ferdinand-Kramer-Stra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geschichte",
+                "fsem": 7
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
                 "fsem": 3
             }
         ],
-        "vorname": "Janette",
+        "vorname": "Hanne",
         "weiblich": true
     }
 }

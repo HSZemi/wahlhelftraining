@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2998780,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2920782,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "15.01.1989",
-        "matrikelnummer": 2510325,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Heine",
-        "plzort": "53144 Bonn",
+        "fakultaet": 1,
+        "geburtsdatum": "03.03.1992",
+        "matrikelnummer": 164295,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "H\u00e4berle",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Stadtblick 3",
+        "strasse": "Langenauer Weg 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Frida",
-        "weiblich": true
+        "vorname": "Eberhart",
+        "weiblich": false
     }
 }

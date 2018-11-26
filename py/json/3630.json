@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2935272,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2577903,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.05.1998",
-        "matrikelnummer": 2603104,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "27.10.1999",
+        "matrikelnummer": 2066746,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stumpf",
-        "plzort": "53139 Bonn",
+        "nachname": "Buse",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Kaspar-Zeu\u00df-Weg 1",
+        "strasse": "D\u00fcrrseestr. 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 11
             }
         ],
-        "vorname": "Irmhild",
-        "weiblich": true
+        "vorname": "Herfried",
+        "weiblich": false
     }
 }

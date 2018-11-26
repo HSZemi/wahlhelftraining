@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2690819,
+    "nummer": 1792529,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.05.1994",
-        "matrikelnummer": 179969,
+        "fakultaet": 8,
+        "geburtsdatum": "15.04.1988",
+        "matrikelnummer": 2412766,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Holland",
-        "plzort": "53224 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Wedekind",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Hachmannplatz 15b",
+        "strasse": "Bernhard-Grzimek-Allee 19",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 12
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Norma",
-        "weiblich": true
+        "vorname": "Detlef",
+        "weiblich": false
     }
 }

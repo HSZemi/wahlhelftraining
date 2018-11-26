@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1514806,
+    "nummer": 2341333,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "07.08.1993",
-        "matrikelnummer": 3058866,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Schenkel",
-        "plzort": "53210 Bonn",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "07.08.1997",
+        "matrikelnummer": 2027126,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schopf",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Sternwartstr. 6",
+        "strasse": "Stumpenweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Altfried",
-        "weiblich": false
+        "vorname": "Kati",
+        "weiblich": true
     }
 }

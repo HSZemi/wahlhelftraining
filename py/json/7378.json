@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2247671,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2314685,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "21.10.1997",
-        "matrikelnummer": 2531266,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "20.08.1993",
+        "matrikelnummer": 3123096,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wild",
-        "plzort": "46485 Wesel",
+        "nachname": "Klos",
+        "plzort": "06888 Abtsdorf",
         "sternchen": 0,
-        "strasse": "Schelsberg 11",
+        "strasse": "Samstagsberg 6c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Hubertus",
+        "vorname": "Engelmar",
         "weiblich": false
     }
 }

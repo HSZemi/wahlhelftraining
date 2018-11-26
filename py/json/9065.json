@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1352438,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2023004,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "19.09.1997",
-        "matrikelnummer": 2670400,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "15.07.1989",
+        "matrikelnummer": 1949218,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Braune",
-        "plzort": "53171 Bonn",
+        "nachname": "H\u00e4fele",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Cossebauder Weg 4",
+        "strasse": "Braunstieg 19",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Mathematik",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Plant Sciences",
+                "fsem": 6
             }
         ],
-        "vorname": "Anuschka",
-        "weiblich": true
+        "vorname": "Arnt",
+        "weiblich": false
     }
 }

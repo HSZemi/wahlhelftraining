@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1204999,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2243187,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "05.11.1992",
-        "matrikelnummer": 1971926,
+        "geburtsdatum": "10.05.1990",
+        "matrikelnummer": 2999380,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krause",
-        "plzort": "46342 Velen",
+        "nachname": "Hundt",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Klitscherstra\u00dfe 15",
+        "strasse": "An der Bildeiche 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Kulturwissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 9
             }
         ],
-        "vorname": "Dieterich",
-        "weiblich": false
+        "vorname": "Leokadia",
+        "weiblich": true
     }
 }

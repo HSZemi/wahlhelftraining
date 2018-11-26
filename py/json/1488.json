@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2863114,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2536118,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "04.01.1999",
-        "matrikelnummer": 3181257,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "10.03.1987",
+        "matrikelnummer": 2201057,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Vogel",
-        "plzort": "53184 Bonn",
+        "nachname": "Thiemann",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Ratsstra\u00dfe 7",
+        "strasse": "Siedlungsstra\u00dfe 4c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Jens",
-        "weiblich": false
+        "vorname": "Selma",
+        "weiblich": true
     }
 }

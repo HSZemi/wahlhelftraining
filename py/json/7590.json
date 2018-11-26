@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2604996,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1579346,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.07.1997",
-        "matrikelnummer": 2595718,
+        "fakultaet": 7,
+        "geburtsdatum": "16.07.1995",
+        "matrikelnummer": 174782,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kick",
-        "plzort": "53187 Bonn",
+        "nachname": "Fleischer",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "Kalk-M\u00fclheimer-Stra\u00dfe 3",
+        "strasse": "Lohrgasse 22",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Agricultural and Food Economics",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 1
             }
         ],
-        "vorname": "Didi",
+        "vorname": "Rupertus",
         "weiblich": false
     }
 }

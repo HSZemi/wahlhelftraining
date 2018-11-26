@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1072673,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2683984,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "05.07.1991",
-        "matrikelnummer": 2096222,
+        "fakultaet": 0,
+        "geburtsdatum": "07.03.1988",
+        "matrikelnummer": 111608,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gaus",
-        "plzort": "94547 Iggensbach",
+        "nachname": "Sohn",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Am Brauhaus 12",
+        "strasse": "Klingestra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Nutzpflanzenwissenschaften",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Emilia",
-        "weiblich": true
+        "vorname": "Wilbrand",
+        "weiblich": false
     }
 }

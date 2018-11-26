@@ -1,38 +1,28 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2012534,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2660548,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "01.12.1999",
-        "matrikelnummer": 2358023,
+        "fakultaet": 6,
+        "geburtsdatum": "01.06.1996",
+        "matrikelnummer": 2733016,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "53176 Bonn",
+        "plzort": "04617 Kriebitzsch",
         "sternchen": 0,
-        "strasse": "Hohenbusch-Markt 15",
+        "strasse": "Gottfried Kumpfgasse 4",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Physik der Erde und Atmosph\u00e4re",
+                "fsem": 13
             }
         ],
         "vorname": "Sven",

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2832120,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1474634,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "18.08.1991",
-        "matrikelnummer": 2194491,
+        "fakultaet": 5,
+        "geburtsdatum": "07.08.1995",
+        "matrikelnummer": 2438318,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hagedorn",
-        "plzort": "53192 Bonn",
+        "nachname": "Jost",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Lichtenbergstra\u00dfe 4",
+        "strasse": "Ernst-Zinner-Str. 14",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Karlmann",
-        "weiblich": false
+        "vorname": "Janine",
+        "weiblich": true
     }
 }

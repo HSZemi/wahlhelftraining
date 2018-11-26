@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2735925,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2375406,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.10.1994",
-        "matrikelnummer": 2436699,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "15.09.1996",
+        "matrikelnummer": 12296,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Stiefel",
-        "plzort": "53121 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schilling",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Matthias-Claudius-Stra\u00dfe 5",
+        "strasse": "Immenlach 19c",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Felicia",
-        "weiblich": true
+        "vorname": "Ekkehardt",
+        "weiblich": false
     }
 }

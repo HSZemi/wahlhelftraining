@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2104472,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2521171,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.12.1993",
-        "matrikelnummer": 2519509,
+        "fakultaet": 7,
+        "geburtsdatum": "18.11.1993",
+        "matrikelnummer": 2931935,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kraus",
-        "plzort": "53167 Bonn",
+        "nachname": "Ebert",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Hennebergerstr. 0",
+        "strasse": "Spindelkamp 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Fritz",
-        "weiblich": false
+        "vorname": "Marie",
+        "weiblich": true
     }
 }

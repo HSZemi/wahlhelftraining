@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2889753,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2652345,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.03.1995",
-        "matrikelnummer": 2263892,
+        "fakultaet": 7,
+        "geburtsdatum": "09.09.1990",
+        "matrikelnummer": 13089,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ruhl",
-        "plzort": "53185 Bonn",
+        "nachname": "Th\u00f6ne",
+        "plzort": "56459 Weltersburg",
         "sternchen": 0,
-        "strasse": "Fritz-Meinhardt-Stra\u00dfe 12",
+        "strasse": "Buchnerstra\u00dfe 5",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 3
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 1
             }
         ],
-        "vorname": "Denise",
-        "weiblich": true
+        "vorname": "Holm",
+        "weiblich": false
     }
 }

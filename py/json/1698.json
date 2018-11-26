@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1158657,
+    "nummer": 2741169,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "08.11.1997",
-        "matrikelnummer": 2083327,
+        "fakultaet": 6,
+        "geburtsdatum": "22.04.1994",
+        "matrikelnummer": 3129065,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klug",
-        "plzort": "07429 Sitzendorf",
+        "nachname": "Ewers",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Kinzigstra\u00dfe 14",
+        "strasse": "Semperstr. 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Chemie",
                 "fsem": 13
             }
         ],
-        "vorname": "Gerhart",
-        "weiblich": false
+        "vorname": "Hildetraud",
+        "weiblich": true
     }
 }

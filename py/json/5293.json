@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2836067,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1714282,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
         "fakultaet": 9,
-        "geburtsdatum": "03.10.1988",
-        "matrikelnummer": 2874014,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kalisch",
-        "plzort": "79291 Merdingen",
+        "geburtsdatum": "27.10.1993",
+        "matrikelnummer": 2778315,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kirchhof",
+        "plzort": "16359 Lanke",
         "sternchen": 0,
-        "strasse": "Rudolf-Renner-Stra\u00dfe 7",
+        "strasse": "Dischers Barg 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Agricultural and Food Economics",
-                "fsem": 7
+                "fach": "Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Sascha",
-        "weiblich": false
+        "vorname": "Walfriede",
+        "weiblich": true
     }
 }

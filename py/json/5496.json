@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2399257,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1651893,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "13.06.1986",
-        "matrikelnummer": 2821927,
+        "geburtsdatum": "16.10.1993",
+        "matrikelnummer": 2410594,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Neumeier",
-        "plzort": "37345 Bockelnhagen",
+        "nachname": "Bartsch",
+        "plzort": "25725 Schafstedt",
         "sternchen": 0,
-        "strasse": "Eulenweg 15",
+        "strasse": "Neue Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
+                "abschluss": "Bachelor of Science",
                 "fach": "Psychologie",
                 "fsem": 5
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
             }
         ],
-        "vorname": "Emmeran",
-        "weiblich": false
+        "vorname": "Friedliese",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1123806,
-    "semester": "Sommersemester 2017",
+    "nummer": 2983262,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.03.1992",
-        "matrikelnummer": 2378650,
+        "fakultaet": 3,
+        "geburtsdatum": "17.01.1999",
+        "matrikelnummer": 2955525,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bernhard",
-        "plzort": "53139 Bonn",
+        "nachname": "John",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Olberskamp 12",
+        "strasse": "Hansaallee 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Altamerikanistik und Ethnologie",
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
                 "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 3
             }
         ],
-        "vorname": "Andrea",
+        "vorname": "Sidonie",
         "weiblich": true
     }
 }

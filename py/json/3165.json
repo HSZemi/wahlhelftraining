@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2114694,
+    "nummer": 2650155,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.08.1997",
-        "matrikelnummer": 135965,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "02.12.1999",
+        "matrikelnummer": 12543,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Muth",
-        "plzort": "53131 Bonn",
+        "nachname": "Herr",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Geyersw\u00f6rthplatz 30",
+        "strasse": "Zschonergrundstra\u00dfe 5d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Arend",
-        "weiblich": false
+        "vorname": "Ira",
+        "weiblich": true
     }
 }

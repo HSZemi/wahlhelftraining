@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2387543,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2248946,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.12.1990",
-        "matrikelnummer": 2902223,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "21.12.1991",
+        "matrikelnummer": 167631,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53202 Bonn",
+        "nachname": "Heinen",
+        "plzort": "96187 Stadelhofen",
         "sternchen": 0,
-        "strasse": "Kleinschmidtstra\u00dfe 6",
+        "strasse": "Anwanderstr. 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 7
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

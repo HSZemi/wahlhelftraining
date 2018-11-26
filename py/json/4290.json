@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1709666,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2538917,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "12.02.1989",
-        "matrikelnummer": 2597331,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "19.01.1991",
+        "matrikelnummer": 150448,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Voll",
-        "plzort": "53121 Bonn",
+        "nachname": "Hofmeister",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Joseph-Keilberth-Stra\u00dfe 0",
+        "strasse": "Steinertstr. 23",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Informatik",
-                "fsem": 9
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Veith",
+        "vorname": "Gertwin",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1814059,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1552200,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "20.12.1985",
-        "matrikelnummer": 2259422,
+        "fakultaet": 7,
+        "geburtsdatum": "16.06.1992",
+        "matrikelnummer": 3049348,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ross",
-        "plzort": "53179 Bonn",
+        "nachname": "Steidle",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Ro\u00dfdorfer Stra\u00dfe 8",
+        "strasse": "Kuhwaldstra\u00dfe, Bockenheim 4",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 7
+                "fach": "Lebensmittelchemie",
+                "fsem": 1
             }
         ],
-        "vorname": "Anna-Maria",
-        "weiblich": true
+        "vorname": "Karlmann",
+        "weiblich": false
     }
 }

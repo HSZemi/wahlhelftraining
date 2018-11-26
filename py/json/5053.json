@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1907148,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1299658,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.01.1991",
-        "matrikelnummer": 13298,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "27.01.1992",
+        "matrikelnummer": 3133920,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dinter",
-        "plzort": "53137 Bonn",
+        "nachname": "H\u00fcmmer",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Buschweg 16",
+        "strasse": "Kappelmattstr. 10",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 4
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Ferfried",
+        "vorname": "Reino",
         "weiblich": false
     }
 }

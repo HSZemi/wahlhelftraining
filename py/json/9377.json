@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1258515,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1796506,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.04.1990",
-        "matrikelnummer": 2867159,
+        "fakultaet": 6,
+        "geburtsdatum": "08.08.1996",
+        "matrikelnummer": 2856826,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Raschke",
-        "plzort": "23746 Kellenhusen",
+        "nachname": "Lippmann",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Hilligengasse 3",
+        "strasse": "Damaschkeanger 31",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Chemie",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 11
             },
             {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 5
             }
         ],
-        "vorname": "Sonia",
+        "vorname": "Editha",
         "weiblich": true
     }
 }

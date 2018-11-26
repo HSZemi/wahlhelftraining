@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2895994,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2594776,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "14.04.1991",
-        "matrikelnummer": 2047433,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "25.08.1996",
+        "matrikelnummer": 1943787,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holtz",
-        "plzort": "53116 Bonn",
+        "nachname": "K\u00f6ppen",
+        "plzort": "24259 Westensee",
         "sternchen": 0,
-        "strasse": "Karl-Scheele-Stra\u00dfe 7",
+        "strasse": "Scharfenberger Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Deutsch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 8
             }
         ],
-        "vorname": "Lili",
-        "weiblich": true
+        "vorname": "Ansbert",
+        "weiblich": false
     }
 }

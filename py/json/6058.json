@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1945008,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1994418,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.12.1999",
-        "matrikelnummer": 2200109,
+        "fakultaet": 9,
+        "geburtsdatum": "03.12.1989",
+        "matrikelnummer": 2617949,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nelles",
-        "plzort": "91080 Marloffstein",
+        "nachname": "Richter",
+        "plzort": "37449 Zorge",
         "sternchen": 0,
-        "strasse": "Wilhelm-Buck-Stra\u00dfe 4",
+        "strasse": "\u00d6denburger Stra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 1
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Heino",
-        "weiblich": false
+        "vorname": "Christamaria",
+        "weiblich": true
     }
 }

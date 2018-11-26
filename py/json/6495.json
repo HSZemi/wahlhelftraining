@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1468465,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2867633,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "21.11.1994",
-        "matrikelnummer": 2052796,
+        "geburtsdatum": "01.12.1990",
+        "matrikelnummer": 2741247,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Salzmann",
-        "plzort": "53126 Bonn",
+        "nachname": "Lewandowski",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Birkengasse 9",
+        "strasse": "Friedrich-Sch\u00fctter-Platz 6",
         "studienfaecher": [
             {
                 "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 13
+                "fach": "Medizinische Biometrie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Hannspeter",
-        "weiblich": false
+        "vorname": "Liliana",
+        "weiblich": true
     }
 }

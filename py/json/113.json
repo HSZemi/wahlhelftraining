@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1596617,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1986906,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "04.12.1991",
-        "matrikelnummer": 1955228,
+        "fakultaet": 5,
+        "geburtsdatum": "17.01.1994",
+        "matrikelnummer": 1940813,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53153 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Bromme-Steig 44c",
+        "strasse": "Beltgens Garten 0",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Alte Geschichte",
+                "fsem": 12
             },
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 13
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

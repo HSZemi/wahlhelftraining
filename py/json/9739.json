@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2025839,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2751465,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "14.05.1994",
-        "matrikelnummer": 2357773,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "03.11.1999",
+        "matrikelnummer": 2941122,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Luther",
-        "plzort": "53163 Bonn",
+        "nachname": "Limmer",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Kastanienstra\u00dfe 24",
+        "strasse": "Pappelweg 24",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 4
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Raimer",
-        "weiblich": false
+        "vorname": "Judith",
+        "weiblich": true
     }
 }

@@ -2,30 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2232594,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2592541,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "16.11.1991",
-        "matrikelnummer": 2876968,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "21.06.1986",
+        "matrikelnummer": 3173173,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Simons",
-        "plzort": "53129 Bonn",
+        "nachname": "Brettschneider",
+        "plzort": "06193 Teicha",
         "sternchen": 0,
-        "strasse": "Domstr. 7",
+        "strasse": "Semmelweisstr. 13",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 9
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Ingeburg",
-        "weiblich": true
+        "vorname": "Emil",
+        "weiblich": false
     }
 }

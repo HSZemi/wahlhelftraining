@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1726456,
-    "semester": "Sommersemester 2017",
+    "nummer": 1235336,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.06.1999",
-        "matrikelnummer": 176174,
+        "fakultaet": 2,
+        "geburtsdatum": "23.07.1989",
+        "matrikelnummer": 2465604,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00e4uerle",
-        "plzort": "91639 Wolframs-Eschenbach",
+        "nachname": "Sch\u00e4fer",
+        "plzort": "08312 Lauter/Sachsen",
         "sternchen": 0,
-        "strasse": "Wackerhagen 8",
+        "strasse": "Turmstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Viktoria",
-        "weiblich": true
+        "vorname": "Tobias",
+        "weiblich": false
     }
 }

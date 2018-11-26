@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2039764,
-    "semester": "Sommersemester 2017",
+    "nummer": 1380412,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.03.1997",
-        "matrikelnummer": 2929843,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "08.12.1999",
+        "matrikelnummer": 2586040,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weinert",
-        "plzort": "55566 Kirschroth",
+        "nachname": "Dohrmann",
+        "plzort": "18182 Gelbensande",
         "sternchen": 0,
-        "strasse": "Maacksgasse 18",
+        "strasse": "Potthoffstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 12
             }
         ],
-        "vorname": "Lienhard",
-        "weiblich": false
+        "vorname": "Dietlind",
+        "weiblich": true
     }
 }

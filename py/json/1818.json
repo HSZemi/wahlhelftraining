@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": true
     },
-    "nummer": 1923586,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1914499,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "24.03.1991",
-        "matrikelnummer": 197108,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "26.08.1987",
+        "matrikelnummer": 2265671,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jessen",
-        "plzort": "53222 Bonn",
+        "nachname": "Gl\u00fcck",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Gem\u00fcndener Stra\u00dfe 12",
+        "strasse": "Hoher Nu\u00dfbaumweg 13",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Gustav",
-        "weiblich": false
+        "vorname": "Albine",
+        "weiblich": true
     }
 }

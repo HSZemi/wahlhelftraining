@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1621896,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2459793,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "13.08.1994",
-        "matrikelnummer": 2216422,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 5,
+        "geburtsdatum": "14.09.1995",
+        "matrikelnummer": 2137204,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Euler",
-        "plzort": "99310 Dornheim",
+        "nachname": "Koopmann",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Masurenweg 2c",
+        "strasse": "Heinrich-Grone-Stieg 28",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 13
+                "abschluss": "Master of Arts",
+                "fach": "English Literatures and Cultures",
+                "fsem": 2
             }
         ],
-        "vorname": "Cai",
-        "weiblich": false
+        "vorname": "Giselind",
+        "weiblich": true
     }
 }

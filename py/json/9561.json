@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1463882,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2989138,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "10.06.1993",
-        "matrikelnummer": 130347,
+        "geburtsdatum": "04.09.1994",
+        "matrikelnummer": 2996819,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "B\u00e4cker",
-        "plzort": "53169 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hegemann",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Wuttkestra\u00dfe 2",
+        "strasse": "Arnsburger Stra\u00dfe 17",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Psychologie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 1
+                "fsem": 5
             }
         ],
-        "vorname": "Kora",
-        "weiblich": true
+        "vorname": "Joscha",
+        "weiblich": false
     }
 }

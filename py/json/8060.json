@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1735600,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2549823,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.11.1988",
-        "matrikelnummer": 2502222,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "24.10.1991",
+        "matrikelnummer": 2509602,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "M\u00f6hle",
-        "plzort": "53126 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gabriel",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Hermann-Michel-Stra\u00dfe 0",
+        "strasse": "Lindenplatz 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
-                "fsem": 10
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Naturschutz und Landschafts\u00f6kologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Selina",
+        "vorname": "Jadwiga",
         "weiblich": true
     }
 }

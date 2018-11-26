@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1757908,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2972902,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.08.1988",
-        "matrikelnummer": 114043,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "28.02.1994",
+        "matrikelnummer": 155634,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kilic",
-        "plzort": "53168 Bonn",
+        "nachname": "Merker",
+        "plzort": "07747 Jena",
         "sternchen": 0,
-        "strasse": "Paul-B\u00fcttner-Stra\u00dfe 2",
+        "strasse": "Hauerstra\u00dfe 15",
         "studienfaecher": [
             {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 13
             }
         ],
-        "vorname": "Heideliese",
+        "vorname": "Trautlind",
         "weiblich": true
     }
 }

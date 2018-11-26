@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2752644,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2543409,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "12.03.1996",
-        "matrikelnummer": 1968546,
+        "geburtsdatum": "06.06.1991",
+        "matrikelnummer": 2455880,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53173 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Luciusstra\u00dfe 3",
+        "strasse": "Heimgarten 5a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
                 "fsem": 6
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 2
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

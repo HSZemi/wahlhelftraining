@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1005227,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2132033,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "24.03.1998",
-        "matrikelnummer": 18152,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "23.02.1996",
+        "matrikelnummer": 3166142,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Toth",
-        "plzort": "22962 Siek",
+        "nachname": "Petzold",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Richard-Breitenfeld-Stra\u00dfe 0",
+        "strasse": "Ke\u00dflerstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 11
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Sabrina",
-        "weiblich": true
+        "vorname": "Ekkard",
+        "weiblich": false
     }
 }

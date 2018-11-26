@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2107007,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1142171,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 2,
-        "geburtsdatum": "21.02.1987",
-        "matrikelnummer": 2953078,
+        "geburtsdatum": "17.03.1995",
+        "matrikelnummer": 2560508,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6hrig",
-        "plzort": "53129 Bonn",
+        "nachname": "Spielmann",
+        "plzort": "24616 Hardebek",
         "sternchen": 0,
-        "strasse": "Willibrachtstra\u00dfe 3",
+        "strasse": "Schleemkoppel 12",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 6
             }
         ],
-        "vorname": "Renatus",
+        "vorname": "Volker",
         "weiblich": false
     }
 }

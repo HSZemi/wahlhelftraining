@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2410846,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1135649,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.05.1991",
-        "matrikelnummer": 196274,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "11.07.1998",
+        "matrikelnummer": 2641912,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinberg",
-        "plzort": "53178 Bonn",
+        "nachname": "Fritsch",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Pappelweg 19",
+        "strasse": "Hammer Berg 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Chemie",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Sigisbert",
+        "vorname": "Maic",
         "weiblich": false
     }
 }

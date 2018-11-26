@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2231947,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2524795,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "26.07.1993",
-        "matrikelnummer": 3187337,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "23.07.1990",
+        "matrikelnummer": 2390555,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Kurz",
-        "plzort": "53139 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kloos",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Georg-Speyer-Stra\u00dfe 34",
+        "strasse": "Normannenweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
                 "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Jonas",
-        "weiblich": false
+        "vorname": "Edelinde",
+        "weiblich": true
     }
 }

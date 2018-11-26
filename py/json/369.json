@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1698989,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2814463,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.01.1993",
-        "matrikelnummer": 2128121,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "25.06.1993",
+        "matrikelnummer": 2948278,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53229 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00f6nburgstra\u00dfe 9",
+        "strasse": "Oberaltenallee 25",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Politikwissenschaft",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

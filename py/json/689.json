@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1950234,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1173762,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.12.1989",
-        "matrikelnummer": 2372962,
+        "fakultaet": 6,
+        "geburtsdatum": "04.04.1997",
+        "matrikelnummer": 16916,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "P\u00f6tzsch",
-        "plzort": "53151 Bonn",
+        "nachname": "Mengel",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Lomnitzer Stra\u00dfe 11",
+        "strasse": "Ohlwurt 0",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 6
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 9
             }
         ],
-        "vorname": "Reginhardt",
-        "weiblich": false
+        "vorname": "Ewa",
+        "weiblich": true
     }
 }

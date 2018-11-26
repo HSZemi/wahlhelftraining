@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2061602,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2659870,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.12.1987",
-        "matrikelnummer": 14425,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "25.06.1994",
+        "matrikelnummer": 2884116,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Faust",
-        "plzort": "19246 Zarrentin",
+        "nachname": "Neff",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Gundermannstra\u00dfe 12",
+        "strasse": "Wichernstra\u00dfe 33d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             },
             {
                 "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 5
+                "fach": "Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Marena",
+        "vorname": "Fine",
         "weiblich": true
     }
 }

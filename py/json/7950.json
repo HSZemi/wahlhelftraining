@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2097734,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1263892,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "17.04.1999",
-        "matrikelnummer": 2065850,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "24.02.1997",
+        "matrikelnummer": 1962705,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seibt",
-        "plzort": "53163 Bonn",
+        "nachname": "Mangold",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Schumann-Platz 6",
+        "strasse": "Lenn\u00e9platz 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 1
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 5
             }
         ],
-        "vorname": "Leo",
-        "weiblich": false
+        "vorname": "Traude",
+        "weiblich": true
     }
 }

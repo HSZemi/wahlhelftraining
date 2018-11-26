@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2927984,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2934374,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "14.07.1995",
-        "matrikelnummer": 2674948,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "18.09.1991",
+        "matrikelnummer": 2489782,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Krumm",
-        "plzort": "53216 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00f6hm",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Grauener Weg 0",
+        "strasse": "Rudolf-Hilferding-Stra\u00dfe 45c",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
                 "fsem": 8
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
             }
         ],
-        "vorname": "Annalene",
-        "weiblich": true
+        "vorname": "Roger",
+        "weiblich": false
     }
 }

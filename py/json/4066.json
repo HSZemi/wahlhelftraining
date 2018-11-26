@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2347924,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2354175,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "17.10.1991",
-        "matrikelnummer": 165125,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "04.01.1990",
+        "matrikelnummer": 2136589,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buschmann",
-        "plzort": "53149 Bonn",
+        "nachname": "Zobel",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Scharfenberger Stra\u00dfe 23",
+        "strasse": "R\u00fcsterstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Hannelore",
+        "vorname": "Sylvie",
         "weiblich": true
     }
 }

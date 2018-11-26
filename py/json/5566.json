@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2149581,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2350794,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.03.1992",
-        "matrikelnummer": 2575696,
+        "fakultaet": 6,
+        "geburtsdatum": "24.05.1992",
+        "matrikelnummer": 2769571,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klaus",
-        "plzort": "53196 Bonn",
+        "nachname": "Heyne",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Sachsenkamp 20",
+        "strasse": "Heinrich-Becker-Stra\u00dfe 12c",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Italienisch",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 10
             }
         ],
-        "vorname": "Bertl",
-        "weiblich": false
+        "vorname": "Sibyl",
+        "weiblich": true
     }
 }

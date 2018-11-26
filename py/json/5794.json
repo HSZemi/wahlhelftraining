@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2910499,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2934199,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "08.03.1999",
-        "matrikelnummer": 3098107,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "06.04.1996",
+        "matrikelnummer": 2900651,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dohmen",
-        "plzort": "53194 Bonn",
+        "nachname": "G\u00e4bler",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Leonhard-Hei\u00dfwolf-Stra\u00dfe 0",
+        "strasse": "Cauerstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "English Literatures and Cultures",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 7
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 10
             }
         ],
-        "vorname": "Sigfried",
+        "vorname": "Dietfried",
         "weiblich": false
     }
 }

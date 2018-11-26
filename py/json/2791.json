@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1707144,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2668277,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "16.05.1994",
-        "matrikelnummer": 2753618,
+        "fakultaet": 5,
+        "geburtsdatum": "03.02.1991",
+        "matrikelnummer": 2513929,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Blum",
-        "plzort": "53198 Bonn",
+        "nachname": "Rieck",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Mainstr. 8",
+        "strasse": "Winzerweg 0d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
             },
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Damian",
+        "vorname": "Rainmund",
         "weiblich": false
     }
 }

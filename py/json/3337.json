@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1239086,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1258582,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "17.10.1999",
-        "matrikelnummer": 1981918,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "09.07.1991",
+        "matrikelnummer": 17293,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Enderle",
-        "plzort": "53202 Bonn",
+        "nachname": "Klement",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Jakob-Weinheimer-Stra\u00dfe 0e",
+        "strasse": "Buchheimer Ring 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Hubertus",
+        "vorname": "Bodomar",
         "weiblich": false
     }
 }

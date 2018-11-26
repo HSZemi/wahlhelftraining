@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1426321,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2246222,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "11.01.1989",
-        "matrikelnummer": 2366088,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "22.12.1992",
+        "matrikelnummer": 2459797,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6se",
-        "plzort": "53191 Bonn",
+        "nachname": "Breuer",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Pissarroweg 13",
+        "strasse": "Georg-Esser-Anlage 15c",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 8
             }
         ],
-        "vorname": "Brita",
-        "weiblich": true
+        "vorname": "Wingolf",
+        "weiblich": false
     }
 }

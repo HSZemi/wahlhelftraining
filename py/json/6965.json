@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1854453,
-    "semester": "Sommersemester 2017",
+    "nummer": 1728214,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "20.07.1999",
-        "matrikelnummer": 3010959,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "09.10.1996",
+        "matrikelnummer": 1984986,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bollmann",
-        "plzort": "53145 Bonn",
+        "nachname": "Uhlig",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "D\u00f6lzschener Stra\u00dfe 7",
+        "strasse": "Weidenbornstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 10
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Physik",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Mathematik",
+                "fsem": 1
             }
         ],
-        "vorname": "Carolina",
-        "weiblich": true
+        "vorname": "Warnfried",
+        "weiblich": false
     }
 }

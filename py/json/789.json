@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1704925,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1293410,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "19.07.1994",
-        "matrikelnummer": 2588393,
+        "fakultaet": 7,
+        "geburtsdatum": "12.02.1996",
+        "matrikelnummer": 3073287,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buschmann",
-        "plzort": "53199 Bonn",
+        "nachname": "Figge",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Gederner Stra\u00dfe 10",
+        "strasse": "Bauchwitzstr. 30",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 1
             }
         ],
-        "vorname": "Thilo",
-        "weiblich": false
+        "vorname": "Marie-Luise",
+        "weiblich": true
     }
 }

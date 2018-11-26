@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2411179,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2041599,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "14.12.1988",
-        "matrikelnummer": 2175444,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "17.05.1997",
+        "matrikelnummer": 3020730,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jahnke",
-        "plzort": "53131 Bonn",
+        "nachname": "Majewski",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Hans-Thoma-Stra\u00dfe 2",
+        "strasse": "Boseweg 13",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Sozialwissenschaften",
-                "fsem": 6
+                "abschluss": "Bachelor of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 3
             },
             {
-                "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             }
         ],
-        "vorname": "Tilmann",
-        "weiblich": false
+        "vorname": "Siegrid",
+        "weiblich": true
     }
 }

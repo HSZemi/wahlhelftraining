@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2402315,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2293760,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "08.01.1994",
-        "matrikelnummer": 3148265,
+        "fakultaet": 4,
+        "geburtsdatum": "15.08.1989",
+        "matrikelnummer": 2507984,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53158 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlenstra\u00dfe 0",
+        "strasse": "Unterer Leinritt 6",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Neuere Deutsche Literaturwissenschaft: Deutsch-Italienische Forschungen",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 1
+                "fach": "Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

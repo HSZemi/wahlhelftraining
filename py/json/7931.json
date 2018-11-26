@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2012407,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2108040,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "09.10.1993",
-        "matrikelnummer": 2802615,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "10.08.1993",
+        "matrikelnummer": 193195,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittich",
-        "plzort": "53162 Bonn",
+        "nachname": "Ehrenberg",
+        "plzort": "90409 N\u00fcrnberg",
         "sternchen": 0,
-        "strasse": "W\u00f6hlerstra\u00dfe 10",
+        "strasse": "Gro\u00dfr\u00f6hrsdorfer Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
                 "fsem": 4
             }
         ],
-        "vorname": "Gerdfried",
-        "weiblich": false
+        "vorname": "Heidelinde",
+        "weiblich": true
     }
 }

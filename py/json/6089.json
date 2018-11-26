@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1171374,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2272858,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.03.1993",
-        "matrikelnummer": 2442997,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "22.01.1994",
+        "matrikelnummer": 163164,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bielefeld",
-        "plzort": "53163 Bonn",
+        "nachname": "Bechtel",
+        "plzort": "19089 Zapel",
         "sternchen": 0,
-        "strasse": "Neue Gasse 9",
+        "strasse": "Bozener Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "fsem": 2
             }
         ],
-        "vorname": "Ralf",
+        "vorname": "Notker",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1294543,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1698280,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.07.1999",
-        "matrikelnummer": 13897,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "22.10.1996",
+        "matrikelnummer": 16583,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mattes",
-        "plzort": "53124 Bonn",
+        "nachname": "Wiemer",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Gelastra\u00dfe 0",
+        "strasse": "Elsterweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Herwald",
+        "vorname": "Gotthardt",
         "weiblich": false
     }
 }

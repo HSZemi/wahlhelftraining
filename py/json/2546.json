@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2882594,
-    "semester": "Sommersemester 2017",
+    "nummer": 2627851,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "06.04.1995",
-        "matrikelnummer": 2164457,
+        "fakultaet": 4,
+        "geburtsdatum": "23.06.1991",
+        "matrikelnummer": 2092676,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Feige",
-        "plzort": "85467 Neuching",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Wirth",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Schmiedstra\u00dfe 5",
+        "strasse": "Kasernstr. 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
                 "fsem": 8
             }
         ],
-        "vorname": "Sylvelin",
+        "vorname": "Zeynep",
         "weiblich": true
     }
 }

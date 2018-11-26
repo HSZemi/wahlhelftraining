@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1648101,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2447844,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.01.1996",
-        "matrikelnummer": 2836431,
+        "fakultaet": 1,
+        "geburtsdatum": "03.05.1997",
+        "matrikelnummer": 3005275,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Adam",
-        "plzort": "53160 Bonn",
+        "nachname": "Georg",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Sperlingsweg 0",
+        "strasse": "Lehenweg 7",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Adelinde",
-        "weiblich": true
+        "vorname": "Heribert",
+        "weiblich": false
     }
 }

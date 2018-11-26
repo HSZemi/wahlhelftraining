@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2870502,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2197362,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.05.1997",
-        "matrikelnummer": 2716955,
+        "fakultaet": 4,
+        "geburtsdatum": "09.03.1990",
+        "matrikelnummer": 2562588,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fischbach",
-        "plzort": "53186 Bonn",
+        "nachname": "Walz",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Kapersburgstra\u00dfe 10",
+        "strasse": "Besselplatz 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
             }
         ],
-        "vorname": "Harri",
+        "vorname": "Bastian",
         "weiblich": false
     }
 }

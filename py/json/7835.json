@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2305026,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2688839,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.03.1992",
-        "matrikelnummer": 3028312,
+        "fakultaet": 3,
+        "geburtsdatum": "10.02.1991",
+        "matrikelnummer": 2874827,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bellmann",
-        "plzort": "53219 Bonn",
+        "nachname": "Raith",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Buchtstra\u00dfe 15",
+        "strasse": "Stieglitzweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 2
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Serpil",
-        "weiblich": true
+        "vorname": "Nikolaus",
+        "weiblich": false
     }
 }

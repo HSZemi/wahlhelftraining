@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1657538,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1988239,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "07.08.1993",
-        "matrikelnummer": 2024345,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "25.12.1993",
+        "matrikelnummer": 115984,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Lange",
-        "plzort": "53188 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Michl",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Lugbergblick 10",
+        "strasse": "Die Bergner 1b",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
+                "fsem": 11
             }
         ],
-        "vorname": "Reinbert",
-        "weiblich": false
+        "vorname": "Judith",
+        "weiblich": true
     }
 }

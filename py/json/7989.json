@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2708922,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2371447,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "12.01.1987",
-        "matrikelnummer": 2954234,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "21.12.1999",
+        "matrikelnummer": 2454872,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gottschling",
-        "plzort": "53218 Bonn",
+        "nachname": "Lukas",
+        "plzort": "95502 Himmelkron",
         "sternchen": 0,
-        "strasse": "Torfweg 5",
+        "strasse": "Hauptstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 11
             }
         ],
-        "vorname": "Wilhard",
-        "weiblich": false
+        "vorname": "Gundel",
+        "weiblich": true
     }
 }

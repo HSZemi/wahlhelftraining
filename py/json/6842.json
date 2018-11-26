@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1988013,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2881897,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "06.06.1992",
-        "matrikelnummer": 2966538,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "05.02.1997",
+        "matrikelnummer": 2041109,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Schober",
-        "plzort": "22965 Todendorf",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Baldauf",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Malerg\u00e4\u00dfchen 5",
+        "strasse": "Koglweg 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 4
             }
         ],
-        "vorname": "Madleine",
+        "vorname": "Gertrude",
         "weiblich": true
     }
 }

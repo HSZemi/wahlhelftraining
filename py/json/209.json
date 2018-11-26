@@ -1,33 +1,28 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2920683,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1696721,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.06.1987",
-        "matrikelnummer": 149289,
+        "fakultaet": 2,
+        "geburtsdatum": "01.06.1999",
+        "matrikelnummer": 151111,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53152 Bonn",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Dornr\u00f6schenweg 3",
+        "strasse": "Richard-Weidlich-Platz 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Kunstgeschichte",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 2
             }
         ],
         "vorname": "Marcel",

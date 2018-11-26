@@ -2,30 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1181697,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2261104,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.09.1996",
-        "matrikelnummer": 2646684,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "01.09.1991",
+        "matrikelnummer": 2828057,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wellmann",
-        "plzort": "67482 Altdorf",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stegemann",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Koselstra\u00dfe 36",
+        "strasse": "Untere M\u00fchlbr\u00fccke 18",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Berni",
-        "weiblich": false
+        "vorname": "Thusnelda",
+        "weiblich": true
     }
 }

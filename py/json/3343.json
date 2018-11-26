@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1834107,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1296942,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "03.01.1996",
-        "matrikelnummer": 2412687,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "16.06.1997",
+        "matrikelnummer": 2263784,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lampert",
-        "plzort": "53173 Bonn",
+        "nachname": "Kreutzer",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Gurkenallee 0",
+        "strasse": "Dr.-Robert-Pfleger-Str. 0",
         "studienfaecher": [
             {
                 "abschluss": "Kirchl.Ex.",
                 "fach": "Altkatholische Theologie",
-                "fsem": 7
+                "fsem": 2
             }
         ],
-        "vorname": "Klausdieter",
-        "weiblich": false
+        "vorname": "Kata",
+        "weiblich": true
     }
 }

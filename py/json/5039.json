@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1210458,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2658417,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "18.10.1987",
-        "matrikelnummer": 1959220,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "03.04.1999",
+        "matrikelnummer": 2106506,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diefenbach",
-        "plzort": "53189 Bonn",
+        "nachname": "Repp",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Hammelsgasse 1",
+        "strasse": "Siebenb\u00fcrgener Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
-                "fsem": 6
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 9
             }
         ],
-        "vorname": "Heinzhermann",
-        "weiblich": false
+        "vorname": "Pia",
+        "weiblich": true
     }
 }

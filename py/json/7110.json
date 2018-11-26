@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1219054,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2253740,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.07.1994",
-        "matrikelnummer": 2457753,
+        "fakultaet": 8,
+        "geburtsdatum": "22.04.1996",
+        "matrikelnummer": 19612,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Majewski",
-        "plzort": "17034 Neubrandenburg",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Erbe",
+        "plzort": "79725 Laufenburg",
         "sternchen": 0,
-        "strasse": "Arnst\u00e4dter Weg 30",
+        "strasse": "Melisseweg 4a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 10
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 5
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 5
             }
         ],
-        "vorname": "Wilhelmine",
-        "weiblich": true
+        "vorname": "Ingowart",
+        "weiblich": false
     }
 }

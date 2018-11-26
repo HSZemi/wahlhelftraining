@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2225043,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2213678,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.10.1996",
-        "matrikelnummer": 2435799,
+        "fakultaet": 0,
+        "geburtsdatum": "24.08.1999",
+        "matrikelnummer": 19593,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lucas",
-        "plzort": "53124 Bonn",
+        "nachname": "Grams",
+        "plzort": "94104 Tittling",
         "sternchen": 0,
-        "strasse": "Steinritzstra\u00dfe 0",
+        "strasse": "An der Wolfsweide 20",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 3
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Phillippus",
+        "vorname": "Emeram",
         "weiblich": false
     }
 }

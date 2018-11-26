@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2081641,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2721782,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.02.1989",
-        "matrikelnummer": 2286486,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "02.03.1990",
+        "matrikelnummer": 2761287,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Derksen",
-        "plzort": "53205 Bonn",
+        "nachname": "Reimer",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Zwickauer Platz 22",
+        "strasse": "Kurzegasse 0c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Philosophie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Skandinavistik",
+                "fsem": 3
             }
         ],
-        "vorname": "Berta",
-        "weiblich": true
+        "vorname": "Hanshermann",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1847552,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2389088,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "24.01.1991",
-        "matrikelnummer": 2882233,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Sigl",
-        "plzort": "53150 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "10.06.1997",
+        "matrikelnummer": 2070318,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Knauer",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Dietesheimer Stra\u00dfe 9",
+        "strasse": "Bertolt-Brecht-Platz 11",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Brunhilda",
-        "weiblich": true
+        "vorname": "Martin",
+        "weiblich": false
     }
 }

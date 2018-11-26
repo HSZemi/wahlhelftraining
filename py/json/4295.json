@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1616369,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2933439,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.11.1991",
-        "matrikelnummer": 2103798,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "01.05.1998",
+        "matrikelnummer": 2497909,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00f6pfert",
-        "plzort": "51766 Engelskirchen",
+        "nachname": "Nachtigall",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Promenadestr. 8",
+        "strasse": "Bundenweg 35",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 1
             }
         ],
-        "vorname": "Ingelotte",
+        "vorname": "Laura",
         "weiblich": true
     }
 }

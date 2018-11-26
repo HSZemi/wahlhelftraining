@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2809750,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1917554,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "17.02.1996",
-        "matrikelnummer": 19455,
+        "fakultaet": 5,
+        "geburtsdatum": "01.07.1993",
+        "matrikelnummer": 2997643,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Damm",
-        "plzort": "88167 Gr\u00fcnenbach",
+        "nachname": "Brack",
+        "plzort": "97618 Hohenroth",
         "sternchen": 0,
-        "strasse": "Ardestorfer Weg 0",
+        "strasse": "Porzellanhofstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 2
             }
         ],
-        "vorname": "Oskar",
-        "weiblich": false
+        "vorname": "Gerritdina",
+        "weiblich": true
     }
 }

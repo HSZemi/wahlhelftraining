@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2253399,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1351667,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.01.1994",
-        "matrikelnummer": 2700158,
+        "fakultaet": 4,
+        "geburtsdatum": "09.11.1999",
+        "matrikelnummer": 3032253,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittich",
-        "plzort": "47608 Geldern",
+        "nachname": "Birkholz",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Steinauer Stra\u00dfe 2",
+        "strasse": "Steeger Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Kommunikationsforschung und Phonetik",
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
                 "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 12
             }
         ],
-        "vorname": "Rosa",
+        "vorname": "Britt",
         "weiblich": true
     }
 }

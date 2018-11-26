@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2522945,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2296426,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.07.1995",
-        "matrikelnummer": 1997319,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "19.03.1986",
+        "matrikelnummer": 2832550,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlichting",
-        "plzort": "53200 Bonn",
+        "nachname": "H\u00fcbner",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00f6ntgenstr. 13",
+        "strasse": "Keuersdiek 11",
         "studienfaecher": [
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 1
-            },
             {
                 "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "fsem": 13
             }
         ],
-        "vorname": "Rico",
-        "weiblich": false
+        "vorname": "Alwina",
+        "weiblich": true
     }
 }

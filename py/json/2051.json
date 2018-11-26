@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1734623,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1990681,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.01.1994",
-        "matrikelnummer": 118335,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "21.01.1993",
+        "matrikelnummer": 2953665,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pesch",
-        "plzort": "89186 Illerrieden",
+        "nachname": "Hinzmann",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Kaeriusweg 3",
+        "strasse": "Balthasarg\u00e4\u00dfchen 3",
         "studienfaecher": [
             {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
+            },
+            {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
             }
         ],
-        "vorname": "Ronald",
+        "vorname": "Sibrand",
         "weiblich": false
     }
 }

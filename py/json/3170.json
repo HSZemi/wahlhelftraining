@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1225225,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2770613,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "13.04.1988",
-        "matrikelnummer": 2548644,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "16.10.1994",
+        "matrikelnummer": 2910753,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Graupner",
-        "plzort": "53173 Bonn",
+        "nachname": "Enderle",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Teichweg 10",
+        "strasse": "Heinrich-Limpert-Weg 16",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Liesegret",
+        "vorname": "Margaretha",
         "weiblich": true
     }
 }

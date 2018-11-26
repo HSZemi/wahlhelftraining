@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1571133,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2147165,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "09.10.1995",
-        "matrikelnummer": 2488175,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "G\u00f6ller",
-        "plzort": "31135 Hildesheim",
+        "fakultaet": 7,
+        "geburtsdatum": "15.10.1982",
+        "matrikelnummer": 2028438,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gaul",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Leddinstra\u00dfe 8",
+        "strasse": "An der Schlo\u00dfg\u00e4rtnerei 4",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 7
+                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 11
             }
         ],
-        "vorname": "Gotthold",
-        "weiblich": false
+        "vorname": "Gerlinde",
+        "weiblich": true
     }
 }

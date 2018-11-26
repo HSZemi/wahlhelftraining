@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1684768,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2522139,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.02.1999",
-        "matrikelnummer": 2140680,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "21.12.1986",
+        "matrikelnummer": 2240617,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haustein",
-        "plzort": "99100 Bienst\u00e4dt",
+        "nachname": "Messerschmidt",
+        "plzort": "59602 R\u00fcthen",
         "sternchen": 0,
-        "strasse": "Bei der Papierfabrik 21",
+        "strasse": "Dore-Hoyer-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Vergleichende Literaturwissenschaft",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
                 "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Dietbert",
+        "vorname": "Friedhold",
         "weiblich": false
     }
 }

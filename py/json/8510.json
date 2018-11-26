@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2133493,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1238455,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.06.1985",
-        "matrikelnummer": 1985870,
+        "fakultaet": 6,
+        "geburtsdatum": "16.03.1990",
+        "matrikelnummer": 16955,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Dombrowski",
-        "plzort": "53145 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Lenk",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Ferdinand-Braun-Stra\u00dfe 2",
+        "strasse": "Brucknerstra\u00dfe 38",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 12
             }
         ],
-        "vorname": "Jost",
-        "weiblich": false
+        "vorname": "Annaliese",
+        "weiblich": true
     }
 }

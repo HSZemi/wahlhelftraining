@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2661220,
+    "nummer": 1836137,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "21.10.1992",
-        "matrikelnummer": 2112890,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "25.12.1999",
+        "matrikelnummer": 17225,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heer",
-        "plzort": "53179 Bonn",
+        "nachname": "Degenhardt",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Kurzer Schritt 12",
+        "strasse": "Theilerstr. 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 5
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 3
             }
         ],
-        "vorname": "Claire",
+        "vorname": "Elrike",
         "weiblich": true
     }
 }

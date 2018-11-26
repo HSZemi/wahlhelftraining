@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2578863,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1961042,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.04.1995",
-        "matrikelnummer": 3133292,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "04.08.1993",
+        "matrikelnummer": 3161364,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nitsche",
-        "plzort": "06543 Alterode",
+        "nachname": "R\u00fcckert",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Satzlweg 3",
+        "strasse": "Billtalstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Elvire",
+        "vorname": "Alwina",
         "weiblich": true
     }
 }

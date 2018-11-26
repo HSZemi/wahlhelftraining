@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2492501,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2421508,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.04.1994",
-        "matrikelnummer": 122266,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "26.05.1989",
+        "matrikelnummer": 2068968,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53184 Bonn",
+        "nachname": "Heinen",
+        "plzort": "38875 Elend",
         "sternchen": 0,
-        "strasse": "Elisabeth-Boer-Stra\u00dfe 45b",
+        "strasse": "Margaretendamm 10",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 8
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

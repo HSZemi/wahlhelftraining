@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2556456,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2578302,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "09.05.1998",
-        "matrikelnummer": 2565533,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "07.08.1992",
+        "matrikelnummer": 2043915,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zimmer",
-        "plzort": "14778 P\u00e4wesin",
+        "nachname": "Leinweber",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "New-York-Br\u00fccke 8",
+        "strasse": "Pf\u00e4lzer Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Asienwissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Sylvie",
-        "weiblich": true
+        "vorname": "Armin",
+        "weiblich": false
     }
 }

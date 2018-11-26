@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2662393,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2955415,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "15.09.1999",
-        "matrikelnummer": 2221680,
+        "fakultaet": 6,
+        "geburtsdatum": "17.02.1995",
+        "matrikelnummer": 1970637,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kunkel",
-        "plzort": "53215 Bonn",
+        "nachname": "Kurth",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Gebeschusstra\u00dfe 4",
+        "strasse": "Am Hofefeld 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 6
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 1
             }
         ],
-        "vorname": "Cynthia",
+        "vorname": "Tina",
         "weiblich": true
     }
 }

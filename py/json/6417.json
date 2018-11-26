@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2698685,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1084680,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "03.07.1992",
-        "matrikelnummer": 2150591,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "03.08.1990",
+        "matrikelnummer": 2163614,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frese",
-        "plzort": "53212 Bonn",
+        "nachname": "Krapp",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Verbindungstra\u00dfe 7",
+        "strasse": "Hofstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Sabina",
-        "weiblich": true
+        "vorname": "Heyo",
+        "weiblich": false
     }
 }

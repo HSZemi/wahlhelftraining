@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2722986,
+    "nummer": 2998761,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.11.1985",
-        "matrikelnummer": 2733534,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "15.03.1994",
+        "matrikelnummer": 2409257,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Guth",
-        "plzort": "53153 Bonn",
+        "nachname": "Feist",
+        "plzort": "55487 Niedersohren",
         "sternchen": 0,
-        "strasse": "Bertha-Bagge-Stra\u00dfe 3",
+        "strasse": "Waltherstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Physik",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 10
             }
         ],
-        "vorname": "Milli",
-        "weiblich": true
+        "vorname": "Eckert",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1598033,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2222277,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "09.01.1997",
-        "matrikelnummer": 2216305,
+        "fakultaet": 3,
+        "geburtsdatum": "02.04.1999",
+        "matrikelnummer": 2599802,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Saller",
-        "plzort": "55776 Reichenbach",
+        "nachname": "K\u00f6ppel",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Jagdweg 2",
+        "strasse": "Theodor-Heuss-Ring 7",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Otthard",
-        "weiblich": false
+        "vorname": "Marlit",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1708165,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2592026,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "24.07.1990",
-        "matrikelnummer": 1958801,
+        "geburtsdatum": "01.12.1996",
+        "matrikelnummer": 3002329,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53156 Bonn",
+        "nachname": "Heinen",
+        "plzort": "27367 Sottrum",
         "sternchen": 0,
-        "strasse": "Bodelschwinghstra\u00dfe 5",
+        "strasse": "Antonigasse 4",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Klinische Medizin",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

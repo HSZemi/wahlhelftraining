@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1488980,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2339848,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "11.08.1997",
-        "matrikelnummer": 2084989,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "15.08.1994",
+        "matrikelnummer": 2892011,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Linn",
-        "plzort": "53118 Bonn",
+        "nachname": "Pawlik",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Klotzscher Berglehne 19",
+        "strasse": "M\u00fcmlingstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 7
             }
         ],
-        "vorname": "Bernhilde",
+        "vorname": "Jeannine",
         "weiblich": true
     }
 }

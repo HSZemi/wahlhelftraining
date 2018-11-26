@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1137636,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2107133,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.07.1995",
-        "matrikelnummer": 3108615,
+        "fakultaet": 4,
+        "geburtsdatum": "12.04.1998",
+        "matrikelnummer": 2352479,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dorn",
-        "plzort": "53174 Bonn",
+        "nachname": "Benz",
+        "plzort": "17440 Pulow",
         "sternchen": 0,
-        "strasse": "Daniel-Frese-Stra\u00dfe 11",
+        "strasse": "Mathias-Oeder-Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 13
+                "fach": "Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Valentina",
-        "weiblich": true
+        "vorname": "Tassilo",
+        "weiblich": false
     }
 }

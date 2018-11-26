@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1610828,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2571948,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "12.05.1995",
-        "matrikelnummer": 2523801,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "03.07.1993",
+        "matrikelnummer": 19337,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zapf",
-        "plzort": "53128 Bonn",
+        "nachname": "Weitz",
+        "plzort": "55278 Friesenheim",
         "sternchen": 0,
-        "strasse": "Carl-Zeiss-Stra\u00dfe 2",
+        "strasse": "Hofsatz 14",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Neuere deutsche Literatur",
-                "fsem": 12
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Annalena",
-        "weiblich": true
+        "vorname": "Johann",
+        "weiblich": false
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1682684,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1753187,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.01.1988",
-        "matrikelnummer": 1937904,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "22.10.1990",
+        "matrikelnummer": 1912392,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6ler",
-        "plzort": "53200 Bonn",
+        "nachname": "Speidel",
+        "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Am Seegraben 10",
+        "strasse": "Sigmund-Freud-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 3
             }
         ],
-        "vorname": "Niels",
+        "vorname": "Wolf",
         "weiblich": false
     }
 }

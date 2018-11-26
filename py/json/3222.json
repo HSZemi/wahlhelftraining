@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2002247,
+    "nummer": 2791219,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.03.1989",
-        "matrikelnummer": 2507445,
+        "fakultaet": 4,
+        "geburtsdatum": "06.07.1990",
+        "matrikelnummer": 3001889,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmidtke",
-        "plzort": "53150 Bonn",
+        "nachname": "Sobotta",
+        "plzort": "19406 Sternberg",
         "sternchen": 0,
-        "strasse": "B\u00f6hmstr. 5",
+        "strasse": "Ferdinandplatz 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geographie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 8
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 12
             }
         ],
-        "vorname": "Ansbert",
+        "vorname": "Raphael",
         "weiblich": false
     }
 }

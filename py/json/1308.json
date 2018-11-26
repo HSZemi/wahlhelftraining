@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2006952,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2661215,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.12.1999",
-        "matrikelnummer": 2510859,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "25.12.1991",
+        "matrikelnummer": 3046904,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gessner",
-        "plzort": "55288 Gabsheim",
+        "nachname": "Berlin",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Elsterweg 7",
+        "strasse": "Talweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Chemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Dietfried",
-        "weiblich": false
+        "vorname": "Theolinde",
+        "weiblich": true
     }
 }

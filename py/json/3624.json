@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2984090,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1214665,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.04.1996",
-        "matrikelnummer": 3065961,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "05.10.1994",
+        "matrikelnummer": 2520855,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Plum",
-        "plzort": "95339 Neuenmarkt",
+        "nachname": "Birke",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Dopplerstra\u00dfe 4",
+        "strasse": "Zum-Jungen-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 4
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Mandy",
-        "weiblich": true
+        "vorname": "Volrad",
+        "weiblich": false
     }
 }

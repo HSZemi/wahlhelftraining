@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1066994,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2175841,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "10.09.1999",
-        "matrikelnummer": 3150164,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "16.06.1990",
+        "matrikelnummer": 2097642,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinecke",
-        "plzort": "53203 Bonn",
+        "nachname": "Ferstl",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Buchenhain 7",
+        "strasse": "Seeblick 13",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Miroslawa",
-        "weiblich": true
+        "vorname": "Alois",
+        "weiblich": false
     }
 }

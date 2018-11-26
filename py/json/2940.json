@@ -1,41 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2199583,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1340070,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "09.12.1992",
-        "matrikelnummer": 1952920,
+        "geburtsdatum": "27.06.1988",
+        "matrikelnummer": 2614869,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kempf",
-        "plzort": "97657 Sandberg",
+        "nachname": "Kirchhoff",
+        "plzort": "89584 Lauterach",
         "sternchen": 0,
-        "strasse": "Ahornweg 1",
+        "strasse": "Espenstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 4
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 10
             },
             {
                 "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 4
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 10
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "fsem": 10
             }
         ],
-        "vorname": "Trudbert",
-        "weiblich": false
+        "vorname": "Heidemaria",
+        "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2756472,
+    "nummer": 1997982,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.08.1992",
-        "matrikelnummer": 2468054,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "22.06.1997",
+        "matrikelnummer": 2341233,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00e4mpf",
-        "plzort": "53176 Bonn",
+        "nachname": "Gall",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "An der Kreisbahn 28",
+        "strasse": "Am Zschonergrund 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 4
             }
         ],
-        "vorname": "Jolanta",
+        "vorname": "Nathalie",
         "weiblich": true
     }
 }

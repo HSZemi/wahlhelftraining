@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1862009,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1261969,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "21.10.1997",
-        "matrikelnummer": 2218995,
+        "fakultaet": 3,
+        "geburtsdatum": "27.12.1999",
+        "matrikelnummer": 1958236,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hauschild",
-        "plzort": "53187 Bonn",
+        "nachname": "Ertel",
+        "plzort": "57636 Mammelzen",
         "sternchen": 0,
-        "strasse": "Brentanostra\u00dfe 14",
+        "strasse": "Von-Rothenhan-Str. 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 1
             }
         ],
-        "vorname": "Neithard",
-        "weiblich": false
+        "vorname": "Anke",
+        "weiblich": true
     }
 }

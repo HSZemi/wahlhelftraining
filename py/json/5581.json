@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1511821,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2427587,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.10.1996",
-        "matrikelnummer": 2740321,
+        "fakultaet": 4,
+        "geburtsdatum": "15.01.1993",
+        "matrikelnummer": 2521245,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nie\u00dfen",
-        "plzort": "53149 Bonn",
+        "nachname": "Sch\u00fcle",
+        "plzort": "23564 L\u00fcbeck",
         "sternchen": 0,
-        "strasse": "Kohlbrandstra\u00dfe 2",
+        "strasse": "Dr.-Martinet-Str. 20",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Informatik",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Christliche Arch\u00e4ologie",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Dagobert",
-        "weiblich": false
+        "vorname": "Friedl",
+        "weiblich": true
     }
 }

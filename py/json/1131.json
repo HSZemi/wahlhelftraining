@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1876311,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2302034,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.08.1991",
-        "matrikelnummer": 2294121,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "07.09.1999",
+        "matrikelnummer": 3032625,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Loch",
-        "plzort": "38446 Wolfsburg",
+        "nachname": "G\u00f6dde",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Handelsstra\u00dfe 4b",
+        "strasse": "Ferdinand-Tietz-Str. 40",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Trauhard",
-        "weiblich": false
+        "vorname": "Britta",
+        "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1663606,
+    "nummer": 2153702,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.11.1991",
-        "matrikelnummer": 2697839,
+        "fakultaet": 5,
+        "geburtsdatum": "06.07.1993",
+        "matrikelnummer": 2411629,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Hauschild",
-        "plzort": "74564 Crailsheim",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hofstetter",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Johann Kravogl-Gasse 28",
+        "strasse": "Braubachstra\u00dfe 12",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 4
+                "fach": "Musikwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 12
             }
         ],
-        "vorname": "Ekkard",
-        "weiblich": false
+        "vorname": "Christella",
+        "weiblich": true
     }
 }

@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2881723,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2268716,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.06.1992",
-        "matrikelnummer": 2534973,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "25.07.1998",
+        "matrikelnummer": 2279491,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ferber",
-        "plzort": "53158 Bonn",
+        "nachname": "Helfrich",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Rendeler Stra\u00dfe 6a",
+        "strasse": "Felsenkellerstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 13
             }
         ],
-        "vorname": "Georgine",
+        "vorname": "Anita",
         "weiblich": true
     }
 }

@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1630888,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2110248,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
         "fakultaet": 2,
-        "geburtsdatum": "12.02.1998",
-        "matrikelnummer": 2327386,
+        "geburtsdatum": "03.02.1996",
+        "matrikelnummer": 2691778,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Polster",
-        "plzort": "96132 Schl\u00fcsselfeld",
+        "nachname": "Behrendt",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Hildesheimer Stra\u00dfe 20",
+        "strasse": "G\u00f6nnsdorfer Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
+                "abschluss": "Master of Arts",
                 "fach": "Evangelische Theologie",
                 "fsem": 2
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 9
             }
         ],
-        "vorname": "Anni",
+        "vorname": "Daniela",
         "weiblich": true
     }
 }

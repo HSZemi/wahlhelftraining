@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1316355,
-    "semester": "Sommersemester 2017",
+    "nummer": 2024751,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.08.1999",
-        "matrikelnummer": 2688591,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Baumann",
-        "plzort": "53156 Bonn",
+        "fakultaet": 3,
+        "geburtsdatum": "07.05.1997",
+        "matrikelnummer": 2102174,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hinze",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Lippersdorfer Weg 15",
+        "strasse": "Am Sch\u00fctzenfelde 4",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 2
+                "fach": "Rechtswissenschaft",
+                "fsem": 1
             }
         ],
-        "vorname": "Arndt",
-        "weiblich": false
+        "vorname": "Hellgard",
+        "weiblich": true
     }
 }

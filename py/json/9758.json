@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1682272,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1291190,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "18.01.1989",
-        "matrikelnummer": 2440794,
+        "fakultaet": 2,
+        "geburtsdatum": "03.04.1993",
+        "matrikelnummer": 167062,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kellner",
-        "plzort": "53215 Bonn",
+        "nachname": "Schumacher",
+        "plzort": "39221 Eggersdorf",
         "sternchen": 0,
-        "strasse": "Washingtonstra\u00dfe 0",
+        "strasse": "Eisbachgasse 14a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Ingelies",
-        "weiblich": true
+        "vorname": "Dietger",
+        "weiblich": false
     }
 }

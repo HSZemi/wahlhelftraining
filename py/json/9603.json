@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2766802,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1416307,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "14.12.1993",
-        "matrikelnummer": 11478,
+        "fakultaet": 1,
+        "geburtsdatum": "21.02.1998",
+        "matrikelnummer": 2036915,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Prell",
-        "plzort": "53173 Bonn",
+        "nachname": "Schl\u00f6mer",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Kurt-Beyer-Stra\u00dfe 5",
+        "strasse": "St.-George-Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "English Literatures and Cultures",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 9
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Heilmuth",
-        "weiblich": false
+        "vorname": "Josefa",
+        "weiblich": true
     }
 }

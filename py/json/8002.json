@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2991591,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1257589,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "25.01.1999",
-        "matrikelnummer": 160440,
+        "geburtsdatum": "06.11.1984",
+        "matrikelnummer": 2562932,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Liese",
-        "plzort": "25821 Bredstedt",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Pieper",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Beim Rauhen Hause 7",
+        "strasse": "Wendenbr\u00fccke 10",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Economics",
-                "fsem": 8
+                "fsem": 13
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Karlfriedrich",
+        "vorname": "Hermfried",
         "weiblich": false
     }
 }

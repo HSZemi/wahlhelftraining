@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1230503,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1144428,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.12.1997",
-        "matrikelnummer": 164454,
+        "fakultaet": 5,
+        "geburtsdatum": "16.01.1991",
+        "matrikelnummer": 3098916,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Wolfrum",
-        "plzort": "53162 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Mutschler",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bahndamm 5",
+        "strasse": "Kleebaumsgasse 30",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Heidegunde",
-        "weiblich": true
+        "vorname": "Ottfried",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2195925,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2133150,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "27.11.1995",
-        "matrikelnummer": 3082199,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "27.04.1993",
+        "matrikelnummer": 2762334,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fetzer",
-        "plzort": "53197 Bonn",
+        "nachname": "Rogge",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Rappstra\u00dfe 9",
+        "strasse": "Sophienstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 9
             }
         ],
-        "vorname": "Germar",
+        "vorname": "Winfried",
         "weiblich": false
     }
 }

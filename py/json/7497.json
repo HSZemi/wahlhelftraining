@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1242380,
-    "semester": "Sommersemester 2017",
+    "nummer": 2353887,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "18.04.1999",
-        "matrikelnummer": 2584082,
+        "fakultaet": 4,
+        "geburtsdatum": "18.10.1995",
+        "matrikelnummer": 2545379,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thielen",
-        "plzort": "53223 Bonn",
+        "nachname": "Gro\u00dfe",
+        "plzort": "71287 Weissach",
         "sternchen": 0,
-        "strasse": "Dammgasse 5",
+        "strasse": "Huswertstra\u00dfe 23b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
                 "fsem": 2
             }
         ],
-        "vorname": "Arnfried",
+        "vorname": "Cord",
         "weiblich": false
     }
 }

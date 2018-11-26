@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2030572,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1264074,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "07.02.1991",
-        "matrikelnummer": 3005849,
+        "fakultaet": 2,
+        "geburtsdatum": "09.07.1993",
+        "matrikelnummer": 3103402,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reif",
-        "plzort": "32676 L\u00fcgde",
+        "nachname": "Helmke",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Rohrgasse 0",
+        "strasse": "Altdobritz 3b",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 10
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
+                "abschluss": "Master of Science",
+                "fach": "Economics",
                 "fsem": 11
             }
         ],
-        "vorname": "Ludwig",
+        "vorname": "Hardy",
         "weiblich": false
     }
 }

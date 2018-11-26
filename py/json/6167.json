@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2707603,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2581335,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.02.1995",
-        "matrikelnummer": 3093227,
+        "fakultaet": 8,
+        "geburtsdatum": "27.11.1997",
+        "matrikelnummer": 2994183,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Decker",
-        "plzort": "53214 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kramp",
+        "plzort": "84333 Malgersdorf",
         "sternchen": 0,
-        "strasse": "M\u00fcnterweg 15",
+        "strasse": "Weststra\u00dfe 32",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 10
             }
         ],
-        "vorname": "Christhild",
-        "weiblich": true
+        "vorname": "Thilo",
+        "weiblich": false
     }
 }

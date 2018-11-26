@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1933058,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1032605,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "21.05.1989",
-        "matrikelnummer": 2707141,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "17.02.1988",
+        "matrikelnummer": 2381242,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mertes",
-        "plzort": "15831 Mahlow",
+        "nachname": "Aydin",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "An der Kettenstr. 21",
+        "strasse": "Oskarstra\u00dfe 2",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 13
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "fach": "Physik",
+                "fsem": 1
             }
         ],
-        "vorname": "Gebhard",
+        "vorname": "Romanus",
         "weiblich": false
     }
 }

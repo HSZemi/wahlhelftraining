@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2156628,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1971669,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.06.1992",
-        "matrikelnummer": 15491,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "24.04.1999",
+        "matrikelnummer": 2147964,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hermes",
-        "plzort": "53131 Bonn",
+        "nachname": "Stoffel",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Schl\u00fcterstra\u00dfe 3",
+        "strasse": "Schleiermacherstra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 4
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Uwe",
-        "weiblich": false
+        "vorname": "Juliana",
+        "weiblich": true
     }
 }

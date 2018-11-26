@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1081837,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1721824,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.02.1995",
-        "matrikelnummer": 2407550,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 7,
+        "geburtsdatum": "01.05.1996",
+        "matrikelnummer": 3110292,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6rl",
-        "plzort": "04683 Belgershain",
+        "nachname": "Rust",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Sachsenbergstra\u00dfe 44",
+        "strasse": "Heinrich-St\u00fcck-Gang 12",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Nutzpflanzenwissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Gila",
-        "weiblich": true
+        "vorname": "Hanswalter",
+        "weiblich": false
     }
 }

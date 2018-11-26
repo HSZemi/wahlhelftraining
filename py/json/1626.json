@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2593879,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2337890,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "24.09.1994",
-        "matrikelnummer": 1990783,
+        "fakultaet": 8,
+        "geburtsdatum": "26.10.1990",
+        "matrikelnummer": 13344,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schmitz",
-        "plzort": "53122 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "T\u00f6pfer",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Volpenhennstra\u00dfe 1",
+        "strasse": "Ahornstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 3
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Gundhilde",
+        "vorname": "Annakatrin",
         "weiblich": true
     }
 }

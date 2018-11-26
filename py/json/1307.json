@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2203485,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2218545,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "24.04.1992",
-        "matrikelnummer": 2268444,
+        "fakultaet": 1,
+        "geburtsdatum": "02.02.1999",
+        "matrikelnummer": 2370000,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Prill",
-        "plzort": "53183 Bonn",
+        "nachname": "Wendel",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Habergasse 17",
+        "strasse": "Edelhof 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Rilana",
-        "weiblich": true
+        "vorname": "Eduardt",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1331307,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2029610,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.08.1991",
-        "matrikelnummer": 2373570,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "14.01.1991",
+        "matrikelnummer": 2572334,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00e4chle",
-        "plzort": "53181 Bonn",
+        "nachname": "Heinzelmann",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Br\u00fcningstra\u00dfe 17",
+        "strasse": "Silberfund 12",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 7
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Dorlies",
-        "weiblich": true
+        "vorname": "Ireneus",
+        "weiblich": false
     }
 }

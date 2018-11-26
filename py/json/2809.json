@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1661717,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1502998,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.04.1993",
-        "matrikelnummer": 2473477,
+        "fakultaet": 3,
+        "geburtsdatum": "05.08.1991",
+        "matrikelnummer": 2091206,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Bergner",
-        "plzort": "53213 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Mehlhorn",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fcnchberger Str. 15",
+        "strasse": "Robert-Matzke-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 12
             }
         ],
-        "vorname": "Wilmhard",
-        "weiblich": false
+        "vorname": "Dorith",
+        "weiblich": true
     }
 }

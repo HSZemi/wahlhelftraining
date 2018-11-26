@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1432020,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2360558,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "27.11.1995",
-        "matrikelnummer": 2996636,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "18.07.1999",
+        "matrikelnummer": 2816197,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wedel",
-        "plzort": "53135 Bonn",
+        "nachname": "Schaffrath",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Am Rainchen 1",
+        "strasse": "Felix Niering-Stra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Master",
                 "fach": "Rechtspsychologie",
-                "fsem": 10
+                "fsem": 3
             }
         ],
-        "vorname": "Aline",
+        "vorname": "Mania",
         "weiblich": true
     }
 }

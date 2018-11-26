@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1386703,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2096261,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.03.1999",
-        "matrikelnummer": 15314,
+        "fakultaet": 8,
+        "geburtsdatum": "13.05.1989",
+        "matrikelnummer": 2604012,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Temme",
-        "plzort": "53149 Bonn",
+        "nachname": "Adolph",
+        "plzort": "54314 Baldringen",
         "sternchen": 0,
-        "strasse": "Prinzenweg 4",
+        "strasse": "Grenadierplatzl 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 11
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 9
             },
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Zahnmedizin",
-                "fsem": 8
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Henny",
+        "vorname": "Irmfriede",
         "weiblich": true
     }
 }

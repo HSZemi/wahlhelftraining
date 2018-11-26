@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2489633,
+    "nummer": 2850444,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.02.1995",
-        "matrikelnummer": 2722525,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Sp\u00f6rl",
-        "plzort": "35582 Wetzlar",
+        "fakultaet": 3,
+        "geburtsdatum": "05.12.1999",
+        "matrikelnummer": 1912061,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Reichmann",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Sch\u00fctter-Platz 9",
+        "strasse": "Alte Falterstra\u00dfe 28",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 7
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Sigfrid",
-        "weiblich": false
+        "vorname": "Ortrud",
+        "weiblich": true
     }
 }

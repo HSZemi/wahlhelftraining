@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1807533,
-    "semester": "Sommersemester 2017",
+    "nummer": 2819457,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "28.06.1997",
-        "matrikelnummer": 2245536,
+        "geburtsdatum": "22.11.1997",
+        "matrikelnummer": 3064359,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Seufert",
-        "plzort": "53216 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Rebmann",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Bornemannstra\u00dfe 9",
+        "strasse": "Stauseeweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Wolfdietrich",
+        "vorname": "Meinolf",
         "weiblich": false
     }
 }

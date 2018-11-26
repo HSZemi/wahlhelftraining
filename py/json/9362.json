@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1893001,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1557840,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "22.10.1991",
-        "matrikelnummer": 2797816,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "28.10.1999",
+        "matrikelnummer": 3087860,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wichert",
-        "plzort": "53200 Bonn",
+        "nachname": "Jessen",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Kohlrauschweg 1",
+        "strasse": "Mautweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 6
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Wolfdietrich",
+        "vorname": "Rudi",
         "weiblich": false
     }
 }

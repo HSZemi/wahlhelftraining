@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1410496,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2398285,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "06.05.1997",
-        "matrikelnummer": 2251137,
-        "mehrfachausfertigung": 2,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "05.05.1995",
+        "matrikelnummer": 3187627,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heumann",
-        "plzort": "53115 Bonn",
+        "nachname": "Zach",
+        "plzort": "19294 Bresegard",
         "sternchen": 0,
-        "strasse": "Ettlingerstra\u00dfe 7",
+        "strasse": "Moritzburger Landstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 10
             }
         ],
-        "vorname": "Annelies",
-        "weiblich": true
+        "vorname": "Ingmar",
+        "weiblich": false
     }
 }

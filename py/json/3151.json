@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1304479,
+    "nummer": 2608007,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.11.1999",
-        "matrikelnummer": 2577303,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "18.06.1999",
+        "matrikelnummer": 2506653,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6ler",
-        "plzort": "53226 Bonn",
+        "nachname": "Meinke",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Meisenweg 15",
+        "strasse": "Nonnenpfad 39",
         "studienfaecher": [
             {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 9
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Marietheres",
+        "vorname": "Dorota",
         "weiblich": true
     }
 }

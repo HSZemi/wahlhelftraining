@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1195557,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2518061,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "14.10.1996",
-        "matrikelnummer": 1994435,
+        "geburtsdatum": "09.12.1992",
+        "matrikelnummer": 2651747,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jentsch",
-        "plzort": "53170 Bonn",
+        "nachname": "Lay",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Timaeusstra\u00dfe 0",
+        "strasse": "Katersteinstra\u00dfe 0d",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 12
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Svea",
-        "weiblich": true
+        "vorname": "Hannes",
+        "weiblich": false
     }
 }

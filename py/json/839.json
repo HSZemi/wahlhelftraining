@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2119647,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2367160,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "04.11.1994",
-        "matrikelnummer": 2229400,
+        "fakultaet": 0,
+        "geburtsdatum": "15.04.1989",
+        "matrikelnummer": 3192522,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Marschner",
-        "plzort": "53133 Bonn",
+        "nachname": "Tietz",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00f6hmertstra\u00dfe 4b",
+        "strasse": "Westende 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Anneliese",
-        "weiblich": true
+        "vorname": "Englbert",
+        "weiblich": false
     }
 }

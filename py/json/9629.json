@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2197445,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1647222,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.04.1993",
-        "matrikelnummer": 2516080,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "26.07.1993",
+        "matrikelnummer": 3014754,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ley",
-        "plzort": "53217 Bonn",
+        "nachname": "Goertz",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Z\u00f6llmener Stra\u00dfe 26",
+        "strasse": "In den Zeul\u00e4ckern 16",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
             }
         ],
-        "vorname": "Alex",
-        "weiblich": false
+        "vorname": "Friedgard",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1389921,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1371955,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "09.08.1990",
-        "matrikelnummer": 181437,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Roller",
-        "plzort": "53170 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "14.08.1991",
+        "matrikelnummer": 2503786,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Beetz",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfsedlitzer Weg 12",
+        "strasse": "Travem\u00fcnder Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 8
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Bartosch",
-        "weiblich": false
+        "vorname": "Margarete",
+        "weiblich": true
     }
 }

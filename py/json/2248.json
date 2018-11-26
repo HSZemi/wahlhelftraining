@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1392362,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2162034,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.09.1990",
-        "matrikelnummer": 142226,
+        "fakultaet": 1,
+        "geburtsdatum": "03.08.1995",
+        "matrikelnummer": 12222,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klement",
-        "plzort": "53200 Bonn",
+        "nachname": "D\u00f6ring",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hafen 0",
+        "strasse": "Oberwaldstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Raimunde",
+        "vorname": "Gundemarie",
         "weiblich": true
     }
 }

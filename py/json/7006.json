@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1551058,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2264131,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.07.1994",
-        "matrikelnummer": 1964009,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "11.12.1999",
+        "matrikelnummer": 18685,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Riedl",
-        "plzort": "56729 Monreal",
+        "nachname": "Kretz",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Borgfelder Allee 14",
+        "strasse": "Lyoner Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Renold",
+        "vorname": "Neidhardt",
         "weiblich": false
     }
 }

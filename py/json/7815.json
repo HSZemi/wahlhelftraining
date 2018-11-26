@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1236050,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2133501,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "07.03.1998",
-        "matrikelnummer": 2715711,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "11.02.1992",
+        "matrikelnummer": 1948818,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Blume",
-        "plzort": "53191 Bonn",
+        "nachname": "Schirmer",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Alfred-G\u00f6bel-Weg 2",
+        "strasse": "Stalburgstra\u00dfe 12",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
                 "fach": "Economics",
-                "fsem": 3
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Cirsten",
-        "weiblich": true
+        "vorname": "Otthard",
+        "weiblich": false
     }
 }

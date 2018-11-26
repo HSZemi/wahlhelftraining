@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2327733,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2495091,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "05.10.1997",
-        "matrikelnummer": 3181079,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "27.02.1991",
+        "matrikelnummer": 2684487,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Felber",
-        "plzort": "53138 Bonn",
+        "nachname": "Schneck",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Linke Hauptzeile 15",
+        "strasse": "Auf der Scholle 3",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 7
             }
         ],
-        "vorname": "Henny",
+        "vorname": "Yasmin",
         "weiblich": true
     }
 }

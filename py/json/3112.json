@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2846002,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2702049,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.02.1995",
-        "matrikelnummer": 2742119,
+        "fakultaet": 7,
+        "geburtsdatum": "14.12.1994",
+        "matrikelnummer": 2869453,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wollny",
-        "plzort": "53128 Bonn",
+        "nachname": "Rathmann",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Dakarbr\u00fccke 2",
+        "strasse": "Oppauer Weg 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Arwin",
+        "vorname": "Hansi",
         "weiblich": false
     }
 }

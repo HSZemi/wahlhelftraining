@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1854686,
-    "semester": "Sommersemester 2017",
+    "nummer": 1183475,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.12.1998",
-        "matrikelnummer": 1922781,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "14.08.1996",
+        "matrikelnummer": 2812576,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wilhelmi",
-        "plzort": "53129 Bonn",
+        "nachname": "Schwalm",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Wiener Stra\u00dfe 5",
+        "strasse": "Waisenstieg 4",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Gotthilf",
-        "weiblich": false
+        "vorname": "Ingunde",
+        "weiblich": true
     }
 }

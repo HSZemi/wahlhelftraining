@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2653228,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2164338,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "11.08.1995",
-        "matrikelnummer": 168800,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "06.04.1993",
+        "matrikelnummer": 2124694,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Moser",
-        "plzort": "53198 Bonn",
+        "nachname": "Kessler",
+        "plzort": "69483 Wald-Michelbach",
         "sternchen": 0,
-        "strasse": "Josef Hyrtlgasse 9",
+        "strasse": "Meisensteig 5",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
                 "fsem": 6
-            },
-            {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 2
             }
         ],
-        "vorname": "Pankratius",
-        "weiblich": false
+        "vorname": "Erica",
+        "weiblich": true
     }
 }

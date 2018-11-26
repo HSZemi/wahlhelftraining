@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1697569,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1678318,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "12.04.1998",
-        "matrikelnummer": 112425,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "10.05.1992",
+        "matrikelnummer": 135683,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dieckmann",
-        "plzort": "26831 Bunderhee",
+        "nachname": "George",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Adolph-Prior-Stra\u00dfe 17",
+        "strasse": "Ziegeleiweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Informatik",
+                "fsem": 5
             }
         ],
-        "vorname": "Frigga",
+        "vorname": "Priska",
         "weiblich": true
     }
 }

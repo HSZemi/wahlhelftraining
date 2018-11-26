@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2949584,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2414745,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "16.05.1995",
-        "matrikelnummer": 2521976,
+        "fakultaet": 7,
+        "geburtsdatum": "23.10.1995",
+        "matrikelnummer": 3139096,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stingl",
-        "plzort": "88178 Heimenkirch",
+        "nachname": "Schwind",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Ziegelstra\u00dfe 5",
+        "strasse": "Abtstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Notfried",
-        "weiblich": false
+        "vorname": "Hellgard",
+        "weiblich": true
     }
 }

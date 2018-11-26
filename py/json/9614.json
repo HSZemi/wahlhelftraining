@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1876059,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1415573,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "23.12.1992",
-        "matrikelnummer": 11746,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 1,
+        "geburtsdatum": "23.01.1998",
+        "matrikelnummer": 3107701,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Freyer",
-        "plzort": "53489 Sinzig",
+        "nachname": "Rauh",
+        "plzort": "79790 K\u00fcssaberg",
         "sternchen": 0,
-        "strasse": "Gr\u00fcndelsteig 8",
+        "strasse": "Am Rainchen 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 12
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Sybill",
-        "weiblich": true
+        "vorname": "Franz",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1050217,
-    "semester": "Sommersemester 2017",
+    "nummer": 2890376,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.07.1991",
-        "matrikelnummer": 170824,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "23.06.1991",
+        "matrikelnummer": 2666978,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6rger",
-        "plzort": "53185 Bonn",
+        "nachname": "Roth",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Altgruna 13",
+        "strasse": "Hellersiedlung Weg B 15",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Gernod",
+        "vorname": "Hermann",
         "weiblich": false
     }
 }

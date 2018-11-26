@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1559797,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2527866,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.07.1999",
-        "matrikelnummer": 2365620,
+        "fakultaet": 8,
+        "geburtsdatum": "05.08.1996",
+        "matrikelnummer": 3166862,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krug",
-        "plzort": "53139 Bonn",
+        "nachname": "Burkhardt",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "An der F\u00f6rsterei 0",
+        "strasse": "Koglgasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 12
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Natascha",
-        "weiblich": true
+        "vorname": "Martin",
+        "weiblich": false
     }
 }

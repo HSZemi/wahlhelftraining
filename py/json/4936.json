@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2130005,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1575403,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.03.1994",
-        "matrikelnummer": 18606,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "22.09.1996",
+        "matrikelnummer": 199498,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Niehoff",
-        "plzort": "53134 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Piller",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Hainweg 9",
+        "strasse": "Seelenberger Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Informatik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Henning",
-        "weiblich": false
+        "vorname": "Dela",
+        "weiblich": true
     }
 }

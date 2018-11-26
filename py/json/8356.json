@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2179525,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2962248,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.03.1990",
-        "matrikelnummer": 2125631,
+        "fakultaet": 8,
+        "geburtsdatum": "10.01.1996",
+        "matrikelnummer": 2602122,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ganser",
-        "plzort": "53189 Bonn",
+        "nachname": "Karl",
+        "plzort": "99439 Heichelheim",
         "sternchen": 0,
-        "strasse": "Dillenburger Stra\u00dfe 3",
+        "strasse": "G\u00f6rlitzer Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Stefanie",
-        "weiblich": true
+        "vorname": "Dagomar",
+        "weiblich": false
     }
 }

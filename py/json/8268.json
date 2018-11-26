@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1436411,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2244651,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "21.01.1999",
-        "matrikelnummer": 3195749,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "27.02.1991",
+        "matrikelnummer": 2489083,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Breuer",
-        "plzort": "53199 Bonn",
+        "nachname": "Helmke",
+        "plzort": "67822 Niedermoschel",
         "sternchen": 0,
-        "strasse": "Hermann-Kunz-Stra\u00dfe 16",
+        "strasse": "Bielefelder Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Germanistik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
+                "fsem": 12
             }
         ],
-        "vorname": "Birglinde",
-        "weiblich": true
+        "vorname": "Folko",
+        "weiblich": false
     }
 }

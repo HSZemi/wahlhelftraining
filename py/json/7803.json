@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1369887,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2244679,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 0,
-        "geburtsdatum": "22.08.1991",
-        "matrikelnummer": 2951838,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "01.03.1997",
+        "matrikelnummer": 1962167,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ahrens",
-        "plzort": "53213 Bonn",
+        "nachname": "Hafner",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "F\u00fcrstenhainer Stra\u00dfe 15",
+        "strasse": "Bleichergraben 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Anne-Marie",
+        "vorname": "Ursula",
         "weiblich": true
     }
 }

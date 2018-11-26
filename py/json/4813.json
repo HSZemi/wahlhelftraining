@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1346671,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1882044,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.05.1993",
-        "matrikelnummer": 2845639,
+        "fakultaet": 8,
+        "geburtsdatum": "28.02.1994",
+        "matrikelnummer": 2569661,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dietl",
-        "plzort": "06463 Meisdorf",
+        "nachname": "Feller",
+        "plzort": "67141 Neuhofen",
         "sternchen": 0,
-        "strasse": "Lili-Sch\u00f6nemann-Steige 6",
+        "strasse": "Dorfelder Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 3
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Albin",
+        "vorname": "Heyko",
         "weiblich": false
     }
 }

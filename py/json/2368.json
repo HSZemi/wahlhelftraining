@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2750682,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1137380,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "10.06.1995",
-        "matrikelnummer": 1960873,
+        "fakultaet": 1,
+        "geburtsdatum": "18.07.1987",
+        "matrikelnummer": 2697384,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00fchle",
-        "plzort": "56281 Emmelshausen",
+        "nachname": "Kohlmann",
+        "plzort": "32369 Rahden",
         "sternchen": 0,
-        "strasse": "Finkenhofstra\u00dfe 17",
+        "strasse": "Brauergasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Traudi",
-        "weiblich": true
+        "vorname": "Claus",
+        "weiblich": false
     }
 }

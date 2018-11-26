@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2514151,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1347333,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.05.1999",
-        "matrikelnummer": 2119199,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "27.12.1992",
+        "matrikelnummer": 11757,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schoch",
-        "plzort": "14913 J\u00fcterbog",
+        "nachname": "Osterloh",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Feiningerstra\u00dfe 13",
+        "strasse": "Hanauer Landstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Ursus",
-        "weiblich": false
+        "vorname": "Wilhelma",
+        "weiblich": true
     }
 }

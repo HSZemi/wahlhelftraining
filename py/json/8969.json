@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1873330,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1015022,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "17.10.1990",
-        "matrikelnummer": 2039002,
+        "geburtsdatum": "18.03.1992",
+        "matrikelnummer": 197683,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kretzschmar",
-        "plzort": "53226 Bonn",
+        "nachname": "Sydow",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Barckhusendamm 17",
+        "strasse": "Alzeyer Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Meteorologie",
-                "fsem": 2
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 9
+                "fach": "Mathematik",
+                "fsem": 12
             }
         ],
-        "vorname": "Harda",
+        "vorname": "Silva",
         "weiblich": true
     }
 }

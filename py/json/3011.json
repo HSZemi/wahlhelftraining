@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2516815,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2671039,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "18.03.1994",
-        "matrikelnummer": 2267351,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "08.09.1996",
+        "matrikelnummer": 2356588,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "V\u00f6lkel",
-        "plzort": "53166 Bonn",
+        "nachname": "Heigl",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Bellevue 6d",
+        "strasse": "Schlo\u00dfplatz 31",
         "studienfaecher": [
             {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 13
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 12
+                "fach": "Chemie",
+                "fsem": 2
             }
         ],
-        "vorname": "Fritzi",
+        "vorname": "Heide-Marie",
         "weiblich": true
     }
 }

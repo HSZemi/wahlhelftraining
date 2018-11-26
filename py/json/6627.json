@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2615468,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1845294,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.02.1999",
-        "matrikelnummer": 2013459,
+        "fakultaet": 3,
+        "geburtsdatum": "20.07.1996",
+        "matrikelnummer": 15830,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Alber",
-        "plzort": "53173 Bonn",
+        "nachname": "Johann",
+        "plzort": "99189 Walschleben",
         "sternchen": 0,
-        "strasse": "Horner Br\u00fcckenweg 7",
+        "strasse": "Ostritzer Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Helm",
-        "weiblich": false
+        "vorname": "Trautchen",
+        "weiblich": true
     }
 }

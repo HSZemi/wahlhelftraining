@@ -1,33 +1,33 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1543504,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2417800,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "08.03.1992",
-        "matrikelnummer": 166827,
+        "fakultaet": 6,
+        "geburtsdatum": "16.10.1994",
+        "matrikelnummer": 2232226,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53223 Bonn",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Sachsdorfer Stra\u00dfe 2",
+        "strasse": "M\u00fcllerstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 7
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
             }
         ],
         "vorname": "Marcel",

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2166678,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2445392,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "07.10.1995",
-        "matrikelnummer": 1914998,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Dost",
-        "plzort": "53203 Bonn",
+        "geburtsdatum": "23.11.1997",
+        "matrikelnummer": 2117810,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Koopmann",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Am Burgberg 31",
+        "strasse": "Am Rausch 8a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
             }
         ],
-        "vorname": "Birgit",
+        "vorname": "Sofia",
         "weiblich": true
     }
 }

@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1889424,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2846243,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "23.01.1995",
-        "matrikelnummer": 2332899,
+        "fakultaet": 4,
+        "geburtsdatum": "09.07.1996",
+        "matrikelnummer": 2018291,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00e4ser",
-        "plzort": "85092 K\u00f6sching",
+        "nachname": "Pongratz",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Sonninstra\u00dfe 0",
+        "strasse": "Hanssensweg 2",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 12
             },
             {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Geographie",
                 "fsem": 10
             }
         ],
-        "vorname": "Elbert",
+        "vorname": "Veith",
         "weiblich": false
     }
 }

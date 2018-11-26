@@ -1,41 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1580592,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2327961,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "21.08.1991",
-        "matrikelnummer": 3067871,
+        "fakultaet": 4,
+        "geburtsdatum": "26.12.1996",
+        "matrikelnummer": 3145264,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00e4der",
-        "plzort": "53188 Bonn",
+        "nachname": "Benz",
+        "plzort": "71144 Steinenbronn",
         "sternchen": 0,
-        "strasse": "Luisenplatz 15",
+        "strasse": "Zinnowitzer Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Katholische Religionslehre",
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
                 "fsem": 11
             },
             {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 13
+            },
+            {
                 "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 11
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 13
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "fsem": 12
             }
         ],
-        "vorname": "Heike",
-        "weiblich": true
+        "vorname": "Toralf",
+        "weiblich": false
     }
 }

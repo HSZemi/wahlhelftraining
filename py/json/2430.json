@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1340212,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1802654,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "22.08.1990",
-        "matrikelnummer": 144601,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Seufert",
-        "plzort": "53123 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "22.01.1985",
+        "matrikelnummer": 1908905,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kehr",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Am Rasen 20",
+        "strasse": "Gr\u00f6belstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Sigrun",
-        "weiblich": true
+        "vorname": "Kilian",
+        "weiblich": false
     }
 }

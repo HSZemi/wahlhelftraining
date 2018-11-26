@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2141618,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2037723,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "26.04.1992",
-        "matrikelnummer": 13091,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "07.11.1994",
+        "matrikelnummer": 2469556,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wuttke",
-        "plzort": "53201 Bonn",
+        "nachname": "Bade",
+        "plzort": "53185 Bonn",
         "sternchen": 0,
-        "strasse": "Vierbergen 0",
+        "strasse": "Spittastra\u00dfe 5c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Agricultural and Food Economics",
-                "fsem": 10
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 9
             }
         ],
-        "vorname": "Folkhardt",
-        "weiblich": false
+        "vorname": "Sigunde",
+        "weiblich": true
     }
 }

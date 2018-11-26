@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1019978,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1860797,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "19.12.1991",
-        "matrikelnummer": 2461553,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "13.03.1992",
+        "matrikelnummer": 2883438,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scheler",
-        "plzort": "53229 Bonn",
+        "nachname": "Jansen",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Kaempsweg 0",
+        "strasse": "Panoramaweg 7e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Nutzpflanzenwissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 13
             }
         ],
-        "vorname": "Wolrad",
-        "weiblich": false
+        "vorname": "Nordrun",
+        "weiblich": true
     }
 }

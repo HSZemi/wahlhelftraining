@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1234868,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1915118,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "19.01.1995",
-        "matrikelnummer": 1912370,
+        "geburtsdatum": "04.06.1993",
+        "matrikelnummer": 2456671,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Jakobs",
-        "plzort": "97294 Unterpleichfeld",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Nehring",
+        "plzort": "85134 Stammham",
         "sternchen": 0,
-        "strasse": "Favoritenstra\u00dfe 1",
+        "strasse": "Kranengasse 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Chemie",
-                "fsem": 13
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 9
             }
         ],
-        "vorname": "Torsten",
-        "weiblich": false
+        "vorname": "Dietburg",
+        "weiblich": true
     }
 }

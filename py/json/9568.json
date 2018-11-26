@@ -1,41 +1,56 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2463319,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1952155,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "11.01.1993",
-        "matrikelnummer": 2559003,
+        "geburtsdatum": "07.07.1996",
+        "matrikelnummer": 2909632,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feiler",
-        "plzort": "53156 Bonn",
+        "nachname": "Pohle",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Madrider Stra\u00dfe 2",
+        "strasse": "R\u00fcbezahlstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Chemie",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 6
             },
             {
                 "abschluss": "",
-                "fach": "Katholische Religionslehre",
-                "fsem": 7
+                "fach": "Englisch",
+                "fsem": 6
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "fsem": 6
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Ilrich",
-        "weiblich": false
+        "vorname": "Jenny",
+        "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2470925,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1897723,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "02.02.1994",
-        "matrikelnummer": 171334,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "23.09.1992",
+        "matrikelnummer": 2458792,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Epp",
-        "plzort": "53144 Bonn",
+        "nachname": "Raith",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Zelenkastra\u00dfe 3",
+        "strasse": "Heidem\u00fchlweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 2
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Ambrosius",
-        "weiblich": false
+        "vorname": "Elizabeth",
+        "weiblich": true
     }
 }

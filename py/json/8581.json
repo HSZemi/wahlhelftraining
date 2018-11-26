@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1218643,
-    "semester": "Sommersemester 2017",
+    "nummer": 1266285,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.07.1998",
-        "matrikelnummer": 2092844,
+        "fakultaet": 3,
+        "geburtsdatum": "04.02.1994",
+        "matrikelnummer": 2615628,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heisig",
-        "plzort": "53189 Bonn",
+        "nachname": "Herwig",
+        "plzort": "74638 Waldenburg",
         "sternchen": 0,
-        "strasse": "Snitgerstieg 2",
+        "strasse": "Am Beutlerpark 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rheinische Landesgeschichte",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 6
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 7
             }
         ],
-        "vorname": "Leokadia",
-        "weiblich": true
+        "vorname": "Siegwald",
+        "weiblich": false
     }
 }

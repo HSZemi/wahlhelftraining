@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2823278,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1662400,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "18.12.1998",
-        "matrikelnummer": 2434306,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "15.06.1996",
+        "matrikelnummer": 2115387,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rie\u00df",
-        "plzort": "53180 Bonn",
+        "nachname": "Marten",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00f6rbischerstra\u00dfe 10d",
+        "strasse": "Rechte Hauptzeile 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Clemens",
+        "vorname": "Osmund",
         "weiblich": false
     }
 }

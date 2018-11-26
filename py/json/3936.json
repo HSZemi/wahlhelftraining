@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2334048,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1792602,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "17.05.1992",
-        "matrikelnummer": 149217,
+        "fakultaet": 5,
+        "geburtsdatum": "12.05.1993",
+        "matrikelnummer": 2538550,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bluhm",
-        "plzort": "53155 Bonn",
+        "nachname": "Pollak",
+        "plzort": "28876 Oyten",
         "sternchen": 0,
-        "strasse": "Franz-Diehl-Weg 38",
+        "strasse": "Seezeile 34c",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Regionalwissenschaft S\u00fcdostasien",
+                "fsem": 13
             }
         ],
-        "vorname": "Gertraute",
-        "weiblich": true
+        "vorname": "Ivo",
+        "weiblich": false
     }
 }

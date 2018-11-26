@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2430963,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1094604,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.09.1993",
-        "matrikelnummer": 2604056,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "19.06.1990",
+        "matrikelnummer": 175436,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schroer",
-        "plzort": "53178 Bonn",
+        "nachname": "Valentin",
+        "plzort": "99880 H\u00f6rselgau",
         "sternchen": 0,
-        "strasse": "Fritz-Meinhardt-Stra\u00dfe 14",
+        "strasse": "Borgweg 18",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "P\u00e4dagogik",
+                "fsem": 5
             }
         ],
-        "vorname": "Aloysia",
-        "weiblich": true
+        "vorname": "Emmeram",
+        "weiblich": false
     }
 }

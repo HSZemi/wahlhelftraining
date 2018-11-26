@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1376928,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1231858,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "02.08.1994",
-        "matrikelnummer": 2734663,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "21.10.1995",
+        "matrikelnummer": 2805808,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wille",
-        "plzort": "53122 Bonn",
+        "nachname": "Tonn",
+        "plzort": "23992 L\u00fcbberstorf",
         "sternchen": 0,
-        "strasse": "Sachsenbergstra\u00dfe 0",
+        "strasse": "Milkeler Stra\u00dfe 26",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
                 "fach": "Entwicklungsforschung",
                 "fsem": 5
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 11
             }
         ],
-        "vorname": "Roselore",
-        "weiblich": true
+        "vorname": "Gottlieb",
+        "weiblich": false
     }
 }

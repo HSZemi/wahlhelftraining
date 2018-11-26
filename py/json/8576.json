@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1434286,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2889727,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.07.1993",
-        "matrikelnummer": 17978,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "17.10.1997",
+        "matrikelnummer": 17257,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittenberg",
-        "plzort": "06869 Griebo",
+        "nachname": "Kappes",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Zentgrafenstra\u00dfe 1",
+        "strasse": "Sandgrubenweg 19",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 9
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "fach": "Zahnmedizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Hardi",
+        "vorname": "Lenz",
         "weiblich": false
     }
 }

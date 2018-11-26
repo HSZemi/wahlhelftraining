@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1191561,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2023710,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "18.12.1995",
-        "matrikelnummer": 2629372,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Klemm",
-        "plzort": "17392 Neuenkirchen",
+        "geburtsdatum": "26.11.1997",
+        "matrikelnummer": 16901,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Abel",
+        "plzort": "49596 Gehrde",
         "sternchen": 0,
-        "strasse": "Eichengasse 7",
+        "strasse": "Fritzschweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Deutsch-Franz\u00f6sische Studien",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Franzl",
+        "vorname": "Fridolin",
         "weiblich": false
     }
 }

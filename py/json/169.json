@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2688991,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2421800,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "07.02.1983",
-        "matrikelnummer": 2317359,
+        "geburtsdatum": "04.02.1989",
+        "matrikelnummer": 2420430,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53151 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Hornisgrindestra\u00dfe 11",
+        "strasse": "Obernzeller Str. 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
+                "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
                 "fsem": 9
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

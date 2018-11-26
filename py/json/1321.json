@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1613346,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2177920,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.08.1998",
-        "matrikelnummer": 1936600,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "01.03.1996",
+        "matrikelnummer": 3058102,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weidner",
-        "plzort": "53152 Bonn",
+        "nachname": "Stauch",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Bremer Reihe 0",
+        "strasse": "Windm\u00fchlenstra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 2
             }
         ],
-        "vorname": "Jeannette",
+        "vorname": "Hanny",
         "weiblich": true
     }
 }

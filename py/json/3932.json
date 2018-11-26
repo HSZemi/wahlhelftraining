@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2557472,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2080280,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "24.06.1991",
-        "matrikelnummer": 2158563,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "12.03.1990",
+        "matrikelnummer": 182257,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Siegert",
-        "plzort": "53184 Bonn",
+        "nachname": "Wedekind",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Robert-Di\u00dfmann-Stra\u00dfe 3",
+        "strasse": "Flanbrechtstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
+                "abschluss": "Master of Arts",
+                "fach": "Geschichte",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
                 "fsem": 1
             }
         ],
-        "vorname": "Friedemar",
-        "weiblich": false
+        "vorname": "Birgitt",
+        "weiblich": true
     }
 }

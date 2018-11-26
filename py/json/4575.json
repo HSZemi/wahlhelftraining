@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2046834,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1062845,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "16.11.1995",
-        "matrikelnummer": 3197956,
-        "mehrfachausfertigung": 4,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "15.03.1993",
+        "matrikelnummer": 164461,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Appel",
-        "plzort": "99438 Hetschburg",
+        "nachname": "Heinemann",
+        "plzort": "09405 Zschopau",
         "sternchen": 0,
-        "strasse": "Tunnelweg 2",
+        "strasse": "Am Luftbr\u00fcckendenkmal 2d",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Berno",
+        "vorname": "Willrich",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2951764,
-    "semester": "Sommersemester 2017",
+    "nummer": 1961433,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.07.1989",
-        "matrikelnummer": 151041,
+        "fakultaet": 6,
+        "geburtsdatum": "23.06.1991",
+        "matrikelnummer": 2749993,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gutzeit",
-        "plzort": "18057 Rostock",
+        "nachname": "Wesemann",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Telemannstra\u00dfe 19",
+        "strasse": "Am Kr\u00e4henh\u00fcgel 3a",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
+                "fsem": 7
             }
         ],
-        "vorname": "Ilsedore",
-        "weiblich": true
+        "vorname": "Florentius",
+        "weiblich": false
     }
 }

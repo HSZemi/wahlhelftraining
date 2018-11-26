@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2319764,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1345178,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.06.1992",
-        "matrikelnummer": 2276837,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "07.10.1987",
+        "matrikelnummer": 189625,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Voges",
-        "plzort": "35435 Wettenberg",
+        "nachname": "Harder",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Lassallestra\u00dfe 15",
+        "strasse": "Grimmstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Vergleichende Religionswissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Kunstgeschichte",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Burghilde",
-        "weiblich": true
+        "vorname": "Maximillian",
+        "weiblich": false
     }
 }

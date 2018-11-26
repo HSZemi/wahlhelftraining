@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1825229,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1059294,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "28.12.1993",
-        "matrikelnummer": 2078619,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "06.08.1988",
+        "matrikelnummer": 2354471,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tietze",
-        "plzort": "53136 Bonn",
+        "nachname": "W\u00f6lfle",
+        "plzort": "06193 Sennewitz",
         "sternchen": 0,
-        "strasse": "Stegwiese 22d",
+        "strasse": "An der Sonnenlehne 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 11
             }
         ],
-        "vorname": "Friedegund",
-        "weiblich": true
+        "vorname": "Volkhardt",
+        "weiblich": false
     }
 }

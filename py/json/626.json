@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1761784,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1672686,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "26.12.1996",
-        "matrikelnummer": 2782938,
+        "geburtsdatum": "10.05.1995",
+        "matrikelnummer": 2210779,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rommel",
-        "plzort": "97320 Mainstockheim",
+        "nachname": "Fitz",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Eichbuscher Stra\u00dfe 0",
+        "strasse": "Am Hahnenweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Molekulare Biomedizin",
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
                 "fsem": 10
             },
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 13
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Edwine",
-        "weiblich": true
+        "vorname": "Nikolaus",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1625618,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2927108,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.09.1998",
-        "matrikelnummer": 2648332,
+        "fakultaet": 6,
+        "geburtsdatum": "23.08.1999",
+        "matrikelnummer": 2822937,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eifler",
-        "plzort": "53193 Bonn",
+        "nachname": "Steinle",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Wilhelm-Beckel-Stra\u00dfe 50",
+        "strasse": "Keppgrund 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 4
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Damaris",
-        "weiblich": true
+        "vorname": "Wulf",
+        "weiblich": false
     }
 }

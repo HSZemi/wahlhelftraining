@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1579960,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2035708,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.05.1993",
-        "matrikelnummer": 2663638,
+        "fakultaet": 1,
+        "geburtsdatum": "20.08.1993",
+        "matrikelnummer": 2241792,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Philippi",
-        "plzort": "53206 Bonn",
+        "nachname": "Krull",
+        "plzort": "95509 Marktschorgast",
         "sternchen": 0,
-        "strasse": "Slebuschstieg 2",
+        "strasse": "Lorsbacher Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Rositta",
-        "weiblich": true
+        "vorname": "Harribert",
+        "weiblich": false
     }
 }

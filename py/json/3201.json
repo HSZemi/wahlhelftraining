@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2897855,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2105288,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.05.1996",
-        "matrikelnummer": 2979776,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "07.04.1990",
+        "matrikelnummer": 1986038,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brehm",
-        "plzort": "53140 Bonn",
+        "nachname": "Hess",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Oskar-Seyffert-Stra\u00dfe 10",
+        "strasse": "Fliederstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Mathematics",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 1
             }
         ],
-        "vorname": "Swanhilde",
+        "vorname": "Sybilla",
         "weiblich": true
     }
 }

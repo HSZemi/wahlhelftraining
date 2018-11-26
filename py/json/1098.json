@@ -1,46 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1537335,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2638753,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "01.07.1991",
-        "matrikelnummer": 126377,
+        "geburtsdatum": "28.12.1989",
+        "matrikelnummer": 2069628,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heidt",
-        "plzort": "53135 Bonn",
+        "nachname": "Bretschneider",
+        "plzort": "06193 Sennewitz",
         "sternchen": 0,
-        "strasse": "Am Storchengrund 8",
+        "strasse": "Sankt-Antoni-Stra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Philosophie",
-                "fsem": 5
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 8
             },
             {
                 "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 5
+                "fach": "Agrarwissenschaft",
+                "fsem": 8
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 10
+                "fsem": 8
             }
         ],
-        "vorname": "Eckhard",
+        "vorname": "Mayk",
         "weiblich": false
     }
 }

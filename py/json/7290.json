@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1159539,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1971223,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "04.10.1992",
-        "matrikelnummer": 3075059,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "06.02.1990",
+        "matrikelnummer": 180135,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hackbarth",
-        "plzort": "53170 Bonn",
+        "nachname": "Amann",
+        "plzort": "65191 Wiesbaden",
         "sternchen": 0,
-        "strasse": "Sondershausenstra\u00dfe 0b",
+        "strasse": "Kleinzschachwitzer Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Arzneimittelwissenschaften",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 13
             }
         ],
-        "vorname": "Willhart",
+        "vorname": "Walti",
         "weiblich": false
     }
 }

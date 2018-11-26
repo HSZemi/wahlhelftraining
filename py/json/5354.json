@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2351296,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2532557,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "25.08.1991",
-        "matrikelnummer": 2452395,
+        "fakultaet": 9,
+        "geburtsdatum": "28.10.1987",
+        "matrikelnummer": 2923979,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Enders",
-        "plzort": "53154 Bonn",
+        "nachname": "B\u00e4tz",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Gau\u00dfstra\u00dfe 2",
+        "strasse": "Antoniterstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             },
             {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Elfie",
-        "weiblich": true
+        "vorname": "Reginbert",
+        "weiblich": false
     }
 }

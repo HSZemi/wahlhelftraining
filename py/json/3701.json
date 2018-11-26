@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1558039,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2129565,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "19.06.1991",
-        "matrikelnummer": 2927854,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "04.01.1996",
+        "matrikelnummer": 2914658,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steidle",
-        "plzort": "53173 Bonn",
+        "nachname": "Mittermeier",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Jahnstiege 22",
+        "strasse": "Borstelmannsweg 4a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
             }
         ],
-        "vorname": "Solveig",
-        "weiblich": true
+        "vorname": "Ingolf",
+        "weiblich": false
     }
 }

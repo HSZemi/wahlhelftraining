@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2583187,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1599461,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "09.05.1994",
-        "matrikelnummer": 2157091,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "06.10.1993",
+        "matrikelnummer": 3085588,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6del",
-        "plzort": "53228 Bonn",
+        "nachname": "Baumgarten",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Steinkopfweg 5",
+        "strasse": "Gro\u00dfheidestra\u00dfe 10b",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Volkward",
-        "weiblich": false
+        "vorname": "Marianne",
+        "weiblich": true
     }
 }

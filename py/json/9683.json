@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2092491,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2748620,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.09.1987",
-        "matrikelnummer": 2508098,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "02.10.1993",
+        "matrikelnummer": 3164545,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Waibel",
-        "plzort": "53165 Bonn",
+        "nachname": "Gottwald",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Am Langenzug 12",
+        "strasse": "Richard-R\u00f6sch-Stra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Keltologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 12
             }
         ],
-        "vorname": "Anfriede",
+        "vorname": "Miriam",
         "weiblich": true
     }
 }

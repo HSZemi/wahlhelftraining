@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1710815,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2808802,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "01.08.1999",
-        "matrikelnummer": 2427891,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "20.05.1990",
+        "matrikelnummer": 2170405,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hain",
+        "nachname": "Hetzel",
         "plzort": "53141 Bonn",
         "sternchen": 0,
-        "strasse": "Klapperfeldstra\u00dfe 0",
+        "strasse": "Albrecht-D\u00fcrer-Str. 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Physik",
-                "fsem": 1
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Eva-Marie",
+        "vorname": "Steffi",
         "weiblich": true
     }
 }

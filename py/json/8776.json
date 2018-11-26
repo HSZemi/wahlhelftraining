@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1554478,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1695321,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "05.04.1988",
-        "matrikelnummer": 3137592,
+        "geburtsdatum": "04.05.1997",
+        "matrikelnummer": 2230565,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reiff",
-        "plzort": "53194 Bonn",
+        "nachname": "Wenzel",
+        "plzort": "75242 Neuhausen",
         "sternchen": 0,
-        "strasse": "Auf der Scholle 16",
+        "strasse": "Hauboldstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Kulturanthropologie/Volkskunde",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Musikwissenschaft/Sound Studies",
+                "fsem": 11
             }
         ],
-        "vorname": "Helmo",
-        "weiblich": false
+        "vorname": "Amalia",
+        "weiblich": true
     }
 }

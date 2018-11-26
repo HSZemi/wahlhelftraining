@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1051182,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1566923,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "07.06.1986",
-        "matrikelnummer": 1991892,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "07.07.1990",
+        "matrikelnummer": 2224938,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiesmann",
-        "plzort": "99428 Isseroda",
+        "nachname": "Feist",
+        "plzort": "79215 Elzach",
         "sternchen": 0,
-        "strasse": "Gerhard-Domagk-Stra\u00dfe 19",
+        "strasse": "Stoltzestra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
                 "fsem": 13
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 12
             }
         ],
-        "vorname": "Annina",
-        "weiblich": true
+        "vorname": "Norwin",
+        "weiblich": false
     }
 }

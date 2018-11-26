@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1138421,
-    "semester": "Sommersemester 2017",
+    "nummer": 2983393,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.09.1993",
-        "matrikelnummer": 177612,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 5,
+        "geburtsdatum": "14.05.1993",
+        "matrikelnummer": 176161,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fix",
-        "plzort": "53128 Bonn",
+        "nachname": "Kersten",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Deglerstra\u00dfe 17",
+        "strasse": "Ludwig-Erhard-Anlage 19",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 5
+                "abschluss": "Master of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 2
             }
         ],
-        "vorname": "Giseltraud",
-        "weiblich": true
+        "vorname": "Burkhardt",
+        "weiblich": false
     }
 }

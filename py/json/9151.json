@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2919002,
-    "semester": "Sommersemester 2017",
+    "nummer": 2912602,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "16.04.1998",
-        "matrikelnummer": 2406695,
+        "geburtsdatum": "22.12.1990",
+        "matrikelnummer": 1929481,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seelig",
-        "plzort": "53189 Bonn",
+        "nachname": "Gruhn",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Geesthang 2",
+        "strasse": "Gebergrundweg 10",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Kulturanthropologie/Volkskunde",
+                "fsem": 2
             }
         ],
-        "vorname": "Markolf",
+        "vorname": "Volrad",
         "weiblich": false
     }
 }

@@ -1,41 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2006289,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2590288,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "07.01.1993",
-        "matrikelnummer": 1901834,
+        "geburtsdatum": "25.05.1996",
+        "matrikelnummer": 2584999,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Prei\u00df",
-        "plzort": "53125 Bonn",
+        "nachname": "Heidenreich",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Ockerwitzer Dorfstra\u00dfe 5",
+        "strasse": "Erlichstr. 8d",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 12
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 3
             },
             {
                 "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 12
+                "fach": "Biologie",
+                "fsem": 3
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 12
+                "fsem": 3
             }
         ],
-        "vorname": "Diethard",
-        "weiblich": false
+        "vorname": "Mariele",
+        "weiblich": true
     }
 }

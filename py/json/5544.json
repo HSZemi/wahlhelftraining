@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2632803,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2936813,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "19.01.1990",
-        "matrikelnummer": 2227128,
+        "fakultaet": 8,
+        "geburtsdatum": "12.12.1990",
+        "matrikelnummer": 2574739,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "John",
-        "plzort": "67374 Hanhofen",
+        "nachname": "Bartelt",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Birkenweg 17",
+        "strasse": "Hermann-Conradi-Stra\u00dfe 34",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 6
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Physik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Romy",
-        "weiblich": true
+        "vorname": "Eike",
+        "weiblich": false
     }
 }

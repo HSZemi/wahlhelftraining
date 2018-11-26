@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2279901,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2406685,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.12.1996",
-        "matrikelnummer": 2104684,
+        "fakultaet": 1,
+        "geburtsdatum": "13.01.1995",
+        "matrikelnummer": 2440705,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schl\u00f6mer",
-        "plzort": "42899 Remscheid",
+        "nachname": "Sch\u00f6ne",
+        "plzort": "21647 Moisburg",
         "sternchen": 0,
-        "strasse": "Letzter Heller 6",
+        "strasse": "Jaspertstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Deutsche Sprache u.\u00e4ltere deutsche Literatur",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Griechische Literatur der Antike und ihr Fortleben",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 4
             }
         ],
-        "vorname": "Britt",
+        "vorname": "Nicola",
         "weiblich": true
     }
 }

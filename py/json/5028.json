@@ -1,41 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1833354,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2664674,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "15.02.1988",
-        "matrikelnummer": 2443202,
+        "geburtsdatum": "03.07.1996",
+        "matrikelnummer": 3015751,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wurster",
-        "plzort": "53183 Bonn",
+        "nachname": "Kaltenbach",
+        "plzort": "39517 Bertingen",
         "sternchen": 0,
-        "strasse": "Ludolfusstra\u00dfe 10b",
+        "strasse": "Hermannstra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Indologie",
-                "fsem": 10
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 9
             },
             {
                 "abschluss": "",
-                "fach": "Islamwissenschaft/Nahostsprachen",
-                "fsem": 10
+                "fach": "Hispanistik",
+                "fsem": 9
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Jens",
-        "weiblich": false
+        "vorname": "Genia",
+        "weiblich": true
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1179493,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2362688,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.08.1991",
-        "matrikelnummer": 2634971,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "08.09.1997",
+        "matrikelnummer": 2736655,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Berndt",
-        "plzort": "53207 Bonn",
+        "nachname": "Thimm",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Cunostra\u00dfe 10",
+        "strasse": "Nestroystra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Annika",
-        "weiblich": true
+        "vorname": "Hansgerd",
+        "weiblich": false
     }
 }

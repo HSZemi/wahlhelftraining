@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2837498,
+    "nummer": 1182517,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.10.1991",
-        "matrikelnummer": 2059087,
+        "fakultaet": 5,
+        "geburtsdatum": "28.02.1994",
+        "matrikelnummer": 2860594,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jung",
-        "plzort": "04924 Uebigau-Wahrenbr\u00fcck",
+        "nachname": "Ortner",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Ernst-Zinner-Str. 3d",
+        "strasse": "Heinz-Bongartz-Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 2
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 8
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Reinburga",
+        "vorname": "Anje",
         "weiblich": true
     }
 }

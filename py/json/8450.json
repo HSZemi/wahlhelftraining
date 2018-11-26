@@ -1,46 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1516756,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1529141,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "11.01.1986",
-        "matrikelnummer": 3057127,
+        "fakultaet": 6,
+        "geburtsdatum": "01.11.1993",
+        "matrikelnummer": 2404518,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Erhardt",
-        "plzort": "53208 Bonn",
+        "nachname": "Fl\u00fcgel",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Petrinistr. 18",
+        "strasse": "Lo\u00ebnstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 9
             },
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Latein",
-                "fsem": 4
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 10
             },
             {
                 "abschluss": "",
-                "fach": "Spanisch",
-                "fsem": 8
+                "fach": "Deutsch",
+                "fsem": 10
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "fsem": 10
             }
         ],
-        "vorname": "Margareta",
-        "weiblich": true
+        "vorname": "Eduard",
+        "weiblich": false
     }
 }

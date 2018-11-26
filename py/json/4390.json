@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1039488,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2048704,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "03.02.1999",
-        "matrikelnummer": 2525673,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "22.08.1998",
+        "matrikelnummer": 2730591,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00e4fner",
-        "plzort": "17209 Buchholz",
+        "nachname": "Amend",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "An der Kirschwiese 2",
+        "strasse": "Hafnerstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Abraham",
-        "weiblich": false
+        "vorname": "Lindemarie",
+        "weiblich": true
     }
 }

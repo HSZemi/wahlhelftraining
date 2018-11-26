@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1910810,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2459425,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.01.1999",
-        "matrikelnummer": 2359274,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "06.05.1991",
+        "matrikelnummer": 2593545,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Clemens",
-        "plzort": "80939 M\u00fcnchen",
+        "nachname": "Wrede",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Joseph Haydn-Gasse 4",
+        "strasse": "Rodung 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Altamerikanistik/Ethnologie",
-                "fsem": 12
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Rezzo",
-        "weiblich": false
+        "vorname": "Siegharda",
+        "weiblich": true
     }
 }

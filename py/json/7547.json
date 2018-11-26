@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1316758,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2742936,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.08.1992",
-        "matrikelnummer": 14649,
+        "fakultaet": 7,
+        "geburtsdatum": "25.05.1993",
+        "matrikelnummer": 14007,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hecker",
-        "plzort": "53208 Bonn",
+        "nachname": "G\u00f6rgen",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Offenbacher Landstra\u00dfe 21",
+        "strasse": "Rantumer Weg 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 12
+                "fach": "Tierwissenschaften",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Osteurop\u00e4ische Geschichte",
+                "fsem": 13
             }
         ],
-        "vorname": "Friderika",
-        "weiblich": true
+        "vorname": "Diemo",
+        "weiblich": false
     }
 }

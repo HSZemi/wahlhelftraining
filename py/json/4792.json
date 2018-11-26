@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2061489,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2994983,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "19.10.1999",
-        "matrikelnummer": 2508201,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "18.05.1995",
+        "matrikelnummer": 3196863,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dewald",
-        "plzort": "53192 Bonn",
+        "nachname": "Kehrer",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Fischbacher Stra\u00dfe 38",
+        "strasse": "Feiersteigweg 6",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 10
             }
         ],
-        "vorname": "Winfriede",
+        "vorname": "Senta",
         "weiblich": true
     }
 }

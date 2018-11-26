@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2120300,
-    "semester": "Sommersemester 2017",
+    "nummer": 2866311,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.02.1995",
-        "matrikelnummer": 1998837,
+        "fakultaet": 5,
+        "geburtsdatum": "26.08.1998",
+        "matrikelnummer": 2710833,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brennecke",
-        "plzort": "53209 Bonn",
+        "nachname": "Diederich",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "An der Tonkuhle 23",
+        "strasse": "Dreisesselbergstr. 12",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Gitti",
+        "vorname": "Burglinde",
         "weiblich": true
     }
 }

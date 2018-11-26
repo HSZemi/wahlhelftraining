@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1058033,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2902278,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.12.1997",
-        "matrikelnummer": 149033,
+        "fakultaet": 8,
+        "geburtsdatum": "01.05.1989",
+        "matrikelnummer": 1955096,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rohr",
-        "plzort": "81825 M\u00fcnchen",
+        "nachname": "Roloff",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "S\u00fcdendstra\u00dfe 27",
+        "strasse": "Hofstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 12
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Vinzenz",
-        "weiblich": false
+        "vorname": "Mandy",
+        "weiblich": true
     }
 }

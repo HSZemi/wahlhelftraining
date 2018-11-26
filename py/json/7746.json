@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1292051,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1826286,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.02.1994",
-        "matrikelnummer": 2367384,
+        "fakultaet": 1,
+        "geburtsdatum": "12.09.1999",
+        "matrikelnummer": 2264457,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Birner",
-        "plzort": "83661 Lenggries",
+        "nachname": "H\u00f6lzer",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Schlo\u00dfplatz 30",
+        "strasse": "Regnitzstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 8
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Dorothee",
+        "vorname": "Reintraut",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1999127,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1181370,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.12.1995",
-        "matrikelnummer": 2651224,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "18.05.1994",
+        "matrikelnummer": 3061433,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Balzer",
-        "plzort": "25560 Agethorst",
+        "nachname": "Spiller",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Wegscheider Str. 3",
+        "strasse": "Adilostr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 9
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Friedberg",
-        "weiblich": false
+        "vorname": "Marie-Louise",
+        "weiblich": true
     }
 }

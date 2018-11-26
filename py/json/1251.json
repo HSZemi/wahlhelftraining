@@ -1,41 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1904980,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1888899,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "17.06.1994",
-        "matrikelnummer": 2807741,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "24.02.1991",
+        "matrikelnummer": 2365686,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "P\u00fcschel",
-        "plzort": "58456 Witten",
+        "nachname": "Weigl",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Norderstra\u00dfe 2",
+        "strasse": "Elebeken 1",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 1
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 6
             },
             {
                 "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 1
+                "fach": "Agrarwissenschaft",
+                "fsem": 2
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "fsem": 6
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Thiemo",
+        "vorname": "Tilmann",
         "weiblich": false
     }
 }

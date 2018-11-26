@@ -1,38 +1,43 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2166304,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1138140,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "01.04.1994",
-        "matrikelnummer": 2247248,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "07.10.1998",
+        "matrikelnummer": 2364287,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "53216 Bonn",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Klausenweg 1",
+        "strasse": "Stra\u00dfe des Friedens 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Englisch",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 3
             },
             {
                 "abschluss": "",
-                "fach": "Chemie",
-                "fsem": 13
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 6
+                "fsem": 3
             }
         ],
         "vorname": "Sven",

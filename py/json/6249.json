@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2561525,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2327282,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "15.05.1992",
-        "matrikelnummer": 2929070,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "19.05.1990",
+        "matrikelnummer": 2430402,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sperling",
-        "plzort": "53195 Bonn",
+        "nachname": "Mauch",
+        "plzort": "01877 Bischofswerda",
         "sternchen": 0,
-        "strasse": "Neunkircher Weg 1c",
+        "strasse": "Chausseehausstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 8
+                "abschluss": "Bachelor of Science",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Jo",
+        "vorname": "Conrad",
         "weiblich": false
     }
 }

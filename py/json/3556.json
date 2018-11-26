@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2022951,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1475155,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.12.1997",
-        "matrikelnummer": 1949734,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "11.12.1990",
+        "matrikelnummer": 2411024,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stelzer",
-        "plzort": "53221 Bonn",
+        "nachname": "Zeidler",
+        "plzort": "54614 Giesdorf",
         "sternchen": 0,
-        "strasse": "Kreuzweing\u00e4rten 3",
+        "strasse": "Tr\u00e4nkgasse 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 11
             }
         ],
-        "vorname": "Resi",
-        "weiblich": true
+        "vorname": "Friedbert",
+        "weiblich": false
     }
 }

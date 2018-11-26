@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1527947,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2394027,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.03.1991",
-        "matrikelnummer": 2674051,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "26.06.1987",
+        "matrikelnummer": 2826484,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langhammer",
-        "plzort": "44532 L\u00fcnen",
+        "nachname": "Reinhardt",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Kurt-Blaum-Stra\u00dfe 31",
+        "strasse": "Manilabr\u00fccke 32",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 2
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 1
             },
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
+                "abschluss": "",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 1
             }
         ],
-        "vorname": "Ariane",
+        "vorname": "Hedi",
         "weiblich": true
     }
 }

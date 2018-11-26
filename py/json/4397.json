@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2427630,
+    "nummer": 1243611,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "14.07.1989",
-        "matrikelnummer": 12292,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "11.06.1999",
+        "matrikelnummer": 2684774,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wittmann",
-        "plzort": "53144 Bonn",
+        "nachname": "Liese",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Meenkbr\u00fccke 8",
+        "strasse": "Erlengrund 25",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
-                "fsem": 2
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Giesela",
+        "vorname": "Nordrun",
         "weiblich": true
     }
 }

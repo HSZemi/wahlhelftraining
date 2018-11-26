@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1211350,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2243214,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "14.12.1993",
-        "matrikelnummer": 2317211,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "04.11.1991",
+        "matrikelnummer": 2586790,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mathes",
-        "plzort": "73527 T\u00e4ferrot",
+        "nachname": "Sachse",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Morseweg 13",
+        "strasse": "Kitzb\u00fchler Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Biometrie",
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
                 "fsem": 3
             }
         ],
-        "vorname": "Curd",
-        "weiblich": false
+        "vorname": "Doritha",
+        "weiblich": true
     }
 }

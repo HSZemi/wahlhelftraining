@@ -4,33 +4,28 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2022616,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2591707,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "12.06.1999",
-        "matrikelnummer": 1924512,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "18.10.1992",
+        "matrikelnummer": 2911026,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Stegmann",
-        "plzort": "53147 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Heidemann",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "An der Wildhube 10",
+        "strasse": "Alter Graben 5",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Klassische Arch\u00e4ologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Florentius",
-        "weiblich": false
+        "vorname": "Evchen",
+        "weiblich": true
     }
 }

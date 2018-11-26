@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2864473,
+    "nummer": 2457613,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "26.11.1996",
-        "matrikelnummer": 2859688,
+        "fakultaet": 6,
+        "geburtsdatum": "22.08.1992",
+        "matrikelnummer": 3088951,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tiede",
-        "plzort": "06179 Dornstedt",
+        "nachname": "Kellermann",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Rhonestra\u00dfe 7",
+        "strasse": "Cohausenstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Sighilde",
+        "vorname": "Annetraude",
         "weiblich": true
     }
 }

@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1283813,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1920004,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.03.1993",
-        "matrikelnummer": 2632874,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "19.12.1999",
+        "matrikelnummer": 2074205,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kayser",
-        "plzort": "67354 R\u00f6merberg",
+        "nachname": "Baumgarten",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Ladenburgstra\u00dfe 0",
+        "strasse": "Steinbeker Reihe 23",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
                 "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Filiz",
-        "weiblich": true
+        "vorname": "Freimund",
+        "weiblich": false
     }
 }

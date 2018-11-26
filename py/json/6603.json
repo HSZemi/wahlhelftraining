@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1609385,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1794401,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.08.1991",
-        "matrikelnummer": 2689576,
+        "fakultaet": 6,
+        "geburtsdatum": "01.03.1996",
+        "matrikelnummer": 2211676,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brunke",
-        "plzort": "67685 Schwedelbach",
+        "nachname": "Putz",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Zweite Luisenbr\u00fccke 12",
+        "strasse": "Hellerstr. 12",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 5
+                "fach": "Pharmazie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 11
             }
         ],
-        "vorname": "Lutz",
+        "vorname": "Felix",
         "weiblich": false
     }
 }

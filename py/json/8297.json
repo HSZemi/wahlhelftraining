@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2725234,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1176123,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "04.08.1990",
-        "matrikelnummer": 19386,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "10.12.1993",
+        "matrikelnummer": 2366400,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6hrig",
-        "plzort": "53146 Bonn",
+        "nachname": "Janssen",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Im Kohlacker 14",
+        "strasse": "Michelangelostra\u00dfe 4",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Physik",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 12
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Steffie",
+        "vorname": "Elia",
         "weiblich": true
     }
 }

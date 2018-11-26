@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1732417,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2324093,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "24.11.1993",
-        "matrikelnummer": 2439554,
+        "fakultaet": 4,
+        "geburtsdatum": "17.05.1995",
+        "matrikelnummer": 2540134,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rothe",
-        "plzort": "06712 Dro\u00dfdorf",
+        "nachname": "Ludwig",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Schreyerstra\u00dfe 4",
+        "strasse": "Fischbacher Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 13
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Heidetraud",
-        "weiblich": true
+        "vorname": "Heiderich",
+        "weiblich": false
     }
 }

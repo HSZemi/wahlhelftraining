@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1900443,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2633508,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "02.02.1999",
-        "matrikelnummer": 2261190,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "24.09.1998",
+        "matrikelnummer": 2427031,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brugger",
-        "plzort": "53224 Bonn",
+        "nachname": "Tetzlaff",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "Weixdorfer Rathausplatz 19",
+        "strasse": "Kramergasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 13
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Sarah",
-        "weiblich": true
+        "vorname": "Phillippus",
+        "weiblich": false
     }
 }

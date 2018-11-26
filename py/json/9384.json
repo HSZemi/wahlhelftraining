@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2718218,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2688988,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.01.1993",
-        "matrikelnummer": 16238,
+        "fakultaet": 9,
+        "geburtsdatum": "27.10.1992",
+        "matrikelnummer": 1968469,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holl",
-        "plzort": "53164 Bonn",
+        "nachname": "Franken",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Neudobritzer Weg 4",
+        "strasse": "R\u00fcbezahlstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             }
         ],
-        "vorname": "Gismar",
-        "weiblich": false
+        "vorname": "Verona",
+        "weiblich": true
     }
 }

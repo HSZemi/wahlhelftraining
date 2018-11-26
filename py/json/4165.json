@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1446102,
+    "nummer": 1617853,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "26.07.1990",
-        "matrikelnummer": 2331915,
+        "fakultaet": 7,
+        "geburtsdatum": "28.09.1996",
+        "matrikelnummer": 2276324,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Tr\u00f6ster",
-        "plzort": "53224 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Bamberger",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Souchaystra\u00dfe 3",
+        "strasse": "Seebachstra\u00dfe 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Arzneimittelforschung (Drug Research)",
+                "fsem": 11
             }
         ],
-        "vorname": "Ulli",
+        "vorname": "Jakob",
         "weiblich": false
     }
 }

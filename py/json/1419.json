@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2122565,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2296693,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "28.07.1990",
-        "matrikelnummer": 2386053,
+        "fakultaet": 4,
+        "geburtsdatum": "02.10.1995",
+        "matrikelnummer": 161948,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kratzer",
-        "plzort": "53179 Bonn",
+        "nachname": "Wallner",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Mobilheimplatz 12",
+        "strasse": "Lenaugasse 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 8
             }
         ],
-        "vorname": "Wilmhard",
+        "vorname": "Thielo",
         "weiblich": false
     }
 }

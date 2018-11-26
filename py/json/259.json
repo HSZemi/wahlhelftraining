@@ -2,45 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1624501,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1597833,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.05.1991",
-        "matrikelnummer": 15214,
+        "fakultaet": 8,
+        "geburtsdatum": "16.02.1986",
+        "matrikelnummer": 2236221,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53229 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zemantek",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Glaskopfweg 1",
+        "strasse": "Heinrich-Tessenow-Weg 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Soziologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 2
             },
             {
                 "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 11
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "fsem": 2
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

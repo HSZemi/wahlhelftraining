@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2908411,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2162165,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.01.1999",
-        "matrikelnummer": 2537764,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 5,
+        "geburtsdatum": "08.11.1999",
+        "matrikelnummer": 2228179,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wolters",
-        "plzort": "53161 Bonn",
+        "nachname": "Linz",
+        "plzort": "95339 Wirsberg",
         "sternchen": 0,
-        "strasse": "Eschenbachstra\u00dfe 7d",
+        "strasse": "Textorstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Molecular Biology and Biotechnology",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Romanistik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Musikwissenschaft",
                 "fsem": 6
             }
         ],
-        "vorname": "York",
+        "vorname": "Christophorus",
         "weiblich": false
     }
 }

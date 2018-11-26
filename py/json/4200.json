@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2347353,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1510683,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "08.07.1996",
-        "matrikelnummer": 2836032,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 7,
+        "geburtsdatum": "28.04.1999",
+        "matrikelnummer": 3186877,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Czech",
-        "plzort": "53165 Bonn",
+        "nachname": "Gleich",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Brunnengasse 0",
+        "strasse": "August-Euler-Stra\u00dfe 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
+                "fach": "Lebensmitteltechnologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Geod\u00e4sie",
                 "fsem": 7
             }
         ],
-        "vorname": "Wichard",
+        "vorname": "Tommy",
         "weiblich": false
     }
 }

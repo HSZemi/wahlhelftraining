@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1648645,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1115721,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.07.1995",
-        "matrikelnummer": 2425969,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "07.11.1995",
+        "matrikelnummer": 2465615,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Husemann",
-        "plzort": "53212 Bonn",
+        "nachname": "Albrecht",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fcnchberger Str. 1",
+        "strasse": "Waldparkstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
+                "abschluss": "Master of Arts",
+                "fach": "Applied Linguistics",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
                 "fach": "Katholische Theologie",
-                "fsem": 5
+                "fsem": 10
             }
         ],
-        "vorname": "Maya",
+        "vorname": "Rosehilde",
         "weiblich": true
     }
 }

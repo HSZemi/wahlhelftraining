@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1261736,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1713480,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "20.09.1992",
-        "matrikelnummer": 2983977,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "16.05.1986",
+        "matrikelnummer": 12401,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dombrowski",
-        "plzort": "53143 Bonn",
+        "nachname": "Lehnert",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Am Kriegerdenkmal 45",
+        "strasse": "Lochm\u00fchlenweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Kunstgeschichte",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Deutsch als Zweit- und Fremdsprache",
-                "fsem": 6
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Ellinor",
-        "weiblich": true
+        "vorname": "Volkhart",
+        "weiblich": false
     }
 }

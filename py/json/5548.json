@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2049442,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2568802,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "01.10.1993",
-        "matrikelnummer": 2223510,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "10.04.1985",
+        "matrikelnummer": 19189,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scherer",
-        "plzort": "39615 Beuster",
+        "nachname": "Pl\u00f6tz",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "An den Geestbergen 4",
+        "strasse": "Menageriestra\u00dfe 34",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 5
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Arnold",
+        "vorname": "Otwald",
         "weiblich": false
     }
 }

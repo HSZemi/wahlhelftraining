@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2633467,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2967185,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.04.1994",
-        "matrikelnummer": 2681505,
+        "fakultaet": 3,
+        "geburtsdatum": "09.01.1988",
+        "matrikelnummer": 1930274,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eberle",
-        "plzort": "53146 Bonn",
+        "nachname": "Aschenbrenner",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Oberwaldstra\u00dfe 20",
+        "strasse": "Rubinsteinstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 13
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 3
             }
         ],
-        "vorname": "Lena",
-        "weiblich": true
+        "vorname": "Helmward",
+        "weiblich": false
     }
 }

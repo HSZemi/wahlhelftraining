@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2637689,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2688072,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.04.1996",
-        "matrikelnummer": 2851985,
+        "fakultaet": 5,
+        "geburtsdatum": "08.01.1988",
+        "matrikelnummer": 2654913,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Clau\u00dfen",
-        "plzort": "39638 Zichtau",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hess",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Schlachtbr\u00fcckengasse 28",
+        "strasse": "Von-Reider-Str. 10a",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
                 "fsem": 4
             }
         ],
-        "vorname": "Hariolf",
+        "vorname": "Nicolaus",
         "weiblich": false
     }
 }

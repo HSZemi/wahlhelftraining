@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1025562,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2572478,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.10.1997",
-        "matrikelnummer": 3074003,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "08.11.1989",
+        "matrikelnummer": 3170659,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Demuth",
-        "plzort": "53152 Bonn",
+        "nachname": "Katz",
+        "plzort": "95163 Wei\u00dfenstadt",
         "sternchen": 0,
-        "strasse": "Burgstallgasse 19e",
+        "strasse": "Ginnheimer Stadtweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 11
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Emerich",
-        "weiblich": false
+        "vorname": "Francoise",
+        "weiblich": true
     }
 }

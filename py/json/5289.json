@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2062507,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2326985,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "19.11.1998",
-        "matrikelnummer": 2810711,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 0,
+        "geburtsdatum": "16.03.1995",
+        "matrikelnummer": 1980788,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6hmer",
-        "plzort": "53113 Bonn",
+        "nachname": "Lorenzen",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "An der Schleemer M\u00fchle 11",
+        "strasse": "Hugenottenallee 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Sozialwissenschaften",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 12
             }
         ],
-        "vorname": "Alwin",
-        "weiblich": false
+        "vorname": "Lilian",
+        "weiblich": true
     }
 }

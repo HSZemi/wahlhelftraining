@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2132920,
-    "semester": "Sommersemester 2017",
+    "nummer": 1669661,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.12.1996",
-        "matrikelnummer": 1927024,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "17.12.1996",
+        "matrikelnummer": 3067808,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wacker",
-        "plzort": "53203 Bonn",
+        "nachname": "Steffan",
+        "plzort": "78549 Spaichingen",
         "sternchen": 0,
-        "strasse": "Gompitzer Hang 5",
+        "strasse": "Propst-Goebels-Weg 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Altamerikanistik und Ethnologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Kommunikationswissenschaften",
-                "fsem": 5
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Economics",
+                "fach": "Neurosciences",
                 "fsem": 12
             }
         ],
-        "vorname": "Ottobert",
+        "vorname": "Olf",
         "weiblich": false
     }
 }

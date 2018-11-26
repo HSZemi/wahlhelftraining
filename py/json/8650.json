@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2614581,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1977324,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "11.11.1999",
-        "matrikelnummer": 16483,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "03.04.1994",
+        "matrikelnummer": 3080451,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lampert",
-        "plzort": "07336 Birkigt",
+        "nachname": "Heins",
+        "plzort": "53153 Bonn",
         "sternchen": 0,
-        "strasse": "Industriestra\u00dfe 10",
+        "strasse": "Wiesensteig 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Kunstgeschichte",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Pamela",
-        "weiblich": true
+        "vorname": "Dirk",
+        "weiblich": false
     }
 }

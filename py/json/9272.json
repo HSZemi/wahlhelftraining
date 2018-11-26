@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1171520,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1814395,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.04.1993",
-        "matrikelnummer": 2645824,
+        "fakultaet": 4,
+        "geburtsdatum": "20.05.1985",
+        "matrikelnummer": 2604450,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holler",
-        "plzort": "53223 Bonn",
+        "nachname": "K\u00f6ppen",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Schl\u00fcsselbergerstr. 8",
+        "strasse": "Konrad-Fink-Str. 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Hertraud",
-        "weiblich": true
+        "vorname": "Pirmin",
+        "weiblich": false
     }
 }

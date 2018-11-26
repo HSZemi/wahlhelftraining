@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1356003,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2734377,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "03.07.1995",
-        "matrikelnummer": 2301611,
+        "fakultaet": 6,
+        "geburtsdatum": "06.03.1991",
+        "matrikelnummer": 3159909,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "L\u00fcdemann",
-        "plzort": "53196 Bonn",
+        "nachname": "Merz",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Baumzeile 11",
+        "strasse": "Bruno-St\u00fcrmer-Stra\u00dfe 7",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 10
+                "fach": "Geophysik",
+                "fsem": 2
             }
         ],
-        "vorname": "Margrit",
+        "vorname": "Herma",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1467003,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2992207,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "21.03.1997",
-        "matrikelnummer": 2711631,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "08.05.1989",
+        "matrikelnummer": 3007144,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Trautmann",
-        "plzort": "96224 Burgkunstadt",
+        "nachname": "Kober",
+        "plzort": "78462 Konstanz",
         "sternchen": 0,
-        "strasse": "Belchenstra\u00dfe 13",
+        "strasse": "Leonhard-Frank-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Germanistik",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Musikwissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Mark",
-        "weiblich": false
+        "vorname": "Daniele",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2409858,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1373602,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "02.06.1999",
-        "matrikelnummer": 2150520,
+        "fakultaet": 7,
+        "geburtsdatum": "28.07.1993",
+        "matrikelnummer": 112659,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "G\u00fcttler",
-        "plzort": "53134 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Diefenbach",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Parlamentsplatz 2",
+        "strasse": "Hahnemannstra\u00dfe 6d",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
+                "abschluss": "Master of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
                 "fsem": 9
             }
         ],
-        "vorname": "Friedberg",
-        "weiblich": false
+        "vorname": "Meike",
+        "weiblich": true
     }
 }

@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1221259,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2362671,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "18.11.1993",
-        "matrikelnummer": 2902580,
+        "geburtsdatum": "09.01.1990",
+        "matrikelnummer": 2382606,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "David",
-        "plzort": "53171 Bonn",
+        "nachname": "Huth",
+        "plzort": "53143 Bonn",
         "sternchen": 0,
-        "strasse": "Offenbacher Landstra\u00dfe 10",
+        "strasse": "Am Schulholz 2",
         "studienfaecher": [
-            {
-                "abschluss": "Master of Science",
-                "fach": "Physik",
-                "fsem": 12
-            },
             {
                 "abschluss": "Staatsex.",
                 "fach": "Pharmazie",
-                "fsem": 4
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
+                "fsem": 5
             }
         ],
-        "vorname": "Susi",
-        "weiblich": true
+        "vorname": "Norman",
+        "weiblich": false
     }
 }

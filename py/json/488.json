@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1560096,
-    "semester": "Sommersemester 2017",
+    "nummer": 1484352,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.06.1993",
-        "matrikelnummer": 2410591,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "16.04.1996",
+        "matrikelnummer": 2525662,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53148 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Rotenbachg\u00e4\u00dfchen 17",
+        "strasse": "St\u00f6ckigtweg 18d",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "\u00c4lt.u.Neu.Germanistik",
+                "fsem": 4
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

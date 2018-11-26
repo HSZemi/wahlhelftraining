@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2410822,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2092803,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "12.04.1996",
-        "matrikelnummer": 1928498,
+        "fakultaet": 6,
+        "geburtsdatum": "23.08.1993",
+        "matrikelnummer": 2961704,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mahr",
-        "plzort": "53219 Bonn",
+        "nachname": "Klose",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Krebser Stra\u00dfe 11",
+        "strasse": "Edvard-Munch-Stra\u00dfe 42",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Hasko",
-        "weiblich": false
+        "vorname": "Eva-Marie",
+        "weiblich": true
     }
 }

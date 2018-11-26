@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2975354,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2342787,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "19.01.1997",
-        "matrikelnummer": 2554367,
+        "fakultaet": 5,
+        "geburtsdatum": "01.03.1998",
+        "matrikelnummer": 2212311,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stemmler",
-        "plzort": "53132 Bonn",
+        "nachname": "Rickert",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Am Schneckenberg 3",
+        "strasse": "Struvestra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Chinesisch",
                 "fsem": 8
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Psychologie",
+                "abschluss": "",
+                "fach": "Griechische Literatur der Antike und ihr Fortleben",
                 "fsem": 8
             }
         ],
-        "vorname": "Janfried",
-        "weiblich": false
+        "vorname": "Erkhild",
+        "weiblich": true
     }
 }

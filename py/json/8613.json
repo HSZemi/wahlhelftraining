@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1767763,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1554341,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.03.1999",
-        "matrikelnummer": 3178573,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "03.10.1988",
+        "matrikelnummer": 2246856,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Cremer",
-        "plzort": "53204 Bonn",
+        "nachname": "Gro\u00dfer",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Braamkamp 15",
+        "strasse": "Adolf-Leweke-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "German and Comparative Literature",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Einhardt",
-        "weiblich": false
+        "vorname": "Sindy",
+        "weiblich": true
     }
 }

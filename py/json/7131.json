@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1477351,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1007843,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "19.04.1991",
-        "matrikelnummer": 18965,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "12.09.1994",
+        "matrikelnummer": 2701408,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ramm",
-        "plzort": "54317 Riveris",
+        "nachname": "Wendler",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Am H\u00fcnenstein 5",
+        "strasse": "Wolfsgasse 10",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
                 "fsem": 9
             }
         ],
-        "vorname": "Gottlob",
-        "weiblich": false
+        "vorname": "Siglind",
+        "weiblich": true
     }
 }

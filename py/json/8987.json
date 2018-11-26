@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2571680,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2624098,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.07.1995",
-        "matrikelnummer": 3043573,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "05.07.1992",
+        "matrikelnummer": 2736906,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holzapfel",
-        "plzort": "38312 Heiningen",
+        "nachname": "Beutler",
+        "plzort": "25557 Hanerau-Hademarschen",
         "sternchen": 0,
-        "strasse": "B\u00fclaustra\u00dfe 3",
+        "strasse": "Heinrichsdamm 18",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Altamerikanistik und Ethnologie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "S\u00fcdostasienwissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Anrich",
-        "weiblich": false
+        "vorname": "Verena",
+        "weiblich": true
     }
 }

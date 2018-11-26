@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2302403,
+    "nummer": 2657499,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "15.04.1990",
-        "matrikelnummer": 2453853,
+        "fakultaet": 8,
+        "geburtsdatum": "09.06.1998",
+        "matrikelnummer": 137505,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zech",
-        "plzort": "53173 Bonn",
+        "nachname": "Kegel",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Konrad-Zuse-Stra\u00dfe 1b",
+        "strasse": "Endorfer Str. 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 8
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Herlinde",
+        "vorname": "Dajana",
         "weiblich": true
     }
 }

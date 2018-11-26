@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1495119,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1802721,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "11.07.1994",
-        "matrikelnummer": 2404363,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "05.07.1996",
+        "matrikelnummer": 2160938,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bartels",
-        "plzort": "15518 Steinh\u00f6fel",
+        "nachname": "Bohn",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Thiotmannstra\u00dfe 5",
+        "strasse": "Korffstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Neidhardt",
+        "vorname": "Norwin",
         "weiblich": false
     }
 }

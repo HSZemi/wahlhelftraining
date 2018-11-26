@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2584572,
-    "semester": "Sommersemester 2017",
+    "nummer": 2369863,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "26.05.1994",
-        "matrikelnummer": 119667,
+        "geburtsdatum": "13.10.1991",
+        "matrikelnummer": 19342,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Conradi",
-        "plzort": "53199 Bonn",
+        "nachname": "Wunder",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Artteilweg 7",
+        "strasse": "Steigerweg 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Ehrhard",
+        "vorname": "Gernulf",
         "weiblich": false
     }
 }

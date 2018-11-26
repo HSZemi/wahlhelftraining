@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1866759,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2311460,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.09.1987",
-        "matrikelnummer": 15131,
+        "fakultaet": 6,
+        "geburtsdatum": "19.10.1997",
+        "matrikelnummer": 2568877,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Dirks",
-        "plzort": "53124 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Demuth",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Am Steinbr\u00fcckel 0",
+        "strasse": "Parrotweg 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Henny",
+        "vorname": "Lerke",
         "weiblich": true
     }
 }

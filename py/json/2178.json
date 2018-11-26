@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1070209,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2700518,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.11.1997",
-        "matrikelnummer": 1970490,
+        "fakultaet": 2,
+        "geburtsdatum": "09.09.1993",
+        "matrikelnummer": 12479,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langguth",
-        "plzort": "53131 Bonn",
+        "nachname": "Lindemann",
+        "plzort": "14052 Berlin",
         "sternchen": 0,
-        "strasse": "Freigut Eschdorf 3b",
+        "strasse": "Rungestra\u00dfe 1d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 8
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Italianistik",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 3
+                "abschluss": "Master of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 7
             }
         ],
-        "vorname": "Christella",
-        "weiblich": true
+        "vorname": "Philip",
+        "weiblich": false
     }
 }

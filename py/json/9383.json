@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1720597,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2337782,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "04.02.1994",
-        "matrikelnummer": 2700689,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "17.07.1992",
+        "matrikelnummer": 2296449,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stoiber",
-        "plzort": "03172 Pinnow-Heideland",
+        "nachname": "He\u00dfler",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Timmermannstra\u00dfe 4",
+        "strasse": "Kornstr. 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Molekulare Biomedizin",
-                "fsem": 8
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Irmela",
-        "weiblich": true
+        "vorname": "Sibrand",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1850600,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1333274,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "20.08.1998",
-        "matrikelnummer": 2497522,
-        "mehrfachausfertigung": 4,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "16.08.1992",
+        "matrikelnummer": 2620244,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schaffrath",
-        "plzort": "53202 Bonn",
+        "nachname": "Koop",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Rudolf-Nehmer-Stra\u00dfe 4",
+        "strasse": "Schuhgasse 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 1
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 4
             }
         ],
-        "vorname": "Felicitas",
-        "weiblich": true
+        "vorname": "Reinhold",
+        "weiblich": false
     }
 }

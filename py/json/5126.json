@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2672178,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1266911,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.12.1996",
-        "matrikelnummer": 2902357,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "14.09.1990",
+        "matrikelnummer": 3118806,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kampe",
-        "plzort": "53181 Bonn",
+        "nachname": "Reimer",
+        "plzort": "98631 R\u00f6mhild",
         "sternchen": 0,
-        "strasse": "Geiselsteinweg 12",
+        "strasse": "Trautmannstr. 2d",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             }
         ],
-        "vorname": "Alexa",
-        "weiblich": true
+        "vorname": "Gelbert",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1832722,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2226699,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "10.06.1995",
-        "matrikelnummer": 166270,
+        "fakultaet": 6,
+        "geburtsdatum": "21.12.1996",
+        "matrikelnummer": 2958700,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scherer",
-        "plzort": "53212 Bonn",
+        "nachname": "Heinig",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Waizendorfer Str. 15",
+        "strasse": "Am T\u00e4nnig 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Deutsch-Franz\u00f6sische Studien",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Kunstgeschichte",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 1
             }
         ],
-        "vorname": "Francesca",
+        "vorname": "Hubertine",
         "weiblich": true
     }
 }

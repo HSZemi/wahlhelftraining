@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2067740,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2145166,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.05.1994",
-        "matrikelnummer": 131718,
+        "fakultaet": 2,
+        "geburtsdatum": "26.07.1989",
+        "matrikelnummer": 12549,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinm\u00fcller",
-        "plzort": "53158 Bonn",
+        "nachname": "Schweitzer",
+        "plzort": "18461 Gremersdorf-Buchholz",
         "sternchen": 0,
-        "strasse": "Fritz-L\u00f6ffler-Platz 6",
+        "strasse": "Tempelherrenstra\u00dfe 2",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 6
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Edeltraud",
+        "vorname": "Priska",
         "weiblich": true
     }
 }

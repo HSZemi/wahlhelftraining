@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1993149,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2327372,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "12.03.1989",
-        "matrikelnummer": 2701544,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "18.06.1991",
+        "matrikelnummer": 2415185,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schl\u00f6sser",
-        "plzort": "53138 Bonn",
+        "nachname": "Kettler",
+        "plzort": "03253 Sch\u00f6newalde",
         "sternchen": 0,
-        "strasse": "Am Wald 1",
+        "strasse": "Niederauer Platz 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Waldfried",
-        "weiblich": false
+        "vorname": "Ilselore",
+        "weiblich": true
     }
 }

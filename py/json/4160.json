@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2219921,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2927982,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "13.05.1995",
-        "matrikelnummer": 2290616,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "28.11.1988",
+        "matrikelnummer": 2273207,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Umbach",
-        "plzort": "53191 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "M\u00f6hring",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Scheunenhofstra\u00dfe 34",
+        "strasse": "Am Werk 0",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 6
+                "fach": "Agrarwissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Gunther",
+        "vorname": "Sibrand",
         "weiblich": false
     }
 }

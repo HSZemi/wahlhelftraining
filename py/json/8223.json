@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2751174,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1647536,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "06.07.1988",
-        "matrikelnummer": 114091,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "18.01.1998",
+        "matrikelnummer": 3164589,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heise",
-        "plzort": "24641 Stuvenborn",
+        "nachname": "Pfl\u00fcger",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Angelsteg 17",
+        "strasse": "Immenlach 6",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 8
             }
         ],
-        "vorname": "Eleonore",
-        "weiblich": true
+        "vorname": "Hartfried",
+        "weiblich": false
     }
 }

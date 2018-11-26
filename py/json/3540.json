@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2240210,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1161607,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.07.1999",
-        "matrikelnummer": 2135050,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "10.01.1986",
+        "matrikelnummer": 2648529,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Aschenbrenner",
-        "plzort": "54636 Rittersdorf",
+        "nachname": "Hammer",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Hofgasse 1",
+        "strasse": "Manilaweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Mathematics",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 11
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Renaissance-Studien",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Italianistik",
+                "fsem": 11
             }
         ],
-        "vorname": "Randolph",
-        "weiblich": false
+        "vorname": "Elsbeth",
+        "weiblich": true
     }
 }

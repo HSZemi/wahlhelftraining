@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1509078,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1310805,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 9,
-        "geburtsdatum": "09.09.1993",
-        "matrikelnummer": 2376717,
+        "geburtsdatum": "09.10.1998",
+        "matrikelnummer": 156765,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Na\u00df",
-        "plzort": "53167 Bonn",
+        "nachname": "Beier",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Paradiesweg 9",
+        "strasse": "Bansiner Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
+                "abschluss": "Promotion",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 3
+                "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Gottwald",
+        "vorname": "Diethard",
         "weiblich": false
     }
 }

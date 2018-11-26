@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2408216,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2067234,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "26.05.1999",
-        "matrikelnummer": 2637136,
+        "fakultaet": 6,
+        "geburtsdatum": "28.12.1990",
+        "matrikelnummer": 196771,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Cla\u00dfen",
-        "plzort": "53120 Bonn",
+        "nachname": "Maa\u00dfen",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Guilleaumestra\u00dfe 7",
+        "strasse": "Po\u00dfmoorweg 6",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 13
+                "fach": "Physik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geschichte",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Germanistik",
+                "fsem": 9
             }
         ],
-        "vorname": "Hansmartin",
-        "weiblich": false
+        "vorname": "Elia",
+        "weiblich": true
     }
 }

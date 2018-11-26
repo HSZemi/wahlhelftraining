@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2394835,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2968631,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "22.08.1992",
-        "matrikelnummer": 2468451,
+        "fakultaet": 1,
+        "geburtsdatum": "11.08.1992",
+        "matrikelnummer": 2225003,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Messerschmidt",
-        "plzort": "53229 Bonn",
+        "nachname": "Nebel",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Wallauer Stra\u00dfe 5",
+        "strasse": "Trib\u00fcnenweg 6",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Klinische Immunologie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
                 "fsem": 13
             }
         ],
-        "vorname": "Franca",
+        "vorname": "Ines",
         "weiblich": true
     }
 }

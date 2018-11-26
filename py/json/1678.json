@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1936788,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2020730,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.06.1998",
-        "matrikelnummer": 13715,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "23.02.1994",
+        "matrikelnummer": 3002472,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rick",
-        "plzort": "53124 Bonn",
+        "nachname": "Wildner",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Obstmarkt 0",
+        "strasse": "Klauerstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Hartwald",
+        "vorname": "Ottokar",
         "weiblich": false
     }
 }

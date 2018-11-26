@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1871593,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2022208,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.07.1997",
-        "matrikelnummer": 2760096,
+        "fakultaet": 6,
+        "geburtsdatum": "21.01.1993",
+        "matrikelnummer": 2181250,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hampe",
-        "plzort": "45131 Essen",
+        "nachname": "Meinert",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "An der B\u00f6schung 20",
+        "strasse": "Russingerstra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Anke",
-        "weiblich": true
+        "vorname": "Rudolf",
+        "weiblich": false
     }
 }

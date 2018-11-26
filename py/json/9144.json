@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2903123,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2071335,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.10.1992",
-        "matrikelnummer": 3175815,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schopf",
-        "plzort": "53226 Bonn",
+        "fakultaet": 5,
+        "geburtsdatum": "22.06.1988",
+        "matrikelnummer": 117478,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Obst",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Mendelssohnstra\u00dfe 7",
+        "strasse": "Farbenstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Skandinavistik",
+                "fsem": 4
             }
         ],
-        "vorname": "Cersten",
-        "weiblich": true
+        "vorname": "Kaspar",
+        "weiblich": false
     }
 }

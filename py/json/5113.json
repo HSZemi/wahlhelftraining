@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1408118,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1132184,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "10.04.1992",
-        "matrikelnummer": 2762093,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "08.11.1997",
+        "matrikelnummer": 2198348,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Streich",
-        "plzort": "07407 Uhlst\u00e4dt-Kirchhasel",
+        "nachname": "Horstmann",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00f6rselbergstra\u00dfe 12",
+        "strasse": "Von-Reider-Str. 0d",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 13
             }
         ],
-        "vorname": "Christfriede",
-        "weiblich": true
+        "vorname": "Heilmuth",
+        "weiblich": false
     }
 }

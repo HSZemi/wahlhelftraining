@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1410773,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2111856,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "21.05.1995",
-        "matrikelnummer": 19174,
+        "fakultaet": 6,
+        "geburtsdatum": "01.03.1994",
+        "matrikelnummer": 2473232,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Thies",
-        "plzort": "53228 Bonn",
+        "nachname": "Quade",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Seidnitzer Weg 11d",
+        "strasse": "Margaretenstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Asienwissenschaften",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 6
             }
         ],
-        "vorname": "Christhard",
+        "vorname": "Adelhard",
         "weiblich": false
     }
 }

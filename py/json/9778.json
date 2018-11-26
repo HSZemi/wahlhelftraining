@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1917378,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2889748,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.08.1989",
-        "matrikelnummer": 2166393,
+        "fakultaet": 5,
+        "geburtsdatum": "05.08.1988",
+        "matrikelnummer": 176693,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "V\u00f6lker",
-        "plzort": "53218 Bonn",
+        "nachname": "Sch\u00fctz",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Bartholom\u00e4usgasse 1",
+        "strasse": "Trattendorfer Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 6
             }
         ],
-        "vorname": "Dorothee",
-        "weiblich": true
+        "vorname": "Alban",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1124397,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1564506,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.01.1996",
-        "matrikelnummer": 2324032,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "28.07.1999",
+        "matrikelnummer": 2307013,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kohnen",
-        "plzort": "18437 Stralsund",
+        "nachname": "Grau",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Hoyerswerdaer Stra\u00dfe 20",
+        "strasse": "Zum Moorkrug 4",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 7
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Uranius",
+        "vorname": "Odilo",
         "weiblich": false
     }
 }

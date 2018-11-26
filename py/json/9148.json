@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2851616,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2511714,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.01.1996",
-        "matrikelnummer": 2804489,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "15.01.1995",
+        "matrikelnummer": 3179276,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tiede",
-        "plzort": "53164 Bonn",
+        "nachname": "M\u00e4der",
+        "plzort": "53172 Bonn",
         "sternchen": 0,
-        "strasse": "Williamstra\u00dfe 6",
+        "strasse": "Am Rausch 26",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 4
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 1
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Immunobiology: from molecules to integrative systems",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Geophysik",
+                "fsem": 5
             }
         ],
-        "vorname": "Reinhild",
+        "vorname": "Kathy",
         "weiblich": true
     }
 }

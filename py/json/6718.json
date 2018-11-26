@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2172351,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1754116,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.11.1989",
-        "matrikelnummer": 2964807,
+        "fakultaet": 8,
+        "geburtsdatum": "26.06.1999",
+        "matrikelnummer": 3010396,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mark",
-        "plzort": "53202 Bonn",
+        "nachname": "Krone",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Leverkuser Stra\u00dfe 2",
+        "strasse": "Im Klingenfeld 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 6
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Margit",
-        "weiblich": true
+        "vorname": "Roselius",
+        "weiblich": false
     }
 }

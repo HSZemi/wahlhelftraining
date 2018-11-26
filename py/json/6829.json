@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2627228,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1358931,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.01.1994",
-        "matrikelnummer": 12357,
+        "fakultaet": 8,
+        "geburtsdatum": "10.02.1998",
+        "matrikelnummer": 3025431,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Buch",
-        "plzort": "53181 Bonn",
+        "nachname": "Boden",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Willostr. 11",
+        "strasse": "Hoherodskopfstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 13
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 2
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Aloysius",
-        "weiblich": false
+        "vorname": "Verena",
+        "weiblich": true
     }
 }

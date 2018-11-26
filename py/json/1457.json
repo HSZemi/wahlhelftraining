@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2284035,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2686816,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "09.06.1997",
-        "matrikelnummer": 161495,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "22.07.1999",
+        "matrikelnummer": 2932858,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dressler",
-        "plzort": "53191 Bonn",
+        "nachname": "Reese",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Hellersiedlung Weg E 8",
+        "strasse": "Horner Stieg 0a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Chinesisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Islamwissenschaft/Nahostsprachen",
+                "fsem": 7
             }
         ],
-        "vorname": "Leuthold",
-        "weiblich": false
+        "vorname": "Frederike",
+        "weiblich": true
     }
 }

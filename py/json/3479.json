@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1270239,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2749159,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.07.1998",
-        "matrikelnummer": 19521,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "17.02.1996",
+        "matrikelnummer": 15066,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Biedermann",
-        "plzort": "53195 Bonn",
+        "nachname": "Welter",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Annaberger Stra\u00dfe 6d",
+        "strasse": "Petersstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 11
             }
         ],
-        "vorname": "Hadumod",
+        "vorname": "Lisbeth",
         "weiblich": true
     }
 }

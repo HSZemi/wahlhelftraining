@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2153016,
-    "semester": "Sommersemester 2017",
+    "nummer": 2453641,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "07.01.1987",
-        "matrikelnummer": 2450170,
+        "beurlaubt": true,
+        "fakultaet": 3,
+        "geburtsdatum": "03.01.1994",
+        "matrikelnummer": 2416321,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jasper",
-        "plzort": "53188 Bonn",
+        "nachname": "Rohleder",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Helga-Wex-Platz 0",
+        "strasse": "Tilsiter Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
                 "fsem": 2
             }
         ],
-        "vorname": "Lothar",
+        "vorname": "Reginbert",
         "weiblich": false
     }
 }

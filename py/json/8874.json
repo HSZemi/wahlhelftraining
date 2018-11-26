@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1027458,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2463631,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "03.07.1999",
-        "matrikelnummer": 2374070,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "21.04.1990",
+        "matrikelnummer": 1917948,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Denecke",
-        "plzort": "53219 Bonn",
+        "nachname": "Rosin",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Elsheimerstra\u00dfe 22a",
+        "strasse": "Brandstra\u00dfe 40",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Sound Studies",
+                "fsem": 12
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Daniela",
-        "weiblich": true
+        "vorname": "Moritz",
+        "weiblich": false
     }
 }

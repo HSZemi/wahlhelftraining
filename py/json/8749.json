@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1864640,
-    "semester": "Sommersemester 2017",
+    "nummer": 2575958,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.12.1995",
-        "matrikelnummer": 2015333,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "14.08.1992",
+        "matrikelnummer": 2249212,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00f6ne",
-        "plzort": "53156 Bonn",
+        "nachname": "Reinke",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Budapester Stra\u00dfe 7",
+        "strasse": "Z\u00fcricher Stra\u00dfe 31",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Informatik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Luitgart",
+        "vorname": "Danica",
         "weiblich": true
     }
 }

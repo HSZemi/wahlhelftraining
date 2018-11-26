@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2545072,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2691985,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "16.07.1996",
-        "matrikelnummer": 2823576,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "05.01.1999",
+        "matrikelnummer": 2659254,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Friesen",
-        "plzort": "53165 Bonn",
+        "nachname": "Greulich",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Tomandlried 3",
+        "strasse": "Siebenb\u00fcrgener Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
                 "fsem": 11
             }
         ],
-        "vorname": "Luitpold",
+        "vorname": "Christhard",
         "weiblich": false
     }
 }

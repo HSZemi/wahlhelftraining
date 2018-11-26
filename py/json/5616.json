@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1719948,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2873006,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "20.02.1989",
-        "matrikelnummer": 2209946,
+        "geburtsdatum": "11.12.1988",
+        "matrikelnummer": 2699984,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klos",
-        "plzort": "53191 Bonn",
+        "nachname": "Lechner",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Erlweinstra\u00dfe 6d",
+        "strasse": "Wehrhofstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Neurowissenschaften",
-                "fsem": 9
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Sigward",
+        "vorname": "Haymo",
         "weiblich": false
     }
 }

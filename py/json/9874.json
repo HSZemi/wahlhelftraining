@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2938786,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2603247,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "06.04.1993",
-        "matrikelnummer": 15108,
+        "geburtsdatum": "07.07.1994",
+        "matrikelnummer": 2385058,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Gerhard",
-        "plzort": "71277 Rutesheim",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Steinkamp",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwigsburger Weg 6",
+        "strasse": "Winterbergstra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 2
             }
         ],
-        "vorname": "Kassandra",
-        "weiblich": true
+        "vorname": "Sonnfried",
+        "weiblich": false
     }
 }

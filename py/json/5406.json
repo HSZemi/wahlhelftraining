@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1916129,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2257505,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "17.11.1987",
-        "matrikelnummer": 3152677,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "25.12.1999",
+        "matrikelnummer": 2437600,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eckert",
-        "plzort": "53177 Bonn",
+        "nachname": "He\u00df",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00f6lner Stra\u00dfe 3",
+        "strasse": "Herzberger Stra\u00dfe 3",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 12
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 8
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 3
             }
         ],
-        "vorname": "Inna",
-        "weiblich": true
+        "vorname": "Rouven",
+        "weiblich": false
     }
 }

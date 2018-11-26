@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2590453,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1663165,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "09.04.1990",
-        "matrikelnummer": 2077239,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "06.02.1996",
+        "matrikelnummer": 2940445,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Staiger",
-        "plzort": "53172 Bonn",
+        "nachname": "Ganz",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Mechtildstra\u00dfe 5",
+        "strasse": "An der Nordsiedlung 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "S\u00fcdostasienwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Romanistik",
+                "fsem": 1
             }
         ],
-        "vorname": "Steven",
-        "weiblich": false
+        "vorname": "Loremarie",
+        "weiblich": true
     }
 }

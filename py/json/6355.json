@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2542745,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1719808,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "12.04.1993",
-        "matrikelnummer": 2712662,
+        "fakultaet": 8,
+        "geburtsdatum": "27.10.1991",
+        "matrikelnummer": 2803996,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Decker",
-        "plzort": "04769 M\u00fcgeln",
+        "nachname": "Schier",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Frankfurter Str. 3b",
+        "strasse": "Hopfenweg 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Ivo",
+        "vorname": "Cyrill",
         "weiblich": false
     }
 }

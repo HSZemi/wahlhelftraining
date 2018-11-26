@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2930649,
-    "semester": "Sommersemester 2017",
+    "nummer": 2435572,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "04.07.1995",
-        "matrikelnummer": 195367,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 6,
+        "geburtsdatum": "05.11.1987",
+        "matrikelnummer": 2637598,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Friedemann",
-        "plzort": "54597 Kleinlangenfeld",
+        "nachname": "Liebert",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Lotzebachstra\u00dfe 1",
+        "strasse": "Jakobsbrunnenstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Wilderich",
-        "weiblich": false
+        "vorname": "Annemaria",
+        "weiblich": true
     }
 }

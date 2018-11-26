@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1029059,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1867474,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "16.10.1990",
-        "matrikelnummer": 2633652,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "07.05.1995",
+        "matrikelnummer": 2044088,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hedrich",
-        "plzort": "53143 Bonn",
+        "nachname": "B\u00f6ttcher",
+        "plzort": "72505 Krauchenwies",
         "sternchen": 0,
-        "strasse": "Franz-Curti-Stra\u00dfe 1b",
+        "strasse": "Hermesweg 6",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 6
+                "fach": "Geography of Environmental Risks and Human Security",
+                "fsem": 2
             }
         ],
-        "vorname": "Heribert",
+        "vorname": "Ivo",
         "weiblich": false
     }
 }

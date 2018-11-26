@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2418698,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2371738,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.08.1999",
-        "matrikelnummer": 16136,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "18.06.1998",
+        "matrikelnummer": 2124332,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53185 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Sternplatz 0",
+        "strasse": "Maiersbachweg 11",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 7
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

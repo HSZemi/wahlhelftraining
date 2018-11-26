@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1735310,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1156598,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "12.04.1988",
-        "matrikelnummer": 3096447,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 5,
+        "geburtsdatum": "09.08.1989",
+        "matrikelnummer": 3083455,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sack",
-        "plzort": "06543 Hermerode",
+        "nachname": "Brink",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Gorbitzer Stra\u00dfe 4",
+        "strasse": "An der Linde 1",
         "studienfaecher": [
             {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 13
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie",
-                "fsem": 6
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Sylvia",
+        "vorname": "Margund",
         "weiblich": true
     }
 }

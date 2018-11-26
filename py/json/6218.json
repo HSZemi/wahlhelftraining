@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2939532,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1099137,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "05.01.1989",
-        "matrikelnummer": 2417146,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "24.05.1992",
+        "matrikelnummer": 2780799,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stehr",
+        "nachname": "Prill",
         "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Am Weidenufer 29",
+        "strasse": "Gutsweg 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 11
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Lebrecht",
-        "weiblich": false
+        "vorname": "Adelheide",
+        "weiblich": true
     }
 }

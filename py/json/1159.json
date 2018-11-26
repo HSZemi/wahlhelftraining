@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1755228,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1078168,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "12.03.1999",
-        "matrikelnummer": 3179363,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "10.07.1986",
+        "matrikelnummer": 2964423,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wilk",
-        "plzort": "53201 Bonn",
+        "nachname": "Keller",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Caracasweg 4",
+        "strasse": "Weidegasse 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 1
             }
         ],
-        "vorname": "Idamarie",
+        "vorname": "Alheide",
         "weiblich": true
     }
 }

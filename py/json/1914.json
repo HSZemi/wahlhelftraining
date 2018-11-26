@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2607071,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2121908,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "24.09.1990",
-        "matrikelnummer": 18872,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "04.04.1995",
+        "matrikelnummer": 2820684,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Maack",
-        "plzort": "92507 Nabburg",
+        "nachname": "Brosch",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Horst Uhlemann-Stra\u00dfe 26",
+        "strasse": "Baldreitstra\u00dfe 37d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Bachelor of Science",
+                "fach": "Geographie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Lukas",
+        "vorname": "Siegwald",
         "weiblich": false
     }
 }

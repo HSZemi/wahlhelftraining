@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1734090,
-    "semester": "Sommersemester 2017",
+    "nummer": 1787655,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.11.1992",
-        "matrikelnummer": 2660882,
+        "fakultaet": 9,
+        "geburtsdatum": "18.01.1984",
+        "matrikelnummer": 2574202,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Triebel",
-        "plzort": "53229 Bonn",
+        "nachname": "Kalb",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Friedhofsweg 5",
+        "strasse": "Tessenowweg 42e",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Kulturstudien zu Lateinamerika/Estudios culturales de America Latina",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 11
             }
         ],
-        "vorname": "Wiegand",
-        "weiblich": false
+        "vorname": "Burga",
+        "weiblich": true
     }
 }

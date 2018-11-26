@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1527893,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1044894,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.05.1999",
-        "matrikelnummer": 2138827,
+        "fakultaet": 4,
+        "geburtsdatum": "05.11.1993",
+        "matrikelnummer": 2434467,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ro\u00dfbach",
-        "plzort": "53228 Bonn",
+        "nachname": "Haubold",
+        "plzort": "55627 Martinstein",
         "sternchen": 0,
-        "strasse": "Faulborngasse 2",
+        "strasse": "Zum Tiefen Grund 80",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
                 "fach": "Pharmazie",
                 "fsem": 8
             }
         ],
-        "vorname": "Diethmar",
-        "weiblich": false
+        "vorname": "Adriane",
+        "weiblich": true
     }
 }

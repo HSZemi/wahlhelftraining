@@ -1,28 +1,33 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2160906,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2617432,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "27.11.1994",
-        "matrikelnummer": 2428589,
+        "fakultaet": 6,
+        "geburtsdatum": "16.06.1997",
+        "matrikelnummer": 2859623,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53203 Bonn",
+        "plzort": "53121 Bonn",
         "sternchen": 0,
-        "strasse": "Schlottwitzer Stra\u00dfe 1",
+        "strasse": "Strahlenberger Hof 3",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 13
+                "fach": "Molekulare Biomedizin",
+                "fsem": 12
             }
         ],
         "vorname": "Marcel",

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2782876,
-    "semester": "Sommersemester 2017",
+    "nummer": 2171975,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.11.1992",
-        "matrikelnummer": 1952789,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "04.07.1995",
+        "matrikelnummer": 2316589,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schlag",
-        "plzort": "53139 Bonn",
+        "nachname": "Beckmann",
+        "plzort": "53115 Bonn",
         "sternchen": 0,
-        "strasse": "Schweriner Stra\u00dfe 5",
+        "strasse": "Am Weimarflo\u00df 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geographie",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Arlinde",
+        "vorname": "Theodora",
         "weiblich": true
     }
 }

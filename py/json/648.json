@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2088063,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2858664,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.03.1993",
-        "matrikelnummer": 2113765,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Riemann",
-        "plzort": "53217 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "26.02.1992",
+        "matrikelnummer": 3001227,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": true,
+        "nachname": "K\u00fchnle",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Gasanstaltstra\u00dfe 13",
+        "strasse": "Eichelseeweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Renaissance-Studien",
-                "fsem": 9
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Herger",
+        "vorname": "Desiderius",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1191325,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2814330,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "20.11.1996",
-        "matrikelnummer": 2281291,
+        "geburtsdatum": "03.10.1998",
+        "matrikelnummer": 146350,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kirch",
-        "plzort": "53157 Bonn",
+        "nachname": "Hecker",
+        "plzort": "64625 Bensheim",
         "sternchen": 0,
-        "strasse": "Leonhardistra\u00dfe 12",
+        "strasse": "Gallusanlage 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 6
             }
         ],
-        "vorname": "Treufried",
-        "weiblich": false
+        "vorname": "Felicitas",
+        "weiblich": true
     }
 }

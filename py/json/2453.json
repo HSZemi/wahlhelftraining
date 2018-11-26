@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1263463,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2066071,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.02.1992",
-        "matrikelnummer": 2821986,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "16.05.1994",
+        "matrikelnummer": 3156523,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bretschneider",
-        "plzort": "53150 Bonn",
+        "nachname": "Mehner",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Pastor-Dubbels-Weg 8",
+        "strasse": "B\u00fchnenstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             }
         ],
-        "vorname": "Florenz",
+        "vorname": "Mathis",
         "weiblich": false
     }
 }

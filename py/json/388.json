@@ -1,37 +1,32 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2205078,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1415661,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 8,
-        "geburtsdatum": "06.10.1989",
-        "matrikelnummer": 1990235,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "15.06.1997",
+        "matrikelnummer": 15214,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53168 Bonn",
+        "plzort": "96151 Breitbrunn",
         "sternchen": 0,
-        "strasse": "Magdeburger Stra\u00dfe 3",
+        "strasse": "Simon-Ochs-Stra\u00dfe 16a",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
             },
             {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
                 "fsem": 11
             }
         ],

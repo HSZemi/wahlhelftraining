@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2587218,
-    "semester": "Sommersemester 2017",
+    "nummer": 1937275,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "01.07.1999",
-        "matrikelnummer": 2994986,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "05.10.1992",
+        "matrikelnummer": 15061,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reich",
-        "plzort": "53112 Bonn",
+        "nachname": "Mey",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Axerweg 14",
+        "strasse": "Valentin-Becker-Str. 9",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Biometrie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Liesel",
+        "vorname": "Annina",
         "weiblich": true
     }
 }

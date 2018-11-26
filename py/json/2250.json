@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2517301,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2403386,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.09.1989",
-        "matrikelnummer": 2937356,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Brink",
-        "plzort": "53221 Bonn",
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "09.08.1995",
+        "matrikelnummer": 16643,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Langhammer",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Heidelberger Stra\u00dfe 12",
+        "strasse": "Rudolf-Presber-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Biologie",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Vergleichende Religionswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Germanistik, Vergleichende Literatur- und Kulturwissenschaft",
+                "fsem": 10
             }
         ],
-        "vorname": "Christfriede",
-        "weiblich": true
+        "vorname": "Hansi",
+        "weiblich": false
     }
 }

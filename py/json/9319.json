@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2757086,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2512475,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.08.1999",
-        "matrikelnummer": 18277,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "23.04.1987",
+        "matrikelnummer": 3020119,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Martini",
-        "plzort": "53202 Bonn",
+        "nachname": "Heise",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Jahnring 16",
+        "strasse": "Kopischstr. 20",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Skandinavistik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 7
             }
         ],
-        "vorname": "Godelind",
+        "vorname": "Annelie",
         "weiblich": true
     }
 }

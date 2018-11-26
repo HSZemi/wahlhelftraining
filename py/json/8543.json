@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1250427,
+    "nummer": 2842988,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.10.1999",
-        "matrikelnummer": 2358191,
+        "fakultaet": 3,
+        "geburtsdatum": "26.09.1997",
+        "matrikelnummer": 2473274,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baumg\u00e4rtner",
-        "plzort": "53170 Bonn",
+        "nachname": "Conradi",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Adam-Riese-Platz 12",
+        "strasse": "Weilbrunnstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 8
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Sozialwissenschaften",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Chemie",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 7
             }
         ],
-        "vorname": "Lottemaria",
+        "vorname": "Ulla",
         "weiblich": true
     }
 }

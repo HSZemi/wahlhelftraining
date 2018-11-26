@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2303699,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2969171,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "13.11.1998",
-        "matrikelnummer": 192838,
+        "fakultaet": 7,
+        "geburtsdatum": "13.04.1993",
+        "matrikelnummer": 3123963,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hammes",
-        "plzort": "53222 Bonn",
+        "nachname": "Weitzel",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Coburger Weg 15",
+        "strasse": "Fidelio-F.-Finke-Stra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Bertolt",
-        "weiblich": false
+        "vorname": "Ilselore",
+        "weiblich": true
     }
 }

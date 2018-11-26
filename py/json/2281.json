@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2447758,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2815638,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "13.09.1990",
-        "matrikelnummer": 2854463,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "05.12.1993",
+        "matrikelnummer": 2644281,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krug",
-        "plzort": "53111 Bonn",
+        "nachname": "Benning",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Gerlachweg 13",
+        "strasse": "Awarenweg 32",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Timotheus",
-        "weiblich": false
+        "vorname": "Ilsedore",
+        "weiblich": true
     }
 }

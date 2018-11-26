@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2029885,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2949894,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.07.1991",
-        "matrikelnummer": 11172,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 1,
+        "geburtsdatum": "09.10.1999",
+        "matrikelnummer": 2923009,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6hn",
-        "plzort": "53132 Bonn",
+        "nachname": "Heimann",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "W\u00fcllnerstra\u00dfe 1d",
+        "strasse": "Tannenweg 12",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 4
             }
         ],
-        "vorname": "Darius",
+        "vorname": "Jannick",
         "weiblich": false
     }
 }

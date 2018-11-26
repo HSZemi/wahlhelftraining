@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2771764,
+    "nummer": 2105927,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.11.1992",
-        "matrikelnummer": 185396,
+        "fakultaet": 0,
+        "geburtsdatum": "18.08.1993",
+        "matrikelnummer": 2973350,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Finkbeiner",
-        "plzort": "53221 Bonn",
+        "nachname": "Amann",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00e4userhofweg 0",
+        "strasse": "Rautendeleinweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Hansludwig",
-        "weiblich": false
+        "vorname": "Trude",
+        "weiblich": true
     }
 }

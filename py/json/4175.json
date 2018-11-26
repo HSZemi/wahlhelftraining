@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1591176,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2102651,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "10.06.1993",
-        "matrikelnummer": 2509122,
+        "fakultaet": 6,
+        "geburtsdatum": "09.06.1991",
+        "matrikelnummer": 3176038,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grell",
-        "plzort": "53145 Bonn",
+        "nachname": "Schardt",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Pflugspfad 6",
+        "strasse": "Seilerstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 9
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Elfie",
-        "weiblich": true
+        "vorname": "Tiemo",
+        "weiblich": false
     }
 }

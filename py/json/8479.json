@@ -1,31 +1,56 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1973857,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2612860,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.07.1997",
-        "matrikelnummer": 2274282,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "19.11.1997",
+        "matrikelnummer": 2430523,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Forster",
-        "plzort": "53173 Bonn",
+        "nachname": "Hepp",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Licher Stra\u00dfe 7",
+        "strasse": "Dietesheimer Stra\u00dfe 42",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Siegfrieda",
-        "weiblich": true
+        "vorname": "Gerold",
+        "weiblich": false
     }
 }

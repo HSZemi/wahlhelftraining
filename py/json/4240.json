@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1293573,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2432982,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "24.01.1989",
-        "matrikelnummer": 3077940,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 0,
+        "geburtsdatum": "17.01.1997",
+        "matrikelnummer": 2389511,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ludewig",
-        "plzort": "53148 Bonn",
+        "nachname": "Loos",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Schuhgasse 2c",
+        "strasse": "Hedwigstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Til",
-        "weiblich": false
+        "vorname": "Mandy",
+        "weiblich": true
     }
 }

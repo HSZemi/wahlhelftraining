@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2496954,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2170340,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "26.10.1990",
-        "matrikelnummer": 2048966,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "07.06.1995",
+        "matrikelnummer": 3068624,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nehring",
-        "plzort": "53217 Bonn",
+        "nachname": "Neum\u00fcller",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Lurgiallee 4",
+        "strasse": "H\u00f6henpromenade 18e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Mathematik",
+                "fsem": 6
             }
         ],
-        "vorname": "Siegfried",
+        "vorname": "Bertold",
         "weiblich": false
     }
 }

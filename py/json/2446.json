@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2929628,
-    "semester": "Sommersemester 2017",
+    "nummer": 2266426,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.03.1995",
-        "matrikelnummer": 2442040,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "27.08.1994",
+        "matrikelnummer": 2410418,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wachsmuth",
-        "plzort": "53158 Bonn",
+        "nachname": "Koch",
+        "plzort": "53192 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Pruss-Stra\u00dfe 12a",
+        "strasse": "Joseph Haydn-Gasse 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 8
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 11
+                "abschluss": "",
+                "fach": "Spanisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Dorothee",
-        "weiblich": true
+        "vorname": "Arved",
+        "weiblich": false
     }
 }

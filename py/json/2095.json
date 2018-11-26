@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2379927,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1493142,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.07.1989",
-        "matrikelnummer": 2338373,
+        "fakultaet": 3,
+        "geburtsdatum": "25.09.1999",
+        "matrikelnummer": 131340,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ertl",
-        "plzort": "53156 Bonn",
+        "nachname": "Gall",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Gerberm\u00fchle 8",
+        "strasse": "Vierbergentwiete 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Biologie",
-                "fsem": 12
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 4
             }
         ],
-        "vorname": "Lidija",
+        "vorname": "Alix",
         "weiblich": true
     }
 }

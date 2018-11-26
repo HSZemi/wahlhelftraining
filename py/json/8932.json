@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1504977,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1113087,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "16.04.1999",
-        "matrikelnummer": 2130159,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "18.09.1994",
+        "matrikelnummer": 1934067,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ertl",
-        "plzort": "91469 Hagenb\u00fcchach",
+        "nachname": "H\u00fcls",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Liliensteinstra\u00dfe 1",
+        "strasse": "Kretschmerstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Wolfhart",
+        "vorname": "Friedolin",
         "weiblich": false
     }
 }

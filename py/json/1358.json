@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1212633,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1617514,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "25.04.1994",
-        "matrikelnummer": 18330,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "10.03.1991",
+        "matrikelnummer": 2207717,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stapf",
-        "plzort": "99735 Kleinfurra",
+        "nachname": "Weisser",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Hempelweg 40c",
+        "strasse": "Zehnmorgenstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Komparatistik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Dorkas",
+        "vorname": "Unette",
         "weiblich": true
     }
 }

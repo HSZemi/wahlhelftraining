@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1810568,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1588183,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.02.1990",
-        "matrikelnummer": 13814,
+        "fakultaet": 8,
+        "geburtsdatum": "05.10.1993",
+        "matrikelnummer": 3197814,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Goldbach",
-        "plzort": "91734 Mitteleschenbach",
+        "nachname": "Sch\u00e4ffler",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Angelika Fajt-Gasse 9",
+        "strasse": "Keltenstra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Clemens",
-        "weiblich": false
+        "vorname": "Anfriede",
+        "weiblich": true
     }
 }

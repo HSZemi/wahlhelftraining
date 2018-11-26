@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1566742,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2283505,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.10.1995",
-        "matrikelnummer": 2399898,
+        "fakultaet": 5,
+        "geburtsdatum": "08.04.1993",
+        "matrikelnummer": 2340780,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hielscher",
-        "plzort": "53177 Bonn",
+        "nachname": "Schunk",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Wittd\u00fcner Weg 5",
+        "strasse": "Eigenheimstra\u00dfe 23",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 4
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Romanistik",
+                "fsem": 7
             }
         ],
-        "vorname": "Alheidis",
-        "weiblich": true
+        "vorname": "Gerwald",
+        "weiblich": false
     }
 }

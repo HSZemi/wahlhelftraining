@@ -2,27 +2,42 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2629004,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1642501,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "20.01.1993",
-        "matrikelnummer": 2905144,
+        "fakultaet": 8,
+        "geburtsdatum": "21.07.1997",
+        "matrikelnummer": 2083449,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "67591 Wachenheim",
+        "plzort": "54673 Dauwelshausen",
         "sternchen": 0,
-        "strasse": "Weilburger Stra\u00dfe 2",
+        "strasse": "Im Finkengarten 9",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Rechtspsychologie",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 12
             }
         ],
         "vorname": "Sven",

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1839611,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2698542,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.08.1992",
-        "matrikelnummer": 2609623,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "25.01.1993",
+        "matrikelnummer": 2025105,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00fcnwald",
-        "plzort": "53132 Bonn",
+        "nachname": "Semmler",
+        "plzort": "38312 B\u00f6r\u00dfum",
         "sternchen": 0,
-        "strasse": "Ermischstra\u00dfe 3",
+        "strasse": "Waldblick 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Ansbert",
+        "vorname": "Helmo",
         "weiblich": false
     }
 }

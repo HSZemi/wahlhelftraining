@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1729364,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1392214,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "14.05.1994",
-        "matrikelnummer": 2263550,
+        "fakultaet": 9,
+        "geburtsdatum": "23.07.1992",
+        "matrikelnummer": 2757146,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reber",
-        "plzort": "53119 Bonn",
+        "nachname": "Polzin",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfmannstra\u00dfe 0",
+        "strasse": "Troppauer Stra\u00dfe 1e",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
             }
         ],
-        "vorname": "Dorena",
-        "weiblich": true
+        "vorname": "Sieghard",
+        "weiblich": false
     }
 }

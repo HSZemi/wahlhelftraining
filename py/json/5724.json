@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1977055,
+    "nummer": 1085762,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.01.1998",
-        "matrikelnummer": 2643342,
+        "fakultaet": 0,
+        "geburtsdatum": "12.06.1992",
+        "matrikelnummer": 2281565,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Utz",
-        "plzort": "53166 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Stauch",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Berlinertordamm 23b",
+        "strasse": "K\u00f6nigsufer 24",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 13
             },
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Sigismund",
-        "weiblich": false
+        "vorname": "Lieselene",
+        "weiblich": true
     }
 }

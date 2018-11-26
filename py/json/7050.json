@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2524210,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2485183,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.09.1990",
-        "matrikelnummer": 15646,
+        "fakultaet": 8,
+        "geburtsdatum": "17.08.1990",
+        "matrikelnummer": 1927750,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Brenner",
-        "plzort": "74391 Erligheim",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Zuber",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Berliner Tor 25",
+        "strasse": "Hermann-Wendel-Stra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 10
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Hasko",
-        "weiblich": false
+        "vorname": "Nuran",
+        "weiblich": true
     }
 }

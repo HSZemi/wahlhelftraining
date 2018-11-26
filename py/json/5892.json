@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2944790,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1615045,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 4,
-        "geburtsdatum": "01.09.1999",
-        "matrikelnummer": 180842,
+        "geburtsdatum": "19.02.1995",
+        "matrikelnummer": 3177312,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Teufel",
-        "plzort": "53116 Bonn",
+        "nachname": "B\u00e4tz",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Collenbuschstra\u00dfe 47",
+        "strasse": "Senftenberger Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 13
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Marika",
-        "weiblich": true
+        "vorname": "Lienard",
+        "weiblich": false
     }
 }

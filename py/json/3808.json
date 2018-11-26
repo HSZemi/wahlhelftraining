@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2038702,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2854241,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.08.1991",
-        "matrikelnummer": 1936036,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "10.05.1992",
+        "matrikelnummer": 2572059,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stegmann",
-        "plzort": "53134 Bonn",
+        "nachname": "Vo\u00df",
+        "plzort": "56479 Hellenhahn-Schellenberg",
         "sternchen": 0,
-        "strasse": "Steintorplatz 5",
+        "strasse": "Washingtonstra\u00dfe 12b",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Sabine",
-        "weiblich": true
+        "vorname": "Kaspar",
+        "weiblich": false
     }
 }

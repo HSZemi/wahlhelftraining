@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1708326,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1730698,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "03.04.1991",
-        "matrikelnummer": 2067079,
+        "fakultaet": 4,
+        "geburtsdatum": "15.11.1995",
+        "matrikelnummer": 2332457,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Engelhard",
-        "plzort": "53156 Bonn",
+        "nachname": "Gessner",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Elbeweg 11",
+        "strasse": "Anna-L\u00fchring-Weg 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 1
             }
         ],
-        "vorname": "Johannes",
-        "weiblich": false
+        "vorname": "Inka",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2363682,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1899523,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.10.1994",
-        "matrikelnummer": 2287232,
+        "fakultaet": 7,
+        "geburtsdatum": "26.05.1999",
+        "matrikelnummer": 2531243,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dobler",
-        "plzort": "53148 Bonn",
+        "nachname": "Merkel",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Hindemith-Anlage 11",
+        "strasse": "Diebsgrundweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Hildegard",
-        "weiblich": true
+        "vorname": "Theophilus",
+        "weiblich": false
     }
 }

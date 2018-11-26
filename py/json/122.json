@@ -1,33 +1,28 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1204850,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2483542,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "06.04.1995",
-        "matrikelnummer": 2518523,
+        "fakultaet": 6,
+        "geburtsdatum": "23.02.1992",
+        "matrikelnummer": 2268332,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53141 Bonn",
+        "plzort": "44625 Herne",
         "sternchen": 0,
-        "strasse": "Grenadierplatzl 2d",
+        "strasse": "B\u00fcdinger Stra\u00dfe 13e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 4
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 5
             }
         ],
         "vorname": "Marcel",

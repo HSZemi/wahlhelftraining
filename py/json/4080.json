@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1590590,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2065991,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "15.06.1992",
-        "matrikelnummer": 1987610,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "12.07.1999",
+        "matrikelnummer": 2427145,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Simon",
-        "plzort": "53131 Bonn",
+        "nachname": "Rosemann",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Neust\u00e4dter Markt 3",
+        "strasse": "Kurzer Schritt 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Mikrobiologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Gottfriede",
+        "vorname": "Ingemarie",
         "weiblich": true
     }
 }

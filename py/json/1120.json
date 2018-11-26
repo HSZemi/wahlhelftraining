@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2270371,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2761129,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "08.08.1996",
-        "matrikelnummer": 2139306,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "08.04.1997",
+        "matrikelnummer": 2334831,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Repp",
-        "plzort": "53182 Bonn",
+        "nachname": "Schindler",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Arndtstra\u00dfenbr\u00fccke 0a",
+        "strasse": "Peschelstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Tibetologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Vergleichende Religionswissenschaft",
-                "fsem": 1
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Ellengard",
-        "weiblich": true
+        "vorname": "Hieronimus",
+        "weiblich": false
     }
 }

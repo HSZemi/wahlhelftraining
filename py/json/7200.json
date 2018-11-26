@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2604848,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1481712,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.02.1990",
-        "matrikelnummer": 2712226,
+        "fakultaet": 3,
+        "geburtsdatum": "06.11.1991",
+        "matrikelnummer": 2370432,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rogge",
-        "plzort": "53117 Bonn",
+        "nachname": "Bohlen",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Elsterweg 4",
+        "strasse": "Heideplatz 4a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Physik",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Latein",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Christfried",
+        "vorname": "Gernod",
         "weiblich": false
     }
 }

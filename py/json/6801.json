@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2705055,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2654232,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.07.1989",
-        "matrikelnummer": 2713292,
+        "fakultaet": 1,
+        "geburtsdatum": "11.12.1995",
+        "matrikelnummer": 15041,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rosenberg",
-        "plzort": "53139 Bonn",
+        "nachname": "Bier",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Am Roten Knock 0",
+        "strasse": "Rangenbergstra\u00dfe 4a",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Thusnelda",
-        "weiblich": true
+        "vorname": "Steffan",
+        "weiblich": false
     }
 }

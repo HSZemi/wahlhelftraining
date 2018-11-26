@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2721083,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2268649,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.04.1991",
-        "matrikelnummer": 2374994,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "10.01.1989",
+        "matrikelnummer": 3021750,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Nagy",
-        "plzort": "53145 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Brandner",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Im G\u00e4ssel 5c",
+        "strasse": "Wetkesgarten 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Islamwissenschaft/Nahostsprachen",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 3
             }
         ],
-        "vorname": "Viktoria",
+        "vorname": "Huldine",
         "weiblich": true
     }
 }

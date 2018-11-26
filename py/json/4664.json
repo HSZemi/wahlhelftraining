@@ -1,31 +1,31 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2322344,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1880625,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "24.10.1996",
-        "matrikelnummer": 2266015,
+        "geburtsdatum": "14.03.1992",
+        "matrikelnummer": 2314625,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feller",
-        "plzort": "53217 Bonn",
+        "nachname": "Dieterle",
+        "plzort": "53142 Bonn",
         "sternchen": 0,
-        "strasse": "Kleinsteinstra\u00dfe 7",
+        "strasse": "Gangstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Computational Life Sciences",
+                "fsem": 12
             }
         ],
-        "vorname": "Karlmann",
+        "vorname": "Wolfrid",
         "weiblich": false
     }
 }

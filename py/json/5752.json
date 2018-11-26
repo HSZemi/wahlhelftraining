@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1385084,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1962812,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "14.10.1991",
-        "matrikelnummer": 2610227,
+        "fakultaet": 5,
+        "geburtsdatum": "13.05.1998",
+        "matrikelnummer": 2867319,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Burkhard",
-        "plzort": "53133 Bonn",
+        "nachname": "B\u00f6ttcher",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Kapellenstr. 7",
+        "strasse": "Leibbrandstra\u00dfe 28",
         "studienfaecher": [
             {
+                "abschluss": "Master of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 7
+                "fach": "Neurosciences",
+                "fsem": 2
             }
         ],
-        "vorname": "Donata",
-        "weiblich": true
+        "vorname": "Ludolf",
+        "weiblich": false
     }
 }

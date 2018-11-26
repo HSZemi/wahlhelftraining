@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1947401,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1987396,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "02.09.1996",
-        "matrikelnummer": 2786011,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "17.11.1998",
+        "matrikelnummer": 3125081,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Helmke",
-        "plzort": "01848 Hohnstein",
+        "nachname": "Wiechert",
+        "plzort": "06493 Neudorf",
         "sternchen": 0,
-        "strasse": "Blankenheimer Stra\u00dfe 20",
+        "strasse": "F\u00e4hrgasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Chinesisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Altamerikanistik und Ethnologie",
+                "fsem": 12
             }
         ],
-        "vorname": "David",
+        "vorname": "Nikodem",
         "weiblich": false
     }
 }

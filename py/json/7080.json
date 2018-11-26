@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2353834,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1213079,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.05.1995",
-        "matrikelnummer": 2951940,
-        "mehrfachausfertigung": 4,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "07.08.1995",
+        "matrikelnummer": 3132750,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fa\u00dfbender",
-        "plzort": "53132 Bonn",
+        "nachname": "K\u00fcnzel",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Ottoplatz 11",
+        "strasse": "Zwischen den Hecken 20a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
                 "fsem": 11
             }
         ],
-        "vorname": "Maik",
+        "vorname": "Ortfried",
         "weiblich": false
     }
 }

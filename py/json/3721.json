@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2688642,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2066690,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "27.07.1996",
-        "matrikelnummer": 2196925,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "14.07.1988",
+        "matrikelnummer": 1960460,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kick",
-        "plzort": "53215 Bonn",
+        "nachname": "Kohnen",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Gutleutstra\u00dfe 0",
+        "strasse": "Windm\u00fchlenstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 2
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "fach": "Entwicklungsforschung",
+                "fsem": 7
             }
         ],
-        "vorname": "Annik",
-        "weiblich": false
+        "vorname": "Liane",
+        "weiblich": true
     }
 }

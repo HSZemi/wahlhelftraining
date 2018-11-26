@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1053564,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2619109,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "20.10.1985",
-        "matrikelnummer": 1919847,
+        "fakultaet": 5,
+        "geburtsdatum": "16.05.1996",
+        "matrikelnummer": 3163678,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Menz",
-        "plzort": "56751 Kollig",
+        "nachname": "Pabst",
+        "plzort": "64839 M\u00fcnster",
         "sternchen": 0,
-        "strasse": "Prieststra\u00dfe 0",
+        "strasse": "Zschonerblick 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
                 "fsem": 12
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 8
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Centa",
-        "weiblich": true
+        "vorname": "Nicky",
+        "weiblich": false
     }
 }

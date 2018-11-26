@@ -2,35 +2,30 @@
     "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1115328,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2221806,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "15.03.1992",
-        "matrikelnummer": 19432,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "24.01.1994",
+        "matrikelnummer": 2520477,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Habermann",
-        "plzort": "53182 Bonn",
+        "nachname": "Pahl",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Bierkrugweg 8",
+        "strasse": "Am Kaditzer T\u00e4nnicht 19c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 6
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Gila",
+        "vorname": "Roselinde",
         "weiblich": true
     }
 }

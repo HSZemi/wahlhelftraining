@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1443956,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1016725,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.08.1995",
-        "matrikelnummer": 2478607,
+        "fakultaet": 5,
+        "geburtsdatum": "01.01.1995",
+        "matrikelnummer": 19410,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Adrian",
-        "plzort": "53160 Bonn",
+        "nachname": "Kreis",
+        "plzort": "54619 Eschfeld",
         "sternchen": 0,
-        "strasse": "Mechtildstra\u00dfe 0",
+        "strasse": "Albert-Einstein-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Chemistry",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 11
             }
         ],
-        "vorname": "Sarah",
-        "weiblich": true
+        "vorname": "Gerd",
+        "weiblich": false
     }
 }

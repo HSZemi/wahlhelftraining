@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1023944,
-    "semester": "Sommersemester 2017",
+    "nummer": 1580331,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "04.06.1997",
-        "matrikelnummer": 3109739,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 9,
+        "geburtsdatum": "07.11.1992",
+        "matrikelnummer": 17875,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Willems",
-        "plzort": "53167 Bonn",
+        "nachname": "Ewald",
+        "plzort": "38707 Altenau",
         "sternchen": 0,
-        "strasse": "Torontobr\u00fccke 9",
+        "strasse": "Altfrankener H\u00f6he 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Gundhart",
+        "vorname": "Ekhard",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2314582,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2377987,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "16.07.1991",
-        "matrikelnummer": 2827057,
+        "fakultaet": 9,
+        "geburtsdatum": "05.06.1995",
+        "matrikelnummer": 2511956,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00f6llers",
-        "plzort": "53178 Bonn",
+        "nachname": "Derksen",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Roter Grabenweg 4",
+        "strasse": "Im Ried 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 7
             }
         ],
-        "vorname": "Haimo",
-        "weiblich": false
+        "vorname": "Nicole",
+        "weiblich": true
     }
 }

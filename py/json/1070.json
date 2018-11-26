@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2496686,
-    "semester": "Sommersemester 2017",
+    "nummer": 1881403,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "06.04.1992",
-        "matrikelnummer": 3106965,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "16.04.1992",
+        "matrikelnummer": 2225604,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reisch",
-        "plzort": "53227 Bonn",
+        "nachname": "Teichmann",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Seilergasse 10",
+        "strasse": "Schillerstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Arzu",
+        "vorname": "Friedeburg",
         "weiblich": true
     }
 }

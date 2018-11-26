@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1432785,
-    "semester": "Sommersemester 2017",
+    "nummer": 2311358,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "08.09.1988",
-        "matrikelnummer": 3164101,
+        "fakultaet": 5,
+        "geburtsdatum": "20.01.1994",
+        "matrikelnummer": 2952804,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zacharias",
-        "plzort": "53162 Bonn",
+        "nachname": "Zitzmann",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Baumeisterstra\u00dfe 9",
+        "strasse": "Kleinborthener Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Geographie",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 2
             },
             {
                 "abschluss": "",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "fach": "Musikwissenschaft/Sound Studies",
+                "fsem": 9
             }
         ],
-        "vorname": "Desiree",
-        "weiblich": true
+        "vorname": "Warnfried",
+        "weiblich": false
     }
 }

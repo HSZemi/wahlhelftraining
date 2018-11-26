@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2766424,
-    "semester": "Sommersemester 2017",
+    "nummer": 1617780,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "11.06.1996",
-        "matrikelnummer": 19324,
+        "fakultaet": 6,
+        "geburtsdatum": "26.12.1996",
+        "matrikelnummer": 2169970,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Konrad",
-        "plzort": "53127 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hagel",
+        "plzort": "53203 Bonn",
         "sternchen": 0,
-        "strasse": "Luisenweg 1",
+        "strasse": "Rudolf-Menzer-Anlage 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Mathematik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 6
             }
         ],
-        "vorname": "Reino",
-        "weiblich": false
+        "vorname": "Haralda",
+        "weiblich": true
     }
 }

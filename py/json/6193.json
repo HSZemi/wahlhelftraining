@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1203092,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2629403,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "23.07.1995",
-        "matrikelnummer": 15041,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "04.08.1990",
+        "matrikelnummer": 3080476,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scherf",
-        "plzort": "53224 Bonn",
+        "nachname": "Gerhardt",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Altkaditz 26",
+        "strasse": "Feiersteigweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 13
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Veith",
+        "vorname": "Reimo",
         "weiblich": false
     }
 }

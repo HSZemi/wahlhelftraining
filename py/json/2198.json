@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1798519,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2674155,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.04.1997",
-        "matrikelnummer": 3010904,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "09.02.1999",
+        "matrikelnummer": 136182,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Niemeier",
-        "plzort": "53127 Bonn",
+        "nachname": "Epple",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Radegundisgasse 17",
+        "strasse": "Riedgrund 4",
         "studienfaecher": [
             {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 2
+            },
+            {
                 "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 4
+                "fach": "Rechtswissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Heimwald",
-        "weiblich": false
+        "vorname": "Elfgard",
+        "weiblich": true
     }
 }

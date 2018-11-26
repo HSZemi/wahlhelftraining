@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2186166,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2566296,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.06.1997",
-        "matrikelnummer": 3129853,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 3,
+        "geburtsdatum": "27.07.1997",
+        "matrikelnummer": 3088249,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ehret",
-        "plzort": "53131 Bonn",
+        "nachname": "Bu\u00dfmann",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Seewiesenstr. 7",
+        "strasse": "Hebbelplatz 28",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
                 "fsem": 5
             }
         ],
-        "vorname": "Wladislaus",
-        "weiblich": false
+        "vorname": "Sibylle",
+        "weiblich": true
     }
 }

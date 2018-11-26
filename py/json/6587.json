@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1961788,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2948519,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.07.1991",
-        "matrikelnummer": 19675,
+        "fakultaet": 6,
+        "geburtsdatum": "13.07.1993",
+        "matrikelnummer": 16069,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kullmann",
-        "plzort": "53217 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Ewers",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Bendergasse 0",
+        "strasse": "Oberurseler Weg 3b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Mathematik",
+                "fsem": 1
             }
         ],
-        "vorname": "Gelbert",
-        "weiblich": false
+        "vorname": "Albine",
+        "weiblich": true
     }
 }

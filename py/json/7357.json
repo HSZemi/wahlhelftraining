@@ -1,56 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2260458,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2206268,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.06.1996",
-        "matrikelnummer": 2275682,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "12.10.1992",
+        "matrikelnummer": 2763378,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lauterbach",
-        "plzort": "99885 W\u00f6lfis",
+        "nachname": "Vogel",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "An der Rennbahn 40",
+        "strasse": "Langenhainer Stra\u00dfe 6a",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
-            },
-            {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Philosophie",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechisch",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
                 "fsem": 2
             }
         ],
-        "vorname": "Bodo",
+        "vorname": "Othmar",
         "weiblich": false
     }
 }

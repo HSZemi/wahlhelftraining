@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2845236,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1055935,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.09.1992",
-        "matrikelnummer": 16652,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "15.05.1999",
+        "matrikelnummer": 2752222,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stief",
-        "plzort": "53180 Bonn",
+        "nachname": "Reisch",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Rainfarnweg 6e",
+        "strasse": "Jochenmattweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 12
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 5
             },
             {
                 "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 1
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
             }
         ],
-        "vorname": "Emilia",
-        "weiblich": true
+        "vorname": "Uranius",
+        "weiblich": false
     }
 }

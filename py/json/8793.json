@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1244851,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2530107,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "05.12.1992",
-        "matrikelnummer": 2176575,
+        "fakultaet": 6,
+        "geburtsdatum": "11.05.1990",
+        "matrikelnummer": 2035207,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Licht",
-        "plzort": "53199 Bonn",
+        "nachname": "Klaus",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Gottschedstra\u00dfe 4",
+        "strasse": "Uferstra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 3
             }
         ],
-        "vorname": "Harry",
+        "vorname": "Hendrik",
         "weiblich": false
     }
 }

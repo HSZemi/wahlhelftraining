@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1570777,
+    "nummer": 1042630,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "28.07.1996",
-        "matrikelnummer": 2493623,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "09.03.1983",
+        "matrikelnummer": 2145121,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kleine",
-        "plzort": "53189 Bonn",
+        "nachname": "Brandenburg",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Kaiserplatz 12",
+        "strasse": "Arkonastra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Philosophie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Kunstgeschichte",
+                "fsem": 10
             }
         ],
-        "vorname": "Emmaliese",
-        "weiblich": true
+        "vorname": "Berti",
+        "weiblich": false
     }
 }

@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1725841,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1474017,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "15.03.1987",
-        "matrikelnummer": 2963735,
+        "fakultaet": 8,
+        "geburtsdatum": "09.03.1990",
+        "matrikelnummer": 12194,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gilbert",
-        "plzort": "53226 Bonn",
+        "nachname": "Henschel",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Sievekingsallee 6",
+        "strasse": "Tuchmachergasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 10
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Fried",
-        "weiblich": false
+        "vorname": "Svea",
+        "weiblich": true
     }
 }

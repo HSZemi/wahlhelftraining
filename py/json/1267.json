@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1136336,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2622332,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.10.1996",
-        "matrikelnummer": 3128952,
+        "fakultaet": 8,
+        "geburtsdatum": "28.10.1995",
+        "matrikelnummer": 2859212,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wunsch",
-        "plzort": "53213 Bonn",
+        "nachname": "Sippel",
+        "plzort": "53140 Bonn",
         "sternchen": 0,
-        "strasse": "Habsburgerallee 21",
+        "strasse": "M\u00fcnzstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 7
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Adelbert",
+        "vorname": "Jannick",
         "weiblich": false
     }
 }

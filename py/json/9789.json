@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2531265,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2198651,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "27.01.1990",
-        "matrikelnummer": 2817439,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "12.05.1993",
+        "matrikelnummer": 2758764,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hain",
-        "plzort": "54558 Strohn",
+        "nachname": "Dudek",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Alsenstra\u00dfe 1e",
+        "strasse": "Rotkleedamm 13",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Arist",
-        "weiblich": false
+        "vorname": "Marilen",
+        "weiblich": true
     }
 }

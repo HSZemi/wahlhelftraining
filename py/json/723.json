@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1303557,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2227130,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.02.1996",
-        "matrikelnummer": 3185041,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "21.06.1995",
+        "matrikelnummer": 3048603,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kramp",
-        "plzort": "53219 Bonn",
+        "nachname": "Wiegmann",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwigsburger Weg 8",
+        "strasse": "Georg-K\u00fchne-Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
+                "fach": "Evangelische Theologie",
                 "fsem": 3
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Malte",
+        "vorname": "Ulf",
         "weiblich": false
     }
 }

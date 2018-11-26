@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2686389,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2300154,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "25.12.1997",
-        "matrikelnummer": 3070187,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "14.04.1980",
+        "matrikelnummer": 2719789,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fcle",
-        "plzort": "24369 Waabs",
+        "nachname": "Werth",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Pohlstra\u00dfe 43",
+        "strasse": "Hildburgh\u00e4user Weg 11",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Kunstgeschichte",
+                "fsem": 8
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Zilli",
+        "vorname": "Ehrentraut",
         "weiblich": true
     }
 }

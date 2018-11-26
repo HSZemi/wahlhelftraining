@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1849154,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2531241,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "16.11.1999",
-        "matrikelnummer": 2192603,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "18.12.1990",
+        "matrikelnummer": 15895,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00fcner",
-        "plzort": "53117 Bonn",
+        "nachname": "Hennig",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Ulanenplatz 4",
+        "strasse": "Willy-Lessing-Str. 11",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Zahnmedizin",
+                "fsem": 12
             }
         ],
-        "vorname": "Ingmar",
-        "weiblich": false
+        "vorname": "Sonja",
+        "weiblich": true
     }
 }

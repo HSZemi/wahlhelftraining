@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2456530,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2448670,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.03.1996",
-        "matrikelnummer": 1955352,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "10.06.1991",
+        "matrikelnummer": 2384388,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mai",
-        "plzort": "53151 Bonn",
+        "nachname": "Wick",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Lohkamp 18",
+        "strasse": "Nesselbuschstra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 3
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 1
             }
         ],
-        "vorname": "Carlheinz",
-        "weiblich": false
+        "vorname": "Hubertina",
+        "weiblich": true
     }
 }

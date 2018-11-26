@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1007913,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2177257,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "04.07.1993",
-        "matrikelnummer": 2793844,
+        "fakultaet": 3,
+        "geburtsdatum": "06.04.1997",
+        "matrikelnummer": 2438123,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53199 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Kulmbachstra\u00dfe 1e",
+        "strasse": "Grevenweg 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

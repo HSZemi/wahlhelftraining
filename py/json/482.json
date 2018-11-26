@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1625248,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2950354,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.01.1988",
-        "matrikelnummer": 1998874,
+        "fakultaet": 9,
+        "geburtsdatum": "21.07.1995",
+        "matrikelnummer": 2110794,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Heinen",
-        "plzort": "53162 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zemantek",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Langaugasse 5a",
+        "strasse": "Zeisel Neuri\u00df 4",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

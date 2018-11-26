@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1942886,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2824473,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "01.06.1994",
-        "matrikelnummer": 3016371,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "21.06.1997",
+        "matrikelnummer": 2968931,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Barz",
-        "plzort": "97261 G\u00fcntersleben",
+        "nachname": "G\u00f6lz",
+        "plzort": "02943 Wei\u00dfwasser",
         "sternchen": 0,
-        "strasse": "Orangeriestra\u00dfe 2",
+        "strasse": "Emilienstra\u00dfe 31",
         "studienfaecher": [
+            {
+                "abschluss": "Master of Science",
+                "fach": "Organismic Biology, Evolutionary Biology and Palaeobiology",
+                "fsem": 10
+            },
             {
                 "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
-                "fsem": 1
+                "fsem": 10
             }
         ],
-        "vorname": "Elgine",
-        "weiblich": true
+        "vorname": "Sonnhardt",
+        "weiblich": false
     }
 }

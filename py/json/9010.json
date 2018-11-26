@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2884660,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2326844,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.06.1999",
-        "matrikelnummer": 3128251,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "04.04.1992",
+        "matrikelnummer": 2402404,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hillebrand",
-        "plzort": "53113 Bonn",
+        "nachname": "Finke",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Martin-Luther-Stra\u00dfe 9",
+        "strasse": "Meisenweg 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Tibetologie",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Medienkommunikation",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Benedikt",
+        "vorname": "Hansjochen",
         "weiblich": false
     }
 }

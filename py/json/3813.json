@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1086802,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1265850,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.01.1996",
-        "matrikelnummer": 2364802,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "28.03.1998",
+        "matrikelnummer": 2148814,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Raasch",
-        "plzort": "41747 Viersen",
+        "nachname": "Ackermann",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Martin-Els\u00e4sser-Weg 0",
+        "strasse": "Martino Carlone-Gasse 49",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Leon",
-        "weiblich": false
+        "vorname": "Danica",
+        "weiblich": true
     }
 }

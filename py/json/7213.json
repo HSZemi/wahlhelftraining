@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1786344,
+    "nummer": 1795597,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "21.12.1999",
-        "matrikelnummer": 2789876,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "08.11.1995",
+        "matrikelnummer": 191890,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holtkamp",
-        "plzort": "53129 Bonn",
+        "nachname": "Fisch",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Torfweg 13",
+        "strasse": "Fritz-Schulze-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Latein",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Geographie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Lidia",
+        "vorname": "Alix",
         "weiblich": true
     }
 }

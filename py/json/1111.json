@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1004014,
+    "nummer": 1316383,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "15.08.1990",
-        "matrikelnummer": 2453148,
+        "geburtsdatum": "01.12.1992",
+        "matrikelnummer": 2850871,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Huber",
-        "plzort": "53149 Bonn",
+        "nachname": "Ro\u00df",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Hermann-Wendel-Stra\u00dfe 17",
+        "strasse": "Hofwegbr\u00fccke 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Politik und Gesellschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Germanistik",
+                "fsem": 4
             }
         ],
-        "vorname": "Michl",
-        "weiblich": false
+        "vorname": "Aynur",
+        "weiblich": true
     }
 }

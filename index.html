@@ -237,6 +237,11 @@
 		<p class="cardtitle">SP</p>
 		</div>
 		
+		<div class="zettel" id="ua">
+		<img src="data/ua.png">
+		<p class="cardtitle">UA</p>
+		</div>
+		
 		<div class="zettel" id="senat">
 		<img src="data/senat.png">
 		<p class="cardtitle">Senat</p>
@@ -379,12 +384,13 @@
 	var fakrats = {1:"fak_kf",2:"fak_ef",3:"fak_rf_rw",4:"fak_mf",5:"fak_pf",6:"fak_mnf",7:"fak_lf",8:"v_bzl",9:"fak_rf_ww"}
 	var shks = {1:"shk_kf",2:"shk_ef",3:"shk_rf",4:"shk_mf",5:"shk_pf",6:"shk_mnf",7:"shk_lf",8:"shk_bzl",9:"shk_rf"}
 	var schriften = {1:"", 2:"Zweitschrift", 3:"Drittschrift", 4:"Viertschrift", 5:"Fünftschrift"}
-	var fullnames = {"sp":"Studierendenparlament","senat":"Senat","gb":"Wahlgremium zur Wahl der zentralen Gleichstellungsbeauftragten und ihrer Stellvertreterinnen","fak_kf":"Fakultätsrat der katholisch-theologischen Fakultät","fak_ef":"Fakultätsrat der evangelisch-theologischen Fakultät","fak_mf":"Fakultätsrat der medizinischen Fakultät","fak_rf_rw":"Fakultätsrat der rechts- und staatswissenschaftlichen Fakultät, Wahlkreis Rechtswissenschaft","fak_pf":"Fakultätsrat der philosophischen Fakultät","fak_mnf":"Fakultätsrat der mathematisch-naturwissenschaftlichen Fakultät","fak_lf":"Fakultätsrat der landwirtschaftlichen Fakultät","v_bzl":"Vorstand des Bonner Zentrums für Lehrerbildung","fak_rf_ww":"Fakultätsrat der rechts- und staatswissenschaftlichen Fakultät, Wahlkreis Wirtschaftswissenschaften","shk_kf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (katholisch-theologische Fakultät)","shk_ef":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (evangelisch-theologische Fakultät)","shk_mf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (medizinische Fakultät)","shk_rf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (rechts- und staatswissenschaftliche Fakultät)","shk_pf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (philosophische Fakultät)","shk_mnf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (mathematisch-naturwissenschaftliche Fakultät)","shk_lf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (landwirtschaftliche Fakultät)","shk_bzl":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (Bonner Zentrum für Lehrerbildung)"}
+	var fullnames = {"sp":"Studierendenparlament","ua":"Urabstimmung","senat":"Senat","gb":"Wahlgremium zur Wahl der zentralen Gleichstellungsbeauftragten und ihrer Stellvertreterinnen","fak_kf":"Fakultätsrat der katholisch-theologischen Fakultät","fak_ef":"Fakultätsrat der evangelisch-theologischen Fakultät","fak_mf":"Fakultätsrat der medizinischen Fakultät","fak_rf_rw":"Fakultätsrat der rechts- und staatswissenschaftlichen Fakultät, Wahlkreis Rechtswissenschaft","fak_pf":"Fakultätsrat der philosophischen Fakultät","fak_mnf":"Fakultätsrat der mathematisch-naturwissenschaftlichen Fakultät","fak_lf":"Fakultätsrat der landwirtschaftlichen Fakultät","v_bzl":"Vorstand des Bonner Zentrums für Lehrerbildung","fak_rf_ww":"Fakultätsrat der rechts- und staatswissenschaftlichen Fakultät, Wahlkreis Wirtschaftswissenschaften","shk_kf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (katholisch-theologische Fakultät)","shk_ef":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (evangelisch-theologische Fakultät)","shk_mf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (medizinische Fakultät)","shk_rf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (rechts- und staatswissenschaftliche Fakultät)","shk_pf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (philosophische Fakultät)","shk_mnf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (mathematisch-naturwissenschaftliche Fakultät)","shk_lf":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (landwirtschaftliche Fakultät)","shk_bzl":"Stelle zur Vertretung der Belange der studentischen Hilfskräfte (Bonner Zentrum für Lehrerbildung)"}
 	var current_data = null;
 	
 	var korrekt = 0;
 	var falsch = 0;
 	var gewertet = false;
+	var nl = null;
 	
 	$(function(){
 		$.ajaxSetup({ cache: false });
@@ -452,7 +458,7 @@
 			if(current_data['stud']['ausweistyp'] == "weiterbildung"){
 				s += "Geschlechtshinweis auf der Rückseite beachten\n";
 			}
-			if(current_data['semester'] != "Wintersemester 2017/2018"){
+			if(current_data['semester'] != "Wintersemester 2018/2019"){
 				s += "Semester beachten\n";
 			}
 			if(current_data['loecher']['sp']){
@@ -498,7 +504,7 @@
 	function get_target_set(){
 		target_set = new Set();
 		
-		if(current_data['semester'] == "Wintersemester 2017/2018" && current_data['stud']['ausweistyp'] != "zweithoerer"){
+		if(current_data['semester'] == "Wintersemester 2018/2019" && current_data['stud']['ausweistyp'] != "zweithoerer"){
 		
 			nl = get_negativliste();
 			
@@ -507,6 +513,7 @@
 				if(!current_data['loecher']['sp']){
 					if(nl == null || (nl[6] == "" && nl[8] != "Briefwahl" && nl[8] != "Briefwahl SP")){
 						target_set.add("sp");
+						target_set.add("ua");
 					}
 				}
 				
@@ -533,7 +540,7 @@
 	
 	function check(){
 		target_set = get_target_set();
-		all_set = new Set(['sp','senat','gb','fak_kf','fak_ef','fak_rf_rw','fak_mf','fak_pf','fak_mnf','fak_lf','v_bzl','fak_rf_ww','shk_kf','shk_ef','shk_rf','shk_mf','shk_pf','shk_mnf','shk_lf','shk_bzl']);
+		all_set = new Set(['sp','ua','senat','gb','fak_kf','fak_ef','fak_rf_rw','fak_mf','fak_pf','fak_mnf','fak_lf','v_bzl','fak_rf_ww','shk_kf','shk_ef','shk_rf','shk_mf','shk_pf','shk_mnf','shk_lf','shk_bzl']);
 		
 		
 		for (item of target_set){
@@ -599,9 +606,29 @@
 			$('#plzort tspan').text(data['stud']['plzort']);
 			$('#matrikelnummer tspan').text("0"+data['stud']['matrikelnummer']);
 			$('#matrikelnummer1 tspan').text(data['stud']['matrikelnummer']);
+			$('#matrikelnummer1_alt tspan').text(data['stud']['matrikelnummer']);
 			$('#ausweisnummer tspan').text(data['nummer']);
+			$('#ausweisnummer_alt tspan').text(data['nummer']);
 			$('#gremienzahl tspan').text(data['stud']['fakultaet']);
 			$('#mehrfachausfertigung tspan').text(ausfertigungen[data['ausfertigung']]);
+
+
+			if (Math.random() > 0.6) {
+				$("#matrikelnummer1_alt").attr("display", "none");
+				$("#ausweisnummer_alt").attr("display", "none");
+				$("#ausweisnummer_alt_x").attr("display", "none");
+				$("#matrikelnummer1_alt_arrow").attr("display", "none");
+				$("#matrikelnummer1").removeAttr("display");
+				$("#ausweisnummer").removeAttr("display");
+			} else {
+				$("#matrikelnummer1_alt").removeAttr("display");
+				$("#ausweisnummer_alt").removeAttr("display");
+				$("#ausweisnummer_alt_x").removeAttr("display");
+				$("#matrikelnummer1_alt_arrow").removeAttr("display");
+				$("#matrikelnummer1").attr("display", "none");
+				$("#ausweisnummer").attr("display", "none");
+			}
+
 			
 			if(data['stud']['ausweistyp'] == "regulaer"){
 				if(data['stud']['weiblich']){

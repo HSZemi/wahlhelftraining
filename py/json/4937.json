@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2897857,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1284826,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.07.1995",
-        "matrikelnummer": 121098,
+        "fakultaet": 9,
+        "geburtsdatum": "22.11.1988",
+        "matrikelnummer": 1992174,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kutzner",
-        "plzort": "53148 Bonn",
+        "nachname": "Schaffner",
+        "plzort": "55576 Welgesheim",
         "sternchen": 0,
-        "strasse": "Weism\u00fcllerstra\u00dfe 11",
+        "strasse": "Zorbachstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 6
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Lindhilde",
+        "vorname": "Jaqueline",
         "weiblich": true
     }
 }

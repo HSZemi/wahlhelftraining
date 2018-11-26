@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2687693,
-    "semester": "Sommersemester 2017",
+    "nummer": 1865088,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "09.12.1995",
-        "matrikelnummer": 2880798,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "11.06.1994",
+        "matrikelnummer": 13298,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Strecker",
-        "plzort": "53201 Bonn",
+        "nachname": "K\u00f6pke",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Richard-Biringer-Weg 2",
+        "strasse": "Niddagaustra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
             },
             {
                 "abschluss": "Promotion o.Ab.Astronomie",
                 "fach": "Astronomie/Astrophysik",
-                "fsem": 8
+                "fsem": 11
             }
         ],
-        "vorname": "Valeska",
+        "vorname": "Regelinde",
         "weiblich": true
     }
 }

@@ -1,46 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": true,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2335239,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2045802,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.01.1994",
-        "matrikelnummer": 2362998,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "12.08.1988",
+        "matrikelnummer": 2727786,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seidler",
-        "plzort": "54673 Plascheid",
+        "nachname": "Weidner",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz-Bayerlein-Weg 1",
+        "strasse": "Brackdamm 16",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Medienwissenschaft",
+                "fsem": 9
             },
             {
                 "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Life and Medical Sciences",
-                "fsem": 8
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 9
             }
         ],
-        "vorname": "Albert",
+        "vorname": "Wedig",
         "weiblich": false
     }
 }

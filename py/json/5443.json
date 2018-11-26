@@ -1,56 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2326447,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1776386,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "16.12.1992",
-        "matrikelnummer": 192511,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 9,
+        "geburtsdatum": "20.05.1995",
+        "matrikelnummer": 2328721,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grund",
-        "plzort": "96260 Weismain",
+        "nachname": "Reuter",
+        "plzort": "38384 Gevensleben",
         "sternchen": 0,
-        "strasse": "Kurzer Schritt 13",
+        "strasse": "Goldkoppel 3",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
                 "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
-            },
-            {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
             }
         ],
-        "vorname": "Edelmut",
+        "vorname": "Burckhardt",
         "weiblich": false
     }
 }

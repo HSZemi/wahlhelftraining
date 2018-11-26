@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2860430,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2508579,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "15.11.1995",
-        "matrikelnummer": 2917368,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "07.03.1994",
+        "matrikelnummer": 19561,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Radermacher",
-        "plzort": "04155 Leipzig",
+        "nachname": "Yildirim",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "Meinhardtstr. 31",
+        "strasse": "Bahnh\u00e4user 7",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 5
             }
         ],
-        "vorname": "Klausdieter",
-        "weiblich": false
+        "vorname": "Elvire",
+        "weiblich": true
     }
 }

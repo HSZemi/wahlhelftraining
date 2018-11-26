@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1938241,
+    "nummer": 2648547,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.05.1990",
-        "matrikelnummer": 139567,
+        "fakultaet": 5,
+        "geburtsdatum": "08.01.1995",
+        "matrikelnummer": 2442358,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kemper",
-        "plzort": "53224 Bonn",
+        "nachname": "B\u00f6ttcher",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Gomlitzer Querweg 2",
+        "strasse": "Sagarder Weg 13",
         "studienfaecher": [
             {
+                "abschluss": "Master of Arts",
+                "fach": "\u00c4gyptologie",
+                "fsem": 8
+            },
+            {
                 "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Zahnmedizin",
-                "fsem": 4
+                "fach": "Medizinische Neurowissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Karlpeter",
+        "vorname": "Oliver",
         "weiblich": false
     }
 }

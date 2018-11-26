@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2563111,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1799479,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "25.07.1992",
-        "matrikelnummer": 2495003,
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "20.12.1994",
+        "matrikelnummer": 2190167,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Speicher",
-        "plzort": "53149 Bonn",
+        "nachname": "K\u00f6lsch",
+        "plzort": "53138 Bonn",
         "sternchen": 0,
-        "strasse": "G\u00fcntzplatz 2",
+        "strasse": "Heinrich-Semlinger-Str. 8",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Englische Philologie",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Julia",
-        "weiblich": true
+        "vorname": "Jupp",
+        "weiblich": false
     }
 }

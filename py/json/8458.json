@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1557523,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1755552,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "24.04.1994",
-        "matrikelnummer": 3154801,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "02.11.1995",
+        "matrikelnummer": 2345453,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Eppler",
-        "plzort": "53152 Bonn",
+        "nachname": "Greb",
+        "plzort": "34519 Diemelsee",
         "sternchen": 0,
-        "strasse": "Lockwitzer Stra\u00dfe 2",
+        "strasse": "Gr\u00fcner Steig 1",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Eugen",
-        "weiblich": false
+        "vorname": "Betti",
+        "weiblich": true
     }
 }

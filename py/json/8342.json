@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1754219,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1691188,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.08.1989",
-        "matrikelnummer": 2793163,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 9,
+        "geburtsdatum": "01.06.1992",
+        "matrikelnummer": 16764,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klapper",
-        "plzort": "75365 Calw",
+        "nachname": "Assmann",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Pfarrer-Kneipp-Hof 7",
+        "strasse": "Alexanderstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Lateinamerika- und Altamerikastudien",
-                "fsem": 3
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             }
         ],
-        "vorname": "Mischel",
+        "vorname": "Balthasar",
         "weiblich": false
     }
 }

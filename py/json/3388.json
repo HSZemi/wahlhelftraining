@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2392104,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2268849,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "12.01.1999",
-        "matrikelnummer": 3018092,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "01.05.1995",
+        "matrikelnummer": 2474535,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Roscher",
-        "plzort": "53220 Bonn",
+        "nachname": "Gerken",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Bramschstra\u00dfe 1",
+        "strasse": "Europaplatz 6c",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "S\u00fcdostasienwissenschaft",
                 "fsem": 13
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 4
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 13
             }
         ],
-        "vorname": "Augustin",
+        "vorname": "Wendelinus",
         "weiblich": false
     }
 }

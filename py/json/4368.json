@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1555713,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2837963,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "12.06.1995",
-        "matrikelnummer": 3191541,
+        "fakultaet": 4,
+        "geburtsdatum": "08.05.1999",
+        "matrikelnummer": 2907405,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Asmus",
-        "plzort": "19258 Gallin",
+        "nachname": "Hei\u00df",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Borsbergblick 15",
+        "strasse": "Mirabellenweg 6e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 1
             }
         ],
-        "vorname": "Dankmar",
-        "weiblich": false
+        "vorname": "Sonngard",
+        "weiblich": true
     }
 }

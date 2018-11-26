@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1079227,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2642288,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 1,
-        "geburtsdatum": "28.02.1994",
-        "matrikelnummer": 114632,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "18.12.1993",
+        "matrikelnummer": 2192708,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinig",
-        "plzort": "45138 Essen",
+        "nachname": "M\u00f6ller",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00f6nbornreihe 2",
+        "strasse": "Barckhusendamm 1",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
                 "fach": "Katholische Theologie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 12
+                "fsem": 13
             }
         ],
-        "vorname": "Gotthardt",
-        "weiblich": false
+        "vorname": "Anneluise",
+        "weiblich": true
     }
 }

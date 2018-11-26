@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2897646,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2810973,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "11.11.1991",
-        "matrikelnummer": 19364,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "02.01.1993",
+        "matrikelnummer": 3151752,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kellermann",
-        "plzort": "53160 Bonn",
+        "nachname": "Brenner",
+        "plzort": "53190 Bonn",
         "sternchen": 0,
-        "strasse": "Keppgrundweg 11",
+        "strasse": "Rahewinkel 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 3
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Griechisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Diethmar",
-        "weiblich": false
+        "vorname": "Annegold",
+        "weiblich": true
     }
 }

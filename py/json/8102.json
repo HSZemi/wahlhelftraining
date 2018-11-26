@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1367510,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1633111,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "06.07.1990",
-        "matrikelnummer": 2570602,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "04.03.1995",
+        "matrikelnummer": 3054350,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heller",
-        "plzort": "78357 M\u00fchlingen",
+        "nachname": "Hauptmann",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Kasernenstra\u00dfe 25",
+        "strasse": "Jenaer Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 2
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Christfried",
-        "weiblich": false
+        "vorname": "Mariegret",
+        "weiblich": true
     }
 }

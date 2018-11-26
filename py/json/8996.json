@@ -4,38 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1713452,
+    "nummer": 1185607,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "17.05.1999",
-        "matrikelnummer": 13346,
+        "fakultaet": 0,
+        "geburtsdatum": "11.02.1999",
+        "matrikelnummer": 17787,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brauer",
-        "plzort": "58097 Hagen",
+        "nachname": "Erhardt",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Fruchthof 14",
+        "strasse": "Am Waldblick 34",
         "studienfaecher": [
             {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 4
+            },
+            {
                 "abschluss": "LA BA Gym Ge",
-                "fach": "Katholische Religionslehre",
-                "fsem": 1
+                "fach": "Philosophie",
+                "fsem": 8
             },
             {
                 "abschluss": "",
-                "fach": "Evangelische Religionslehre",
-                "fsem": 1
+                "fach": "Latein",
+                "fsem": 8
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 1
+                "fsem": 12
             }
         ],
-        "vorname": "Anny",
-        "weiblich": true
+        "vorname": "Dietwulf",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1949405,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1721371,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "06.07.1995",
-        "matrikelnummer": 2721258,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "22.09.1997",
+        "matrikelnummer": 3182183,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hinzmann",
-        "plzort": "53168 Bonn",
+        "nachname": "Strecker",
+        "plzort": "53128 Bonn",
         "sternchen": 0,
-        "strasse": "Siegener Stra\u00dfe 38a",
+        "strasse": "Jahr\u00e4ckerweg 16",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 3
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 10
             }
         ],
-        "vorname": "Gunda",
+        "vorname": "Marie-Luise",
         "weiblich": true
     }
 }

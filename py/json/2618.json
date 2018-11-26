@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1340326,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2915037,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.07.1992",
-        "matrikelnummer": 2222387,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Martini",
-        "plzort": "53173 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "18.10.1999",
+        "matrikelnummer": 2331165,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Artmann",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Amselsteg 6",
+        "strasse": "Bierweg 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
+                "abschluss": "LA BA Gym Ge",
                 "fach": "Geographie",
-                "fsem": 7
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Hilar",
+        "vorname": "Bolko",
         "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1818082,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2092317,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "04.07.1996",
-        "matrikelnummer": 15605,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "01.05.1995",
+        "matrikelnummer": 2684890,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00fcbsch",
-        "plzort": "53111 Bonn",
+        "nachname": "Buck",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Jordanstra\u00dfe 23",
+        "strasse": "Drachengasse 23c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 12
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Ottobert",
+        "vorname": "Gunhard",
         "weiblich": false
     }
 }

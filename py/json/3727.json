@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2844591,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2424204,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "14.08.1989",
-        "matrikelnummer": 1991750,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "03.12.1993",
+        "matrikelnummer": 2254532,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "J\u00e4schke",
-        "plzort": "13189 Berlin",
+        "nachname": "Patzer",
+        "plzort": "54492 L\u00f6snich",
         "sternchen": 0,
-        "strasse": "Wilhelm-Raabe-Stra\u00dfe 11",
+        "strasse": "Adam-Riese-Platz 17",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 9
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Kunigunde",
-        "weiblich": true
+        "vorname": "Amadeus",
+        "weiblich": false
     }
 }

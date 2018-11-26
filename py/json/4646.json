@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1430537,
-    "semester": "Sommersemester 2017",
+    "nummer": 2165749,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.05.1997",
-        "matrikelnummer": 2225326,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 3,
+        "geburtsdatum": "09.05.1995",
+        "matrikelnummer": 3010172,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sieben",
-        "plzort": "53174 Bonn",
+        "nachname": "Popp",
+        "plzort": "56823 B\u00fcchel",
         "sternchen": 0,
-        "strasse": "Hettnerstra\u00dfe 0",
+        "strasse": "Hammersbacher Weg 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
                 "fsem": 1
             }
         ],
-        "vorname": "Sighart",
+        "vorname": "Marzellus",
         "weiblich": false
     }
 }

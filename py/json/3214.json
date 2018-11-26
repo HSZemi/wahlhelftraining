@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2287490,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2717649,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "10.07.1998",
-        "matrikelnummer": 3193730,
+        "fakultaet": 6,
+        "geburtsdatum": "07.02.1996",
+        "matrikelnummer": 2334857,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zeiler",
-        "plzort": "53170 Bonn",
+        "nachname": "Ring",
+        "plzort": "37339 Haynrode",
         "sternchen": 0,
-        "strasse": "Josephskirchstra\u00dfe 2",
+        "strasse": "Hermann-Mende-Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
+                "fach": "Mathematik",
+                "fsem": 8
             }
         ],
-        "vorname": "Edelhard",
-        "weiblich": false
+        "vorname": "Marli",
+        "weiblich": true
     }
 }

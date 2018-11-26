@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1211147,
+    "nummer": 2630807,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "19.01.1999",
-        "matrikelnummer": 2327764,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 6,
+        "geburtsdatum": "21.02.1993",
+        "matrikelnummer": 2415605,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ring",
-        "plzort": "53160 Bonn",
+        "nachname": "Wehrmann",
+        "plzort": "22337 Hamburg",
         "sternchen": 0,
-        "strasse": "Abtsberg 11",
+        "strasse": "Tzschimmerstra\u00dfe 35",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 6
             }
         ],
-        "vorname": "Roselies",
+        "vorname": "Birgitt",
         "weiblich": true
     }
 }

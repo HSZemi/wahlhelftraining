@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2885722,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1508213,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "10.08.1990",
-        "matrikelnummer": 2022543,
+        "fakultaet": 4,
+        "geburtsdatum": "27.06.1998",
+        "matrikelnummer": 2900783,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stumm",
-        "plzort": "09350 Lichtenstein/Sachsen",
+        "nachname": "Polzin",
+        "plzort": "98716 Elgersburg",
         "sternchen": 0,
-        "strasse": "Schleswiger Stra\u00dfe 26",
+        "strasse": "Ulrichstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Mary",
+        "vorname": "Valeri",
         "weiblich": true
     }
 }

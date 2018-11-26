@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2779842,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2428180,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "26.01.1992",
-        "matrikelnummer": 3049903,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Conrad",
-        "plzort": "53144 Bonn",
+        "fakultaet": 8,
+        "geburtsdatum": "04.03.1996",
+        "matrikelnummer": 2346736,
+        "mehrfachausfertigung": 5,
+        "mitglied_studierendenschaft": true,
+        "nachname": "H\u00f6pfner",
+        "plzort": "58802 Balve",
         "sternchen": 0,
-        "strasse": "Seerosenweg 1",
+        "strasse": "Z\u00f6llnerstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Philosophie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Natalja",
+        "vorname": "Irmintraud",
         "weiblich": true
     }
 }

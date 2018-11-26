@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2701862,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2565410,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "25.07.1994",
-        "matrikelnummer": 2730983,
+        "fakultaet": 8,
+        "geburtsdatum": "23.07.1996",
+        "matrikelnummer": 2022443,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Peschel",
-        "plzort": "53120 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zeller",
+        "plzort": "53215 Bonn",
         "sternchen": 0,
-        "strasse": "Kuriergang 8",
+        "strasse": "An der Pikardie 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Molekulare Biomedizin",
-                "fsem": 9
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Waltrud",
+        "vorname": "Valeri",
         "weiblich": true
     }
 }

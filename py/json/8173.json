@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2634986,
-    "semester": "Sommersemester 2017",
+    "nummer": 1177163,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.01.1994",
-        "matrikelnummer": 2298260,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "16.02.1989",
+        "matrikelnummer": 2874233,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zimmerer",
-        "plzort": "53214 Bonn",
+        "nachname": "Steinert",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Frutolfstr. 1",
+        "strasse": "Wilhelm-Weitling-Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Neurowissenschaften",
-                "fsem": 12
+                "fach": "Zahnmedizin",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Warnfried",
+        "vorname": "Rezzo",
         "weiblich": false
     }
 }

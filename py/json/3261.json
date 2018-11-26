@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1873169,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1689328,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.01.1988",
-        "matrikelnummer": 2992553,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kloos",
-        "plzort": "53150 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "16.02.1999",
+        "matrikelnummer": 2163745,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Kasten",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Pulverteich 25",
+        "strasse": "Kopernikusstra\u00dfe 35",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Philosophie",
-                "fsem": 3
+                "fach": "Geographie",
+                "fsem": 9
             },
             {
-                "abschluss": "",
-                "fach": "Geschichte",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
+                "fsem": 1
             }
         ],
-        "vorname": "Rosie",
-        "weiblich": true
+        "vorname": "Runald",
+        "weiblich": false
     }
 }

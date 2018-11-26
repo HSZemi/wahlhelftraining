@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1279154,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2609128,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "13.07.1991",
-        "matrikelnummer": 3181489,
+        "fakultaet": 5,
+        "geburtsdatum": "12.05.1998",
+        "matrikelnummer": 3073622,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Friesen",
-        "plzort": "53195 Bonn",
+        "nachname": "Wiemann",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "Kornblumenkamp 1",
+        "strasse": "K\u00fcgelgenweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 2
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Heideline",
+        "vorname": "Janina",
         "weiblich": true
     }
 }

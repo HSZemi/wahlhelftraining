@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2370165,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2842685,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.06.1989",
-        "matrikelnummer": 14258,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "20.01.1999",
+        "matrikelnummer": 17511,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hock",
-        "plzort": "38889 Altenbrak",
+        "nachname": "Tewes",
+        "plzort": "53222 Bonn",
         "sternchen": 0,
-        "strasse": "Willy-Lessing-Str. 2",
+        "strasse": "Conrad-Felixm\u00fcller-Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Physik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Josephina",
-        "weiblich": true
+        "vorname": "Malte",
+        "weiblich": false
     }
 }

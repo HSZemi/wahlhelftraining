@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2494332,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1752372,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "19.05.1989",
-        "matrikelnummer": 2317528,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "17.11.1999",
+        "matrikelnummer": 2411046,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Spiller",
-        "plzort": "53220 Bonn",
+        "nachname": "Knoch",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Pohlandplatz 20",
+        "strasse": "Baltasar-Neumann-Str. 6",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Anglistik/Amerikanische Sprache u. Literatur",
-                "fsem": 9
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Liesel",
+        "vorname": "Zofia",
         "weiblich": true
     }
 }

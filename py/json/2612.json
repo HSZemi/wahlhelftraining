@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1682106,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2476078,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "06.11.1999",
-        "matrikelnummer": 1955978,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "07.02.1994",
+        "matrikelnummer": 13171,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sp\u00e4th",
-        "plzort": "35415 Pohlheim",
+        "nachname": "Wernicke",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Porgesring 2",
+        "strasse": "Brockhausweg 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geschichte",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Sprachlernforschung",
+                "fsem": 5
             }
         ],
-        "vorname": "Hasso",
-        "weiblich": false
+        "vorname": "Meral",
+        "weiblich": true
     }
 }

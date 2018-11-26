@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2390470,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1605123,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "17.12.1993",
-        "matrikelnummer": 2870033,
-        "mehrfachausfertigung": 1,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "17.01.1994",
+        "matrikelnummer": 2329005,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bornemann",
-        "plzort": "53201 Bonn",
+        "nachname": "Bauer",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Pfotenhauerstra\u00dfe 4",
+        "strasse": "Paul-Heyse-Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Religionstheorie und interreligi\u00f6ser Dialog",
+                "fsem": 2
             }
         ],
-        "vorname": "Linda",
-        "weiblich": true
+        "vorname": "Oskar",
+        "weiblich": false
     }
 }

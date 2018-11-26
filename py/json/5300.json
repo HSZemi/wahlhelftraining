@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2965537,
+    "nummer": 2497043,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "27.07.1992",
-        "matrikelnummer": 2372883,
+        "fakultaet": 9,
+        "geburtsdatum": "12.11.1991",
+        "matrikelnummer": 2802718,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaczmarek",
-        "plzort": "53184 Bonn",
+        "nachname": "Birkner",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Hesselbergweg 7",
+        "strasse": "Am Hollerbusch 5",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Geschichte",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 4
             }
         ],
-        "vorname": "Edmar",
-        "weiblich": false
+        "vorname": "Waldfriede",
+        "weiblich": true
     }
 }

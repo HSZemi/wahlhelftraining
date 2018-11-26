@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1605474,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2098154,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "22.11.1991",
-        "matrikelnummer": 2985465,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "27.08.1993",
+        "matrikelnummer": 2822172,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Knopp",
-        "plzort": "53228 Bonn",
+        "nachname": "Pohle",
+        "plzort": "53134 Bonn",
         "sternchen": 0,
-        "strasse": "Emser Stra\u00dfe 9",
+        "strasse": "Oschatzer Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 12
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Justine",
-        "weiblich": true
+        "vorname": "Lienhard",
+        "weiblich": false
     }
 }

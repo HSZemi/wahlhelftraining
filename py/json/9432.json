@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2417036,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2320648,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.02.1994",
-        "matrikelnummer": 2442202,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "26.03.1997",
+        "matrikelnummer": 137619,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Anders",
-        "plzort": "29356 Br\u00f6ckel",
+        "nachname": "Huck",
+        "plzort": "64678 Lindenfels",
         "sternchen": 0,
-        "strasse": "Waltherstra\u00dfe 3",
+        "strasse": "Am Viverdamm 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Informatik",
-                "fsem": 7
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Hermann",
+        "vorname": "Kunibert",
         "weiblich": false
     }
 }

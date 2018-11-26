@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1664260,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2805335,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.01.1998",
-        "matrikelnummer": 11781,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "26.05.1990",
+        "matrikelnummer": 3159586,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kloth",
-        "plzort": "53206 Bonn",
+        "nachname": "Klaiber",
+        "plzort": "17252 Mirow",
         "sternchen": 0,
-        "strasse": "Melanchthonplatz 2",
+        "strasse": "Landgraf-Wilhelm-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 11
             }
         ],
-        "vorname": "Zilli",
+        "vorname": "Wolfhilde",
         "weiblich": true
     }
 }

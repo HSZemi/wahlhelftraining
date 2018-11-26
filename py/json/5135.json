@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2490576,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1225397,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "02.10.1992",
-        "matrikelnummer": 2407649,
+        "fakultaet": 3,
+        "geburtsdatum": "25.10.1997",
+        "matrikelnummer": 2488739,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Schneck",
-        "plzort": "53201 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Volk",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Diezer Stra\u00dfe 10e",
+        "strasse": "Egestra\u00dfe 9b",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Plant Sciences",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 10
             }
         ],
-        "vorname": "Wedig",
+        "vorname": "Bastian",
         "weiblich": false
     }
 }

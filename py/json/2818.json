@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1430497,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2530359,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "26.03.1999",
-        "matrikelnummer": 2514193,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "08.04.1988",
+        "matrikelnummer": 2869453,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hentschel",
-        "plzort": "53162 Bonn",
+        "nachname": "Grebe",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Gelnh\u00e4user Stra\u00dfe 1",
+        "strasse": "Ackermannstra\u00dfe 4d",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
                 "fsem": 2
             }
         ],
-        "vorname": "Egidius",
+        "vorname": "Dieterich",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1865084,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1110683,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 0,
-        "geburtsdatum": "18.10.1996",
-        "matrikelnummer": 145512,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "01.06.1991",
+        "matrikelnummer": 2261177,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfeiffer",
-        "plzort": "93195 Wolfsegg",
+        "nachname": "Hoff",
+        "plzort": "70184 Stuttgart",
         "sternchen": 0,
-        "strasse": "Poststra\u00dfe 15",
+        "strasse": "R\u00fcsselsheimer Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "\u00c4gyptologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Karlfriedrich",
+        "vorname": "Erno",
         "weiblich": false
     }
 }

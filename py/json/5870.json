@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1461802,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2914530,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "22.11.1992",
-        "matrikelnummer": 2631557,
+        "fakultaet": 4,
+        "geburtsdatum": "07.10.1993",
+        "matrikelnummer": 2829044,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Otten",
-        "plzort": "53199 Bonn",
+        "nachname": "Moosmann",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Karlstra\u00dfenbr\u00fccke 26",
+        "strasse": "Limescorso 18",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 12
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 4
             }
         ],
-        "vorname": "Nuran",
-        "weiblich": true
+        "vorname": "Adolf",
+        "weiblich": false
     }
 }

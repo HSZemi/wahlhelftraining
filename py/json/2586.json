@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2433697,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2279817,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.09.1993",
-        "matrikelnummer": 3199285,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "24.04.1995",
+        "matrikelnummer": 2641643,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Liebmann",
-        "plzort": "53202 Bonn",
+        "nachname": "Harder",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Lerchenfeld 1",
+        "strasse": "Seibertsgasse 27",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 11
             }
         ],
-        "vorname": "Gislinde",
-        "weiblich": true
+        "vorname": "Freddy",
+        "weiblich": false
     }
 }

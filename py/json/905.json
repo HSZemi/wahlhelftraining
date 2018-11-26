@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1787972,
+    "nummer": 1333319,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.10.1999",
-        "matrikelnummer": 12164,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "08.03.1989",
+        "matrikelnummer": 19331,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schupp",
-        "plzort": "53134 Bonn",
+        "nachname": "Hirschmann",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bachberg 6",
+        "strasse": "Sch\u00f6nfelder Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Vergleichende Religionswissenschaft",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Sprachliche Kommunikation",
-                "fsem": 1
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Berthold",
-        "weiblich": false
+        "vorname": "Birgit",
+        "weiblich": true
     }
 }

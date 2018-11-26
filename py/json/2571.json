@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2296632,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2429477,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "02.11.1988",
-        "matrikelnummer": 2635531,
+        "fakultaet": 1,
+        "geburtsdatum": "16.06.1994",
+        "matrikelnummer": 2920859,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hamm",
-        "plzort": "53218 Bonn",
+        "nachname": "Husmann",
+        "plzort": "68535 Edingen-Neckarhausen",
         "sternchen": 0,
-        "strasse": "Berbisdorfer Stra\u00dfe 12",
+        "strasse": "Franklinstra\u00dfe 1d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Gesche",
+        "vorname": "Else",
         "weiblich": true
     }
 }

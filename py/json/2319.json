@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1855510,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2870446,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "22.10.1997",
-        "matrikelnummer": 14020,
+        "fakultaet": 7,
+        "geburtsdatum": "03.08.1987",
+        "matrikelnummer": 2924357,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schnoor",
-        "plzort": "53186 Bonn",
+        "nachname": "George",
+        "plzort": "19205 Dragun",
         "sternchen": 0,
-        "strasse": "Sudelfeldstr. 15",
+        "strasse": "K\u00f6hlerstr. 12",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 3
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 7
             }
         ],
-        "vorname": "Lindemarie",
-        "weiblich": true
+        "vorname": "Lutz",
+        "weiblich": false
     }
 }

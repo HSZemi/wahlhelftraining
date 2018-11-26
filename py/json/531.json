@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2381576,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1241116,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.07.1996",
-        "matrikelnummer": 2690962,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "02.07.1990",
+        "matrikelnummer": 2229631,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kamp",
-        "plzort": "53130 Bonn",
+        "nachname": "Lauterbach",
+        "plzort": "58285 Gevelsberg",
         "sternchen": 0,
-        "strasse": "Ferdinand-Kramer-Stra\u00dfe 6",
+        "strasse": "Lotzebachstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Marilene",
-        "weiblich": true
+        "vorname": "Alphonsus",
+        "weiblich": false
     }
 }

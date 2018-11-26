@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2521723,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2655582,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.05.1993",
-        "matrikelnummer": 1945015,
+        "fakultaet": 9,
+        "geburtsdatum": "23.07.1991",
+        "matrikelnummer": 3128463,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kampe",
-        "plzort": "53182 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Riese",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "B\u00fcrgeler Stra\u00dfe 12c",
+        "strasse": "Spiegelweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 7
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 3
             }
         ],
-        "vorname": "Philip",
+        "vorname": "Inghard",
         "weiblich": false
     }
 }

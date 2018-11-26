@@ -4,33 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2786985,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1308246,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "26.08.1996",
-        "matrikelnummer": 2368143,
+        "fakultaet": 5,
+        "geburtsdatum": "01.12.1990",
+        "matrikelnummer": 2439754,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Knuth",
-        "plzort": "53154 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Eibl",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Holzfeldweg 19",
+        "strasse": "Maria-Reiche-Stra\u00dfe 18",
         "studienfaecher": [
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Asienwissenschaften",
+                "fsem": 12
+            },
             {
                 "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
                 "fsem": 4
             }
         ],
-        "vorname": "Filippina",
-        "weiblich": true
+        "vorname": "Gottwalt",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1149611,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2342659,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "07.01.1993",
-        "matrikelnummer": 2938689,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "19.03.1989",
+        "matrikelnummer": 18846,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00fcnster",
-        "plzort": "53229 Bonn",
+        "nachname": "Arendt",
+        "plzort": "53125 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Pruss-Stra\u00dfe 0",
+        "strasse": "S\u00fcdwesthang 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 12
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Gislind",
-        "weiblich": true
+        "vorname": "Bardo",
+        "weiblich": false
     }
 }

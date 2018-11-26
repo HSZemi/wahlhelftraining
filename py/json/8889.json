@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2553159,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1571725,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "18.07.1992",
-        "matrikelnummer": 2797199,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "26.06.1991",
+        "matrikelnummer": 3122715,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Goldmann",
-        "plzort": "47623 Kevelaer",
+        "nachname": "Franke",
+        "plzort": "97261 G\u00fcntersleben",
         "sternchen": 0,
-        "strasse": "Pulverteich 15",
+        "strasse": "Billtalstra\u00dfe 30",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Tierwissenschaften",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 12
             }
         ],
-        "vorname": "Eva-Marie",
+        "vorname": "Marieliese",
         "weiblich": true
     }
 }

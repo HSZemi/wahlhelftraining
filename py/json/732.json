@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2859025,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1567342,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "23.11.1991",
-        "matrikelnummer": 134120,
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "09.01.1990",
+        "matrikelnummer": 2199488,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kr\u00f6ber",
-        "plzort": "53157 Bonn",
+        "nachname": "G\u00e4bler",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Elisabeth-Schwarzhaupt-Anlage 6",
+        "strasse": "Magdalenenstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Hilfried",
+        "vorname": "Alhard",
         "weiblich": false
     }
 }

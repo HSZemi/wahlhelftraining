@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1552866,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1587766,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "27.06.1994",
-        "matrikelnummer": 2635471,
+        "geburtsdatum": "04.04.1997",
+        "matrikelnummer": 2110614,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Appelt",
-        "plzort": "53144 Bonn",
+        "nachname": "Kerscher",
+        "plzort": "79599 Wittlingen",
         "sternchen": 0,
-        "strasse": "An der Prie\u00dfnitzaue 16",
+        "strasse": "Behaimweg 25",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Chemie",
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
                 "fsem": 9
             }
         ],
-        "vorname": "Edelhard",
-        "weiblich": false
+        "vorname": "Berta",
+        "weiblich": true
     }
 }

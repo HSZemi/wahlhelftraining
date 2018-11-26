@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2283189,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1464231,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "27.08.1992",
-        "matrikelnummer": 2322300,
+        "fakultaet": 6,
+        "geburtsdatum": "26.05.1992",
+        "matrikelnummer": 2274598,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "G\u00e4rtner",
-        "plzort": "53204 Bonn",
+        "nachname": "Gerdes",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Am Gr\u00fcnen Zipfel 3",
+        "strasse": "Freyunger Str. 8",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "fach": "Computational Life Sciences",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 8
             }
         ],
-        "vorname": "Wastl",
-        "weiblich": false
+        "vorname": "Fine",
+        "weiblich": true
     }
 }

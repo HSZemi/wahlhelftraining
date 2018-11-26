@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": true
     },
-    "nummer": 1770449,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2092122,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "05.12.1983",
-        "matrikelnummer": 2213931,
+        "fakultaet": 8,
+        "geburtsdatum": "13.04.1993",
+        "matrikelnummer": 2449109,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seiler",
-        "plzort": "53124 Bonn",
+        "nachname": "Heisig",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Finthener Weg 7",
+        "strasse": "Borstelmannsweg 10",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Irmela",
-        "weiblich": true
+        "vorname": "Rupertus",
+        "weiblich": false
     }
 }

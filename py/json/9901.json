@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2554177,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2270986,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.06.1993",
-        "matrikelnummer": 2057696,
+        "fakultaet": 2,
+        "geburtsdatum": "20.04.1993",
+        "matrikelnummer": 188102,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gr\u00e4f",
-        "plzort": "53135 Bonn",
+        "nachname": "Sperber",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Guts-Muths-Stra\u00dfe 65e",
+        "strasse": "L\u00fcneburger Schanze 18",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
             }
         ],
-        "vorname": "Gundmar",
+        "vorname": "Volkhardt",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1032269,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2345685,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 3,
-        "geburtsdatum": "19.07.1992",
-        "matrikelnummer": 2117100,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "19.03.1998",
+        "matrikelnummer": 2733381,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hammes",
-        "plzort": "53228 Bonn",
+        "nachname": "Goll",
+        "plzort": "53118 Bonn",
         "sternchen": 0,
-        "strasse": "Ammelburgstra\u00dfe 3",
+        "strasse": "Bernhard-Grzimek-Allee 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Janette",
-        "weiblich": true
+        "vorname": "Hieronimus",
+        "weiblich": false
     }
 }

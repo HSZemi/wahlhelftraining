@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2456882,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1651872,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "12.04.1993",
-        "matrikelnummer": 2147752,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "15.06.1995",
+        "matrikelnummer": 2076015,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jasper",
-        "plzort": "53124 Bonn",
+        "nachname": "Krone",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Schiffbeker H\u00f6he 5",
+        "strasse": "Stadtwassergasse 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 12
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 6
             }
         ],
-        "vorname": "Gesine",
-        "weiblich": true
+        "vorname": "Rimbert",
+        "weiblich": false
     }
 }

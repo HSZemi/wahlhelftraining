@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2297726,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2234061,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.04.1993",
-        "matrikelnummer": 1995150,
+        "fakultaet": 5,
+        "geburtsdatum": "10.06.1996",
+        "matrikelnummer": 2356598,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "St\u00f6rmer",
-        "plzort": "53206 Bonn",
+        "nachname": "Kohl",
+        "plzort": "16307 Radekow",
         "sternchen": 0,
-        "strasse": "Querstra\u00dfe 1c",
+        "strasse": "Riedstieg 11",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Lebensmittelchemie",
                 "fsem": 4
             }
         ],
-        "vorname": "Samuel",
-        "weiblich": false
+        "vorname": "Marie",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2447412,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2050188,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "18.09.1999",
-        "matrikelnummer": 2368132,
+        "fakultaet": 0,
+        "geburtsdatum": "20.07.1997",
+        "matrikelnummer": 2071257,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Birk",
-        "plzort": "19249 G\u00f6\u00dflow",
+        "nachname": "Schiebel",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Am Selzerbrunnen 9",
+        "strasse": "Kaufunger Stra\u00dfe 24",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Annetraude",
+        "vorname": "Friedeborg",
         "weiblich": true
     }
 }

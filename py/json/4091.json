@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2152493,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2562033,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "26.12.1984",
-        "matrikelnummer": 3071124,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "03.10.1998",
+        "matrikelnummer": 2687983,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sacher",
-        "plzort": "53200 Bonn",
+        "nachname": "Peschel",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Felix Niering-Stra\u00dfe 6",
+        "strasse": "Mor\u00e4nenende 1",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 11
+            },
+            {
                 "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 1
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Rudolfina",
+        "vorname": "Liesbeth",
         "weiblich": true
     }
 }

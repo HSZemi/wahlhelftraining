@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2082293,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2777203,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "02.03.1995",
-        "matrikelnummer": 2461078,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "02.11.1997",
+        "matrikelnummer": 1909911,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klaus",
-        "plzort": "53133 Bonn",
+        "nachname": "Leinweber",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Neudecker Stra\u00dfe 0",
+        "strasse": "Karolinenstr. 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 12
             }
         ],
-        "vorname": "Irmela",
-        "weiblich": true
+        "vorname": "Oswald",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2671301,
+    "nummer": 2442420,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "06.06.1999",
-        "matrikelnummer": 2727090,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "12.09.1999",
+        "matrikelnummer": 2915777,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "F\u00fchrer",
-        "plzort": "53212 Bonn",
+        "nachname": "Stegmaier",
+        "plzort": "06388 Maasdorf",
         "sternchen": 0,
-        "strasse": "Kappusstra\u00dfe 6",
+        "strasse": "Siboldgasse 26",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 5
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
             }
         ],
-        "vorname": "Raphaela",
+        "vorname": "Irene",
         "weiblich": true
     }
 }

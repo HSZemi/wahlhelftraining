@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1238385,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2295985,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.01.1998",
-        "matrikelnummer": 2871111,
+        "fakultaet": 4,
+        "geburtsdatum": "22.04.1996",
+        "matrikelnummer": 2827812,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fu\u00df",
-        "plzort": "53189 Bonn",
+        "nachname": "Gr\u00fcnewald",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Obere Gasse 6",
+        "strasse": "Rockauer Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Hilarius",
+        "vorname": "Constantin",
         "weiblich": false
     }
 }

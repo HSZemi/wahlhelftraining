@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1829131,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1413194,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "18.12.1993",
-        "matrikelnummer": 184666,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Friese",
-        "plzort": "07557 Crimla",
+        "fakultaet": 2,
+        "geburtsdatum": "04.02.1996",
+        "matrikelnummer": 1948742,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Schaarschmidt",
+        "plzort": "39524 Wust",
         "sternchen": 0,
-        "strasse": "Gostritzer Weg 9",
+        "strasse": "Gummersbergstra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Golo",
+        "vorname": "Maximilian",
         "weiblich": false
     }
 }

@@ -142,7 +142,7 @@ faecher = {}
 twobools = {'a':{'sp':False,'gremien':False},'b':{'sp':True,'gremien':True},'c':{'sp':True,'gremien':False},'d':{'sp':False,'gremien':True}}
 ma_map = {1:"", 2:"Zweitschrift", 3:"Drittschrift", 4:"Viertschrift", 5:"Fünftschrift"}
 
-semesters = {"Wintersemester 2017/2018":90,"Sommersemester 2017":5,"Wintersemester 2016/2017":5}
+semesters = {"Wintersemester 2018/2019":90,"Sommersemester 2018":5,"Wintersemester 2017/2018":5}
 #fakultaeten = {0:119,1:321,2:1014,3:4352,4:3053,5:9574,6:11052,7:3665,8:1593,9:1440}
 fakultaeten = {0:1,1:1,2:1,3:1,4:2,5:2,6:2,7:1,8:1,9:1}
 loecher = {'a':90,'b':8,'c':1,'d':1}

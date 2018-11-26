@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2712246,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2717119,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.06.1995",
-        "matrikelnummer": 192548,
+        "fakultaet": 1,
+        "geburtsdatum": "27.02.1995",
+        "matrikelnummer": 1950398,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zettl",
-        "plzort": "53143 Bonn",
+        "nachname": "Grafe",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Glitzaweg 1",
+        "strasse": "Klengelstra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Mathematik",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Geographie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Dankmar",
+        "vorname": "Oswin",
         "weiblich": false
     }
 }

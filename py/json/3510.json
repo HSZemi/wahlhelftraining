@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1908347,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2380263,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "11.05.1992",
-        "matrikelnummer": 14136,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "07.02.1995",
+        "matrikelnummer": 2079215,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Marschall",
-        "plzort": "53126 Bonn",
+        "nachname": "Koch",
+        "plzort": "76848 Spirkelbach",
         "sternchen": 0,
-        "strasse": "Gottfried Kumpfgasse 1",
+        "strasse": "D\u00fclferstra\u00dfe 26c",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 11
             }
         ],
-        "vorname": "Wendelin",
+        "vorname": "Rouven",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1212398,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1142367,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "23.04.1990",
-        "matrikelnummer": 15049,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "01.11.1996",
+        "matrikelnummer": 3051243,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "D\u00f6ring",
-        "plzort": "53178 Bonn",
+        "nachname": "\u00d6zt\u00fcrk",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Elli-Lucht-Park 3",
+        "strasse": "Villasteig 5",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
             }
         ],
-        "vorname": "Franzpeter",
-        "weiblich": false
+        "vorname": "Lilly",
+        "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1402741,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2708361,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "16.07.1999",
-        "matrikelnummer": 2945027,
-        "mehrfachausfertigung": 5,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Stange",
-        "plzort": "06317 Amsdorf",
+        "fakultaet": 5,
+        "geburtsdatum": "14.11.1992",
+        "matrikelnummer": 2651208,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Jungbluth",
+        "plzort": "53227 Bonn",
         "sternchen": 0,
-        "strasse": "Nickerner Stra\u00dfe 19",
+        "strasse": "Erhard-Dressel-Bogen 14b",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Frohmut",
+        "vorname": "Annalena",
         "weiblich": true
     }
 }

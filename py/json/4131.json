@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": true,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2322247,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1911488,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "20.01.1997",
-        "matrikelnummer": 2819717,
+        "fakultaet": 2,
+        "geburtsdatum": "16.12.1990",
+        "matrikelnummer": 3037425,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seger",
-        "plzort": "53127 Bonn",
+        "nachname": "Seifert",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Altr\u00e4cknitz 14",
+        "strasse": "Blochmatt 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 6
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Ascan",
+        "vorname": "Herward",
         "weiblich": false
     }
 }

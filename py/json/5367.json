@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1504038,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2163577,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "02.02.1988",
-        "matrikelnummer": 2627398,
+        "beurlaubt": false,
+        "fakultaet": 9,
+        "geburtsdatum": "10.03.1991",
+        "matrikelnummer": 2666549,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wilms",
-        "plzort": "55234 Kettenheim",
+        "nachname": "Eichler",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Grillparzerbr\u00fccke 0",
+        "strasse": "S\u00f6mmerringstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 9
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             }
         ],
-        "vorname": "Steph",
-        "weiblich": false
+        "vorname": "Sabrina",
+        "weiblich": true
     }
 }

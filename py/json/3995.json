@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1874673,
-    "semester": "Sommersemester 2017",
+    "nummer": 1010577,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "05.03.1993",
-        "matrikelnummer": 2192509,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "07.06.1993",
+        "matrikelnummer": 2894938,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Landwehr",
-        "plzort": "53113 Bonn",
+        "nachname": "Essig",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Zur Bockm\u00fchle 3",
+        "strasse": "Vierh\u00e4usergasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
             }
         ],
-        "vorname": "Adeltraut",
-        "weiblich": true
+        "vorname": "Rico",
+        "weiblich": false
     }
 }

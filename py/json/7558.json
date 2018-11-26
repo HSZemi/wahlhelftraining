@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2251865,
-    "semester": "Sommersemester 2017",
+    "nummer": 1264089,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.04.1997",
-        "matrikelnummer": 2728961,
+        "fakultaet": 9,
+        "geburtsdatum": "08.09.1994",
+        "matrikelnummer": 129079,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Mathes",
-        "plzort": "53208 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "B\u00e4chle",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "\u00dcberseering 10",
+        "strasse": "Wiesenstieg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 2
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 13
             }
         ],
-        "vorname": "Ingerose",
+        "vorname": "Margreth",
         "weiblich": true
     }
 }

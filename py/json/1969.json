@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2213748,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1480633,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "08.02.1994",
-        "matrikelnummer": 3184595,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Gr\u00e4tz",
-        "plzort": "53126 Bonn",
+        "fakultaet": 2,
+        "geburtsdatum": "21.10.1990",
+        "matrikelnummer": 2513078,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Salomon",
+        "plzort": "53181 Bonn",
         "sternchen": 0,
-        "strasse": "Carlo-Schmid-Platz 13",
+        "strasse": "Forsythienstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Marika",
-        "weiblich": true
+        "vorname": "Neidhardt",
+        "weiblich": false
     }
 }

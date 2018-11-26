@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2638759,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1232076,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.01.1987",
-        "matrikelnummer": 3020523,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 1,
+        "geburtsdatum": "04.12.1988",
+        "matrikelnummer": 2395252,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hutter",
-        "plzort": "53125 Bonn",
+        "nachname": "Amann",
+        "plzort": "53217 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00f6rikestra\u00dfe 12",
+        "strasse": "Grundstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             },
             {
                 "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 9
+                "fach": "Entwicklungsforschung",
+                "fsem": 6
             }
         ],
-        "vorname": "Wolfried",
-        "weiblich": false
+        "vorname": "Valentine",
+        "weiblich": true
     }
 }

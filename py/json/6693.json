@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1901465,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2914503,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "12.08.1988",
-        "matrikelnummer": 3019323,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "10.10.1998",
+        "matrikelnummer": 2002960,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Maa\u00dfen",
-        "plzort": "53152 Bonn",
+        "nachname": "Steffens",
+        "plzort": "53186 Bonn",
         "sternchen": 0,
-        "strasse": "Austr. 8",
+        "strasse": "Fohlengartenstr. 1",
         "studienfaecher": [
             {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 10
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 7
+                "fach": "Psychologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Anne-Marie",
-        "weiblich": true
+        "vorname": "Ingbert",
+        "weiblich": false
     }
 }

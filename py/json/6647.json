@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2101308,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1560798,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "08.12.1986",
-        "matrikelnummer": 19435,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "23.08.1999",
+        "matrikelnummer": 2958574,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schirmer",
-        "plzort": "53113 Bonn",
+        "nachname": "Roder",
+        "plzort": "82390 Eberfing",
         "sternchen": 0,
-        "strasse": "Arolser Stra\u00dfe 6",
+        "strasse": "Friedensallee 15",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Dieterich",
-        "weiblich": false
+        "vorname": "Heliane",
+        "weiblich": true
     }
 }

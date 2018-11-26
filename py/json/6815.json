@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2568284,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2791176,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.11.1999",
-        "matrikelnummer": 2967370,
+        "fakultaet": 4,
+        "geburtsdatum": "15.04.1988",
+        "matrikelnummer": 2066796,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Biedermann",
-        "plzort": "53155 Bonn",
+        "nachname": "Zahn",
+        "plzort": "53179 Bonn",
         "sternchen": 0,
-        "strasse": "Schopenhauerstra\u00dfe 7",
+        "strasse": "Pfortengartenweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
+                "fsem": 11
             }
         ],
-        "vorname": "Helfried",
-        "weiblich": false
+        "vorname": "Caren",
+        "weiblich": true
     }
 }

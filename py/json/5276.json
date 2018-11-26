@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2833657,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1021729,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "04.12.1995",
-        "matrikelnummer": 2187135,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "09.04.1992",
+        "matrikelnummer": 2333257,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00e4ser",
-        "plzort": "53141 Bonn",
+        "nachname": "Senger",
+        "plzort": "53169 Bonn",
         "sternchen": 0,
-        "strasse": "Ringelnatzg\u00e4sschen 22",
+        "strasse": "Kapersburgstra\u00dfe 20",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "fach": "Geophysik",
+                "fsem": 2
             }
         ],
-        "vorname": "Hiltrud",
+        "vorname": "Milena",
         "weiblich": true
     }
 }

@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1291059,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1581304,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "25.07.1991",
-        "matrikelnummer": 11808,
+        "geburtsdatum": "10.09.1994",
+        "matrikelnummer": 3177163,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dieterich",
-        "plzort": "53196 Bonn",
+        "nachname": "Wedekind",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Schlesierweg 2",
+        "strasse": "Dresdner Stra\u00dfe 21",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 12
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Komparatistik",
+                "fsem": 10
             }
         ],
-        "vorname": "Michaele",
+        "vorname": "Hilde",
         "weiblich": true
     }
 }

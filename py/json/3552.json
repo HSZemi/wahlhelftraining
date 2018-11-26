@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1334807,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2628713,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "13.03.1998",
-        "matrikelnummer": 2758205,
+        "fakultaet": 2,
+        "geburtsdatum": "12.01.1995",
+        "matrikelnummer": 3196285,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kost",
-        "plzort": "53177 Bonn",
+        "nachname": "Reiter",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Finsterwalder Stra\u00dfe 8",
+        "strasse": "Fritz-Erler-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Latein",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             },
             {
-                "abschluss": "",
-                "fach": "Physik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 11
             }
         ],
-        "vorname": "Trautlind",
+        "vorname": "Antja",
         "weiblich": true
     }
 }

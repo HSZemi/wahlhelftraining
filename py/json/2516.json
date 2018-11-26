@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1647438,
+    "nummer": 1144961,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.10.1994",
-        "matrikelnummer": 11642,
+        "fakultaet": 5,
+        "geburtsdatum": "07.11.1995",
+        "matrikelnummer": 2404566,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krauss",
-        "plzort": "53201 Bonn",
+        "nachname": "H\u00f6fling",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Elisabeth-Selbert-Stra\u00dfe 15",
+        "strasse": "Leithabergstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
+                "abschluss": "Master of Arts",
+                "fach": "Renaissance-Studien",
                 "fsem": 5
             }
         ],
-        "vorname": "Volkward",
+        "vorname": "Heribert",
         "weiblich": false
     }
 }

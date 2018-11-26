@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2424471,
+    "nummer": 1995962,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "26.12.1985",
-        "matrikelnummer": 2215161,
+        "fakultaet": 4,
+        "geburtsdatum": "07.05.1993",
+        "matrikelnummer": 2185947,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scherer",
-        "plzort": "10779 Berlin",
+        "nachname": "Kullmann",
+        "plzort": "18258 Schwaan",
         "sternchen": 0,
-        "strasse": "Koppelstieg 0",
+        "strasse": "Georg-Meisenbach-Str. 27",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Germanistik",
-                "fsem": 3
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 12
             }
         ],
-        "vorname": "Gerthold",
-        "weiblich": false
+        "vorname": "Karla",
+        "weiblich": true
     }
 }

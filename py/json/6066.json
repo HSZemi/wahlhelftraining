@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2942266,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2076241,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "03.05.1991",
-        "matrikelnummer": 2731395,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Loch",
-        "plzort": "18276 Glasewitz",
+        "fakultaet": 1,
+        "geburtsdatum": "01.11.1988",
+        "matrikelnummer": 19051,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Sauermann",
+        "plzort": "53214 Bonn",
         "sternchen": 0,
-        "strasse": "An der Wostra 4",
+        "strasse": "Eichstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "S\u00fcdostasienwissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Keltologie",
-                "fsem": 4
+                "fach": "Katholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Ljubica",
+        "vorname": "Gundi",
         "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1680759,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1465710,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "20.06.1998",
-        "matrikelnummer": 1938431,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "18.01.1989",
+        "matrikelnummer": 2972005,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jung",
-        "plzort": "53173 Bonn",
+        "nachname": "Drees",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "Wolfsbachweg 4c",
+        "strasse": "Sonnenhalde 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Komparatistik",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 6
             }
         ],
-        "vorname": "Ria",
+        "vorname": "Rilana",
         "weiblich": true
     }
 }

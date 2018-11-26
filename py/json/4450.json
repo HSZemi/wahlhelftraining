@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1413475,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1547863,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "14.04.1996",
-        "matrikelnummer": 2335505,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "24.12.1994",
+        "matrikelnummer": 16545,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Habel",
-        "plzort": "64850 Schaafheim",
+        "nachname": "Drews",
+        "plzort": "56357 Welterod",
         "sternchen": 0,
-        "strasse": "Querstra\u00dfe 10",
+        "strasse": "Silberstra\u00dfe 32",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Theodeline",
+        "vorname": "Patricia",
         "weiblich": true
     }
 }

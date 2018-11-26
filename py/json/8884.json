@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1289800,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2628623,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "10.05.1996",
-        "matrikelnummer": 14638,
+        "fakultaet": 5,
+        "geburtsdatum": "28.09.1988",
+        "matrikelnummer": 116928,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reschke",
-        "plzort": "53195 Bonn",
+        "nachname": "Steigerwald",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Vo\u00dfweg 10e",
+        "strasse": "L\u00f6bauer Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Psychologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Skandinavistik",
+                "fsem": 4
             }
         ],
-        "vorname": "Rochus",
-        "weiblich": false
+        "vorname": "Kreszentia",
+        "weiblich": true
     }
 }

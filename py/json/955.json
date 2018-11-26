@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1150189,
-    "semester": "Sommersemester 2017",
+    "nummer": 1303359,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "21.07.1996",
-        "matrikelnummer": 2768270,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "14.04.1992",
+        "matrikelnummer": 164912,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hinz",
-        "plzort": "53145 Bonn",
+        "nachname": "Schaar",
+        "plzort": "53206 Bonn",
         "sternchen": 0,
-        "strasse": "Johann Wei\u00dfpriach-Stra\u00dfe 0e",
+        "strasse": "Meinhardtstr. 14",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 4
             }
         ],
-        "vorname": "Baldur",
-        "weiblich": false
+        "vorname": "Roselene",
+        "weiblich": true
     }
 }

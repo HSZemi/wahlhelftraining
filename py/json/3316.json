@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1776200,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1683849,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "09.12.1995",
-        "matrikelnummer": 1966805,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "07.05.1993",
+        "matrikelnummer": 2168030,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schrader",
-        "plzort": "53195 Bonn",
+        "nachname": "Lesch",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Naumann-Stra\u00dfe 0a",
+        "strasse": "Michael Mayr-Gasse 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Ecumenical Studies",
-                "fsem": 11
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geschichte",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Margaritta",
+        "vorname": "Rosegret",
         "weiblich": true
     }
 }

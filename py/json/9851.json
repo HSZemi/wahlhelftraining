@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2808650,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2342936,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "14.09.1988",
-        "matrikelnummer": 3083846,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "06.09.1989",
+        "matrikelnummer": 2856129,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Nehls",
-        "plzort": "57555 Mudersbach",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Flohr",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00e4fergasse 0",
+        "strasse": "Reineckstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Helmuth",
-        "weiblich": false
+        "vorname": "Justine",
+        "weiblich": true
     }
 }

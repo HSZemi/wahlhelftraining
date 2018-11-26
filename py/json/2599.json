@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2952012,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2037607,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "21.03.1993",
-        "matrikelnummer": 2609993,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "26.07.1990",
+        "matrikelnummer": 3005722,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Berens",
-        "plzort": "55606 Kellenbach",
+        "nachname": "Stiller",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Eichelberg 14c",
+        "strasse": "Roter Grabenweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 9
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Rosl",
-        "weiblich": true
+        "vorname": "Anton",
+        "weiblich": false
     }
 }

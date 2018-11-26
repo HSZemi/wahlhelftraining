@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2621238,
-    "semester": "Sommersemester 2017",
+    "nummer": 1888314,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.09.1985",
-        "matrikelnummer": 2706824,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Debus",
-        "plzort": "53111 Bonn",
+        "fakultaet": 9,
+        "geburtsdatum": "13.11.1994",
+        "matrikelnummer": 2865505,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Eder",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Mittlere Sterngasse 5",
+        "strasse": "Loschwitzer Stra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 2
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             }
         ],
-        "vorname": "Michael",
+        "vorname": "Bernd",
         "weiblich": false
     }
 }

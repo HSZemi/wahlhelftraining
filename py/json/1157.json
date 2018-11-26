@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2621909,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2483228,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.04.1991",
-        "matrikelnummer": 14930,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "12.02.1985",
+        "matrikelnummer": 2958566,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Oltmanns",
-        "plzort": "53184 Bonn",
+        "nachname": "Sprenger",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Deutschherrnufer 7",
+        "strasse": "Konrad-Duden-Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 1
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Michelle",
+        "vorname": "Gerritdina",
         "weiblich": true
     }
 }

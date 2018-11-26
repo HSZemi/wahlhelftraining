@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1442821,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1513446,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.11.1997",
-        "matrikelnummer": 157756,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "09.10.1998",
+        "matrikelnummer": 2624518,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schimmel",
-        "plzort": "53159 Bonn",
+        "nachname": "Clau\u00dfen",
+        "plzort": "07751 Gro\u00dfl\u00f6bichau",
         "sternchen": 0,
-        "strasse": "Am Tiergarten 26",
+        "strasse": "Cuxhavener Stra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Germanistik",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Physik",
+                "fsem": 13
             }
         ],
-        "vorname": "Heimar",
-        "weiblich": false
+        "vorname": "Annelore",
+        "weiblich": true
     }
 }

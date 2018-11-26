@@ -1,31 +1,46 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2186121,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2507031,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "11.06.1999",
-        "matrikelnummer": 2494713,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "07.05.1999",
+        "matrikelnummer": 2586558,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Grieger",
-        "plzort": "53221 Bonn",
+        "nachname": "Schaefer",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bachberg 6",
+        "strasse": "Hertha-Feiner-Asmus-Stieg 20",
         "studienfaecher": [
             {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Physik",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Neurowissenschaften",
-                "fsem": 3
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 2
             }
         ],
-        "vorname": "Reino",
+        "vorname": "Hansjoachim",
         "weiblich": false
     }
 }

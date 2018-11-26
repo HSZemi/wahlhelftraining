@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1867975,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1818370,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "18.08.1998",
-        "matrikelnummer": 2902231,
+        "fakultaet": 4,
+        "geburtsdatum": "17.06.1997",
+        "matrikelnummer": 2502784,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bartmann",
-        "plzort": "53122 Bonn",
+        "nachname": "Weinert",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Mockst\u00e4dter Stra\u00dfe 7",
+        "strasse": "Kramergasse 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Naturschutz und Landschafts\u00f6kologie",
-                "fsem": 2
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
             }
         ],
-        "vorname": "Winnimar",
+        "vorname": "Karsten",
         "weiblich": false
     }
 }

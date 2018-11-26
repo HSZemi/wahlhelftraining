@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2401092,
-    "semester": "Sommersemester 2017",
+    "nummer": 1176023,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "08.12.1990",
-        "matrikelnummer": 2151593,
+        "fakultaet": 4,
+        "geburtsdatum": "06.04.1989",
+        "matrikelnummer": 186027,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Fleischer",
-        "plzort": "35614 A\u00dflar",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hegemann",
+        "plzort": "03205 Bischdorf",
         "sternchen": 0,
-        "strasse": "Tzschimmerstra\u00dfe 29",
+        "strasse": "Jenaer Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 3
             }
         ],
-        "vorname": "Carolina",
-        "weiblich": true
+        "vorname": "Rimbert",
+        "weiblich": false
     }
 }

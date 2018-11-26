@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1650543,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2053441,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "27.01.1996",
-        "matrikelnummer": 13933,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "04.03.1990",
+        "matrikelnummer": 2002957,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pecher",
-        "plzort": "53188 Bonn",
+        "nachname": "Kalb",
+        "plzort": "06786 Vockerode",
         "sternchen": 0,
-        "strasse": "Cosch\u00fctzer Stra\u00dfe 8",
+        "strasse": "Coburger Weg 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
             },
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Julius",
-        "weiblich": false
+        "vorname": "Sinaida",
+        "weiblich": true
     }
 }

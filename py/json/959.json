@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2954731,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2926645,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "18.09.1999",
-        "matrikelnummer": 2363743,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 1,
+        "geburtsdatum": "27.03.1993",
+        "matrikelnummer": 2925812,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nickl",
-        "plzort": "53166 Bonn",
+        "nachname": "Philipps",
+        "plzort": "53184 Bonn",
         "sternchen": 0,
-        "strasse": "Butenkamp 5",
+        "strasse": "Kleinborthener Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Lorenz",
-        "weiblich": false
+        "vorname": "Giseltraud",
+        "weiblich": true
     }
 }

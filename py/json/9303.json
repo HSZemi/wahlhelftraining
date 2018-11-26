@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2421540,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2479322,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "25.02.1991",
-        "matrikelnummer": 2771783,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "01.01.1994",
+        "matrikelnummer": 2861888,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Hilmer",
-        "plzort": "53200 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Zoller",
+        "plzort": "56648 Saffig",
         "sternchen": 0,
-        "strasse": "Lahmeyerstra\u00dfe 21b",
+        "strasse": "Hirtenweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Nikolas",
-        "weiblich": false
+        "vorname": "Birgitt",
+        "weiblich": true
     }
 }

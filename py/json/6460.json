@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2673255,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1290499,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "11.04.1999",
-        "matrikelnummer": 2473276,
+        "geburtsdatum": "20.03.1987",
+        "matrikelnummer": 2374958,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Winter",
-        "plzort": "53198 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Clasen",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Dr.-Recke-Weg 7",
+        "strasse": "August-Wagner-Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 6
             }
         ],
-        "vorname": "Ferdinande",
-        "weiblich": true
+        "vorname": "Ferdinand",
+        "weiblich": false
     }
 }

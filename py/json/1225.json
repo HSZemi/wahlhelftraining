@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1313950,
-    "semester": "Sommersemester 2017",
+    "nummer": 2974265,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.12.1996",
-        "matrikelnummer": 1915804,
+        "fakultaet": 2,
+        "geburtsdatum": "06.07.1994",
+        "matrikelnummer": 2492851,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "J\u00e4kel",
-        "plzort": "53137 Bonn",
+        "nachname": "Weiser",
+        "plzort": "53160 Bonn",
         "sternchen": 0,
-        "strasse": "Mor\u00e4nenende 4a",
+        "strasse": "Eschdorfer Bergstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Wilfrid",
+        "vorname": "Heribert",
         "weiblich": false
     }
 }

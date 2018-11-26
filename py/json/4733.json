@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2469545,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2582109,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.03.1993",
-        "matrikelnummer": 2729405,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "11.11.1990",
+        "matrikelnummer": 3004504,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jungmann",
-        "plzort": "53124 Bonn",
+        "nachname": "Schultz",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Rudolf-Presber-Stra\u00dfe 15",
+        "strasse": "Poelchaukampbr\u00fccke 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 6
-            },
-            {
                 "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 3
+                "fach": "Rechtspsychologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Zeynep",
+        "vorname": "Siegbritta",
         "weiblich": true
     }
 }

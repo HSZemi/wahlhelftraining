@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1286070,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2199293,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "06.01.1999",
-        "matrikelnummer": 14853,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 3,
+        "geburtsdatum": "26.11.1999",
+        "matrikelnummer": 1983614,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hoppe",
-        "plzort": "53146 Bonn",
+        "nachname": "S\u00e4nger",
+        "plzort": "25746 Wesseln",
         "sternchen": 0,
-        "strasse": "Emil-Ueberall-Stra\u00dfe 3",
+        "strasse": "Oskar-Pletsch-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Agrarwissenschaften",
-                "fsem": 12
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Chemistry",
+                "fsem": 1
             }
         ],
-        "vorname": "Bringfriede",
-        "weiblich": true
+        "vorname": "Christophorus",
+        "weiblich": false
     }
 }

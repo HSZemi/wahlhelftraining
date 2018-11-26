@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1035520,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1764902,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "23.02.1989",
-        "matrikelnummer": 2572719,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "20.01.1993",
+        "matrikelnummer": 124703,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bethge",
-        "plzort": "53162 Bonn",
+        "nachname": "Stefan",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Wellengasse 6",
+        "strasse": "Fidelio-F.-Finke-Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Arts",
-                "fach": "Romanistik",
-                "fsem": 5
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Siegmund",
-        "weiblich": false
+        "vorname": "Lysann",
+        "weiblich": true
     }
 }

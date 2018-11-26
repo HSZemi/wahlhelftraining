@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1442773,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2967823,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.06.1999",
-        "matrikelnummer": 2911859,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "19.03.1995",
+        "matrikelnummer": 16695,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kreis",
-        "plzort": "53148 Bonn",
+        "nachname": "Temme",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Smidtstra\u00dfe 9",
+        "strasse": "Siesmayerstra\u00dfe 5b",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Agricultural and Food Economics",
+                "fsem": 5
             }
         ],
-        "vorname": "Freiwald",
+        "vorname": "Carl",
         "weiblich": false
     }
 }

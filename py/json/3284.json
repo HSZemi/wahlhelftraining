@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1113481,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2100977,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "14.06.1996",
-        "matrikelnummer": 1927895,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "19.09.1994",
+        "matrikelnummer": 3001402,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00f6ner",
-        "plzort": "37318 Burgwalde",
+        "nachname": "Schrader",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Woogstra\u00dfe 0",
+        "strasse": "Wandalenweg 4",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 12
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Gritta",
+        "vorname": "Antonie",
         "weiblich": true
     }
 }

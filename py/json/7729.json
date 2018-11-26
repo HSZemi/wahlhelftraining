@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": true,
         "sp": false
     },
-    "nummer": 2094068,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2152279,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.02.1997",
-        "matrikelnummer": 2706171,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "09.04.1991",
+        "matrikelnummer": 2951091,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bongartz",
-        "plzort": "53200 Bonn",
+        "nachname": "Koenen",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Zum Fruchthof 17",
+        "strasse": "\u00d6denburger Stra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Epidemiologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Annegret",
-        "weiblich": true
+        "vorname": "Quintus",
+        "weiblich": false
     }
 }

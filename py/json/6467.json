@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1469668,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2525071,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "13.07.1991",
-        "matrikelnummer": 3019956,
+        "geburtsdatum": "16.03.1991",
+        "matrikelnummer": 3099056,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klinkhammer",
-        "plzort": "53184 Bonn",
+        "nachname": "Lamm",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Grafensteinstr. 26",
+        "strasse": "Am St\u00e4delshof 38",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 13
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Klinische Medizin",
+                "fsem": 3
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 2
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 3
             }
         ],
-        "vorname": "Dierk",
-        "weiblich": false
+        "vorname": "Christel",
+        "weiblich": true
     }
 }

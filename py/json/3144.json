@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2119289,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1491775,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "20.03.1991",
-        "matrikelnummer": 2788594,
+        "fakultaet": 4,
+        "geburtsdatum": "19.10.1989",
+        "matrikelnummer": 3117445,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Seiffert",
-        "plzort": "86668 Karlshuld",
+        "nachname": "Rauscher",
+        "plzort": "53219 Bonn",
         "sternchen": 0,
-        "strasse": "Schie\u00dfgasse 1",
+        "strasse": "Gebr\u00fcder-Pfau-Str. 7",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 7
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Paola",
-        "weiblich": true
+        "vorname": "Gebhart",
+        "weiblich": false
     }
 }

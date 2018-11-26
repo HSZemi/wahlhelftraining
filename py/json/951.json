@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2169549,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1852971,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.12.1996",
-        "matrikelnummer": 2817331,
+        "fakultaet": 6,
+        "geburtsdatum": "01.04.1995",
+        "matrikelnummer": 19085,
         "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfeil",
-        "plzort": "36157 Ebersburg",
+        "nachname": "Hauber",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Vogelsbergstra\u00dfe 23",
+        "strasse": "Josef Haydngasse 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 1
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Geographie",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Franz\u00f6sisch",
-                "fsem": 10
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 10
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 3
             }
         ],
-        "vorname": "Herzlinde",
-        "weiblich": true
+        "vorname": "Eustachius",
+        "weiblich": false
     }
 }

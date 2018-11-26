@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1810299,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1492654,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.07.1999",
-        "matrikelnummer": 2100496,
+        "fakultaet": 4,
+        "geburtsdatum": "05.10.1998",
+        "matrikelnummer": 18818,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Reese",
-        "plzort": "53223 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Meiners",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "Am Brauhaus 4",
+        "strasse": "F\u00f6hrenstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Sozialwissenschaften",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Biologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Birke",
-        "weiblich": true
+        "vorname": "Otwald",
+        "weiblich": false
     }
 }

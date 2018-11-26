@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1635296,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2936784,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "07.05.1998",
-        "matrikelnummer": 2413900,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "25.08.1989",
+        "matrikelnummer": 1992737,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schock",
-        "plzort": "53163 Bonn",
+        "nachname": "Saathoff",
+        "plzort": "27321 Emtinghausen",
         "sternchen": 0,
-        "strasse": "Pestalozzistr. 9b",
+        "strasse": "Im Kramersfeld 1",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Daniele",
-        "weiblich": true
+        "vorname": "Anton",
+        "weiblich": false
     }
 }

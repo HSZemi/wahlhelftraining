@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2828488,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1286920,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "19.04.1996",
-        "matrikelnummer": 18154,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "24.02.1989",
+        "matrikelnummer": 15293,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Walker",
-        "plzort": "19303 Woosmer",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Edler",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Trienter Stra\u00dfe 37",
+        "strasse": "Kringelstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 2
             }
         ],
-        "vorname": "Anne-Katrin",
+        "vorname": "Marina",
         "weiblich": true
     }
 }

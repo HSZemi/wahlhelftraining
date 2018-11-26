@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2339923,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1082492,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "15.04.1998",
-        "matrikelnummer": 17348,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "12.05.1991",
+        "matrikelnummer": 2877343,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerner",
-        "plzort": "32760 Detmold",
+        "nachname": "Oswald",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Struppener Stra\u00dfe 9",
+        "strasse": "Trachenberger Platz 27c",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kunstgeschichte",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch-Franz\u00f6sische Studien",
+                "fsem": 10
             }
         ],
-        "vorname": "Rigbert",
-        "weiblich": false
+        "vorname": "Magda",
+        "weiblich": true
     }
 }

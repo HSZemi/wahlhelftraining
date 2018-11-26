@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2021644,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2990976,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "26.01.1994",
-        "matrikelnummer": 2777513,
+        "fakultaet": 0,
+        "geburtsdatum": "28.07.1993",
+        "matrikelnummer": 2795931,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Grill",
-        "plzort": "53116 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Appel",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "Zum-Jungen-Stra\u00dfe 9",
+        "strasse": "Im Ziegelfeld 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Romanistik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 5
             }
         ],
-        "vorname": "Ira",
-        "weiblich": true
+        "vorname": "Alfried",
+        "weiblich": false
     }
 }

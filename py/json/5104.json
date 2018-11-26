@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1204556,
+    "nummer": 1256276,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.03.1992",
-        "matrikelnummer": 13066,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "06.08.1996",
+        "matrikelnummer": 2078134,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ehrlich",
-        "plzort": "53130 Bonn",
+        "nachname": "Thielmann",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Heigenbr\u00fccker Weg 1",
+        "strasse": "Grabfeldstr. 8",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geographie",
-                "fsem": 9
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Philosophie",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Catharina",
-        "weiblich": true
+        "vorname": "Sieghardt",
+        "weiblich": false
     }
 }

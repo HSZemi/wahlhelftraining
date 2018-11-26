@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1481765,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1923921,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "05.04.1999",
-        "matrikelnummer": 2167587,
+        "fakultaet": 2,
+        "geburtsdatum": "06.11.1994",
+        "matrikelnummer": 2230977,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Licht",
-        "plzort": "58642 Iserlohn",
+        "nachname": "Weigl",
+        "plzort": "18233 Krempin",
         "sternchen": 0,
-        "strasse": "Fuhrenkampsweg 19d",
+        "strasse": "Katharinenpforte 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 8
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Evangelische Religionslehre",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Griechisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Lenore",
-        "weiblich": true
+        "vorname": "Konstantin",
+        "weiblich": false
     }
 }

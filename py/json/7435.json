@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1796145,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1697723,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "07.12.1989",
-        "matrikelnummer": 2939120,
+        "fakultaet": 9,
+        "geburtsdatum": "27.05.1999",
+        "matrikelnummer": 2597023,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rothe",
-        "plzort": "53141 Bonn",
+        "nachname": "Grafe",
+        "plzort": "99869 Wangenheim",
         "sternchen": 0,
-        "strasse": "Dombacher Stra\u00dfe 7",
+        "strasse": "Lahm\u00e4ckerstra\u00dfe 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "\u00c4lt.u.Neu.Germanistik",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Denis",
-        "weiblich": false
+        "vorname": "Ann",
+        "weiblich": true
     }
 }

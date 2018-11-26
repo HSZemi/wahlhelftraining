@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2841044,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2749758,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.12.1995",
-        "matrikelnummer": 192303,
+        "fakultaet": 6,
+        "geburtsdatum": "10.12.1997",
+        "matrikelnummer": 2968349,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Buss",
-        "plzort": "56348 Bornich",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Klein",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Schwanseestr. 3",
+        "strasse": "Staudingerstr. 14",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Soziologie",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Thoralf",
+        "vorname": "Ruben",
         "weiblich": false
     }
 }

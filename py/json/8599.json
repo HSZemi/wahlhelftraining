@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2117433,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1923815,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.02.1990",
-        "matrikelnummer": 2084631,
+        "fakultaet": 3,
+        "geburtsdatum": "12.03.1993",
+        "matrikelnummer": 143127,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "St\u00f6ckl",
-        "plzort": "55469 Altweidelbach",
+        "nachname": "Grossmann",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Zwergstra\u00dfe 2",
+        "strasse": "Bozenhardweg 4",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 4
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 9
             },
             {
-                "abschluss": "Kirchl.Ex.",
+                "abschluss": "Magister Theologiae (kath.)",
                 "fach": "Katholische Theologie",
-                "fsem": 3
+                "fsem": 10
             }
         ],
-        "vorname": "Natalja",
+        "vorname": "Isabel",
         "weiblich": true
     }
 }

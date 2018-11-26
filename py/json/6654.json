@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2952629,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2554852,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.08.1996",
-        "matrikelnummer": 2159655,
+        "fakultaet": 5,
+        "geburtsdatum": "13.04.1992",
+        "matrikelnummer": 2886672,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Teufel",
-        "plzort": "17139 Kummerow",
+        "nachname": "Forster",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Pforzheimer Stra\u00dfe 5c",
+        "strasse": "Baumertstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Germanistik, Vergleichende Literatur- und Kulturwissenschaft",
                 "fsem": 8
+            },
+            {
+                "abschluss": "",
+                "fach": "Chinesisch",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Franziskus",
-        "weiblich": false
+        "vorname": "Hedda",
+        "weiblich": true
     }
 }

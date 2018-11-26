@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2346526,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1923160,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.12.1992",
-        "matrikelnummer": 2572806,
-        "mehrfachausfertigung": 4,
+        "fakultaet": 8,
+        "geburtsdatum": "16.06.1986",
+        "matrikelnummer": 2326572,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfitzner",
-        "plzort": "53229 Bonn",
+        "nachname": "Wick",
+        "plzort": "53155 Bonn",
         "sternchen": 0,
-        "strasse": "Beerenhut 19",
+        "strasse": "Finkenweg 13",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 12
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Biologie",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Bartosch",
-        "weiblich": false
+        "vorname": "Dorle",
+        "weiblich": true
     }
 }

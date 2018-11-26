@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2251463,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2797411,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "08.08.1994",
-        "matrikelnummer": 1968123,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "24.03.1995",
+        "matrikelnummer": 2141101,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Junk",
-        "plzort": "53165 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Leber",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "L\u00f6tzener Stra\u00dfe 13",
+        "strasse": "Appelsgasse 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Lebensmitteltechnologie",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Augustin",
-        "weiblich": false
+        "vorname": "Angelica",
+        "weiblich": true
     }
 }

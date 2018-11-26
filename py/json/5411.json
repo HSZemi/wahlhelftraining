@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1343566,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2535864,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.07.1995",
-        "matrikelnummer": 3070739,
+        "fakultaet": 8,
+        "geburtsdatum": "10.08.1992",
+        "matrikelnummer": 2141346,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Moldenhauer",
+        "nachname": "Kehr",
         "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "An der Staufenmauer 6",
+        "strasse": "Breitlacher Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Informatik",
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 6
             }
         ],
-        "vorname": "Berenike",
-        "weiblich": true
+        "vorname": "Fidelius",
+        "weiblich": false
     }
 }

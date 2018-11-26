@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2069555,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2352399,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "04.11.1993",
-        "matrikelnummer": 2177453,
+        "fakultaet": 6,
+        "geburtsdatum": "01.09.1993",
+        "matrikelnummer": 2266799,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "St\u00f6cker",
-        "plzort": "53163 Bonn",
+        "nachname": "Klaas",
+        "plzort": "53224 Bonn",
         "sternchen": 0,
-        "strasse": "Harry-Hartz-Weg 0",
+        "strasse": "Stegwiese 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 7
             }
         ],
-        "vorname": "Edelbert",
+        "vorname": "Gerdt",
         "weiblich": false
     }
 }

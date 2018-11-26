@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2011540,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2275646,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "15.06.1994",
-        "matrikelnummer": 11149,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "27.01.1984",
+        "matrikelnummer": 3067722,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53180 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Thomaestra\u00dfe 2",
+        "strasse": "Altleutewitz 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
                 "fsem": 1
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Mathematik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1437661,
+    "nummer": 2771345,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "15.12.1995",
-        "matrikelnummer": 2356430,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "02.12.1994",
+        "matrikelnummer": 2211887,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00fctt",
-        "plzort": "53203 Bonn",
+        "nachname": "Siegmund",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Jacob Rauschenfels-Gasse 12",
+        "strasse": "Maulbeerenstra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Mikrobiologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Rigobert",
-        "weiblich": false
+        "vorname": "Christamaria",
+        "weiblich": true
     }
 }

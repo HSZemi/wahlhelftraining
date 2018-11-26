@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2644612,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1282677,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "27.05.1995",
-        "matrikelnummer": 2315329,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "27.12.1994",
+        "matrikelnummer": 13869,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gericke",
-        "plzort": "53223 Bonn",
+        "nachname": "Groh",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Altenberger Stra\u00dfe 13",
+        "strasse": "Taschnerstra\u00dfe 2",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Indologie",
-                "fsem": 10
+                "fach": "Geschichte",
+                "fsem": 5
             },
             {
                 "abschluss": "",
-                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
-                "fsem": 10
+                "fach": "Musikwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Meinrad",
+        "vorname": "Rolf",
         "weiblich": false
     }
 }

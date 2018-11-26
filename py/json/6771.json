@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2735961,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1331779,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "05.10.1992",
-        "matrikelnummer": 12781,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Roscher",
+        "fakultaet": 8,
+        "geburtsdatum": "18.01.1992",
+        "matrikelnummer": 2758016,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Schatz",
         "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Kaitzbachweg 0",
+        "strasse": "Birkigter Hang 14",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Tiburtius",
-        "weiblich": false
+        "vorname": "Aneta",
+        "weiblich": true
     }
 }

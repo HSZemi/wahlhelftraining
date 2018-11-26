@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2888868,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1900939,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "26.06.1999",
-        "matrikelnummer": 111456,
+        "fakultaet": 5,
+        "geburtsdatum": "02.11.1993",
+        "matrikelnummer": 176554,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dressel",
-        "plzort": "53123 Bonn",
+        "nachname": "Henschel",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Merkatorweg 0",
+        "strasse": "Fr\u00f6belstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "Master",
+                "fach": "European Studies - Governance and Regulation",
+                "fsem": 10
             }
         ],
-        "vorname": "Siegert",
-        "weiblich": false
+        "vorname": "Adelinde",
+        "weiblich": true
     }
 }

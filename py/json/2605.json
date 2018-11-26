@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1007971,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2553927,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "06.07.1992",
-        "matrikelnummer": 1919795,
+        "fakultaet": 3,
+        "geburtsdatum": "24.02.1991",
+        "matrikelnummer": 2550402,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Krohn",
-        "plzort": "53212 Bonn",
+        "nachname": "Ertel",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "An der Prie\u00dfnitz 3",
+        "strasse": "Mittlerer Schafhofweg 11",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 10
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
                 "fach": "Katholische Theologie",
-                "fsem": 5
+                "fsem": 11
             }
         ],
-        "vorname": "Annalies",
+        "vorname": "Katharine",
         "weiblich": true
     }
 }

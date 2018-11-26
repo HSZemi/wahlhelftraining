@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1176044,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2449447,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "10.01.1999",
-        "matrikelnummer": 2930268,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Prei\u00df",
-        "plzort": "53126 Bonn",
+        "geburtsdatum": "13.08.1999",
+        "matrikelnummer": 2376026,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Stolte",
+        "plzort": "53119 Bonn",
         "sternchen": 0,
-        "strasse": "Usinger Stra\u00dfe 32",
+        "strasse": "Lisztgasse 17",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 1
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 13
+                "fach": "Mathematics",
+                "fsem": 5
             }
         ],
-        "vorname": "Sylvia",
-        "weiblich": true
+        "vorname": "Winand",
+        "weiblich": false
     }
 }

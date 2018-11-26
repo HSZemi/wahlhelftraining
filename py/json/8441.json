@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1708565,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2144423,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "04.08.1993",
-        "matrikelnummer": 13014,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "05.05.1990",
+        "matrikelnummer": 16340,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Boldt",
-        "plzort": "53114 Bonn",
+        "nachname": "Peetz",
+        "plzort": "53116 Bonn",
         "sternchen": 0,
-        "strasse": "Wolfszug 1",
+        "strasse": "Cornelius-Gurlitt-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 4
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Saskia",
-        "weiblich": true
+        "vorname": "Tommy",
+        "weiblich": false
     }
 }

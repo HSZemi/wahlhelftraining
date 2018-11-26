@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1605390,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1233167,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "18.11.1999",
-        "matrikelnummer": 2310357,
+        "geburtsdatum": "03.06.1999",
+        "matrikelnummer": 2512480,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schl\u00f6sser",
-        "plzort": "53128 Bonn",
+        "nachname": "Paulsen",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Walter-Arnold-Stra\u00dfe 2b",
+        "strasse": "Auguste-Lazar-Stra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "\u00c4gyptologie",
-                "fsem": 3
+                "abschluss": "Promotion",
+                "fach": "Anglistik/Neuere Englische Literatur",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 11
             }
         ],
-        "vorname": "Elisa",
-        "weiblich": true
+        "vorname": "Ulfried",
+        "weiblich": false
     }
 }

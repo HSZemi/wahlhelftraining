@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2382536,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1430383,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "09.12.1984",
-        "matrikelnummer": 2222402,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "19.01.1992",
+        "matrikelnummer": 2584781,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nehring",
-        "plzort": "53215 Bonn",
+        "nachname": "Engels",
+        "plzort": "53177 Bonn",
         "sternchen": 0,
-        "strasse": "Rehefelder Stra\u00dfe 0",
+        "strasse": "Boxberger Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 6
             }
         ],
-        "vorname": "Ana",
+        "vorname": "Urte",
         "weiblich": true
     }
 }

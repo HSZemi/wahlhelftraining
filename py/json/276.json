@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2205740,
-    "semester": "Sommersemester 2017",
+    "nummer": 1750586,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "01.01.1993",
-        "matrikelnummer": 2876747,
+        "fakultaet": 0,
+        "geburtsdatum": "05.11.1990",
+        "matrikelnummer": 3194312,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "12527 Berlin",
+        "nachname": "Zemantek",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Max-Bock-Stra\u00dfe 16",
+        "strasse": "Beselerstra\u00dfe 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 12
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2763039,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2075756,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "02.08.1993",
-        "matrikelnummer": 131641,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "24.08.1989",
+        "matrikelnummer": 3010131,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wessels",
-        "plzort": "53203 Bonn",
+        "nachname": "Spielmann",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Sch\u00f6nbacher Weg 2",
+        "strasse": "Stadelheimer Str. 24",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 11
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Walbert",
+        "vorname": "Robby",
         "weiblich": false
     }
 }

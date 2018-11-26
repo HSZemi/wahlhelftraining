@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1771882,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1172425,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "02.09.1991",
-        "matrikelnummer": 2598993,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 6,
+        "geburtsdatum": "10.12.1993",
+        "matrikelnummer": 191930,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heilig",
-        "plzort": "53160 Bonn",
+        "nachname": "Peter",
+        "plzort": "53205 Bonn",
         "sternchen": 0,
-        "strasse": "Senefelderweg 24",
+        "strasse": "Heinrich-Zille-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Plant Sciences",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Slavistik",
+                "fsem": 6
             }
         ],
-        "vorname": "Meinfriede",
-        "weiblich": true
+        "vorname": "Runald",
+        "weiblich": false
     }
 }

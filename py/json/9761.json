@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1746900,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2969841,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "17.07.1990",
-        "matrikelnummer": 146707,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "09.06.1991",
+        "matrikelnummer": 2562336,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Escher",
-        "plzort": "46284 Dorsten",
+        "nachname": "Hoffmeister",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Zu den Weiden 2c",
+        "strasse": "Michael Urient-Gasse 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Nils",
+        "vorname": "Gernulf",
         "weiblich": false
     }
 }

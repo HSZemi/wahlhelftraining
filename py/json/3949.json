@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2119145,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2167541,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "15.03.1994",
-        "matrikelnummer": 2049052,
+        "fakultaet": 6,
+        "geburtsdatum": "18.03.1999",
+        "matrikelnummer": 3066752,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Brand",
-        "plzort": "53133 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kraemer",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Seefelder Weg 9",
+        "strasse": "W\u00f6lfnitzstra\u00dfe 26",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Erziehungswissenschaft",
-                "fsem": 10
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 2
             }
         ],
-        "vorname": "Ambros",
+        "vorname": "Brandolf",
         "weiblich": false
     }
 }

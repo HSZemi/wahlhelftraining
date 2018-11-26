@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1606117,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2763743,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "08.06.1999",
-        "matrikelnummer": 183059,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "19.07.1997",
+        "matrikelnummer": 2066085,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ebeling",
-        "plzort": "53198 Bonn",
+        "nachname": "J\u00fcngling",
+        "plzort": "56858 Sosberg",
         "sternchen": 0,
-        "strasse": "Kerbt\u00e4lchen 16b",
+        "strasse": "Olof-Palme-Stra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Arch\u00e4ologien",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Deutsch als Zweit- und Fremdsprache",
-                "fsem": 2
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 4
             }
         ],
-        "vorname": "Karleugen",
-        "weiblich": false
+        "vorname": "Marie",
+        "weiblich": true
     }
 }

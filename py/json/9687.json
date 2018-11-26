@@ -1,46 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2501264,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1468283,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "21.02.1994",
-        "matrikelnummer": 2466519,
+        "fakultaet": 6,
+        "geburtsdatum": "26.07.1986",
+        "matrikelnummer": 2042316,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6nigs",
-        "plzort": "53172 Bonn",
+        "nachname": "Wiese",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Kaspar-Sp\u00e4t-Str. 7a",
+        "strasse": "Juchostra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 12
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 5
             },
             {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Siegfried",
-        "weiblich": false
+        "vorname": "Cathleen",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1850552,
-    "semester": "Sommersemester 2017",
+    "nummer": 2004656,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "21.11.1989",
-        "matrikelnummer": 3099948,
+        "fakultaet": 1,
+        "geburtsdatum": "17.07.1989",
+        "matrikelnummer": 2805778,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "D\u00f6ring",
-        "plzort": "53152 Bonn",
+        "nachname": "Brune",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Bodemerweg 2",
+        "strasse": "Olbrichtplatz 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Janine",
+        "vorname": "Gefion",
         "weiblich": true
     }
 }

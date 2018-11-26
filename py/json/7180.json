@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1856922,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2350270,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.02.1989",
-        "matrikelnummer": 2509679,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "05.06.1997",
+        "matrikelnummer": 2802321,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holst",
-        "plzort": "53174 Bonn",
+        "nachname": "Kluge",
+        "plzort": "53151 Bonn",
         "sternchen": 0,
-        "strasse": "Zamenhofstra\u00dfe 0",
+        "strasse": "Altpieschen 53",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Computer Science",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Waltraut",
-        "weiblich": true
+        "vorname": "York",
+        "weiblich": false
     }
 }

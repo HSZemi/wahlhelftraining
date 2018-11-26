@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1318681,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2589270,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "24.04.1997",
-        "matrikelnummer": 2782655,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "18.04.1996",
+        "matrikelnummer": 2344602,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reiner",
-        "plzort": "34326 Morschen",
+        "nachname": "Ro\u00dfmann",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Messering 5",
+        "strasse": "Alfredstra\u00dfenbr\u00fccke 5c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 11
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kunstgeschichte und Arch\u00e4ologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Psychologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Berti",
-        "weiblich": false
+        "vorname": "Susan",
+        "weiblich": true
     }
 }

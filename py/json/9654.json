@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2698302,
-    "semester": "Sommersemester 2017",
+    "nummer": 1280504,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "24.05.1990",
-        "matrikelnummer": 13708,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "08.07.1999",
+        "matrikelnummer": 136330,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Siemers",
-        "plzort": "82442 Saulgrub",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Morgenroth",
+        "plzort": "53204 Bonn",
         "sternchen": 0,
-        "strasse": "Nibelungenallee 15",
+        "strasse": "Brennerstra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Rechtspsychologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 9
             }
         ],
-        "vorname": "Harribert",
-        "weiblich": false
+        "vorname": "Natalja",
+        "weiblich": true
     }
 }

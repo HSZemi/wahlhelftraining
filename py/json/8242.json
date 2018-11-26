@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1681480,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1299315,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "10.10.1993",
-        "matrikelnummer": 2103805,
+        "fakultaet": 5,
+        "geburtsdatum": "16.09.1995",
+        "matrikelnummer": 2218730,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Strauss",
-        "plzort": "53177 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Althaus",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Wettiner Platz 10",
+        "strasse": "St\u00fcmpflingstr. 15",
         "studienfaecher": [
             {
+                "abschluss": "Master of Arts",
+                "fach": "North American Studies",
+                "fsem": 1
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 11
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             }
         ],
-        "vorname": "Sonja",
-        "weiblich": true
+        "vorname": "Rigo",
+        "weiblich": false
     }
 }

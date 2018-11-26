@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2587529,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2250735,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.05.1989",
-        "matrikelnummer": 2935523,
+        "fakultaet": 4,
+        "geburtsdatum": "08.04.1995",
+        "matrikelnummer": 2559454,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wolfram",
-        "plzort": "53210 Bonn",
+        "nachname": "Worm",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Grimoldweg 14",
+        "strasse": "Homiliusstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 10
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 13
             }
         ],
-        "vorname": "Florian",
-        "weiblich": false
+        "vorname": "Milena",
+        "weiblich": true
     }
 }

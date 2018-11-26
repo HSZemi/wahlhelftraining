@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2834502,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1423725,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "22.06.1994",
-        "matrikelnummer": 1979698,
+        "geburtsdatum": "05.08.1995",
+        "matrikelnummer": 11524,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hieber",
-        "plzort": "53158 Bonn",
+        "nachname": "Lautenschl\u00e4ger",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "N\u00fcrnberger Platz 0",
+        "strasse": "An der Schleife 0",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
+                "abschluss": "Promotion",
                 "fach": "Katholische Theologie",
-                "fsem": 8
+                "fsem": 9
             },
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Promotion",
+                "fach": "Philosophie",
+                "fsem": 4
             }
         ],
-        "vorname": "Olf",
+        "vorname": "Friedhold",
         "weiblich": false
     }
 }

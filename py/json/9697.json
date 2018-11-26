@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2301868,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2015997,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "10.04.1997",
-        "matrikelnummer": 2967010,
+        "fakultaet": 6,
+        "geburtsdatum": "01.01.1996",
+        "matrikelnummer": 2045225,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Holland",
-        "plzort": "53116 Bonn",
+        "nachname": "Ganser",
+        "plzort": "54528 Salmtal",
         "sternchen": 0,
-        "strasse": "Dammhauser Stra\u00dfe 2",
+        "strasse": "Werner-Haustein-Stra\u00dfe 32",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 6
             }
         ],
-        "vorname": "Gerta",
-        "weiblich": true
+        "vorname": "Wilderich",
+        "weiblich": false
     }
 }

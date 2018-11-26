@@ -1,46 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2473632,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2999931,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "13.09.1999",
-        "matrikelnummer": 2875133,
+        "fakultaet": 1,
+        "geburtsdatum": "18.05.1997",
+        "matrikelnummer": 2644986,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Apel",
-        "plzort": "53166 Bonn",
+        "nachname": "Reinke",
+        "plzort": "53199 Bonn",
         "sternchen": 0,
-        "strasse": "Gustav-Adolf-Stra\u00dfe 10",
+        "strasse": "H\u00f6henstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Nutzpflanzenwissenschaften",
-                "fsem": 3
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 7
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Sieghard",
+        "vorname": "Ingo",
         "weiblich": false
     }
 }

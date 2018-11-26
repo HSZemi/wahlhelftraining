@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1484814,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1472262,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "03.08.1991",
-        "matrikelnummer": 3095745,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "28.09.1992",
+        "matrikelnummer": 2973853,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rosendahl",
-        "plzort": "41466 Neuss",
+        "nachname": "Hubert",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Pochmannstra\u00dfe 0",
+        "strasse": "Franz Elek Eiweck-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
             }
         ],
-        "vorname": "Volkmar",
-        "weiblich": false
+        "vorname": "Ingetraut",
+        "weiblich": true
     }
 }

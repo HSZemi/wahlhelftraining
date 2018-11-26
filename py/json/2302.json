@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1357779,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1520131,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "13.02.1994",
-        "matrikelnummer": 2502511,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 1,
+        "geburtsdatum": "01.04.1989",
+        "matrikelnummer": 3046195,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6sner",
-        "plzort": "56288 Hollnich",
+        "nachname": "R\u00f6der",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Ottendorfer Stra\u00dfe 65",
+        "strasse": "Schmaler Weg 24",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 10
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Holle",
+        "vorname": "Feli",
         "weiblich": true
     }
 }

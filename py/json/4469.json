@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2007192,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2483584,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "17.04.1991",
-        "matrikelnummer": 2699442,
+        "fakultaet": 4,
+        "geburtsdatum": "09.05.1995",
+        "matrikelnummer": 2317264,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sauter",
-        "plzort": "53214 Bonn",
+        "nachname": "Dallmann",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Otto-Reinhold-Weg 21",
+        "strasse": "Rosenthaler Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 13
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 7
             },
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 12
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 13
             }
         ],
-        "vorname": "Frieda",
+        "vorname": "Sylvana",
         "weiblich": true
     }
 }

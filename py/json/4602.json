@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1101152,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2110582,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "17.05.1996",
-        "matrikelnummer": 144972,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "12.07.1990",
+        "matrikelnummer": 2034413,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hentschel",
-        "plzort": "53159 Bonn",
+        "nachname": "Wunderlich",
+        "plzort": "24994 Jardelund",
         "sternchen": 0,
-        "strasse": "Sudhausweg 9",
+        "strasse": "Dr. Karl Renner-Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
                 "fsem": 13
             }
         ],
-        "vorname": "Liebgunde",
-        "weiblich": true
+        "vorname": "Gottreich",
+        "weiblich": false
     }
 }

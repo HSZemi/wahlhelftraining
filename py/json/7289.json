@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1679318,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1565443,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "08.08.1995",
-        "matrikelnummer": 2687812,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "15.11.1990",
+        "matrikelnummer": 1939962,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gottschling",
-        "plzort": "97996 Niederstetten",
+        "nachname": "Rusch",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Altleubnitz 3",
+        "strasse": "Heinz-Saalig-Weg 3",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
             }
         ],
-        "vorname": "Heidi",
+        "vorname": "Juliane",
         "weiblich": true
     }
 }

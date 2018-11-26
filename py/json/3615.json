@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2935378,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2226025,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "17.12.1993",
-        "matrikelnummer": 2649994,
+        "fakultaet": 9,
+        "geburtsdatum": "08.04.1995",
+        "matrikelnummer": 2263899,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Kr\u00f6ner",
-        "plzort": "55234 Bechtolsheim",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hafner",
+        "plzort": "15320 Neutrebbin",
         "sternchen": 0,
-        "strasse": "Pompeselstieg 7",
+        "strasse": "Theresienstr. 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 1
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 5
             }
         ],
-        "vorname": "Rosegret",
+        "vorname": "Angelique",
         "weiblich": true
     }
 }

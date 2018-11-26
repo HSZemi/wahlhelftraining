@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1333076,
-    "semester": "Sommersemester 2017",
+    "nummer": 1923147,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "20.09.1995",
-        "matrikelnummer": 2333389,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "01.03.1999",
+        "matrikelnummer": 148855,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinecke",
-        "plzort": "53182 Bonn",
+        "nachname": "Wendel",
+        "plzort": "53147 Bonn",
         "sternchen": 0,
-        "strasse": "Bruckertshof 18",
+        "strasse": "D\u00e4umlingtwiete 7",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Evchen",
+        "vorname": "Radmila",
         "weiblich": true
     }
 }

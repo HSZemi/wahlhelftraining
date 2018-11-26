@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1935788,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2762993,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 1,
-        "geburtsdatum": "18.12.1994",
-        "matrikelnummer": 2954165,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "10.04.1986",
+        "matrikelnummer": 2529377,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Meise",
-        "plzort": "53176 Bonn",
+        "nachname": "Reiss",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Manitiusstra\u00dfe 1",
+        "strasse": "Auerbacher Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Magister Theologiae (kath.)",
                 "fach": "Katholische Theologie",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 10
+                "fsem": 11
             }
         ],
-        "vorname": "Ludolf",
-        "weiblich": false
+        "vorname": "Annelen",
+        "weiblich": true
     }
 }

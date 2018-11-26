@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2961187,
+    "nummer": 1489695,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "26.10.1999",
-        "matrikelnummer": 159236,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "08.03.1994",
+        "matrikelnummer": 2371387,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Poser",
-        "plzort": "53191 Bonn",
+        "nachname": "Knapp",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Kolpingstra\u00dfe 6",
+        "strasse": "Scheidemantelstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
                 "fsem": 10
             }
         ],
-        "vorname": "Baldur",
-        "weiblich": false
+        "vorname": "Kristina",
+        "weiblich": true
     }
 }

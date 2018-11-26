@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1389694,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2197083,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "02.10.1990",
-        "matrikelnummer": 2780864,
+        "fakultaet": 8,
+        "geburtsdatum": "26.02.1993",
+        "matrikelnummer": 2828280,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ahlers",
-        "plzort": "53133 Bonn",
+        "nachname": "Frech",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "Bessie-Coleman-Stra\u00dfe 10b",
+        "strasse": "Sengelmannstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 3
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Italienisch",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Geschichte",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Fridoline",
+        "vorname": "Oxana",
         "weiblich": true
     }
 }

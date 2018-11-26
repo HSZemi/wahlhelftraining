@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2510126,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2250808,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "11.12.1996",
-        "matrikelnummer": 187528,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Arens",
-        "plzort": "25885 Ahrenvi\u00f6lfeld",
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "27.04.1993",
+        "matrikelnummer": 122102,
+        "mehrfachausfertigung": 4,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Reuter",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Bonhoefferplatz 1",
+        "strasse": "Altdobritz 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Friedlinde",
+        "vorname": "Christa-Maria",
         "weiblich": true
     }
 }

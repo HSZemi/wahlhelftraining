@@ -1,31 +1,36 @@
 {
     "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1039497,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2477245,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "17.08.1999",
-        "matrikelnummer": 2653338,
+        "fakultaet": 6,
+        "geburtsdatum": "19.02.1987",
+        "matrikelnummer": 2993048,
         "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gutsche",
-        "plzort": "89347 Bubesheim",
+        "nachname": "Haider",
+        "plzort": "53112 Bonn",
         "sternchen": 0,
-        "strasse": "Mousonstra\u00dfe 25",
+        "strasse": "Schubertshof 20",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 13
+            },
+            {
                 "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 7
+                "fach": "Evangelische Theologie",
+                "fsem": 3
             }
         ],
-        "vorname": "Gunthard",
+        "vorname": "Adolf",
         "weiblich": false
     }
 }

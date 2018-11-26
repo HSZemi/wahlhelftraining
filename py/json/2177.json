@@ -1,36 +1,41 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2927775,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1281815,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "13.12.1993",
-        "matrikelnummer": 185858,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "03.07.1990",
+        "matrikelnummer": 2144725,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "R\u00f6\u00dfler",
-        "plzort": "53214 Bonn",
+        "nachname": "Luft",
+        "plzort": "53132 Bonn",
         "sternchen": 0,
-        "strasse": "Lorenzenweg 3",
+        "strasse": "Liebfrauenstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 7
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Physik",
+                "fsem": 2
             },
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Molekulare Biomedizin",
-                "fsem": 6
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Kirsten",
-        "weiblich": true
+        "vorname": "Wilhard",
+        "weiblich": false
     }
 }

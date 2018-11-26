@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1160479,
+    "nummer": 2959137,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "12.07.1991",
-        "matrikelnummer": 14947,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "18.07.1987",
+        "matrikelnummer": 2527595,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schie\u00dfl",
-        "plzort": "53196 Bonn",
+        "nachname": "Stock",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "An der D\u00fcrren Heide 2",
+        "strasse": "Am Wasserwerk 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Didaktik der Naturwissenschaften",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 2
             }
         ],
-        "vorname": "Pascal",
-        "weiblich": false
+        "vorname": "Vera",
+        "weiblich": true
     }
 }

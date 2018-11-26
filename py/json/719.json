@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2720931,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1076935,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "23.03.1997",
-        "matrikelnummer": 2471131,
+        "fakultaet": 5,
+        "geburtsdatum": "26.11.1994",
+        "matrikelnummer": 2936803,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heim",
-        "plzort": "53191 Bonn",
+        "nachname": "Niehoff",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fcnchner Ring 0",
+        "strasse": "Schaberschulstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Mathematik",
-                "fsem": 1
+                "abschluss": "Bachelor of Arts",
+                "fach": "Politik und Gesellschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Tibetologie",
+                "fsem": 5
             }
         ],
-        "vorname": "Rudi",
+        "vorname": "Emil",
         "weiblich": false
     }
 }

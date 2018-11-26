@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1362397,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1334404,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "11.02.1995",
-        "matrikelnummer": 2421265,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "24.12.1996",
+        "matrikelnummer": 2463003,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Martens",
-        "plzort": "53222 Bonn",
+        "nachname": "Nolte",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Kilianst\u00e4dter Stra\u00dfe 22",
+        "strasse": "Dr.-Rattel-Str. 6",
         "studienfaecher": [
             {
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Versorgungsforschung",
+                "fsem": 1
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Japanologie",
-                "fsem": 4
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Severin",
+        "vorname": "Bernhard",
         "weiblich": false
     }
 }

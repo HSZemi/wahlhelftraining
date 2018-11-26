@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1612728,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1404834,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "25.05.1990",
-        "matrikelnummer": 180343,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "03.01.1996",
+        "matrikelnummer": 149096,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hager",
-        "plzort": "98743 Gr\u00e4fenthal",
+        "nachname": "H\u00f6lzer",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Zentmarkweg 1",
+        "strasse": "Langhurst 6",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Biometrie",
+                "fsem": 10
             }
         ],
-        "vorname": "Fabian",
+        "vorname": "Bertin",
         "weiblich": false
     }
 }

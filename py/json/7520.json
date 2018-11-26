@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1684985,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2740777,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.09.1987",
-        "matrikelnummer": 2094293,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": true,
+        "fakultaet": 1,
+        "geburtsdatum": "11.05.1996",
+        "matrikelnummer": 13710,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brummer",
-        "plzort": "53518 Wimbach",
+        "nachname": "Wolter",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Heitmanns Weg 11",
+        "strasse": "Viktor-Kaplan-Stra\u00dfe 28",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 8
             }
         ],
-        "vorname": "Irminfried",
-        "weiblich": false
+        "vorname": "Resilotte",
+        "weiblich": true
     }
 }

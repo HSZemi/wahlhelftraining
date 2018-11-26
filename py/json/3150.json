@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2790769,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2824797,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "02.08.1996",
-        "matrikelnummer": 2461228,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "11.12.1990",
+        "matrikelnummer": 2967511,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "Beetz",
-        "plzort": "53215 Bonn",
+        "nachname": "Arnold",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Graumannsweg 5",
+        "strasse": "Kaitzer Weinberg 9",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 7
+                "fach": "Nutzpflanzenwissenschaften",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Geschichte",
+                "fsem": 11
             }
         ],
-        "vorname": "Elisabet",
-        "weiblich": true
+        "vorname": "Damian",
+        "weiblich": false
     }
 }

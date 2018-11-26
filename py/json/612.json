@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2018008,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1399425,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "08.08.1994",
-        "matrikelnummer": 2628199,
+        "fakultaet": 4,
+        "geburtsdatum": "05.01.1990",
+        "matrikelnummer": 2339636,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wiegand",
-        "plzort": "53174 Bonn",
+        "nachname": "Speicher",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Winterhuder Br\u00fccke 0",
+        "strasse": "Frauensteiner Platz 12",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 13
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Isedore",
-        "weiblich": true
+        "vorname": "Simon",
+        "weiblich": false
     }
 }

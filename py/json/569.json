@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1782796,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2018128,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "28.09.1998",
-        "matrikelnummer": 2316473,
+        "geburtsdatum": "23.02.1993",
+        "matrikelnummer": 2146560,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schimpf",
-        "plzort": "53183 Bonn",
+        "nachname": "Christian",
+        "plzort": "67806 Rockenhausen",
         "sternchen": 0,
-        "strasse": "F\u00f6rsterlingstra\u00dfe 22",
+        "strasse": "Mumm-von-Schwarzenstein-Stra\u00dfe 9",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
+                "abschluss": "Staatsex.",
+                "fach": "Zahnmedizin",
                 "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Asienwissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Desiderius",
+        "vorname": "Albert",
         "weiblich": false
     }
 }

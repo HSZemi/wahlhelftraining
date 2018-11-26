@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1617889,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2242619,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "20.09.1995",
-        "matrikelnummer": 3059853,
+        "fakultaet": 6,
+        "geburtsdatum": "15.05.1994",
+        "matrikelnummer": 2727131,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Mittelst\u00e4dt",
-        "plzort": "53213 Bonn",
+        "nachname": "Dewald",
+        "plzort": "53187 Bonn",
         "sternchen": 0,
-        "strasse": "Seidnitzer Weg 2a",
+        "strasse": "Robert-Schumann-Platz 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 5
             }
         ],
-        "vorname": "Lintrud",
+        "vorname": "Christel",
         "weiblich": true
     }
 }

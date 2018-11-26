@@ -1,46 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2647201,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2990925,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "02.06.1992",
-        "matrikelnummer": 1903053,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Nickel",
-        "plzort": "87719 Mindelheim",
+        "fakultaet": 4,
+        "geburtsdatum": "19.11.1993",
+        "matrikelnummer": 2112793,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Jentsch",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Wehrheimer Stra\u00dfe 11",
+        "strasse": "Mittergasse 17",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 9
-            },
-            {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Latein",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 2
             }
         ],
-        "vorname": "Ortmund",
+        "vorname": "Weikhard",
         "weiblich": false
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2966147,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2449543,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "11.12.1999",
-        "matrikelnummer": 197700,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "15.02.1992",
+        "matrikelnummer": 12235,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gilles",
-        "plzort": "42853 Remscheid",
+        "nachname": "Dierks",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Leuckartstra\u00dfe 2",
+        "strasse": "Brooksdamm 6",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Balthasar",
-        "weiblich": false
+        "vorname": "Annemirl",
+        "weiblich": true
     }
 }

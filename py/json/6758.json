@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 2545210,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1846073,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "08.09.1993",
-        "matrikelnummer": 3023735,
+        "fakultaet": 6,
+        "geburtsdatum": "13.11.1992",
+        "matrikelnummer": 2280031,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schl\u00f6mer",
-        "plzort": "53175 Bonn",
+        "nachname": "Erben",
+        "plzort": "26723 Emden",
         "sternchen": 0,
-        "strasse": "Birminghamstra\u00dfe 8",
+        "strasse": "Dunantring 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Chemie",
+                "fsem": 3
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Utz",
-        "weiblich": false
+        "vorname": "Angela",
+        "weiblich": true
     }
 }

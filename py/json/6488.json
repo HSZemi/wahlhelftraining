@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 4,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1702384,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1677608,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "16.08.1990",
-        "matrikelnummer": 2500710,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 0,
+        "geburtsdatum": "04.09.1988",
+        "matrikelnummer": 2247178,
+        "mehrfachausfertigung": 4,
         "mitglied_studierendenschaft": true,
-        "nachname": "Raith",
-        "plzort": "53160 Bonn",
+        "nachname": "Klug",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Hesselbergweg 1",
+        "strasse": "Zittergrasweg 14",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 10
             }
         ],
-        "vorname": "Matthias",
+        "vorname": "Benediktus",
         "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2756935,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2929820,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.01.1999",
-        "matrikelnummer": 2033308,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "18.02.1996",
+        "matrikelnummer": 2391061,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nielsen",
-        "plzort": "67366 Weingarten",
+        "nachname": "Ostertag",
+        "plzort": "53167 Bonn",
         "sternchen": 0,
-        "strasse": "Saarlandstra\u00dfe 5e",
+        "strasse": "Hunnenweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
             }
         ],
-        "vorname": "Heiner",
-        "weiblich": false
+        "vorname": "Martina",
+        "weiblich": true
     }
 }

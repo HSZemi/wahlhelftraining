@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1202685,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2634081,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 7,
-        "geburtsdatum": "25.01.1993",
-        "matrikelnummer": 2832549,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "22.10.1990",
+        "matrikelnummer": 2670121,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Quast",
-        "plzort": "53153 Bonn",
+        "nachname": "Sp\u00f6rl",
+        "plzort": "53163 Bonn",
         "sternchen": 0,
-        "strasse": "Tannenstra\u00dfe 0",
+        "strasse": "Lehenweg 0e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 4
             }
         ],
-        "vorname": "Theobalda",
+        "vorname": "Margrit",
         "weiblich": true
     }
 }

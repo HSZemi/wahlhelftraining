@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2704232,
+    "nummer": 1855579,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "21.08.1998",
-        "matrikelnummer": 16592,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "13.01.1990",
+        "matrikelnummer": 2513793,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klemm",
-        "plzort": "53224 Bonn",
+        "nachname": "Nolte",
+        "plzort": "40878 Ratingen",
         "sternchen": 0,
-        "strasse": "Lommatzscher Platz 6",
+        "strasse": "Lange Str. 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Mikrobiologie",
-                "fsem": 9
+                "fach": "Psychologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Radegundis",
-        "weiblich": true
+        "vorname": "Pius",
+        "weiblich": false
     }
 }

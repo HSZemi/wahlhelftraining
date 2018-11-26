@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1944449,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2759827,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "27.04.1995",
-        "matrikelnummer": 3179811,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "11.12.1987",
+        "matrikelnummer": 1903758,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Lau",
-        "plzort": "53180 Bonn",
+        "nachname": "Hartig",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Klein\u2026 13",
+        "strasse": "Obere M\u00fchlbr\u00fccke 0",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 5
+                "abschluss": "Promotion",
+                "fach": "Ethnologie",
+                "fsem": 10
             },
             {
-                "abschluss": "Master of Arts",
-                "fach": "Applied Linguistics",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 9
             }
         ],
-        "vorname": "Diethmar",
-        "weiblich": false
+        "vorname": "Gertraud",
+        "weiblich": true
     }
 }

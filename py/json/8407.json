@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2263525,
+    "nummer": 1583467,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 9,
-        "geburtsdatum": "26.02.1989",
-        "matrikelnummer": 2029439,
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "01.01.1992",
+        "matrikelnummer": 3076894,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6fling",
-        "plzort": "53153 Bonn",
+        "nachname": "Eckhardt",
+        "plzort": "53126 Bonn",
         "sternchen": 0,
-        "strasse": "Carl-Cohn-Stra\u00dfe 1",
+        "strasse": "Ulrichstra\u00dfe 20",
         "studienfaecher": [
+            {
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 6
+            },
             {
                 "abschluss": "Master of Science",
                 "fach": "Economics",
-                "fsem": 4
+                "fsem": 1
             }
         ],
-        "vorname": "Nikolas",
-        "weiblich": false
+        "vorname": "Almuth",
+        "weiblich": true
     }
 }

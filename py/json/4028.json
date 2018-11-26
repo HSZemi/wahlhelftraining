@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1057567,
-    "semester": "Sommersemester 2017",
+    "nummer": 1675232,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "06.10.1994",
-        "matrikelnummer": 183593,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "14.10.1991",
+        "matrikelnummer": 2361834,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Oehler",
-        "plzort": "53171 Bonn",
+        "nachname": "Schuler",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Joseph Haydn-Gasse 15",
+        "strasse": "Emdenstr. 1e",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Asienwissenschaften",
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
                 "fsem": 12
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
             }
         ],
-        "vorname": "Roselotte",
+        "vorname": "Hannah",
         "weiblich": true
     }
 }

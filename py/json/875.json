@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1216809,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1675293,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.07.1997",
-        "matrikelnummer": 2457158,
+        "fakultaet": 2,
+        "geburtsdatum": "16.09.1996",
+        "matrikelnummer": 2001498,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weinert",
-        "plzort": "53228 Bonn",
+        "nachname": "Eckert",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Brentanostra\u00dfe 14",
+        "strasse": "Reu\u00dfstr. 5",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
-                "fsem": 3
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 5
             }
         ],
-        "vorname": "Sigenot",
-        "weiblich": false
+        "vorname": "Annegret",
+        "weiblich": true
     }
 }

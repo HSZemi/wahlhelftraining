@@ -1,46 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2950661,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1846913,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "09.11.1990",
-        "matrikelnummer": 2829336,
+        "fakultaet": 5,
+        "geburtsdatum": "15.08.1996",
+        "matrikelnummer": 2412037,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kastl",
-        "plzort": "53147 Bonn",
+        "nachname": "Schenke",
+        "plzort": "45897 Gelsenkirchen",
         "sternchen": 0,
-        "strasse": "Hummelweg 10",
+        "strasse": "Fischhausstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Volkswirtschaftslehre",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kommunikationswissenschaften",
                 "fsem": 9
             },
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Geschichte",
-                "fsem": 4
-            },
-            {
                 "abschluss": "",
-                "fach": "Sozialwissenschaften",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "fach": "Skandinavistik",
+                "fsem": 9
             }
         ],
-        "vorname": "G\u00fclsen",
-        "weiblich": true
+        "vorname": "Dominic",
+        "weiblich": false
     }
 }

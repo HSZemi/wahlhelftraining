@@ -1,31 +1,56 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2394726,
+    "nummer": 2343435,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "27.10.1996",
-        "matrikelnummer": 2532558,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "20.12.1993",
+        "matrikelnummer": 2371136,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kammerer",
-        "plzort": "24619 Bornh\u00f6ved",
+        "nachname": "K\u00fcck",
+        "plzort": "54570 Weidenbach",
         "sternchen": 0,
-        "strasse": "Burgenlandstra\u00dfe 1",
+        "strasse": "Pelzm\u00fchlweg 14",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 4
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Informatik",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Englisch",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Caroline",
+        "vorname": "Leila",
         "weiblich": true
     }
 }

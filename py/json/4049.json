@@ -1,36 +1,46 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2825491,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1087233,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 5,
-        "geburtsdatum": "25.08.1992",
-        "matrikelnummer": 3171184,
-        "mehrfachausfertigung": 3,
+        "geburtsdatum": "17.01.1999",
+        "matrikelnummer": 2298864,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00e4mpf",
-        "plzort": "53181 Bonn",
+        "nachname": "Pietschmann",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Steigerweg 0",
+        "strasse": "Friedrich Wilhelm Raiffeisen-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "\u00c4gyptologie",
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
                 "fsem": 11
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 7
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 11
             }
         ],
-        "vorname": "Tommy",
+        "vorname": "Aloisius",
         "weiblich": false
     }
 }

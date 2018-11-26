@@ -1,33 +1,28 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1788038,
+    "nummer": 2069556,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "24.12.1988",
-        "matrikelnummer": 2405506,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "16.10.1997",
+        "matrikelnummer": 112983,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "25821 S\u00f6nneb\u00fcll",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Zeisel Neuri\u00df 37",
+        "strasse": "Satzweing\u00e4rten 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "S\u00fcdostasienwissenschaft",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Medienkommunikation",
-                "fsem": 8
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 11
             }
         ],
         "vorname": "Marcel",

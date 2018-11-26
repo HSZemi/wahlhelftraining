@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1733362,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1944602,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "13.12.1995",
-        "matrikelnummer": 2263014,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "28.12.1992",
+        "matrikelnummer": 3067967,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Christ",
-        "plzort": "48268 Greven",
+        "nachname": "Mayer",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "H\u00f6fnageleck 0b",
+        "strasse": "Celsiusplatz 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 4
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Diethelm",
+        "vorname": "Wigand",
         "weiblich": false
     }
 }

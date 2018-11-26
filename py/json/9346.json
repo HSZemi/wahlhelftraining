@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1844795,
-    "semester": "Sommersemester 2017",
+    "nummer": 1605617,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.01.1999",
-        "matrikelnummer": 163969,
+        "fakultaet": 1,
+        "geburtsdatum": "05.01.1996",
+        "matrikelnummer": 194468,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaul",
-        "plzort": "53153 Bonn",
+        "nachname": "Kirchhof",
+        "plzort": "14778 Beetzsee",
         "sternchen": 0,
-        "strasse": "Struppener Stra\u00dfe 18",
+        "strasse": "Jokohamabr\u00fccke 2b",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Medizinische Neurowissenschaften",
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
                 "fsem": 4
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Kulturanthropologie/Volkskunde",
-                "fsem": 10
             }
         ],
-        "vorname": "Ferdi",
+        "vorname": "Ekhard",
         "weiblich": false
     }
 }

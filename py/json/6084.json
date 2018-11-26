@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1958585,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1795334,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.03.1999",
-        "matrikelnummer": 120911,
+        "fakultaet": 3,
+        "geburtsdatum": "24.04.1990",
+        "matrikelnummer": 2389647,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jauch",
-        "plzort": "53205 Bonn",
+        "nachname": "Schneider",
+        "plzort": "53183 Bonn",
         "sternchen": 0,
-        "strasse": "Hainer Weg 7",
+        "strasse": "Vollsackstra\u00dfe 36",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 7
             }
         ],
-        "vorname": "Knuth",
-        "weiblich": false
+        "vorname": "Silke",
+        "weiblich": true
     }
 }

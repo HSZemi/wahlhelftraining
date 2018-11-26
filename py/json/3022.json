@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2609073,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2568307,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "14.02.1989",
-        "matrikelnummer": 17148,
-        "mehrfachausfertigung": 2,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Danner",
-        "plzort": "24619 Tarbek",
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "20.04.1998",
+        "matrikelnummer": 2944473,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Emde",
+        "plzort": "06686 Starsiedel",
         "sternchen": 0,
-        "strasse": "St.-Wolfgang-Platz 27",
+        "strasse": "Zwickauer Platz 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Zahnmedizin",
-                "fsem": 6
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 2
             }
         ],
-        "vorname": "Sieglind",
-        "weiblich": true
+        "vorname": "Lenard",
+        "weiblich": false
     }
 }

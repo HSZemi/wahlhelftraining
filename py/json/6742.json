@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 2012801,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2602817,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "10.01.1994",
-        "matrikelnummer": 2420923,
+        "fakultaet": 8,
+        "geburtsdatum": "07.02.1993",
+        "matrikelnummer": 122012,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rautenberg",
-        "plzort": "53181 Bonn",
+        "nachname": "Heinemann",
+        "plzort": "06493 K\u00f6nigerode",
         "sternchen": 0,
-        "strasse": "Lugbergblick 17b",
+        "strasse": "Niersteiner Stra\u00dfe 1a",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 8
             }
         ],
-        "vorname": "Melanie",
-        "weiblich": true
+        "vorname": "Benno",
+        "weiblich": false
     }
 }

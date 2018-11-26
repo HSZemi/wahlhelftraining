@@ -4,38 +4,53 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1202725,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2092552,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
+        "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "07.12.1993",
-        "matrikelnummer": 3165703,
+        "geburtsdatum": "28.07.1990",
+        "matrikelnummer": 2701992,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Felber",
-        "plzort": "53125 Bonn",
+        "nachname": "Giesen",
+        "plzort": "53129 Bonn",
         "sternchen": 0,
-        "strasse": "Am Horner Moor 21",
+        "strasse": "Gruneliusstra\u00dfe 12",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 8
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 10
             },
             {
                 "abschluss": "",
-                "fach": "Agrarwissenschaft",
-                "fsem": 8
+                "fach": "Mathematik",
+                "fsem": 10
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "fsem": 10
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Winand",
-        "weiblich": false
+        "vorname": "Magret",
+        "weiblich": true
     }
 }

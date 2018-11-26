@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1677455,
+    "nummer": 1809005,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "05.04.1990",
-        "matrikelnummer": 3164942,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "11.06.1995",
+        "matrikelnummer": 2407222,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6llner",
-        "plzort": "53119 Bonn",
+        "nachname": "Sch\u00e4dlich",
+        "plzort": "53166 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hutberg 1",
+        "strasse": "Am Sendelbach 7",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Magister Theologiae (ev.)",
                 "fach": "Evangelische Theologie",
-                "fsem": 7
+                "fsem": 4
             }
         ],
-        "vorname": "Willy",
-        "weiblich": false
+        "vorname": "Anne",
+        "weiblich": true
     }
 }

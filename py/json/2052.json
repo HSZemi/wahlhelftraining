@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2271316,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2023194,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "13.02.1992",
-        "matrikelnummer": 137132,
+        "fakultaet": 6,
+        "geburtsdatum": "14.01.1989",
+        "matrikelnummer": 3179845,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00fcttner",
-        "plzort": "53222 Bonn",
+        "nachname": "D\u00f6ll",
+        "plzort": "53136 Bonn",
         "sternchen": 0,
-        "strasse": "Kurhausstra\u00dfe 3",
+        "strasse": "Joseph Haydn-Platz 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 7
+                "abschluss": "Bachelor of Science",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 5
             }
         ],
-        "vorname": "Gotthardt",
-        "weiblich": false
+        "vorname": "Arlinde",
+        "weiblich": true
     }
 }

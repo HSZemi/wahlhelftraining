@@ -1,28 +1,33 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2500618,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2232953,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "09.07.1999",
-        "matrikelnummer": 159819,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 9,
+        "geburtsdatum": "19.03.1995",
+        "matrikelnummer": 193839,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53184 Bonn",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Georg-Starcke-Weg 10",
+        "strasse": "Erste Stadtdeichbr\u00fccke 22",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Klinische Immunologie",
+                "fsem": 1
             }
         ],
         "vorname": "Marcel",

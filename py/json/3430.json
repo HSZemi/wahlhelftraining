@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2101975,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1270416,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.10.1997",
-        "matrikelnummer": 17211,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "07.07.1990",
+        "matrikelnummer": 3179500,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Michl",
-        "plzort": "53138 Bonn",
+        "nachname": "Clau\u00df",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Gerolsteiner Stra\u00dfe 3",
+        "strasse": "Treustr. 3",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Ferdinand",
+        "vorname": "Ingolf",
         "weiblich": false
     }
 }

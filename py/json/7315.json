@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1061395,
-    "semester": "Sommersemester 2017",
+    "nummer": 2722685,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "24.09.1998",
-        "matrikelnummer": 2288600,
+        "fakultaet": 6,
+        "geburtsdatum": "17.04.1994",
+        "matrikelnummer": 2756594,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heidenreich",
-        "plzort": "56370 Bremberg",
+        "nachname": "Putz",
+        "plzort": "53173 Bonn",
         "sternchen": 0,
-        "strasse": "Kuhm\u00fchlenbr\u00fccke 2",
+        "strasse": "Grenadierplatzl 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Indologie",
-                "fsem": 11
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 8
             }
         ],
-        "vorname": "Ambros",
-        "weiblich": false
+        "vorname": "Roselind",
+        "weiblich": true
     }
 }

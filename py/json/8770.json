@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1213194,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2987929,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "19.10.1995",
-        "matrikelnummer": 2506360,
+        "geburtsdatum": "19.10.1990",
+        "matrikelnummer": 2387838,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Henze",
-        "plzort": "53206 Bonn",
+        "nachname": "Wolfrum",
+        "plzort": "53135 Bonn",
         "sternchen": 0,
-        "strasse": "Buchheimer Ring 2",
+        "strasse": "Lister Weg 32",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Molecular Biology and Biotechnology",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Physik",
+                "fsem": 11
             }
         ],
-        "vorname": "Elfriede",
+        "vorname": "Margarita",
         "weiblich": true
     }
 }

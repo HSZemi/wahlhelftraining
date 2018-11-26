@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1456414,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1220655,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "18.04.1992",
-        "matrikelnummer": 3103344,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "09.05.1999",
+        "matrikelnummer": 2490060,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haak",
-        "plzort": "53170 Bonn",
+        "nachname": "Fix",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "Gro\u00dfh\u00f6flein 12",
+        "strasse": "Arzberger Str. 12",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Musikwissenschaft",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Kunstgeschichte und Arch\u00e4ologie",
                 "fsem": 8
             }
         ],
-        "vorname": "Robert",
+        "vorname": "Helmuth",
         "weiblich": false
     }
 }

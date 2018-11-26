@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1566941,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1611369,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.07.1992",
-        "matrikelnummer": 18164,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 4,
+        "geburtsdatum": "15.12.1995",
+        "matrikelnummer": 3070006,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gehlen",
-        "plzort": "53216 Bonn",
+        "nachname": "Horstmann",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Zehntgasse 1",
+        "strasse": "Rudolf-Dittrich-Stra\u00dfe 1",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 4
+                "fach": "Neurosciences",
+                "fsem": 12
             }
         ],
-        "vorname": "Otthein",
-        "weiblich": false
+        "vorname": "Hildegart",
+        "weiblich": true
     }
 }

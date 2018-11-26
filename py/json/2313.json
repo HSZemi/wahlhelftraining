@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2373307,
+    "nummer": 1048013,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "09.05.1990",
-        "matrikelnummer": 2242080,
+        "fakultaet": 4,
+        "geburtsdatum": "14.12.1992",
+        "matrikelnummer": 1978369,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Baumg\u00e4rtel",
-        "plzort": "53220 Bonn",
+        "nachname": "Westhoff",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Johannes-Lamp-Stra\u00dfe 25",
+        "strasse": "Ferdinandstor 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Pharmazie",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 5
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Gloria",
-        "weiblich": true
+        "vorname": "Winfried",
+        "weiblich": false
     }
 }

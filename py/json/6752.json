@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2863230,
-    "semester": "Sommersemester 2017",
+    "nummer": 2916765,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.11.1987",
-        "matrikelnummer": 1994846,
+        "fakultaet": 5,
+        "geburtsdatum": "10.12.1996",
+        "matrikelnummer": 3119622,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reusch",
-        "plzort": "99438 Buchfart",
+        "nachname": "Moos",
+        "plzort": "53198 Bonn",
         "sternchen": 0,
-        "strasse": "Im Sperber 0b",
+        "strasse": "Dortmunderstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Hispanistik",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "S\u00fcdostasienwissenschaft",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Rolf",
-        "weiblich": false
+        "vorname": "Rilana",
+        "weiblich": true
     }
 }

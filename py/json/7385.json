@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2107259,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2106312,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "22.11.1997",
-        "matrikelnummer": 3151658,
+        "fakultaet": 8,
+        "geburtsdatum": "22.07.1985",
+        "matrikelnummer": 14794,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Laufer",
-        "plzort": "53168 Bonn",
+        "nachname": "Doll",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Saarstra\u00dfe 30",
+        "strasse": "Bauhofstra\u00dfe 11",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Odilo",
+        "vorname": "Wedig",
         "weiblich": false
     }
 }

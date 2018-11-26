@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1463369,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2374378,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "21.01.1993",
-        "matrikelnummer": 3076994,
+        "ausweistyp": "weiterbildung",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "09.11.1989",
+        "matrikelnummer": 2442076,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Moll",
-        "plzort": "53198 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hiller",
+        "plzort": "65594 Runkel",
         "sternchen": 0,
-        "strasse": "Pr\u00e4lat-Meixner-Platz 2",
+        "strasse": "Villacher Stra\u00dfe 15",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 4
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 7
             }
         ],
-        "vorname": "Max",
+        "vorname": "Tiemo",
         "weiblich": false
     }
 }

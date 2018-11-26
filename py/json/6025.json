@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 1019768,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2391108,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "14.02.1999",
-        "matrikelnummer": 2302958,
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "08.02.1994",
+        "matrikelnummer": 2002348,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schulze",
-        "plzort": "52064 Aachen",
+        "nachname": "Busse",
+        "plzort": "53216 Bonn",
         "sternchen": 0,
-        "strasse": "Williamstra\u00dfe 7",
+        "strasse": "Im Wiesengrund 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Laws",
-                "fach": "Law and Economics",
-                "fsem": 11
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Geod\u00e4sie und Geoinformation",
+                "fsem": 8
             }
         ],
-        "vorname": "Hanne-Lore",
+        "vorname": "Adolfa",
         "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1811717,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2405864,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
+        "beurlaubt": true,
         "fakultaet": 6,
-        "geburtsdatum": "01.03.1989",
-        "matrikelnummer": 2690136,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "01.05.1996",
+        "matrikelnummer": 2310329,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Klemm",
-        "plzort": "53160 Bonn",
+        "nachname": "Hepp",
+        "plzort": "23923 L\u00fcdersdorf",
         "sternchen": 0,
-        "strasse": "B\u00f6nst\u00e4dter Stra\u00dfe 3",
+        "strasse": "Basaltstra\u00dfe 10",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
                 "fach": "Geographie",
-                "fsem": 5
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 3
+                "fsem": 8
             }
         ],
-        "vorname": "Ellengard",
-        "weiblich": true
+        "vorname": "Ferdinand",
+        "weiblich": false
     }
 }

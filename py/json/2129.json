@@ -2,35 +2,30 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 2026723,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2870077,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "06.04.1994",
-        "matrikelnummer": 2234142,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "28.03.1997",
+        "matrikelnummer": 2098511,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hundt",
-        "plzort": "53141 Bonn",
+        "nachname": "St\u00f6cker",
+        "plzort": "53225 Bonn",
         "sternchen": 0,
-        "strasse": "Strehlener Stra\u00dfe 22",
+        "strasse": "Johann Kodatsch-Stra\u00dfe 20",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Meteorologie",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
             }
         ],
-        "vorname": "Inga",
-        "weiblich": true
+        "vorname": "Benjamin",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2223346,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2046499,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "08.03.1987",
-        "matrikelnummer": 2067765,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 9,
+        "geburtsdatum": "10.03.1990",
+        "matrikelnummer": 2032405,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Harrer",
-        "plzort": "53118 Bonn",
+        "nachname": "Stocker",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Stettenstra\u00dfe 5",
+        "strasse": "Fersenfeldtsweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Master of Laws",
+                "fach": "Deutsches Recht",
+                "fsem": 5
             }
         ],
-        "vorname": "Lisl",
-        "weiblich": true
+        "vorname": "Bartold",
+        "weiblich": false
     }
 }

@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2261547,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2477434,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.03.1994",
-        "matrikelnummer": 2551335,
+        "fakultaet": 4,
+        "geburtsdatum": "18.01.1995",
+        "matrikelnummer": 15989,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Emde",
-        "plzort": "53118 Bonn",
+        "nachname": "Sieben",
+        "plzort": "74336 Brackenheim",
         "sternchen": 0,
-        "strasse": "Vollsackstra\u00dfe 5",
+        "strasse": "Grunaer Weg 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Deutsch als Zweit- und Fremdsprache",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Skandinavistik",
-                "fsem": 4
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 11
             }
         ],
-        "vorname": "Katalin",
+        "vorname": "Liselore",
         "weiblich": true
     }
 }

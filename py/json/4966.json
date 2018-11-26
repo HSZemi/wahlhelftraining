@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2442937,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1690154,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "10.12.1991",
-        "matrikelnummer": 2922734,
+        "fakultaet": 1,
+        "geburtsdatum": "07.10.1999",
+        "matrikelnummer": 2409470,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Haller",
-        "plzort": "53116 Bonn",
+        "nachname": "Arnold",
+        "plzort": "53130 Bonn",
         "sternchen": 0,
-        "strasse": "Hertogestra\u00dfe 6",
+        "strasse": "T\u00f6plitzstra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Othmar",
+        "vorname": "Helfrid",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1380823,
-    "semester": "Sommersemester 2017",
+    "nummer": 2615154,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "18.10.1988",
-        "matrikelnummer": 2335817,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "12.12.1992",
+        "matrikelnummer": 2976832,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Harnisch",
-        "plzort": "53203 Bonn",
+        "nachname": "H\u00e4gele",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Scheunenhofstra\u00dfe 9",
+        "strasse": "Hantzschstra\u00dfe 17",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 8
             }
         ],
-        "vorname": "Christhild",
-        "weiblich": true
+        "vorname": "Falkhard",
+        "weiblich": false
     }
 }

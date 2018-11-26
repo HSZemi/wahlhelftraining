@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2702988,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2720294,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "23.01.1992",
-        "matrikelnummer": 192704,
+        "fakultaet": 1,
+        "geburtsdatum": "23.07.1994",
+        "matrikelnummer": 2593244,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Sch\u00e4dlich",
-        "plzort": "56271 Ro\u00dfbach",
+        "nachname": "Huhn",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Salzgrabenweg 18",
+        "strasse": "Am Madberg 3",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Agrarwissenschaften",
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
                 "fsem": 9
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 1
             }
         ],
-        "vorname": "Henri",
-        "weiblich": true
+        "vorname": "Silvio",
+        "weiblich": false
     }
 }

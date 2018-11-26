@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1222637,
+    "nummer": 1496905,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "16.07.1999",
-        "matrikelnummer": 2697043,
+        "fakultaet": 5,
+        "geburtsdatum": "11.02.1993",
+        "matrikelnummer": 12906,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pfeuffer",
-        "plzort": "53149 Bonn",
+        "nachname": "Baumert",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Schilfweg 4",
+        "strasse": "Lochnerstra\u00dfe 4",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 10
+                "fach": "Germanistik",
+                "fsem": 9
             },
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 2
+                "abschluss": "",
+                "fach": "Sprachliche Kommunikation",
+                "fsem": 9
             }
         ],
-        "vorname": "Waltrude",
+        "vorname": "Lidija",
         "weiblich": true
     }
 }

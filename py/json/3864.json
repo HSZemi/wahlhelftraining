@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2721603,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2114799,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 2,
-        "geburtsdatum": "16.05.1996",
-        "matrikelnummer": 2622801,
+        "geburtsdatum": "02.09.1995",
+        "matrikelnummer": 2035144,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bayer",
-        "plzort": "53217 Bonn",
+        "nachname": "Windisch",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Chateauneufstra\u00dfe 3c",
+        "strasse": "Josef Stanislaus Albach-Gasse 6",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 8
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 3
             }
         ],
-        "vorname": "Hannspeter",
-        "weiblich": false
+        "vorname": "Ingemarie",
+        "weiblich": true
     }
 }

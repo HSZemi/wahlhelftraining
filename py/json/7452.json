@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1180526,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2473481,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 6,
-        "geburtsdatum": "10.12.1991",
-        "matrikelnummer": 2116075,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "06.08.1998",
+        "matrikelnummer": 2863039,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Br\u00f6ker",
-        "plzort": "53201 Bonn",
+        "nachname": "Hake",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Fritz-Schulze-Stra\u00dfe 59",
+        "strasse": "Bergstr. 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 10
+                "abschluss": "Promotion",
+                "fach": "Physik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Christfriede",
-        "weiblich": true
+        "vorname": "Sigmut",
+        "weiblich": false
     }
 }

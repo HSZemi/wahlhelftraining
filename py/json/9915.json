@@ -2,30 +2,45 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2694988,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1177195,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "27.01.1996",
-        "matrikelnummer": 2102808,
+        "fakultaet": 5,
+        "geburtsdatum": "12.03.1997",
+        "matrikelnummer": 2600362,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Daniels",
-        "plzort": "53192 Bonn",
+        "nachname": "Rohde",
+        "plzort": "59227 Ahlen",
         "sternchen": 0,
-        "strasse": "Gartenstra\u00dfe 10",
+        "strasse": "Hermann-Brill-Stra\u00dfe 28",
         "studienfaecher": [
             {
                 "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 9
+                "fach": "Rechtspsychologie",
+                "fsem": 5
+            },
+            {
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Englisch",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Chemie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Sigfrid",
-        "weiblich": false
+        "vorname": "Sophia",
+        "weiblich": true
     }
 }

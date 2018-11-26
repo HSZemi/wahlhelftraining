@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2038250,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2720701,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "25.11.1992",
-        "matrikelnummer": 2025174,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Wegmann",
-        "plzort": "53157 Bonn",
+        "fakultaet": 0,
+        "geburtsdatum": "28.06.1996",
+        "matrikelnummer": 3103735,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Unruh",
+        "plzort": "06618 Utenbach",
         "sternchen": 0,
-        "strasse": "Burgstra\u00dfe 5",
+        "strasse": "Egenolffstra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "abschluss": "Master of Arts",
+                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Antonia",
+        "vorname": "Jolanthe",
         "weiblich": true
     }
 }

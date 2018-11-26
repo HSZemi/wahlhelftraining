@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1489343,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1334110,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.11.1992",
-        "matrikelnummer": 3177542,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 8,
+        "geburtsdatum": "11.01.1990",
+        "matrikelnummer": 167337,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fritzsche",
-        "plzort": "89250 Senden",
+        "nachname": "Pauli",
+        "plzort": "53210 Bonn",
         "sternchen": 0,
-        "strasse": "Am Bundleshof 2",
+        "strasse": "Semmelweisgasse 30",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Informatik",
                 "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Katholische Religionslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Edelhard",
+        "vorname": "Arno",
         "weiblich": false
     }
 }

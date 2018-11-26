@@ -1,36 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1521283,
+    "nummer": 1695153,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.03.1999",
-        "matrikelnummer": 2173889,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "14.08.1987",
+        "matrikelnummer": 2732855,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Alles",
-        "plzort": "25885 Wester-Ohrstedt",
+        "nachname": "Sobotta",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Oberaltenallee 14",
+        "strasse": "Am Anger 28e",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 1
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 8
             },
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 2
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Chemie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Mathematik",
+                "fsem": 7
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 7
             }
         ],
-        "vorname": "Hulda",
-        "weiblich": true
+        "vorname": "Volker",
+        "weiblich": false
     }
 }

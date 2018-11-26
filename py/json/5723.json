@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1339539,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1053271,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.02.1991",
-        "matrikelnummer": 2100696,
+        "fakultaet": 4,
+        "geburtsdatum": "04.05.1994",
+        "matrikelnummer": 2693113,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Schimmelpfennig",
-        "plzort": "53142 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Palm",
+        "plzort": "85053 Ingolstadt",
         "sternchen": 0,
-        "strasse": "Paracelsusstra\u00dfe 7",
+        "strasse": "Alfred-Thiele-Stra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
-                "fsem": 6
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Regelindis",
-        "weiblich": true
+        "vorname": "Egomar",
+        "weiblich": false
     }
 }

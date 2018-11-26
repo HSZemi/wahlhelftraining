@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1117461,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1943393,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 9,
-        "geburtsdatum": "01.10.1995",
-        "matrikelnummer": 1922817,
+        "geburtsdatum": "28.10.1996",
+        "matrikelnummer": 2294866,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "J\u00fcrgens",
-        "plzort": "53207 Bonn",
+        "nachname": "Weiland",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Hosaeusweg 0",
+        "strasse": "Ke\u00dflerstr. 22",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
+                "abschluss": "Bachelor of Science",
                 "fach": "Volkswirtschaftslehre",
-                "fsem": 1
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 1
+                "fsem": 3
             }
         ],
-        "vorname": "Hansgeorg",
+        "vorname": "Benedict",
         "weiblich": false
     }
 }

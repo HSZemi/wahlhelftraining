@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1253402,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2995055,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "28.11.1989",
-        "matrikelnummer": 13917,
+        "fakultaet": 5,
+        "geburtsdatum": "24.03.1991",
+        "matrikelnummer": 1952741,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Emrich",
-        "plzort": "49406 Eydelstedt",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Hildebrand",
+        "plzort": "53201 Bonn",
         "sternchen": 0,
-        "strasse": "Pr\u00f6benweg 23d",
+        "strasse": "Berliner Tor 0",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 1
+                "abschluss": "Master of Arts",
+                "fach": "Klassische Arch\u00e4ologie",
+                "fsem": 4
+            },
+            {
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 5
             }
         ],
-        "vorname": "Arzu",
-        "weiblich": true
+        "vorname": "Treufried",
+        "weiblich": false
     }
 }

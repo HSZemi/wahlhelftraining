@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2117197,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2164245,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "16.07.1994",
-        "matrikelnummer": 174001,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "08.02.1987",
+        "matrikelnummer": 3147714,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmelzer",
-        "plzort": "53164 Bonn",
+        "nachname": "Nicolai",
+        "plzort": "67271 Obers\u00fclzen",
         "sternchen": 0,
-        "strasse": "Hollkoppelweg 9",
+        "strasse": "Ignaz Till-Stra\u00dfe 31",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 4
-            },
-            {
                 "abschluss": "Promotion",
-                "fach": "Soziologie",
+                "fach": "Entwicklungsforschung",
                 "fsem": 8
             }
         ],
-        "vorname": "Loremarie",
+        "vorname": "Irene",
         "weiblich": true
     }
 }

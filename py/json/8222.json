@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2989342,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1621664,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "24.05.1999",
-        "matrikelnummer": 2811883,
+        "fakultaet": 4,
+        "geburtsdatum": "28.02.1996",
+        "matrikelnummer": 1903956,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Feige",
-        "plzort": "53155 Bonn",
+        "nachname": "Wessel",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "K\u00f6nigsteinstra\u00dfe 2",
+        "strasse": "Hermann-Schmitt-Platz 23",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Master",
-                "fach": "Klinische Medizintechnik",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 11
             }
         ],
-        "vorname": "Rupprecht",
+        "vorname": "Klauspeter",
         "weiblich": false
     }
 }

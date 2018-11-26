@@ -2,30 +2,40 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2331363,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2479380,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "01.04.1994",
-        "matrikelnummer": 2771361,
+        "fakultaet": 8,
+        "geburtsdatum": "06.04.1993",
+        "matrikelnummer": 1960762,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Muth",
-        "plzort": "53202 Bonn",
+        "nachname": "Hartl",
+        "plzort": "92703 Krummennaab",
         "sternchen": 0,
-        "strasse": "Hallg\u00e4\u00dfchen 2",
+        "strasse": "Johann-Halske-Allee 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 10
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 6
             }
         ],
-        "vorname": "Mania",
-        "weiblich": true
+        "vorname": "Altfried",
+        "weiblich": false
     }
 }

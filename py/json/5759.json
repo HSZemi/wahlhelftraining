@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2499894,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2972055,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "19.07.1990",
-        "matrikelnummer": 125844,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "13.09.1990",
+        "matrikelnummer": 15316,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00f6gel",
-        "plzort": "91586 Lichtenau",
+        "nachname": "Seidel",
+        "plzort": "53229 Bonn",
         "sternchen": 0,
-        "strasse": "Simon-Ochs-Stra\u00dfe 3",
+        "strasse": "Erhard-Dressel-Bogen 4",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 10
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Hildegardt",
-        "weiblich": true
+        "vorname": "Hildebrand",
+        "weiblich": false
     }
 }

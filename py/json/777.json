@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1873963,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2161891,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "01.02.1998",
-        "matrikelnummer": 2985964,
+        "fakultaet": 4,
+        "geburtsdatum": "08.01.1999",
+        "matrikelnummer": 2291189,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6fler",
-        "plzort": "97232 Giebelstadt",
+        "nachname": "G\u00f6rtz",
+        "plzort": "53127 Bonn",
         "sternchen": 0,
-        "strasse": "Altmockritz 3",
+        "strasse": "Hans-Kobald-Weg 2",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 1
             }
         ],
-        "vorname": "Gertwin",
+        "vorname": "Benedict",
         "weiblich": false
     }
 }

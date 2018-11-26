@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1506560,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1404847,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "24.10.1987",
-        "matrikelnummer": 1945912,
+        "fakultaet": 6,
+        "geburtsdatum": "03.11.1998",
+        "matrikelnummer": 14265,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Block",
-        "plzort": "44649 Herne",
+        "nachname": "Kettner",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "Sechslingspforte 9",
+        "strasse": "Zur Steinh\u00f6he 4",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 11
+                "abschluss": "Master of Science",
+                "fach": "Computer Science",
+                "fsem": 7
             }
         ],
-        "vorname": "Gitte",
+        "vorname": "Gloria",
         "weiblich": true
     }
 }

@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1923513,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1850771,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "16.09.1995",
-        "matrikelnummer": 2210005,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 1,
+        "geburtsdatum": "07.09.1999",
+        "matrikelnummer": 190251,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hinkel",
-        "plzort": "53171 Bonn",
+        "nachname": "Krafft",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlengrundweg 17",
+        "strasse": "Dunantstr. 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 4
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Deutsch-Italienische Studien",
-                "fsem": 2
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Dankward",
-        "weiblich": false
+        "vorname": "Wiltraud",
+        "weiblich": true
     }
 }

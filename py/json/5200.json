@@ -1,36 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2129710,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1742956,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "14.04.1995",
-        "matrikelnummer": 2417977,
+        "fakultaet": 7,
+        "geburtsdatum": "09.04.1992",
+        "matrikelnummer": 3128265,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinze",
-        "plzort": "53188 Bonn",
+        "nachname": "Habermann",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "Gebr\u00fcder-Grimm-Weg 10",
+        "strasse": "Heydenreichweg 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 5
+                "abschluss": "Master of Science",
+                "fach": "Agricultural Science and Resource-Management in the Tropics and Subtropics",
+                "fsem": 7
             },
             {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "fach": "Ern\u00e4hrungs- u. Haushaltswissenschaft",
+                "fsem": 12
             }
         ],
-        "vorname": "Runald",
-        "weiblich": false
+        "vorname": "Reinburga",
+        "weiblich": true
     }
 }

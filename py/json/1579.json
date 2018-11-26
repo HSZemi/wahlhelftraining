@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1972962,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2125433,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "28.08.1993",
-        "matrikelnummer": 2478989,
+        "fakultaet": 1,
+        "geburtsdatum": "15.06.1995",
+        "matrikelnummer": 2327716,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reichenbach",
-        "plzort": "53142 Bonn",
+        "nachname": "Klink",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Fliederberg 16",
+        "strasse": "N\u00fcrnberger Str. 3d",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 10
+                "abschluss": "Magister Theologiae (kath.)",
+                "fach": "Katholische Theologie",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Katholische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Dennis",
-        "weiblich": false
+        "vorname": "Josefa",
+        "weiblich": true
     }
 }

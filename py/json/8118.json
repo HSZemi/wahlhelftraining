@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2433605,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1619481,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "11.05.1993",
-        "matrikelnummer": 2543172,
+        "fakultaet": 5,
+        "geburtsdatum": "08.09.1993",
+        "matrikelnummer": 1911300,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Behringer",
-        "plzort": "84503 Alt\u00f6tting",
+        "nachname": "Baumg\u00e4rtner",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Perronstra\u00dfe 21",
+        "strasse": "Neunimptscher Stra\u00dfe 2d",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Leila",
+        "vorname": "Alicja",
         "weiblich": true
     }
 }

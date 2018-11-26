@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2836063,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2690939,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "12.05.1997",
-        "matrikelnummer": 2364591,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "24.11.1993",
+        "matrikelnummer": 3132029,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stengel",
-        "plzort": "53153 Bonn",
+        "nachname": "Kanzler",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Friedewalder Stra\u00dfe 3",
+        "strasse": "Drifft 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 4
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Timo",
+        "vorname": "Moritz",
         "weiblich": false
     }
 }

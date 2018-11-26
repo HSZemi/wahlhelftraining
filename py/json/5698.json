@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1887026,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2732509,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "28.11.1997",
-        "matrikelnummer": 150686,
+        "geburtsdatum": "24.07.1990",
+        "matrikelnummer": 2313983,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weitzel",
+        "nachname": "V\u00f6lker",
         "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Pfannm\u00fcllerstra\u00dfe 7",
+        "strasse": "Margarete-Steiff-Stra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
+                "fsem": 13
             }
         ],
-        "vorname": "Sigunde",
+        "vorname": "Reni",
         "weiblich": true
     }
 }

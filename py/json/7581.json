@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1406379,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2903897,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "01.05.1988",
-        "matrikelnummer": 189998,
+        "fakultaet": 0,
+        "geburtsdatum": "17.11.1991",
+        "matrikelnummer": 2309433,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Stemmler",
-        "plzort": "95505 Immenreuth",
+        "nachname": "Teschner",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Am Ebelfeld 3",
+        "strasse": "Geranienweg 7",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Chemie",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
                 "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Latein",
-                "fsem": 6
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 7
             }
         ],
-        "vorname": "Gerwald",
-        "weiblich": false
+        "vorname": "Harriet",
+        "weiblich": true
     }
 }

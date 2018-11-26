@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2528288,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2399644,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "15.10.1994",
-        "matrikelnummer": 2803664,
+        "fakultaet": 7,
+        "geburtsdatum": "15.11.1995",
+        "matrikelnummer": 183054,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Scholl",
-        "plzort": "53207 Bonn",
+        "nachname": "Bergner",
+        "plzort": "99869 Remst\u00e4dt",
         "sternchen": 0,
-        "strasse": "Steinmetzstra\u00dfe 15",
+        "strasse": "Rottwerndorfer Stra\u00dfe 0",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "fach": "Geod\u00e4sie und Geoinformation",
                 "fsem": 3
             }
         ],
-        "vorname": "Gotthart",
+        "vorname": "Harri",
         "weiblich": false
     }
 }

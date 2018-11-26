@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1190363,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2495782,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "26.03.1995",
-        "matrikelnummer": 2628539,
+        "fakultaet": 4,
+        "geburtsdatum": "03.11.1993",
+        "matrikelnummer": 157717,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Risch",
-        "plzort": "53183 Bonn",
+        "nachname": "Dr\u00e4ger",
+        "plzort": "53152 Bonn",
         "sternchen": 0,
-        "strasse": "Stargarder Stra\u00dfe 7",
+        "strasse": "Zum Seeblick 18",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Informatik",
-                "fsem": 8
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 9
             },
             {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 8
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 8
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Zahnmedizin",
+                "fsem": 9
             }
         ],
-        "vorname": "Burkardt",
+        "vorname": "Leopold",
         "weiblich": false
     }
 }

@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2363767,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1343065,
+    "semester": "Sommersemester 2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "19.06.1999",
-        "matrikelnummer": 2532096,
+        "fakultaet": 8,
+        "geburtsdatum": "10.04.1986",
+        "matrikelnummer": 2136012,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pietsch",
-        "plzort": "53144 Bonn",
+        "nachname": "Hommel",
+        "plzort": "53228 Bonn",
         "sternchen": 0,
-        "strasse": "Alfredstra\u00dfe 1",
+        "strasse": "Untere Seelgasse 11",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 11
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Markt und Konsum",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Roberto",
-        "weiblich": false
+        "vorname": "Nikola",
+        "weiblich": true
     }
 }

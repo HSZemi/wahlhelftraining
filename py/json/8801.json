@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1578609,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2183663,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.04.1990",
-        "matrikelnummer": 190833,
+        "fakultaet": 4,
+        "geburtsdatum": "11.02.1994",
+        "matrikelnummer": 1915762,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ried",
-        "plzort": "53225 Bonn",
+        "nachname": "Weis",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Hartmannstr. 4",
+        "strasse": "In der Fuchskaut 3",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Master",
-                "fach": "European Studies - Governance and Regulation",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 7
             }
         ],
-        "vorname": "Dorlis",
-        "weiblich": true
+        "vorname": "Sieghardt",
+        "weiblich": false
     }
 }

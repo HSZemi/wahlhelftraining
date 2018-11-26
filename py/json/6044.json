@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1515618,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1032777,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "03.05.1994",
-        "matrikelnummer": 2919900,
+        "fakultaet": 5,
+        "geburtsdatum": "10.01.1999",
+        "matrikelnummer": 195709,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kappel",
-        "plzort": "53161 Bonn",
+        "nachname": "Rauch",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Erikaweg 8d",
+        "strasse": "Tomandlried 13",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
+                "fach": "Deutsch-Italienische Studien",
+                "fsem": 11
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
                 "fsem": 11
             }
         ],
-        "vorname": "Irmengard",
-        "weiblich": true
+        "vorname": "Friedhold",
+        "weiblich": false
     }
 }

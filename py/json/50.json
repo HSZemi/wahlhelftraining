@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1304580,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2604357,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "27.11.1988",
-        "matrikelnummer": 2859972,
+        "fakultaet": 3,
+        "geburtsdatum": "15.10.1996",
+        "matrikelnummer": 2915597,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "92442 Wackersdorf",
+        "nachname": "Heinen",
+        "plzort": "53207 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fchlweg 2a",
+        "strasse": "Walldorfer Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Staatsex.",
+                "fach": "Rechtswissenschaft",
+                "fsem": 4
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

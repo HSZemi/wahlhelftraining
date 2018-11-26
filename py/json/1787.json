@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1970384,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1210574,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "11.08.1992",
-        "matrikelnummer": 2778065,
+        "fakultaet": 7,
+        "geburtsdatum": "18.03.1992",
+        "matrikelnummer": 2718031,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kullmann",
-        "plzort": "53153 Bonn",
+        "nachname": "Baier",
+        "plzort": "49324 Melle",
         "sternchen": 0,
-        "strasse": "Weidegasse 4",
+        "strasse": "Ackermannstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Alt-Katholische und \u00d6kumenische Theologie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Ernaehrungswiss.",
+                "fsem": 13
             }
         ],
-        "vorname": "Monique",
-        "weiblich": true
+        "vorname": "Tiburtius",
+        "weiblich": false
     }
 }

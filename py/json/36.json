@@ -1,28 +1,33 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1825767,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1310165,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "22.05.1993",
-        "matrikelnummer": 15365,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "04.01.1991",
+        "matrikelnummer": 2836260,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Heinen",
-        "plzort": "53216 Bonn",
+        "plzort": "99326 Ilmtal",
         "sternchen": 0,
-        "strasse": "Johann Nepomuk-Fuchs-Gasse 12d",
+        "strasse": "Wichheimer Stra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 2
             }
         ],
         "vorname": "Marcel",

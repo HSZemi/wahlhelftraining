@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1415920,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1076214,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "05.10.1986",
-        "matrikelnummer": 2002879,
+        "fakultaet": 4,
+        "geburtsdatum": "06.02.1999",
+        "matrikelnummer": 3170199,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcper",
-        "plzort": "53134 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Kistner",
+        "plzort": "53131 Bonn",
         "sternchen": 0,
-        "strasse": "Bauerberg 17",
+        "strasse": "Hohend\u00f6lzschener Stra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
-                "fsem": 13
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 10
             }
         ],
-        "vorname": "Gunhard",
+        "vorname": "Florentin",
         "weiblich": false
     }
 }

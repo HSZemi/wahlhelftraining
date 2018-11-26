@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2236820,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2286967,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "01.02.1993",
-        "matrikelnummer": 3088734,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "20.10.1997",
+        "matrikelnummer": 2928462,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fritze",
-        "plzort": "53139 Bonn",
+        "nachname": "Rickert",
+        "plzort": "53197 Bonn",
         "sternchen": 0,
-        "strasse": "Oskar-Maune-Stra\u00dfe 2a",
+        "strasse": "Kiefernstra\u00dfe 4d",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 7
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 2
             }
         ],
-        "vorname": "Bernold",
+        "vorname": "Tiburtius",
         "weiblich": false
     }
 }

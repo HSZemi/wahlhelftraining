@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2553785,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1349018,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.02.1991",
-        "matrikelnummer": 3105695,
-        "mehrfachausfertigung": 3,
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "28.10.1993",
+        "matrikelnummer": 2636272,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53151 Bonn",
+        "nachname": "Heinen",
+        "plzort": "91236 Alfeld",
         "sternchen": 0,
-        "strasse": "Mesmerstra\u00dfe 22",
+        "strasse": "Galvanistra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "abschluss": "Promotion",
+                "fach": "Molekulare Biomedizin",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 11
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

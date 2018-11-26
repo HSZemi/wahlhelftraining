@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2547502,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1312118,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "25.03.1989",
-        "matrikelnummer": 2940914,
+        "fakultaet": 9,
+        "geburtsdatum": "08.02.1992",
+        "matrikelnummer": 2834330,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Witte",
-        "plzort": "53153 Bonn",
+        "nachname": "Knopf",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Kinzigstra\u00dfe 8",
+        "strasse": "Wincklerstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 13
             }
         ],
-        "vorname": "Bodo",
+        "vorname": "Klemens",
         "weiblich": false
     }
 }

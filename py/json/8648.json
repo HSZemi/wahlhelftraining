@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1408744,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2443374,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "13.12.1987",
-        "matrikelnummer": 2907862,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "18.02.1987",
+        "matrikelnummer": 2713268,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Martens",
-        "plzort": "29416 Pretzier",
+        "nachname": "Pohlmann",
+        "plzort": "53221 Bonn",
         "sternchen": 0,
-        "strasse": "Horner Weg 9",
+        "strasse": "Eigenheimweg 5",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Franz\u00f6sisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Italienisch",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 10
             }
         ],
-        "vorname": "Doritha",
-        "weiblich": true
+        "vorname": "Hardi",
+        "weiblich": false
     }
 }

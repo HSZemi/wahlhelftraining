@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1697535,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1660297,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "04.07.1995",
-        "matrikelnummer": 2287734,
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "09.03.1985",
+        "matrikelnummer": 2637217,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Weyand",
-        "plzort": "53222 Bonn",
+        "nachname": "Freyer",
+        "plzort": "18299 Dolgen",
         "sternchen": 0,
-        "strasse": "Hainsberger Stra\u00dfe 1",
+        "strasse": "Rosenschulweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 13
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
                 "fsem": 5
             }
         ],
-        "vorname": "Traudi",
-        "weiblich": true
+        "vorname": "Clemens",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1483593,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1956036,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "14.02.1994",
-        "matrikelnummer": 3139001,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 7,
+        "geburtsdatum": "25.10.1993",
+        "matrikelnummer": 2138783,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kaufhold",
-        "plzort": "53213 Bonn",
+        "nachname": "Stolte",
+        "plzort": "53111 Bonn",
         "sternchen": 0,
-        "strasse": "Lohm\u00fchlenstra\u00dfe 21",
+        "strasse": "Elsasser Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 7
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Tierwissenschaften",
+                "fsem": 1
             }
         ],
-        "vorname": "Gerolf",
+        "vorname": "Fabian",
         "weiblich": false
     }
 }

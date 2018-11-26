@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2385643,
-    "semester": "Sommersemester 2017",
+    "nummer": 1678511,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "09.10.1991",
-        "matrikelnummer": 177584,
+        "fakultaet": 0,
+        "geburtsdatum": "27.12.1995",
+        "matrikelnummer": 120297,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Franck",
-        "plzort": "53211 Bonn",
+        "nachname": "Germann",
+        "plzort": "53226 Bonn",
         "sternchen": 0,
-        "strasse": "Gackensteinweg 5a",
+        "strasse": "Rauchstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
                 "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 10
             }
         ],
-        "vorname": "Christl",
+        "vorname": "Anette",
         "weiblich": true
     }
 }

@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1867180,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1624712,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "02.06.1990",
-        "matrikelnummer": 178792,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "01.08.1989",
+        "matrikelnummer": 2425115,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Langen",
-        "plzort": "53191 Bonn",
+        "nachname": "Wende",
+        "plzort": "37081 G\u00f6ttingen",
         "sternchen": 0,
-        "strasse": "Ooser Friedrichstra\u00dfe 0",
+        "strasse": "Saydaer Stra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Psychologie",
-                "fsem": 8
+                "abschluss": "LA BA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Latein",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 13
             }
         ],
-        "vorname": "Elwira",
+        "vorname": "Marhild",
         "weiblich": true
     }
 }

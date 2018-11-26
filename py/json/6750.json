@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2411169,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2626805,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "09.03.1998",
-        "matrikelnummer": 2532052,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": true,
+        "fakultaet": 5,
+        "geburtsdatum": "04.03.1995",
+        "matrikelnummer": 2860594,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Jordan",
-        "plzort": "53166 Bonn",
+        "nachname": "Wendel",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "Hermann-Michel-Stra\u00dfe 4",
+        "strasse": "Am Platzl 8",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Latein",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Informatik",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 11
+                "abschluss": "Master of Arts",
+                "fach": "Applied Linguistics",
+                "fsem": 13
             }
         ],
-        "vorname": "Heidegunde",
-        "weiblich": true
+        "vorname": "Oswin",
+        "weiblich": false
     }
 }

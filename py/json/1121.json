@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2600002,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2116457,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 0,
-        "geburtsdatum": "16.04.1999",
-        "matrikelnummer": 13357,
+        "beurlaubt": false,
+        "fakultaet": 4,
+        "geburtsdatum": "28.07.1993",
+        "matrikelnummer": 11145,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wollmann",
-        "plzort": "53158 Bonn",
+        "nachname": "Pfisterer",
+        "plzort": "48317 Drensteinfurt",
         "sternchen": 0,
-        "strasse": "Im Sechholder 13",
+        "strasse": "Keppgrund 3",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Science",
                 "fach": "Life Science Informatics",
-                "fsem": 11
+                "fsem": 6
             }
         ],
-        "vorname": "Willma",
+        "vorname": "Hertha",
         "weiblich": true
     }
 }

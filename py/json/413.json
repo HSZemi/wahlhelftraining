@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1963482,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1481877,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "13.01.1997",
-        "matrikelnummer": 18281,
+        "fakultaet": 1,
+        "geburtsdatum": "15.06.1997",
+        "matrikelnummer": 3174522,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53161 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53208 Bonn",
         "sternchen": 0,
-        "strasse": "Heinrich-Seliger-Stra\u00dfe 37",
+        "strasse": "Henriette-F\u00fcrth-Stra\u00dfe 5",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 1
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
+                "fach": "Rechtswissenschaft",
                 "fsem": 4
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

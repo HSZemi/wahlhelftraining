@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1700017,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1950419,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "12.10.1998",
-        "matrikelnummer": 2072048,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 8,
+        "geburtsdatum": "06.05.1987",
+        "matrikelnummer": 15440,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Peitz",
-        "plzort": "53217 Bonn",
+        "nachname": "Bohlen",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "Gewerbepark 7",
+        "strasse": "Am Burgberg 14",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
-                "fsem": 4
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Geographie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Deutsch",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
-        "vorname": "Eva",
+        "vorname": "Nada",
         "weiblich": true
     }
 }

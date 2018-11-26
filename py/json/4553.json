@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2584649,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2565780,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "23.06.1999",
-        "matrikelnummer": 2928913,
+        "fakultaet": 2,
+        "geburtsdatum": "20.04.1993",
+        "matrikelnummer": 2672902,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kilian",
-        "plzort": "53159 Bonn",
+        "nachname": "Hannemann",
+        "plzort": "53213 Bonn",
         "sternchen": 0,
-        "strasse": "Martin-Andersen-Nex\u00f6-Stra\u00dfe 4",
+        "strasse": "Gelbehirschstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 12
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 6
             }
         ],
-        "vorname": "Gisbert",
-        "weiblich": false
+        "vorname": "Ilsetraut",
+        "weiblich": true
     }
 }

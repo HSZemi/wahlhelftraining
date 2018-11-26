@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1669851,
+    "nummer": 2602954,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "25.11.1997",
-        "matrikelnummer": 2971862,
+        "fakultaet": 9,
+        "geburtsdatum": "16.07.1992",
+        "matrikelnummer": 2068630,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wei\u00dfenborn",
-        "plzort": "53156 Bonn",
+        "nachname": "Krause",
+        "plzort": "53137 Bonn",
         "sternchen": 0,
-        "strasse": "Haubentaucherweg 5",
+        "strasse": "Krippener Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geod\u00e4sie und Geoinformation",
-                "fsem": 13
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 7
+            },
+            {
+                "abschluss": "LA MA Gym Ge",
+                "fach": "Katholische Religionslehre",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Sozialwissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 12
             }
         ],
-        "vorname": "Hubertine",
-        "weiblich": true
+        "vorname": "Friedl",
+        "weiblich": false
     }
 }

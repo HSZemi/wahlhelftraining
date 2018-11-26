@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2140668,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1894524,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "23.09.1996",
-        "matrikelnummer": 13194,
+        "fakultaet": 0,
+        "geburtsdatum": "27.11.1989",
+        "matrikelnummer": 2726757,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dudek",
-        "plzort": "53118 Bonn",
+        "nachname": "Brune",
+        "plzort": "53150 Bonn",
         "sternchen": 0,
-        "strasse": "Lepsiusstra\u00dfe 19",
+        "strasse": "Londoner Stra\u00dfe 7",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Rechtswissenschaft",
-                "fsem": 8
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Benedikt",
+        "vorname": "Donat",
         "weiblich": false
     }
 }

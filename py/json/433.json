@@ -1,28 +1,38 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1022165,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 1910233,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "10.08.1997",
-        "matrikelnummer": 2558683,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
+        "fakultaet": 8,
+        "geburtsdatum": "08.11.1989",
+        "matrikelnummer": 2599276,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
         "nachname": "Heinen",
-        "plzort": "53222 Bonn",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Anckelmannsplatz 2",
+        "strasse": "Josefstr. 0e",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Altkatholische Theologie",
-                "fsem": 2
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 9
             }
         ],
         "vorname": "Marcel",

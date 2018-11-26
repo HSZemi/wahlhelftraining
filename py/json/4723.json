@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2165766,
+    "nummer": 2829872,
     "semester": "Wintersemester 2017/2018",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "06.12.1990",
-        "matrikelnummer": 2353427,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 9,
+        "geburtsdatum": "02.06.1991",
+        "matrikelnummer": 3111885,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kalisch",
-        "plzort": "53192 Bonn",
+        "nachname": "Hellmich",
+        "plzort": "34599 Neuental",
         "sternchen": 0,
-        "strasse": "Gro\u00dfheidesteg 19",
+        "strasse": "Milchweg 51",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 10
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
-        "vorname": "Kati",
+        "vorname": "Madita",
         "weiblich": true
     }
 }

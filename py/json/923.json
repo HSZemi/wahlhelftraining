@@ -1,41 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1371847,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2438894,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 8,
-        "geburtsdatum": "05.07.1997",
-        "matrikelnummer": 14165,
+        "geburtsdatum": "19.05.1989",
+        "matrikelnummer": 162134,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Junghans",
-        "plzort": "53229 Bonn",
+        "nachname": "Hillenbrand",
+        "plzort": "53175 Bonn",
         "sternchen": 0,
-        "strasse": "Reuterweg 0",
+        "strasse": "Ludwig-Jahn-Stra\u00dfe 49",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Biologie",
-                "fsem": 9
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Markt und Konsum",
+                "fsem": 5
             },
             {
                 "abschluss": "",
-                "fach": "Chemie",
-                "fsem": 9
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "fsem": 5
             }
         ],
-        "vorname": "Kristin",
-        "weiblich": true
+        "vorname": "Norman",
+        "weiblich": false
     }
 }

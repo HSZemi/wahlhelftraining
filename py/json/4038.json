@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1830830,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2352046,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "28.12.1995",
-        "matrikelnummer": 3134961,
+        "fakultaet": 6,
+        "geburtsdatum": "21.01.1984",
+        "matrikelnummer": 2297718,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Patzelt",
-        "plzort": "53205 Bonn",
+        "nachname": "Hohn",
+        "plzort": "53218 Bonn",
         "sternchen": 0,
-        "strasse": "Ezzostr. 3",
+        "strasse": "Seckbacher Bitzweg 20",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Chemistry",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Franz",
+        "vorname": "Till",
         "weiblich": false
     }
 }

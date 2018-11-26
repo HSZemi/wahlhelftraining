@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2048027,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1633209,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "26.11.1998",
-        "matrikelnummer": 18000,
+        "beurlaubt": false,
+        "fakultaet": 2,
+        "geburtsdatum": "17.12.1997",
+        "matrikelnummer": 2394647,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6ft",
-        "plzort": "53141 Bonn",
+        "nachname": "Kanzler",
+        "plzort": "03205 Laasow",
         "sternchen": 0,
-        "strasse": "Leubener Weg 24",
+        "strasse": "Rudolfstra\u00dfe 18",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 5
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Semra",
-        "weiblich": true
+        "vorname": "Falkmar",
+        "weiblich": false
     }
 }

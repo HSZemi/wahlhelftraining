@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2924332,
+    "nummer": 1854962,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.03.1994",
-        "matrikelnummer": 2645075,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 4,
+        "geburtsdatum": "19.10.1997",
+        "matrikelnummer": 2265112,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Habermann",
-        "plzort": "17209 Rogeez",
+        "nachname": "Heintz",
+        "plzort": "49808 Lingen",
         "sternchen": 0,
-        "strasse": "Vorwerkstra\u00dfe 16",
+        "strasse": "Heydenreichweg 9",
         "studienfaecher": [
             {
+                "abschluss": "Staatsex.",
+                "fach": "Medizin",
+                "fsem": 4
+            },
+            {
                 "abschluss": "Master of Science",
-                "fach": "Mikrobiologie",
-                "fsem": 7
+                "fach": "Economics",
+                "fsem": 2
             }
         ],
-        "vorname": "Violetta",
+        "vorname": "Jaqueline",
         "weiblich": true
     }
 }

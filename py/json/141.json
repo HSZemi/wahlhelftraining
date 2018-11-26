@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1035028,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2332204,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "12.11.1997",
-        "matrikelnummer": 145803,
+        "fakultaet": 6,
+        "geburtsdatum": "05.03.1992",
+        "matrikelnummer": 2456369,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Zemantek",
-        "plzort": "53153 Bonn",
+        "nachname": "Heinen",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "Oliverstra\u00dfe 10",
+        "strasse": "Trachenberger Platz 4",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Public Health",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Geographie",
+                "fsem": 1
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

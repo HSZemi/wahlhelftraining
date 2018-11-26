@@ -1,41 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2932081,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2043013,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "07.10.1992",
-        "matrikelnummer": 1940250,
+        "fakultaet": 4,
+        "geburtsdatum": "11.05.1992",
+        "matrikelnummer": 2874425,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schulten",
-        "plzort": "29472 Damnatz",
+        "nachname": "Frisch",
+        "plzort": "53168 Bonn",
         "sternchen": 0,
-        "strasse": "Wasserweg 1",
+        "strasse": "Gartengasse 7",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 3
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Public Health",
+                "fsem": 6
             },
             {
-                "abschluss": "",
-                "fach": "Tierwissenschaften (Tierhaltung)",
-                "fsem": 3
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Evangelische Theologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Erno",
+        "vorname": "Herwald",
         "weiblich": false
     }
 }

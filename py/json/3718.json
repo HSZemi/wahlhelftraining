@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2997320,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2479370,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "10.11.1990",
-        "matrikelnummer": 2435176,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "21.05.1995",
+        "matrikelnummer": 2933852,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kothe",
-        "plzort": "53111 Bonn",
+        "nachname": "Risse",
+        "plzort": "53162 Bonn",
         "sternchen": 0,
-        "strasse": "D\u00e4umlingtwiete 0",
+        "strasse": "Leutewitzer Stra\u00dfe 13",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Geography of Environmental Risks and Human Security",
-                "fsem": 8
+                "fach": "Life Science Informatics",
+                "fsem": 4
             }
         ],
-        "vorname": "Albert",
+        "vorname": "Hugo",
         "weiblich": false
     }
 }

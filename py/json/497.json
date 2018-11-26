@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1278969,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2457029,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "18.04.1999",
-        "matrikelnummer": 2908364,
+        "fakultaet": 5,
+        "geburtsdatum": "27.03.1996",
+        "matrikelnummer": 2310825,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Zemantek",
-        "plzort": "53189 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Heinen",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Oberfeldstra\u00dfe 15",
+        "strasse": "Medinger Stra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 3
+                "abschluss": "Bachelor of Arts",
+                "fach": "Chinesisch",
+                "fsem": 13
+            },
+            {
+                "abschluss": "",
+                "fach": "Medienwissenschaft",
+                "fsem": 13
             }
         ],
-        "vorname": "Sven",
-        "weiblich": true
+        "vorname": "Marcel",
+        "weiblich": false
     }
 }

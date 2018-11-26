@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1696444,
-    "semester": "Sommersemester 2017",
+    "nummer": 2092889,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.02.1994",
-        "matrikelnummer": 2051697,
+        "fakultaet": 6,
+        "geburtsdatum": "12.06.1993",
+        "matrikelnummer": 2346752,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Krau\u00dfe",
-        "plzort": "19089 Ruthenbeck",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Hierl",
+        "plzort": "93189 Reichenbach",
         "sternchen": 0,
-        "strasse": "Am Haidenberg 6",
+        "strasse": "Lohm\u00fchlenstra\u00dfe 3",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Islamwissenschaft/Nahostsprachen",
-                "fsem": 12
-            },
-            {
-                "abschluss": "",
-                "fach": "Hispanistik",
-                "fsem": 12
+                "fach": "Geographie",
+                "fsem": 1
             }
         ],
-        "vorname": "Alhard",
+        "vorname": "Eberhardt",
         "weiblich": false
     }
 }

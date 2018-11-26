@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": false
     },
-    "nummer": 1035118,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1303654,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "25.11.1993",
-        "matrikelnummer": 2770492,
+        "fakultaet": 5,
+        "geburtsdatum": "27.05.1999",
+        "matrikelnummer": 2151793,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Israel",
-        "plzort": "53117 Bonn",
+        "nachname": "G\u00fcnter",
+        "plzort": "53196 Bonn",
         "sternchen": 0,
-        "strasse": "Waldhofweg 1",
+        "strasse": "Kannengie\u00dfergasse 14",
         "studienfaecher": [
             {
                 "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 10
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Arzneimittelforschung (Drug Research)",
-                "fsem": 9
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Eddi",
-        "weiblich": false
+        "vorname": "Monica",
+        "weiblich": true
     }
 }

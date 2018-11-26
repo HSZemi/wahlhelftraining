@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2855660,
-    "semester": "Sommersemester 2017",
+    "nummer": 2152728,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 1,
-        "geburtsdatum": "09.10.1997",
-        "matrikelnummer": 2314135,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 3,
+        "geburtsdatum": "27.10.1992",
+        "matrikelnummer": 124290,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Breit",
-        "plzort": "53122 Bonn",
+        "nachname": "Joachim",
+        "plzort": "53149 Bonn",
         "sternchen": 0,
-        "strasse": "Baxmannweg 13",
+        "strasse": "Am Olter 1",
         "studienfaecher": [
             {
                 "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 6
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 2
             }
         ],
-        "vorname": "Winfriede",
+        "vorname": "Walli",
         "weiblich": true
     }
 }

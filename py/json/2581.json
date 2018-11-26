@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1319875,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1169673,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "25.02.1995",
-        "matrikelnummer": 2345593,
+        "fakultaet": 5,
+        "geburtsdatum": "24.05.1993",
+        "matrikelnummer": 18464,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "B\u00f6ttcher",
-        "plzort": "53134 Bonn",
+        "nachname": "Pagel",
+        "plzort": "53139 Bonn",
         "sternchen": 0,
-        "strasse": "Kirchstra\u00dfe 9",
+        "strasse": "Untere Hafnerstra\u00dfe 14",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Gym Ge",
-                "fach": "Mathematik",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Deutsch",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Master of Science",
+                "fach": "Psychologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Heinfried",
-        "weiblich": false
+        "vorname": "Alice",
+        "weiblich": true
     }
 }

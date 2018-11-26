@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1399481,
+    "nummer": 1626817,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 6,
-        "geburtsdatum": "03.10.1995",
-        "matrikelnummer": 3188401,
-        "mehrfachausfertigung": 1,
+        "beurlaubt": false,
+        "fakultaet": 0,
+        "geburtsdatum": "04.05.1999",
+        "matrikelnummer": 154179,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wei\u00dfer",
-        "plzort": "53229 Bonn",
+        "nachname": "Baltes",
+        "plzort": "53170 Bonn",
         "sternchen": 0,
-        "strasse": "An den Postwiesen 7",
+        "strasse": "Eckhardtstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Geowissenschaften",
-                "fsem": 12
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 3
             }
         ],
-        "vorname": "Volker",
-        "weiblich": false
+        "vorname": "Judith",
+        "weiblich": true
     }
 }

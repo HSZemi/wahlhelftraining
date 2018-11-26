@@ -4,28 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2119333,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1462367,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "13.01.1995",
-        "matrikelnummer": 2569537,
+        "ausweistyp": "regulaer",
+        "beurlaubt": false,
+        "fakultaet": 8,
+        "geburtsdatum": "26.09.1986",
+        "matrikelnummer": 3001437,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Molitor",
-        "plzort": "53166 Bonn",
+        "nachname": "Holtkamp",
+        "plzort": "53146 Bonn",
         "sternchen": 0,
-        "strasse": "Rechte Hauptzeile 2",
+        "strasse": "Renkfeldweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Zahnmedizin",
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
                 "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Siegrid",
+        "vorname": "Marlinde",
         "weiblich": true
     }
 }

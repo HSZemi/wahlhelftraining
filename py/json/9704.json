@@ -4,28 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1764894,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2694818,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "18.10.1996",
-        "matrikelnummer": 179860,
+        "beurlaubt": true,
+        "fakultaet": 4,
+        "geburtsdatum": "22.01.1989",
+        "matrikelnummer": 19532,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reiners",
-        "plzort": "53203 Bonn",
+        "nachname": "M\u00f6llmann",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Friedrich-Press-Stra\u00dfe 13",
+        "strasse": "Karl-Strutz-Weg 10",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (ev.)",
-                "fach": "Evangelische Theologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 6
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Bonifaz",
-        "weiblich": false
+        "vorname": "Ester",
+        "weiblich": true
     }
 }

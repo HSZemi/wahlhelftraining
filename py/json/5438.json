@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1602807,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2551382,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 5,
-        "geburtsdatum": "24.11.1991",
-        "matrikelnummer": 2933501,
-        "mehrfachausfertigung": 4,
+        "beurlaubt": false,
+        "fakultaet": 7,
+        "geburtsdatum": "18.11.1988",
+        "matrikelnummer": 3058214,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Patzer",
-        "plzort": "53202 Bonn",
+        "nachname": "K\u00f6lbl",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Am Seifzerbach 32",
+        "strasse": "Grafenstra\u00dfe 2a",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Franz\u00f6sistik",
-                "fsem": 11
-            },
-            {
-                "abschluss": "",
-                "fach": "Koreanisch",
-                "fsem": 11
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Sinologie",
-                "fsem": 7
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 10
             }
         ],
-        "vorname": "Biggy",
-        "weiblich": true
+        "vorname": "Harry",
+        "weiblich": false
     }
 }

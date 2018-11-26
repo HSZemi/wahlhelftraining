@@ -4,28 +4,33 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1288186,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2092524,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.07.1997",
-        "matrikelnummer": 2033694,
+        "fakultaet": 5,
+        "geburtsdatum": "13.07.1999",
+        "matrikelnummer": 168736,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Holland",
-        "plzort": "53112 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Wenzel",
+        "plzort": "53171 Bonn",
         "sternchen": 0,
-        "strasse": "Tabulatorweg 14",
+        "strasse": "Hermann-Wendel-Stra\u00dfe 28",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 10
+                "abschluss": "Bachelor of Arts",
+                "fach": "Kunstgeschichte und Arch\u00e4ologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "",
+                "fach": "Kommunikationswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Diethard",
-        "weiblich": false
+        "vorname": "Waldburga",
+        "weiblich": true
     }
 }

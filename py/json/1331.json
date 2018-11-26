@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1853070,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2412928,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.05.1997",
-        "matrikelnummer": 2891504,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 8,
+        "geburtsdatum": "01.11.1997",
+        "matrikelnummer": 2424366,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Geissler",
-        "plzort": "18059 P\u00f6lchow",
+        "nachname": "Friesen",
+        "plzort": "53209 Bonn",
         "sternchen": 0,
-        "strasse": "Hellerhofstra\u00dfe 3",
+        "strasse": "Bei der Vogelstange 0b",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Begleitfach Rechtswissenschaft",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Agrarwissenschaft",
+                "fsem": 1
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Katy",
-        "weiblich": true
+        "vorname": "Waldemar",
+        "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1359623,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2047489,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "19.03.1999",
-        "matrikelnummer": 2242260,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "06.04.1994",
+        "matrikelnummer": 2006066,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brockmann",
-        "plzort": "74821 Mosbach",
+        "nachname": "Andersen",
+        "plzort": "53165 Bonn",
         "sternchen": 0,
-        "strasse": "M\u00fcnzenberger Stra\u00dfe 2",
+        "strasse": "Leubnitzer Stra\u00dfe 25",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
+                "fach": "Volkswirtschaftslehre",
                 "fsem": 11
+            },
+            {
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Siglinde",
-        "weiblich": true
+        "vorname": "Eugen",
+        "weiblich": false
     }
 }

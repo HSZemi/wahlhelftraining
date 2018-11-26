@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": true
+        "sp": false
     },
-    "nummer": 1734460,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2679816,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "17.10.1985",
-        "matrikelnummer": 2623954,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 4,
+        "geburtsdatum": "23.10.1999",
+        "matrikelnummer": 151516,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Petersen",
-        "plzort": "53220 Bonn",
+        "nachname": "D\u00fcck",
+        "plzort": "53157 Bonn",
         "sternchen": 0,
-        "strasse": "Fuchsbergredder 8",
+        "strasse": "Josef-Kindshofen-Str. 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Chemie",
-                "fsem": 6
-            },
-            {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 1
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 7
             }
         ],
-        "vorname": "Ellinor",
+        "vorname": "Irmelin",
         "weiblich": true
     }
 }

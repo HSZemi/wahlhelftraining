@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2696642,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1614100,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 3,
-        "geburtsdatum": "04.04.1994",
-        "matrikelnummer": 17057,
-        "mehrfachausfertigung": 5,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "17.08.1994",
+        "matrikelnummer": 2797891,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Dressel",
-        "plzort": "53223 Bonn",
+        "nachname": "Hardt",
+        "plzort": "53148 Bonn",
         "sternchen": 0,
-        "strasse": "Falkensteinplatz 8",
+        "strasse": "Gei\u00dfleinweg 1",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Geowissenschaften",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Ecumenical Studies",
+                "fsem": 1
             }
         ],
-        "vorname": "Irmgardt",
-        "weiblich": true
+        "vorname": "Bertram",
+        "weiblich": false
     }
 }

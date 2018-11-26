@@ -1,33 +1,28 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1504564,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2616382,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "16.01.1992",
-        "matrikelnummer": 15992,
-        "mehrfachausfertigung": 2,
+        "geburtsdatum": "24.10.1993",
+        "matrikelnummer": 2232536,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "53145 Bonn",
+        "plzort": "53154 Bonn",
         "sternchen": 0,
-        "strasse": "Kuhwaldstra\u00dfe, Bockenheim 33",
+        "strasse": "Daniel-Bartels-Weg 1",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Ernaehrungswiss.",
-                "fsem": 10
+                "abschluss": "Med.Doc/Doc.of Philosophy",
+                "fach": "Experimentelle Medizin",
+                "fsem": 4
             }
         ],
         "vorname": "Sven",

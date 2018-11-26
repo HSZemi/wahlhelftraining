@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2181866,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2869405,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "15.10.1988",
-        "matrikelnummer": 2569544,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 3,
+        "geburtsdatum": "03.12.1991",
+        "matrikelnummer": 2078127,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wein",
-        "plzort": "53229 Bonn",
+        "nachname": "M\u00fcnz",
+        "plzort": "06132 Halle",
         "sternchen": 0,
-        "strasse": "Querstra\u00dfe 4",
+        "strasse": "Luftbadstra\u00dfe 4",
         "studienfaecher": [
             {
-                "abschluss": "Master",
-                "fach": "Drug Regulatory Affairs",
+                "abschluss": "Promotion",
+                "fach": "Rechtswissenschaft",
+                "fsem": 11
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
                 "fsem": 9
             }
         ],
-        "vorname": "Vera",
+        "vorname": "Kata",
         "weiblich": true
     }
 }

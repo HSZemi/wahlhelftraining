@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2097885,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1859210,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "24.10.1984",
-        "matrikelnummer": 2712984,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "23.09.1999",
+        "matrikelnummer": 2222200,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Diederich",
-        "plzort": "06188 Schwerz",
+        "nachname": "Knoth",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Laschoberstra\u00dfe 7",
+        "strasse": "Niederh\u00e4slicher Weg 12a",
         "studienfaecher": [
             {
-                "abschluss": "Promotion o.Ab.Astronomie",
-                "fach": "Astronomie/Astrophysik",
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Psychologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
                 "fsem": 13
             }
         ],
-        "vorname": "Diether",
+        "vorname": "Hilfried",
         "weiblich": false
     }
 }

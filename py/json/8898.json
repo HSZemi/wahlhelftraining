@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2608057,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2296728,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "10.05.1996",
-        "matrikelnummer": 2154776,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 3,
+        "geburtsdatum": "20.11.1990",
+        "matrikelnummer": 14251,
+        "mehrfachausfertigung": 3,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schewe",
-        "plzort": "53126 Bonn",
+        "nachname": "Hoffmeister",
+        "plzort": "26553 Dornum",
         "sternchen": 0,
-        "strasse": "Seeheimer Stra\u00dfe 43",
+        "strasse": "Bedrich-Smetana-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Geschichte",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Griechisch",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Bachelor of Laws",
+                "fach": "Law and Economics",
+                "fsem": 10
             }
         ],
-        "vorname": "Sibyl",
-        "weiblich": true
+        "vorname": "Velten",
+        "weiblich": false
     }
 }

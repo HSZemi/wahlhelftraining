@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1504400,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2519365,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.02.1989",
-        "matrikelnummer": 16791,
+        "fakultaet": 1,
+        "geburtsdatum": "19.03.1988",
+        "matrikelnummer": 18930,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heinen",
-        "plzort": "53196 Bonn",
+        "nachname": "Zemantek",
+        "plzort": "53202 Bonn",
         "sternchen": 0,
-        "strasse": "Am Marienbad 3",
+        "strasse": "Neue Rothofstra\u00dfe 2d",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 3
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Marcel",
-        "weiblich": false
+        "vorname": "Sven",
+        "weiblich": true
     }
 }

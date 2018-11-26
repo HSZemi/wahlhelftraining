@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2392842,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2300321,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "12.03.1998",
-        "matrikelnummer": 19321,
+        "fakultaet": 6,
+        "geburtsdatum": "21.02.1997",
+        "matrikelnummer": 12941,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Pietzsch",
-        "plzort": "53208 Bonn",
+        "nachname": "Zipfel",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Halleystra\u00dfe 15",
+        "strasse": "Krieschendorfer Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Evangelische Theologie und Hermeneutik",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 4
             }
         ],
-        "vorname": "Jens",
-        "weiblich": false
+        "vorname": "Conny",
+        "weiblich": true
     }
 }

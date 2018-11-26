@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2041123,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1770315,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "05.05.1999",
-        "matrikelnummer": 3038414,
+        "fakultaet": 6,
+        "geburtsdatum": "10.05.1996",
+        "matrikelnummer": 1957409,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bauch",
-        "plzort": "53136 Bonn",
+        "nachname": "G\u00f6dde",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Eschweger Stra\u00dfe 2",
+        "strasse": "Schreivoglstr. 11",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Epidemiologie",
-                "fsem": 6
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
+                "fsem": 4
             }
         ],
-        "vorname": "Cindy",
-        "weiblich": true
+        "vorname": "Bolko",
+        "weiblich": false
     }
 }

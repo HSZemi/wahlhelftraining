@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
+        "gremien": false,
         "sp": true
     },
-    "nummer": 2737313,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2381039,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.06.1989",
-        "matrikelnummer": 1938886,
+        "fakultaet": 8,
+        "geburtsdatum": "09.05.1993",
+        "matrikelnummer": 2202024,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Nitsche",
-        "plzort": "53219 Bonn",
+        "nachname": "Sch\u00f6nberg",
+        "plzort": "17337 Uckerland",
         "sternchen": 0,
-        "strasse": "Altstrehlen 23",
+        "strasse": "Obere Hafnerstra\u00dfe 16",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 12
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+                "fsem": 3
             },
             {
-                "abschluss": "Master of Science",
-                "fach": "Psychologie",
-                "fsem": 13
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Gottwald",
-        "weiblich": false
+        "vorname": "Rosamarie",
+        "weiblich": true
     }
 }

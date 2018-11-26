@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2651603,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1265017,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "06.01.1993",
-        "matrikelnummer": 2346654,
+        "fakultaet": 2,
+        "geburtsdatum": "22.03.1986",
+        "matrikelnummer": 3081855,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heidemann",
-        "plzort": "53174 Bonn",
+        "nachname": "Gl\u00e4ser",
+        "plzort": "53161 Bonn",
         "sternchen": 0,
-        "strasse": "Pillnitzer Stra\u00dfe 13",
+        "strasse": "Perronstra\u00dfe 30",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 4
             }
         ],
-        "vorname": "Ludmilla",
-        "weiblich": true
+        "vorname": "Norwin",
+        "weiblich": false
     }
 }

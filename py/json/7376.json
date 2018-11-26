@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1828952,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2363849,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
         "fakultaet": 4,
-        "geburtsdatum": "08.06.1999",
-        "matrikelnummer": 2435844,
-        "mehrfachausfertigung": 1,
+        "geburtsdatum": "22.09.1999",
+        "matrikelnummer": 2435076,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bergen",
-        "plzort": "53122 Bonn",
+        "nachname": "Geissler",
+        "plzort": "53156 Bonn",
         "sternchen": 0,
-        "strasse": "An den Schie\u00dfh\u00fctten 9",
+        "strasse": "Sankt-Rochus-Stra\u00dfe 16",
         "studienfaecher": [
             {
                 "abschluss": "Staatsex.",
                 "fach": "Zahnmedizin",
-                "fsem": 12
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Lebensmittelchemie",
-                "fsem": 3
+                "fsem": 6
             }
         ],
-        "vorname": "Hanswalter",
-        "weiblich": false
+        "vorname": "Katarina",
+        "weiblich": true
     }
 }

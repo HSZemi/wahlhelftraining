@@ -4,43 +4,43 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 2387466,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1554587,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "15.06.1994",
-        "matrikelnummer": 12514,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "21.11.1999",
+        "matrikelnummer": 2673105,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Kirschbaum",
-        "plzort": "53155 Bonn",
+        "nachname": "Wiegand",
+        "plzort": "53120 Bonn",
         "sternchen": 0,
-        "strasse": "In der Warth 10",
+        "strasse": "Am Querweg 9",
         "studienfaecher": [
             {
+                "abschluss": "Bachelor of Science",
+                "fach": "Agrarwissenschaften",
+                "fsem": 10
+            },
+            {
                 "abschluss": "LA BA Gym Ge",
-                "fach": "Physik",
-                "fsem": 7
+                "fach": "Philosophie",
+                "fsem": 12
             },
             {
                 "abschluss": "",
-                "fach": "Griechisch",
-                "fsem": 7
+                "fach": "Englisch",
+                "fsem": 12
             },
             {
                 "abschluss": "",
                 "fach": "Bildungswissenschaften",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Medizinische Psychologie",
-                "fsem": 13
+                "fsem": 4
             }
         ],
-        "vorname": "Volkhard",
+        "vorname": "Gereon",
         "weiblich": false
     }
 }

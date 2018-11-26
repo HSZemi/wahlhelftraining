@@ -4,33 +4,38 @@
         "gremien": false,
         "sp": false
     },
-    "nummer": 1750365,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2282625,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "06.11.1994",
-        "matrikelnummer": 2977258,
+        "fakultaet": 8,
+        "geburtsdatum": "16.05.1989",
+        "matrikelnummer": 127690,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Golz",
-        "plzort": "53214 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Pelz",
+        "plzort": "46535 Dinslaken",
         "sternchen": 0,
-        "strasse": "Franz-Liszt-Gasse 7",
+        "strasse": "Bernusstra\u00dfe 1",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 7
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
             },
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 12
+                "abschluss": "",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Ingrid",
-        "weiblich": true
+        "vorname": "Timo",
+        "weiblich": false
     }
 }

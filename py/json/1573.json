@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2970752,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2145746,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "12.05.1993",
-        "matrikelnummer": 2656538,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 9,
+        "geburtsdatum": "21.06.1995",
+        "matrikelnummer": 191841,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Licht",
-        "plzort": "53171 Bonn",
+        "nachname": "Sch\u00e4fer",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Oppacher Stra\u00dfe 9",
+        "strasse": "Maukestieg 9",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 5
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 10
             }
         ],
-        "vorname": "Wolfbert",
-        "weiblich": false
+        "vorname": "Otti",
+        "weiblich": true
     }
 }

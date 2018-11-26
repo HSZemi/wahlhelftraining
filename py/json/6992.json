@@ -1,36 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2641998,
-    "semester": "Sommersemester 2017",
+    "nummer": 1188066,
+    "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 0,
-        "geburtsdatum": "26.04.1993",
-        "matrikelnummer": 2350492,
+        "fakultaet": 5,
+        "geburtsdatum": "19.11.1998",
+        "matrikelnummer": 2422000,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Herr",
-        "plzort": "76891 Bundenthal",
+        "nachname": "Buse",
+        "plzort": "53194 Bonn",
         "sternchen": 0,
-        "strasse": "Ludwig-Jahn-Stra\u00dfe 3",
+        "strasse": "Oskar-Maune-Stra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Entwicklungsforschung",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Koreanisch",
+                "fsem": 12
             },
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 1
+                "abschluss": "",
+                "fach": "Lateinamerika- und Altamerikastudien",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Bachelor of Science",
+                "fach": "Volkswirtschaftslehre",
+                "fsem": 9
             }
         ],
-        "vorname": "Manuela",
-        "weiblich": true
+        "vorname": "Eitelbert",
+        "weiblich": false
     }
 }

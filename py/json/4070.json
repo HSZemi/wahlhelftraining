@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 4,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1109545,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1694827,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "18.04.1990",
-        "matrikelnummer": 2316755,
-        "mehrfachausfertigung": 4,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Grell",
-        "plzort": "53194 Bonn",
+        "fakultaet": 6,
+        "geburtsdatum": "04.03.1992",
+        "matrikelnummer": 2832572,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
+        "nachname": "Reichle",
+        "plzort": "03253 Buchhain",
         "sternchen": 0,
-        "strasse": "Siedlung in der Aue 14",
+        "strasse": "Langsatzweg 3d",
         "studienfaecher": [
+            {
+                "abschluss": "Master of Science",
+                "fach": "Astrophysik",
+                "fsem": 6
+            },
             {
                 "abschluss": "Master",
                 "fach": "Rechtspsychologie",
-                "fsem": 4
+                "fsem": 3
             }
         ],
-        "vorname": "Marlitt",
+        "vorname": "Burgunde",
         "weiblich": true
     }
 }

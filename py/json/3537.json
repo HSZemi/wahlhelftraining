@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1047163,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2949741,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "17.01.1988",
-        "matrikelnummer": 2508604,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "18.04.1999",
+        "matrikelnummer": 3033021,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Brucker",
-        "plzort": "53113 Bonn",
+        "nachname": "Kaspar",
+        "plzort": "53114 Bonn",
         "sternchen": 0,
-        "strasse": "Wasgaustra\u00dfe 20",
+        "strasse": "Sturzstr. 2",
         "studienfaecher": [
             {
-                "abschluss": "Magister Theologiae (kath.)",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 4
             }
         ],
-        "vorname": "Annemie",
-        "weiblich": true
+        "vorname": "Steff",
+        "weiblich": false
     }
 }

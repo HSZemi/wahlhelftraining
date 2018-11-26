@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1408668,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1729272,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "03.06.1991",
-        "matrikelnummer": 3002275,
+        "fakultaet": 7,
+        "geburtsdatum": "25.08.1997",
+        "matrikelnummer": 2524061,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Reim",
-        "plzort": "53130 Bonn",
+        "nachname": "Marek",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Max-H\u00fcnig-Stra\u00dfe 29",
+        "strasse": "Maxie-Wander-Stra\u00dfe 6",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
-                "fsem": 12
-            },
-            {
                 "abschluss": "Master of Science",
-                "fach": "Life Science Informatics",
-                "fsem": 10
+                "fach": "Agricultural and Food Economics",
+                "fsem": 1
             }
         ],
-        "vorname": "Fred",
+        "vorname": "Ehrenreich",
         "weiblich": false
     }
 }

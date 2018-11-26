@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2385098,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2318983,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.01.1999",
-        "matrikelnummer": 2518063,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "07.05.1992",
+        "matrikelnummer": 2300206,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Rosenbaum",
-        "plzort": "30657 Hannover",
+        "nachname": "Hauber",
+        "plzort": "20251 Hamburg",
         "sternchen": 0,
-        "strasse": "Maulbeerenstra\u00dfe 10",
+        "strasse": "Platanenstra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 7
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
+                "abschluss": "Bachelor of Science",
+                "fach": "Psychologie",
+                "fsem": 12
             }
         ],
-        "vorname": "Augustinus",
-        "weiblich": false
+        "vorname": "Birke",
+        "weiblich": true
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1325406,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1164312,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "03.01.1983",
-        "matrikelnummer": 2211252,
+        "beurlaubt": true,
+        "fakultaet": 7,
+        "geburtsdatum": "08.06.1999",
+        "matrikelnummer": 2395640,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinmetz",
-        "plzort": "53121 Bonn",
+        "nachname": "Uhl",
+        "plzort": "53176 Bonn",
         "sternchen": 0,
-        "strasse": "F\u00fcrstenwalder Stra\u00dfe 7b",
+        "strasse": "Ganghoferstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Pharmazie",
-                "fsem": 6
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Gundhilde",
+        "vorname": "Emmy",
         "weiblich": true
     }
 }

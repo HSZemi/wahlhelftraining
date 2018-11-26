@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2886344,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2156050,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "08.02.1992",
-        "matrikelnummer": 15574,
+        "fakultaet": 3,
+        "geburtsdatum": "16.06.1984",
+        "matrikelnummer": 145257,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Dohrmann",
-        "plzort": "53190 Bonn",
+        "mitglied_studierendenschaft": false,
+        "nachname": "Emmerich",
+        "plzort": "53122 Bonn",
         "sternchen": 0,
-        "strasse": "Tonbergstra\u00dfe 11",
+        "strasse": "Rodbertusstra\u00dfe 8",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Medizin",
-                "fsem": 3
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 6
             }
         ],
-        "vorname": "Dierk",
+        "vorname": "Till",
         "weiblich": false
     }
 }

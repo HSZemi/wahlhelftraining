@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1321481,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1231547,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "04.01.1989",
-        "matrikelnummer": 2911617,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Rempel",
-        "plzort": "93464 Tiefenbach",
+        "fakultaet": 9,
+        "geburtsdatum": "03.11.1989",
+        "matrikelnummer": 2384287,
+        "mehrfachausfertigung": 2,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Huppertz",
+        "plzort": "53188 Bonn",
         "sternchen": 0,
-        "strasse": "Kleinh\u00f6fleiner Streusiedlung 1",
+        "strasse": "Georg-Wolff-Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Wirtschafts- und Sozialwissenschaften des Landbaus",
-                "fsem": 4
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 4
+                "abschluss": "Master of Science",
+                "fach": "Economics",
+                "fsem": 9
             }
         ],
-        "vorname": "Berenike",
-        "weiblich": true
+        "vorname": "Erdwin",
+        "weiblich": false
     }
 }

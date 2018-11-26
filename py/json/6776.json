@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
+        "gremien": true,
         "sp": false
     },
-    "nummer": 1741016,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1595536,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "27.04.1994",
-        "matrikelnummer": 3196197,
+        "fakultaet": 4,
+        "geburtsdatum": "26.08.1991",
+        "matrikelnummer": 19443,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wagner",
-        "plzort": "53134 Bonn",
+        "nachname": "Plum",
+        "plzort": "53182 Bonn",
         "sternchen": 0,
-        "strasse": "Eulenweg 9",
+        "strasse": "Kirchweg 68",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Geowissenschaften",
-                "fsem": 10
+                "abschluss": "Master",
+                "fach": "Klinische Medizintechnik",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 13
             }
         ],
-        "vorname": "Marita",
-        "weiblich": true
+        "vorname": "Jonny",
+        "weiblich": false
     }
 }

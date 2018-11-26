@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1604907,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2728077,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "13.05.1993",
-        "matrikelnummer": 2188848,
+        "fakultaet": 2,
+        "geburtsdatum": "08.07.1992",
+        "matrikelnummer": 2779182,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Epp",
-        "plzort": "03238 Eichholz-Dr\u00f6\u00dfig",
+        "nachname": "Eberle",
+        "plzort": "22525 Hamburg",
         "sternchen": 0,
-        "strasse": "Cretzschmarstra\u00dfe 3",
+        "strasse": "Am Haidenberg 6",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Katholische Theologie",
-                "fsem": 8
+                "abschluss": "Master of Arts",
+                "fach": "Evangelische Theologie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 4
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 4
             }
         ],
-        "vorname": "Madleine",
-        "weiblich": true
+        "vorname": "Nicky",
+        "weiblich": false
     }
 }

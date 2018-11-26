@@ -2,45 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2075743,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2296039,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.10.1994",
-        "matrikelnummer": 2630661,
+        "fakultaet": 2,
+        "geburtsdatum": "03.08.1995",
+        "matrikelnummer": 2002533,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Keck",
-        "plzort": "53188 Bonn",
+        "nachname": "Arnold",
+        "plzort": "53189 Bonn",
         "sternchen": 0,
-        "strasse": "Mozartplatz 7",
+        "strasse": "Bindingstra\u00dfe 15",
         "studienfaecher": [
             {
-                "abschluss": "Doctor of Philosophy",
-                "fach": "Versorgungsforschung",
+                "abschluss": "Magister Theologiae (ev.)",
+                "fach": "Evangelische Theologie",
+                "fsem": 9
+            },
+            {
+                "abschluss": "Promotion",
+                "fach": "Entwicklungsforschung",
                 "fsem": 11
-            },
-            {
-                "abschluss": "LA MA Berufskolleg",
-                "fach": "Agrarwissenschaft",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
             }
         ],
-        "vorname": "Anneli",
-        "weiblich": true
+        "vorname": "Markward",
+        "weiblich": false
     }
 }

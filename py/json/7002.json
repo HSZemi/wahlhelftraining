@@ -1,36 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1000708,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2630083,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "09.02.1988",
-        "matrikelnummer": 2837502,
+        "fakultaet": 1,
+        "geburtsdatum": "18.08.1996",
+        "matrikelnummer": 2629046,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bergen",
-        "plzort": "53163 Bonn",
+        "nachname": "Heiden",
+        "plzort": "53133 Bonn",
         "sternchen": 0,
-        "strasse": "An der Christuskirche 21d",
+        "strasse": "Gronauer Stra\u00dfe 0",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Politik und Gesellschaft",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Keltologie",
-                "fsem": 2
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 1
             }
         ],
-        "vorname": "Gustel",
+        "vorname": "Kl\u00e4re",
         "weiblich": true
     }
 }

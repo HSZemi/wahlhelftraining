@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2472552,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2045072,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "26.06.1991",
-        "matrikelnummer": 2688051,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": true,
+        "fakultaet": 2,
+        "geburtsdatum": "16.03.1988",
+        "matrikelnummer": 13321,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hotz",
-        "plzort": "53138 Bonn",
+        "nachname": "E\u00dfer",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Wolfsh\u00fcgelstra\u00dfe 23",
+        "strasse": "Kroogbl\u00f6cke 10c",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Physik",
-                "fsem": 4
+                "abschluss": "Bachelor of Arts",
+                "fach": "Evangelische Theologie und Hermeneutik",
+                "fsem": 3
+            },
+            {
+                "abschluss": "Master of Science",
+                "fach": "Life Science Informatics",
+                "fsem": 7
             }
         ],
-        "vorname": "Goswin",
-        "weiblich": false
+        "vorname": "Malve",
+        "weiblich": true
     }
 }

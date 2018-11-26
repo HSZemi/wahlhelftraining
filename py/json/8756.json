@@ -1,41 +1,31 @@
 {
-    "ausfertigung": 5,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2861927,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1147919,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "04.01.1992",
-        "matrikelnummer": 1905197,
-        "mehrfachausfertigung": 5,
+        "fakultaet": 4,
+        "geburtsdatum": "18.08.1999",
+        "matrikelnummer": 3062125,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Tauber",
-        "plzort": "53148 Bonn",
+        "nachname": "Kleiner",
+        "plzort": "53113 Bonn",
         "sternchen": 0,
-        "strasse": "Hoher Weg 7",
+        "strasse": "Josef-Fenzl-Stra\u00dfe 13",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Gym Ge",
-                "fach": "Spanisch",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Philosophie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Master of Science",
+                "fach": "Neurosciences",
+                "fsem": 12
             }
         ],
-        "vorname": "Schorsch",
-        "weiblich": false
+        "vorname": "Richarda",
+        "weiblich": true
     }
 }

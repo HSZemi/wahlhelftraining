@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1208668,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2366321,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "15.01.1996",
-        "matrikelnummer": 2872768,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "06.03.1993",
+        "matrikelnummer": 2016401,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Matthiesen",
-        "plzort": "25821 Almdorf",
+        "nachname": "Weing\u00e4rtner",
+        "plzort": "99955 Horns\u00f6mmern",
         "sternchen": 0,
-        "strasse": "Marie-Curie-Stra\u00dfe 2",
+        "strasse": "Dracheng\u00e4\u00dfchen 5",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Rechtswissenschaft",
-                "fsem": 2
-            },
-            {
-                "abschluss": "Promotion",
-                "fach": "Evangelische Theologie",
-                "fsem": 4
+                "abschluss": "Doctor of Philosophy",
+                "fach": "Medizinische Soziologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Rose-Marie",
-        "weiblich": true
+        "vorname": "Ottomar",
+        "weiblich": false
     }
 }

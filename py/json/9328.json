@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2763923,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2985327,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "21.07.1996",
-        "matrikelnummer": 2294656,
+        "fakultaet": 7,
+        "geburtsdatum": "25.10.1999",
+        "matrikelnummer": 2252531,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Steinm\u00fcller",
-        "plzort": "54673 Bauler",
+        "nachname": "B\u00e4hr",
+        "plzort": "53211 Bonn",
         "sternchen": 0,
-        "strasse": "An der Herrenwiese 11",
+        "strasse": "L\u00fcneburger Schanze 5c",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 10
+                "abschluss": "Staatsex.",
+                "fach": "Lebensmittelchemie",
+                "fsem": 2
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "North American Studies",
+                "fsem": 6
             }
         ],
-        "vorname": "Hansgerd",
+        "vorname": "Siegenot",
         "weiblich": false
     }
 }

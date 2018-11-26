@@ -1,36 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2389971,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2829214,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "22.07.1994",
-        "matrikelnummer": 2212588,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 2,
+        "geburtsdatum": "22.05.1994",
+        "matrikelnummer": 17938,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gra\u00dfl",
-        "plzort": "53206 Bonn",
+        "nachname": "Brinkmann",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Waldwiesenstr. 13b",
+        "strasse": "Einbaumstra\u00dfe 2",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Humanern\u00e4hrung",
-                "fsem": 9
+                "abschluss": "Promotion",
+                "fach": "Evangelische Theologie",
+                "fsem": 4
             },
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 1
+                "abschluss": "Magister",
+                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
+                "fsem": 11
             }
         ],
-        "vorname": "Hasso",
+        "vorname": "Samuel",
         "weiblich": false
     }
 }

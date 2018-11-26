@@ -1,31 +1,41 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2550636,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2898498,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "21.05.1989",
-        "matrikelnummer": 3104762,
+        "fakultaet": 8,
+        "geburtsdatum": "16.10.1994",
+        "matrikelnummer": 2807841,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gerner",
-        "plzort": "86150 Augsburg",
+        "nachname": "Neuner",
+        "plzort": "53158 Bonn",
         "sternchen": 0,
-        "strasse": "An der Telle 1",
+        "strasse": "Pompeselstieg 17",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Medizin",
-                "fsem": 3
+                "abschluss": "LA BA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 2
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 2
             }
         ],
-        "vorname": "Theodolinde",
-        "weiblich": true
+        "vorname": "Reiner",
+        "weiblich": false
     }
 }

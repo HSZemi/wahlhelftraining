@@ -1,38 +1,28 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2983776,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1642231,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "28.12.1994",
-        "matrikelnummer": 3158876,
-        "mehrfachausfertigung": 3,
-        "mitglied_studierendenschaft": false,
+        "fakultaet": 1,
+        "geburtsdatum": "18.02.1993",
+        "matrikelnummer": 3175341,
+        "mehrfachausfertigung": 1,
+        "mitglied_studierendenschaft": true,
         "nachname": "Zemantek",
-        "plzort": "53151 Bonn",
+        "plzort": "96181 Rauhenebrach",
         "sternchen": 0,
-        "strasse": "Am Pilz 2",
+        "strasse": "Frauenhoferstr. 4",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Markt und Konsum",
-                "fsem": 5
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 9
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Katholische Theologie",
+                "fsem": 11
             }
         ],
         "vorname": "Sven",

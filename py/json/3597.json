@@ -1,31 +1,41 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1986388,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2803949,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "01.01.1985",
-        "matrikelnummer": 2546366,
-        "mehrfachausfertigung": 2,
+        "beurlaubt": true,
+        "fakultaet": 8,
+        "geburtsdatum": "26.10.1994",
+        "matrikelnummer": 3080314,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Hildebrandt",
-        "plzort": "88483 Burgrieden",
+        "nachname": "Domke",
+        "plzort": "25821 Breklum",
         "sternchen": 0,
-        "strasse": "Am Salzhaus 4",
+        "strasse": "Am Alten Elbarm 0",
         "studienfaecher": [
             {
-                "abschluss": "Promotion",
-                "fach": "Volkswirtschaftslehre",
-                "fsem": 5
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Agrarwissenschaft",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Lebensmitteltechnologie (Lebensmitteltechnik)",
+                "fsem": 3
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 3
             }
         ],
-        "vorname": "Rupertus",
+        "vorname": "Heinfried",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 5,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1704821,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1023151,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "14.10.1996",
-        "matrikelnummer": 2064510,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 6,
+        "geburtsdatum": "26.08.1990",
+        "matrikelnummer": 2789292,
+        "mehrfachausfertigung": 5,
         "mitglied_studierendenschaft": true,
-        "nachname": "H\u00f6ller",
-        "plzort": "91238 Offenhausen",
+        "nachname": "Zenker",
+        "plzort": "53123 Bonn",
         "sternchen": 0,
-        "strasse": "Paul-Arnsberg-Platz 4",
+        "strasse": "Guerickestra\u00dfe 1",
         "studienfaecher": [
             {
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 3
+            },
+            {
                 "abschluss": "Promotion",
-                "fach": "Katholische Theologie",
-                "fsem": 2
+                "fach": "Neurowissenschaften",
+                "fsem": 8
             }
         ],
-        "vorname": "Waltrude",
-        "weiblich": true
+        "vorname": "Edwin",
+        "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1643398,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2111201,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "02.11.1996",
-        "matrikelnummer": 2126664,
+        "fakultaet": 7,
+        "geburtsdatum": "16.06.1997",
+        "matrikelnummer": 1994271,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schiebel",
-        "plzort": "53146 Bonn",
+        "nachname": "Schwab",
+        "plzort": "53191 Bonn",
         "sternchen": 0,
-        "strasse": "Petrikirchstra\u00dfe 7",
+        "strasse": "Neue Siedlung 13",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 13
+                "abschluss": "Master of Science",
+                "fach": "Humanern\u00e4hrung",
+                "fsem": 3
             }
         ],
-        "vorname": "Ansbert",
-        "weiblich": false
+        "vorname": "Gieselind",
+        "weiblich": true
     }
 }

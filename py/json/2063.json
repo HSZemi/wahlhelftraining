@@ -1,36 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1187243,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2300361,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 1,
-        "geburtsdatum": "22.03.1998",
-        "matrikelnummer": 2406730,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "11.04.1995",
+        "matrikelnummer": 163996,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Fu\u00df",
-        "plzort": "53128 Bonn",
+        "nachname": "Brink",
+        "plzort": "53178 Bonn",
         "sternchen": 0,
-        "strasse": "Geranienweg 47",
+        "strasse": "Unterer Kreutberg 2",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Katholische Theologie",
-                "fsem": 9
-            },
-            {
-                "abschluss": "Master of Arts",
-                "fach": "Extended Ecumenical Studies",
-                "fsem": 4
+                "abschluss": "Promotion",
+                "fach": "Medizin",
+                "fsem": 10
             }
         ],
-        "vorname": "Irmentraud",
+        "vorname": "Annelies",
         "weiblich": true
     }
 }

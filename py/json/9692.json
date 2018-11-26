@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 2,
+    "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2998451,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1574066,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 2,
-        "geburtsdatum": "10.07.1983",
-        "matrikelnummer": 2588385,
-        "mehrfachausfertigung": 2,
+        "fakultaet": 6,
+        "geburtsdatum": "12.07.1991",
+        "matrikelnummer": 2927185,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "K\u00fcster",
-        "plzort": "53188 Bonn",
+        "nachname": "Bohne",
+        "plzort": "53117 Bonn",
         "sternchen": 0,
-        "strasse": "An der Turnhalle 2",
+        "strasse": "Zum Sportplatz 7",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 12
+                "abschluss": "Master",
+                "fach": "Katastrophenvorsorge und Katastrophenmanagement",
+                "fsem": 6
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Katholische Theologie",
+                "fsem": 10
             }
         ],
-        "vorname": "Hetty",
-        "weiblich": true
+        "vorname": "Gerlach",
+        "weiblich": false
     }
 }

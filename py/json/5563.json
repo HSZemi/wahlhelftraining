@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1488772,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1807150,
+    "semester": "Sommersemester 2018",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 6,
-        "geburtsdatum": "18.03.1998",
-        "matrikelnummer": 124813,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "24.07.1990",
+        "matrikelnummer": 132958,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Berlin",
-        "plzort": "53130 Bonn",
+        "nachname": "Seibel",
+        "plzort": "53164 Bonn",
         "sternchen": 0,
-        "strasse": "R\u00fcckersbr\u00fccke 5",
+        "strasse": "Waldheimer Stra\u00dfe 10c",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Geographie",
-                "fsem": 3
-            },
-            {
-                "abschluss": "Bachelor of Arts",
-                "fach": "Vergleichende Religionswissenschaft",
-                "fsem": 13
-            },
-            {
-                "abschluss": "",
-                "fach": "Keltologie",
-                "fsem": 13
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 8
             }
         ],
-        "vorname": "Aloisius",
-        "weiblich": false
+        "vorname": "Roslinda",
+        "weiblich": true
     }
 }

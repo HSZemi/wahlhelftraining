@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1046248,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1618402,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 9,
-        "geburtsdatum": "12.07.1985",
-        "matrikelnummer": 2586259,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 5,
+        "geburtsdatum": "25.08.1995",
+        "matrikelnummer": 176974,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Harder",
-        "plzort": "72149 Neustetten",
+        "nachname": "H\u00f6lzel",
+        "plzort": "53223 Bonn",
         "sternchen": 0,
-        "strasse": "Spitalanger 1",
+        "strasse": "Nixenweg 0",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Economics",
-                "fsem": 6
+                "abschluss": "Bachelor of Arts",
+                "fach": "Asiatische und Orientalische Schwerpunktsprachen",
+                "fsem": 10
+            },
+            {
+                "abschluss": "",
+                "fach": "English Studies",
+                "fsem": 10
             }
         ],
-        "vorname": "Simpert",
-        "weiblich": false
+        "vorname": "Marhild",
+        "weiblich": true
     }
 }

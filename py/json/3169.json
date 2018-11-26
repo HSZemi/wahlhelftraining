@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2370230,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1379766,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 7,
-        "geburtsdatum": "27.08.1996",
-        "matrikelnummer": 3197539,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 5,
+        "geburtsdatum": "13.06.1994",
+        "matrikelnummer": 3131805,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Bonn",
-        "plzort": "03205 Mlode",
+        "nachname": "Grafe",
+        "plzort": "53124 Bonn",
         "sternchen": 0,
-        "strasse": "Josef Reichl-Gasse 0",
+        "strasse": "Textorstra\u00dfe 10",
         "studienfaecher": [
             {
-                "abschluss": "Bachelor of Science",
-                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
-                "fsem": 13
+                "abschluss": "Bachelor of Arts",
+                "fach": "Hispanistik",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Koreanisch",
+                "fsem": 5
             }
         ],
-        "vorname": "Wilhelm",
+        "vorname": "Gregor",
         "weiblich": false
     }
 }

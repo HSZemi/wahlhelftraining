@@ -1,31 +1,36 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 2402780,
+    "nummer": 1406240,
     "semester": "Wintersemester 2017/2018",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "07.11.1991",
-        "matrikelnummer": 2967710,
+        "fakultaet": 5,
+        "geburtsdatum": "06.02.1997",
+        "matrikelnummer": 2753148,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "M\u00e4rz",
-        "plzort": "53219 Bonn",
+        "nachname": "Heumann",
+        "plzort": "53180 Bonn",
         "sternchen": 0,
-        "strasse": "Im Heidenfeld 5",
+        "strasse": "Mildred-Scheel-Stra\u00dfe 22",
         "studienfaecher": [
             {
-                "abschluss": "Magister",
-                "fach": "Deutsches Recht f\u00fcr im Ausland graduierte Juristen",
-                "fsem": 2
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch als Zweit- und Fremdsprache",
+                "fsem": 6
+            },
+            {
+                "abschluss": "",
+                "fach": "Lateinische Literatur der Antike und ihr Fortleben",
+                "fsem": 6
             }
         ],
-        "vorname": "Edelinde",
-        "weiblich": true
+        "vorname": "Eugen",
+        "weiblich": false
     }
 }

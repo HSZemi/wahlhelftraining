@@ -2,30 +2,35 @@
     "ausfertigung": 1,
     "loecher": {
         "gremien": false,
-        "sp": false
+        "sp": true
     },
-    "nummer": 2692375,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1229569,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 4,
-        "geburtsdatum": "25.08.1996",
-        "matrikelnummer": 192624,
+        "ausweistyp": "zweithoerer",
+        "beurlaubt": false,
+        "fakultaet": 5,
+        "geburtsdatum": "21.01.1996",
+        "matrikelnummer": 2041534,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Frost",
-        "plzort": "67752 Oberweiler-Tiefenbach",
+        "nachname": "Korte",
+        "plzort": "53220 Bonn",
         "sternchen": 0,
-        "strasse": "Haigerer Stra\u00dfe 1",
+        "strasse": "Obere K\u00f6nigstr. 10",
         "studienfaecher": [
             {
-                "abschluss": "Master of Science",
-                "fach": "Neurosciences",
-                "fsem": 8
+                "abschluss": "Bachelor of Arts",
+                "fach": "Deutsch-Italienische Studien",
+                "fsem": 12
+            },
+            {
+                "abschluss": "",
+                "fach": "S\u00fcdostasienwissenschaft",
+                "fsem": 6
             }
         ],
-        "vorname": "Hanns",
-        "weiblich": false
+        "vorname": "Anna-Lena",
+        "weiblich": true
     }
 }

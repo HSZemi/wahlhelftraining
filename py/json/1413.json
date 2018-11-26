@@ -1,31 +1,46 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 2772090,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2803973,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": true,
-        "fakultaet": 2,
-        "geburtsdatum": "17.05.1996",
-        "matrikelnummer": 2694628,
+        "beurlaubt": false,
+        "fakultaet": 6,
+        "geburtsdatum": "07.08.1993",
+        "matrikelnummer": 1904575,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Heise",
-        "plzort": "04509 Zschortau",
+        "nachname": "Sanders",
+        "plzort": "53145 Bonn",
         "sternchen": 0,
-        "strasse": "Welschgrabenstra\u00dfe 2",
+        "strasse": "Klettenbergstra\u00dfe 1c",
         "studienfaecher": [
             {
-                "abschluss": "Kirchl.Ex.",
-                "fach": "Evangelische Theologie",
-                "fsem": 7
+                "abschluss": "Master",
+                "fach": "Drug Regulatory Affairs",
+                "fsem": 5
+            },
+            {
+                "abschluss": "LA MA Berufskolleg",
+                "fach": "Pflanzenwissenschaften (Pflanzenbau)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Tierwissenschaften (Tierhaltung)",
+                "fsem": 5
+            },
+            {
+                "abschluss": "",
+                "fach": "Bildungswissenschaften",
+                "fsem": 5
             }
         ],
-        "vorname": "Frohmut",
+        "vorname": "Wilma",
         "weiblich": true
     }
 }

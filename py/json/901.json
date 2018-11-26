@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 2067701,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1536495,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "16.10.1992",
-        "matrikelnummer": 113606,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 4,
+        "geburtsdatum": "12.09.1999",
+        "matrikelnummer": 167241,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Wei\u00dfer",
-        "plzort": "53211 Bonn",
+        "nachname": "Rohmann",
+        "plzort": "53144 Bonn",
         "sternchen": 0,
-        "strasse": "Am Hafen 13",
+        "strasse": "Fersenfeldtsweg 1c",
         "studienfaecher": [
             {
                 "abschluss": "Promotion",
-                "fach": "Klassische Arch\u00e4ologie",
-                "fsem": 7
+                "fach": "Medizin",
+                "fsem": 8
+            },
+            {
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 5
             }
         ],
-        "vorname": "Reimund",
+        "vorname": "Helfried",
         "weiblich": false
     }
 }

@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 3,
+    "ausfertigung": 1,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1750556,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1650106,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
         "beurlaubt": false,
-        "fakultaet": 4,
-        "geburtsdatum": "17.04.1984",
-        "matrikelnummer": 19463,
-        "mehrfachausfertigung": 3,
+        "fakultaet": 0,
+        "geburtsdatum": "20.07.1999",
+        "matrikelnummer": 2496682,
+        "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Gruber",
-        "plzort": "53162 Bonn",
+        "nachname": "Wehrmann",
+        "plzort": "53193 Bonn",
         "sternchen": 0,
-        "strasse": "Rhonestra\u00dfe 5",
+        "strasse": "Estewiesen 30",
         "studienfaecher": [
             {
-                "abschluss": "Med.Doc/Doc.of Philosophy",
-                "fach": "Experimentelle Medizin",
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 12
+            },
+            {
+                "abschluss": "Promotion o.Ab.Astronomie",
+                "fach": "Astronomie/Astrophysik",
                 "fsem": 11
             }
         ],
-        "vorname": "Helena",
+        "vorname": "Richarda",
         "weiblich": true
     }
 }

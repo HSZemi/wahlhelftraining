@@ -1,31 +1,31 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 2,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1266177,
-    "semester": "Wintersemester 2016/2017",
+    "nummer": 2589370,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "regulaer",
+        "ausweistyp": "zweithoerer",
         "beurlaubt": false,
-        "fakultaet": 3,
-        "geburtsdatum": "16.02.1991",
-        "matrikelnummer": 2634210,
-        "mehrfachausfertigung": 1,
+        "fakultaet": 2,
+        "geburtsdatum": "07.04.1994",
+        "matrikelnummer": 2818693,
+        "mehrfachausfertigung": 2,
         "mitglied_studierendenschaft": true,
-        "nachname": "Schmelzer",
-        "plzort": "54597 Olzheim",
+        "nachname": "Bl\u00fcmel",
+        "plzort": "53200 Bonn",
         "sternchen": 0,
-        "strasse": "Prangerstra\u00dfe 7e",
+        "strasse": "Am Landigt 39a",
         "studienfaecher": [
             {
-                "abschluss": "Master of Laws",
-                "fach": "Deutsches Recht",
-                "fsem": 7
+                "abschluss": "Master of Arts",
+                "fach": "Extended Ecumenical Studies",
+                "fsem": 10
             }
         ],
-        "vorname": "Ludolf",
+        "vorname": "Oliver",
         "weiblich": false
     }
 }

@@ -1,31 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": false,
-        "sp": false
+        "gremien": true,
+        "sp": true
     },
-    "nummer": 1097802,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1218416,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
         "ausweistyp": "regulaer",
-        "beurlaubt": false,
-        "fakultaet": 5,
-        "geburtsdatum": "04.07.1990",
-        "matrikelnummer": 16470,
+        "beurlaubt": true,
+        "fakultaet": 0,
+        "geburtsdatum": "24.09.1992",
+        "matrikelnummer": 2985885,
         "mehrfachausfertigung": 1,
         "mitglied_studierendenschaft": true,
-        "nachname": "Ringel",
-        "plzort": "39638 Zichtau",
+        "nachname": "Kalisch",
+        "plzort": "53174 Bonn",
         "sternchen": 0,
-        "strasse": "Wed 11",
+        "strasse": "Georgenstr. 7",
         "studienfaecher": [
             {
-                "abschluss": "Master of Arts",
-                "fach": "Griechische und Lateinische Literatur der Antike und ihr Fortleben",
-                "fsem": 4
+                "abschluss": "Kirchl.Ex.",
+                "fach": "Altkatholische Theologie",
+                "fsem": 7
             }
         ],
-        "vorname": "Alheid",
+        "vorname": "Annetraud",
         "weiblich": true
     }
 }

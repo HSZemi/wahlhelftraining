@@ -1,31 +1,36 @@
 {
-    "ausfertigung": 1,
+    "ausfertigung": 3,
     "loecher": {
         "gremien": false,
         "sp": false
     },
-    "nummer": 1012236,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 1830360,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "zweithoerer",
+        "ausweistyp": "weiterbildung",
         "beurlaubt": false,
         "fakultaet": 7,
-        "geburtsdatum": "07.09.1996",
-        "matrikelnummer": 2608515,
-        "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": true,
-        "nachname": "Sperber",
-        "plzort": "53171 Bonn",
+        "geburtsdatum": "14.08.1987",
+        "matrikelnummer": 2546057,
+        "mehrfachausfertigung": 3,
+        "mitglied_studierendenschaft": false,
+        "nachname": "Krenz",
+        "plzort": "53159 Bonn",
         "sternchen": 0,
-        "strasse": "Ockerwitzer Stra\u00dfe 6",
+        "strasse": "Bachstelzenweg 9",
         "studienfaecher": [
             {
-                "abschluss": "Staatsex.",
-                "fach": "Lebensmittelchemie",
-                "fsem": 11
+                "abschluss": "Promotion",
+                "fach": "Ern\u00e4hrungs- und Lebensmittelwissenschaften",
+                "fsem": 1
+            },
+            {
+                "abschluss": "Bachelor of Arts",
+                "fach": "Begleitfach Rechtswissenschaft",
+                "fsem": 3
             }
         ],
-        "vorname": "Edelinde",
-        "weiblich": true
+        "vorname": "Wilhardt",
+        "weiblich": false
     }
 }

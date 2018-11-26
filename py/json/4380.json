@@ -1,41 +1,31 @@
 {
     "ausfertigung": 1,
     "loecher": {
-        "gremien": true,
-        "sp": true
+        "gremien": false,
+        "sp": false
     },
-    "nummer": 1379721,
-    "semester": "Wintersemester 2017/2018",
+    "nummer": 2974215,
+    "semester": "Wintersemester 2018/2019",
     "stud": {
-        "ausweistyp": "weiterbildung",
-        "beurlaubt": false,
-        "fakultaet": 8,
-        "geburtsdatum": "01.06.1987",
-        "matrikelnummer": 2385252,
+        "ausweistyp": "regulaer",
+        "beurlaubt": true,
+        "fakultaet": 6,
+        "geburtsdatum": "11.02.1998",
+        "matrikelnummer": 2185036,
         "mehrfachausfertigung": 1,
-        "mitglied_studierendenschaft": false,
-        "nachname": "Neubert",
-        "plzort": "53182 Bonn",
+        "mitglied_studierendenschaft": true,
+        "nachname": "Gr\u00fctzner",
+        "plzort": "53212 Bonn",
         "sternchen": 0,
-        "strasse": "Sankt-Antoni-Stra\u00dfe 15",
+        "strasse": "Saarbr\u00fccker Stra\u00dfe 3",
         "studienfaecher": [
             {
-                "abschluss": "LA BA Berufskolleg",
-                "fach": "Markt und Konsum",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Ern\u00e4hrungs- und Hauswirtschaftswissenschaft",
-                "fsem": 2
-            },
-            {
-                "abschluss": "",
-                "fach": "Bildungswissenschaften",
-                "fsem": 2
+                "abschluss": "Staatsex.",
+                "fach": "Pharmazie",
+                "fsem": 4
             }
         ],
-        "vorname": "Tanja",
-        "weiblich": true
+        "vorname": "Jonas",
+        "weiblich": false
     }
 }
